@@ -43,3 +43,4 @@ A subproject of `umineko-scripting`, for annotating/de-annotating translation sc
 ## Current Limitations
 
 - A bug has been found: I.e. ```d `+`Bốn đứa tụi tôi đang tán gẫu đủ chuyện trên trời dưới đất.`[\]``` is wrongly converted to ``` `+` ``` since the annotator misinterprets the `+` as the string to be annotated. Beware of this when using the annotator. A fix will be provided in future updates. Contributions are welcome!
+- Note 2: Seems that it was the original Vietnamese script being faulty (due to my own script compiler misbehaving). Closing this for now.
