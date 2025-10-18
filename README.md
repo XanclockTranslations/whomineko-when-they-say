@@ -39,3 +39,7 @@ A subproject of `umineko-scripting`, for annotating/de-annotating translation sc
   ```bash
   python deannotate.py [-h] [--in-dir IN_DIR] [--out-dir OUT_DIR]
   ```
+
+## Current Limitations
+
+- A bug has been found: I.e. ```d `+`Bốn đứa tụi tôi đang tán gẫu đủ chuyện trên trời dưới đất.`[\]``` is wrongly converted to ``` `+` ``` since the annotator misinterprets the `+` as the string to be annotated. Beware of this when using the annotator. A fix will be provided in future updates. Contributions are welcome!
