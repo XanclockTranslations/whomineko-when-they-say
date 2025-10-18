@@ -43,4 +43,13 @@ A subproject of `umineko-scripting`, for annotating/de-annotating translation sc
 ## Current Limitations
 
 - A bug has been found: I.e. ```d `+`Bốn đứa tụi tôi đang tán gẫu đủ chuyện trên trời dưới đất.`[\]``` is wrongly converted to ``` `+` ``` since the annotator misinterprets the `+` as the string to be annotated. Beware of this when using the annotator. A fix will be provided in future updates. Contributions are welcome!
-- Note 2: Seems that it was the original Vietnamese script being faulty (due to my own script compiler misbehaving). Closing this for now.
+  - Note: Seems that it was the original Vietnamese script being faulty (due to my own script compiler misbehaving). Closing this for now.
+
+- Another bug has been fault: The propagation is malfunctioning at some points, i.e. why does char_kum (Kumasawa) appear when the line is spoken by Battler?
+
+```txt
+char_kum: `The four of us cousins were shooting the breeze over all kinds of topics.`
+char_kum: `After all, there are both girls and guys here, plus, we've got people over a wide spread of ages: adult, high school, and elementary school.`
+char_kum: `All each of us had to do was talk about ourselves, and it would be of great interest to the other three.`
+char_but: `"I think I'm finally getting used to all this.`
+```
