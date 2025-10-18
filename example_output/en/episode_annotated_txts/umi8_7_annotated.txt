@@ -1,0 +1,1302 @@
+char_eva: `"Who should we get a puzzle from next?"`
+char_enj: `"What about those two?"`
+char_eva: `"Shannon‐chan and Kanon‐kun?`
+char_eva: ` Sure, it looks like they'll put up a good fight."`
+char_sha: `"Do you need something, Eva‐sama and Ange‐sama?"`
+char_kan: `"......Don't be stupid, Nee‐san.`
+char_kan: ` They're asking us for puzzles."`
+char_sha: `"Ah, m‐my apologies."`
+char_non: `Shannon was as absentminded as ever.`
+char_non: `However, Kanon looked extremely calm, and would probably have a well‐polished puzzle ready.`
+char_sha: `"Ummm, uhhh..............."`
+char_kan: `"......Haah.`
+char_kan: ` Okay, I'll go first.`
+char_kan: ` While Nee‐san thinks up a puzzle."`
+char_sha: `"O‐okay. Sorry..."`
+char_kan: `"So, if I'm buying time for Nee‐san to think up a puzzle, I'll have to make one tricky enough to keep you stumped for a while."`
+char_eva: `"Eheheheheh, you've got guts, kid.`
+char_eva: ` Let's have it, shall we?`
+char_eva: ` Show us the hardest one you've got!"`
+char_enj: `"Don't provoke him!`
+char_enj: ` I want an easy one!"`
+char_kan: `"Now that I have Eva‐sama's permission, allow me to present an insanely difficult puzzle."`
+char_eva: `"Leave this to me.`
+char_eva: ` I'll solve it!"`
+char_enj: `"The numbers of coins are really different, and kind of weird."`
+char_eva: `"Wait a second, Kanon‐kun! What are you thinking?!`
+char_eva: ` There's no way she'll be able to get this one, right?!"`
+char_kan: `"This is just to buy time until Nee‐san can think up a question, so forgive me."`
+char_sha: `"Th‐thank you...!`
+char_sha: ` I've thought of a question...!"`
+char_kan: `"......Understood.`
+char_kan: ` Now then, Eva‐sama and Ange‐sama.`
+char_kan: ` I'll give you a hint.`
+char_kan: ` .........Copper is 29, silver is 47, and gold is 79.`
+char_kan: ` That's the hint."`
+char_enj: `"That's just what you said in the question...!`
+char_enj: ` That's not a hint!"`
+char_eva: `".........Copper is 29?`
+char_eva: ` Silver is 47??`
+char_eva: ` ...............Oh, so that's it!"`
+char_enj: `"Huh?`
+char_enj: ` You got it?!`
+char_enj: ` I get it too!`
+char_enj: ` Platinum is better than gold, so the prize must be more than 79 gold coins!"`
+char_eva: `"That's wrong.`
+char_eva: ` With these rules, the platinum prize is probably worth less than the gold prize.`
+char_eva: ` Isn't that right?"`
+char_kan: `"......It is as you say.`
+char_kan: ` It seems you've already found the answer."`
+char_eva: `"This puzzle is impossible for Ange‐chan.`
+char_eva: ` You'd need to have gone to middle school at the very least.`
+char_eva: ` I'll answer!`
+char_eva: ` Is that alright, Ange‐chan?"`
+char_enj: `"S‐sure.`
+char_enj: ` I'll leave it to you...!"`
+char_kan: `"Incorrect."`
+char_eva: `"Aaaaaaaahhh, sorry, I messed up!!`
+char_eva: ` If only I'd taken science class more seriously!"`
+char_enj: `"What do you mean?`
+char_enj: ` I don't get it."`
+char_eva: `"The number of gold coins is the atomic number for each element.`
+char_eva: ` Copper is 29, silver is 47, and gold is 79.`
+char_eva: ` I can't remember what number platinum was...!!"`
+char_enj: `"I don't have a clue what you're talking about."`
+char_eva: `"You!`
+char_eva: ` What kind of problem do you think you're giving Ange‐chan?!`
+char_eva: ` Can't you put a little more thought into your puzzles?!"`
+char_kan: `"You did give me permission to show her the hardest one I've got."`
+char_enj: `"......That's right.`
+char_enj: ` You said it yourself.`
+char_enj: ` That's why we got a puzzle that was too hard for me."`
+char_eva: `"Nnggggggggggghhhh...!!`
+char_eva: ` S‐......sorry, Ange‐chan..."`
+char_non: `Auntie Eva put her hands together in apology.`
+char_non: `It was just too hard, and I didn't have a clue......`
+char_kan: `".........Correct."`
+char_enj: `"Awesome, Auntie Eva!`
+char_enj: ` Why?!`
+char_enj: ` Why is it 78 coins?!`
+char_enj: ` If platinum is better than gold, then why does gold get more coins?!"`
+char_eva: `"The number of coins you get is always the same as the atomic number of the prize.`
+char_eva: ` Copper is 29, silver is 47, and gold is 79.`
+char_eva: ` And, by the way, platinum is 78.`
+char_eva: ` So, the platinum prize gets you 78 gold coins."`
+char_enj: `"A‐......Auntie Eva, you're incredible!!"`
+char_non: `Dad once told me that Auntie Eva was an enthusiastic studier, and really, really smart even back when she was in school.`
+char_non: `Even George onii‐chan, her son, is smart, so Auntie Eva must really be incredible.`
+char_eva: `"Still, that was a pretty nasty riddle to choose.`
+char_eva: ` You should have at least given one that Ange‐chan could understand."`
+char_kan: `"You did give me permission to show her the hardest one I've got."`
+char_enj: `"......That's right.`
+char_enj: ` You said it yourself.`
+char_enj: ` That's why we got a puzzle that was too hard for me."`
+char_eva: `"Nnggggggggggghhhh...!!`
+char_eva: ` I‐is it my fault?`
+char_eva: ` Sorry, Ange‐chan...`
+char_eva: ` But look, we got a medal, so please forgive me."`
+char_non: `We got another medal.`
+char_non: ` Just how many have we gotten so far?`
+char_non: `{n}But we still have a lot left to get.`
+char_non: ` Next up is Shannon.`
+char_sha: `"Mine isn't that hard, so you can relax."`
+char_kan: `"...Since you only have to think on Nee‐san's level."`
+char_sha: `"Y‐you're making fun of me...!`
+char_sha: ` Then do you want to have a go at it too, Kanon‐kun?"`
+char_kan: `"Bring it on."`
+char_eva: `"It sounds like you'll be able to understand it this time, Ange‐chan.`
+char_eva: ` I'll stick to giving hints again."`
+char_enj: `"Okay, I'll do my best.`
+char_enj: ` I'll solve it.`
+char_enj: ` Another medal for me."`
+char_sha: `"Let's go then.`
+char_sha: ` Listen carefully..."`
+char_enj: `"I don't get it.`
+char_enj: ` Why are there letters...?"`
+char_kan: `"......Could it be the first letter of each word?"`
+char_eva: `"That's what I thought at first.`
+char_eva: ` White chocolate is "W", anchovy pizza is "A", and piri piri chicken curry is "P".`
+char_eva: ` Those are the first letters of each of those words.`
+char_eva: ` But then, how do you explain black coffee being "I"?"`
+char_sha: `"Heheheheheheheh.`
+char_sha: ` Do you get it?"`
+char_enj: `"Don't you have any more hints for me?"`
+char_sha: `"I do.`
+char_sha: ` I'll teach you the letters for some other foods.`
+char_sha: ` First, walnut cake is "W".`
+char_sha: ` Albacore tuna is an "A".`
+char_sha: ` For "P", how about picante potatoes?`
+char_sha: ` Iced green tea can be an "I".`
+char_sha: ` Heheheheheheheh......"`
+char_eva: `"It really does sound like the first letter is the key...`
+char_eva: ` But then how do you explain black coffee being "I"......?"`
+char_enj: `"......I love "W" foods.`
+char_enj: ` Cream cakes are "W", right?"`
+char_sha: `"That's right."`
+char_kan: `"In that case,`
+char_kan: ` it isn't the first letter after all..."`
+char_eva: `"What's going on?`
+char_eva: ` What is this "W" group?`
+char_eva: ` White chocolate and walnut cake, right?`
+char_eva: ` Are these desserts?`
+char_eva: ` Treats?`
+char_eva: ` "A" is anchovy pizza and albacore tuna?`
+char_eva: ` "P" is picante potatoes and piri piri chicken curry, and "I" is coffee and green tea?`
+char_eva: ` Just what are these groups??"`
+char_enj: `"......I sort of get it, but I sort of don't.`
+char_enj: ` ......It's a little annoying."`
+char_sha: `"One last hint.`
+char_sha: ` Have you ever had lemonade to drink?"`
+char_enj: `"I have.`
+char_enj: ` I thought it was just going to be sweet, so I was really surprised.`
+char_enj: ` I'll never drink it again."`
+char_eva: `"............Ah, ......I've got it!`
+char_eva: ` Ange‐chan, thank you.`
+char_eva: ` Thanks to you, I've probably figured it out!"`
+char_sha: `"Giving up?`
+char_sha: ` What about you, Kanon‐kun?"`
+char_kan: `"......I don't get it.`
+char_kan: ` ......I think I almost do, but..."`
+char_enj: `"Yeah.`
+char_enj: ` I almost know what all the groups mean, but I can't figure out that last step."`
+char_eva: `"It's......tastes, right?"`
+char_sha: `"Yes, that's right.`
+char_sha: ` Have you figured it out now, Ange‐sama and Kanon‐kun?"`
+char_enj: `"I'm confused.`
+char_enj: ` What is it, Auntie Eva?`
+char_enj: ` Tell me!"`
+char_eva: `"Everything in the "W" group is sweet, right?`
+char_eva: ` So, what about the "A" group?`
+char_eva: ` The "P" group?"`
+char_kan: `".........I see, so that's what it was...`
+char_kan: ` Not bad, coming from you, Nee‐san..."`
+char_sha: `"Why don't you try saying "sorry for making fun of you"?`
+char_sha: ` If you don't, I'll make all your meals "O" and "I"."`
+char_eva: `"‘O’ is one thing, but eating "I" all the time would be awful."`
+char_non: `In the end, Kanon caved under the threat of "I" cooking and was forced to apologize to Shannon.`
+char_non: `Ange was still confused.`
+char_non: `No point thinking about it any more.`
+char_non: `I've got to pull myself together and take a shot at the next one.`
+char_eva: `"See, Ange‐chan?`
+char_eva: ` Think about the tastes of all these foods!`
+char_eva: ` How does white chocolate taste?"`
+char_enj: `"Sweet."`
+char_eva: `"And what about anchovy pizza?"`
+char_enj: `"Salty."`
+char_eva: `"Then how about piri piri chicken curry?`
+char_eva: ` And black coffee?!"`
+char_kan: `"......I see, so that's what it is......"`
+char_enj: `"Piri piri is spicy.`
+char_enj: ` Coffee is bitter.`
+char_enj: ` ......So what is it?`
+char_enj: ` Do the letters match the tastes?"`
+char_eva: `"That's right!`
+char_eva: ` The second letter of "sweet" is "W".`
+char_eva: ` The second letter of "salty" is "A", "spicy" is "P", and "bitter" is "I"!`
+char_eva: ` So, what does lemonade taste like?"`
+char_enj: `"Sour!"`
+char_eva: `"Exactly!`
+char_eva: ` And the second letter of "sour" is... "O"!`
+char_eva: ` So the answer for lemonade is "O"!"`
+char_sha: `"Nice job.`
+char_sha: ` You got it right, Eva‐sama and Ange‐sama."`
+char_enj: `"Auntie Eva, you're so awesome!!"`
+char_eva: `"We had to work together to solve that one.`
+char_eva: ` It's a team effort."`
+char_sha: `"And here is my medal.`
+char_sha: ` Please take it."`
+char_enj: `"Alright, I got another medal!`
+char_enj: ` Thanks!"`
+char_sha: `"You didn't get it, did you, Kanon‐kun?`
+char_sha: ` I'll bet it was hard."`
+char_kan: `"............Not bad, coming from you, Nee‐san..."`
+char_sha: `"Why don't you try saying "sorry for making fun of you"?`
+char_sha: ` If you don't, I'll make all your meals "O" and "I"."`
+char_eva: `"‘O’ is one thing, but eating "I" all the time would be awful."`
+char_enj: `"I wanna eat "W" all the time!"`
+char_eva: `"Careful, you'll get cavities.`
+char_eva: ` But if you ever come to my house to play, I'd be more than willing to share."`
+char_enj: `"Yay!!`
+char_enj: ` I love you, Auntie Eva!!"`
+char_non: `In the end, Kanon caved under the threat of "I" cooking...`
+char_non: `and was forced to apologize to Shannon...`
+char_sha: `"That's all for our puzzles.`
+char_sha: ` Did you enjoy them...?"`
+char_enj: `"Yeah.`
+char_enj: ` Thanks!"`
+char_kan: `"It seems the others still have some brain‐twisters waiting for you.`
+char_kan: ` Please be careful."`
+char_eva: `"Good point.`
+char_eva: ` Everyone left looks like they'll be a challenge."`
+char_enj: `"But we'll win!`
+char_enj: ` We can do it if we work together...!"`
+char_eva: `"That's right.`
+char_eva: ` Let's combine our wits and move on!"`
+char_sha: `"Goodbye.`
+char_sha: ` And good luck."`
+char_non: `Shannon and Kanon had returned to the kitchen with the serving cart.`
+char_non: `The dining hall was filled with such an exciting and fun atmosphere,`
+char_non: ` but out here in the corridor, one was reminded of the fierce winds and the rain.`
+char_non: `But they were satisfied with this.`
+char_non: `The whole point of the noisy farewell party was to forget the loneliness of the rain for just a little bit.`
+char_sha: `".........So, we've reached the end of this long game..."`
+char_kan: `"I feel relieved.`
+char_kan: ` ......Finally, we won't have to be toys for anyone else.`
+char_kan: ` ......I'd like to be quietly forgotten, to get covered with dust and vanish."`
+char_sha: `"You're wrong.`
+char_sha: ` We aren't going to vanish like that."`
+char_kan: `"....................."`
+char_sha: `"In the world locked inside the cat box, our future will continue, unknown to anyone."`
+char_kan: `".........You're right.`
+char_kan: ` ......Sorry.`
+char_kan: ` That's a world that even we can't know about, ......so I forgot."`
+char_sha: `"Just what kind of future will we make for ourselves in the cat box world?"`
+char_kan: `"No one knows. That's why it's called a cat box."`
+char_sha: `"............Good point."`
+char_kan: `"Don't you have any regrets, Nee‐san?`
+char_kan: ` .........About George‐sama, for instance?"`
+char_sha: `".............................."`
+char_kan: `"Receiving that ring is all you can do for George‐sama.`
+char_kan: ` As for marriage, living together, and all the rest..."`
+char_sha: `"Our future inside the cat box is what'll make all that come true, isn't it?`
+char_sha: ` ......I'm not the only one.`
+char_sha: ` It's the same for you, right?`
+char_sha: ` What about a future for you and Milady Jessica?"`
+char_kan: `".........I'm......"`
+char_sha: `"There's a possible future where I break off my engagement with George‐sama, then leave the island and disappear.`
+char_sha: ` In that world, you wouldn't have to hesitate for my sake.`
+char_sha: ` .........You could enjoy your youth to the fullest with Milady."`
+char_kan: `"......If you gave up on your engagement with George‐sama, that sort of world might be possible."`
+char_sha: `"So,`
+char_sha: ` ......the world where I spend my life with George‐sama...`
+char_sha: `and the world where you spend your life with Milady...can both exist at the same time—that's what the inside of a cat box allows."`
+char_kan: `".........It's a world where any contradicting dreams can exist at once."`
+char_sha: `"That's the world we'll be put away in as pieces.`
+char_sha: ` ......So, there's no need to be lonely, no need to be sad.`
+char_sha: ` ......Even though the "me" here right now can only observe the part where I accept George‐sama's ring..."`
+char_non: `The other "me" who lives in the cat box, in a world I cannot witness,`
+char_non: ` will surely build a happy life in the future...`
+char_non: `The cat box is such a strange thing, a place where any pieces and toys and dreams can be kept.`
+char_non: `It's no cage sealing us in.`
+char_non: `On the contrary, the inside of the cat box is a boundless world that frees us from everything......`
+char_kan: `"A world where we're freed from everything, and yet where all of our wishes come true.`
+char_kan: ` ......However, the "me" in that world won't be the "me" here and now.`
+char_kan: ` ......That's a bit depressing."`
+char_sha: `".........Hey, Kanon‐kun."`
+char_kan: `"Yes...?"`
+char_sha: `"Let's do it."`
+char_kan: `".........What?"`
+char_sha: `"Duel."`
+char_kan: `".....................Are you sure?"`
+char_sha: `"We both wished we'd settled this much sooner.`
+char_sha: ` And yet, we've put it off until the last moment, just before the game is going to end."`
+char_kan: `"......Sure.`
+char_kan: ` ......The game is nearly over anyway.`
+char_kan: ` Now, at the very end...`
+char_kan: ` .........It's time for us to settle things by ourselves."`
+char_sha: `"That way, we'll be able to see our future before we're put away in the cat box."`
+char_kan: `".........Sure.`
+char_kan: ` Let's do it.`
+char_kan: ` ......How will we decide it?`
+char_kan: ` A coin?`
+char_kan: ` Or with pistols again...?"`
+char_sha: `"Ummm,`
+char_sha: ` ......well, why don't we have our own quiz tournament?"`
+char_kan: `"......Huh?`
+char_kan: ` .........You're really getting into this."`
+char_sha: `"Okay, then, hmm...`
+char_sha: ` Question one!"`
+char_mar: `"Kihhihihihihihihi!`
+char_mar: ` I'm gonna give you a reeeeally hard one!`
+char_mar: ` I'll trick you with my extra‐hard puzzle, and make sure you {i:never} get my medal!"`
+char_enj: `"I'm going to solve it.`
+char_enj: ` I'm {i:going} to solve it...!"`
+char_non: `As soon as Maria and Ange crossed gazes, they started fighting.`
+char_non: `The two girls so close in age were really good friends, but they also fought a lot.`
+char_non: `Especially when they were opponents in a game.`
+char_eva: `"Maria‐chan probably knows tons of different quizzes.`
+char_eva: ` This should be interesting.`
+char_eva: ` Let's have it."`
+char_mar: `"Kihhihihihi, not now.`
+char_mar: ` I'm the star, so I'll go after Mama!"`
+char_ros: `"Really?`
+char_ros: ` You're sure it's okay for me to go first?"`
+char_mar: `"Uu!"`
+char_ros: `"Then I'll ask the first question.`
+char_ros: ` Ready?`
+char_ros: ` Heheheheheh."`
+char_eva: `"Hmmmm...... I guess you don't need a hint for this one."`
+char_ros: `"*giggle*, you're right.`
+char_ros: ` I made it for Ange‐chan.`
+char_ros: ` It's probably a bit too easy for you, Nee‐san."`
+char_enj: `"An hour is 60 minutes, and it takes 8 minutes for each round trip......"`
+char_eva: `"Good luck.`
+char_eva: ` I know you can solve it.`
+char_eva: ` I won't give you a hint this time."`
+char_enj: `"Huh?`
+char_enj: ` Why is that wrong...?!"`
+char_ros: `"Heheh, sorry about that.`
+char_ros: ` I guess that was a little mean."`
+char_eva: `"The key to the puzzle is the part about how many can she {i:carry out of the room}."`
+char_non: `......Oh.`
+char_non: ` Looks like I made a pretty simple mistake.`
+char_non: `I've been taking on so many tricky riddles, I've gotten a bit too tense.`
+char_ros: `"Then that's all for my puzzle.`
+char_ros: ` Now, for the one you've been waiting for.`
+char_ros: ` Good luck with Maria's puzzle!"`
+char_enj: `"8 ingots...!"`
+char_ros: `"Heheh, are you sure?`
+char_ros: ` It takes eight minutes to carry each ingot to the surface, right?`
+char_ros: ` 8 × 8 is more than 60."`
+char_enj: `"That's right.`
+char_enj: ` After all, the question asked "how many can she carry out of the room".`
+char_enj: ` You only have to take one step out of the room to "carry it out"."`
+char_eva: `"Nice going, Ange‐chan...!`
+char_eva: ` All those puzzles have really warmed you up good."`
+char_ros: `"That's right.`
+char_ros: ` To do 7 trips, you need 8 × 7 = 56 minutes.`
+char_ros: ` There are only 4 minutes left.`
+char_ros: ` However, you can make it back to the underground room in 3 minutes, then "carry out" the eighth ingot in the last minute."`
+char_mar: `"Kihihihihihihi...`
+char_mar: ` Not bad, Ange!`
+char_mar: ` Nice one, uu."`
+char_enj: `"I'm not gonna lose to you, Maria onee‐chan!"`
+char_ros: `"Congratulations.`
+char_ros: ` Here's my medal.`
+char_ros: ` Now you can try the puzzle Maria picked out just for you."`
+char_mar: `"So, it's finally my turn.`
+char_mar: ` Kihihihihi, you took so long on Mama's easy puzzle that I got a little worried.`
+char_mar: ` There's no way you'll ever solve this one, no way!"`
+char_enj: `"I've got Auntie Eva with me, and we'll solve it together!"`
+char_mar: `"Kihihihihihi, impossible, impossible, impossible!`
+char_mar: ` Even Auntie Eva won't solve this one!`
+char_mar: ` Wolves and Sheep puzzles are incredibly hard...!"`
+char_non: `From her handbag,`
+char_non: ` Maria pulled out a "Wolves and Sheep Puzzle Book" that was worn‐out, well‐used, and had a majestic feel to it like a grimoire.`
+char_mar: `"You know what a Wolves and Sheep puzzle is, right?"`
+char_enj: `"I know.`
+char_enj: ` You show me those all the time."`
+char_ros: `"They're puzzles about using a boat to take everyone from one shore of a river to another."`
+char_eva: `"They usually have a few bizarre rules.`
+char_eva: ` When there's wolves and sheep, you can't let the number of wolves on either shore get bigger than the number of sheep, right?"`
+char_mar: `"Yeah, that's right!`
+char_mar: ` Send a boat back and forth, moving everyone to the other side while making sure that there are never more wolves than sheep...!!`
+char_mar: ` But the ones that have just wolves and sheep are only the simplest, easiest, plainest beginner's basic practice puzzles...!"`
+char_ros: `"When you get to the higher levels, you have many things other than wolves and sheep.`
+char_ros: ` It's pretty clever."`
+char_eva: `".........Should we write this down on a piece of paper?"`
+char_ros: `"Good idea. That'll definitely make it easier for you to sort out your thoughts."`
+char_eva: `"*sigh*, ......sounds like this puzzle will be a handful."`
+char_mar: `"There's no way you're getting my medal, Ange!`
+char_mar: ` Kihi{0}hi{0}hi{0}hi{0}hihi!!"`
+char_enj: `"I won't lose. I'm not gonna lose!!"`
+char_eva: `"W‐wait a second...`
+char_eva: ` Who ever heard of a puzzle with such complicated rules?!"`
+char_mar: `"Did you only know about the ones with wolves and sheep?`
+char_mar: ` There's lots of complicated puzzles that you've got to deal with in different ways!`
+char_mar: ` See?`
+char_mar: ` You don't get it either, right, Ange?!`
+char_mar: ` Kihi{0}hi{0}hi{0}hihi!"`
+char_enj: `"Please, give me a hint!"`
+char_mar: `"You have to organize your thoughts carefully.`
+char_mar: ` Only the three humans can row the boat.`
+char_mar: ` Then, you have to memorize all the things to look out for.`
+char_mar: ` When the farmer is away, you can't leave his wife with the shepherd.`
+char_mar: ` When both the farmer and his wife are away, you can't leave the shepherd with the meat.`
+char_mar: ` When the shepherd is away, you can't leave the sheep with the veggies.`
+char_mar: ` You also need someone to watch the cow, but any of the humans can do that.`
+char_mar: ` Still, I guess the meat is the real key to the whole thing."`
+char_eva: `"......Ah, I see.`
+char_eva: ` Just because you can't put it on the boat again once you take it off, that doesn't mean you can only take it across once."`
+char_mar: `"You've got it.`
+char_mar: ` But the veggies really can only make one trip, so once you've sent them across, you can't get them back.`
+char_mar: ` But as long as you don't take the meat off the boat, you can take it back and forth as much as you want."`
+char_enj: `".........It's so complicated.`
+char_enj: ` Even after thinking about it, I don't get it at all..."`
+char_eva: `"I'll have to write it down and sort out my ideas.`
+char_eva: ` What about you, Ange‐chan?`
+char_eva: ` Do you want a pen and paper?"`
+char_mar: `"Impossible, impossible! You'll never solve it!`
+char_mar: ` Why don't you just give up?`
+char_mar: ` Thinking is a waste of time for the incompetent!`
+char_mar: ` Kihi{0}hi{0}hi{0}hi{0}hi{0}hi{0}hihi...!"`
+char_eva: `"Can this really be solved?`
+char_eva: ` Don't tell me there's actually some contradiction that makes it unsolvable..."`
+char_mar: `"Uuuuuu?`
+char_mar: ` Who knows?`
+char_mar: ` Kiiihi{0}hi{0}hi{0}hi{0}hihi!"`
+char_mar: `"Kihihihihihihi!!`
+char_mar: ` Wrong!`
+char_mar: ` You can't even do this one?!`
+char_mar: ` You suck, Ange, kihihi{0}hi{0}hi{0}hi{0}hi{0}hi{0}hihi,`
+char_mar: ` ouch!"`
+char_ros: `"Maria!`
+char_ros: ` Show some manners!"`
+char_non: `I'd thought so hard before getting that answer, but Maria onee‐chan just burst out laughing.`
+char_non: `The laughter broke off when Auntie Rosa hit her, but then she was grinning again.`
+char_eva: `"I don't get it at all. Just how hard was this one...?"`
+char_mar: `"Only about 20 picarats, I guess?`
+char_mar: ` There are lots of other puzzles in this book that are {i:actually} hard!"`
+char_non: `I don't know what a pica‐thing is,`
+char_non: ` but apparently, even this puzzle doesn't count as a hard one for Maria onee‐chan...`
+char_non: `I hung my head dejectedly.`
+char_non: `Maria onee‐chan kept on laughing until Auntie Rosa smacked her again.`
+char_eva: `"This really is a nasty problem. Can it really be solved?`
+char_eva: ` Is there some trick to it, like throwing things into the river and letting them drift to the other side without using the boat, or making the cow eat the vegetables so that they can be carried as one passenger,`
+char_eva: ` or some other trick like that...?"`
+char_ros: `"Well, who knows?`
+char_ros: ` If more thinking isn't getting you anywhere, should we take that as you giving up...?"`
+char_mar: `"This one's really hard!`
+char_mar: ` Even Mama couldn't solve it!`
+char_mar: ` But I solved it on my first try!"`
+char_ros: `"So, do you get it?`
+char_ros: ` How many trips does it take to get every person across?"`
+char_eva: `"This is a cheap trick or a riddle, right?`
+char_eva: ` There's no way you can solve this straightforwardly!"`
+char_ros: `"No, that's not true.`
+char_ros: ` I'm sure you'll get it Nee‐san, smart as you are.`
+char_ros: ` How many trips does it take to get every person across?"`
+char_enj: `"I've got it.`
+char_enj: ` Three trips."`
+char_eva: `"......Huh?`
+char_eva: ` Three?!`
+char_eva: ` How...?!"`
+char_enj: `"It's easy.`
+char_enj: ` The farmer and his wife get on the boat, then the wife gets dropped off on the other side in the first move.`
+char_enj: ` Then, the farmer takes the boat back across in the second move.`
+char_enj: ` Then, he crosses with the shepherd in the third move."`
+char_eva: `"But what about the cow and the sheep?!`
+char_eva: ` What about the meat and the vegetables?!"`
+char_enj: `"But Auntie Eva, it said to take every person across, right?`
+char_enj: ` Cows aren't people."`
+char_eva: `"Huh? Ah..........."`
+char_non: `As Auntie Eva's mouth flopped open, Auntie Rosa started applauding.`
+char_non: ` After clicking her tongue, Maria onee‐chan joined in.`
+char_ros: `"That's right.`
+char_ros: ` The question just asks how many moves it would take to move each person across.`
+char_ros: ` The animals and luggage never had anything to do with it."`
+char_mar: `"They only got it because you kept saying "every person" over and over again, Mama.`
+char_mar: ` Uu!"`
+char_non: `Auntie Rosa had probably said it so much as a sort of hint.`
+char_non: ` Without that, even I wouldn't have figured it out.`
+char_eva: `"Come on.`
+char_eva: ` I was totally taken in.`
+char_eva: ` That was a mean question!"`
+char_ros: `"Go on, Maria.`
+char_ros: ` Give Ange‐chan her medal."`
+char_mar: `"Uu‐uu‐uu......"`
+char_non: `Whining like a unhappy dog, she reluctantly handed the medal over.`
+char_non: `I grabbed it, and started jumping around like a happy dog.`
+char_non: `As Maria onee‐chan smiled at me from behind, ......her face was bright, just like a big sister's.`
+char_ros: `"That's the end of our riddles.`
+char_ros: ` Let's play again sometime, okay?"`
+char_mar: `"Next time, I'll have a really nasty puzzle that's even harder...!`
+char_mar: ` One so hard that even I can't solve it!"`
+char_enj: `"No way!`
+char_enj: ` I'm not playing with you anymore...!!"`
+char_eva: `"*giggle*.`
+char_eva: ` Look, Ange‐chan.`
+char_eva: ` Your parents are waving at you, so let's go.`
+char_eva: ` See you later, Rosa."`
+char_ros: `"Sure.`
+char_ros: ` Later, Ange‐chan.`
+char_ros: ` There aren't too many people left with puzzles for you.`
+char_ros: ` Keep it up until the end.`
+char_ros: ` And make sure you keep cheering her on, Nee‐san."`
+char_eva: `"Of course.`
+char_eva: ` We got all these medals by working together, right?"`
+char_enj: `"Yeah!"`
+char_non: `We dashed away.`
+char_non: `Dad and Mom are waving at me from over there.`
+char_non: `I'm sure they've thought up some mean problems.`
+char_non: `Still, they're bound to be easier than Maria onee‐chan's...!`
+char_non: `I hate Maria onee‐chan! She's such a meanie!`
+char_sak: `"Uryuu.`
+char_sak: ` You bullied her too much with that puzzle......"`
+char_mar: `"Well, I wanted to play with Ange a lot.`
+char_mar: ` If it was an easy one, she'd solve it right away, right?"`
+char_sak: `"You really love Ange, don't you?"`
+char_mar: `"I hate her.`
+char_mar: ` She made fun of you and called you a stuffed animal."`
+char_non: `Maria pouted as she said this, but her expression didn't match her words at all.`
+char_sak: `"I hope Ange finds happiness."`
+char_mar: `"I'm sure she will.`
+char_mar: ` After all, look at all the people here wishing for her happiness.`
+char_mar: ` And now, Battler is the Game Master, and he's set up this final game just for her.`
+char_mar: ` ......After all this, there's no way she won't be happy."`
+char_sak: `"......Still, even though everyone can bring a person happiness, only the person can grasp it for themselves."`
+char_mar: `"That's right.`
+char_mar: ` That kid is really bad at finding fragments of happiness.`
+char_mar: ` We can try to teach her how, but twelve years of time have sealed her ears up tight.`
+char_mar: ` ......This game might be much harder for Ange than Battler thinks."`
+char_sak: `".........I'm sure that Ange will find happiness."`
+char_mar: `"Yeah.`
+char_mar: ` ......If she really does enjoy herself at this party,`
+char_mar: ` that itself might be the greatest lesson we can teach her now."`
+char_non: `Ange, the girl who won't believe any magic shown to her, calling them simply "tricks"...`
+char_non: `Twelve years in the future, she will become the last person to inherit {f:5:Beatrice}'s name.`
+char_mar: `"At one point in time, that kid understood my white magic."`
+char_sak: `"Yeah.`
+char_sak: ` And she understood me too."`
+char_mar: `"She even summoned all of the Seven Sisters and understood magic itself.`
+char_mar: ` ......And yet, she still can't use magic on herself."`
+char_bea: `"Let us believe.`
+char_bea: ` Battler used to be much the same."`
+char_mar: `"......Beato."`
+char_bea: `"It is easy to cast magic on other people.`
+char_bea: ` And believing in other people's magic is not so difficult.`
+char_bea: ` The hardest thing is casting magic on yourself."`
+char_sak: `"Is that...something Ange can do......?"`
+char_bea: `"She can.`
+char_bea: ` Even that Battler managed to understand magic.`
+char_bea: ` Of course his little sister will be able to do the same."`
+char_mar: `"You're right.`
+char_mar: ` .........There are some magics that we can only see when we're kids.`
+char_mar: ` ......There are some that only adults can understand.`
+char_mar: ` Right now, Ange is between the two of those."`
+char_bea: `"She's lost the magic of children, and yet, she has yet to understand the magic of adults. The most painful period of one's life."`
+char_sak: `"It's so sad......that she didn't have anyone close to her during that period..."`
+char_mar: `"That's not true.`
+char_mar: ` We're always by that kid's side.`
+char_mar: ` She just doesn't believe it."`
+char_non: `Ange, please, realize that quickly.`
+char_non: `There are so many people smiling at you from behind, watching over you.`
+char_non: `If you would just turn around, we would be able to smile at you so much more, and talk to you so much more.`
+char_non: `.........{f:5:Ange Beatrice}, final witch of Mariage Sorcière.`
+char_mar: `"Even if you aren't able to reach the proper end,`
+char_mar: ` ......I pray that you can at least enjoy yourself tonight......"`
+char_non: `Have fun, Ange.`
+char_non: `So long.`
+char_non: `The time we spent together feels so long, yet so short.`
+char_non: `{n}Even so, for me, the memory is eternal......`
+char_rud: `"How's it going, Ange?`
+char_rud: ` Did you get a ton of medals?"`
+char_enj: `"I wonder how many it is now!"`
+char_eva: `"Me too.`
+char_eva: ` Let's count them later, okay?!"`
+char_kir: `"It seems you've been given quite a few puzzles already."`
+char_enj: `"Yeah.`
+char_enj: ` Once I get your puzzles, only the cousins are left, I think."`
+char_rud: `"Sure, sure.`
+char_rud: ` Okay.`
+char_rud: ` Time to take a shot at Mom and Dad's puzzles!`
+char_rud: ` I'll warn you, they're gonna be hard!"`
+char_eva: `"Everyone says the same thing, but we just keep on solving them!"`
+char_enj: `"Yeah!`
+char_enj: ` So we'll get those medals together!"`
+char_kir: `"*giggle*.`
+char_kir: ` That's the spirit.`
+char_kir: ` Okay, I guess I'll go first."`
+char_eva: `"Ah, it's a classic liar puzzle.`
+char_eva: ` Those are the ones I'm best at."`
+char_rud: `"Don't you mean lying is what you're best at?"`
+char_non: `Wow.`
+char_non: ` I didn't think Dad's ears could stretch that far.`
+char_kir: `"Only one of them is speaking the truth.`
+char_kir: ` And both of the others are lying.`
+char_kir: ` So, if you find an answer where two of them are telling the truth, it's wrong."`
+char_enj: `".........I don't really get it.`
+char_enj: ` I want some more hints."`
+char_kir: `"That's all for my hint.`
+char_kir: ` If you want more, try talking to Auntie Eva."`
+char_enj: `"Auntie Eva!"`
+char_eva: `"Rika is the key.`
+char_eva: ` Rika says that Miyoko is a liar.`
+char_eva: ` So, if Miyoko is speaking the truth then Rika is a liar, and if Miyoko is lying, then Rika is speaking the truth.`
+char_eva: ` ......In other words, since that pair contradicts each other, we know that one of them is lying and one is telling the truth."`
+char_kir: `"That's Eva nee‐san for you.`
+char_kir: ` Exactly.`
+char_kir: ` In liar games like this one, when you see a pair that contradicts each other, you know that one of them must be telling the truth.`
+char_kir: ` And once you know that, you know that Satoko, who's not one of those two, must be a liar.`
+char_kir: ` ......*giggle*, looks like the answer's already popped up."`
+char_enj: `"Ummm, ............???"`
+char_kir: `"Too bad, but that's not it."`
+char_rud: `"I guess Ange's still too little for that one."`
+char_enj: `"Am not! I just made a little mistake!`
+char_enj: ` I'll get it right this time.`
+char_enj: ` So, one more...!"`
+char_eva: `"Aw, and you were so close too..."`
+char_rud: `"Then you can make up for it with my puzzle.`
+char_rud: ` Okay, let's try another one of those liar games.`
+char_rud: ` Will you be able to get it this time?"`
+char_enj: `"Rika!"`
+char_eva: `"That's right!`
+char_eva: ` Nice job, Ange‐chan!`
+char_eva: ` Hard to imagine that such a smart girl is related to that dolt of a father!"`
+char_rud: `"Yeah, sorry for being a dolt.`
+char_rud: ` Nice going, Ange!`
+char_rud: ` Did you think of all the combinations?"`
+char_enj: `"Yeah.`
+char_enj: ` If Miyoko is the oldest, then what Satoko says is true.`
+char_enj: ` Only the oldest person is supposed to tell the truth, so that doesn't make sense."`
+char_kir: `"That's right.`
+char_kir: ` Then what if Satoko is the oldest?"`
+char_enj: `"If she is, then Rika, who says that Miyoko is a liar, would be telling the truth, which doesn't work.`
+char_enj: ` So, Rika has to be the oldest."`
+char_kir: `"Good job.`
+char_kir: ` Here's my medal for you.`
+char_kir: ` Congrats."`
+char_enj: `"Thank you, Mom!"`
+char_eva: `"Rudolf is up next.`
+char_eva: ` I wonder what sort of puzzle he has for us."`
+char_rud: `"Well, guess I'll do a liar puzzle too.`
+char_rud: ` Let's crank it up a notch this time..."`
+char_enj: `"They're all wearing masks...and except for Miyoko, we can't tell if they're lying or telling the truth.`
+char_enj: ` ......This one's hard."`
+char_eva: `"No it isn't.`
+char_eva: ` I've already figured it out.`
+char_eva: ` This is even easier than the one your mom gave a second ago."`
+char_enj: `"Why?"`
+char_eva: `"You can't trust the two who aren't Miyoko, so you first need to figure out who Miyoko is.`
+char_eva: ` Miyoko doesn't lie, right?"`
+char_enj: `"Yeah.`
+char_enj: ` Miyoko doesn't lie."`
+char_eva: `"So, start off by figuring out who Miyoko is, then read through the puzzle again.`
+char_eva: ` I'm sure you'll see it at once."`
+char_enj: `"Just think about who Miyoko is...`
+char_enj: ` Okay, I've got it."`
+char_kir: `"You really do whatever Eva nee‐san tells you."`
+char_enj: `"Yeah.`
+char_enj: ` Auntie Eva is nice and smart, and I like her.`
+char_enj: ` So I do what she tells me!"`
+char_rud: `"We'll need to ask her for a hand next time we try to make Ange eat eggplant and bell peppers."`
+char_kir: `"*giggle*giggle*......"`
+char_rud: `"Toooo bad!!`
+char_rud: ` That's wrong."`
+char_enj: `"Huh?!`
+char_enj: ` I got it wrong? I got it wrong?!"`
+char_kir: `"Later on, try thinking it over with Auntie Eva.`
+char_kir: ` I'm sure you'll figure it out soon."`
+char_eva: `"Think about it.`
+char_eva: ` Miyoko speaks the truth, right?`
+char_eva: ` So, is it possible for someone to be Miyoko if they say the person next to them is Miyoko?"`
+char_non: `Miyoko speaks the truth.`
+char_non: `So, she should say that she is Miyoko.`
+char_non: ` She wouldn't say that someone else was Miyoko.`
+char_non: `......If I'd realized that, it would probably have been easy to figure out who Miyoko is.`
+char_non: `I've figured out the knack of it now, but too late.`
+char_non: ` Too bad...`
+char_enj: `"I know who Miyoko is.`
+char_enj: ` She's on the left.`
+char_enj: ` After all, the girls in the middle and on the right both say that someone else is Miyoko.`
+char_enj: ` If they were Miyoko, they couldn't lie and say that someone else was Miyoko."`
+char_eva: `"That's right.`
+char_eva: ` Miyoko is supposed to be honest.`
+char_eva: ` So, anyone who says "someone else is Miyoko" can't be Miyoko."`
+char_enj: `"So, since the middle one and the right one aren't Miyoko, the left one automatically is.`
+char_enj: ` And since Miyoko speaks the truth, then it's also true that the kid on the right is Satoko."`
+char_eva: `"Which means that the only kid left, the one in the middle, is Rika.`
+char_eva: ` Perfect!"`
+char_rud: `"You solved it like it was nothing!`
+char_rud: ` Ange, you really are smart like your Mom!"`
+char_non: `Dad rubbed my cheek and hugged me.`
+char_rud: `"That's all for our puzzles."`
+char_kir: `"Listen up, Ange.`
+char_kir: ` Life will lead you through countless puzzles.`
+char_kir: ` ......Auntie Eva is here to help you now, so it's okay to rely on her.`
+char_kir: ` However, you have to solve most problems in life by yourself.`
+char_kir: ` When that happens, you must remember the advice you've gotten from those who have helped you in the past."`
+char_enj: `"Okay.`
+char_enj: ` I get it."`
+char_kir: `"......Eva nee‐san.`
+char_kir: ` Take care of Ange."`
+char_eva: `"Yes, of course."`
+char_non: `Even though the cousins were the only ones who hadn't given us puzzles,`
+char_non: ` Mom spoke as though I was leaving on a long, long trip.`
+char_non: ` ......Weird.`
+char_eva: `"Let's go, Ange‐chan.`
+char_eva: ` The game will be over soon."`
+char_enj: `"I wonder what Grandpa will give us for getting all these medals...!"`
+char_eva: `"Me too.`
+char_eva: ` Still, we've already gotten a lot that's far more wonderful than that prize."`
+char_enj: `"What do you mean...?"`
+char_eva: `"We've all had a lot of fun talking to you like this, Ange‐chan."`
+char_enj: `"............?`
+char_enj: ` I don't get it.`
+char_enj: ` You're weird."`
+char_eva: `"I'm sorry.`
+char_eva: ` Let's go then.`
+char_eva: ` Now, all that's left are the cousins and {f:5:Beatrice}, I guess."`
+char_kir: `"What is it?`
+char_kir: ` Why did you tell me to come over here?`
+char_kir: ` .........Is it something to do with Ange?"`
+char_rud: `"No, that's not it.`
+char_rud: ` ..........................."`
+char_non: `Rudolf put a cigarette in his mouth and toyed with his lighter.`
+char_non: `......Though lighting a cigarette should have been second nature to him, he somehow managed to mess up several times.`
+char_rud: `"I...wanted to take this to my grave.`
+char_rud: ` ......No, to hide it away in a cat box.`
+char_rud: ` If I just kept my mouth shut until tomorrow night, I'd be able to do that.`
+char_rud: ` ......It'd be easy."`
+char_kir: `"...................................."`
+char_rud: `"I've been thinking......I'm probably gonna get murdered tonight.`
+char_rud: ` ......But I've gotta say it."`
+char_kir: `"......I've known all along.`
+char_kir: ` That you had something you were hiding."`
+char_rud: `"Have you?`
+char_rud: ` Guess I still need more practice."`
+char_kir: `".........If it isn't about Ange, then who is it about?`
+char_kir: ` Not Asumu‐san, surely..."`
+char_rud: `"It's about Battler."`
+char_kir: `"......That comes to the same thing.`
+char_kir: ` I've been very adult in my treatment of Battler‐kun, if you ask me.`
+char_kir: ` Even though he's Asumu‐san's son, I've treated him the same as Ange.`
+char_kir: ` I do think of him as a child in our family, so don't worry."`
+char_rud: `"He's not just a kid in our family.`
+char_rud: ` He's my kid and yours."`
+char_kir: `"I'm sorry, but you'll have to let me draw the line here."`
+char_rud: `"You don't get it.`
+char_rud: ` He's my kid...and yours."`
+char_kir: `".....................What?"`
+char_rud: `"You didn't have a stillbirth.`
+char_rud: ` Asumu did.`
+char_rud: ` .........Back then, when I was double‐timing the two of you, I got myself stuck and couldn't find a way out..."`
+char_kir: `"You don't mean......... You don't mean............"`
+char_rud: `"......Asumu and I were married.`
+char_rud: ` You and I were cheating.`
+char_rud: ` Then, Asumu had a stillbirth, and you gave birth.`
+char_rud: ` ......My head was a mess with it all."`
+char_non: `The sin that Rudolf brazenly committed when his mind was at its most chaotic...`
+char_non: `......was to switch the two babies.`
+char_rud: `"I was better off financially back then.`
+char_rud: ` I was young, and I didn't give a damn about what lengths I went to.`
+char_rud: ` ......I threatened the hospital with money......and switched your kid with Asumu's."`
+char_non: `If Kyrie had a child, Rudolf would have two households to worry about.`
+char_non: `However, if Kyrie had a stillbirth and the child who survived was Asumu's, that would settle everything.`
+char_non: `......The stillbirth might even have given him a chance to break off his relationship with Kyrie.`
+char_non: `......It was a grave sin, one that simply couldn't be forgiven as an act of youthful enthusiasm and immaturity.`
+char_rud: `"............That's why...I should be apologizing to all three of you.`
+char_rud: ` ......I forced Asumu to raise a kid that wasn't hers.`
+char_rud: ` .........That woman may have looked easygoing, but she was surprisingly sharp.`
+char_rud: ` ......There's a chance she figured it out.`
+char_rud: ` ...However, she raised Battler, who loved her as a mother, with all the affection she had."`
+char_non: `And in Kyrie and Battler's cases, ......he had to atone for an even greater sin.`
+char_non: `He stole every moment of everyday family life that they should have shared as mother and son.`
+char_non: `Until this very day, Kyrie had believed that Battler was Asumu's child.`
+char_non: `Though she had acted kindly towards him on the surface, she had always kept a distance in her heart between herself and Asumu's son.`
+char_non: `Finally, ......Rudolf's conscience had been unable to bear seeing her like that.`
+char_kir: `"............But............I.................."`
+char_non: `Kyrie sank into a crouch, unable to speak.`
+char_rud: `"......Feel free to curse me.`
+char_rud: ` In fact, I couldn't complain if you killed me where I stand.`
+char_rud: ` That's how horrible my sin against you is.`
+char_rud: ` .........This is the secret I wanted to confess before the cat box closes over us."`
+char_kir: `"Battler.........kun....................."`
+char_rud: `"I'm so sorry, Kyrie.`
+char_rud: ` .........And to you, Battler........."`
+char_eva: `"Come to think of it, we've already gone through a ton of puzzles."`
+char_enj: `"Yeah.`
+char_enj: ` Now, there's only George onii‐chan, Jessica onee‐chan, Battler onii‐chan, and {f:5:Beatrice} left."`
+char_jes: `"Oh, they're finally here."`
+char_geo: `"We've been waiting a painfully long time.`
+char_geo: ` We thought you might have forgotten about us."`
+char_non: `Finally, we challenged George onii‐chan and Jessica onee‐chan.`
+char_eva: `"Sorry to keep you two waiting.`
+char_eva: ` So, did you think up some incredibly hard ones for us?"`
+char_jes: `"We decided to give you one puzzle together."`
+char_eva: `"My, my, even one riddle from this pair sounds challenging."`
+char_geo: `"It's a special puzzle we made just for Ange‐chan, so good luck."`
+char_enj: `"I'll solve it. I'll definitely solve it!"`
+char_geo: `"Okay, then, let's get started.`
+char_geo: ` Jessica‐chan, let's set them out."`
+char_jes: `"There you go."`
+char_non: `They placed three small, colorful, cubic boxes on the table.`
+char_jes: `"Two of these are traps!`
+char_jes: ` The other has a medal inside."`
+char_geo: `"Ange‐chan, do you think you can guess which one has the medal inside...?"`
+char_enj: `"Can't do it without a hint.`
+char_enj: ` That's just luck!"`
+char_geo: `"That's right. So far, this is just a test of luck with three choices.`
+char_geo: ` In other words, your odds of winning are one in three."`
+char_eva: `"George.`
+char_eva: ` This isn't a quiz, right?`
+char_eva: ` It really is just a test of luck."`
+char_geo: `"The puzzle comes later.`
+char_geo: ` Let's move ahead."`
+char_jes: `"Okay, Ange.`
+char_jes: ` Which of these has a medal inside, do you think?`
+char_jes: ` Just say the first one that pops into your head."`
+char_non: `A red box, a blue box, and a green box.`
+char_non: `{n}There's no way to know which one it's in.`
+char_non: `......This really is...a test of luck.`
+char_non: `In a way, this is even worse than a hard puzzle.`
+char_non: `{n}After all, you can always get a hard puzzle right—you just have to solve it.`
+char_non: `......But in the very beginning, I picked the almond with a 1 in 15 chance.`
+char_non: `Compared to that, a 1 in 3 chance is five times easier to get.`
+char_non: `There's no point worrying about it.`
+char_non: ` Might as well test my luck again.`
+char_enj: `"Then, ............this one."`
+char_geo: `"The red box?`
+char_geo: ` Then let's set this box right in front of you.`
+char_geo: ` .........Wouldn't it be great if there was a medal inside?`
+char_geo: ` So, let's start with a little warm‐up.`
+char_geo: ` The probability of the medal being inside that red box is 1 in what?"`
+char_enj: `"1 in 3."`
+char_eva: `"That's right.`
+char_eva: ` If this really is a simple test of luck."`
+char_jes: `"Heheheheh.`
+char_jes: ` Are you sure, Ange?`
+char_jes: ` Are you a~bsolutely sure you're happy with that red box?`
+char_jes: ` After all, we're gonna make you open it in a second.`
+char_jes: ` ......If it's a trap, it'll be re~ally scary."`
+char_non: `Jessica onee‐chan grinned threateningly.`
+char_geo: `"Are you happy with the red box?`
+char_geo: ` ......The medal might be in the blue box or the green box.`
+char_geo: ` Do you want to change your mind?"`
+char_non: `It's not fair for them to scare me like that, not after I've already made my choice.`
+char_non: `And I know.`
+char_non: `All of the boxes have the same probability of having a medal in them.`
+char_non: ` Whether I open the red box, or change my mind and open a different box, the probability will be the same.`
+char_non: `So, stick with your first choice is my motto.`
+char_non: ` I'll stay with this red box.`
+char_non: ` I won't change my mind.`
+char_enj: `"I'm happy with the red box.`
+char_enj: ` I'll bet on it!"`
+char_jes: `"That's the spirit.`
+char_jes: ` But seriously, the traps are re~ally terrifying.`
+char_jes: ` Why don't we show you just how scary they are?"`
+char_non: `Jessica onee‐chan laughed creepily, then opened the green box.`
+char_non: `And then,`
+char_non: ` *bang*!`
+char_non: ` With the violent sound of a party popper, pumpkin monsters and ribbon came flying out of the box.`
+char_non: `......I was a little scared.`
+char_non: ` ......No, that's a lie.`
+char_non: ` I was really scared......`
+char_non: `If that came flying out of the box I opened right at my face, I might fall to my knees and start crying...`
+char_jes: `"Ange~, are you {i:sure} you want the red box...?`
+char_jes: ` Something really scary might come flying out, right...?`
+char_jes: ` Are you sure you don't want to switch to the blue box...?"`
+char_enj: `"I'm not scared!`
+char_enj: ` I'll stick with the red box!"`
+char_geo: `"Hahahahaha, you're going a bit overboard, Jessica‐chan.`
+char_geo: ` So, now one of the boxes is gone, and there's only two left.`
+char_geo: ` This is where the puzzle starts, Ange‐chan."`
+char_enj: `"You mean, which box is the medal in?"`
+char_geo: `"We have the red box that's been sitting in front of you the whole time, and the blue box here in front of me.`
+char_geo: ` Which has a higher probability of having a medal inside it?`
+char_geo: ` That's the puzzle."`
+char_enj: `"There are two boxes, and we don't know what's inside either of them, so there's a fifty‐fifty chance of the medal being in either.`
+char_enj: ` ......They're both the same, aren't they?"`
+char_eva: `"......I thought that too.`
+char_eva: ` Still, that would make the answer too obvious, wouldn't it?`
+char_eva: ` I wonder if there's some trick here......"`
+char_non: `Or, that itself might be the trick, and the obvious answer could be the right one.`
+char_non: `It might be one of those classic puzzles that trips you up by making you think too hard and suspiciously.`
+char_eva: `"..............................`
+char_eva: ` I have two questions for you two. Is that okay?"`
+char_geo: `"Go ahead."`
+char_eva: `"Who do these three boxes belong to?`
+char_eva: ` You, Jessica‐chan?"`
+char_jes: `"Well, yeah."`
+char_eva: `"In other words, you know which colors are traps, right?"`
+char_jes: `"Yeah, of course."`
+char_eva: `"Thanks.`
+char_eva: ` And now for my second question.`
+char_eva: ` A second ago, you opened one of the boxes to show us how scary the traps were.`
+char_eva: ` Would you have done that no matter which of the boxes Ange‐chan chose?"`
+char_jes: `"That's right.`
+char_jes: ` I figured giving her a bit of a scare would make for a nice psychological warfare tactic."`
+char_eva: `"Thanks.`
+char_eva: ` Those hints will be enough."`
+char_enj: `"Hints?`
+char_enj: ` Huh......??"`
+char_non: `I'm completely lost.`
+char_non: `How were Auntie Eva's questions just now hints...?`
+char_geo: `"Sorry.`
+char_geo: ` That's wrong."`
+char_enj: `"What?!`
+char_enj: ` Wh‐......why?!"`
+char_non: `We started with three boxes.`
+char_non: `When they set the red box in front of me, the odds of there being a medal inside were, obviously, 1 in 3.`
+char_non: `At the same time, the odds for the blue box were 1 in 3, as were the odds for the green box.`
+char_non: `Jessica onee‐chan opened the green box, so there were then only two boxes left, and the odds became fifty‐fifty.`
+char_non: `So, ......why was I wrong...???`
+char_eva: `"...............It was you, George, wasn't it?`
+char_eva: ` You thought this puzzle up.`
+char_eva: ` Did the Monty Hall problem even exist in 1986?"`
+char_geo: `"Nope, not until 1990.`
+char_geo: ` It's a puzzle that already exists in Ange‐chan's world, so I thought it'd be okay to use it."`
+char_jes: `"George nii‐san ran me through the answer,`
+char_jes: ` but I was totally lost.`
+char_jes: ` ......Anyway, I don't get the details, but he says that in this case, the odds of the blue box having the medal are about twice the odds of the red box having it."`
+char_non: `Twice the odds?`
+char_non: ` ......Even if there was a difference, I thought it'd be a tiny one.`
+char_non: `......Probability is hard.`
+char_non: `Didn't Onii‐chan once say that people who don't get probability should never go gambling?`
+char_non: `......I guess I'll never gamble for the rest of my life...`
+char_non: `Auntie Eva nodded and patted my head encouragingly...`
+char_enj: `"Oh.`
+char_enj: ` .........The odds are better for the blue box!"`
+char_geo: `"Hmmm.`
+char_geo: ` And why is that?"`
+char_enj: `"Well, ............I......I just sorta..."`
+char_eva: `"Think back to the 15 slice cake that you found the almond in.`
+char_eva: ` If there was only one almond, the odds of winning were 1 in 15, right?"`
+char_enj: `"Yeah.`
+char_enj: ` 1 in 15."`
+char_non: `I figured that out when the cake first appeared.`
+char_non: `I'd thought that waiting for a lot of people to get wrong ones would make my chances for winning higher.`
+char_non: `But, in the end, no matter when I ate my slice, the odds were still one in 15.`
+char_eva: `"Still, Ange‐chan.`
+char_eva: ` What if...`
+char_eva: `the servants had also been eating that cake, and it had actually started with twenty slices?"`
+char_enj: `"............Huh?`
+char_enj: ` ......What...?"`
+char_eva: `"This is a party, right?`
+char_eva: ` It's not fair that the servants don't get any cake, don't you think?`
+char_eva: ` So, let's say it was originally a twenty‐slice cake.`
+char_eva: ` The servants took out five slices, then redecorated it as a fifteen‐slice cake and let you choose a slice.`
+char_eva: ` If so, what would your chances of choosing the right slice be?"`
+char_non: `If there were really twenty slices,`
+char_non: ` .........then the chances would be 1 in 20.`
+char_eva: `"However, the servants know where the almond is, so they chose five slices for themselves that had no almonds.`
+char_eva: ` In other words, they removed five {i:losing} slices.`
+char_eva: ` That would mean your chances of winning were 1 in 15, not 1 in 20."`
+char_enj: `"......They took out losing slices, so it's only natural that the probability of winning would go up."`
+char_geo: `"Just now, Jessica‐chan did the same thing.`
+char_geo: ` Jessica‐chan took one {i:losing box} away from the pair of boxes you didn't choose.`
+char_geo: ` In other words, the odds of the winner being on the side you didn't choose went up a bit, right...?"`
+char_jes: `"Ahahahahahahahah, ......I sort of get it, but not really......"`
+char_non: `If you remove a losing box, it's only natural that your chances of getting the right one go up.`
+char_non: `And just now, Jessica onee‐chan removed a losing box {i:from the boxes I didn't choose}.`
+char_non: `So, doesn't it make sense that my odds of winning with {i:those boxes} went up......?`
+char_enj: `"......Now I'm getting confused......"`
+char_geo: `"Actually, you really are incredible, Ange‐chan.`
+char_geo: ` Even though you're only six, you're trying to understand posterior probability, a concept in probability theory.`
+char_geo: ` Probability really is interesting.`
+char_geo: ` I'm sure you'll like it when you get into high school and college.`
+char_geo: ` Go and enjoy studying it all you can."`
+char_non: `My little head was already filled to the brim.`
+char_non: `Bewildered, I had to beg Auntie Eva for an explanation.`
+char_non: `Auntie Eva wore a bitter smile too.`
+char_non: ` I'll bet she doesn't really get it herself.`
+char_non: `As we felt a sense of connection through this failure, we happily grasped the medals we had wrangled out of them......`
+char_geo: `"Ange‐chan,`
+char_geo: ` could you come over here for a second?"`
+char_enj: `".........?`
+char_enj: ` What is it, George onii‐chan?"`
+char_non: `George onii‐chan and Jessica onee‐chan were calling to me from the window.`
+char_non: `Auntie Eva was talking with Mom and the others, and since it looked like they'd be a while, I went over to George onii‐chan and Jessica onee‐chan.`
+char_enj: `"What?"`
+char_jes: `"Looks like the quiz tournament is almost over."`
+char_enj: `"Yeah.`
+char_enj: ` There's only Battler onii‐chan and {f:5:Beatrice} left.`
+char_enj: ` .........I'm starting to get sleepy."`
+char_non: `It's probably because of that adult drink I swiped from Dad.`
+char_non: `I've felt floaty ever since I drank that.`
+char_non: ` ......That floaty feeling keeps getting stronger, and I've been feeling sleepy for a while now.`
+char_non: `I gave a huge yawn.`
+char_geo: `"Sleepy?"`
+char_enj: `"......Yeah.`
+char_enj: ` If I had a sofa, I'd probably fall asleep."`
+char_jes: `"I see.`
+char_jes: ` ......Then I guess it's almost time for this party to end."`
+char_enj: `".........?"`
+char_non: `......The party will end if I fall asleep?`
+char_non: `But I just wanted to take a nap while everyone else kept having fun.`
+char_geo: `"Was our puzzle just now a hard one?"`
+char_enj: `"......Yeah.`
+char_enj: ` I still don't really get it.`
+char_enj: ` ......And, ...I'm sleepy......"`
+char_geo: `"It's called posterior probability.`
+char_geo: ` That's what we call it when the probability of something changes because we learn or fail to learn some sort of information."`
+char_enj: `"........................"`
+char_non: `Did George onii‐chan call me all the way over here to lecture me on math...?`
+char_non: `......For some reason, I feel even sleepier now.`
+char_geo: `"So,`
+char_geo: ` if we have one almond in ten slices of cake, our chances of getting it are 10%.`
+char_geo: ` ......But what if "we learn" that those ten pieces were chosen at random from a hundred pieces?"`
+char_jes: `"You'd think that the probability went from one in 10 to one in 100, right...?"`
+char_geo: `"Absolutely nothing has changed about your slice of cake.`
+char_geo: ` ......But depending on whether you know or don't know a certain fact,`
+char_geo: ` the probability of your slice being a winner changes.`
+char_geo: ` Doesn't that sound strange?"`
+char_enj: `"......That sounds hard, so I don't wanna think about it..."`
+char_jes: `"Ange.`
+char_jes: ` Please, just listen until the end."`
+char_non: `Jessica onee‐chan's voice grew a bit stern.`
+char_non: `As young as I was, ......I couldn't understand what all this was supposed to mean to me.`
+char_geo: `"There's only one thing I want to tell you.`
+char_geo: ` So please, don't forget this."`
+char_enj: `".........What?"`
+char_geo: `"In the future,`
+char_geo: ` various bits of information will affect the slice of cake in your hands.`
+char_geo: ` ......By learning about those, the insides of your slice might change.`
+char_geo: ` Sometimes, they'll change into things you want.`
+char_geo: ` ......But, most likely, almost all of the changes will be into bad things."`
+char_jes: `"The truth is always right there in your hands, Ange.`
+char_jes: ` ......Don't you think it's stupid to let it change around just because you hear someone else's words, just because you hear what {i:they} think the truth should be?"`
+char_geo: `"The truth inside of you has been in your hands from the beginning.`
+char_geo: ` ......And the nature of that truth is actually something you decide for yourself.`
+char_geo: ` ......You change it yourself depending on what you hear...and what you refuse to listen to."`
+char_jes: `"You probably don't get what we're saying.`
+char_jes: ` But you have to understand.`
+char_jes: ` Even if you can't understand when you're six years old, I'm sure you will once twelve years have passed."`
+char_enj: `"..........................."`
+char_non: `With very serious expressions on their faces, they grasped my shoulders as they spoke.`
+char_non: `......I don't know what they're trying to tell me.`
+char_geo: `"The truth that lies in your hands is not unchangeable.`
+char_geo: ` You'll be interfered with in many ways that'll make it change.`
+char_geo: ` ......So, if the truth you hold in your hands is really important to you..."`
+char_jes: `"You need to protect it yourself.`
+char_jes: ` Don't forget it."`
+char_enj: `"................................."`
+char_enj: `"All that's left is the puzzles from you and {f:5:Beatrice}, and I'm done."`
+char_but: `"I see.`
+char_but: ` Even though there were so many of us, it looks like it's finally over."`
+char_bea: `"How was it?`
+char_bea: ` Did you enjoy tonight's party...?"`
+char_enj: `"Yeah.`
+char_enj: ` It was fun.`
+char_enj: ` But I think I'm a bit sleepy."`
+char_eva: `"......That's no surprise,`
+char_eva: ` considering how much we've been running around."`
+char_non: `I rubbed my eyes.`
+char_non: `I must have gotten really excited.`
+char_non: `{n}But whenever I get excited, I'm always tired afterwards.`
+char_non: `Right now, I'd rather have a sofa to lie on than medals.`
+char_bea: `"I've got a special puzzle just for you, ......but are you sure you want it?`
+char_bea: ` If you're sleepy, you can stop now."`
+char_enj: `"No.`
+char_enj: ` I've come this far, so I'll keep going......`
+char_enj: ` .........*yaaawn*......"`
+char_non: `Onii‐chan and Beato laughed at my yawn.`
+char_but: `"Looks like it's time to call it a day..."`
+char_bea: `"Yes.`
+char_bea: ` Ange.`
+char_bea: ` Let us leave my puzzle for later.`
+char_bea: ` It's too difficult to be solved by one with eyes as sleepy as that."`
+char_enj: `"............No way.`
+char_enj: ` ......I've...come this far, and...`
+char_enj: `...I also want......Onii‐chan's medal........."`
+char_non: `I'm just so......so sleepy......`
+char_non: `{n}..............................`
+char_non: `Ange drifted over to a chair in the corner of the room and plopped down onto it.`
+char_non: `Then, she closed her eyes, looking like a doll sitting there.`
+char_non: `It didn't take long before the cute sound of her breathing in her sleep could be heard...`
+char_non: `When she saw that Ange was finally asleep, Beato spoke softly.`
+char_bea: `"Quiet please, everyone.`
+char_bea: ` ......Ange fell asleep."`
+char_non: `When she said those words, the pleasant noise that had filled the room softly returned to silence.`
+char_non: `{n}Everyone looked down upon Ange's sleeping face.`
+char_non: `Each of them wore an affectionate gaze, as if they'd just watched a baby finally drift to sleep.`
+char_hid: `".........Did Ange‐chan have a good time?"`
+char_bea: `"Of course she did.`
+char_bea: ` ......She might not feel that strongly about it now,`
+char_bea: ` but one day, she will surely remember tonight's party and appreciate how fun it was."`
+char_but: `".........You're right."`
+char_eva: `"......It was fun for us too, getting to play with Ange‐chan."`
+char_non: `By this point, everyone was standing in a wide circle around Ange as she slept.`
+char_non: `Now that the guest of honor was asleep, ......this Halloween party had reached a conclusion...`
+char_kin: `"So long, my granddaughter.`
+char_kin: ` .........I was so pleased to have this chance to play with you again after twelve years.`
+char_kin: ` ......It matters not if you forget everything about me.`
+char_kin: ` Remember me as an arrogant despot.`
+char_kin: ` ......But, every now and then, try to remember how much I adored you."`
+char_nan: `"She will remember.`
+char_nan: ` .........Ange‐san.`
+char_nan: ` You have a long life ahead of you.`
+char_nan: ` Even after twelve years, there is still much for you to experience.`
+char_nan: ` I pray that you find this life meaningful and worthwhile."`
+char_cla: `"......You are the final grandchild and daughter of the Ushiromiya family.`
+char_cla: ` We all pray for your happiness."`
+char_nat: `"Ange‐chan.`
+char_nat: ` Stay well.`
+char_nat: ` ......Happiness isn't something you find, it's something you make.`
+char_nat: ` And in fact, memories work the same way."`
+char_cla: `"True.`
+char_cla: ` ......There are some things that we only truly understand when we think back on them years later."`
+char_hid: `"Make sure you remember my pretty face every now and then.`
+char_hid: ` Just having you remember us is the greatest memorial service we could ever have."`
+char_eva: `"Oh, come on.`
+char_eva: ` It's not like we're dying.`
+char_eva: ` We're just going to the inside of the cat box—the other side of the curtain."`
+char_hid: `"That's right.`
+char_hid: ` It's not even a curtain.`
+char_hid: ` It's just like we are now.`
+char_hid: ` Ange‐chan's there sleepin' away.`
+char_hid: ` The rest of us are right by her side, watchin' over her.`
+char_hid: ` ......We'll always be with her."`
+char_non: `All of them still wore warm smiles, but the sound of sniffling came from several places throughout the room...`
+char_non: `This party wasn't only for the girl who wasn't able to be here this day.`
+char_non: `It was also for all those people who weren't able to meet her here,`
+char_non: ` ......who never had the chance to say goodbye...`
+char_rud: `"Ange.`
+char_rud: ` Live life strongly.`
+char_rud: ` ......Our blood flows through your veins.`
+char_rud: ` That'll definitely bring you strength."`
+char_kir: `"......Eva nee‐san.`
+char_kir: ` Take care of our daughter.`
+char_kir: ` ......She's not honest with herself, and she'll often be selfish and short‐tempered.`
+char_kir: ` She might be a pain all the time, but......"`
+char_eva: `"I'll make sure...she's happy.`
+char_eva: ` As long as that's what she wants......"`
+char_goh: `"Ange‐sama, ...it's okay if you forget my face.`
+char_goh: ` But please, at least remember the taste of my cooking...!"`
+char_kum: `"Hohhohohohohohohoho.`
+char_kum: ` And I won't ask you to remember old Kumasawa.`
+char_kum: ` But please, at least remember the taste of mackerel juice."`
+char_non: `Someone said "when'd you feed her that?!" and everyone laughed.`
+char_ros: `"Her face looks so cute, sleeping there like that.`
+char_ros: ` ......She looks like an angel, just like her name."`
+char_mar: `"She's not an angel, she's a witch.`
+char_mar: ` Ange's the final witch, {f:5:Ange Beatrice}."`
+char_ros: `"I wonder if that magic will bring her happiness."`
+char_mar: `"Will she become a white witch or a black witch?`
+char_mar: ` ......That's for Ange to choose.`
+char_mar: ` I've shown her both sides."`
+char_ros: `"I'm sure a painful life lies ahead for you.`
+char_ros: ` You'll probably believe that you're all alone in this world.`
+char_ros: ` ......But we will always be there right behind you, cheering you on.`
+char_ros: ` Don't forget that......"`
+char_jes: `"Ange......`
+char_jes: ` Don't forget.`
+char_jes: ` Your self, your happiness, your fate.`
+char_jes: ` You're the one who creates all of these things.`
+char_jes: ` Only you can choose.`
+char_jes: ` Those aren't things that someone else can give you, and they aren't things that someone else can hide from you.`
+char_jes: ` ......Remember."`
+char_kan: `"I'm certain your message reached her."`
+char_jes: `"......I hope so."`
+char_kan: `"I'm certain the tale of the two of us will help Ange‐sama understand."`
+char_jes: `"...............Yeah."`
+char_sha: `"Don't you have anything to tell her, George‐sama?"`
+char_geo: `"......I've already said all I wanted with that box puzzle."`
+char_sha: `"Will that puzzle teach her something?"`
+char_geo: `"I don't know.`
+char_geo: ` But I do know that she's wise.`
+char_geo: ` I'm sure she'll learn something from it."`
+char_sha: `"......Ange‐sama.`
+char_sha: ` I pray that you are guided along the right path as you move on to the future."`
+char_non: `One by one, they stepped forward and said words of farewell to Ange.`
+char_non: `Then, finally, Battler and Beato walked forward......`
+char_but: `"Ange.`
+char_but: ` .........Were you able to remember everyone, at least a little bit?"`
+char_non: `Of course, Ange didn't answer in her sleep.`
+char_non: `{n}But Battler continued.`
+char_but: `"It's true that the Ushiromiyas are a strange family.`
+char_but: ` We're super‐rich, and that's given rise to all sorts of rumors and stories.`
+char_but: ` ......However, all of those are just speculation made up by people outside the island."`
+char_bea: `"......Young as you were, no one will blame you for forgetting the memories that were so kind to you.`
+char_bea: ` But even so, you must remember, for their sakes.`
+char_bea: ` ......It is not a sin to forget.`
+char_bea: ` ......The sin.....is to refuse to remember."`
+char_but: `"All of us...`
+char_but: `......were really happy to have you at this party.`
+char_but: ` ......Right, everyone?"`
+char_non: `Everyone nodded at Battler's words.`
+char_non: `Everyone knew about the merciless and lonely life that awaited her.`
+char_non: `It was no longer possible for them to heal those wounds.`
+char_non: `If there was one thing they could do...`
+char_non: `............it was to make her remember what a kind, fun family she had once had,`
+char_non: ` .........and to remind her that today and into the future, they would always care for her and watch over her.`
+char_bea: `"It goes without saying...`
+char_bea: `...that this is an illusion.`
+char_bea: ` You cannot come to Rokkenjima on October 4th, 1986.`
+char_bea: ` This whole party we shared was all a magical illusion, created by the Game Master, Battler."`
+char_but: `"But you remember now, right...?`
+char_but: ` How kind everyone was, and how much of a blast we all had at the family conferences.`
+char_but: ` ......Do you remember......the truth...?"`
+char_non: `Ange breathed softly in her sleep.`
+char_non: `Who knows......if those words truly reached her...`
+char_but: `"Auntie Eva."`
+char_eva: `"........................"`
+char_but: `"......Take care of her."`
+char_eva: `"You.........really think......that I deserve to become her mother......?"`
+char_but: `"I do.`
+char_but: ` .........Even though your own sadness was so unbearable,`
+char_but: ` ......you tried so hard to be a mother for Ange."`
+char_eva: `"But, in the end............"`
+char_but: `"It's alright.`
+char_but: ` ............Ange, listen carefully."`
+char_non: `Battler grasped Ange's hand, then took Eva's hand and joined the two hands together...`
+char_but: `"......We know that a tragic fate led to a future where the two of you hurt each other.`
+char_but: ` ......It was a very sad thing for you......and just as sad for Auntie Eva.`
+char_but: ` .........It wasn't fair on you that you were asked to open your heart to her.`
+char_but: ` And it wasn't fair on Auntie Eva that she was asked to endure her own sadness for your sake."`
+char_bea: `".........Neither of you...`
+char_bea: `is at fault."`
+char_but: `"Even so, .....we have no right to tell you to forgive her.`
+char_but: ` ......So, we won't.`
+char_but: ` .........Just try to understand.`
+char_but: ` It doesn't matter how long it takes, how far into the future it happens.`
+char_but: ` ......Try to understand Auntie Eva.`
+char_but: ` And, every once in a while, .........remember us."`
+char_bea: `"And don't forget about me.`
+char_bea: ` Every once in a while, remember this merry, cheerful, attractive paragon of a woman, and chant my name in praise three times every day."`
+char_non: `The relatives smiled bitterly, apparently disagreeing with some of that last bit.`
+char_non: `Eva softly stroked Ange's cheek and spoke one last time.`
+char_eva: `".........It's okay if you don't forgive your aunt.`
+char_eva: ` ......But still.`
+char_eva: ` It's true that I don't hate you.`
+char_eva: ` ......At least understand that......"`
+char_non: `Eva wiped her eyes and slowly stood up.`
+char_non: ` Hideyoshi held her shoulder, and Rudolf and Kyrie gathered around her too.`
+char_but: `".........Genji‐san.`
+char_but: ` Would you mind carrying Ange to somewhere she can lie down?"`
+char_gen: `"As you wish.`
+char_gen: ` ......Shall I take her to the guesthouse?"`
+char_bea: `"It'd be a little too sad to leave her all alone there."`
+char_but: `"You're right.`
+char_but: ` ......Could you carry her to the sofa in the parlor?`
+char_but: ` That way, she'll be able to come back if she wakes up and feels like joining in again."`
+char_non: `Genji gently lifted Ange up and carried her towards the parlor.`
+char_non: `Everyone continued to watch over her as she left......`
+char_kin: `"Shannon, Kanon.`
+char_kin: ` In the end, how many medals did Ange gather?"`
+char_sha: `"......She didn't get any medals."`
+char_sha: `"......She got one medal."`
+char_sha: `"......She got two medals."`
+char_sha: `"......She got three medals."`
+char_sha: `"......She got four medals."`
+char_sha: `"......She got five medals."`
+char_sha: `"......She got six medals."`
+char_sha: `"......She got seven medals."`
+char_sha: `"......She got eight medals."`
+char_sha: `"......She got nine medals."`
+char_sha: `"......She got ten medals."`
+char_sha: `"......She got eleven medals."`
+char_sha: `"......She got twelve medals."`
+char_sha: `"......She got thirteen medals."`
+char_sha: `"......She got fourteen medals."`
+char_sha: `"......She got fifteen medals."`
+char_sha: `"......She got sixteen medals."`
+char_sha: `"......She got seventeen medals."`
+char_kin: `"Hmm, I see.`
+char_kin: ` ......Then place this by her pillow."`
+char_kan: `"Yes,`
+char_kan: ` as you wish."`
+char_non: `Genji carried Ange to the parlor and set her down on the sofa.`
+char_non: `Shannon quietly laid a warm blanket on top of her.`
+char_non: `Kanon placed a message card by her pillow, along with that thing Kinzo had given them.`
+char_non: `The message card read as follows:`
+char_non: `{a:c:We'll all be with you, always.`
+char_non: `{n}{nobreak:{m:-5:—}—}From the whole Ushiromiya family}`
+char_non: `And there, right by her pillow, was the gift from Kinzo, ......a scrubbing brush.`
+char_non: `And there, right by her pillow, was the gift from Kinzo, ......a can of mackerel.`
+char_non: `And there, right by her pillow, was the gift from Kinzo, ......a memory foam pillow with the One-winged Crest.`
+char_non: `And there, right by her pillow, was the gift from Kinzo, ......an old‐type white school swimsuit.`
+char_non: `And there, right by her pillow, was the gift from Kinzo, ......a fully ripe mango.`
+char_non: `And there, right by her pillow, was the gift from Kinzo, ......a decorative pine branch.`
+char_non: `And there, right by her pillow, was the gift from Kinzo, ......a uniform from Angel Mort.`
+char_non: `And there, right by her pillow, was the gift from Kinzo, ......a signed celebrity photograph of Kinzo himself.`
+char_non: `And there, right by her pillow, was the gift from Kinzo, ......a bag that laughs with Kinzo's voice.`
+char_non: `And there, right by her pillow, was the gift from Kinzo, ......a One‐winged Eagle carp streamer.`
+char_non: `And there, right by her pillow, was the gift from Kinzo, ......a bouquet of golden roses.`
+char_non: `And there, right by her pillow, was the gift from Kinzo, ......a music box that was passed down through the generations.`
+char_non: `And there, right by her pillow, was the gift from Kinzo, ......a mass‐produced Sakutarou doll.`
+char_non: `And there, right by her pillow, was the gift from Kinzo, ......a tea set bearing the family crest.`
+char_non: `And there, right by her pillow, was the gift from Kinzo, ......a pocket watch bearing the family crest.`
+char_non: `And there, right by her pillow, was the gift from Kinzo, ......a {f:5:Beatrice} corsage.`
+char_non: `And there, right by her pillow, was the gift from Kinzo, ......a Battler doll.`
+char_non: `And there, right by her pillow, was the gift from Kinzo, ......a {f:5:Beatrice} doll.`
+char_non: `Ange, mumbling in her sleep, held it tightly against her cheek.`
+char_gen: `"Let us go.`
+char_gen: ` We mustn't wake her."`
+char_kan: `"Nee‐san."`
+char_sha: `"......Yeah.`
+char_sha: ` ..................?"`
+char_non: `Shannon thought she saw something glittering silver near Ange's eye......`
+char_non: `The servants left and closed the parlor door.`
+char_non: `{n}As Ange slept, she was wrapped up in the soft sound of the rain.`
+char_non: `Surely, she was reliving that fun evening once more in her dreams......`

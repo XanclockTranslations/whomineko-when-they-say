@@ -1,0 +1,836 @@
+char_kum: `"Come on, it's okay now. Let's hurry."`
+char_bea: `"I, I hope Father likes sweet foods......"`
+char_kum: `"Oh yes, he does like them.`
+char_kum: ` In fact, he seems to enjoy eating pretty much anything.`
+char_kum: ` Hoh‐hoh‐hoh‐ho."`
+char_non: `After waiting for the master of the study to be out, Beato and Kumasawa entered the study.`
+char_non: `Then, they quickly tidied away the books on the desk, set down the basket they had brought there, and began spreading out the contents.`
+char_non: `Inside......were several cute cookies cut out in a butterfly shape.`
+char_non: `They set out a cute plate and neatly decorated it with the cookies.`
+char_non: `It was the kind of slight adornment that the person eating wasn't likely to even notice.`
+char_non: ` The whole setup was filled with that sort of feeling.`
+char_be3: `"You spare no efforts for the sake of your beloved father."`
+char_bea: `"This is......all I'm permitted to do right now."`
+char_be3: `"To think that I would give Battler cookies...`
+char_be3: ` Why should I, the ruler of the night, do so much for a guest who comes so rarely?"`
+char_non: `Then, the study door swung violently open.`
+char_non: `It was Battler, with Genji by his side...`
+char_non: `Battler's eyes went wide for a second when he saw Beato there, but his expression quickly went blank again.`
+char_but: `"......What are you doing here?"`
+char_bea: `"Father, ......please excuse me.`
+char_bea: ` I didn't come here to get in the way of your important game......"`
+char_but: `"How were you able to get in here...?`
+char_but: ` Wasn't this room locked?"`
+char_gen: `"......My apologies.`
+char_gen: ` I lent them a key because they wished to surprise you with a gift."`
+char_kum: `"See, have a look...!`
+char_kum: ` {f:5:Beatrice}‐sama baked these cookies with all her soul, hoping that you would enjoy them."`
+char_bea: `"Kumasawa‐san and Genji‐san taught me...`
+char_bea: ` I never knew Genji‐san was so good at baking cookies."`
+char_kum: `"Hoh‐hoh‐ho.`
+char_kum: ` He hasn't done it much of late, but Genji‐san used to cook many things long ago.`
+char_kum: ` He was especially good with sweets...!"`
+char_but: `"Cookies...?"`
+char_bea: `"Y‐yes.`
+char_bea: ` It's a gift for you, Father.`
+char_bea: ` I sincerely pray for your victory in this important match..."`
+char_non: `Battler looked at the plate on the study desk that was piled up with beautiful cookies...and the message card of encouragement lying next to it,`
+char_non: ` .........and his face twisted with a complex expression, which might have had traces of both sadness and anger contained within it...`
+char_gen: `"............My lord..."`
+char_non: `In not so many words, Genji prompted him to consider giving Beato's efforts some kind of acknowledgment...`
+char_non: `Battler understood.`
+char_non: `{n}......He had no reason to respond to this kindness with displeasure.`
+char_non: `However, even though he understood that logically,`
+char_non: ` ......all he could do was give a small exasperated sigh.`
+char_but: `"......Thank you, I'm very grateful.`
+char_but: ` ......But I don't like sweets.`
+char_but: ` Please take it away."`
+char_kum: `"M‐......my lord..."`
+char_gen: `"....................."`
+char_but: `"Don't make me say the same thing again.`
+char_but: ` ......Please clean it up and take it away."`
+char_kum: `"M‐my lord, couldn't you try just one bite...?`
+char_kum: ` {f:5:Beatrice}‐sama worked hard to make them for your sake..."`
+char_but: `"......I'm grateful for the sentiment.`
+char_but: ` ......I'm in the middle of a very important game right now.`
+char_but: ` Important to both me...`
+char_but: `and Beato.`
+char_but: ` .........And it will be our last.`
+char_but: ` So please.`
+char_but: ` Try not to trouble me any more than necessary."`
+char_kum: `"That's just too sad for her...!`
+char_kum: ` I'm glad that you are grateful for her feelings,`
+char_kum: ` but can't you show it by taking just one little bite...?!"`
+char_bea: `".....................Father..."`
+char_non: `Beato looked at Battler sadly.`
+char_non: `......Battler hung his head to avoid her gaze.`
+char_non: `The expression on his face was more pained than any he had shown Beato before...`
+char_gen: `"..................`
+char_gen: ` ......Kumasawa, clean this up and take it away."`
+char_kum: `"My lord...!!"`
+char_but: `"..........................."`
+char_non: `Kumasawa implored Battler to listen, but he turned his back to her...`
+char_bea: `"......My...apologies...`
+char_bea: ` ......Let's clean this up, Kumasawa‐san..."`
+char_kum: `"I won't allow it.`
+char_kum: ` By making this gift, {f:5:Beatrice}‐sama gave it her all to try and support you in your important game in the only way she could.`
+char_kum: ` To tell her to take it away without eating a bite yourself... How can you trifle with a woman so?!!"`
+char_gen: `".........Kumasawa."`
+char_kum: `"If you call yourself a man,`
+char_kum: ` you should at least try a bite when a woman makes you a handmade snack!!`
+char_kum: ` If you truly intend to trample on this woman's feelings, I promise you this,`
+char_kum: ` I will not back down even if it kills me! No I won't!!"`
+char_bea: `"K‐`
+char_bea: `......Kumasawa‐san,`
+char_bea: ` ......you've done enough for me already......"`
+char_kum: `"I won't allow it!!`
+char_kum: ` My lord, do you think there might be poison inside them?!"`
+char_but: `"..........................."`
+char_non: `......Yeah,`
+char_non: ` if Beato ever came to give me cookies......`
+char_non: `......of course I'd think that she'd put some kind of crazy poison in them......`
+char_non: `She asked me if I thought there'd be poison in these?`
+char_non: `How could anyone ever think...`
+char_non: `...that cookies like these, piled up in such a neat and cute way,`
+char_non: ` .......could possibly have something bizarre hidden inside...?`
+char_non: `And...`
+char_non: `......who could possibly believe...`
+char_non: `......that {i:Beato}...`
+char_non: `......would make something like this......?`
+char_non: `Because of that, ......Battler couldn't bear to look at Beato's innocent reaction,`
+char_non: ` which was completely free from any malicious thoughts of slipping poison into the cookies......`
+char_non: `Beato quietly started to clean up.`
+char_non: ` ......Every now and then, she sniffled.`
+char_non: `Kumasawa had been glaring at Battler continuously,`
+char_non: ` but she now gave a small sigh and helped Beato clean up.`
+char_non: `However, the hardness didn't disappear from her expression.`
+char_bea: `".........My apologies, Father.`
+char_bea: ` ...Please excuse me."`
+char_but: `"Don't call me that......"`
+char_bea: `".................."`
+char_but: `"Don't call me Father.`
+char_but: ` ......Beato never once called me that."`
+char_bea: `"Y‐......yes, as you wish...`
+char_bea: ` ......My apologies..."`
+char_non: `Hanging her head so low that her chin touched her chest, Beato hurried out of the study.`
+char_non: `After giving Battler a look, Kumasawa chased after her.`
+char_non: `She shut the door a bit violently, and the footsteps of the pair rapidly disappeared off into the distance...`
+char_enj: `".....................`
+char_enj: ` ......I may be his little sister, but I'm not sure how I feel about that."`
+char_fea: `"If she were anyone other than Beato, you'd think of him as a true enemy of women, is that it...?"`
+char_enj: `"......I don't have a clue why Onii‐chan and Beato act so friendly together.`
+char_enj: ` Right now, I think of Beato as our greatest enemy, the one we must defeat.`
+char_enj: ` ......Still, even so...`
+char_enj: ` As a woman, ......I can't say I like Onii‐chan's reaction."`
+char_fea: `"Though I can understand Battler's feelings a little.`
+char_fea: ` ......What a sad state of affairs."`
+char_non: `I still don't understand what kind of bad blood or connection there was between them.`
+char_non: `However, Onii‐chan probably views Beato......as a friendly adversary, if not something more.`
+char_non: `Onii‐chan's reason for defeating Beato isn't to destroy an enemy out of hatred.`
+char_non: ` ......It feels like he wants to give a sincere answer to her questions.`
+char_non: `Yes.`
+char_non: ` I can't deny the fact that their fight isn't based on hatred...`
+char_non: `but on a stronger emotion.`
+char_enj: `".........And on top of that...`
+char_enj: `...Beato really is something, to remain dedicated to Onii‐chan even after being treated so coldly.`
+char_enj: ` I agree with the other, older sister {f:5:Beatrice}.`
+char_enj: ` ......I can't understand why she's so dedicated to Onii‐chan."`
+char_fea: `"And, though it may take a thousand years,`
+char_fea: ` that single factor that you do not understand must be passed on to the Golden Witch {f:5:Beatrice} we know so well..."`
+char_enj: `"......Yes.`
+char_enj: ` I understand that.`
+char_enj: ` ......Knowing this Beato leads to knowing the Beato who is to come.`
+char_enj: ` ......It may explain the greatest piece in this crazy game, if not the game board itself..."`
+char_fea: `"Such a mysterious witch......"`
+char_non: `Though she said those words, {f:5:Featherine} wore a confident smile on her face.`
+char_non: `Her sarcastic confidence, as though she already knew the answer, was unchanged.`
+char_enj: `".........{f:5:Beatrice}.`
+char_enj: ` I want to ask you something."`
+char_bea: `"Y‐......yes, what would you like to know, Ange‐san...?"`
+char_non: `Beato, who had been reading a fragment book in the shadows of the study, jumped when Ange called out to her.`
+char_enj: `"......Why do you call Ushiromiya Battler "Father"?"`
+char_bea: `"B‐because he created the piece that I am..."`
+char_enj: `"......In that case, why are you so dedicated to Ushiromiya Battler?`
+char_enj: ` Is there some rule that pieces must obey the creator who made them?"`
+char_fea: `"There is no such rule.`
+char_fea: ` ......Pieces are tools, ...like a knife.`
+char_fea: ` ......If the Game Master uses them well, they can be quite useful.`
+char_fea: ` However, if you use them incorrectly, they can hurt you as well.`
+char_fea: ` ......Whether the tool is used as a tool or a weapon, that has nothing to do with the tool's own will.`
+char_fea: ` It is merely the result."`
+char_enj: `"In that case, why are you so dedicated towards Onii‐chan?`
+char_enj: ` It's almost as though......that's your purpose as a piece."`
+char_bea: `"Y‐.........yes.`
+char_bea: ` ...That is the purpose for which I was born."`
+char_enj: `"Did Onii‐chan, the one who gave birth to you, give you that purpose?"`
+char_fea: `"You have that wrong.`
+char_fea: ` ......Battler merely set "a piece with that role" on the board as the Game Master.`
+char_fea: ` ......The one who gave birth to this piece...`
+char_fea: `was the first Game Master and the one who created this game, {f:5:Beatrice} herself..."`
+char_enj: `"......Aaah, this is getting confusing.`
+char_enj: ` ......In other words, you keep calling Onii‐chan "Father", but he's not actually your father.`
+char_enj: ` ......You're just calling him that affectionately,`
+char_enj: ` because you feel that you have to dedicate yourself to him."`
+char_bea: `"Y‐......yes.`
+char_bea: ` ......I think that's true.`
+char_bea: ` Father was the one who placed me on the game board.`
+char_bea: ` If he hadn't, my piece would never have had a turn.`
+char_bea: ` So, the reason I exist here right now and the reason I am able to devote myself to my purpose...is all thanks to Father."`
+char_enj: `"......I see.`
+char_enj: ` So that's why it makes sense for you to call him Father.`
+char_enj: ` ......In that case, who told you to devote yourself to Onii‐chan?`
+char_enj: ` ......Oh, right, that's the first Game Master, Beato herself.`
+char_enj: ` ......Aaaahh, this is so confusing."`
+char_fea: `"You wish to ask her why she must serve Ushiromiya Battler, correct?`
+char_fea: ` However, she cannot give you that answer.`
+char_fea: ` She was given nothing but the purpose itself.`
+char_fea: ` ......Only the person who gave her that purpose knows the reasons for which they did so."`
+char_enj: `"......I see.`
+char_enj: ` "Consider that as well, child of man", right?`
+char_enj: ` ......So, that means you already have an idea and you're laughing at my confusion."`
+char_fea: `"*cackle*cackle*.`
+char_fea: ` You really are just perfect for my miko..."`
+char_bea: `".........I will......do anything for Father.`
+char_bea: ` ...My existence will bring Father happiness.`
+char_bea: ` ......That is my greatest pleasure.`
+char_bea: ` ......And............"`
+char_non: `At that point, Beato hesitated.`
+char_enj: `"What?`
+char_enj: ` And what?"`
+char_bea: `"Y‐yes...`
+char_bea: ` ......And...`
+char_bea: `......if I could one day have Father acknowledge my efforts,`
+char_bea: ` ......there would be no greater happiness for me..."`
+char_fea: `"Pft........."`
+char_enj: `".........What the hell.`
+char_enj: ` ......If you only wanted to serve him, I'd say you're just another piece of the witch's furniture,`
+char_enj: ` ......but you want him to acknowledge your efforts?`
+char_enj: ` That's less like furniture and more like—"`
+char_non: `Ange stopped mid‐sentence.`
+char_non: `......That's less like furniture and more like...`
+char_non: `......you're just a girl...`
+char_non: `......who loves Onii‐chan.`
+char_non: `..................I don't...get it.`
+char_non: `The guiding force behind this Beato's actions...is that of a girl who adores Onii‐chan.`
+char_non: `But then, what would that make {i:her}?`
+char_non: `If {i:she} liked Onii‐chan, then she should have adored him and done things for him herself.`
+char_non: `Why would she create "a piece of herself", a separate entity, to do it......?`
+char_non: `This way, ......even if she does attract Onii‐chan's attention, it will be towards the piece version of herself,`
+char_non: ` ......not the creator who made that piece.`
+char_non: `If I ever fall in love with someone, I'll probably want to do things for them.`
+char_non: `But of course, I would want to do those things myself.`
+char_non: `After all, I would want him to notice {i:me}.`
+char_non: `This love is destined to go virtually unrewarded...... No matter how devoted she is, she will never get anything out of it.`
+char_non: `{n}And she's done this out of her own free will...`
+char_non: `Beato's behavior looks no different from that of an average girl in love.`
+char_non: `She's devotedly doing all she can for him, dreaming that her kindness will eventually be acknowledged.`
+char_non: `......Why would Beato create a piece like this...?`
+char_non: `Is putting it in terms of romance a bit too confusing?`
+char_non: ` Then let's try using food as an example.`
+char_non: `It's as pointless as creating "a piece to eat food for you".`
+char_non: `No matter how much food your piece eats on your behalf, you won't get any less hungry, right?`
+char_non: `You are the one who wants to eat.`
+char_non: `{n}There's no reason for having a piece do that in your place.`
+char_non: `For most jobs in the world, you can get someone else to do it for you.`
+char_non: ` However, with love and food alone, there can never be any meaning in letting another person do it in your place.`
+char_non: `That's right.`
+char_non: ` ......This Beato was created as a "piece"...for an impossible reason......`
+char_non: `......Though at a glance, she looks like just a normal girl,`
+char_non: ` .........the more I learn about her, the less I understand, ......like an imaginary number......`
+char_bea: `"......Father hates it when I call him Father.`
+char_bea: ` ......And the "me" that Father desires...didn't call him by that name either."`
+char_enj: `"Right.`
+char_enj: ` The former "you" spoke to everyone without even using honorifics."`
+char_bea: `"..................`
+char_bea: ` However, ......simply possessing that knowledge doesn't mean I can refer to Father quite that informally.`
+char_bea: ` ......I'd like to do my best......and make a start by calling him Battler‐san."`
+char_enj: `"I'm surprised you haven't gotten discouraged after being treated so coldly."`
+char_bea: `"......Fath—`
+char_bea: `no,`
+char_bea: ` ......Battler‐san is in the middle of an important game right now.`
+char_bea: ` His opponent is the formidable Lady {f:5:Erika}, piece of the great Lady {f:5:Bernkastel}."`
+char_bea: `"......I stepped in at a delicate moment in his game, just as it was starting to reach the critical part,`
+char_bea: ` ......and called Battler‐san by that name he doesn't want to hear,`
+char_bea: ` ......so it's no surprise that he was in a bad mood..."`
+char_enj: `"....................."`
+char_non: `Apparently, Beato still wanted to devote herself to Battler, even after being treated in such a cold manner.`
+char_non: `Though to an outsider, it just looks as though she's being snubbed, ......it doesn't faze her at all.`
+char_non: `It truly is the blindness of a girl in love......`
+char_enj: `"......Or is it that I can't {y:1:‘see’}{n:1:see} because I have no love?"`
+char_fea: `"At times, love can make the invisible {y:1:‘visible’}{n:1:visible}."`
+char_non: `Beato once again immersed herself in the fragment book that told of her former self.`
+char_non: `......She was trying to find something about the Beato that Battler desired.`
+char_non: `Ange shrugged, as though saying "well, I don't get it".`
+char_non: `{n}{f:5:Featherine} laughed when she saw this, and quipped that an "innocent young woman" could never understand.`
+char_non: `{n}Ange grumbled something back unhappily.`
+char_non: `Their interactions seemed to have no effect whatsoever on Beato as she sat in the shadows of the library......`
+char_non: `After chasing all the others out, ......only Battler remained in the study.`
+char_non: `There was no color in this dimly lit room.`
+char_non: `However, ......for just the short time that the plate of cookies had been placed there,`
+char_non: ` the room had seemed at least a little cheery...`
+char_non: `Battler's gaze drifted over to the desk, ......which no longer had anything on it.`
+char_non: `When he did, the cookie plate that had been there until a second ago was revived.`
+char_non: `However, ......it was an illusion.`
+char_non: `Though the cookies could be looked at, they could not be touched, much less eaten...`
+char_non: `If Battler wished, he could make it possible to "touch them" or "eat them", ......but it would be an empty sensation.`
+char_non: `It would only give the touch and taste that Battler desired.`
+char_non: `......He no longer had any way of knowing...`
+char_non: `...what kind of cookies they had actually been.`
+char_but: `"..........................."`
+char_non: `In a reception sofa facing Battler,`
+char_non: ` ......a cloud of gold butterflies slowly gathered,`
+char_non: ` ...and took the form of the old Beato.`
+char_bea: `"‘Come o~n, have a bite{p:0:☆} It's not every day that I'll make these by hand...!`
+char_bea: ` Have no fear, I'm confident in how well they've turned out.’"`
+char_ron: `"‘Pu ku ku ku!`
+char_ron: ` Hearing that from Milady makes them all the more dubious.’"`
+char_but: `"......Seriously.`
+char_but: ` ......Any cookies you made would obviously have some kind of strange poison in them."`
+char_bea: `"‘Shocking that you should think so.`
+char_bea: ` Even if I did put something in, it'd be no worse than the kind that does this and maybe that to your you‐know‐what.`
+char_bea: ` Uhyahyahya!’"`
+char_wal: `"‘It's because you do that sort of thing all the time that Battler‐kun will never agree to eat them.’"`
+char_gap: `"‘Huh? Putting things in someone's food is pretty basic, isn't it?`
+char_gap: ` Fingernails, bits of hair, magic charms, fragments of love...ehe{0}he{0}he{0}he{0}he{0}he{0}heh!`
+char_gap: ` What would you people put in?’"`
+char_rg6: `"‘Yes, ma'aaam!!`
+char_rg6: ` I wouldn't put anything in them! I'd just eat them all myself!’"`
+char_rg3: `"‘Obviously. Do you have to be so predictable?!!’"`
+char_rg7: `"‘Well, they say a girl's gotta grab by all three sacks{p:0:☆} The first step is the stomach, right?`
+char_rg7: ` Next comes the wallet...so what could the third one be?! *giggle*{p:0:☆}’"`
+char_rg5: `"‘If I could catch a guy's attention, I'd want to make him sacrifice his body, heart, and soul to me!`
+char_rg5: ` That's why I pour all my power and affection into my cooking.’"`
+char_rg4: `"‘Heheh, in any event, giving someone food that you've cooked yourself is probably a frontal attack as old as time.’"`
+char_rg1: `"‘Ridiculous.`
+char_rg1: ` How pathetic to think that you require such tricks to grasp a man's heart.’"`
+char_rg2: `"‘Ohh~?`
+char_rg2: ` I'd be very interested in hearing how much experience you have in grasping a man's heart, Onee‐sama!’"`
+char_bea: `"‘Battler, there's nothing weird in it, so have a bi~te.`
+char_bea: ` Don't think you'll ever get a chance to eat my handmade cookies again{p:0:☆}’"`
+char_non: `.........There probably won't...be another chance.`
+char_non: `I slowly stretched out my hand,`
+char_non: ` ......out to the illusion of the cookie plate,`
+char_non: ` ......and touched it.`
+char_non: `Just before I did, it became a cloud of gold butterflies, ......and vanished into the darkness of the study.`
+char_non: `The illusions of Ronove and {f:5:Virgilia} also disappeared.`
+char_non: `{n}...However, the illusion of Beato alone still remained on the sofa.`
+char_bea: `"......Is there something that does not satisfy you?"`
+char_but: `"............Are you really going to make me say it?"`
+char_bea: `"*cackle*cackle*cackle*.`
+char_bea: ` ......The more the new "me" differs from the form you wished for,`
+char_bea: ` ......the more you are reminded that I can never be revived again,`
+char_bea: ` ......correct?"`
+char_but: `"..........................."`
+char_bea: `"*cackle*cackle*!`
+char_bea: ` If you let a good woman get away, you never get a second chance.`
+char_bea: ` So, only now, you've finally realized what a good woman I wa~s."`
+char_but: `"......Shut up.`
+char_but: ` If you never appear again,`
+char_but: ` ......that'd be a relief."`
+char_bea: `"Hmph..............."`
+char_non: `Beato lay sprawled on the sofa and looked up at the ceiling.`
+char_non: `Battler also turned his back and moved to the window. ......For a while, there was silence.`
+char_bea: `"I think you understand, but......"`
+char_but: `"......I do understand."`
+char_bea: `"The "me" you were expecting...has already disappeared."`
+char_but: `"......I know.`
+char_but: ` ......Even though that Beato is you without a doubt, ......she's a different being than the former you...`
+char_but: `......and I can say with certainty......that you will never revive again..."`
+char_bea: `"My soul, femininity, sparkling personality, and splendid character were cultivated in a thousand years spent as a witch.`
+char_bea: ` Unless an exactly identical thousand years is traversed, it is impossible to become me.`
+char_bea: ` In short, ......from the very moment you decide to create me, my personal history will be different."`
+char_but: `"Yeah.`
+char_but: ` ............That damn {f:5:Bernkastel} has already guaranteed that you'll never revive..."`
+char_bea: `"However, you still hope for it, don't you?"`
+char_but: `".............................."`
+char_bea: `"One day, the new "me" trips and lands on her head, and all her memories of the past are spectacularly restored!`
+char_bea: ` ......You're hoping for something like that, aren't you?`
+char_bea: ` Ahya{0}hya{0}hya{0}hya!`
+char_bea: ` A delusional plot like that wouldn't even pass in a light novel these days!"`
+char_but: `"......Shut up.`
+char_but: ` ......Don't pretend you didn't do the same.`
+char_but: ` ......You waited and waited...`
+char_but: `...for me to remember...`
+char_but: `...and take notice..."`
+char_bea: `"..........................."`
+char_but: `"........................"`
+char_non: `Then, ......what?`
+char_non: `Does this mean...`
+char_non: `......that our relationship now...`
+char_non: `...is exactly the opposite of how it once was......?`
+char_bea: `".........Hmph...`
+char_bea: ` ......Well, there was a time when I continued the game believing that you would eventually notice and remember,`
+char_bea: ` ......that a miracle would occur."`
+char_but: `"..................How did it feel?`
+char_but: ` ......When you were playing those games with me."`
+char_bea: `"*cackle*cackle*cackle*...`
+char_bea: ` As they say, look inside your own heart..."`
+char_but: `"..........................."`
+char_non: `......It's tough.`
+char_non: `If only she didn't look so much like you, ......I wouldn't be so confused about how to feel about her.`
+char_bea: `"Well, do as you wish.`
+char_bea: ` In the past, I toyed with you and tormented you.`
+char_bea: ` .........Now's your chance for revenge against me.`
+char_bea: ` ......The new "me" will just wander about, ignorant of everything.`
+char_bea: ` You may boil or burn her as you see fit.`
+char_bea: ` Perhaps it will clear away an old hatred."`
+char_but: `"............If she was you, I would.`
+char_but: ` It'd probably make me feel a lot better.`
+char_but: ` ......But...`
+char_but: `.........that Beato...`
+char_but: `...isn't you."`
+char_bea: `"Who is she, then, if not me?"`
+char_but: `"......Someone very like you,`
+char_but: ` .........but a different person."`
+char_bea: `"However, there can be no doubt that she is also me."`
+char_but: `".........Yeah.`
+char_but: ` She is you,`
+char_but: ` ......and at the same time,`
+char_but: ` ...she's a different person."`
+char_bea: `"In that case, the new "me" is most unfortunate.`
+char_bea: ` She is being treated like a plaything in my place.`
+char_bea: ` ......*cackle*cackle*, how truly pitiable."`
+char_but: `"...................................."`
+char_non: `That might......be the contradiction inside me.`
+char_non: `Because the new Beato seems like a different person, I can't accept her.`
+char_non: `Even though I know she's a different person than Beato, ......she keeps reminding me of her.`
+char_bea: `"In that case,`
+char_bea: ` ......think of her as my daughter."`
+char_but: `".........Your daughter.........?"`
+char_bea: `"Consider her a blood daughter of mine who closely resembles me.`
+char_bea: ` After all, she is my double, but hasn't lived a thousand years, so calling her that is not incongruous."`
+char_but: `"......True..."`
+char_bea: `"Imagine that I have died, left behind a daughter, ......and entrusted her to you.`
+char_bea: ` That way, won't it become a little easier to think of how to deal with her?"`
+char_but: `"That's actually a good analogy. ......It's unlike you."`
+char_bea: `"Do not jest.`
+char_bea: ` That is my daughter.`
+char_bea: ` She is the child I left behind after my death.`
+char_bea: ` .........You are free to press my likeness upon her.`
+char_bea: ` You may also let loose your pent‐up resentment on her in my place."`
+char_bea: `"......Making her bear my sins and torturing her as you please may allow you to give vent to your emotions.`
+char_bea: ` If that is not to your taste, you can also guide her down the right path so that she does not end up on the inhumane road that I have tread."`
+char_bea: `"......She was made to devote herself to you since the moment of her birth.`
+char_bea: ` If you wish, you can mold her into any shape you desire.`
+char_bea: ` .........With a miracle of a thousand years, she might even become me."`
+char_but: `"......So, I could even strip her and drag her around with a chain, like you did to me once."`
+char_bea: `"*cackle*cackle*.`
+char_bea: ` Yes, at this point, even greater humiliation would be possible..."`
+char_but: `".....................So she is both your double...`
+char_but: `and...`
+char_but: `your daughter,`
+char_but: ` ......huh..."`
+char_non: `Without a doubt, she is exactly the same person, the same piece, which was created once more by the rule called {f:5:Beatrice}.`
+char_non: `However, when I can't accept it that way, .........I can interpret her as being Beato's daughter.`
+char_non: ` ......This served as a clear guidepost on how to interact with her and smooth the uncertainty in my heart.`
+char_non: `............And...`
+char_non: `...finally...`
+char_non: `......I could understand...`
+char_non: `......how cruel I had been to her just now......`
+char_non: `My tears poured to the ground, ......and when I followed them with my eyes...`
+char_non: `{n}I noticed that a white card about the size of a business card had fallen onto the floor.`
+char_non: `It was...`
+char_non: `...the message card that had adorned those cookies.`
+char_non: `I had rushed her, telling her to clean up and leave right away, which was probably why it had fallen to the floor unnoticed.`
+char_non: `I picked it up,`
+char_non: ` .........and read the message on it.`
+char_non: `.........It was...`
+char_non: `extremely short,`
+char_non: ` ...pure,`
+char_non: ` ......and sincere.`
+char_non: `It brought tears to my eyes, ......so I was sure that I could read it.`
+char_non: `......And yet,`
+char_non: ` ......my eyes were so blurred with tears...`
+char_non: `...that I couldn't...`
+char_non: `......see anything.........`
+char_non: `......The flood of light and sound slowly dissipated.`
+char_non: `The silence that followed was not broken by any noise, not even the sound of the wind and rain outside that had been so clearly audible moments before.`
+char_non: `Both Jessica...`
+char_non: `...and George...`
+char_non: `...timidly opened their eyes...`
+char_non: `......Where in the world...`
+char_non: `...was this......?`
+char_non: `It was a strange room that they had never seen before.`
+char_non: `It looked like a Western tea room.`
+char_non: `......Its furnishings were stylish and expensive.`
+char_non: `{n}It felt as though a dignified person must own this room.`
+char_non: `Preparations for black tea were set on the table, ......and so was a chessboard, which seemed to be halfway through a game.`
+char_non: `However, there was something strangely out of place.`
+char_non: `The black and white checkerboard pattern made it feel like chess,`
+char_non: ` ......but it looked like a very similar yet totally different game that no one knew of.`
+char_non: `In the same way that it both looked like chess and not like chess...`
+char_non: `...the furnishings of this room—no, the room as a whole—looked at first glance like a Western tea room...`
+char_non: `...but also felt like something completely different...`
+char_jes: `".........J‐`
+char_jes: `...just where...`
+char_jes: `is this place......?"`
+char_geo: `"......Jessica‐chan and Kanon‐kun...`
+char_geo: ` ...............Shannon?`
+char_geo: ` Where's Shannon...?!"`
+char_sha: `"I'm right here, George‐sama."`
+char_kan: `"And I am here.`
+char_kan: ` ......Milady, George‐sama.`
+char_kan: ` We apologize for bringing you to a place like this."`
+char_geo: `"......What on Earth is going on?`
+char_geo: ` ......You took out something that looked like a butterfly wing and it started shining, and then..."`
+char_jes: `"Th‐the same thing happened to me...!`
+char_jes: ` Kanon‐kun took out this golden butterfly brooch thing, it started to sparkle, and..."`
+char_sha: `"Milady, George‐san, first of all, please allow us to apologize.`
+char_sha: ` And please stay calm.`
+char_sha: ` ......Something strange is about to happen.`
+char_sha: ` That strange thing will probably test us."`
+char_geo: `"Test us......?`
+char_geo: ` ...Do you mean...`
+char_geo: `that trial you were just talking about...`
+char_geo: `...that we have to overcome if we want to be together?`
+char_geo: ` ......Is that it?"`
+char_jes: `"A......a trial?"`
+char_kan: `".........I haven't explained it to you yet, Milady.`
+char_kan: ` My apologies.`
+char_kan: ` .........But please,`
+char_kan: ` ...if your words just a second ago were the truth, ......please lend me your strength.`
+char_kan: ` I will......give it everything I've got, so please......"`
+char_jes: `"......I...I'm not getting any of this...`
+char_jes: ` Do you know something, George nii‐san?"`
+char_geo: `"A bit.`
+char_geo: ` .........I'm just as surprised as you about what's happening now.`
+char_geo: ` But if they say that this is an unavoidable trial that's essential for us to go through, I intend to take on whatever may come."`
+char_jes: `"...............A trial......?"`
+char_sha: `"Kanon‐kun.`
+char_sha: ` The brooch."`
+char_kan: `"Yeah......"`
+char_non: `The two of them brought the halves of the broken golden butterfly brooch closer to each other.`
+char_non: `As they grew closer, the strength of their bright yellow radiance increased.`
+char_geo: `"......Jessica‐chan, I want you to brace yourself for this.`
+char_geo: ` I am already mentally prepared."`
+char_jes: `"Wh‐what are you talking about...?!`
+char_jes: ` I don't have a clue!`
+char_jes: ` What the hell's going on...?!"`
+char_geo: `"It's a trial.`
+char_geo: ` A test for a pair of lovers."`
+char_jes: `"H‐......huuh...?!"`
+char_non: `George spoke those corny words without any hesitation.`
+char_non: `It was such an embarrassing line that Jessica couldn't help turning red,`
+char_non: ` ......but the expression on George's face, which was so serious that it was almost grim, forced her to tense up as well...`
+char_non: `Shannon and Kanon were just as serious.`
+char_non: `......With a glow in their eyes, as though they were taking part in a sacred duel, the pair of them brought the two gold butterfly wings together.`
+char_non: `Then, the wings they held became a single brooch......and regained their magical power.`
+char_non: `An even more intense light filled the room...`
+char_non: `...and the scene was burnt into the retinas of all present...`
+char_non: `...as the brooch shattered and two shining things flew out of it...`
+char_non: `"People live for the sake of love!`
+char_non: ` Yes, this world is love itself!"`
+char_non: `"Oh, how great is the power of love...!`
+char_non: ` Love is everything!!"`
+char_non: `Suddenly, the voices of two people they had never heard before rang out.`
+char_non: `What was this?`
+char_non: ` Who were they...?`
+char_non: `George and Jessica nervously opened their eyes......`
+char_non: `When they did, they saw that two demons had appeared there,`
+char_non: ` ......almost as though the brooch which had once been split in two had become them...`
+char_non: `"Oh?! This is odd, Furfur...!!`
+char_non: ` Why are we in a place like this?!"`
+char_non: `"It really is strange, Zepar...!!`
+char_non: ` There's no one but {y:0:Human}{n:0:human}s and furniture!`
+char_non: ` Where is the witch?`
+char_non: ` Where is the witch capable of summoning us?!"`
+char_non: `"Yes, we remember well the name of the witch of the contract, don't we?`
+char_non: ` Why don't we try calling her, Furfur?!"`
+char_non: `"Yes, you're right, Zepar!!`
+char_non: ` We know the name of the witch of the contract, the Golden Witch!"`
+char_non: `"Then let's try calling her name!"`
+char_non: `"All together now..."`
+char_non: `""{f:5:Beatriceeeeeeeeeeeeee}!!""`
+char_non: `Given their manner, exaggerated like a theater play, and their slightly ridiculous style of talking,`
+char_non: ` it would probably be hard to immediately comprehend the great power these demons possessed.`
+char_non: `When the two demons called {f:5:Beatrice}'s name, a cyclone of gold butterflies picked up throughout the room.`
+char_non: `Then, it took the form of two Golden Witches...`
+char_non: `"What's this?! There are two {f:5:Beatrice}s...!"`
+char_non: `"Well, there are two of us as well.`
+char_non: ` Why shouldn't there be two {f:5:Beatrice}s every now and then?"`
+char_be3: `"This is my double and my little sister.`
+char_be3: ` We two are the same and as a single person."`
+char_bea: `"P‐......pleased to meet you."`
+char_sha: `"It has been a long time, {f:5:Beatrice}‐sama..."`
+char_kan: `"..........................."`
+char_jes: `"A‐......am I dreaming......?"`
+char_geo: `"......I feel the same.`
+char_geo: ` Still, it's too early to get dumbfounded."`
+char_non: `Unlike Jessica, George had maintained his composure even during this bizarre scene.`
+char_non: `......After all, Shannon had already told him what would happen next.`
+char_be3: `"Demons of the contract, it has been too long...!`
+char_be3: ` Zepar.`
+char_be3: ` And you too, Furfur."`
+char_zep: `"Ah, long time no see!`
+char_zep: ` You seem to be in high spirits as always!"`
+char_fur: `"But look at your cute little sister here!`
+char_fur: ` Those juicy eyes must have the taste of white peaches when they grow teary...!"`
+char_bea: `"Uh, ......ah, ...well, I wonder..."`
+char_non: `Zepar and Furfur latched onto Beato from either side, wearing strange smiles.`
+char_non: `Each movement they made was exaggerated yet polished,`
+char_non: ` as though they were acting out a play.`
+char_be3: `"Leave it at that for now, demons of the contract.`
+char_be3: ` To think that tonight will be the last time we see that mischievous spirit.`
+char_be3: ` It will be dearly missed."`
+char_bea: `"The last time......?"`
+char_zep: `"The brooch, our vessel, has already been destroyed!"`
+char_fur: `"Eheheheheh, in other words, our role is now finished!`
+char_fur: ` Ah, yes, it has been fun, {f:5:Beatrice}!"`
+char_zep: `"However, it was decided when the contract was made.`
+char_zep: ` It was decided that we must lend our power one more time before our final farewell."`
+char_fur: `"So, this is truly the final miracle!"`
+char_zep: `"Once is enough for the miracle of love!`
+char_zep: ` After all, eternal love will never be needed a second time!"`
+char_be3: `"......There you have it.`
+char_be3: ` Lovers male and female!`
+char_be3: ` Gathered here are those cursed, absent a miracle, to unsuccessful love.`
+char_be3: ` The power of the golden butterfly brooch, which can grant such a miracle, is your last chance, and like it or not, this chance is limited to this evening!`
+char_be3: ` This miracle can be given only to a single pair!"`
+char_sha: `"..........................."`
+char_kan: `"......I won't lose."`
+char_sha: `"Yeah.`
+char_sha: ` ......Let's both give it our all."`
+char_non: `Shannon and Kanon exchanged a serious gaze.`
+char_non: `......Both had already readied themselves to fight for the sake of their love's success.`
+char_jes: `"I, I don't really get it,`
+char_jes: ` ...but I don't wanna borrow the power of some strange demon...!"`
+char_non: `Jessica was finally starting to figure out the direction things were headed.`
+char_non: `These demons......were probably planning to pit her and Kanon against George and Shannon.`
+char_jes: `"Let me be totally clear: we don't need your help!`
+char_jes: ` Kanon‐kun and I can handle our relationship by ourselves.`
+char_jes: ` I'm not gonna be pressured into turning to some shady demons for help!"`
+char_kan: `"............Milady, please listen.`
+char_kan: ` ...If we don't overcome this trial,`
+char_kan: ` ......we cannot be together..."`
+char_be3: `"Jessica. Accept it.`
+char_be3: ` This is the only trial that can be imposed on upstart furniture wishing to be joined with a {y:0:Human}{n:0:human}."`
+char_jes: `"More of this stuff about furniture and {y:0:Human}{n:0:human}s!`
+char_jes: ` Yammer on about that all you want,`
+char_jes: ` it has nothing to do with us!!"`
+char_sha: `"You still haven't told Milady...?"`
+char_kan: `"......I didn't know...how I should explain it."`
+char_jes: `"Kanon‐kun, Shannon, and you, George nii‐san!`
+char_jes: ` Why are you listening to these creeps?!`
+char_jes: ` No one can stand in the way of a person's love!`
+char_jes: ` Why do we have to get approval from these demons?!`
+char_jes: ` It's none of their business!!"`
+char_be3: `"Well, it seems we have quite a troublesome blockhead among us.`
+char_be3: ` .........We could begin the game like this, but that would hardly be fair."`
+char_bea: `"C‐......couldn't you explain it for her?`
+char_bea: ` ...I don't understand that well myself.`
+char_bea: ` Is there some kind of problem with the love between Jessica‐san and Kanon‐san...?"`
+char_zep: `"Oh my!`
+char_zep: ` It seems you understand nothing at all!"`
+char_fur: `"With our blessing, the pair can cultivate their love at their leisure!`
+char_fur: ` No need to worry about suspicious demons!"`
+char_zep: `"However, without our blessing,`
+char_zep: ` your love will vanish, disappear, wither, and decay."`
+char_jes: `"How the hell're you so sure?!!"`
+char_non: `""Because it is fate!!`
+char_non: ` You may choose not to accept it, you may choose not to resist it!""`
+char_bea: `".........Oh, what happens if you choose not to resist it...?"`
+char_be3: `"That love will end.`
+char_be3: ` ......Well, an abstract explanation isn't so convincing.`
+char_be3: ` Well now, how could one explain the dead end fate you're in..."`
+char_zep: `"Ushiromiya Jessica, the future you two share is far more grim than you realize."`
+char_fur: `"If you don't gain the miracle of magic, disaster will most certainly befall you both."`
+char_be3: `"The infection within will fester...`
+char_be3: `and split the two of you apart.`
+char_be3: ` ......Even I will not be so boorish as to describe the details of that process.`
+char_be3: ` However, if you will not believe, Jessica, I will tell you how it ends.`
+char_be3: ` ......Kanon will stop being a servant and will leave the island.`
+char_be3: ` For all eternity."`
+char_zep: `"You will probably leave the island yourself in search of the one you love, but such a venture will doubtless be in vain!"`
+char_fur: `"Yes, and then you will mourn and hate!"`
+char_zep: `"Hate who?!"`
+char_fur: `"You!!"`
+char_zep: `"Me?!"`
+char_non: `""No, the "you" of this moment!!""`
+char_non: `With a dramatic gesture, the two of them pointed at Jessica.`
+char_non: `......They were saying that, if she passed this by, it would be herself who would regret it later.`
+char_jes: `"Wh‐`
+char_jes: `......what the hell are you...`
+char_jes: `...saying......"`
+char_fur: `"When you have lost the one you love, you will realize...`
+char_fur: `how much you hate the person you were when you ran away from the trial to complete that love!"`
+char_zep: `"Yes, we're messengers from the "you" of the future!`
+char_zep: ` Please, at this very moment, take your love seriously and fight!"`
+char_fur: `"And if you don't listen to the message of the "you" from the future?!"`
+char_zep: `"The foolish snake eating its own tail will keep on gulping!"`
+char_be3: `"The endless cycle of suffering will swallow itself......and simply vanish."`
+char_jes: `"What the......hell are you talking about...?!!"`
+char_non: `Jessica's confusion showed up on her face as anger.`
+char_non: `......However, a memory of something she had heard a long time ago surfaced in the back of her mind.`
+char_non: `......Unlike Nee‐san, I don't plan on working here for many years...`
+char_non: `After just a few years, ......or possibly...`
+char_non: `......If Nee‐san ever decides to stop working here, ......I think I'll stop working too.........`
+char_jes: `"Kanon......kun......"`
+char_kan: `"........................"`
+char_be3: `"If you give up on the miracle of magic and leave it to Shannon and George,`
+char_be3: ` ......they will be joined and leave the island.`
+char_be3: ` ......After that, Kanon will leave the island as well.`
+char_be3: ` That is an unavoidable fate."`
+char_bea: `"Th‐......then what if they can obtain the miracle of magic...?"`
+char_be3: `"Of course, Kanon will remain on the island, by Jessica's side for all time.`
+char_be3: ` ......He will probably be able to start learning music with Jessica as she wished for.`
+char_be3: ` ......How their relationship will progress afterwards is a matter for the two lovers.`
+char_be3: ` They may deepen their relationship slowly all by themselves, as Jessica wanted..."`
+char_sha: `"......However,`
+char_sha: ` ...if that happens, George‐san and I will not be joined."`
+char_kan: `".........For the sake of our own happiness and futures,`
+char_kan: ` ......we are fated to fight."`
+char_jes: `"A‐......are you kidding me...?!`
+char_jes: ` What the hell...?!`
+char_jes: ` So if we are joined, the other pair will split apart?!`
+char_jes: ` What kind of demon's game is this?!!"`
+char_be3: `"Don't be mistaken.`
+char_be3: ` You will not be taking something from each other.`
+char_be3: ` ......Without the power of the golden butterfly brooch, neither love is fated to bear fruit."`
+char_jes: `"A‐and who the hell decided that?!!"`
+char_be3: `"It is due to your sin of falling in love with furniture, which is not allowed to love.`
+char_be3: ` ......Didn't Kanon clearly reject you, saying that furniture was not qualified to love?!`
+char_be3: ` Knowing that, you chose Kanon as the one you loved.`
+char_be3: ` I won't let you get away with saying you didn't know...!"`
+char_jes: `"...............!"`
+char_non: `Though she couldn't accept any of it, Jessica was unable to argue back.`
+char_non: `Then, George spoke up with that soft tone that he always used to smooth things over.`
+char_non: `......However, his expression was still ruthlessly serious.`
+char_geo: `"......Jessica‐chan,`
+char_geo: ` can't you think of it this way?"`
+char_jes: `"Think of it......what way...?"`
+char_geo: `"I love Shannon.`
+char_geo: ` I am prepared to overcome any and all trials and obstacles that stand in the way of us being together.`
+char_geo: ` .........What about you?"`
+char_jes: `"W‐well, yeah, ......one or two setbacks aren't gonna stop me, I'm tougher than that..."`
+char_geo: `"Yes.`
+char_geo: ` That's what this is about.`
+char_geo: ` ......Right now, we are being tested.`
+char_geo: ` Tested to see who can display the strength of our feelings more strongly."`
+char_jes: `".........Are you actually......satisfied with this insanity...?"`
+char_geo: `"There's no need to be satisfied.`
+char_geo: ` ......When I gave Shannon that engagement ring, I swore to fight all trials and barriers that stand in my way.`
+char_geo: ` ......No matter how unreasonable or incomprehensible those trials might be,`
+char_geo: ` ......backing down is not an option."`
+char_non: `George spoke clearly, ......then looked at Jessica with a cold gaze.`
+char_non: `......By now, Jessica almost understood.`
+char_non: `If she kept on grumbling and refusing this demons' trial,`
+char_non: ` ......the game between the two groups would automatically end with her defeat by default.`
+char_non: `In other words, George and Shannon would win.`
+char_non: `Then they would gain the miracle of magic, their love would be completed,`
+char_non: ` .........and Jessica and Kanon would split apart,`
+char_non: ` ......with Kanon eventually leaving the island and never seeing her again.`
+char_geo: `"......Personally,`
+char_geo: ` ......nothing would make me happier than you backing out of this trial.`
+char_geo: ` ......That way, I wouldn't have to fight you.`
+char_geo: ` And it would reveal just how little you actually feel for Kanon‐kun."`
+char_jes: `"Nn...............gah............"`
+char_non: `It seemed as though George spoke ruthlessly, ......but he was actually being exceptionally fair.`
+char_non: `If it came to a loss by default, Jessica would never be able to clear away her lingering regrets.`
+char_non: `That would leave a bad aftertaste even for George.`
+char_geo: `"......We must fight fair and square for that single miracle.`
+char_geo: ` ......Even if I lose at the end,`
+char_geo: ` ......I'll be able to accept it if we both gave it our all.`
+char_geo: ` And because of that, I will be able to cheer on the victors from the bottom of my heart."`
+char_be3: `"............Hmph.`
+char_be3: ` ...George's determination is quite impressive."`
+char_fur: `"After hearing all that—"`
+char_zep: `"Are you still going to run away?"`
+char_non: `The two demons giggled and challenged her.`
+char_non: `Of course, George didn't laugh, but he too challenged her with cold eyes.`
+char_jes: `".........And Shannon......?"`
+char_sha: `"......Please forgive me, Milady.`
+char_sha: ` ......For the sake of being joined with George‐san, I am determined not to flinch in my resolve.`
+char_sha: ` .........Even if I know...`
+char_sha: `...that staying true to my heart...`
+char_sha: `...will mean the end of your loving relationship."`
+char_non: `Shannon had never before spoken to Jessica with such serious and solemn words.`
+char_non: `Jessica was surprised to realize just how strong the determination was that dwelt within her usually weak and clumsy friend.`
+char_jes: `"Kanon‐kun........."`
+char_kan: `"I......want to start a new life with you, Milady.`
+char_kan: ` ......Even if that life...`
+char_kan: `......means crushing Nee‐san's happiness...`
+char_kan: `......I will not falter now..."`
+char_non: `Kanon was also doing all he could to be strong.`
+char_non: `Yes.`
+char_non: `All of them...`
+char_non: `...were being serious and frank...`
+char_non: `and abandoning any naivety they might have possessed.`
+char_non: `All this about golden butterfly brooches and miracles of magic...`
+char_non: `...and the trial that the demons were giving them—`
+char_non: `none of it mattered.`
+char_non: `Only one thing was being tested:`
+char_non: ` whether or not they possessed the strong will to make their love come true.`
+char_non: `Jessica clenched her fists, ......and hung her head, shaking, while biting her lower lip.`
+char_non: `She was silent, but she would probably gain an unswerving will of steel before too long.`
+char_non: `......She just needed a little time first.`
+char_non: `The two demons who taunted people with dramatic gestures...`
+char_non: `did not violate this silence that Jessica needed to resolve herself.`
+char_non: `Love brings about conflict, and this conflict gives rise to determination.`
+char_non: `As the demons of love, they could understand more fully than any others how noble that determination was...`
+char_bea: `".........Jessica‐san......"`
+char_be3: `"Furthermore, ......this magical miracle is something that can be received by you as well."`
+char_bea: `"By me too.........?`
+char_bea: ` Wh‐what......do you mean......?"`
+char_non: `She had thought this had been about two pairs of lovers.`
+char_non: `Beato was surprised to suddenly hear that this had something to do with her as well...`
+char_be3: `"With the miracle of the golden butterfly brooch,`
+char_be3: ` .........even your wish,`
+char_be3: ` ......that your affection for Battler will be acknowledged, can be granted easily.`
+char_be3: ` ......And without that miracle, you two will also...`
+char_be3: `............never be bound."`
+char_bea: `"..............."`
+char_zep: `"It means you're no outsider to this either."`
+char_fur: `"To cut across the marshes of love!`
+char_fur: ` That is your wish, is it not?!"`
+char_zep: `"We will not make light of your wish!"`
+char_be3: `"......Even your relationship with Battler will eventually fester and rot.`
+char_be3: ` ......Even you, with your optimistic attitude,`
+char_be3: ` ......must understand that this fate will eventually come to pass, barring some kind of miracle."`
+char_bea: `"...............Well........."`
+char_non: `Beato hung her head sadly.`
+char_non: `She wasn't about to let the cookie incident break her spirit.`
+char_non: `......However, it would have been a massive lie to say that it hadn't hurt her...`
+char_non: `The more she tried to get close to Battler, the more she hurt him.`
+char_non: `However, she had been born in order to get close to Battler.`
+char_non: `...She was like a hedgehog freezing in the cold and bunching together with others for warmth.`
+char_non: `{n}She had approached him because of love, and had been hurt for it......`
+char_be3: `"If you understand that much, entrusting your fate to a miracle may prove to be of some interest.`
+char_be3: ` As they say, an unbought lottery ticket earns you nothing.`
+char_be3: ` Zepar, Furfur!`
+char_be3: ` Let my little sister join in too."`
+char_zep: `"Oh, of course!"`
+char_fur: `"Welcome, second {f:5:Beatrice}...!`
+char_fur: ` We were planning on including you from the very beginning!"`
+char_non: `""After all, we are Zepar and Furfur!`
+char_non: ` The demons of love!!""`
+char_bea: `"......I‐......is it alright if I......join in......?"`
+char_geo: `"If you want to, I don't see a problem.`
+char_geo: ` I won't prevent anyone from entering.`
+char_geo: ` We'll win against all hindrances and make everyone celebrate our union.`
+char_geo: ` ......Of course, it's the same the other way around.`
+char_geo: ` If you succeed in love by defeating us at our best,`
+char_geo: ` then both Shannon and I promise to sincerely support the pair that wins.`
+char_geo: ` Right, Shannon?"`
+char_sha: `"Yes.`
+char_sha: ` We will not lose.`
+char_sha: ` And even if we did, we would cheer you on from the bottom of our hearts."`
+char_kan: `"......I feel the same.`
+char_kan: ` I will not lose."`
+char_jes: `".........Well, if there's no way out of this fight,`
+char_jes: ` ......let's show 'em what we've got.`
+char_jes: ` ......Neither I nor Kanon‐kun...`
+char_jes: `...have any intention of losing without a fight!"`
+char_be3: `"You feel the same, I assume?"`
+char_bea: `"Y‐......yes...`
+char_bea: ` ......If there is even a small chance that Father—`
+char_bea: `ah...`
+char_bea: `no...`
+char_bea: `......that Battler‐san will acknowledge me,`
+char_bea: ` I'm willing to put myself on the line."`
+char_be3: `"Well said.`
+char_be3: ` Good going, little sister.`
+char_be3: ` Zepar, Furfur!`
+char_be3: ` The actors have gathered!"`
+char_zep: `"Then let's begin, Furfur!"`
+char_fur: `"Yes, let us begin, Zepar!"`
+char_non: `""Let's begin this trial of lovers, the fight over a single miracle of magic...!!""`

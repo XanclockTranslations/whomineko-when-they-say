@@ -1,0 +1,496 @@
+char_jes: `".........A test......?"`
+char_cla: `"......M‐mm.`
+char_cla: ` Listen well..."`
+char_non: `Once again, there was a call from Krauss to the guesthouse.`
+char_non: `......And the message was......that Kinzo wanted to hold a test to see if the grandchildren had the qualifications to be the next head.`
+char_cla: `".........The head has said that his successor will not be one of us siblings,`
+char_cla: ` that he wants to......pick from you grandchildren..."`
+char_non: `From Krauss's restrained style of speech, Jessica realized as his daughter that he was being forced to speak.`
+char_non: `And she was forced into the realization that the hostages were being exposed to danger even now,`
+char_non: ` and that if they refused this test, there was a possibility that the hostages would be harmed.`
+char_jes: `"S‐......so......`
+char_jes: `what should we do?"`
+char_cla: `"......M‐...mm.`
+char_cla: ` Hold on..."`
+char_non: `Krauss held the receiver away from his ear, then looked at the grinning Kinzo on the other side of the bars.`
+char_non: `Kinzo gave his next order.`
+char_kin: `"Before the test, those unrelated must be removed.`
+char_kin: ` .........Gohda and Kumasawa are there, I believe?`
+char_kin: ` It will be a problem if they interfere with the test.`
+char_kin: ` Banish them from the guesthouse."`
+char_cla: `".........Banish, ...you say......?"`
+char_kin: `"There should be a gardening storehouse in the rose garden.`
+char_kin: ` Lock Gohda and Kumasawa in there.`
+char_kin: ` Hmm, we'll begin from there.`
+char_kin: ` Tell them to do it immediately."`
+char_kin: `".........My weapons will be watching.`
+char_kin: ` Should they do anything questionable, I'll instantly stop the test and execute all of you as sacrifices!"`
+char_cla: `"......I, ......I understand......`
+char_cla: ` ......Hello, Jessica...`
+char_cla: ` Listen closely to what I'm going to tell you......"`
+char_non: `Krauss relayed to Jessica the orders to lock up Gohda and Kumasawa......`
+char_kir: `"......What kind of test are you planning?"`
+char_kin: `"Hmm?`
+char_kin: ` Aah, it truly is a simple test.`
+char_kin: ` I will simply have my grandchildren show me their resolve.`
+char_kin: ` Well now, I wonder what kind of results they'll show me.`
+char_kin: ` ......Hehehahahah."`
+char_non: `With displeasure, Kyrie watched Krauss, who was talking with the children...`
+char_non: `......It's regrettable, but for now we can't refuse orders.`
+char_non: `In this dungeon, a feeble resistance won't amount to anything.`
+char_non: `If we provoke him too much and drive him into a position where he might kill us,`
+char_non: ` there will no longer be any way to stop this murderer.`
+char_non: `......For now, the only choice left is to obey his rules without agitating him,`
+char_non: ` all the while waiting for a chance......`
+char_non: `However, if we continue to obediently follow his commands,`
+char_non: ` the children might be attacked in this so‐called test, and they might even lose their lives.`
+char_non: `.........Whether we feign obedience or try to resist, ......nothing will cause the situation to improve.`
+char_non: `Anyway, keeping our eyes peeled so that we don't let a single chance escape until the very end...is the only resistance possible now.`
+char_non: `......While telling herself this, Kyrie watched over Krauss as he delivered Kinzo's orders......`
+char_nan: `".........Kyrie‐san.`
+char_nan: ` Let us be patient......"`
+char_kir: `"I know.`
+char_kir: ` ......It's unfortunate, but all we can do right now is wait.`
+char_kir: ` If we can just do something about these bars, we'll be able to get back to the mansion......"`
+char_nan: `"......If only we could somehow get out of here...`
+char_nan: ` ......I‐I'll try something.`
+char_nan: ` ...............Kinzo‐san, I have a request."`
+char_kin: `"Hm, what is it, my friend?"`
+char_nan: `"We understand well that you want to test the children...`
+char_nan: ` ......It is fine for you to do things as you desire."`
+char_nan: `"Without your power, the Ushiromiya family might have collapsed long ago.`
+char_nan: ` We truly understand why you want to carefully select the person who will take charge.`
+char_nan: ` Besides, that is what the family conference is about.`
+char_nan: ` We won't get in your way..."`
+char_kin: `"Hmm.`
+char_kin: ` I am glad to have your understanding.`
+char_kin: ` That's right, this is the family conference.`
+char_kin: ` The final family conference, where I will select and finalize the next head.`
+char_kin: ` Fuhaha{0}ha{0}hahaha...!"`
+char_nan: `"So, the thing is, Kinzo‐san...`
+char_nan: ` ......It is far too cold here.`
+char_nan: ` We won't interfere with your test, so couldn't you take us to a slightly warmer place......?"`
+char_kin: `".................."`
+char_non: `At Nanjo's words, the slight signs that Kinzo's mood had been improving were blown away.`
+char_non: `A moment of silence struck Nanjo as Kinzo glared at him with dangerous eyes, as though evaluating him......`
+char_wal: `"......Certainly, this place is cold.`
+char_wal: ` It's tough on an old body.`
+char_wal: ` ......My lord.`
+char_wal: ` Wouldn't it be alright if we moved them upstairs......?"`
+char_kin: `"That is not happening!!`
+char_kin: ` I don't think so, Nanjoooooo...`
+char_kin: ` I know how truly elegantly you lay the foundations for future moves as you appear to give me a turn's breathing room.`
+char_kin: ` I'm not falling for that, ohhhhhh noooo...`
+char_kin: ` If you insist you're freezing, then I will line the floor with red‐hot coals!!"`
+char_wal: `"M‐my apologies......"`
+char_non: `{f:5:Virgilia} had tried to help out too, but in the end, Kinzo was having none of it...`
+char_gap: `"...............You two sure are obedient.`
+char_gap: ` ...If you felt like it, you could easily break these bars."`
+char_kan: `"..........................."`
+char_sha: `"......Even if we break these, nothing will come of it."`
+char_gap: `"True.`
+char_gap: ` ......If you were to break these, it would mean the end of {f:5:Goldsmith}'s game.`
+char_gap: ` ......All of you, as well as those humans in the guesthouse, would immediately become sacrifices for Kinzo's ritual."`
+char_gap: `"......But, you know, you two might be the only ones.`
+char_gap: ` Who hold the power to break through this situation......right?"`
+char_gap: `".........You want to reach the Golden Land, don't you?`
+char_gap: ` You must have many dreams you want granted, right...?`
+char_gap: ` *chuckle*......"`
+char_kan: `".............................."`
+char_ron: `"Gaap.`
+char_ron: ` You mustn't provoke them.`
+char_ron: ` ......This is not your game.`
+char_ron: ` It is the Master's game, and Milady's."`
+char_kin: `".........What is it, Ronove?"`
+char_gap: `"Oh, no, nothing.`
+char_gap: ` ......We were chatting with the prisoners.`
+char_gap: ` Forgive us."`
+char_non: `Gaap sent one final sneering smile at Kanon, then turned away.`
+char_non: `Kanon could only bite his lower lip and shake his fists......`
+char_kan: `".....................`
+char_kan: ` ......Dammit........."`
+char_sha: `"......Well done......`
+char_sha: ` Good job holding it in......"`
+char_kan: `"We're powerless......`
+char_kan: ` Because we're furniture......"`
+char_sha: `"That's right, ......we're powerless.`
+char_sha: ` ......But there are times when furniture is needed, and even loved."`
+char_sha: `"......We're stored away in the basement right now, that's all.`
+char_sha: ` ......I'm sure that one day, somebody will love us.`
+char_sha: ` Need us.`
+char_sha: ` ......So, for now, let's ignore their provocations and bear with it...`
+char_sha: ` ......Okay?"`
+char_cla: `"......Father.`
+char_cla: ` I've ordered them to lock up Gohda and Kumasawa in the storehouse."`
+char_kin: `"Good.`
+char_kin: ` You may hang up now.`
+char_kin: ` ......Chiester Sisters.`
+char_kin: ` Observe the grandchildren as they lock Gohda and Kumasawa away.`
+char_kin: ` If they do anything suspicious, ......then in that moment, the selection test for my successor will be over."`
+char_non: `When Kinzo made his order, the Chiester Sisters appeared behind him in a line.`
+char_s00: `"Understood, sir.`
+char_s00: ` ......I will scout.`
+char_s00: ` {ruby:Five‐five‐six:556} and 410, cover both flanks.`
+char_s00: ` 45, wide‐area surveillance."`
+char_s45: `"00...`
+char_s45: ` 556 is......"`
+char_s00: `"Ah, ............that's right.`
+char_s00: ` Sorry."`
+char_s45: `"She was a good kid......"`
+char_s41: `"......That's why I don't like them nyeh.`
+char_s41: ` ...Good people."`
+char_kin: `"What are you doing, Chiester Sisters?!`
+char_kin: ` Carry out my orders!"`
+char_s00: `"...............My apologies, sir.`
+char_s00: ` Then, let us go observe.`
+char_s00: ` ......Move out!"`
+char_non: `The Chiester Sisters erased their forms simultaneously.`
+char_non: `Nanjo and Kyrie witnessed the instants they appeared and disappeared as if by teleportation,`
+char_non: ` but they interpreted this as if they had probably moved in and out of the darkness in a way that only looked like teleportation,`
+char_non: ` and the two could do nothing but rub their eyes...`
+char_kin: `"......Well then.`
+char_kin: ` I shall begin preparing for the test.`
+char_kin: ` Ronove, Gaap.`
+char_kin: ` I'm asking you to be the examiners.`
+char_kin: ` {f:5:Virgilia}, you watch these rats.`
+char_kin: ` .........After all, two of my furniture are here.`
+char_kin: ` Just in case, be on your guard."`
+char_non: `He glanced sharply at Shannon and Kanon.`
+char_non: ` Tightly closing her eyes, Shannon gave a silent bow, answering wordlessly that she would not cause any trouble......`
+char_wal: `"......Certainly.`
+char_wal: ` I'll be careful."`
+char_gap: `"Isn't this cold hard on your old body, Lia?`
+char_gap: ` Should I bring you a hot water bottle...?"`
+char_wal: `"Shut up.`
+char_wal: ` Hurry up and go.`
+char_wal: ` Gap."`
+char_ron: `"Pu ku ku ku...!`
+char_ron: ` Well, well, tests and examiners, what a strange experience we have this game.`
+char_ron: ` .........I do hope this development entertains Milady."`
+char_wal: `"......Come, arise, goat attendants."`
+char_non: `{f:5:Virgilia} called out into the dark, and from that spot, three massive goat‐headed attendants slowly melted into vision.`
+char_gap: `"Ah, Riiche's minions.`
+char_gap: ` How useful.`
+char_gap: ` And they look so warm.`
+char_gap: ` I see, so this is instead of a hot water bottle.`
+char_gap: ` In that case, wouldn't sheep have been better than goats?"`
+char_wal: `"Shut up about it, you cashmere mop.`
+char_wal: ` ......They aren't very bright, but they faithfully follow orders and are quite dependable."`
+char_kin: `"Mm, I leave it to you.`
+char_kin: ` My friend, {f:5:Virgilia}.`
+char_kin: ` ......The rest of you, follow me."`
+char_non: `Kinzo turned with a grand swish of his cloak.`
+char_non: `Following him were Ronove and Gaap,`
+char_non: ` ......as well as the three recently summoned goat attendants.`
+char_wal: `"......You three are supposed to wait here with me.`
+char_wal: ` Don't follow them."`
+char_non: `The goats jumped in surprise and then came plodding back.`
+char_non: `Kyrie, who had been watching in disbelief as all of this played out, couldn't help but snort.`
+char_kir: `"Heheh......`
+char_kir: ` What entertaining underlings."`
+char_wal: `"L‐Lord {f:5:Goldsmith} did not give you permission to speak freely."`
+char_non: `...She was probably a little embarrassed.`
+char_non: `{f:5:Virgilia} had spoken coldly, but Kyrie could see right through that, and for a little while, she couldn't restrain her muffled laughter.`
+char_non: `However, on the inside, Kyrie was surprised at the number of people Kinzo had with him.`
+char_non: `Because, including Kinzo himself, at least ten enemies had already been spotted...`
+char_non: `......The dungeon they were currently locked in was supposedly underneath the hidden mansion called Kuwadorian.`
+char_non: `Although this mansion's existence had been whispered of, not even Krauss had known it for a fact until today.`
+char_non: `Were there actually several facilities like this on Rokkenjima, unknown to all but Kinzo,`
+char_non: ` hiding untold numbers of henchmen that only Kinzo knew of...?`
+char_non: `Just how many humans are on Rokkenjima, locked away by the typhoon...?`
+char_non: `No, actually...`
+char_non: `Are we the only ones under the impression that there are only 18 people on this island......?`
+char_non: `As we bickered over whether {f:5:Beatrice} existed or not, and racked our brains over something as minor as a 19th person,`
+char_non: ` were we on this island the perfect example of frogs in a well...?`
+char_non: `No, wait, in fact...`
+char_non: ` At this point, are there actually more people on the enemy's side than on ours...?`
+char_kir: `"............Just what the hell is going on......`
+char_kir: ` Witches? Demons? Magic?`
+char_kir: ` ......Am I supposed to believe in those?`
+char_kir: ` Are my eyes screwed up? Or is my head?`
+char_kir: ` ...I think I'm losing it........."`
+char_non: `A mass murder by magic.`
+char_non: `{n}Demons forming and disappearing in thin air.`
+char_non: `More importantly than the enemy's numbers,`
+char_non: ` how should we interpret the various things thrust before our eyes that cannot be explained with the common sense of this world?`
+char_non: `......Kyrie started to feel like she didn't know what was going on anymore,`
+char_non: ` and while desperately battling the urge to abandon everything and give up, she clenched her teeth in an attempt to hold onto her sanity...`
+char_non: `Obviously, Gohda and Kumasawa were quite unwilling to be locked in the rose garden shed.`
+char_non: `......But they had been threatened that, if they resisted, the hostages' safety could not be guaranteed...`
+char_non: `It was fairly hard to get them to agree,`
+char_non: ` but once the idea was raised that their safety might actually be guaranteed if the key to the gardening storehouse was to be handed to them through a cracked‐open window after they were shut inside,`
+char_non: ` ......and it was suggested that blankets and food could be carried in for them, they were finally convinced.`
+char_kum: `".........This place is pretty chilly...`
+char_kum: ` I wonder how long we'll have to stay locked in here......"`
+char_geo: `"......In the worst case, it'll be until Monday morning, so a full day and night.`
+char_geo: ` ......I really feel bad about doing this to you two..."`
+char_non: `George and Battler cleared a space on the floor, then spread the blankets there.`
+char_non: `{n}They also left the canned food, crackers, and other light snacks they had brought.`
+char_but: `"It'll be hard for you guys to go until Monday morning with just this...`
+char_but: ` If only we could have stopped by the kitchen..."`
+char_jes: `"We were told not to go to any unnecessary places.`
+char_jes: ` ......They do apparently have us under surveillance, after all.`
+char_jes: ` .........Dammit."`
+char_goh: `"......I am honestly sorry that we cannot be of any use......`
+char_goh: ` And these are the times that we are truly supposed to be at your sides........."`
+char_geo: `"It can't be helped.`
+char_geo: ` ......More importantly, we're trusting you to take care of Kumasawa‐san.`
+char_geo: ` ...We don't know what's going to happen.`
+char_geo: ` When it comes down to it, I want you to do what you can to help her.`
+char_geo: ` And more than anything, I want you to be safe..."`
+char_goh: `"...Yes, I understand.`
+char_goh: ` ......Please, be careful, everyone.`
+char_goh: ` Right now, the Master is......taking human lives like they're pieces on a chessboard.`
+char_goh: ` ...Please be careful."`
+char_non: `Gohda stared at the floor, remembering that atrocity in the dining hall, even now unable to believe what had happened,`
+char_non: ` and he hung his head in shame at his inability to fully describe that terror.`
+char_geo: `"Thank you.`
+char_geo: ` .........Please make sure you stay on your guard.`
+char_geo: ` You too, Kumasawa‐san."`
+char_kum: `"......And you all please take care as well......`
+char_kum: ` I don't have any idea what's going on anymore......"`
+char_geo: `"Well then, ......we'll be off.`
+char_geo: ` Let's go, Battler‐kun. Jessica‐chan.`
+char_geo: ` ......Come on, Maria‐chan, you too."`
+char_mar: `"............Uu."`
+char_non: `Looking at the painful expression on the faces of the pair to be imprisoned, it became hard to close the shutter.`
+char_non: `But we can't disobey.`
+char_non: `{n}......We're being watched.`
+char_non: `We brought the shutter down and locked it.`
+char_non: `{n}Then George headed to the small window on the side of the storehouse.`
+char_non: `It was a small latticed window which could only be used for light and ventilation.`
+char_non: `It looked like something from a jail, making the two of them seem even more pitiable,`
+char_non: ` ......but on the other hand, it would protect them from Kinzo and his subordinates, or so one would hope...`
+char_non: `He opened the window and called out.`
+char_geo: `"......Are you alright? You're not cold, are you?"`
+char_kum: `"We're alright.`
+char_kum: ` We've been given all these blankets, after all.`
+char_kum: ` ......If we wrap ourselves up, we'll be just fine."`
+char_but: `"I wish we could have brought them a kerosene stove or something......"`
+char_geo: `"......But it wouldn't have ventilation here.`
+char_geo: ` It's tough, but there's nothing we can do now.`
+char_geo: ` ......Hostages are being held against us.`
+char_geo: ` We can't disobey..."`
+char_but: `".........Dammit...`
+char_but: ` ......If we could just save Kyrie‐san and the rest somehow......"`
+char_geo: `"Shh.`
+char_geo: ` ......They might be able to hear you.`
+char_geo: ` .........Gohda‐san, here.`
+char_geo: ` The key to the shutter."`
+char_non: `George threw the key in through the tiny window.`
+char_goh: `"......Thank you.`
+char_goh: ` I'll hold on to it."`
+char_non: `Gohda took the key, and after showing it to Kumasawa, placed it in his own pocket.`
+char_non: `There was only one key to the gardening shed's shutter.`
+char_non: `{n}That was being held by those who were locked up inside it.`
+char_non: `If the children had held onto it, then if it was stolen from them by some chance, that would risk exposing the lives of those in the shed to danger.`
+char_non: `And even with the key, the shutter could not be opened from the inside.`
+char_non: ` It satisfied Kinzo's demand.`
+char_non: `However, there was now no longer any way to open the shed from the outside either.`
+char_non: ` This would protect them.`
+char_non: `Kinzo had ordered that they be confined, ......and we could do nothing but trust that this cold locked room would protect them.`
+char_non: `Holding Maria's hand, Jessica watched George hand over the key, then looked over the thickets in the pitch‐black rose garden.`
+char_non: `......Somewhere in this darkness, somebody was hiding, watching to see whether they obeyed orders or not.`
+char_non: `Of course, merely pointing their flashlights out there did nothing to make any suspicious silhouettes appear.`
+char_non: `But somebody was surely out there...hiding and watching.`
+char_non: `They were hit many times with an urge to scream at them.`
+char_non: `{n}......But they held that back through reason.`
+char_non: `The four children left the area behind, repeatedly looking back over their shoulders.`
+char_non: `The feeble light from the lightbulb in the gardening storehouse was seeping out slightly.`
+char_non: `......Was it at all possible that this insane incident would somehow come to an end, ......so that they could see those two again?`
+char_non: `......To George, who had closed the shutter himself,`
+char_non: ` ...the resistance of the lock made it feel as though he had killed them with his own hands.`
+char_but: `".........But even so......we can't disobey......"`
+char_jes: `"A {i:test}...?`
+char_jes: ` ......What the hell, old man......!`
+char_jes: ` Killing Mom, capturing Dad for that......`
+char_jes: ` I don't get it, I'll kill him...!"`
+char_mar: `"......It's alright, Jessica onee‐chan.`
+char_mar: ` There's nothing to be sad about......"`
+char_jes: `".........Maria......"`
+char_mar: `"The witch will be revived very soon.`
+char_mar: ` .........It won't be long before you can see her in the Golden Land.`
+char_mar: ` ...Kihi{0}hi{0}hi{0}hi{0}hi{0}hihihi............`
+char_mar: ` Ouch."`
+char_but: `"Don't laugh at inappropriate times.`
+char_but: ` ......Seriously, a resurrection ritual for a witch?`
+char_but: ` He should just keep his fantasies to the inside of his head.`
+char_but: ` Getting all these people involved...`
+char_but: ` ........That's gonna cost you, ...bastard..."`
+char_geo: `".........Let's return to the guesthouse.`
+char_geo: ` ...It'll be bad if we aren't there when Grandfather calls."`
+char_non: `Urged on by George, everyone began walking towards the guesthouse......`
+char_non: `At that moment, Jessica spun around, and roared towards the darkness of the rose garden.`
+char_jes: `"..................HEY!!`
+char_jes: ` Someone's watching, right?!`
+char_jes: ` Tell the old man...!!`
+char_jes: ` Tell him I'm gonna friggin' kill him!!`
+char_jes: ` Let's go...!!"`
+char_non: `Of course, there was no reply, only the howl of the wind and rain......`
+char_non: `The children returned to the guesthouse...`
+char_non: `{n}...In fear of what would be waiting for them when they got back.`
+char_non: `After they departed,`
+char_non: ` .........from the exact point in the darkness that Jessica had yelled at,`
+char_non: ` two rabbit ears sprung up...`
+char_s45: `"......S‐sorsorsorryyyy...!`
+char_s45: ` They found me ouuuut...!!"`
+char_s41: `"It's 'cause you're too slow, 45, nye~h.`
+char_s41: ` Ni~hihihi~, Pendragon‐sama's going to scold youu~{p:0:♪}"`
+char_s45: `"I'm sorry I'm sorry, please don't tell Pendragon‐sama on meeeee!"`
+char_s00: `"Shut up be quiet.`
+char_s00: ` It was obviously just a bluff.`
+char_s00: ` ...Gohda and Kumasawa's imprisonment confirmed.`
+char_s00: ` Mission accomplished.`
+char_s00: ` Time to report back."`
+char_s41: `"Neener‐neener.`
+char_s41: ` Nihi{0}hi{0}hi{0}hi{0}hi{0}hihihi!`
+char_s41: ` Ouch."`
+char_s00: `"Do you want us all stuck on nothing but carrots and water because of collective responsibility?`
+char_s00: ` ......Let's go."`
+char_non: `It certainly seemed to be a fact that they were being watched.`
+char_non: `Because once they returned to the cousins' room, turned the lights on, and lay down on their beds, the phone rang again.`
+char_non: `Up until now, Jessica had been answering the phone, seeing as it was her house,`
+char_non: ` but now it was George, as the eldest, who picked it up.`
+char_non: `This time, Kyrie‐san was on the other end of the phone.`
+char_non: `{n}George handed it to Battler out of consideration...`
+char_but: `".........Hello.`
+char_but: ` Kyrie‐san?`
+char_but: ` Is everything alright over there...?!"`
+char_kir: `"Thanks for worrying.`
+char_kir: ` ...It's agreeable for now.`
+char_kir: ` .....................Sorry, I've been ordered to refrain from speaking freely.`
+char_kir: ` Listen closely to what I'm about to tell you."`
+char_non: `The fact that they were hostages still hadn't changed.`
+char_non: `{n}And Kinzo or one of his subordinates was probably listening to this conversation.`
+char_non: `Battler restrained the urge to talk about other things, and focused on what Kyrie had to say.`
+char_kir: `"The tests will be given to Jessica‐chan, George‐kun, Battler‐kun,`
+char_kir: ` and Maria‐chan, in that order.`
+char_kir: ` .........You'll be called out in turn, so until then, do not leave the room.`
+char_kir: ` The person who is called out will head to their designated location, alone."`
+char_non: `Battler repeated it out loud so that his cousins would also understand.`
+char_but: `"......Jessica, Aniki, me, and Maria in that order, stay in the room until we're called, right.`
+char_but: ` ......Got it...`
+char_but: ` ......Maria too?`
+char_but: ` Even a nine year old girl... What's that old fart going to force her to do, goddammit..."`
+char_kir: `"...............The future of the Ushiromiya family rests in all of your hands.`
+char_kir: ` ......Do your best."`
+char_but: `"......Hm.`
+char_but: ` ...............Sure."`
+char_non: `Battler noticed the strange nuance in Kyrie's words.`
+char_non: `{n}Even without any blood connection, he could still understand thanks to the long‐lasting bond they shared.`
+char_non: `Now was not the time to worry about the future of the Ushiromiya family.`
+char_non: `{n}......That wasn't the message that Kyrie wanted to send.`
+char_non: `She probably meant "there is no way for us to escape from this dungeon, and we can only wait to be rescued.`
+char_non: ` Our lives are in your hands".`
+char_non: `......Something like that.`
+char_but: `"Yeah, leave it to us.`
+char_but: ` No idea what kind of test it is, but bring it on.`
+char_but: ` I'm not backing down from that challenge.`
+char_but: ` .........It's a serious test, right?`
+char_but: ` ...It's OK for us to...`
+char_but: `...go all out?"`
+char_kir: `"......Yes.`
+char_kir: ` It's a serious test.`
+char_kir: ` He plans to {i:seriously} test you all."`
+char_but: `"That's no good, no goddamn good at all.`
+char_but: ` ......Some old fart on death's door thinks he can take me when I'm serious?"`
+char_but: `"Let's see him spew that shit from beyond the grave.`
+char_but: ` He's there, so tell him this for me:`
+char_but: ` The next head is me.`
+char_but: ` And my first action will be to implant my fist into your face...!"`
+char_non: `Even without Kyrie having to repeat it, Battler's powerful declaration of war reached Kinzo's ears...`
+char_kin: `"Fuhahahahahahahaha!!`
+char_kin: ` Battleeeeer, I will truly be looking forward to it!"`
+char_kin: `"I can't wait to see just what a man who once discarded the Ushiromiya name has attained,`
+char_kin: ` to just what state of mind he has ascended as he stands before me!!`
+char_kin: ` Tell him that...!"`
+char_non: `Unfortunately, Kinzo's voice was not picked up by the receiver.`
+char_non: ` So Kyrie spoke for him.`
+char_kir: `"He says he's more than up for the challenge.`
+char_kir: ` .....Alright, Battler‐kun.`
+char_kir: ` There's no need to hold back.`
+char_kir: ` .........You are Rudolf‐san's son."`
+char_kir: `"......No, you are my son.`
+char_kir: ` Show me something I won't be embarrassed to brag about.`
+char_kir: ` .........I entrust everything to you......"`
+char_but: `"Roger that, Mom.`
+char_but: ` .........Leave the rest to us...!"`
+char_kir: `".........All of us here have lost the right to inherit the position of head.`
+char_kir: ` ......Now we're just the same as pieces taken off the chessboard, looking on from the outside.`
+char_kir: ` So you'll have to fight by yourselves."`
+char_but: `"...............Kyrie‐san........."`
+char_non: `The nuance of those words was.........`
+char_non: `"We've already given up.`
+char_non: ` ...You can forget about us."`
+char_non: `......But.........for that very reason, I won't give up......`
+char_non: `{n}I'm going to wreck this test or whatever, and save everyone...!`
+char_kir: `"Well then, ......here are the instructions for the first test, Jessica‐chan's.`
+char_kir: ` ......Head to your own room, he says."`
+char_but: `"Own room?"`
+char_kir: `"It seems he means Jessica's personal room in the mansion."`
+char_but: `".........I'll hand it over to Jessica.`
+char_but: ` Tell her directly.`
+char_but: ` ......Jessica."`
+char_jes: `"He‐hello......`
+char_jes: ` ............Okay, ...I understand..."`
+char_jes: `"............Me first, huh...`
+char_jes: ` ......I'm ready.`
+char_jes: ` Be right back!"`
+char_non: `In actuality, Jessica was probably feeling the fear of a girl her age.`
+char_non: `......But she buried those feelings and strengthened her resolve.`
+char_geo: `"Be careful, ......okay?"`
+char_jes: `"......We're being watched, right?`
+char_jes: ` We can't do anything.`
+char_jes: ` All we can do is exactly as we're told."`
+char_but: `".........They say that old geezer killed those six in the dining hall in an instant, with no hesitation.`
+char_but: ` ......It might be the same for us."`
+char_jes: `"I get it.`
+char_jes: ` ............I'll pay him back."`
+char_geo: `"Don't do anything reckless.`
+char_geo: ` .........If you think you're in any danger, you put yourself first.`
+char_geo: ` ......If Uncle Krauss finds out that his daughter sacrificed herself for him,`
+char_geo: ` there's no doubt it would tear his heart apart."`
+char_jes: `"It goes the other way too.`
+char_jes: ` .........If Mom and Dad were both killed, and I was the only one left,`
+char_jes: ` my heart would rip itself to pieces."`
+char_geo: `"..............................`
+char_geo: ` ......Battler‐kun.`
+char_geo: ` Is what you said earlier true......?"`
+char_but: `"Yeah.`
+char_but: ` ......Kyrie‐san and the others are already......prepared for what will happen."`
+char_jes: `"Then I'm even more sure I'm ready.`
+char_jes: ` ......Their lives rest on our shoulders.`
+char_jes: ` The hostages can't do anything while locked up.`
+char_jes: ` So it's up to us to do something about it."`
+char_geo: `".........If anything happens, run back to the guesthouse.`
+char_geo: ` At that time, we'll be done playing along with Grandfather's game."`
+char_but: `"Aniki........."`
+char_geo: `"At that time, we will declare war.`
+char_geo: ` .........Wherever they're locked up, we'll save them, and we'll see that Grandfather gets what he deserves."`
+char_but: `"......Are you sure, Aniki?`
+char_but: ` ......Shannon‐chan's there too."`
+char_geo: `"........................`
+char_geo: ` ......That doesn't mean I'll sit around and wait for my fiancée to be killed.`
+char_geo: ` .........What scares me is not that Shannon might be killed by Grandfather."`
+char_geo: `"{i:I'm just worried you guys will be first to find that doddering old bastard who gave my fiancée a taste of terror, and literally beat me to the punch}."`
+char_jes: `"Now I get it...`
+char_jes: ` ......Yeah, this really is a test to settle who the next head's gonna be."`
+char_but: `"Yep.`
+char_but: ` ......The first one to bury a fist into that old geezer's face is the successor."`
+char_non: `George, Battler, and Jessica each forcefully nodded their heads and put their fists together.`
+char_non: `Then Jessica headed off to her own room, as designated......`
+char_non: `Her form disappeared into the darkness of the rose garden, which was shaking in the violent winds.`
+char_non: `......As they saw her off, George and Battler hardened their trembling fists.....`
+char_non: `Jessica's back was watched through the window by Maria, who had remained upstairs.`
+char_non: `Her expression was blank......`
+char_mar: `"......I wonder why everyone is getting so upset.`
+char_mar: ` .........When {f:5:Beatrice} is revived, we can get her to bring everyone back to life."`
+char_non: `Jessica's form had already been completely swallowed up by the darkness.`
+char_non: `......At that time, the phone began to ring again.`
+char_non: `Battler and George heard it and came clamoring back, but Maria picked up the receiver right away.`
+char_mar: `"...............Hello."`
+char_sha: `"M‐......Maria‐sama...?`
+char_sha: ` It's Shannon.`
+char_sha: ` ......Would you please hand the phone to George‐sama?"`
+char_non: `This time, it was Shannon on the phone.`
+char_non: `And the purpose of the message was to tell the next person, George, where he was to go......`

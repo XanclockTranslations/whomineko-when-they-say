@@ -1,0 +1,968 @@
+char_kum: `We crossed the hall again on our way to the entrance.`
+char_kum: `As we did, we once again saw that witch's portrait.`
+char_kum: `However, the word "saw" is probably not the best word to describe that experience.`
+char_kum: `{n}......It was more like our eyes were drawn to it.`
+char_kum: `That woman's eyes, with their sage‐like glamour, definitely had the power to make those who looked at her stand rooted to the spot.`
+char_but: `"............So this is the witch, {f:5:Beatrice}.`
+char_but: ` ......Wonder if it's true."`
+char_mar: `"Uu?`
+char_mar: ` Battler doesn't believe...?"`
+char_non: `Back when he had asked what this picture was, the first person to tell him it was {f:5:Beatrice} had been Maria.`
+char_non: `Therefore, when Battler showed signs of doubt, Maria must have felt that Battler didn't have faith in her.`
+char_non: `...Of course, that's not what Battler meant.`
+char_non: `Maria ran up to the portrait and began banging on a plate below it.`
+char_non: `Maybe the title of the portrait was written there.`
+char_non: `Maria, trying to prove that she wasn't lying, obstinately continued to hit the plate.`
+char_but: `"Ahh―sorry about that,`
+char_but: ` it's not like I doubt anything you said, Maria."`
+char_mar: `"Uu!`
+char_mar: ` Battler believes!`
+char_mar: ` Uu!"`
+char_non: `When he patted Maria's head and apologized, she seemed to accept it, sticking out her chest and proudly "uu‐uu"ing.`
+char_but: `"...............Let's see here.`
+char_but: ` "My beloved witch, {f:5:Beatrice}".`
+char_but: ` .........Behold the sweetfish river...`
+char_but: `...wait.........what's with this weird, long epitaph?"`
+char_non: `The plate did have the title of the portrait written on it, but it was much too big to contain only that.`
+char_non: `Beneath the title, what looked like a long epitaph was also written.`
+char_non: `As I skimmed over it, I was taken aback by the array of unnerving words that jumped out at me.`
+char_jes: `"Incredible, isn't it?`
+char_jes: ` Grandfather had that written.`
+char_jes: ` ...Pretty deep, huh?"`
+char_mar: `"Uu!`
+char_mar: ` I know!`
+char_mar: ` It's the place where the gold is hidden!"`
+char_but: `"......Wait, is it that story about the Ushiromiya family's hidden gold?`
+char_but: ` There's another thing that takes me back...`
+char_but: ` ......Wait, Aniki, ...is that for real?"`
+char_geo: `"Grandfather had this written, but he refuses to say anything about this picture or the epitaph.`
+char_geo: ` .........Even so, amongst the family, it is often whispered that it points to the location of Grandfather's hidden gold,`
+char_geo: ` and that he will relinquish the family headship and the gold to the person who solves the riddle."`
+char_mar: `"Uu!`
+char_mar: ` I heard that too, I heard that too!`
+char_mar: ` Lots and lots of gold!"`
+char_jes: `"...Well, who knows, really.`
+char_jes: ` Ten tons of gold bars.`
+char_jes: ` Sounds a bit too fishy to me."`
+char_but: `"Still, if you read this all the way through, it almost seems real."`
+char_non: `.........I think I already explained Grandfather's upbringing,`
+char_non: ` but let me also mention the Ushiromiya family's "Legend of the Gold".`
+char_non: `Grandfather succeeded the Ushiromiya family after it had been almost totally destroyed in the Great Kanto Earthquake,`
+char_non: ` and by successfully riding the stormy seas after the war, managed to accumulate great wealth.`
+char_non: `...That much of the story everyone knows.`
+char_non: `{n}However, this is where the strange part of the story begins.`
+char_non: `...Part of it is closely tied to Grandfather's black magic hobby, so its credibility is extremely low, but......`
+char_non: `......Well, wait until the end before you doubt or make fun of it.`
+char_non: `After the war, Grandfather successfully predicted what the future would hold, his big gamble paid off, and he accumulated a vast store of wealth,`
+char_non: ` ......but there is a mysterious legend about how he gained the funds in the first place.`
+char_non: `Grandfather came from a branch family and had no connections in the business world or the financial world.`
+char_non: ` Even though he later built connections with the occupying forces, in the beginning he was supposedly a nameless person who had not yet gained anyone's trust.`
+char_non: `Money can only be gathered based on trust.`
+char_non: `{n}There's no way anyone would lend money to an untrustworthy person.`
+char_non: `......How did Grandfather, whose trustworthiness was zero, manage to obtain the large amount of funds in the first place?`
+char_non: `......It is said that, when asked that question, Grandfather answered like this:`
+char_non: `{i:One fateful day, I encountered the Golden Witch }{f:7:Beatrice}{i:.}`
+char_non: `He then went on and on about how he continued to research alchemy and techniques for summoning demons in order to become a great mage.`
+char_non: `...And the entity summoned as the result of the demon‐calling ritual was the Golden Witch {f:5:Beatrice}.`
+char_non: `He then said that he made a contract where, in exchange for his own soul, he would receive fortune and honor.`
+char_non: `The witch then granted Grandfather ten tons of gold.`
+char_non: `Grandfather used this gold as collateral to prepare a vast quantity of funds,`
+char_non: ` and then used that to multiply his wealth by several times and revive the Ushiromiya family...`
+char_non: `It seems that this story is so old that our parents had already been told it when they were still children.`
+char_non: `So, our parents, when they were little,`
+char_non: ` explored this island in various ways, believing that the gold that Grandfather had received from the witch might be hidden somewhere.`
+char_non: `However, since there was the danger of them getting lost in the abandoned forest,`
+char_non: ` Grandmother or someone began to spread the story that the witch lived in the forest and approaching it was too dangerous...`
+char_but: `"......I remember that old story.`
+char_but: ` When we were little, our parents told us about it and we went all over the island searching for treasure.`
+char_but: ` .........Didn't we get lost in the forest and start crying until some of the servants found us? Our parents were so mad at us.`
+char_but: ` ...That takes me back."`
+char_jes: `"We sure were idiots, weren't we?`
+char_jes: ` I mean, come on, Grandfather used that to build up the funds that he finally bought this island with, right?`
+char_jes: ` That means he must have had the gold before coming here.`
+char_jes: ` There's no way it'd be here on the island."`
+char_geo: `"......That's not necessarily so.`
+char_geo: ` Maybe the gold was hidden on the island from the beginning and he bought the whole island just to make sure it was all his.`
+char_geo: ` There was a whole ten tons of it, right?`
+char_geo: ` It seems more realistic that he would try to secure the place where it was hidden rather than try to move it all."`
+char_but: `"This epitaph was written two years ago.`
+char_but: ` And since Grandfather had it written himself...`
+char_but: ` ......I see, this does make the Legend of the Gold more believable."`
+char_but: `"Ten tons of gold, bestowed upon Grandfather by a witch, that it's said he used to revive the Ushiromiya family.`
+char_but: ` ......It's sleeping somewhere even now, and Grandfather may be planning to turn it over to whoever can solve his riddle."`
+char_but: `".........Hahh, I guess that sounds like Grandfather's style or something......`
+char_but: ` Ihihi!`
+char_but: ` If it's true, that's one hell of an opportunity."`
+char_non: `The epitaph carved into the plate was very mysterious, something like a poem or a song.`
+char_non: `Its sentences were incredibly disturbing, filled with the signs of Grandfather's black magic hobby, and truly in bad taste,`
+char_non: ` but it could definitely be viewed as a puzzle which, if solved, could lead to the place where the gold was hidden.`
+char_geo: `"I can't even imagine if that's what he intended or not.`
+char_geo: ` ......All I can say is, this shady epitaph was displayed here so that everyone in the family could see it."`
+char_geo: `"And that, even while hinting at the existence of the gold, he still refuses to touch upon the subject of its hiding place.`
+char_geo: ` .........That caused our parents' imaginations to run wild, and call it a battle of wits from Grandfather..."`
+char_jes: `"...Bet it's my dad who's taking this nonsense at face value, his greed exposed to the world.`
+char_jes: ` Even though he laughs at Grandfather's black magic hobby, he'll still believe this story about the hidden gold.`
+char_jes: ` He's all talk."`
+char_geo: `"......Well, it's certainly not a realistic story.`
+char_geo: ` At that time, when Grandfather was still nameless without any connections, there's no way anyone would have just lent him a massive quantity of gold bars for free.`
+char_geo: ` ......Although, it's not unthinkable to suggest that's exactly why Grandfather called his sponsor a witch."`
+char_but: `"Yeah, but, it's ten tons, ten tons!`
+char_but: ` If you traded that for money, how much would that come to?`
+char_but: ` Anyway, it'd have to be a ridiculous amount, right?!"`
+char_geo: `".........It would be a ridiculous amount.`
+char_geo: ` They say that the total amount of gold mined by humankind since the dawn of history is at most 100,000 tons.`
+char_geo: ` That one ten‐thousandth of all of the gold humankind has obtained throughout history should belong to just one person is just insane."`
+char_geo: `"...And that it should all be in one place, and that there should be a "witch" who could just lend it to Grandfather as if it was nothing.`
+char_geo: ` ......That would be no ordinary person."`
+char_jes: `"As for me, I think that that number "ten tons" sounds totally fake.`
+char_jes: ` In the first place, has anyone other than Grandfather ever even seen it?`
+char_jes: ` And even if some generous witch lent him some actual gold, couldn't that "ten" be right but actually be mistaken from ten kilos?`
+char_jes: ` Even ten kilos would be a pretty incredible sum, right?"`
+char_mar: `"Uu.`
+char_mar: ` ...Ten kilos of gold is how much?"`
+char_non: `Maria, who couldn't keep up and felt like she was being spoken to in riddles, finally found a place where she could ask us a question.`
+char_non: `A question which I also wanted to ask right then.`
+char_non: `Whether I hear ten kilos or ten tons, I know that it's an incredible amount, but I couldn't put a number on exactly how incredible.`
+char_non: `George‐aniki folded his arms and tried to remember the market price of gold.`
+char_geo: `".........Well.`
+char_geo: ` Gold is affected by speculation, and its price can also change depending on its purity and the trustworthiness of the foundry.`
+char_geo: ` You would also need to pay a commission to turn it into money.`
+char_geo: ` Still, it is definitely a precious metal, and some people estimate that if gold mining continues at its current rate, within half a century, we will have mined all of it."`
+char_geo: `"............Just guessing haphazardly,`
+char_geo: ` ......for one kilo, I think maybe a price of 2 million yen."`
+char_jes: `"Whoa...`
+char_jes: ` .........I know I just plucked that ten kilos figure out of thin air...`
+char_jes: ` ...But even that would be worth 20 million yen!"`
+char_mar: `"Uu?`
+char_mar: ` I weigh 28 kg."`
+char_geo: `".........Which means that if we had Maria‐chan's weight in gold,`
+char_geo: ` we could estimate its worth at over 50 million yen."`
+char_but: `"That's just mind‐boggling...`
+char_but: ` How much would ten tons be then?`
+char_but: `{n}`
+char_but: ` It's 20 million for ten kilos, times a thousand, so......umm.`
+char_but: ` .........That's it!`
+char_but: ` 20 billion yen?!`
+char_but: ` What the hell!"`
+char_non: `How much is 20 billion yen actually worth?`
+char_non: ` ......We would have to measure it by putting it in terms we could understand.`
+char_non: `I mean, they say that wages over a lifetime are 200 million yen.`
+char_non: `...You grow up and work like crazy, sacrificing your life for your company, and as you approach old age are finally freed.`
+char_non: `{n}And all that together, including the retirement money, comes out at 200 million yen.`
+char_non: `...In other words, that is the cash equivalent of a human's life—`
+char_non: `no, you could even call it the price of a life.`
+char_non: `...We were talking about a sum so enormous that it would require a hundred of those lives.`
+char_non: `......Assuming you work for 40 years from age 20 to age 60,`
+char_non: ` ......then it's equal to 4000 years of work wages.`
+char_non: `It's a sum of money you could finally accumulate after working every day starting from the Jomon period.`
+char_mar: `"...Uu.`
+char_mar: ` Is 20 billion yen huge...?"`
+char_but: `"Yeah, it's huge.`
+char_but: ` Maria, you could buy more of that shortcake you love than you could eat in a lifetime."`
+char_geo: `"......However, while I could imagine 20 billion yen in cash,`
+char_geo: ` I don't think it's very plausible for it to all be in one place as gold bars."`
+char_geo: `"Just as I said, gold is extremely heavy, and it is not very convenient as a method for storing all your accumulated fortune.`
+char_geo: ` If it was all in highly valued stocks and bonds, or really expensive precious gems, it wouldn't be unthinkable."`
+char_geo: `"...You often hear of people who, in the chaotic period of the war, traded their wealth for precious gems so that they could carry it around with them.`
+char_geo: ` ......But you don't usually hear stories of people exchanging their wealth for gold."`
+char_jes: `"Of course it's heavy, but internationally it's the most trusted and stable—doesn't that mean something?`
+char_jes: ` With bonds, for example, if the country is destroyed they're just scraps of paper."`
+char_geo: `"You can also look at it that way.`
+char_geo: ` ...But even one ten‐kilo ingot is pretty heavy to carry around.`
+char_geo: ` Have you ever heard this?`
+char_geo: ` Even if you can carry a 50‐kilogram person on your back, you can't carry a 50‐kilogram bag over your shoulder.`
+char_geo: ` With that many gold bars, the amount of labor and risk for one person would be hard to calculate."`
+char_but: `"So what you're saying is, if we were talking 20 billion yen in banknotes lying around, that'd be one thing,`
+char_but: ` but given that it's supposedly 20 billion yen in gold piled up, it doesn't really ring true."`
+char_geo: `"That's right.`
+char_geo: ` ...Although the Legend of the Gold does have a pretty interesting ring to it, even just the part about the ten tons of gold is a little bit of a stretch..."`
+char_jes: `"If you think about it logically like that, it sounds obviously fake.`
+char_jes: ` Haha, kind of brings you back down to reality."`
+char_geo: `"That said, it is Grandfather we're talking about, after all.`
+char_geo: ` He may have announced his financing from some kind rich person in an exaggerated metaphorical way, as ten tons of gold received from a witch.`
+char_geo: ` Even the number "ten tons" feels pretty symbolic."`
+char_but: `"You mean like his gratitude for the money he borrowed was worth ten tons of gold, or something?"`
+char_jes: `"Hehehe, maybe some rich man's leisured wife generously granted it to Grandfather.`
+char_jes: ` And maybe then he started calling this lady a witch?"`
+char_non: `Hmm, Jessica's example isn't bad.`
+char_non: `...If someone was generous enough to lend a huge sum of money to Grandfather when his trustworthiness was still zero,`
+char_non: ` she would certainly be someone worthy of being called a witch.`
+char_non: `......Furthermore, Grandfather later used that money to build a vast amount of wealth.`
+char_non: `...With such an incredible ability to judge people,`
+char_non: ` again, she might well be fittingly called a witch.`
+char_non: `Also, since she went to the trouble of lending all that money, she might also have enthusiastically guided how it was spent.`
+char_non: `Come to think of it, the idea to get involved with the occupying forces and profit from the Korean War demands might have come from the witch as well.`
+char_non: `With all that considered, saying that he "received wealth and honor from a witch"...`
+char_non: `might actually be a fair description.`
+char_but: `"I see.`
+char_but: ` ............So, in other words, this witch granted the funds necessary to revive the Ushiromiya family, and Grandfather owed her big time.`
+char_but: ` ...If that's the case, and Grandfather had that huge painting drawn and displayed out of feelings of gratitude...yeah, that might not be that strange a story."`
+char_jes: `"Hey, what if this person looked like an old witch‐like granny?`
+char_jes: ` And then Grandfather idealized her appearance and turned her into this beauty when he had the painting drawn.`
+char_jes: ` Hahahahaha, I'll bet if we ever did meet this person, she wouldn't be nearly this pretty!"`
+char_geo: `"Hahahaha, that's possible.`
+char_geo: ` The name {f:5:Beatrice} sounds pretty Western, and if you think about how everyone in our family has Western‐style names,`
+char_geo: ` maybe even the name {f:5:Beatrice} is the result of Grandfather trying to rearrange some Japanese person's name to make it sound Western."`
+char_but: `"I get it, I get it.`
+char_but: ` That means that this pretty girl doesn't exist outside the picture.`
+char_but: ` Guess that means I won't be able to rub those el~egant breasts, ihihi!`
+char_but: ` In the first place, isn't a witch a little weird?`
+char_but: ` Like you could find something like that anywhere on earth."`
+char_non: `As I laughed and made fun of the witch in an attempt to differentiate myself from the kid I was six years ago who was afraid of the witch of the forest, Maria tugged on my sleeve.`
+char_non: `...The strength with which she did so displayed a little annoyance.`
+char_but: `"Hmm?`
+char_but: ` What is it, Maria?"`
+char_mar: `"Uu!`
+char_mar: ` Uu!!`
+char_mar: ` {f:5:Beatrice} exiiiists!"`
+char_non: `Maria stared up at me.`
+char_non: `{n}...She had on her usual sour look, but I could tell she was angry because of the color of her eyes.`
+char_mar: `"Witches exist!`
+char_mar: ` Witches exist!`
+char_mar: ` Uu‐uu‐uu!!!"`
+char_but: `"Well sure, they do exist...if you turn the TV on and watch anime or something."`
+char_mar: `"Exiiist!!`
+char_mar: ` Witches exiiist!!`
+char_mar: ` Uu‐uu‐uu!!!"`
+char_non: `I started to feel pressured, not knowing why Maria was jumping on me like this.`
+char_non: `Then, Jessica tapped me on the shoulder and told me in a small voice.`
+char_jes: `"...Dumbass, don't go smashing a kid's dream.`
+char_jes: ` Maria really believes that things like witches and {f:5:Beatrice} exist."`
+char_geo: `"Come to think of it, Maria‐chan, in social studies at your school, when you were asked to write what you wanted to be when you grew up, you wrote "a witch", didn't you?"`
+char_non: `Maria nodded seriously.`
+char_non: `{n}Tears started to run from the corners of her eyes.`
+char_non: `.........I see. To a girl who wants to become a witch in the future,`
+char_non: ` this "{f:5:Beatrice}" is proof that witches do exist in this world,`
+char_non: ` and is also someone who she admires and strives to be like.`
+char_mar: `"Exiiist!`
+char_mar: ` Exiiist!`
+char_mar: ` Witches exiiist!!`
+char_mar: ` But Battler doesn't believe!`
+char_mar: ` Uu‐uu‐uu!!!"`
+char_geo: `"It's alright. They exist, witches.`
+char_geo: ` Onii‐chan believes it."`
+char_non: `George‐aniki kneeled down and held Maria's head.`
+char_non: `{n}...Watching this, Jessica poked me in the side.`
+char_non: `...So that's what it is.`
+char_non: `It's basically like, I just dropped the bomb that Santa Claus doesn't exist,`
+char_non: ` in front of a child who believes in him, on Christmas Eve.`
+char_non: `...I'm not the kind of guy who likes to shatter kids' dreams.`
+char_but: `".........Uhh, I'm sorry.`
+char_but: ` I wasn't trying to make fun of your dreams. I apologize.`
+char_but: ` Of course {f:5:Beatrice} exists.`
+char_but: ` Even now she's living in the forest, and comes every night to the mansion to peek in and see what everyone's doing."`
+char_but: `"......That's why you shouldn't go into the forest.`
+char_but: ` And at night, you mustn't stay up staring into the dark forest.`
+char_but: ` ......You might be seen by the witch of the forest, {f:5:Beatrice}.`
+char_but: ` ............After all, Grandmother said so."`
+char_mar: `"...Uu......`
+char_mar: ` Really?`
+char_mar: ` ...Battler really believes?"`
+char_but: `"Yep, I believe.`
+char_but: ` Sorry for doubting it.`
+char_but: ` ...C'mon, let's make up, okay?"`
+char_non: `I stuck out my hand and Maria grabbed it with her tiny hand, and we made up.`
+char_non: `Maria didn't grumble any more than that, so George‐aniki and Jessica were relieved.`
+char_sha: `"......Oh.`
+char_sha: ` This is where all of you were?`
+char_sha: ` I was sure you had just left to go to the beach..."`
+char_non: `Shannon‐chan, carrying a basket, was surprised to find us all gathered in front of the portrait.`
+char_jes: `"Ah, Shannon.`
+char_jes: ` Well, this is the first time Battler has seen {f:5:Beatrice}'s portrait.`
+char_jes: ` He was just fascinated by it."`
+char_sha: `"Yes, she does that, doesn't she?`
+char_sha: ` ...{f:5:Beatrice}‐sama is truly beautiful.`
+char_sha: ` I am sure that she captivated the Master."`
+char_geo: `"Ahahahaha.`
+char_geo: ` In addition to the patron theory, there's also a theory that she was Grandfather's first love.`
+char_geo: ` ...Either way, although it's been several decades since he met her, even now she holds a special place in his heart.`
+char_geo: ` ...Which must mean that he is still captivated by her even today."`
+char_but: `"Sheesh.`
+char_but: ` That must have made Grandmother pretty jealous, right?"`
+char_jes: `"I don't know everything, but yeah, that did happen, actually.`
+char_jes: ` Apparently Grandmother believed that he was cheating on her with some blonde‐haired woman."`
+char_mar: `"......Uu?`
+char_mar: ` Good smell!`
+char_mar: ` Good smell coming from Shannon!"`
+char_non: `Maria, sniffing, approached the basket Shannon‐chan was holding with interest.`
+char_non: `Now that you mention it, I do notice a fragrant scent with the essence of vanilla.`
+char_sha: `"Ah, I apologize.`
+char_sha: ` I was told by Kumasawa‐san to bring them to you all."`
+char_geo: `"What is it, I wonder?`
+char_geo: ` ......Ooh, excellent!`
+char_geo: ` Cookies."`
+char_mar: `"Uu!`
+char_mar: ` Want to eat cookies!`
+char_mar: ` Want to eat cookies!`
+char_mar: ` Uu!"`
+char_sha: `"Certainly, you may eat as many as you would like.`
+char_sha: ` ...But, umm..."`
+char_non: `Unsure whether it was really acceptable to serve cookies in a place like this in front of the portrait,`
+char_non: ` Shannon‐chan sent us a glance which seemed to ask what we wanted to do.`
+char_non: `...Well, thinking about it, yeah, that would be bad manners.`
+char_jes: `"Maria, why don't we eat someplace else?`
+char_jes: ` Let's put the cookies in a bento and have a picnic."`
+char_mar: `"Uu!`
+char_mar: ` Have a picnic, have a picnic!!`
+char_mar: ` If we can eat cookies, let's go!"`
+char_but: `"Yeah, let's go get some fresh air.`
+char_but: ` We shouldn't pick at food right in front of the witch."`
+char_jes: `"Oh, right, didn't we say that we wanted to go down to the beach in the first place?`
+char_jes: ` Let's go, let's go."`
+char_geo: `"Shannon‐chan.`
+char_geo: ` Sorry, but could I ask you to get us a blanket to sit on and some flasks of tea."`
+char_sha: `"Right...!`
+char_sha: ` Certainly."`
+char_non: `Shannon‐chan received her instructions and gracefully bowed before retracing her steps.`
+char_non: `We headed for the beach on our own.`
+char_non: `Everyone headed for the entrance in a group.`
+char_non: `...Feeling as though that witch was staring down at our backs, I turned around once more.`
+char_mar: `"...Uu.`
+char_mar: ` ......Battler, you still don't believe...?"`
+char_but: `"Oh, no, I believe.`
+char_but: ` ......That way is more fantastical!`
+char_but: ` The Golden Witch {f:5:Beatrice} gave Grandfather ten tons of gold!"`
+char_but: `"And that gold might be sleeping around somewhere.`
+char_but: ` Plus, they're saying Grandfather wrote that strange epitaph as though challenging us to find it if we can.`
+char_but: ` I think that kind of romantic story is way better."`
+char_jes: `"20 billion yen's worth of goollld!`
+char_jes: ` Hehe, even if we split it up between the four of us, that's still a ridiculous amount of money!"`
+char_geo: `"5 billion yen for each of us...`
+char_geo: ` ...Incredible!`
+char_geo: ` With that kind of money, any business would prosper.`
+char_geo: ` No, wait, we could live our whole lives fabulously without ever working at all."`
+char_mar: `"Uu‐uu!`
+char_mar: ` Not 5 billion yen, cookies, cookies!!"`
+char_but: `"Wahahaha, Maria would take cookies over money.`
+char_but: ` Still, 5 billion yen, that's like a dream!"`
+char_cla: `"Ridiculous.`
+char_cla: ` ......Is it truly possible that you all believe in Father's Legend of the Gold?"`
+char_rud: `"............The story about a witch who gave him the gold and so forth, we obviously don't believe.`
+char_rud: ` However, there's no mistake about the gold."`
+char_eva: `"Multiple sources have confirmed the fact that Father was in possession of gold bars from an unknown source.`
+char_eva: ` We heard that, before the Marusoo company president died, Father showed him a large amount of gold somewhere.`
+char_eva: ` Father stated clearly to him that there were ten tons' worth."`
+char_cla: `"That's just the nonsense of a senile old man.`
+char_cla: ` Along with Father, he was just fabricating a story.`
+char_cla: ` You can't take it seriously."`
+char_hid: `"If that gold didn't exist, he wouldn't have been able to gather so much funding...!`
+char_hid: ` Before the president died, he was a person whose sincere personality gathered a lot of respect from many in the business world.`
+char_hid: ` He wouldn't have become a partner to such a fraud...!"`
+char_rud: `"Aniki.`
+char_rud: ` The president of Marusoo definitely saw it.`
+char_rud: ` Ten tons of it, clearly with his own eyes.`
+char_rud: ` Even more, Dad let the president take one ingot at random and have it examined."`
+char_rud: `"......The results of the examination showed that the ten‐kilogram ingot had a purity of {ruby:99.99%:four nines}.`
+char_rud: ` He said that the Ushiromiya family crest, the One‐winged Eagle, was carved into it."`
+char_eva: `"Almost instantly, the Ushiromiya Legend of the Gold spread amongst the fixers of the business world.`
+char_eva: ` Gold from an unknown foundry has a poor rate of conversion into money.`
+char_eva: ` Thinking that it was a chance for decisive profits, they accepted it as collateral, and as a result Father was able to receive a giant loan..."`
+char_cla: `"This is the most ridiculous nonsense I've ever heard.`
+char_cla: ` ...How old are you people?`
+char_cla: ` Are you still taking that fairy tale you heard as a kid at face value?"`
+char_cla: `"Where is the proof that this "ten tons of gold" even exists?`
+char_cla: ` Isn't it just the lies of Father and those who were closest to him?"`
+char_rud: `"......Of course it's just a story.`
+char_rud: ` But still, Aniki.`
+char_rud: ` The amount of money that Dad raised required a suitable quantity of collateral.`
+char_rud: ` Even if the gold was just a rumor, that he must have shown them a treasure of comparable worth is an unmistakable truth, don't you think?"`
+char_cla: `"It was just a fiction of gold created by our penniless father.`
+char_cla: ` He made it seem that non‐existent gold actually existed and fooled his sponsors.`
+char_cla: ` It was probably the gamble of a lifetime."`
+char_cla: `"......Fortunately, his use of those funds proved successful.`
+char_cla: ` If the Korean war demands hadn't come and the Ushiromiya family had not been restored, Father would probably have been hounded after as the crook of the century."`
+char_hid: `"In that case, are you saying that the gold never existed, ...and that Father made it all up?"`
+char_cla: `"Of course.`
+char_cla: ` Therefore, after he had become sufficiently successful, the fiction of the gold was nothing but an inconvenience.`
+char_cla: ` So Father made up that absurd story about the witch and black magic and made the whole thing seem less believable."`
+char_cla: `"In other words, he revealed that the gold was a complete fiction.`
+char_cla: ` If he says that he received the gold from a witch, no one would believe that it exists at all, right?"`
+char_cla: `"He may even have said it for all of your sakes.`
+char_cla: ` Nevertheless, some stupid offspring wanting to divide up this non‐existent gold with the rest of the inheritance have appeared.`
+char_cla: ` ......Rosa, don't tell me that even you believe this kind of a fabrication...?"`
+char_ros: `".....................I can't prove whether or not Father really has the gold."`
+char_ros: `"......However, as one of father's four children, I just want to claim my rightful share."`
+char_cla: `"Hoh...`
+char_cla: ` It seems even Rosa has learned to assert herself.`
+char_cla: ` Alright, maybe this is what you all want to say:`
+char_cla: ` that I am trying to keep all of the gold to myself..."`
+char_eva: `"Nii‐san, the fact is that you've obtained a massive amount of funding.`
+char_eva: ` If we rule out the possibility that you have been embezzling Father's personal funds,`
+char_eva: ` ......then there's only one possibility left, right?"`
+char_rud: `"......Aniki, maybe you have already found the ten tons of gold bars.`
+char_rud: ` It sure looks that way to us."`
+char_cla: `"Ridiculous.`
+char_cla: ` Something like that never existed in the first place."`
+char_eva: `"Then explain yourself.`
+char_eva: ` Embezzlement of Father's assets; Father's hidden gold.`
+char_eva: ` How could you have gathered so much funding if you didn't use one of these?"`
+char_cla: `"I also have many friends in the political world and the financial world.`
+char_cla: ` I have done nothing more than gain their assistance.`
+char_cla: ` ......And as for that, I have no responsibility to explain it to you.`
+char_cla: ` You understand, don't you?`
+char_cla: ` There are some topics that can't be talked about."`
+char_rud: `"......If that's the story you insist on, then fine.`
+char_rud: ` But Aniki. Dad doesn't have long.`
+char_rud: ` Nobody can ensure that he will live to see this day next year."`
+char_rud: `"When Dad dies, the inheritance will be passed on immediately.`
+char_rud: ` We will all set up impartial lawyers and accountants to inspect the state of Dad's finances."`
+char_eva: `"If, at that time, the fact that our brother has unjustly interfered with Father's money comes to light...`
+char_eva: ` ......You understand, right?"`
+char_cla: `"I don't have a clue what you're talking about.`
+char_cla: ` You're starting to make me feel as indignant as my wife was."`
+char_hid: `"...Father's gold is definitely one of Father's assets!`
+char_hid: ` I understand it's money you can't reveal openly.`
+char_hid: ` Even so, the four siblings should have an equal right to it."`
+char_rud: `"In short, we will also have your financial situation investigated to determine whether or not you are hoarding the gold."`
+char_eva: `"You have a good opportunity right now.`
+char_eva: ` Prove the existence of this backup from friends and acquaintances that you mentioned.`
+char_eva: ` That way you will be spotless.`
+char_eva: ` And we can sportingly apologize for foolishly doubting you.`
+char_eva: ` Right, Rosa?"`
+char_ros: `"......That's right.`
+char_ros: ` Krauss nii‐san, you are the one who's avoiding the topic.`
+char_ros: ` If you were guiltless, you could just prove that you were in the right, yet you aren't even trying to respond."`
+char_rud: `"However, Aniki, we still have to consider your position here.`
+char_rud: ` As Dad's representative, you're probably bearing a larger share of the burden than we are.`
+char_rud: ` It wouldn't be fair for the rest of us, who have been living terribly relaxed lives until now, to complain without taking that into account."`
+char_cla: `"............Hoh.`
+char_cla: ` I am spoken ill of one moment and flattered the next; it is quite tiring.`
+char_cla: ` Please get to the point."`
+char_hid: `"In short, ......randomly investigating nit‐picky aspects of Father's wealth seems a pretty darn boorish way to do it.`
+char_hid: ` As you said, Krauss nii‐san, you've probably got movements of money that are difficult to explain.`
+char_hid: ` We understand that, and that's why we've come to consult with you.`
+char_hid: ` ...A mutually beneficial consultation."`
+char_cla: `"Consultation?`
+char_cla: ` Hoh."`
+char_rud: `"......When the inheritance is distributed, you will be rewarded for your years of hard work taking care of Dad by an agreement that is generous in your favor."`
+char_eva: `"Don't misunderstand us.`
+char_eva: ` It's not like we're saying that we will abandon our rights.`
+char_eva: ` It's just that when we claim what we deserve,`
+char_eva: ` it wouldn't be bad if there was a generous understanding of your position—that's what we mean."`
+char_hid: `"In other words, if you'll accept our conditions,`
+char_hid: ` at the time of the division of the inheritance, we won't mind leavin' the investigation of Father's financial status to you, Krauss nii‐san."`
+char_non: `All of the siblings from Eva downward suspected that Krauss was trying to steal their father's wealth.`
+char_non: `In that situation, letting Krauss report on the state of their father's wealth by himself was extremely contradictory and a huge concession.`
+char_non: `If, as they claimed, Krauss was actually embezzling money, Krauss would be able to hide that fact.`
+char_non: `Besides that, it would also be possible for him to control the distribution of the inheritance in a manner favorable to himself.`
+char_non: `Krauss, also realizing that this sounded too good to be true, couldn't help but feel doubt.`
+char_non: `He had to worry about what they would ask in return for such a compromise...`
+char_cla: `"......Hoh.`
+char_cla: ` After mistrusting me completely, you now say that you're willing to restore your confidence in me as the eldest sibling?`
+char_cla: ` And what are you asking for?"`
+char_rud: `"Just what we deserve as siblings.`
+char_rud: ` ......You aren't the kind of person who would steal Dad's property.`
+char_rud: ` However, there is no patron financing you.`
+char_rud: ` ...Considering all that, there is a certain explanation that would satisfy the rest of us."`
+char_eva: `"......Nii‐san, you found the ten tons of gold,`
+char_eva: ` and used that as collateral to gather some funding.`
+char_eva: ` ...Yes, just like Father did in the past, right?"`
+char_hid: `"If that's the case, there won't be any funny bits in Father's finances.`
+char_hid: ` You've always been a good son, lookin' after Father.`
+char_hid: ` Why would we mistrust a person like that?"`
+char_cla: `".........You're being so roundabout I can barely understand you.`
+char_cla: ` Say it more clearly and specifically."`
+char_rud: `"Our first condition:`
+char_rud: ` Aniki, you must admit that you have found Dad's gold."`
+char_cla: `"...Are you asking me to admit that I possess gold that does not exist?"`
+char_eva: `"Our second condition:`
+char_eva: ` recognize our rights to a share of the gold, and pay it to us."`
+char_cla: `"How foolish.`
+char_cla: ` With the nonexistent 20 billion yen of gold, that would be 5 billion yen per person. Are you telling me to pay a total of 15 billion yen?`
+char_cla: ` ......Preposterous!"`
+char_hid: `"Keep listening until the end!`
+char_hid: ` We know that much money can't just appear out of nowhere.`
+char_hid: ` We're not askin' you to make an impossible deal!`
+char_hid: ` Of course, regardin' the portions of the gold, we plan to reward you sufficiently for your hard work until now in our calculations."`
+char_eva: `"Our third condition:`
+char_eva: ` the portion of the gold to the one bearing the title of successor to the Ushiromiya main family will be 50%. The remainder will be split fairly between all the siblings.`
+char_eva: ` Of course, this also includes you, Krauss nii‐san."`
+char_rud: `"Of the 20 billion, 12.5 billion will go to Aniki,`
+char_rud: ` 2.5 billion will go to Eva nee‐san,`
+char_rud: ` 2.5 billion will go to me,`
+char_rud: ` and 2.5 will go to Rosa."`
+char_cla: `"............A distribution that makes me so grateful I could cry.`
+char_cla: ` So you're saying, for the sake of the gold that doesn't exist, I must pay you 7.5 billion."`
+char_eva: `"What's wrong?`
+char_eva: ` Nii‐san, your share is five times the size of ours.`
+char_eva: ` That's such a good condition, I'd be jumping for joy.`
+char_eva: ` Heheheheh..."`
+char_rud: `"Our fourth condition:`
+char_rud: ` the dividends will be paid out along with the distribution of the inheritance at the time of Dad's death.`
+char_rud: ` However, as a deposit, 10% of our portions will be paid to us promptly.`
+char_rud: ` The payment must be made before March of next year."`
+char_hid: `"......What do you think, Krauss nii‐san? This is an ideal chance for you to restore the trust you need to run Father's assets, isn't it?!`
+char_hid: ` Of course, it might be impossible to get a whole 7.5 billion before Father dies.`
+char_hid: ` However, you can't say that you couldn't manage a deposit of 750 mil, right?"`
+char_rud: `"Paying 700 million in half a year might be slightly bothersome,`
+char_rud: ` but someone like you, who has many friends in the political and business spheres, should be able to manage it."`
+char_eva: `"Normally, I'd hope to receive the 7.5 billion right now, all at once.`
+char_eva: ` But out of concern for your position, if you'll just show your sincerity by delivering 10 percent for the time being,`
+char_eva: ` it's alright to let the remaining 90 percent carry over until the distribution of the inheritance.`
+char_eva: ` ...Right?`
+char_eva: ` Surely even you can offer a mere ten percent to show your sincerity?"`
+char_cla: `"............So the right to investigate the status of Father's assets is being sold to me for 750 million.`
+char_cla: ` .........Heh, heheheh.`
+char_cla: ` Isn't that great?`
+char_cla: ` You all sure have grown.`
+char_cla: ` I never thought you all would become capable of offering a deal to me."`
+char_eva: `"Nii‐san, if you accept these, the rest of us siblings will leave the investigation of Father's assets to you.`
+char_eva: ` However, the results of that investigation will be subject to appeal."`
+char_eva: `"...It's only natural, right?`
+char_eva: ` We'd be sad if you adjusted our portions downwards by 7.5 billion."`
+char_rud: `"As a general rule, we wouldn't complain.`
+char_rud: ` As long as you do it neatly, it's fine.`
+char_rud: ` ...As long as you don't do anything significantly obvious, we don't plan to aggravate anything.`
+char_rud: ` We want the inheritance quickly as much as you do.`
+char_rud: ` We don't want it to get all drawn out and led astray."`
+char_cla: `"......In the case of an appeal, who would do the second investigation?"`
+char_ros: `"...............That can be you as well.`
+char_ros: ` This will probably be the first and last opportunity for us siblings to discuss this.`
+char_ros: ` ...I trust you not to let it come to that."`
+char_eva: `"Heheh, *cackle*cackle*!`
+char_eva: ` Rosa, you really can talk sometimes."`
+char_non: `That Krauss was not trusted whatsover as the oldest sibling was by now so obvious that it requires no explanation.`
+char_non: `The formerly tyrannical oldest brother would always abuse his privileges and infringe upon the other siblings' shares.`
+char_non: `...In response to that, the other three, now adults, were for the first time striking back at him by working together...`
+char_hid: `"I'm sorry, but there are further conditions.`
+char_hid: ` Our fifth condition:`
+char_hid: ` this decision must take precedence over Father's will.`
+char_hid: ` .........Later on, we don't want some will to appear and make this decision completely useless."`
+char_cla: `".........I see that you're very cautious.`
+char_cla: ` ...Then let me ask, if the gold really were found, what would you do?"`
+char_rud: `"As long as you've settled this matter with the corresponding payment,`
+char_rud: ` then whether the gold`
+char_rud: ` "really"`
+char_rud: ` appears or not makes no difference to us.`
+char_rud: ` ...You can think of our share as an advance payment."`
+char_eva: `"*giggle*, gives you something to live for!`
+char_eva: ` You plan to turn this island into a resort, right?`
+char_eva: ` During construction, you might stumble upon the gold by chance."`
+char_non: `Eva let out a high‐pitched laugh.`
+char_non: `{n}Krauss watched without even flinching.`
+char_cla: `"......Let me add a seventh condition before I accept.`
+char_cla: ` In the situation that any sibling other than myself finds the gold, they will immediately turn it over to me."`
+char_eva: `"Yes, yes, of course, we'll guarantee you that.`
+char_eva: ` *giggle*!"`
+char_non: `Insignificant details.`
+char_non: ` The others, who were forcing Krauss to pay money for some nonexistent gold,`
+char_non: ` would of course not ensure Krauss's portion if they actually found the gold.`
+char_non: `From the beginning, this deal had been nothing more than a threat directed at Krauss.`
+char_non: `While the truth might be different, the probability that Krauss was embezzling his father's assets was extremely high.`
+char_non: `When at last Kinzo faced death and it came time for the inheritance to be distributed, surely some unpleasant facts would come to light.`
+char_non: `That situation would likely be a fatal wound to Krauss.`
+char_non: `They had latched onto that weak point, and were threatening their brother under the veil of compromise, trying to wring out a huge sum of money.`
+char_non: `......However, they had let one thing slip their minds.`
+char_non: `{n}The three of them had forgotten that their oldest sibling, who they couldn't defeat unless they banded together, was a very nimble thinker when it came to being crafty.`
+char_non: `Krauss relaxedly let out a gloating laugh as he spoke to Eva, who could not hide her smile, so certain she was of her victory.`
+char_cla: `"Hahaha.`
+char_cla: ` This all sounds marvellous to me.`
+char_cla: ` ......I had been feeling a deep pain in my heart at my estrangement from the rest of you.`
+char_cla: ` If by accepting these conditions, I could make our sibling relationship friendly once again, I would be quite pleased."`
+char_cla: `"I will gladly take you up on your offer.`
+char_cla: ` ......Be happy, Rosa.`
+char_cla: ` We have a deal."`
+char_ros: `"........................"`
+char_non: `Rosa's expression dimmed.`
+char_non: ` ......When her brother started talking like this, the conversation would never change for the better.`
+char_non: `...Eva was also sensitive enough to realize this.`
+char_non: `{n}Therefore, even though Krauss had obediently accepted the deal, she was unable to wipe away her feeling of insecurity.`
+char_eva: `"...My, how obedient.`
+char_eva: ` That's not like you, Nii‐san."`
+char_cla: `"That's harsh.`
+char_cla: ` You think I have an ulterior motive?`
+char_cla: ` Of course I don't.`
+char_cla: ` I'm just like all of you."`
+char_non: `— I'm just like all of you.`
+char_non: `{n}It felt as though only that part was emphasized.`
+char_non: `The color of Rudolf's face darkened.`
+char_non: `{i:"I have a plan, just like all of you"}.`
+char_non: `{n}...That's what it sounded like to him.`
+char_non: `That gave him a sense of urgency.`
+char_non: ` Trying to bring this near‐finished discussion to a conclusion, he rushed to wrap it up.`
+char_rud: `"......Then we are good.`
+char_rud: ` ...So, Aniki.`
+char_rud: ` Would you mind signing here?`
+char_rud: ` This is a written contract containing the discussion we have been having.`
+char_rud: ` There's one for each person.`
+char_rud: ` Everyone will sign for the same contents."`
+char_non: `Rudolf took four written contracts out of his breast pocket that had the details of their deal written on them.`
+char_hid: `"Of course, we'll also add the seventh condition that you proposed, straight away.`
+char_hid: ` Don't worry."`
+char_rud: `"Aniki, will you use a pen?"`
+char_non: `Rudolf took a fountain pen out of his breast pocket and offered it to Krauss.`
+char_non: `Krauss made as if to accept it, but then, with a small laugh, drew back his hand without taking it and spoke.`
+char_cla: `"............Actually,`
+char_cla: ` in order to make sure this agreement is definitely effective, I would like to propose a single amendment."`
+char_non: `When Krauss said that one sentence...`
+char_non: `{n}...all of the siblings felt at the same time as though something annoying was creeping up their backs.`
+char_eva: `"......Th‐that won't do.`
+char_eva: ` We've already decided, haven't we?`
+char_eva: ` Be quiet and sign it."`
+char_cla: `"Eva, why are you so impatient?`
+char_cla: ` Of course I will sign.`
+char_cla: ` I'll promise you all your share of the gold, 7.5 billion yen.`
+char_cla: ` I also promise that, when Father's inheritance is distributed, I will cleanly and neatly liquidate it."`
+char_cla: `".........However, there is just one point on which I must ask you to compromise."`
+char_rud: `"............What are you talking about.`
+char_rud: ` What point don't you like...?"`
+char_cla: `"The part about promptly paying ten percent of each portion, 750 million yen.`
+char_cla: ` As you pointed out, my financial situation is not prosperous.`
+char_cla: ` While I am guaranteed to definitely collect on various future investments,`
+char_cla: ` at this time I have no choice but to admit that I am very poor."`
+char_cla: `"In short, I have absolutely no money that I can move around right now.`
+char_cla: ` ......I am incompetent, and my business skills and senses are dull.`
+char_cla: ` An "unfortunate" such as me, to use your words, has no power to move 750 million in just half a year."`
+char_eva: `"Th‐that can't be true.`
+char_eva: ` Are you trying to deceive us with offhand remarks?"`
+char_cla: `"At the time of the division of the inheritance, I will liquidate everything at once.`
+char_cla: ` Remove the condition that I must pay you ten percent in advance.`
+char_cla: ` ...That is all you have to do to get me to sign."`
+char_hid: `"......Krauss nii‐san, that ten percent is nothin' more than a number to measure your sincerity, isn't it?`
+char_hid: ` Strictly speakin', we shouldn't even be making you a deal in the first place.`
+char_hid: ` We're doin' you a big favor by offerin' to let things slide for just ten percent in good faith money."`
+char_hid: `"We explained all that to you, so don't you think rejectin' that part damages our trusting relationship a little...?"`
+char_non: `Hideyoshi had a humble expression on his face and had his hands clasped together,`
+char_non: ` but his eyes were not calm at all.`
+char_non: `......Krauss had already seen through the shadow in the depths of those eyes.`
+char_cla: `".........Hmph.`
+char_cla: ` Why are you all so hurried?`
+char_cla: ` ...Or are you possibly afraid of something?`
+char_cla: ` .........Rosa, won't you tell at least me?`
+char_cla: ` ...Secretly, without telling the rest of the siblings."`
+char_ros: `"...............It, it's not like I......"`
+char_rud: `"Quit it, Aniki.`
+char_rud: ` All we're asking is whether you're going to sign or not.`
+char_rud: ` Just forget about making any strange deals or anything suspicious."`
+char_cla: `"......Hoh?`
+char_cla: ` So I have no margin for negotiation.`
+char_cla: ` ...Do you claim that my position is so weak that we are not in an even relationship...?"`
+char_non: `Shivers began to crawl up Rudolf's back...`
+char_non: `Ever since he was a child, he had never been able to overcome the height of the wall that separated him from his older brother,`
+char_non: ` and now again he began to feel himself getting sucked in by it, and the long shadow it cast...`
+char_cla: `"Shouldn't deals be made on an even footing?`
+char_cla: ` To me, this deal is something to restore the long lost trust of my younger brother and sisters, and deepen the love between us siblings.`
+char_cla: ` It has been a cancer in my heart, that I wished to resolve quickly."`
+char_cla: `"I am very happy that I am able to resolve it today.`
+char_cla: ` .........But you too would be very happy to see this deal quickly concluded, wouldn't you...?"`
+char_non: `Krauss stared at each of the siblings.`
+char_non: `{n}...They avoided his gaze with animal‐like instinct.`
+char_non: `Only Hideyoshi was slow avoiding it.`
+char_non: `{n}...So he was caught in Krauss's gaze.`
+char_cla: `"Hideyoshi nii‐san.`
+char_cla: ` I hear that your company has been going extremely well recently, hasn't it?`
+char_cla: ` You didn't hit any problems getting it listed as a stock, and both its performance and stock prices are constantly growing.`
+char_cla: ` I am truly jealous."`
+char_eva: `"......M‐my husband's situation surely has nothing to do with this."`
+char_cla: `"However, it is unfortunate that you have neglected your stockholders.`
+char_cla: ` It's also horrible that you were unable to solidify your base when you became stock‐listed.`
+char_cla: ` ......Before you realized it, some bad‐natured fellows had bought up a considerable amount of your company's stock, hadn't they?"`
+char_hid: `".........H‐`
+char_hid: `......how could you know something like that..."`
+char_cla: `"The same way as you.`
+char_cla: ` If you can collect evidence proving that no one would offer a loan to me, then I can collect evidence on you.`
+char_cla: ` Hahaha, is it really that strange of a thing?"`
+char_non: `Krauss grinned broadly.`
+char_non: `{n}...In contrast, Hideyoshi's face was turning obviously pale......`
+char_non: `Hideyoshi's company was a fast‐food‐chain operating company that he had started from nothing.`
+char_non: `Through Hideyoshi's management efforts, performance of the business repeatedly rose and magnified, and ultimately it succeeded in becoming a stock‐listed company.`
+char_non: `The greatest advantage of being in the stock‐holding system is that, by selling stock certificates, a large amount of financing can be gained.`
+char_non: `That amount is far greater than the actual profits from the business.`
+char_non: `{n}This made it an extremely effective way to gather the massive funds needed to grow his company even further.`
+char_non: `However, in exchange for financing the company, the stockholders have certain rights.`
+char_non: `Namely, the right to observe and guide the company that they have financed, in order to raise its profits above their investment.`
+char_non: `......That right is guaranteed to all stockholders, and they sometimes even use it to reorganize ineffectual management.`
+char_non: `It is the "right" to prevent the money they have spent financing the company from going to waste, by watching the management of the company.`
+char_non: `However, if they use this right forcibly, they can eject the former management and take over the company.`
+char_non: `...Because the general body of all stockholders has the power to dismiss the management and nominate new management.`
+char_non: `That right is exercised on a majority decision by the stockholders.`
+char_non: `{n}And people who hold more stock get to cast more votes.`
+char_non: `In other words, if some person or group holds a majority of the stock, they can freely chase out the old management and make the president anyone they would like.`
+char_non: `If they want, it is even possible for them to make themselves president.`
+char_non: `Many companies, in order to prevent their stock from being bought up by malicious people and their position from being threatened,`
+char_non: ` take some kind of defensive measures, such as having their own employees or people close to them buy a lot of stock certificates, in order to prevent a hostile group from securing the majority.`
+char_non: `However, since Hideyoshi's company had only recently become stock‐listed, they hadn't had the time to strengthen those defensive measures.`
+char_non: `No, maybe Hideyoshi himself was so engrossed in the management of his company that he hadn't realized the dangers of being stock‐listed.`
+char_non: `It's hard to say whether he should be viewed as a kind‐hearted and skilled manager immersed in management, or a foolish manager who had his feet swept out from under him...`
+char_non: `...But in any case, there were people out there who would not let him get away with that naivety unscathed.`
+char_non: `They rapidly bought up Hideyoshi's company's stock and instantly gained a significant amount of power.`
+char_non: `They then sent anonymous documents to the stockholders and began to capture the majority.`
+char_non: `The documents read: "The current management continues to make pointless investments and is ignoring the needs of the stockholders.`
+char_non: ` Let us force the current management to retire, cut the current wasted investments, and let this company be born again as one that gives more back to the stockholders."`
+char_non: `It is very difficult to make the actual state of a company's management known.`
+char_non: `...They maliciously twisted the figures Hideyoshi had produced from a tiny amount of sleep and a constant concern for his company, and made him lose the trust of his stockholders.`
+char_non: `Their efforts had almost collected a majority of the stock in the company.`
+char_non: `...At that point, even Hideyoshi noticed and started to buy back the stock, but the stockholders, who realized that the company was undergoing an acquisition maneuver,`
+char_non: ` demanded a ridiculous price for the shares that Hideyoshi was trying to buy back.`
+char_non: `They continually tortured Hideyoshi, who had no leeway in the negotiation of the price.`
+char_non: `One of the certainties of capitalism is that value will rise when both parties vie for the same thing.`
+char_non: `And one of the certainties of democracy is that the majority controls everything.`
+char_non: `So in the end, whoever manages to buy up the most stock wins.`
+char_non: `...So whoever has the most money wins.`
+char_non: `If Hideyoshi could obtain a large sum of money at this critical time, he would be able to avoid losing all of that which he had built up...`
+char_non: `{a:c:`
+char_non: `THEREFORE,`
+char_non: ` MORE THAN ANYTHING ELSE,{n}`
+char_non: `HE WANTED A LOT OF MONEY RIGHT NOW...!}`
+char_non: `He couldn't wait for the division of Kinzo's inheritance, which may not happen for some time.`
+char_cla: `"And you, Rudolf, you've been in a lot of trouble lately, haven't you?`
+char_cla: ` They say it's scary overseas, but it seems that's really true.`
+char_cla: ` American trials are settled quite emotionally.`
+char_cla: ` They won't give a generous judgment to a foreigner.`
+char_cla: ` ......Weren't you advised by your lawyer that making a settlement with the other party would be more economical in the end?"`
+char_kir: `"............What is he talking about...?"`
+char_rud: `"......Ah, it's just troubles at work.`
+char_rud: ` It's no big deal.`
+char_rud: ` It'll be settled with money..."`
+char_non: `Kyrie quickly recognized what Rudolf's complicated expression meant.`
+char_non: `......Her husband had gotten wrapped up in some kind of trouble without her knowledge, and had been suffering alone.`
+char_cla: `"That's right.`
+char_cla: ` In this world, anything can be settled with money.`
+char_cla: ` After all, it can even buy back the broken bonds between siblings!`
+char_cla: ` America is very fussy about the violation of rights.`
+char_cla: ` But with money, anything can be settled.`
+char_cla: ` Long live capitalism."`
+char_cla: `"...Although, rumors abound that the settlement money may reach several million dollars...?"`
+char_non: `Rudolf had been building a large amount of wealth with a certain type of niche market.`
+char_non: `...However, a niche is a niche.`
+char_non: ` It's definitely not a sunny job.`
+char_non: `An American corporate giant was trying to accuse Rudolf's company of violating their rights.`
+char_non: `For various reasons, it was thought that winning the trial was extremely unlikely, and Rudolf was being pressed to surrender outright.`
+char_non: `...But even so, there was a way to resolve it with money.`
+char_non: `{n}If he could only pay that money, though it might be painful, he could still pick himself back up.`
+char_non: `...But if he didn't pay, he'd lose everything.`
+char_non: `{a:c:`
+char_non: `THEREFORE,`
+char_non: ` MORE THAN ANYTHING ELSE,{n}`
+char_non: `HE WANTED A LOT OF MONEY RIGHT NOW...!}`
+char_cla: `".........Rosa, you're a good and noble little sister.`
+char_cla: ` You wouldn't even touch a dangerous money game.`
+char_cla: ` ...However, your softhearted nature was your ruin, wasn't it...?`
+char_cla: ` I wouldn't think one should agree to become a co‐signer so lightly."`
+char_ros: `"Nn...`
+char_ros: `...umm...`
+char_ros: `...th‐that has nothing to do with you, Krauss nii‐san!!"`
+char_non: `Rosa uncharacteristically lay bare her emotions and yelled.`
+char_non: `{n}...Because she had thought she had kept it a secret.`
+char_non: `{n}As Krauss watched, he let slip a muffled laugh...`
+char_non: `......There was nothing to fear.`
+char_non: ` Every one of them,`
+char_non: `{a:c:`
+char_non: ` MORE THAN ANYTHING ELSE,{n}`
+char_non: `WANTED A LOT OF MONEY RIGHT NOW...!}`
+char_non: `In other words, the situation had been reversed.`
+char_non: `Because only Krauss, who they were threatening, had no urgent need for a large sum of money.`
+char_non: `Compared to that, the three who were threatening him wanted money quickly, no matter what the cost.`
+char_non: `So the longer Krauss postponed this deal, the greater the advantage to him.`
+char_non: `Krauss was very sly.`
+char_non: `{n}He had known of their Achilles' heel from the beginning.`
+char_non: `{n}Even so, he had not been certain.`
+char_non: `Therefore, he had hidden that until the very end, and, upon closely and completely examining their attitude, he had struck back.`
+char_cla: `"If I could, I would love to raise some money for my darling brother and sisters in their time of need.`
+char_cla: ` ...But unfortunately, I have nothing on hand."`
+char_cla: `"......If you have any sponsors in mind that can raise a whole 750 million, I suggest you try there first."`
+char_non: `Krauss's elated words were horribly blunt.`
+char_non: `{n}The other siblings could do nothing more than listen, grinding their teeth.`
+char_non: `.........If they could think of a sponsor that convenient, they wouldn't have kept up this charade.`
+char_non: ` They had entered this huge battle specifically because they had exhausted all other options.`
+char_cla: `"......If you're still set on relying on your older brother,`
+char_cla: ` I could use my influence to find you sponsors.`
+char_cla: ` .........Oh wait, you already said that I have no influence.`
+char_cla: ` Well then, I can't do anything, can I?`
+char_cla: ` ......Hehheheheheheheh!"`
+char_non: `Krauss's low, gloating laugh began to fill the parlor.`
+char_non: `The younger siblings who had, until now, been driving the oldest brother into a corner, could do nothing more than grimace and grind their teeth...`
+char_hid: `"............E‐Eva......"`
+char_eva: `"......Don't make me laugh...`
+char_eva: ` As if I would put myself in your debt...!`
+char_eva: ` Don't make me laugh...`
+char_eva: `don't make me laugh......!"`
+char_ros: `"..................If...`
+char_ros: `...if we relied on you, how would you help us..."`
+char_cla: `"I told you, didn't I?`
+char_cla: ` All I can do is find other sponsors for you.`
+char_cla: ` Of course, I will do my utmost to negotiate so that you can borrow the interest as well.`
+char_cla: ` Hehheheheh, gahahahahahahahaha!!"`
+char_rud: `"......Damn you......`
+char_rud: `taking advantage of us............"`
+char_kir: `".........Baby.`
+char_kir: ` Please calm down."`
+char_rud: `"I am calm. I'm extremely cool......`
+char_rud: ` ...............You bastard...!"`
+char_non: `Kyrie grabbed her husband's hand.`
+char_non: `But that action made him feel even more pitiful, so Rudolf shook it off.`
+char_non: `...Krauss laughed as though seeing that made him extremely happy.`
+char_cla: `"If only we truly could find Father's hidden gold, at a time like this.`
+char_cla: ` Then I could split it up into 2.5 billion yen portions for you right away.`
+char_cla: ` How sad, how sad, how very sad!`
+char_cla: ` How extremely totally truly hopelessly sad!"`
+char_cla: `"............Tonight, let us drink together as brothers and sisters, and discuss the whereabouts of Father's hidden gold,`
+char_cla: ` ......solve the riddle of {f:5:Beatrice}'s epitaph together, why don't we?"`
+char_cla: `"With four friendly siblings all together, there is surely no puzzle that can't be solved.`
+char_cla: ` ...Hahhahahahahahahahahahahahahahahahahahahahahaha!!"`
+char_kin: `"..................Hmph.`
+char_kin: ` How interesting.`
+char_kin: ` And what are the conditions that they attached?"`
+char_kan: `"......Certainly.`
+char_kan: ` Whether or not Krauss‐sama actually discovered the gold, he would pay Eva‐sama, Rudolf‐sama and Rosa‐sama a total of 7.5 billion yen for their shares.`
+char_kan: ` However, ten percent of that would be paid before March."`
+char_kin: `"Fu, hah‐hah‐hah‐hah‐hah‐ha...`
+char_kin: ` Krauss, you dunce.`
+char_kin: ` That he would have his feet swept out from under him by his younger siblings...`
+char_kin: ` Truly amusing."`
+char_kin: `"......But it seems they couldn't seal the deal?"`
+char_kan: `".........Yes.`
+char_kan: ` Krauss‐sama exposed that Eva‐sama and the younger siblings all had an urgent need to get money."`
+char_kin: `"Hmph.`
+char_kin: ` So if he's given something that simple, he can see through it, then.`
+char_kin: ` He can't even manage incompetence.`
+char_kin: ` .........What are they doing now?"`
+char_kan: `"......That conversation has been put on hold for the time being.`
+char_kan: ` Now, {f:5:Beatrice}‐sama's epitaph is being discussed."`
+char_kin: `"So, they are trying to solve the riddle and find out where my gold is hidden?"`
+char_kan: `"...............Yes."`
+char_non: `Kinzo set down his glasses and snorted.`
+char_kin: `".........Will the miracle be fulfilled first,`
+char_kin: ` or will those fools expose the gold first?`
+char_kin: ` ...What a sight to behold."`
+char_kin: `"......If those fools solve my puzzle, at that time I will be completely defeated.`
+char_kin: ` They can suck my corpse down to the last fragment of bone.`
+char_kin: ` The magnitude of the fools' greed imbues my great magic with its miraculous potential."`
+char_kin: `"......But if!!`
+char_kin: ` If the fulfillment of the miracle comes first...`
+char_kin: ` If it comes first!`
+char_kin: ` {f:5:Beatrice} will be resurrected again!!`
+char_kin: ` That smile which I have been chasing half my life will be restored...!"`
+char_kin: `"Oooooohhh, {f:5:Beatrice}!!`
+char_kin: ` The sacred night when the miracle is wagered will come, and the devils' game will begin...!`
+char_kin: ` I will definitely win, and will definitely remain alive!!"`
+char_kin: `"You can have the lives of the others!`
+char_kin: ` I don't need wealth or honor or assets or gold or anything!`
+char_kin: ` I only want to see your smile one more time!!`
+char_kin: ` *coughcoughcough*!!"`
+char_non: `Kinzo choked, apparently in great pain.`
+char_non: `Kanon got closer and tried to pat his master's back, but Kinzo signaled that he didn't need to.`
+char_kin: `"............Do you know why I went to the trouble of exposing the hidden location of the gold so that everyone could see it?"`
+char_kan: `"......No."`
+char_kin: `"It is because magical power is determined by risk.`
+char_kin: ` The greater the number of people who try to discover {f:5:Beatrice}'s gold,`
+char_kin: ` the greater the danger of that happening, then assuming that the bet is successful despite those long odds, the magical power will bring about an even grander miracle."`
+char_kin: `".........In other words, magic is a game.`
+char_kin: ` It is not true that the most superior person will become the winner.`
+char_kin: ` The winner becomes superior because he is granted magic.`
+char_kin: ` Do you understand?`
+char_kin: ` Just as the miracle of life is granted precisely because of a victory against divine odds of several hundred million to one.`
+char_kin: ` ..................Is this a little difficult for you to understand?"`
+char_kan: `".........My apologies."`
+char_kin: `"That's fine.`
+char_kin: ` ......It all comes down to this.`
+char_kin: ` To the one that solves the mystery of {f:5:Beatrice}'s epitaph, I will give all of that which I have built up.`
+char_kin: ` Wealth, honor, gold, and succession to the Ushiromiya family headship—everything that I have established!"`
+char_kin: `"The right to tackle the riddle is not limited to my children.`
+char_kin: ` Even if it were you who succeeded in solving it, that would make you qualified to gain everything."`
+char_kan: `".........Yes.`
+char_kan: ` However,`
+char_kan: ` ......I couldn't possibly understand such a difficult riddle."`
+char_kin: `"Of course.`
+char_kin: ` I made it difficult.`
+char_kin: ` ...But you must also challenge it.`
+char_kin: ` That will become the seed with which the miracle of my magic will be summoned.`
+char_kin: ` If everyone challenges it, and everyone fails, that will be that."`
+char_kin: `"However, if the miracles are gathered and the magical power is born, it will happen then!`
+char_kin: ` {f:5:Beatrice} will revive.`
+char_kin: ` Therefore you too must challenge it.`
+char_kin: ` All must challenge it.`
+char_kin: ` And in doing so, they must give strength to my magic!!`
+char_kin: ` Do you understand?!"`
+char_kan: `"............Yes.`
+char_kan: ` ...I will try."`
+char_non: `For a long while, Kinzo repeatedly muttered to himself, agitated and grabbing onto his head.`
+char_non: `Kanon stayed where he was, alert and unmoving, until he was given the next order from his master.`
+char_non: `...Kinzo finally realized this.`
+char_kin: `"That is all, leave me now.`
+char_kin: ` ......There is a bag of sweets on the liquor cabinet.`
+char_kin: ` You can take some with you as a reward."`
+char_kan: `"......I'm fine.`
+char_kan: ` After all,`
+char_kan: ` .........I am furniture."`
+char_kin: `"............Hmm.`
+char_kin: ` ......So furniture doesn't eat sweets?`
+char_kin: ` ...Indeed.`
+char_kin: ` In that case, leave me."`
+char_kan: `"As you ask.`
+char_kan: ` ......Please excuse me."`
+char_non: `Kanon bowed and left the study.`
+char_non: `{n}As the door was closed, a heavy locking noise resounded.`
+char_non: `But that was not the sound of Kanon locking the door.`
+char_non: `{n}It was the door locking automatically.`
+char_non: `No one could enter without Kinzo's permission, and once they left, they could not enter again.`
+char_non: `......It was a mechanism that Kinzo, unable to trust his blood relatives, had created to lock himself up in his own study and isolate himself from the outside world.`
+char_non: `......The only ones he could trust now were not the sons who shared his blood, but those servants who called themselves furniture...`
+char_gen: `"..................Doctor Nanjo, is something the matter?"`
+char_nan: `"...Ah, Genji‐san.`
+char_nan: ` Oh, it's just that I had no place in there anymore."`
+char_non: `With a bitter laugh, Nanjo turned to face the door to the parlor.`
+char_non: `...It seemed that because of that motion, Genji understood what Nanjo wanted to say.`
+char_non: `For the most part, Genji also understood the family's situation.`
+char_non: `...It must have made him want to frown, knowing that right now in the parlor, the master he served was being discussed so disrespectfully.`
+char_non: `But it would have been very difficult to gather that from his indifferent expression.`
+char_nan: `".........Still,`
+char_nan: ` ...it isn't clear to me.`
+char_nan: ` ...Why did Kinzo‐san have something so provocative written, I wonder."`
+char_non: `Nanjo looked at the portrait of {f:5:Beatrice}.`
+char_non: `{n}......No, he actually directed his gaze beneath the portrait, at the plate with the epitaph.`
+char_gen: `"...............I fail to understand the Master's thoughts.`
+char_gen: ` I sense that they run very deep."`
+char_nan: `"......For as long as I can remember, whenever Kinzo‐san played chess, he would always make moves based on some far‐sighted reading of the board.`
+char_nan: ` Yes, sometimes even moves that were incomprehensible.`
+char_nan: ` ......For an average person like me, it is impossible to see through to whatever it is he's planning..."`
+char_gen: `"I personally suspect this may be some kind of will from the Master.`
+char_gen: ` .........He most likely intends to entrust his assets and the family headship to whoever manages to comprehend it."`
+char_nan: `"......Hoping that the danger of some outsider like myself solving it...`
+char_nan: `would force the four siblings to work together to solve the riddle.`
+char_nan: ` It could be something like that, then.`
+char_nan: ` Kinzo‐san may rudely disparage his children, but he might also be hoping that the siblings repair their relationship."`
+char_gen: `"........................"`
+char_non: `If, as Nanjo said, this epitaph had been written to repair the relationship between the siblings, how heartwarming that would be.`
+char_non: `...However, Nanjo and Genji both knew this was the one thing that could never be the case.`
+char_non: `Here were the two who held the longest relationship with Kinzo, more trusted than his blood relatives,`
+char_non: ` and even they could not guess at Kinzo's true motive...`
+char_gen: `"......The Master is always saying that the right to challenge the riddle is granted to everyone, whether they are a member of the family or not.`
+char_gen: ` ......How about you, Doctor Nanjo?"`
+char_nan: `"No, no......It's a little too hard to understand for this senile old man."`
+char_nan: `"......Actually, I wrote this epitaph down in my notebook at one point in time.`
+char_nan: ` Night after night, I would try to solve it before going to sleep, but...`
+char_nan: `...hahaha, it truly is hard.`
+char_nan: ` I believe it shall continue providing me enjoyment for the rest of my days.`
+char_nan: ` What about you, Genji‐san?"`
+char_gen: `".........I am nothing more than furniture that serves the Master.`
+char_gen: ` Gold and assets are useless to me."`
+char_nan: `"My, my, you are a humble person.`
+char_nan: ` ...That's probably why Kinzo‐san trusts you so much."`
+char_gen: `"If so, I am honored..."`
+char_non: `As Nanjo lightly laughed in response, he once again looked at the epitaph.`
+char_nan: `"......Behold the sweetfish river, running through my beloved home of old.`
+char_nan: ` You who seek the Golden Land, follow its path downstream in search of the key..."`
+char_non: `That which is written on the epitaph of the portrait of my beloved witch {f:5:Beatrice} is as follows:`
+char_non: `{e:070:Behold the sweetfish river, running through my beloved home of old.`
+char_non: `{n}You who seek the Golden Land, follow its path downstream in search of the key.`
+char_non: `{n}{n}As you travel down it, you will see a village.`
+char_non: `{n}In that village, look for the shore the two speak of.`
+char_non: `{n}There the key to the Golden Land sleeps.`
+char_non: `{n}{n}You who laid hand upon the key must journey as follows to the Golden Land.}`
+char_non: `{e:070:On the first twilight, sacrifice the six chosen by the key.`
+char_non: `{n}On the second twilight, those who remain shall tear apart the two who are close.`
+char_non: `{n}On the third twilight, those who remain shall praise my noble name.`
+char_non: `{n}On the fourth twilight, gouge the head and kill.`
+char_non: `{n}On the fifth twilight, gouge the chest and kill.`
+char_non: `{n}On the sixth twilight, gouge the stomach and kill.`
+char_non: `{n}On the seventh twilight, gouge the knee and kill.`
+char_non: `{n}On the eighth twilight, gouge the leg and kill.`
+char_non: `{n}On the ninth twilight, the witch revives, and none shall be left alive.`
+char_non: `{n}On the tenth twilight, the journey ends, and you shall reach the Home of the Gold.}`
+char_non: `{e:070:The witch shall praise the wise, and bestow four treasures.`
+char_non: `{n}{n}One shall be all of the Golden Land's gold.`
+char_non: `{n}One resurrects all the dead people's souls.`
+char_non: `{n}One even revives all the love they possessed.`
+char_non: `{n}And one for the witch to eternally rest.`
+char_non: `{n}{n}Rest in peace, my beloved witch, {f:5:Beatrice}.}`

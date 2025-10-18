@@ -1,0 +1,943 @@
+char_kin: `"...........................Now then.`
+char_kin: ` How will the game be resolved this time?`
+char_kin: ` ...You may submit, and you may resist.`
+char_kin: ` ......Either way, it will truly be an entertaining banquet worth betting my short remaining life on."`
+char_non: `In his dimly lit study, which was occasionally brightened by lightning,`
+char_non: ` Kinzo kept mumbling to himself, laughing to himself.`
+char_non: `On the antique clock with an intricate design that was sitting on his desk,`
+char_non: ` the two overlapping hands had begun to tilt to the right, and separate from one another.`
+char_non: `The passage of time that had counted to 24 had returned to 0, and begun to start counting again...`
+char_kin: `"......The passage of time is a brutal thing.`
+char_kin: ` It drags itself all the way to 24 over the course of a day, and then returns back to 0.`
+char_kin: ` ......It surely managed to count to 23:59.`
+char_kin: ` However, was it ever able to reach 24:00?`
+char_kin: ` ......If you believe that it returns to 0:00 again without reaching it, how futile it seems."`
+char_non: `No, is that not the same as a person's life?`
+char_non: ` You live, aiming for a perfect 24, and in the instant you reach it, you return to 0.`
+char_non: `People may praise the departed, saying that they did reach 24, but that is absolutely not 24.`
+char_non: `.........It is nothing more than 0.`
+char_kin: `"I am different.`
+char_kin: ` ......I will reach 24 alive.`
+char_kin: ` Because that itself is the Golden Land.`
+char_kin: ` ...That is {f:5:Beatrice}'s dwelling."`
+char_non: `Kinzo had been fumbling around with some tarot cards for some time.`
+char_non: `It looked as though he was trying to divine his own luck, his own propensity for victory, and doing it over every time he didn't like the result.`
+char_non: `The most forbidden action in tarot reading is to try predicting the same thing twice.`
+char_non: `It is a desecration to the result of the fortune telling,`
+char_non: ` and also desecrates the existence higher than humans which delivers signs through the tarot cards.`
+char_non: `However, Kinzo knew.`
+char_non: `The reason the tarot cards shouldn't be used twice was that, since it was nothing more than a random number generator,`
+char_non: ` it was natural that if you read them twice, a different result would appear.`
+char_non: `......Therefore, reading twice was only forbidden to preserve the mystique of the tarot cards' results.`
+char_non: `...However, that didn't mean that Kinzo didn't take tarot reading seriously.`
+char_non: `Kinzo's interpretation of tarot reading was done in a completely different way.`
+char_non: `That was to repeat the reading, over and over, until he reached the result most favorable to him,`
+char_non: ` without the slightest amount of compromise.`
+char_non: `It would depend on how he defined the result most favorable to him,`
+char_non: ` but if he demanded the best result in a strict sense,`
+char_non: ` it would be the same as a simple roulette of luck, where he sought an arithmetic miracle.`
+char_non: `......However, to Kinzo, who made miracles of numbers the basis of his magical power, this could become very much like a magic ritual.`
+char_non: `In other words,`
+char_non: ` until the result he desired appeared perfectly, he would repeat the tarot readings over and over, turning his labor, conviction, and the feelings of his heart into a prayer,`
+char_non: ` so that when it reached heaven, the result would be sublimated—this was Kinzo's personal magical interpretation.`
+char_non: `Therefore, even though the tarot cards Kinzo used were exactly the same as generally used tarot cards,`
+char_non: ` the way they were used was completely different...`
+char_kin: `".................................`
+char_kin: ` ...Tonight, ......it refuses to go my way."`
+char_non: `Kinzo stopped his hands for a second.`
+char_non: `...It seemed the result he expected wasn't showing up.`
+char_non: `On the contrary, many bad cards that shouldn't often appear were appearing repeatedly,`
+char_non: ` and continuing to interfere with the miracle Kinzo wished for.`
+char_kin: `"..................Hmph.`
+char_kin: ` ...Is that how it is?"`
+char_non: `It seemed that Kinzo had taken some kind of sign from this abnormal course of events.`
+char_non: `But judging by the unlucky cards scattered over the desk, it was difficult to imagine that the sign had been a good one...`
+char_non: `For a while, Kinzo closed his eyes tightly, pondering something.`
+char_non: `Then as the thunder roared, he made up his mind about something, took the telephone receiver, and dialed.`
+char_kin: `"............It is I.`
+char_kin: ` Is Genji there? It is urgent."`
+char_sha: `"..................haah."`
+char_non: `In front of the main entrance, Shannon was cooling her flushed face in the frigid air.`
+char_non: `...She had thought...`
+char_non: `...that George's proposal would surely come sometime.`
+char_non: `It wasn't as if her heart had been unprepared.`
+char_non: `{n}And she had nodded as an answer.`
+char_non: `Had she been reckless because of her youth?`
+char_non: `{n}Should she have thought about her future more seriously?`
+char_non: `She found herself worrying that he might have thought of her as a cheap girl because of her immediate reply.`
+char_non: `...Perhaps at least holding off until tomorrow morning would have given the impression of thinking more seriously?`
+char_non: `Now that she had already received the ring from George,`
+char_non: ` Shannon kept fidgeting in embarrassment, thinking she should have done this, should have done that.`
+char_non: `As she did, she heard the sound of footsteps coming towards her, splashing through puddles.`
+char_non: `Shannon immediately chased away the emotions welling up inside her.`
+char_sha: `"......Genji‐sama?`
+char_sha: ` Kanon‐kun too...!`
+char_sha: ` I, I'm sorry, for not coming back right away, umm..."`
+char_non: `She grew stiff, thinking that she would surely be scolded for spending too much time in her secret lover's meeting with George.`
+char_gen: `"Shannon.`
+char_gen: ` The Master has told us to come to the study urgently.`
+char_gen: ` Let us hurry."`
+char_sha: `"......Huh?`
+char_sha: ` Y‐yes, certainly...!`
+char_sha: ` What in the world...?"`
+char_kan: `"He said he had an ominous premonition.`
+char_kan: ` ......How selfish, when he was the one who chose to start this ritual."`
+char_gen: `"We will enter from the back, so that Gohda doesn't notice us.`
+char_gen: ` Hide your footsteps."`
+char_kan: `"Yes.`
+char_kan: ` .........Nee‐san, take care.`
+char_kan: ` You're so noisy."`
+char_non: `Kanon was especially good at hiding his presence.`
+char_non: `...Like he was a cat.`
+char_non: ` He was able to suddenly be there without anyone noticing, and leave in the same way.`
+char_non: `So, even if he were to step in a puddle,`
+char_non: ` the sound he would make would be far smaller than that of the rain hitting the puddles...`
+char_non: `Genji also had that ability.`
+char_non: ` ...Well, in the first place, that was how the servants were supposed to be, even going by the name of furniture.`
+char_non: `Just like how desks and closets go unnoticed by members of the family,`
+char_non: ` the servants also treated being able to show up unobtrusively when they needed to as their greatest virtue.`
+char_non: `In that sense, Shannon's footsteps still strongly asserted themselves.`
+char_non: `...She was also trying to hide her footsteps,`
+char_non: ` but compared to Kanon and Genji, well, you could say she was a little more lively...`
+char_non: `Eventually they reached the back door, and the three of them entered the mansion.`
+char_non: `Immediately, .........they thought they felt something.`
+char_non: `It wasn't quite a sense of smell, ...rather, they felt it from the depths of their noses,`
+char_non: ` ......and this hard‐to‐describe sensation, which you might call a sixth sense, allowed them to perceive that something was different than usual.`
+char_kan: `"............Genji‐sama."`
+char_gen: `"...Yes. We must hurry."`
+char_non: `That perception caused them to feel that something tense was closing in on them.`
+char_non: `Realizing that, the three of them dashed up the stairs, aiming for Kinzo's study, still hiding their footsteps.`
+char_non: `When they dashed up the stairs, ...that smell of sweet poison particular to Kinzo's study reached their noses.`
+char_gen: `".....................hm."`
+char_sha: `"What is it, Genji‐sama...?"`
+char_kan: `"......The barrier is...dead."`
+char_sha: `"Huh?`
+char_sha: ` ...............Ah."`
+char_non: `After hearing Kanon, she looked at the door to the study.`
+char_non: `{n}A scorpion pattern was engraved on the doorknob.`
+char_non: `A powerful magic‐repellent.`
+char_non: ` The final barrier, which protected Kinzo himself.`
+char_non: `{n}`
+char_non: `It had been broken.`
+char_non: `Of course, there was no change to the doorknob that the eye could see.`
+char_non: `{n}However, they who could understand things that people couldn't perceive, were able to recognize the dramatic change...`
+char_gen: `"......My lord.`
+char_gen: ` My lord...!`
+char_gen: ` It is Genji.`
+char_gen: ` Please open this door."`
+char_non: `Genji called in this way after knocking several times, but there was no answer from the study.`
+char_gen: `"Shannon, protect our backs.`
+char_gen: ` Kanon, search inside the room."`
+char_non: `""Yes...!""`
+char_non: `Kanon put his ear against the door, searching for a presence inside the study.`
+char_non: `To protect the backs of the other two, who were watching the door, Shannon faced the other way, with her back to them, prepared for the unexpected.`
+char_kan: `"............The Master is here, I believe.`
+char_kan: ` ...However, it's too quiet."`
+char_gen: `"Then he is safe?"`
+char_kan: `"No.`
+char_kan: ` It is {i:too quiet}."`
+char_sha: `"...It............couldn't be..."`
+char_gen: `"My lord.`
+char_gen: ` Excuse us about the door."`
+char_non: `Genji pulled a gold key out of his pocket.`
+char_non: `{n}It was the only key to the study that existed, other than the one Kinzo held.`
+char_non: `He stuck it in the keyhole, and turned it heavily.`
+char_non: `{n}......At a glance, that would have indicated that it really was a strong lock.`
+char_non: `However, the fact that the barrier had been destroyed...`
+char_non: `meant that this door had long been wide open for anyone with magical power...`
+char_non: `The lock made a heavy sound, indicating that the door had been opened {i:to humans as well}.`
+char_gen: `"......Excuse me."`
+char_non: `As Genji respectfully bowed his head,`
+char_non: ` and Kanon's sense of tension grew tighter,`
+char_non: ` and Shannon acted nervous, they entered the study...`
+char_non: `They immediately discovered Kinzo's figure.`
+char_non: `......He was sitting in a reception sofa so that his back faced them.`
+char_non: `Genji noticed the person sitting across from him, and again bowed deeply.`
+char_non: `Kanon also noticed that person,`
+char_non: ` ......and he didn't bow his head.`
+char_non: `He went in front of Shannon and spread both arms, blocking the way to her.`
+char_non: `So without even seeing that person's face, Shannon already had a good idea who it was...`
+char_gen: `"...So you have come.`
+char_gen: ` {f:5:Beatrice}‐sama."`
+char_bea: `"Genji, is it?`
+char_bea: ` You came very quickly.`
+char_bea: ` Yes, it is better when furniture answers its master's call quickly.`
+char_bea: ` Very different from this person."`
+char_gen: `"........................`
+char_gen: ` ......So Ronove‐sama has come as well."`
+char_non: `Genji directed his greeting towards the thin darkness behind and to the right of {f:5:Beatrice}, where nothing appeared to be.`
+char_non: `Even Kanon and Shannon couldn't have imagined that someone would be there.`
+char_non: `......However, the darkness answered immediately, and praised Genji's eyesight...`
+char_ron: `"As usual, you don't disappoint.`
+char_ron: ` It has been quite some time.`
+char_ron: ` .........Dear me, you have gotten old, haven't you?`
+char_ron: ` Have you really reached that age?"`
+char_gen: `"I have lived a full life.`
+char_gen: ` ...It appears that your life has grown to be even more full, Ronove‐sama."`
+char_ron: `"Yes.`
+char_ron: ` Thank you.`
+char_ron: ` .........And Shannon, it has been a long time since I last saw you, as well.`
+char_ron: ` You have grown quite beautiful.`
+char_ron: ` And, it seems that you have grown quite strong.`
+char_ron: ` It is good to see."`
+char_sha: `"............Thank you very much."`
+char_kan: `"......Nee‐san, who in the world..."`
+char_ron: `"This will be the first time I have met you, Kanon‐kun.`
+char_ron: ` ......I have been entrusted with the position of {f:5:Beatrice}‐sama's head furniture. My name is Ronove.`
+char_ron: ` ......I am an old friend of Genji‐san's.`
+char_ron: ` I am also furniture, just like you.`
+char_ron: ` Although the master I serve is different."`
+char_non: `The color of tension didn't disappear from Kanon's expression in the slightest.`
+char_non: `......Serving under a different master, furniture could become kind, brutal, or anything else as desired.`
+char_non: `...If he called himself furniture serving the hated {f:5:Beatrice},`
+char_non: ` then surely he was a despicable being as well...`
+char_bea: `"*cackle*cackle*!`
+char_bea: ` It seems that I'm completely despised.`
+char_bea: ` It's as though you hate everything to do with me."`
+char_non: `{f:5:Beatrice} openly sneered at Kanon's hate‐filled face...`
+char_non: `Then, Kanon finally observed.`
+char_non: `{f:5:Beatrice} and Kinzo were enjoying a chess game, sitting in facing reception sofas.`
+char_non: `But Kinzo hadn't even quivered.`
+char_non: ` He was holding his head with both hands, his eyes closed tight, ...as he contemplated his next move.`
+char_non: `......No, was he in anguish...?`
+char_sha: `".........My lord........."`
+char_bea: `"I have told Kinzo two things.`
+char_bea: ` There was good news and bad news.`
+char_bea: ` ......The good news was that he would have the fortune of being reunited with me before the ritual even ends.`
+char_bea: ` The bad news was that Kinzo had been selected for the very first sacrifice of the ceremony."`
+char_bea: `"*cackle*cackle*!`
+char_bea: ` There's absolutely nothing I can do about it.`
+char_bea: ` Because it truly was decided by the fickle roulette."`
+char_kan: `"...L‐liar.`
+char_kan: ` You just take pleasure in killing people......"`
+char_sha: `"Stop it, Kanon‐kun......"`
+char_bea: `"......So, Kinzo.`
+char_bea: ` Isn't it about time you decided to accept your loss?`
+char_bea: ` ......*cackle*, by this, our long lasting contest is resolved, right?"`
+char_kin: `"................................."`
+char_non: `At a glance, you couldn't tell the current situation on that chaotic chessboard.`
+char_non: `...However, judging from Kinzo's anguish and {f:5:Beatrice}'s malicious relaxedness,`
+char_non: ` it looked as though it was already decided...`
+char_kin: `"............It is unavoidable...`
+char_kin: ` ...Is this also entertainment?"`
+char_bea: `"It is to me too.`
+char_bea: ` ......Concluding my contest with you may bring a flood of emotions, but it has already surpassed love and hate.`
+char_bea: ` ...It was fun.`
+char_bea: ` Several decades that were not boring...!"`
+char_non: `{f:5:Beatrice} advanced her queen, and made her final move.`
+char_non: `......It was thus...`
+char_non: `decided.`
+char_bea: `"Checkmate.`
+char_bea: ` .........This is a final tribute from me to you.`
+char_bea: ` Without reserve,`
+char_bea: ` ...sleep."`
+char_kin: `"Heheheh,`
+char_kin: ` ......fuhahaha,`
+char_kin: ` haah`
+char_kin: `hah`
+char_kin: `hah`
+char_kin: `hah`
+char_kin: `hah`
+char_kin: `hah`
+char_kin: `hah!!"`
+char_non: `Kinzo suddenly stood up and laughed, like an opera singer facing a full crowd and spreading his arms,`
+char_non: ` ...as though he had succeeded in a century‐long plan.`
+char_non: `That laugh...`
+char_non: `...spat crimson.`
+char_non: `Crimson flames poured out from inside him,`
+char_non: ` spitting even out of his mouth, ears, and nose, and all at once, his body was wrapped in hellfire...`
+char_non: `But Kinzo kept laughing.`
+char_non: `The more he laughed, the more the hellfire spewed from his entire body, and began to char him...`
+char_non: `Those flames became a brilliant light,`
+char_non: ` which dazzlingly shone on the various magic tools throughout the room, and made their distorted shadows dance across the walls.`
+char_non: `...Those shadows looked like the dead in hell, in ecstasy over Kinzo as he burned...`
+char_non: `And,`
+char_non: ` for one who had made a contract with a witch,`
+char_non: ` and who had reached the end of that contract,`
+char_non: ` ...it was an extremely fitting end...`
+char_non: `After laughing and howling in the roaring flames for some time,`
+char_non: ` Kinzo flopped to the ground, as though he was a puppet whose strings had been cut.`
+char_non: `Those incredible blazing flames disappeared as though they had burned up everything there was to burn,`
+char_non: ` and afterwards, all that was left was a festering and burnt body that would make you want to avert your eyes...`
+char_kan: `".....................Horrible..."`
+char_bea: `"Hmph.`
+char_bea: ` You should talk.`
+char_bea: ` Even though you think that was a fitting way for him to die..."`
+char_kan: `"......Why have you shown yourself...?`
+char_kan: ` Do you have some business with us...?"`
+char_sha: `"Stop it, Kanon‐kun.`
+char_sha: ` ......You must not provoke {f:5:Beatrice}‐sama."`
+char_ron: `"It appears that you have completely terrified them.`
+char_ron: ` Pu ku ku ku."`
+char_bea: `"It seems I just can't get along with Kanon.`
+char_bea: ` A pity, I must say I quite like him myself...?"`
+char_non: `{f:5:Beatrice} smiled broadly, or perhaps wickedly.`
+char_non: `Kanon violently averted his gaze, obviously disturbed.`
+char_non: `...His reaction was so different from what he had obviously intended that it made the witch and her butler laugh.`
+char_gen: `"Kanon.`
+char_gen: ` ......You stand in the presence of {f:5:Beatrice}‐sama.`
+char_gen: ` Carefully consider your manner of speech."`
+char_bea: `"Oh, there is no problem, Genji.`
+char_bea: ` Let him say as he likes.`
+char_bea: ` I am gracious."`
+char_kan: `"......How are you gracious...!"`
+char_bea: `"I am always gracious to those who are about to die.`
+char_bea: ` *cackle*cackle*...!"`
+char_non: `Kanon was brought to sudden realization by that creepy laughter...`
+char_non: `{f:5:Beatrice}'s reason for being here was not just to take Kinzo's life.`
+char_non: `The first twilight required six sacrifices.`
+char_non: `{n}Kinzo alone wasn't nearly enough.`
+char_non: `{n}...And they had just nonchalantly come to this place...`
+char_bea: `"*cackle*cackle*cackle*!`
+char_bea: ` Don't worry, Kanon.`
+char_bea: ` ......You won't be selected as sacrifices just because you came here.`
+char_bea: ` ......It was because you were selected as sacrifices that you were called here...!"`
+char_kan: `".........What.........!"`
+char_non: `They instinctively figured it out immediately...`
+char_non: `Six sacrifices were required for the first twilight.`
+char_non: `{n}After Kinzo, how many more would you need to add up to six?`
+char_non: `......In this mansion, the number 5 instantly made them think of the number of servants here...`
+char_gen: `"............Is that...what you desire?"`
+char_bea: `"Mmhm.`
+char_bea: ` ...Thank me, furniture.`
+char_bea: ` Your days of suffering have tonight finally come to an end.`
+char_bea: ` You should thank me, as I have come to tell you this."`
+char_gen: `".........Certainly.`
+char_gen: ` If that is your desire."`
+char_kan: `"...G‐`
+char_kan: `......Genji‐sama..."`
+char_non: `Genji had agreed to the witch's heartless announcement in his usual manner, without raising an eyebrow.`
+char_gen: `"After the Master's death, {f:5:Beatrice}‐sama is our master.`
+char_gen: ` Answering her demand is our final duty.`
+char_gen: ` ......Shannon.`
+char_gen: ` Kanon.`
+char_gen: ` You have done well serving until today.`
+char_gen: ` That hard work is now over."`
+char_ron: `"......As I expected of you, Genji.`
+char_ron: ` As fellow furniture, I think honorably of you."`
+char_gen: `"Shannon.`
+char_gen: ` ......Do you have any objections?"`
+char_sha: `"......No."`
+char_gen: `".........I heard that George‐sama gave you a ring.`
+char_gen: ` Even so, you have no regrets?"`
+char_sha: `"No.`
+char_sha: ` ......That blessing was more than furniture deserves.`
+char_sha: ` ...Just receiving the ring has already fulfilled my feelings."`
+char_non: `Shannon had not yet reached as high of a philosophical state of mind as Genji.`
+char_non: ` There probably really were regrets left in her heart.`
+char_non: ` ...She probably wanted to spend a little more warm time with the person of her thoughts, George.`
+char_non: `......But she released herself from that.`
+char_non: ` She took a single deep breath, and from that point on, the expression she wore was blank.`
+char_gen: `"...............Very good."`
+char_ron: `"I am a little surprised that you have been able to calm yourself this much, Shannon.`
+char_ron: ` It seems that you have also come to terms with things as furniture."`
+char_bea: `"Won't you at least shed some bitter tears for not being able to spend a night with the man you love?`
+char_bea: ` What a boring woman."`
+char_sha: `"............`
+char_sha: ` .........This feeling cannot be understood by the likes of you, {f:5:Beatrice}‐sama.`
+char_sha: ` ......If you desire our lives, please accept them.`
+char_sha: ` We will solemnly carry out that duty."`
+char_gen: `"......Good.`
+char_gen: ` Well said..."`
+char_ron: `"Pu ku ku ku.`
+char_ron: ` Just the type of person {f:5:Beatrice}‐sama is bad with."`
+char_bea: `"Recently, this one has become quite detached.`
+char_bea: ` ...It seems that I tortured her too much last time.`
+char_bea: ` Speaking of which, didn't I do the same to Battler?"`
+char_bea: `"...Hmmm.`
+char_bea: ` Am I still soft?`
+char_bea: ` Or is my style of cornering them lacking?`
+char_bea: ` In any case, she's just no fun."`
+char_bea: `".........However, it seems that you will still entertain me, right?`
+char_bea: ` Kanooon?"`
+char_sha: `"............Kanon‐kun..."`
+char_kan: `".................."`
+char_non: `Compared to the two who had attained a philosophical state of mind, ...there was a painful anguish on Kanon's face.`
+char_non: `Kanon was still far too young to accept his demise without regrets,`
+char_non: ` after being told of it by a suddenly appearing witch...`
+char_bea: `"......Kanon.`
+char_bea: ` I detest boredom more than anything.`
+char_bea: ` And it isn't interesting that those other two have obediently accepted their deaths.`
+char_bea: ` ......So I don't want you to betray my expectations."`
+char_kan: `"............Are you trying to make me your plaything...?"`
+char_non: `Kanon realized that he was being provoked.`
+char_non: `...However, no matter how much anger spurred him on, his opponent was a witch.`
+char_non: ` He was furniture.`
+char_non: ` He had no chance of victory from the beginning.`
+char_non: `But the witch was expecting that he would struggle in vain and writhe around,`
+char_non: ` and was looking forward to it...`
+char_non: `......Just thinking about that was frustrating enough to get his blood boiling.`
+char_non: `Was disappointing the witch by refusing to resist, like the other two,`
+char_non: ` the only way he could strike back at her...?`
+char_bea: `"Eldest of the Seven Sisters of Purgatory, Lucifer.`
+char_bea: ` Arise."`
+char_rg1: `"......Lucifer the Proud, right here."`
+char_bea: `"Kanon.`
+char_bea: ` It would be too cruel to force furniture to fight a witch.`
+char_bea: ` No matter how much anger spurs you on, you could hardly hold hope in a battle you have no chance of winning.`
+char_bea: ` Of course, a battle without a chance of success would be boring for me as well."`
+char_bea: `"......So, furniture against furniture.`
+char_bea: ` Why not resolve it with a battle between furniture?`
+char_bea: ` That should be enough to allow you some hope for victory, right...?"`
+char_rg1: `"..................`
+char_rg1: ` ...With all due respect, {f:5:Beatrice}‐sama.`
+char_rg1: ` Is it truly possible that I could yield to this good‐for‐nothing furniture?"`
+char_rg1: `"As if this cute kid would have any chance in hell against me...`
+char_rg1: ` Eheh{0}eh{0}eh{0}eh{0}eh{0}eh{0}eh{0}eh{0}eheheh."`
+char_kan: `".................................kh."`
+char_bea: `"Show me that you can defeat my furniture of the Seven Stakes of Purgatory.`
+char_bea: ` If you manage to come out the admirable victor,`
+char_bea: ` .........hm, let us see..."`
+char_bea: `"I will let you have free choice over the five people who will escape becoming one of the 13 sacrifices.`
+char_bea: ` I will unconditionally welcome the five people you recommend into the Golden Land.`
+char_bea: ` ...How about that?"`
+char_non: `Kanon understood that he was being provoked.`
+char_non: `{n}......However, the witch's condition was very tempting.`
+char_non: `The evil ritual the witch and the rest were trying to carry out was, at this point,`
+char_non: ` not something that Kanon cared about in the slightest.`
+char_non: `......On the contrary, it was much more important for him to survive, be invited to the Golden Land,`
+char_non: ` ...and have his wish granted by {f:5:Beatrice} there...`
+char_bea: `"You cried that you'd had enough of being furniture, right...?`
+char_bea: ` I shall grant your desire.`
+char_bea: ` I shall give you that human body which you wanted so much that you cried yourself to sleep.`
+char_bea: ` What do you say...?`
+char_bea: ` Then you could be together with Jessica, right?`
+char_bea: ` Ooh, just perfect.`
+char_bea: ` You may include Jessica and yourself in the five you recommend for invitation to the Golden Land."`
+char_bea: `"......If you have some hesitation toward making only yourself happy,`
+char_bea: ` then you can add Shannon and her loved one, George, as well.`
+char_bea: ` If you're worried about duty, then you can also add Genji."`
+char_bea: `"Hoh!`
+char_bea: ` That's five people.`
+char_bea: ` Just enough room, Kanon.`
+char_bea: ` .........With this much of a reward, ......*cackle*cackle*cackle*!`
+char_bea: ` You won't let me get bored, will youuuu...?"`
+char_sha: `"......She's just playing with you.`
+char_sha: ` There is no need to listen to her."`
+char_kan: `"I, ......I'm sick of this.`
+char_kan: ` Is this really what you want, Nee‐san?!"`
+char_non: `{f:5:Beatrice} couldn't hide her evil smile at those words.`
+char_kan: `"I'm sick of this.`
+char_kan: ` I want to be happy!`
+char_kan: ` I've had enough of being furniture.`
+char_kan: ` I want to become human, ......and have normal love...!`
+char_kan: ` I want to know that...the ocean is blue, like you!"`
+char_ron: `"............How young.`
+char_ron: ` I'm jealous."`
+char_bea: `"That's why I like the young ones.`
+char_bea: ` ......Genji, Shannon, stay back.`
+char_bea: ` Kanon, Lucifer, forward."`
+char_rg1: `"As you command."`
+char_kan: `".............................."`
+char_rg1: `"...Hehheheheheheheheheheheh.`
+char_rg1: ` I don't like it.`
+char_rg1: ` ...You know you can't win against {f:5:Beatrice}‐sama,`
+char_rg1: ` but you look down on me as though you might be able to win against me...`
+char_rg1: ` ......I {i:really} don't like it."`
+char_non: `That was probably humiliating to Lucifer.`
+char_non: `...But at the same time, she was also happy that she was so lucky to have this lovely prey all to herself...`
+char_kan: `".........Come, furniture of the witch.`
+char_kan: ` .........Don't think that you can look down on me forever...!"`
+char_bea: `"Come, now, Battler.`
+char_bea: ` It is time for another fun show!`
+char_bea: ` *cackle*cackle*!"`
+char_but: `".........Damn.`
+char_but: ` It's turned into something ridiculous again...`
+char_but: ` Like I'd ever accept that it's a magic battle...!"`
+char_bea: `"Look, look, don't turn your eyes away, look at it.`
+char_bea: ` Look look, look look!`
+char_bea: ` It's magic, it's furniture,`
+char_bea: ` no matter how much you try to deny me and magic,`
+char_bea: ` look look, look look look look!"`
+char_bea: `"All this bwaan bwaan, ka‐shing ka‐shing, right in front of your eyes, it was all for nothing, riiiight?`
+char_bea: ` Look look look look,`
+char_bea: ` stop thinking already,`
+char_bea: ` I told you magic exists!`
+char_bea: ` I told you this is fantasy!`
+char_bea: ` Don't close your eyes,`
+char_bea: ` look closely,`
+char_bea: ` look look look look look!!"`
+char_but: `"Damn it, damn it damn it damn it...`
+char_but: ` I won't accept witches, I won't accept magic...!`
+char_but: ` But if it's as obvious as this, what the hell am I meant to say?!`
+char_but: ` ...............Damn, damndamndamn!"`
+char_bea: `"Come now, don't turn away, look closely, alriiiight??`
+char_bea: ` Magic exists, it's fantasy, stop playing detective."`
+char_bea: `"I know all about it, the truth is you're awful at thinking about things, riiight??`
+char_bea: ` Just stop, just stoooop, *cackle*cackle*!`
+char_bea: ` Look look, obviously fantasy, obviously fantasy, kihhihi{0}hya{0}hyah{0}hyah{0}hyah{0}hyah{0}hyah{0}hyaa{0}a{0}a{0}aahhh!!"`
+char_but: `"Shut up shut up shut uuuuuuuuuuup...!!!`
+char_but: ` Don't talk to meeeeeeee...!!"`
+char_rg1: `".........This guy's gotten obstinate.`
+char_rg1: ` ...Get down on the ground right now and apologize for being so conceited that you thought you could "at least beat me".`
+char_rg1: ` If you do, I'll spare you, alright...?"`
+char_rg1: `"I'll spare you from having your skin ripped off while you're still alive,`
+char_rg1: ` and being lashed all over your body as you squirm until you die.`
+char_rg1: ` Hehheh{0}eh{0}eh{0}eh{0}eh{0}eh{0}eh{0}eheheh!"`
+char_rg1: `"You're a cute kid, so apologize...`
+char_rg1: ` If you do, you can spend your last moments in blissful, wonderful ecstasy as I gently, gently finish you off......"`
+char_kan: `"Be silent, furniture of the witch.`
+char_kan: ` ...I have no intention of speaking with you."`
+char_rg1: `"S‐......so you say that you think nothing of me, do you...?"`
+char_rg1: `"Hehhheh{0}eh{0}eh{0}eh{0}eh{0}eheheh, I don't like it, that disrespectful gaze of yours...`
+char_rg1: ` I really don't like iiiiit!!"`
+char_sha: `"............Kanon‐kun..............."`
+char_gen: `"..........................."`
+char_bea: `"......Isn't he stronger than he was against Satan?"`
+char_ron: `"That is why humans are so frightening.`
+char_ron: ` Sometimes they even become witches, and treat demons as butlers."`
+char_bea: `"Pu ku ku ku ku!`
+char_bea: ` So, which should I cheer on?"`
+char_rg1: `"...Are you...`
+char_rg1: `......saying that this guy's on par with me...!"`
+char_kan: `".........Don't look down on me.`
+char_kan: ` As long as you have that pride, you can never win against me."`
+char_rg1: `"Y‐y‐`
+char_rg1: `...you speak of Lucifer, the eldest of the Seven Sisters of Purgatory, and say that I can never win?!`
+char_rg1: ` H‐how...conceited!!"`
+char_rg1: `"...Wha..............."`
+char_non: `Kanon was desperately trying to stay alive, and he had the strong desire to become human.`
+char_non: `But Lucifer didn't feel anything stronger than a slight desire to play.`
+char_non: `......So, that reached its inevitable result.`
+char_non: ` For the ability to yield such a result is the power of humans.`
+char_non: ` ...The power of the heart.`
+char_kan: `"...............That's as far as you go.`
+char_kan: ` You can never win against me."`
+char_non: `A glowing red trail extended straight out from Kanon's arm,`
+char_non: ` ......pointing at Lucifer's throat, just beneath the tip of her chin...`
+char_rg1: `"Wh‐`
+char_rg1: `......what is this...?!`
+char_rg1: ` How could I...`
+char_rg1: ` ......There...must be some mistake..."`
+char_non: `As she ground her teeth in irritation, she tried to deny the reality right before her eyes.`
+char_non: ` ...But no matter how much she believed in her own superiority, it didn't change the facts right before her eyes.`
+char_bea: `"Hoh.`
+char_bea: ` ...Well done, Kanon.`
+char_bea: ` Wonderful, you haven't made me bored.`
+char_bea: ` ......How pitiful my furniture is in comparison.`
+char_bea: ` *cackle*cackle*!"`
+char_ron: `"......Lucifer.`
+char_ron: ` You are boring Milady.`
+char_ron: ` Was this opponent really too much for you to handle...?"`
+char_bea: `"I'm disappointed, eldest of the Seven Staaakes.`
+char_bea: ` Kuhihi{0}hi{0}hi{0}hi{0}hi{0}hi{0}hi{0}hihihi...!"`
+char_non: `That would have seemed like nothing more than a simple rebuke to an outsider.`
+char_non: `However, furniture serving the witch knew what kind of severe treatment was promised by that rebuke,`
+char_non: ` and understood what had been left unsaid...`
+char_rg1: `"Uuuuuuuuuuuguuhhh!!`
+char_rg1: ` You......good‐for‐nothing FURNITU{-}U{-}U{-}U{-}U{-}U{-}U{-}U{-}U{-}U{-}U{-}UURE!!!"`
+char_non: `She howled.`
+char_non: ` ...Abandoning her last bit of pride, she made her body explode, exposing her true form.`
+char_non: `That form was a demon stake, which bounced and deflected off the walls all over the room...`
+char_rg1: `"How could you shame me so much!!`
+char_rg1: ` I'll kill you, kill you kill you kill you!!`
+char_rg1: ` You slowpoke!`
+char_rg1: ` Even though you can't even follow my movements anymore!!`
+char_rg1: ` I won't play around anymore, I'm seriously mad, I'll pierce your heart in one blow!!"`
+char_rg1: `"I'll plow right through you, and make a fountain of bright‐red blood reach the ceiling!!`
+char_rg1: ` DIIIII{-}I{-}I{-}I{-}I{-}I{-}I{-}I{-}I{-}I{-}I{-}I{-}I{-}I{-}I{-}I{-}I{-}I{-}I{-}I{-}I{-}I{-}I{-}IIEEEE!!"`
+char_sha: `"Ka‐Kanon‐kun.........!!"`
+char_non: `With a speed exceeding even the limits that the human eye could follow,`
+char_non: ` Lucifer went wild, and flew at Kanon's heart...`
+char_non: `Lucifer confirmed that the sweet taste she could feel was definitely Kanon's blood.`
+char_non: `...But she quickly noticed.`
+char_non: `{n}...She hadn't pierced Kanon's heart...`
+char_bea: `"............Hoh.`
+char_bea: ` *cackle*cackle*!"`
+char_ron: `"This is why humans are frightening.`
+char_ron: ` ...Would you like some black tea?"`
+char_bea: `"I am fine for now.`
+char_bea: ` This is so interesting I don't need black tea...!"`
+char_sha: `"......K‐`
+char_sha: `............Kanon‐kun............"`
+char_kan: `"So arrogant......`
+char_kan: ` ......That's why you can't win against me......"`
+char_non: `The floor was stained with dripping blood.`
+char_non: `...It really was Kanon's blood,`
+char_non: ` ......but it wasn't flowing out of his chest.`
+char_non: `Kanon had sacrificed his own left hand to protect his heart...`
+char_non: `Lucifer was arrogant.`
+char_non: `Even though she had been given enough time to realize that this was an opponent capable of cornering her,`
+char_non: ` even so, in her pride, she had believed that he was a worthless opponent.`
+char_non: ` She had gotten careless.`
+char_non: `......So just as she had announced, she had aimed for his chest, trying to pierce his heart.`
+char_non: `Because she was arrogant, she hadn't even thought of aiming for somewhere other than the place she had announced.`
+char_non: `...No, maybe she had thought about it a little.`
+char_non: `{n}...However, her pride would not allow her to aim for a different spot.`
+char_non: `Because she was...`
+char_non: `......Lucifer the Proud.`
+char_non: `Kanon, withstanding the pain,`
+char_non: ` grasped the demon stake sticking deep into his left hand strongly with his right,`
+char_non: ` ...and pulled it out......`
+char_non: `The sound of breaking bones and even more blood dripping down could be heard.`
+char_non: `{n}Shannon instinctively averted her eyes.`
+char_non: `There was an air hole in the back of the pierced hand so big that you could clearly see through to the other side...`
+char_non: `Kanon's face was filled with agony,`
+char_non: ` ......but in this very moment,`
+char_non: ` he had won, without a doubt.`
+char_non: `The demon stake he was gripping with his right hand turned back into Lucifer again...`
+char_non: `Kanon was now gripping exactly where her neck was.`
+char_rg1: `".........Ga,`
+char_rg1: ` ............gu,`
+char_rg1: ` ..................h..."`
+char_kan: `"...I win.`
+char_kan: ` .........{f:5:Beatrice}."`
+char_non: `Kanon didn't hold back at all with the hand gripping Lucifer's throat.`
+char_non: `......She had challenged him again after their fight had already been decided.`
+char_non: `{n}Kanon had no obligation to be considerate.`
+char_non: `But even so, Kanon released the witch's furniture.`
+char_non: `......Was it his naive humanism, his pity for another piece of furniture,`
+char_non: ` or a final show of respect to the witch?`
+char_non: `In any case, when she was released, Lucifer fell face‐down on the ground,`
+char_non: ` and made as if to vomit, moaning over the pain in her throat...`
+char_ron: `"Spectacular, Kanon.`
+char_ron: ` ......Your great efforts have gone some way to proving Kinzo's research correct."`
+char_non: `Ronove was clapping his hands.`
+char_non: `...To Kanon, who had achieved a difficult victory, incurring a wound on his left hand that couldn't be closed, that applause seemed nothing but shallow.`
+char_bea: `"......All possibilities are hidden in the human heart, was it?`
+char_bea: ` .........My, my, this is why humans are frightening!`
+char_bea: ` Well done, Kanon.`
+char_bea: ` You are victorious.`
+char_bea: ` Spectacular!"`
+char_kan: `"......Haah,`
+char_kan: ` ......haah,`
+char_kan: ` ......haah......"`
+char_sha: `"Are you okay?!`
+char_sha: ` Kanon‐kun......"`
+char_non: `Shannon ran up to him and wrapped a handkerchief around his left hand, which was still spraying blood.`
+char_bea: `"That was spectacular, Kanon!`
+char_bea: ` Truly spectacular.`
+char_bea: ` I was also slightly hoping for an upset.`
+char_bea: ` How truly wonderful you are as furniture not to let me down.`
+char_bea: ` *cackle*cackle*!`
+char_bea: ` I think better of you now.`
+char_bea: ` I honestly think better of you!"`
+char_kan: `"Y‐......you better not have forgotten our promise...`
+char_kan: ` {f:5:Beatrice}..."`
+char_bea: `"Mhm.`
+char_bea: ` Of course I have not forgotten.`
+char_bea: ` Witches and demons are admittedly unjust.`
+char_bea: ` However, we are much more noble than humans when it comes to our contracts."`
+char_bea: `"I will not go back on my word.`
+char_bea: ` I guaranteed that if you won,`
+char_bea: ` I would give you the right to decide the five people who will escape becoming the 13 sacrifices."`
+char_rg1: `"......B‐{f:5:Beatrice}‐sama.`
+char_rg1: ` I haven't yet...lo—`
+char_rg1: `higi!!"`
+char_non: `{f:5:Beatrice} twirled her pipe, and heaven and earth turned over just for Lucifer.`
+char_non: `......So as a horribly natural result, she "fell" onto the ceiling.`
+char_non: `The ceiling doesn't seem that high to people standing on the floor.`
+char_non: `{n}...However, people who fall on it upside‐down and head‐first surely don't feel the same way...`
+char_ron: `"Milady.`
+char_ron: ` Isn't this a little much?"`
+char_bea: `"*cackle*cackle*!`
+char_bea: ` That may be so.`
+char_bea: ` I suppose I will forgive her."`
+char_non: `{f:5:Beatrice} spun her pipe again.`
+char_non: `When she did, the magic that had been affecting Lucifer was released.`
+char_non: `......So as a horribly natural result, this time with extreme legitimacy, she "fell" back onto the floor.`
+char_rg1: `"Agah......!!"`
+char_rg1: `"............Ku,`
+char_rg1: ` ............u,`
+char_rg1: ` ...{f:5:Beatrice}‐sama,`
+char_rg1: ` ...f‐...forgive me............"`
+char_bea: `"What are you afraid of?`
+char_bea: ` I have already forgiven you, haven't I?`
+char_bea: ` *cackle*!`
+char_bea: ` So, Kanon.`
+char_bea: ` Shall we continue?"`
+char_kan: `".........Continue what?`
+char_kan: ` ...You aren't saying that you want me to finish her, are you...?!"`
+char_bea: `"Ah, no, no.`
+char_bea: ` It isn't over yet, right?"`
+char_kan: `".........What isn't?`
+char_kan: ` ...Stop dodging the question...!!"`
+char_bea: `"I did promise you, didn't I?`
+char_bea: ` If you could defeat my furniture, of {i:the Seven Stakes of Purgatory}, riiiiiiight?`
+char_bea: ` Come, arise, Seven Stakes of Purgatory.`
+char_bea: ` The six younger sisters of the worthless elder sister!"`
+char_non: `""""""Kyahhahahahahahahaha{0}ha{0}ha{0}ha{0}ha!!""""""`
+char_non: `With shrill laughing voices, the air split,`
+char_non: ` and gold sprayed everywhere as the remaining six of the Seven Stakes of Purgatory showed themselves...`
+char_non: `All of the Seven Sisters of Purgatory, only one of which Kanon had been able to defeat by sacrificing his left arm, were gathered...`
+char_non: `By now, Kanon regretted his thoughtlessness in accepting the witch's challenge.`
+char_non: `{n}...He had been foolish to assume that a game with a witch would be on an even footing......!`
+char_rg7: `"............Laaame‐o.`
+char_rg7: ` Onee‐sama, why are you crawling on the floor?"`
+char_rg1: `"Y‐...you people...............`
+char_rg1: `gh......"`
+char_rg5: `"See, this is why Onee‐sama's useless.`
+char_rg5: ` Even though she acts like she's so great as the oldest sister, that's just on the outside."`
+char_rg3: `"Yeah, seriously!`
+char_rg3: ` Lucifer onee‐sama, your disgraceful behavior will damage others' opinions about all of us!`
+char_rg3: ` Know your shame!`
+char_rg3: ` You novice!"`
+char_rg1: `"............Ku, .........gu......"`
+char_rg6: `"Kanon‐ku~n, awesome awesome.`
+char_rg6: ` But don't get cocky, okay?`
+char_rg6: ` Lucifer onee‐sama just brags all the time, she's no big deal compared to the rest of us sisters."`
+char_rg4: `"...That's why I'm always saying Lucifer‐nee shouldn't do anything.`
+char_rg4: ` It's alright if she just brags all the time.`
+char_rg4: ` Because we superior ones always have to clean up the fighting scenes."`
+char_rg2: `"What are you gonna do, Onee‐sama?`
+char_rg2: ` We respect your pride,`
+char_rg2: ` so we were planning on letting you challenge him again in that beaten‐up body without getting in the way..."`
+char_rg2: `"......But Kanon‐kun sure is strong, right?`
+char_rg2: ` Right now, no matter how much you struggle, there's no way you can win, right...?"`
+char_rg1: `"......Y‐`
+char_rg1: `.........you peopleee............"`
+char_bea: `"*cackle*cackle*!`
+char_bea: ` My, my, you sisters are always so lively.`
+char_bea: ` Is now really the time for discord?"`
+char_bea: `"Being a 7‐person unit is what makes you the Seven Sisters of Purgatory.`
+char_bea: ` Now play nice and execute the task I gave you.`
+char_bea: ` Swiftly, alright?"`
+char_rg2: `"Come on, Lucifer onee‐sama.`
+char_rg2: ` If you want to borrow the power of your little sisters...`
+char_rg2: ` Say it, okay?`
+char_rg2: ` We want to hear you ask us for help from your own mouth."`
+char_rg1: `"Kh, ............you plan to mock me even more.........?!"`
+char_rg2: `"‘I, the foolish—`
+char_rg2: `weak—`
+char_rg2: `ugly—`
+char_rg2: `shaaameful!—`
+char_rg2: `eldest sister Lucifer, beg my younger sisters to save me’.`
+char_rg2: ` ......C'mon, let's hear it.`
+char_rg2: ` If you let us hear that, we'll save you.`
+char_rg2: ` That's a deal, right?`
+char_rg2: ` Everyone?!"`
+char_rg1: `"......You.........`
+char_rg1: `...b‐`
+char_rg1: `......bitcheees......"`
+char_non: `The Seven Sisters of Purgatory taunted their elder sister, calling her worthless.`
+char_non: ` Verbally abusing her.`
+char_non: `...Even Kanon, who had been fighting her for his life until a second ago, couldn't bear to look straight at it...`
+char_rg1: `"A‐as i—`
+char_rg1: `......as if I...`
+char_rg1: `...could say...`
+char_rg1: `...something like that......"`
+char_bea: `"Do it quickly.`
+char_bea: ` Obviously we won't get anywhere with you alone.`
+char_bea: ` Hurry up and slay Kanon as the Seven Sisters."`
+char_ron: `"Pu ku ku ku...`
+char_ron: ` Oh, what could be wrong, Lucifer?`
+char_ron: ` It is an order from Milady, you know?"`
+char_sha: `"............How cruel."`
+char_non: `Lucifer ground her teeth over and over, hurled curses at her sisters, and then,`
+char_non: ` ...............as she trembled all over,`
+char_non: ` ......she answered her sisters' request...`
+char_rg1: `"...I, ............I, the foolish,`
+char_rg1: ` ......weak,`
+char_rg1: ` .........ugly...`
+char_rg1: ` ...uuuu...!"`
+char_rg5: `"Shaaaameful!!"`
+char_rg1: `"Sh‐...shameful,`
+char_rg1: ` ......eldest sister Lucifer,`
+char_rg1: ` ......beg...`
+char_rg1: ` .........uuuuuuuughhuhu!!`
+char_rg1: ` Uwaaaaaaaaaaaaaaaaa...!!"`
+char_non: `She was finally unable to endure saying those degrading words,`
+char_non: ` ...and the girl bearing the name of Pride broke down crying.`
+char_non: `However, the six younger sisters kept giggling coldheartedly.`
+char_rg7: `"Heyyyy!`
+char_rg7: ` Don't try to trick us by crying!`
+char_rg7: ` You haven't finished saying iiiit!"`
+char_rg4: `"That should be enough.`
+char_rg4: ` Come, sisters, let us display our power."`
+char_rg5: `"I won't be satisfied until I hear the whole thing, you know?!`
+char_rg5: ` C'mon, c'mon, Onee‐sama, keep going!"`
+char_rg3: `"That's enough!`
+char_rg3: ` Come on, this shame has been brought upon all of us sisters!`
+char_rg3: ` We won't let them return alive!"`
+char_rg2: `"Alright, how should we play with this pitiful furniture?`
+char_rg2: ` Any wonderful suggestiooons?"`
+char_rg6: `"Meee, me!`
+char_rg6: ` Beelze thiiinks...the seven of us shouuuld...get along and split Kanon up between us!"`
+char_rg4: `"Good plan.`
+char_rg4: ` ......That way all of the sisters can get along."`
+char_rg5: `"Then I'll take the head!`
+char_rg5: ` All of you can have the limbs!!"`
+char_rg2: `"No no, noooooooooooo!!`
+char_rg2: ` {i:I} get the heaaaad!!"`
+char_rg3: `"You know there's no way there'll be any meaning to promises like that!`
+char_rg3: ` It's obviously gonna be first one there wins!"`
+char_rg7: `"Kuhihihihi!!`
+char_rg7: ` Kanon‐kun, if you have a suggestion for how you'd like to be killed, just tell us, okay?`
+char_rg7: ` We Seven Sisters will kill you in an awwwwesome way!"`
+char_kan: `"...........................Damn......"`
+char_rg1: `"......Aaarrrrrrgggh!!`
+char_rg1: ` You've shamed me so much!!`
+char_rg1: ` Even slicing you into eight pieces won't be enough!!`
+char_rg1: ` I'll slice you into a hundred pieces!!`
+char_rg1: ` Here we go, everyone!!"`
+char_non: `""""""Yeees, Onee‐sama!`
+char_non: ` Kyahhahahahahahaha!!""""""`
+char_non: `The seven of them burst at once.`
+char_non: `{n}They had no desire to play or boast.`
+char_non: `{n}This time, they would genuinely follow their master's order.`
+char_non: `...Slay Kanon. Swiftly!`
+char_non: `The Seven Sisters jumped around the room faster than the eye could see, deciding how they would kill Kanon.`
+char_non: `They tortured Kanon with their cruel giggles, sometimes making a close pass at him.`
+char_non: `...They kept scraping his arms, shoulders, and cheeks,`
+char_non: ` carving red lines into his body...`
+char_non: `At that time, Shannon dashed up behind him, holding on to him so that she blocked the way to his body at least a little.`
+char_sha: `"{nobreak:{m:-5:—}—}Kh......!!"`
+char_kan: `"Ah......?!"`
+char_non: `At the same time, a red cylinder wrapped around the two of them, like a beam of light sent from heaven.`
+char_non: ` That cylinder repelled the evil ones who tormented Kanon...`
+char_rg2: `"Whaaaat!!`
+char_rg2: ` That's cheeatiiing!`
+char_rg2: ` This has nothing to do with youuu!"`
+char_rg7: `"Oh, I know what this is.`
+char_rg7: ` She must want to play with us."`
+char_rg5: `"Kyahha!`
+char_rg5: ` Then I'll take her!`
+char_rg5: ` Aaall mine!!"`
+char_rg1: `"{f:5:Beatrice}‐sama.`
+char_rg1: ` May we have Shannon as our prey...?"`
+char_bea: `"Hm?`
+char_bea: ` Aah, I don't mind, do as you like.`
+char_bea: ` It seems Kanon alone won't be enough to satisfy your gluttony."`
+char_rg4: `"I am so very grateful.`
+char_rg4: ` Come on, I'll make you regret coming out uninvited!"`
+char_rg6: `"I'll turn you to scraps of meat so shredded you can't even tell who's who,`
+char_rg6: ` mix you and mix you and mince you into hamburgers!"`
+char_rg3: `"Idiot, breaking that barrier comes first!`
+char_rg3: ` Do your job before you start worrying about food!"`
+char_non: `""""Yees, Onee‐sama!!""""`
+char_sha: `"Gu......uuu......!!"`
+char_non: `As a horribly natural first action, the Seven Sisters began to destroy the barrier Shannon had created.`
+char_non: `...Shannon's barrier certainly was extremely strong.`
+char_non: `{n}It was enough power to impress even {f:5:Beatrice}.`
+char_non: `...It was strong enough that frail furniture would turn to dust just by touching it,`
+char_non: ` and it was firm, like a tree with deep roots.`
+char_non: `But no matter how big a tree gets, it will eventually surrender to a saw or a hatchet.`
+char_non: `{n}For the Seven Sisters, "chopping down" Shannon's barrier, while it was a pain, was not impossible.`
+char_sha: `"Hnf......!!"`
+char_non: `The sound, like beetles jumping around, grew even more fierce and filled the room.`
+char_non: `They cut up and steadily eroded away that red barrier, as though with a hatchet, a saw, no, a chainsaw by now...`
+char_ron: `"............How foolish.`
+char_ron: ` You must have known that your barrier can't fully protect you from these girls.`
+char_ron: ` Why...?"`
+char_sha: `".........Because I can't just let it happen."`
+char_non: `Shannon spoke back resolutely as she covered Kanon, who was already spent of all his energy and sprawled on the floor.`
+char_bea: `"If you hadn't barged in uninvited, I would have given you a sleeplike death.`
+char_bea: ` Why have you deliberately exposed yourself to the Seven Sisters?"`
+char_bea: `"......All death is not equal, you know?`
+char_bea: ` You realize an intense death tortures you even after you die?`
+char_bea: ` *cackle*cackle*cackle*!"`
+char_sha: `"............Go ahead, do as you like.`
+char_sha: ` Just like you do as you want, I have done as I wanted."`
+char_bea: `"........................`
+char_bea: ` ......Hmmmm.`
+char_bea: ` Somehow, you simply lack entertainment value recently, you know?`
+char_bea: ` The most interesting part about love is during the time when it's uncertain whether or not you will achieve it."`
+char_bea: `"After achieving it, a woman is like salmon who has finished laying its eggs.`
+char_bea: ` I have already tired of you."`
+char_sha: `"Thank you.`
+char_sha: ` No words I could hear from a witch would make me happier."`
+char_bea: `"......Hehehehhihihahaha.`
+char_bea: ` Then, at least in the end, show me a way of dying that will please me greatly."`
+char_bea: `"Seven Sisters, did you hear that?!`
+char_bea: ` Show me the limits of your brutality in the way you kill Shannon!!"`
+char_gen: `"...............Shannon..."`
+char_sha: `"......My apologies.`
+char_sha: ` In the end, I wasn't able to match up to your greatness, Genji‐sama."`
+char_kan: `".........You're an idiot, Nee‐san...`
+char_kan: ` If you'd just left me be, ...then you might not have met this horrible..."`
+char_sha: `"No, it's alright.`
+char_sha: ` ...I was able to receive the ring from George‐sama, and live as a woman.`
+char_sha: ` I was able to protect you, and live as a sister.`
+char_sha: ` With this, my life is settled with no regrets."`
+char_bea: `"......Nnnngggggaaaaaaaaahhhh, you're pissing me off.`
+char_bea: ` That philosophic view is really irritating!!`
+char_bea: ` This is why you're furniture you don't even smell like a humaaaaaan!!"`
+char_bea: `"Look at {i:me}, {i:I} am human!!`
+char_bea: ` Don't spout off philosophical stuff like you're more complete than I am, you furnituuuuuuuuuuure!!"`
+char_sha: `"............How ugly.`
+char_sha: ` Is that regret your true form?"`
+char_bea: `"It's not a regreeeeeet, this is called LIVING!!`
+char_bea: ` You received a ring, so it's alright if you die, what?!`
+char_bea: ` Aaaaah, I can't understand it, not a clue not a hope, goddamn astonished, goddamn shocked, no goddamn good at aa{-}a{-}a{-}a{-}a{-}a{-}a{-}a{-}a{-}aalll!!"`
+char_ron: `"......Milady, I might suggest you are acting somewhat undignified."`
+char_bea: `"Shut up, furniture!!`
+char_bea: ` Shannooooonn, do you think I'll let you die easilyyyyyyyyyyy?!`
+char_bea: ` Now's the time to bite your tooooooongue!!"`
+char_sha: `"............How pitiful.`
+char_sha: ` If you can see yourself reflected in my eyes,`
+char_sha: ` then shudder at your own ugliness."`
+char_bea: `"Don't worry,`
+char_bea: ` I'll crush you mush you mash you up so you're even uglier, while you're still aliii{-}i{-}i{-}i{-}i{-}iiive!!!"`
+char_non: `At that time, .........Genji softly entered the red barrier.`
+char_non: `{n}Maybe that barrier didn't block those without ill intent.`
+char_non: `Then Genji...softly held Shannon from behind,`
+char_non: ` ......and covered her eyes with his right hand.`
+char_sha: `"............Genji‐sama..."`
+char_gen: `"You have done enough now...`
+char_gen: ` .........Go to sleep before me."`
+char_sha: `"............Yes.`
+char_sha: ` .........Thank you very much, Genji‐sama..."`
+char_gen: `".........Mhm."`
+char_non: `After that, Genji softly pressed his left hand against the area around her collarbone...`
+char_non: `......As he did, from the area where that left hand pressed,`
+char_non: ` ......a crimson stain gently spread out.`
+char_non: `When Genji removed his hand,`
+char_non: ` .........bright‐red fresh blood oozed out of there.`
+char_non: `For just the very first instant, it appeared to be shaped like a crimson rose...`
+char_non: `And when he removed the right hand that covered Shannon's eyes,`
+char_non: ` .........there was a peaceful expression on her face, as though she was sleeping.`
+char_non: `......And she fell softly,`
+char_non: ` ...silently down,`
+char_non: ` .........and slept.`
+char_non: `Her soul had already been sent to a world where the malicious witch and her furniture could never reach her,`
+char_non: ` no matter how evilly they tortured her...`
+char_non: `{f:5:Beatrice} and the Seven Sisters were shocked by this scene.`
+char_non: `{n}...Only Ronove had a mysterious expression along with his smile.`
+char_non: `Then Genji leaned over Kanon, who was crouching on the floor.`
+char_gen: `".........You did well.`
+char_gen: ` You, too, should sleep now."`
+char_kan: `".................................`
+char_kan: ` ............Yes.`
+char_kan: ` Thank you very much, Genji‐sama."`
+char_non: `Just as he had done with Shannon, after gently covering Kanon's eyes with his hand,`
+char_non: ` Genji gently covered the area around Kanon's collarbone with his other hand.`
+char_non: `......And when that was removed with the lightness of a feather,`
+char_non: ` ...there was a crimson rose shape.`
+char_non: `But that rose shape quickly turned into the stain of bright‐red blood pouring out...`
+char_rg1: `"Wh‐`
+char_rg1: `............what is...that......"`
+char_bea: `"......What a boring person.`
+char_bea: ` ...The fun of a balloon of life is in poking it with a needle and making it forcefully explode."`
+char_ron: `"Spectacular, Genji.`
+char_ron: ` ............You truly are furniture."`
+char_gen: `"......Thank you very much.`
+char_gen: ` ...Well then, {f:5:Beatrice}‐sama, Ronove‐sama.`
+char_gen: ` With this as my final task, allow me to rest."`
+char_bea: `"............Grr.`
+char_bea: ` You took what I was playing with.`
+char_bea: ` All of that thrashing and mashing I wanted to do to them,`
+char_bea: ` I hope you're willing to take all that instead??"`
+char_non: `{f:5:Beatrice} faced him with an unsatisfied expression,`
+char_non: ` but Ronove spoke quietly to Genji with a soothing smile.`
+char_ron: `"You have worked hard.`
+char_ron: ` You are my greatest servant.`
+char_ron: ` ......I shall bestow as a final gift to you a peaceful sleep worthy of all your labors until now."`
+char_bea: `"Wha?!`
+char_bea: ` Wait, what are you...!"`
+char_non: `When Ronove snapped his fingers,`
+char_non: ` ......as if Genji was a puppet that had crumpled from its strings being cut,`
+char_non: ` ...suddenly, and yet gently...`
+char_non: `He fell, sprawled on the floor, into a sleep that witches couldn't call him back from...`
+char_non: `That was as filled with kindness as the sleep he had given Shannon and Kanon...`
+char_bea: `"......What was that, Ronove?`
+char_bea: ` ......What a boring anticlimax."`
+char_ron: `"Are you not a powerful Great Witch, Milady?`
+char_ron: ` Something such as this is not enough to pay attention to.`
+char_ron: ` ......It is not like you to allow the blood to rush to your head because of provocation from someone like Shannon."`
+char_bea: `"...........................`
+char_bea: ` ...hmph."`
+char_non: `What was there that {f:5:Beatrice} didn't like?`
+char_non: `{n}...Was she still unable to remove the thorn of Shannon's words?`
+char_non: `Ronove laughed lightly, as though lamenting the complexity of the human and the female heart, and ordered the Seven Sisters to go.`
+char_non: `......After all, there were still two sacrifices left for the first twilight.`
+char_non: `The Seven Sisters cavorted as they disappeared...`

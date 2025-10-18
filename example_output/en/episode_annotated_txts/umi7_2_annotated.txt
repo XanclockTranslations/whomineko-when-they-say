@@ -1,0 +1,610 @@
+char_non: `The Ushiromiya family members were relaxing here and there around the waiting room.`
+char_non: `A light buffet‐style meal had been set up, but it looked a bit stale and not particularly appetizing.`
+char_non: `Even so, those voracious kids seemed to find it intensely appealing.`
+char_non: `The cousins had set up camp around it, with Maria at the center.`
+char_non: `{n}The adult siblings had also formed a group in a different corner.`
+char_non: `Perhaps because of Kinzo's absence, everyone seemed to be a little more relaxed.`
+char_nat: `"......Lion.`
+char_nat: ` Where did you go?`
+char_nat: ` ......And who is that?"`
+char_rio: `"Mother,`
+char_rio: ` I was entertaining this guest of ours.`
+char_rio: ` Will, this is my mother, Natsuhi."`
+char_wil: `"No introductions needed.`
+char_wil: ` I just need to hear what she has to say."`
+char_nat: `"Huh? Did you say something?"`
+char_rio: `"No, he said nothing.`
+char_rio: ` This is Will‐san.`
+char_rio: ` It seems he knew the deceased."`
+char_non: `With a smile, Lion casually smoothed over Will's words.`
+char_rio: `"He wants to know more about Beatrice.`
+char_rio: ` ......Do you know anything about her, Mother?"`
+char_nat: `"........................`
+char_nat: ` ......Lion. The deceased is a woman to whom the head once owed a great debt.`
+char_nat: ` Nothing more, nothing less.`
+char_nat: ` This funeral is a ceremony for the head to repay the debts he made to her while she was alive.`
+char_nat: ` That is what I have heard, and there is nothing more to it than that."`
+char_rio: `"......Thanks, Mother.`
+char_rio: ` Will, that's all my mother knows."`
+char_non: `Natsuhi was very resistant to the scandalous rumors that Kinzo, a man she greatly respected, had once had a concubine called Beatrice.`
+char_non: `However, she also understood that the scandal was probably the truth.`
+char_non: `Picking up that Natsuhi was in a bad mood and didn't want to talk about this anymore,`
+char_non: ` Lion brought an end to that conversation before Will could say something rude again.`
+char_rio: `"Will.`
+char_rio: ` This chapel is the property of our family."`
+char_wil: `"So you're telling me to follow the family's rules?"`
+char_rio: `"You'll speak in a manner appropriate for a guest of the family.`
+char_rio: ` And you'll conduct all of your conversations through me.`
+char_rio: ` I must ask that you follow those two rules."`
+char_wil: `"I'll work on that."`
+char_rio: `"......The actions of this "{f:5:Bernkastel}" witch have caused us all a great deal of inconvenience.`
+char_rio: ` Because of that, I am willing to help you.`
+char_rio: ` However, both of us stand on an even footing, so make sure you don't forget it."`
+char_wil: `"And I thought you were just some pampered rich kid.`
+char_wil: ` You've got guts."`
+char_rio: `"I must be prepared to shoulder the Ushiromiya family's future, after all."`
+char_wil: `".........Got it.`
+char_wil: ` Let's solve this crime together, Watson."`
+char_rio: `"I'm glad to have your cooperation.`
+char_rio: ` I wouldn't want to keep your dear cat Diana waiting.`
+char_rio: ` Don't you need to feed her soon?"`
+char_wil: `"I gave her extra food today,`
+char_wil: ` so she should be good for a while.`
+char_wil: ` .........I'm surprised you realized Diana was a cat."`
+char_rio: `"I figured a woman who scratches the sofas when you keep her waiting would be a bit too eccentric."`
+char_wil: `"......Hm."`
+char_rio: `"So?`
+char_rio: ` Who will you talk to first?"`
+char_wil: `"Anyone.`
+char_wil: ` Everyone.`
+char_wil: ` ......Those ones over there are Krauss's siblings, right?"`
+char_rio: `"From right to left, there's Aunt Eva,`
+char_rio: ` Uncle Hideyoshi."`
+char_rio: `"Over there is Uncle Rudolf,`
+char_rio: ` Aunt Kyrie."`
+char_rio: `"And over there is—"`
+char_wil: `"Ushiromiya Rosa.`
+char_wil: ` ......When she was a girl, she once got lost in the forest and bumped into a woman calling herself Beatrice in a hidden mansion."`
+char_rio: `"......I know I shouldn't be surprised anymore,`
+char_rio: ` but you really do know everything, don't you?"`
+char_wil: `"So, you know about that story too?"`
+char_rio: `"I managed to overhear her saying that today.`
+char_rio: ` ......It looked as though it was bothering her, so I pretended not to hear."`
+char_wil: `"Real model student, you are.`
+char_wil: ` ......Introduce me.`
+char_wil: ` I want to ask about it."`
+char_rio: `"You're asking this of the model student who pretended not to hear because it just might be a painful topic?"`
+char_non: `Even this outrageous arrogance is nothing compared to Kinzo.`
+char_non: `After muttering this several times mentally, Lion shrugged and nodded at Will.`
+char_eva: `"Oh, it's our great successor.`
+char_eva: ` And who is this......?"`
+char_rio: `"Oh, Aunt Eva.`
+char_rio: ` This is Will‐san.`
+char_rio: ` He came to offer flowers for the departed."`
+char_wil: `"But who cares about that.`
+char_wil: ` Tell me everything you know about—`
+char_wil: `......nng—"`
+char_rio: `"He says he wants to know about the deceased's connection to the Ushiromiya family."`
+char_non: `Lion spoke with a bright smile while pinching Will's butt.`
+char_non: `Will silently protested, as though saying "even for a gag, that hurts",`
+char_non: ` but Lion just played dumb and smiled at Eva like a model student.`
+char_eva: `"Her connection to the Ushiromiya family?`
+char_eva: ` ......Well, what is there to say...?"`
+char_hid: `"It's probably more accurate to say "her connection to Father"."`
+char_rud: `"We can be honest here.`
+char_rud: ` She was Dad's mistress."`
+char_kir: `"If you call her that, Natsuhi nee‐san will yell at you again.`
+char_kir: ` He's "indebted" to her, right?`
+char_kir: ` *giggle*."`
+char_hid: `"Yes, of course.`
+char_hid: ` Wahahahaha."`
+char_rio: `"......Well, there you have it."`
+char_wil: `"I have no interest in anyone but Rosa—`
+char_wil: `gghh—"`
+char_rio: `"I do believe......that you said you met with Beatrice, Aunt Rosa."`
+char_ros: `"........................"`
+char_non: `This whole time, Rosa had been hanging her head.`
+char_non: `{n}Lion's words made her shoulders quiver.`
+char_eva: `"She just suddenly came out with it today.`
+char_eva: ` It's a bit hard to believe."`
+char_ros: `"It's the truth...!`
+char_ros: ` I killed Beatrice!"`
+char_wil: `"Great, our work here is finished."`
+char_rio: `"Don't get ahead of yourself."`
+char_non: `Rosa broke down crying and laid her head on the table.`
+char_non: ` Kyrie and Hideyoshi tried to console her......`
+char_eva: `"Rokkenjima is covered by a dense forest.`
+char_eva: ` We only know about one tiny portion of it.`
+char_eva: ` Just the mansion, the rose garden,`
+char_eva: ` and the little path that leads to the harbor."`
+char_rud: `"Since ages ago, there've been stories about how Dad built a hidden mansion somewhere in the vast forest that no one knew about,`
+char_rud: ` and that he had his mistress living there."`
+char_hid: `"Rosa‐san probably came upon that hidden mansion by chance......"`
+char_rio: `"But Aunt Rosa, why would you say you killed Beatrice...?"`
+char_ros: `"If I hadn't taken her out, she never would have died...!`
+char_ros: ` She was so innocent, like a chick.`
+char_ros: ` I took her out, so she just followed along obediently!`
+char_ros: ` She stayed right behind me, trusting me completely...!`
+char_ros: ` And because I made her take such a dangerous path...!!"`
+char_wil: `"Did you make her walk that way because you were hoping she'd slip and fall from the cliff?"`
+char_ros: `"I never meant to do that!`
+char_ros: ` I just thought she'd like to see the ocean...!`
+char_ros: ` No,`
+char_ros: ` it just looked like the path would be hard to walk,`
+char_ros: ` and I thought it would be easier going if we went down the cliff first...!!"`
+char_wil: `"That's not what killing someone means.`
+char_wil: ` It was an accident."`
+char_ros: `"It's an accident she never would have had if I hadn't brought her with me, right?!`
+char_ros: ` It's my fault!!`
+char_ros: ` And then, I abandoned her when she was covered in blood and ran home!!"`
+char_wil: `"It isn't your fault.`
+char_wil: ` Beatrice had never seen the ocean before.`
+char_wil: ` ......You showed it to her for the first time ever.`
+char_wil: ` She was probably so excited that she just happened to take a bad step."`
+char_ros: `"......H‐how can you...?"`
+char_wil: `"Beatrice is grateful to you for what you did. Of course she doesn't hate you for it."`
+char_ros: `"........................`
+char_ros: ` Really?`
+char_ros: ` ......Is that...`
+char_ros: `really true...?"`
+char_wil: `"She was the one who begged to see the world outside the fence, right?`
+char_wil: ` Though it was only for a short while, you made that dream of hers come true.`
+char_wil: ` If I were Beatrice, I would thank you for that short bit of time.`
+char_wil: ` If she knew that you've been suffering all this time for it, she'd probably feel bad herself."`
+char_wil: `"......Beatrice is grateful for what you did.`
+char_wil: ` You're the one who taught her that the sea is blue."`
+char_ros: `".........Is that...`
+char_ros: `...true.........?"`
+char_wil: `"I guarantee it."`
+char_non: `Will made that statement openly and boldly.`
+char_non: `No one could tell how Rosa took those words.`
+char_non: `However, ......they had apparently been enough to remind her to take a handkerchief out of her pocket and wipe her eyes.`
+char_ros: `"......Thank you."`
+char_wil: `"Even now, Beatrice is whispering those words to you."`
+char_ros: `"...............Thank you......"`
+char_non: `Rosa wiped her eyes with the handkerchief one more time and hung her head.`
+char_non: `It no longer looked like a fit of sobbing, but more as though she was speaking with the Beatrice of that day within her heart...`
+char_non: `one last time.`
+char_rio: `"......That was a lot of confidence you put behind a claim you can't back up."`
+char_wil: `"Back up?`
+char_wil: ` Is that really necessary to comfort a woman?"`
+char_rio: `"........................`
+char_rio: ` I misjudged you a little."`
+char_non: `For how many years had this tormented Rosa?`
+char_non: `Now, for the first time,`
+char_non: ` ......Rosa would probably be able to face that innocently smiling Beatrice, who had seen the ocean for the first time in her life.`
+char_non: `She was the only one who could forgive Rosa.`
+char_non: `Now, the two of them could finally speak together......`
+char_ros: `"......I don't know who you are, but thank you.`
+char_ros: ` ......I wonder if she forgives me."`
+char_wil: `"You've beat yourself up about it for nearly twenty years.`
+char_wil: ` That's far too long.`
+char_wil: ` She's telling you to knock it off."`
+char_rio: `"......That's right, Aunt Rosa.`
+char_rio: ` The more you grieve, the sadder Beatrice would be."`
+char_ros: `"............You too...`
+char_ros: ` Thank you.`
+char_ros: ` ......I don't know if I will be forgiven,`
+char_ros: ` ......but I'll keep on speaking to my heart to see whether she'll forgive me or not.`
+char_ros: ` ......Thanks, you two.`
+char_ros: ` Sorry for showing you such an embarrassing side of me."`
+char_wil: `"And I'm sorry to say this right after saying something so pretty,`
+char_wil: ` ......but I want you to talk to me.`
+char_wil: ` Tell me what happened back then."`
+char_rio: `".........Will‐san!"`
+char_ros: `"Thanks, but it's alright.`
+char_ros: ` ......I'll talk.`
+char_ros: ` Hiding this and keeping quiet about it for so long might have been my greatest sin."`
+char_wil: `"Exactly when was it that you met Beatrice?"`
+char_non: `Upon hearing this question, ......Rosa closed her eyes lightly, reaching back to a past she didn't want to remember...`
+char_ros: `"......It was about twenty years ago.`
+char_ros: ` .........Twenty.........or, wait, it might have been nineteen or eighteen years ago.`
+char_ros: ` .........I'm sorry.`
+char_ros: ` I've tried to force myself to forget it for so long that I've nearly forgotten that part completely."`
+char_wil: `"It should have been 1967."`
+char_non: `Ronove had guaranteed that with the red truth in the third game.`
+char_ros: `"Th‐that's right......`
+char_ros: ` It was probably about 1967.`
+char_ros: ` I can remember what happened as clearly as a picture......`
+char_ros: ` I'll never forget......"`
+char_rio: `"If it's tough for you, don't feel like you have to tell us."`
+char_wil: `"Yes, clear as a picture, if you don't mind.`
+char_wil: ` ............Ngah!`
+char_wil: ` ......Dammit, that hurts, Lion."`
+char_rio: `"What does?"`
+char_ros: `"I took it very hard when I found out that my tutor had told Mother about something I'd shared in confidence.`
+char_ros: ` I lost control of myself and ran deep into the forest."`
+char_non: `This tale had also been told in a previous fragment.`
+char_non: `Back when Rosa was just a kid, she had gone deep into the forest,`
+char_non: ` ......found a hidden mansion, and met with a mysterious woman who called herself Beatrice......`
+char_rio: `"......But that forest is so thick it's hard just to move around in it."`
+char_ros: `"I even surprised myself......`
+char_ros: ` To think that I made it so far into such a dense forest.`
+char_ros: ` ......I was tormented by twigs and sharp leaves over and over again."`
+char_ros: `"However, that wasn't enough to bother me on that day.`
+char_ros: ` ......After all, I wanted to disappear into the forest and vanish forever.`
+char_ros: ` ......If, by some chance, there really was a witch's mansion in the depths of the forest,`
+char_ros: ` ......I hoped that she might take me to the land of happiness, or else turn me into a frog and make me a resident of the forest."`
+char_wil: `"So, you then reached the hidden mansion, Kuwadorian,`
+char_wil: ` and met a woman who called herself Beatrice."`
+char_ros: `".........Yes.`
+char_ros: ` I did."`
+char_wil: `"Was that Beatrice the same as the one in the portrait?"`
+char_ros: `"........................`
+char_ros: ` ......Yes.`
+char_ros: ` They were the same person."`
+char_ros: `"Beautiful blue eyes.`
+char_ros: ` Golden hair.`
+char_ros: ` A black dress.`
+char_ros: ` It truly was the subject of that portrait.`
+char_ros: ` ......When Father first had it hung,`
+char_ros: ` ......I realized that the twenty years I had spent trying to forget must have seemed just as long for Father,`
+char_ros: ` if not even longer, and I was wracked by even greater guilt..."`
+char_kir: `"Stop there.`
+char_kir: ` ......Are we sure that this is the same Beatrice that Rosa‐san met?"`
+char_non: `Immediately, Kyrie spoke the question that Will had been thinking of.`
+char_non: `It would be too rash to assume that the Beatrice Kinzo met...`
+char_non: `was the same person as the one Rosa met.`
+char_non: `The time and generation were different for each.`
+char_rud: `"Beatrice is supposed to be that lady of leisure who lent Dad all that gold shortly after the war, right?"`
+char_hid: `"Usin' Beatrice's gold as a foundation, Father revived the Ushiromiya family and got super rich.`
+char_hid: ` Then he bought Rokkenjima and moved over.`
+char_hid: ` Rosa‐san's meetin' must have been at least ten years after that."`
+char_eva: `"A woman with free control over ten tons of gold could hardly be some little girl.`
+char_eva: ` And ten more years passed after that before she met Rosa.`
+char_eva: ` ...Rosa,`
+char_eva: ` about how old did the Beatrice you met look?"`
+char_ros: `"......She looked older than I was at the time,`
+char_ros: ` ......but even so, it looked as though she might just be on the cusp of adulthood.`
+char_ros: ` Yes, exactly the sort of age of the Beatrice in the portrait."`
+char_rud: `"Did she look middle‐aged or past her prime?"`
+char_ros: `"If I had to call her an adult or a child, she was clearly closer to being a child.`
+char_ros: ` There's no way she was middle‐aged."`
+char_eva: `"And isn't that strange?`
+char_eva: ` We have the Beatrice you met, and the Beatrice who gave Father the gold,`
+char_eva: ` but their ages don't match."`
+char_wil: `"In other words, they're different people."`
+char_rio: `"Different people...who look very similar and have the same name......"`
+char_hid: `"It might have been her daughter.`
+char_hid: ` It makes sense for them to look alike if they were mother and child."`
+char_kir: `"His mistress's daughter......`
+char_kir: ` It is possible.`
+char_kir: ` Perhaps Father had an illegitimate child with the Beatrice who gave him the gold."`
+char_rud: `"So, the one Rosa bumped into was Beatrice II.`
+char_rud: ` ......Makes those ages work out nicely."`
+char_wil: `"................................."`
+char_rio: `"I see......`
+char_rio: ` In other words, there are two people called Beatrice."`
+char_non: `Kinzo secretly raised his mistress's child in a hidden mansion.`
+char_non: `That would make logical sense.`
+char_non: ` Everyone nodded, agreeing.`
+char_non: `......However, Will's expression was slightly unsatisfied, and he scratched at his head...`
+char_rio: `"So, it would seem that this funeral...`
+char_rio: `exists for the two Beatrices he couldn't hold a ceremony for because he'd kept them secret......"`
+char_wil: `"Rosa.`
+char_wil: ` I know you probably don't want to remember, but tell me about that accident.`
+char_wil: ` After Beatrice fell, was she still breathing?"`
+char_ros: `"No.`
+char_ros: ` ......Her eyes were open wide.`
+char_ros: ` She fell upside down, head first, and knocked her head against a sharp crag on the rocky beach.`
+char_ros: ` And she fell from such a height......`
+char_ros: ` ............Her skull had split and caved inwards.`
+char_ros: ` ......That beautiful golden hair was stained red with blood almost instantly......"`
+char_wil: `"Was it the sort of wound that showed at a glance that she was undoubtedly dead?"`
+char_ros: `"Yes.`
+char_ros: ` I saw the insides of her cracked head!`
+char_ros: ` It had caved in deep enough to fit your fist inside it...!`
+char_ros: ` No one could be naive enough to see that and still hope she was alive!"`
+char_rio: `"......Will.`
+char_rio: ` Do you really need to ask anything more?"`
+char_wil: `"That's enough for the time of the accident.`
+char_wil: ` What did you do afterwards?"`
+char_ros: `"I dashed away at full speed.`
+char_ros: ` ......I wasn't even thinking about calling for help."`
+char_ros: `".........I wanted to escape from that place as fast as I could.`
+char_ros: ` Half‐crazed, sobbing, and out of breath, I kept on running about at random.`
+char_ros: ` ......Eventually, I came across a familiar lion statue."`
+char_eva: `"Oh, the one in front of the chapel?"`
+char_ros: `"No, the one behind it.`
+char_ros: ` ......Anyway, I made it back to the mansion.`
+char_ros: ` I couldn't tell anyone, and I didn't want to.`
+char_ros: ` I stayed quiet until nightfall.`
+char_ros: ` It was so horrible of me.`
+char_ros: ` If I had hurried and told someone, they might have brought her a first aid kit, and she might have been saved......"`
+char_wil: `"How is a first aid kit going to help with a crushed cranium?`
+char_wil: ` ......You didn't kill her.`
+char_wil: ` Don't worry about that anymore."`
+char_ros: `"..........................."`
+char_rio: `"Then, ......what did you do next?"`
+char_ros: `"......That night, I turned over in my bed so many times.`
+char_ros: ` I couldn't sleep.`
+char_ros: ` ......Late that night, I quietly...`
+char_ros: `......called Genji‐san on the phone and told him..."`
+char_wil: `"......What did he say?"`
+char_ros: `"He told me to let him handle everything, and to speak of this to no one.`
+char_ros: ` ......I spent the next several days terrified that Father would call for me and scold me brutally."`
+char_ros: `"But......he didn't.`
+char_ros: ` Genji‐san kept on doing his job quietly, just like normal.`
+char_ros: ` ......Father stayed locked up in his study, not knowing any of it......"`
+char_eva: `"At the very least, none of us ever heard about it."`
+char_rud: `"......Genji‐san probably managed to clean everything up nicely."`
+char_kir: `"After all, I expect they couldn't let knowledge of that child go public......"`
+char_hid: `"Hmmmmm......`
+char_hid: ` Even if she was an illegitimate child, she was his own flesh and blood.`
+char_hid: ` It must have been tough for Father, not bein' able to hold a real funeral for her......"`
+char_rio: `".........I guess that's why we're having this funeral."`
+char_wil: `"And then?"`
+char_ros: `"That's all I know."`
+char_wil: `".....................`
+char_wil: ` And that's all I know too."`
+char_ros: `"I'm not hiding anything else.`
+char_ros: ` I've told you everything.`
+char_ros: ` ......I swear it."`
+char_wil: `".............................."`
+char_non: `Will scratched at his head, letting his gaze wander.`
+char_non: `It had taken Rosa a lot of determination to make this confession, but it was nothing particularly special for Will.`
+char_non: `It had been little more than a review of information he already knew......`
+char_rio: `"Thanks, Aunt Rosa.`
+char_rio: ` .........Is that enough for you, Will?`
+char_rio: ` Are you satisfied?"`
+char_wil: `"That's enough.`
+char_wil: ` It was a nice review."`
+char_non: `To Will, Rosa's memories gave only information that was already known.`
+char_non: `This was the first time he'd heard all that about her running back to the mansion after Beatrice fell to her death,`
+char_non: ` but none of it was particularly surprising.`
+char_non: `Apparently, Rosa really didn't know any more than this......`
+char_non: `If he wanted to learn something beyond the fragments given to him by {f:5:Bernkastel}, he would need to find new testimony.`
+char_wil: `"Lion.`
+char_wil: ` Tell Kinzo that I want to talk to him.`
+char_wil: ` It looks like we won't get anywhere without asking the man himself."`
+char_rio: `"Where are you going?"`
+char_wil: `"......Off to cool my head and organize my thoughts.`
+char_wil: ` Don't follow me."`
+char_rio: `"Well, pardon me for asking.`
+char_rio: ` Please take your time."`
+char_non: `After giving an elegant bow, Lion made a face, tongue sticking out.`
+char_non: `Unless Will had eyes on the back of his head, he couldn't have seen this last bit......`
+char_non: `Will returned to the chapel by himself.`
+char_non: `{n}The cold air and the monotonous sound of the rain were comforting.`
+char_ber: `{a:c:`
+char_ber: `"......So, how's the game?"}`
+char_ber: `And he had come here for a little peace and quiet...`
+char_ber: `No sooner had he let out a sigh of relief than that voice rang out.`
+char_wil: `"That's one for you to answer."`
+char_non: `It was as though she had been sitting there all along.`
+char_non: ` ......{f:5:Bernkastel} appeared on top of the altar once more.`
+char_non: `Apparently, she found this particular altar extremely comfortable.`
+char_ber: `"......Battler annoyed me over and over with his incompetence.`
+char_ber: ` You're very competent compared to him, so it's a lot easier to relax."`
+char_wil: `"Unlike Ushiromiya Battler's games, I have nothing standing in my way.`
+char_wil: ` It's easy."`
+char_ber: `"That sort of game has already ended.`
+char_ber: ` Tales can be enjoyed twice.`
+char_ber: ` First you love them.`
+char_ber: ` Then you tear out their guts.`
+char_ber: ` ......*giggle*giggle*."`
+char_wil: `"Tch. You think I'm a butcher?"`
+char_ber: `"Well?`
+char_ber: ` Do you think you know who killed {f:5:Beatrice}...?"`
+char_wil: `"Rosa's confession is something I already know from a previous fragment.`
+char_wil: ` There was no brand new information.`
+char_wil: ` ......We're still at square one."`
+char_ber: `"*giggle*giggle*......"`
+char_wil: `"Unless Ushiromiya Kinzo tells us what really happened, we won't get any further than this.`
+char_wil: ` Don't tell me that sweet‐talking Kinzo into spilling the beans...`
+char_wil: `is all part and parcel of this game."`
+char_ber: `"If it were, I'd die of boredom.`
+char_ber: ` ......Kinzo refuses to speak of the truth and is himself the king protected by his castle,`
+char_ber: ` but it wouldn't be any fun to have that stand in the way of your game..."`
+char_wil: `"......I won't torture.`
+char_wil: ` It's not my style."`
+char_ber: `"I know that.`
+char_ber: ` As the Game Master, I will grant you power.`
+char_ber: ` So that you can get the truth from Kinzo, of course."`
+char_non: `Still wearing shoes, {f:5:Bernkastel} stepped into the casket, picked up one of the flowers that had been set as offerings,`
+char_non: ` ......and blew hard, as though scattering fluff from a dandelion.`
+char_non: `When she did, a single petal broke off and drifted down towards Will,`
+char_non: ` no longer gold, but with the shine of a transparent crystal......`
+char_wil: `"The "detective's authority"?"`
+char_ber: `"Heh, what's {i:that} pathetic ability?`
+char_ber: ` ......No.`
+char_ber: ` This is your invitation to the auditorium."`
+char_wil: `"......The "theatergoing authority"?`
+char_wil: ` .........Granting that is supposed to be forbidden without authorization from the Senate."`
+char_ber: `"I'm granting it. On my game board.`
+char_ber: ` Who's going to stop me......?"`
+char_wil: `"............Hmph."`
+char_non: `Though the crystal flower petal danced in the wind, it wouldn't fly away anywhere until Will accepted it.`
+char_non: `Will remembered how useless it was to argue with witches, and he snatched it up.`
+char_non: `When he did, the petal flashed brightly for an instant, melted into Will's palm, and disappeared...`
+char_ber: `"Entertain me if you can.`
+char_ber: ` And try and enjoy yourself.`
+char_ber: ` ......You must also be interested in seeing what the guts of {f:5:Beatrice}'s game board look like, right?"`
+char_wil: `"Not really."`
+char_non: `After Will's rude answer,`
+char_non: ` {f:5:Bernkastel} vanished into thin air, leaving behind an obnoxious laugh......`
+char_wil: `".........Tch."`
+char_non: `After clicking his tongue, Will turned around, visibly annoyed.`
+char_non: `......When he did, it felt as though his gaze crossed that of a shadowy figure standing by the door in front of him that led outside.`
+char_wil: `"Who's there?"`
+char_sha: `"Ah, ......p‐pardon me...`
+char_sha: ` I heard a voice, s‐...so I wondered who it was......"`
+char_wil: `"Ah, Shannon.`
+char_wil: ` So you're running the reception desk this time...?"`
+char_sha: `"Yes.`
+char_sha: ` I've been taking it in turns with Kanon‐kun to run the reception desk..."`
+char_wil: `"And where is Kanon?"`
+char_sha: `"A short while ago, he was ordered by......umm,`
+char_sha: ` ......L‐Lion‐sama to take a break, so he's resting now."`
+char_wil: `".........So, you don't know Lion either?"`
+char_sha: `"Huh?`
+char_sha: ` ......Of...course I..............."`
+char_wil: `"Ushiromiya Lion is the successor to the head and the only one permitted the silver ring.`
+char_wil: ` ......Why are you stumbling over that name when you've worked here for ten years?"`
+char_sha: `"Th‐...that's............"`
+char_wil: `"Don't worry.`
+char_wil: ` I don't recognize Lion either.`
+char_wil: ` ......Krauss is supposed to be the successor to the head.`
+char_wil: ` Jessica is supposed to be his only child.`
+char_wil: ` There hasn't been a single fragment with anyone named Lion in the Ushiromiya family."`
+char_non: `Upon hearing that Will didn't recognize Lion either, Shannon looked back up at him in surprise.`
+char_non: `Apparently, she was a bit relieved to find that she wasn't going crazy by herself.`
+char_non: `......However, her expression quickly grew uncertain once more.`
+char_sha: `"Wh‐where......is this place...?`
+char_sha: ` I think it's the Ushiromiya family chapel.`
+char_sha: ` ......However, something feels different about it."`
+char_sha: `"Also, I never knew that someone named L‐......Lion‐sama existed.`
+char_sha: ` ......And yet, Madam, Krauss‐sama, ......the Master, Milady, and all the relatives all talk as though it's perfectly natural......`
+char_sha: ` I just......don't understand what's happening......"`
+char_wil: `"......Lion is a piece placed by {f:5:Bernkastel}.`
+char_wil: ` She also said that she'd switched to a larger cat box to place that piece.`
+char_wil: ` ......On top of that, it seems this world isn't a proper world, but one made out of several different fragments sewn together."`
+char_non: `It's as though......this is a special stage set up specifically for this game.`
+char_non: `......I'm sure she's nodding at my thoughts right now, laughing and chomping down popcorn.`
+char_wil: `"How long have you worked here in this world?"`
+char_sha: `"T‐......ten years."`
+char_non: `I see.`
+char_non: ` So it really is a special stage.`
+char_non: `After all, right when I entered the chapel, I spotted Kinzo.`
+char_non: `If Shannon has worked here for ten years, then this is 1986, the stage of Beato's game.`
+char_non: `In that case, Kinzo shouldn't exist.`
+char_non: `{n}However, he definitely was here a few minutes ago.`
+char_non: `{f:5:Bernkastel} promised that all of the information needed for reasoning was gathered here.`
+char_non: `She must have crammed all manner of stuff in here to make that true...`
+char_non: `I see, so it really is a special stage.`
+char_wil: `"You have served the Ushiromiya family for many years.`
+char_wil: ` So, just how much do you know about Beatrice?"`
+char_sha: `"......I know the Master loved her deeply, but other than that..."`
+char_wil: `"Is that all?"`
+char_sha: `"A‐and, umm,`
+char_sha: ` .........they say that she's the master of Rokkenjima's night...`
+char_sha: `...umm..."`
+char_wil: `"That's right.`
+char_wil: ` The name of the ghost rumored to wander the mansion night after night is also {f:5:Beatrice}."`
+char_non: `That brings the number of Beatrices to three.`
+char_non: `The first is the "Beatrice" from more than thirty years ago, who is said to have given Kinzo the gold.`
+char_non: `The second is the "Beatrice" from twenty years ago, who met Rosa.`
+char_non: `The third is the "{f:5:Beatrice}" of the ghost stories, who is rumored to be the master of the night on Rokkenjima.`
+char_wil: `"......Furudo Erika's reasoning was probably correct.`
+char_wil: ` It started out as the legend of the evil spirits on Rokkenjima.`
+char_wil: ` Later on, elements such as Kinzo's occult hobbies, the name and portrait of the mysterious woman "Beatrice",`
+char_wil: ` and the epitaph got mixed in, and it all fused into the legend of the Golden Witch."`
+char_wil: `"......And so the darkness of the night gained the personality of a witch.`
+char_wil: ` That's the third {f:5:Beatrice}.`
+char_wil: ` This is the veil the serial killer hides behind."`
+char_sha: `"......Uh, umm..............."`
+char_non: `Apparently, she didn't understand a word of Will's sudden monologue.`
+char_non: `Shannon tried to follow along, but she seemed to be having difficulty.`
+char_wil: `"Don't waste your time trying to understand.`
+char_wil: ` You'll just get a headache."`
+char_sha: `"M‐my apologies......"`
+char_wil: `"Kanon doesn't know Lion either, right?"`
+char_sha: `"............Yes.`
+char_sha: ` Kanon‐kun was the same as me."`
+char_non: `Shannon...and Kanon, huh.........`
+char_wil: `".....................`
+char_wil: ` ......Call Kanon over here. I want to talk to the pair of you about something."`
+char_non: `When Will said these words, Shannon's face went blank and her eyes went wide.`
+char_sha: `"My apologies.`
+char_sha: ` We aren't allowed to leave the reception desk unmanned, so I can't leave to go get him."`
+char_wil: `"Then find a replacement and have them take over the reception desk until you get back.`
+char_wil: ` You, me, and Kanon.`
+char_wil: ` ......We, the three people who don't know Lion, need to talk."`
+char_sha: `"......................................."`
+char_wil: `"................................."`
+char_sha: `"......We've been told that one person is enough to run the reception desk."`
+char_wil: `"But no one told you there was anything wrong with two people manning it, right?"`
+char_sha: `"We are low on helpers today, so we were told that the reception desk does not require two people manning it."`
+char_wil: `"Who gave you that order?`
+char_wil: ` Kinzo? Krauss?`
+char_wil: ` Or was it Lion?`
+char_wil: ` I will ask about it."`
+char_sha: `"It was...the one who orders me.`
+char_sha: ` I cannot disobey or{f:5:ders}."`
+char_wil: `"Who is this person?`
+char_wil: ` I'll negotiate with them."`
+char_sha: `"You cannot {f:5:negotiate}.`
+char_sha: ` It i{f:5:s} the o{f:5:ne} who or{f:5:ders us}."`
+char_wil: `"Call Kanon over here.`
+char_wil: ` ......I hate theatergoing just as much as I hate torture."`
+char_non: `Slowly, ......Will pulled his right hand out of his pocket.`
+char_non: `When he slowly opened his fist,`
+char_non: ` .........a small, bright glow emanated from it.`
+char_non: `The flower petal {f:5:Bernkastel} had given him had become a glowing birthmark, which sparkled......`
+char_non: `He held that hand out towards Shannon......and slowly approached her.`
+char_wil: `"Call Kanon.`
+char_wil: ` I want to check something with you two."`
+char_sha: `"{f:5:I ca  nnot call him. Do you sti  ll wish for me to do so}......?"`
+char_wil: `"If you don't call him, I'm going to "watch your play"."`
+char_sha: `"{f:5:If you insi  st, ......I can c al   l him especi ally}..."`
+char_wil: `".............................."`
+char_sha: `"                                                            ."`
+char_non: `There was some kind of incomprehensible tension between the two.`
+char_non: `Will stood there, his left hand still in his pocket and his right palm glowing and stretched out towards her.`
+char_non: `Shannon just stood there, her hands still folded politely in front of her,`
+char_non: ` ......her posture beautiful.`
+char_non: `And yet, ......it felt oddly as though raindrops were sparking and crackling in midair......`
+char_sha: `"{o:0:{e:85:{f:0:{g:0:{m:6:I WI}{m:15:LLNO}{m:31:WCA}{m:0:LL KAN}{m:21:ON‐K}{m:22:UN.}}}}}"`
+char_sha: `"{o:0:{e:85:{f:0:{g:0:{m:13:DO YO}{m:26:U WI}{m:4:SH T}{m:41:O PRO}{m:71:CEED?}}}}}"`
+char_wil: `"................................."`
+char_non: `Will's expression had remained unchanged the whole time.`
+char_non: `{n}Shannon's face was still kind and gentle.`
+char_non: `And yet, the tension was as icy as a frozen lake...`
+char_non: `......Beginners in chess will sometimes move their king into check without noticing.`
+char_non: `One might mercilessly capture the king in such a situation, ......but high‐level players are supposed to calmly warn beginners about their mistake.`
+char_non: `"If you take one more step,`
+char_non: ` ......you'll get captured."`
+char_non: `This was......similar to that.........`
+char_wil: `"................................."`
+char_non: ` ......I see.`
+char_non: ` So, after all......`
+char_wil: `"I get it.`
+char_wil: ` That's enough.`
+char_wil: ` .........You guys can take it in turns to run the reception desk."`
+char_non: `Slowly, ......Will lowered his hand.`
+char_sha: `"Thank you for understanding."`
+char_non: `The glow slowly vanished from Will's palm.`
+char_non: `That completely incomprehensible tension melted away...`
+char_non: `...like a sugar cube in water.`
+char_non: `However, nothing had changed since the beginning.`
+char_non: `Will's expression and Shannon's expression......were the same as they always had been.`
+char_rio: `"Oh, are you leaving?"`
+char_non: `Footsteps approached them.`
+char_non: ` It was Lion.`
+char_wil: `"I'm just standing here, talking.`
+char_wil: ` I wanted to ask her something."`
+char_sha: `"......What could that be?`
+char_sha: ` Did you find what you were looking for?"`
+char_wil: `".....................`
+char_wil: ` Yeah."`
+char_sha: `"I'm honored to have been of service."`
+char_wil: `"........................"`
+char_rio: `"That's a shame.`
+char_rio: ` If you were looking for an umbrella, I could have gotten you one right away."`
+char_wil: `"Did you convince Kinzo?"`
+char_rio: `"......I told him that a rare guest wanted to greet him.`
+char_rio: ` He says he'll meet with you."`
+char_wil: `"Did you tell him that I wanted to ask about Beatrice?"`
+char_rio: `"Isn't that your job?"`
+char_non: `With a slightly mischievous look, Lion turned away.`
+char_non: `Will scratched his head and shrugged, looking annoyed.`
+char_wil: `".........Ah, well.`
+char_wil: ` Guess I'll get a chance to try this out."`
+char_non: `Will opened his right hand and showed it to Lion.`
+char_non: `It was just a hand, without anything remotely remarkable about it.`
+char_non: `Lion's head tilted to the side in bafflement at this strange gesture.`
+char_rio: `"Good work.`
+char_rio: ` ......Umm,`
+char_rio: ` ......your name was......"`
+char_sha: `"It's Shannon."`
+char_rio: `"That's right, Shannon.`
+char_rio: ` Please continue manning the reception desk.`
+char_rio: ` Make sure you keep warm."`
+char_sha: `"Thank you very much, Lion‐sama."`
+char_non: `Shannon bowed deeply in response to Lion's kind words.`
+char_non: `There was not even a trace of tension in her manner...`
+char_rio: `"Let's go, Will.`
+char_rio: ` You won't want to miss your chance.`
+char_rio: ` ......The head's mood changes quicker than the autumn sky."`
+char_sha: `"Good luck."`
+char_wil: `".........Let's go."`

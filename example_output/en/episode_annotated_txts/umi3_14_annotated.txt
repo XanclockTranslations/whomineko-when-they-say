@@ -1,0 +1,1158 @@
+char_cla: `"......Certainly, the body cannot last with nothing more than a small breakfast, but..."`
+char_rud: `"Of course, we understand.`
+char_rud: ` But the thing is, as time passes, it'll get darker and darker.`
+char_rud: ` Now is probably the lightest.`
+char_rud: ` Now is the most convenient time."`
+char_nat: `"Only about an hour has passed since Rosa‐san was attacked.`
+char_nat: ` This is simply too reckless...!"`
+char_non: `It was only natural that Natsuhi was yelling about recklessness.`
+char_non: `{n}...Because Rudolf had said that he was going to the mansion to get food.`
+char_non: `Certainly, they were being tormented by hunger as well as their fatigue.`
+char_non: `In the beginning, they were just fine, because they could fight their moderate hunger with their drowsiness;`
+char_non: ` but now it just made their minds hazy, and even though it was still only midday, their bodies felt like they were reaching their limits.`
+char_non: `The thought of going to the kitchen in the mansion and bringing back some food certainly was attractive.`
+char_nat: `"I am opposed to this.`
+char_nat: ` It may be a little tough, but we definitely shouldn't leave this place."`
+char_cla: `"......It is alright for us.`
+char_cla: ` But it would pain my heart to keep the children hungry...`
+char_cla: ` I must bear my responsibility as a parent."`
+char_nat: `"D‐dear...!`
+char_nat: ` Now that Father has passed away, you are the Ushiromiya family head.`
+char_nat: ` It is not permissible for you to take on such a danger...!"`
+char_kir: `".........Yes.`
+char_kir: ` It's like Natsuhi‐san says.`
+char_kir: ` Krauss‐san, you should remain here as the leader."`
+char_cla: `"......Then, who will go to the mansion?"`
+char_rud: `"I think Kyrie and I, and Hideyoshi nii‐san as well, should go.`
+char_rud: ` Hideyoshi nii‐san and I are holding guns.`
+char_rud: ` They shouldn't be able to lay a hand on us that easily."`
+char_nat: `"Rosa‐san was also holding a gun, but she was attacked.`
+char_nat: ` ...Isn't it dangerous?"`
+char_rud: `"...When I went out to check on Rosa and Maria‐chan, I was alone, although I had a gun with me.`
+char_rud: ` But I wasn't attacked.`
+char_rud: ` ......Maybe they'll be cautious if their opponent is a man."`
+char_kir: `"Two men.`
+char_kir: ` And even two guns.`
+char_kir: ` Those two will act as guards, and I'll push the cart with the things.`
+char_kir: ` I believe the situation clearly differs from Rosa‐san's."`
+char_hid: `"If you're countin' me as a man, I'd be pleased to help.`
+char_hid: ` I don't look it, but I trained this body pullin' stalls.`
+char_hid: ` Leave the heavy liftin' to me!"`
+char_kir: `"You men just need to devote yourselves to guarding.`
+char_kir: ` There's a folding cart in the servant room, so using that, I should be able to handle carrying the food alone."`
+char_kir: `"......Of course, we will be careful.`
+char_kir: ` And if we can succeed in this venture just once,`
+char_kir: ` we'll never again need to take the risk of leaving this place."`
+char_nat: `"............Is there any way I can get you to reconsider?`
+char_nat: ` It may be painful for everyone to deal with an empty stomach, ...but even so, we do not know what could happen outside now..."`
+char_hid: `"We'll take care.`
+char_hid: ` ......And Eva's feelin' pretty darn bad right now.`
+char_hid: ` I can't let her stay hungry.`
+char_hid: ` If her stomach's empty, she can't even take her medicine.`
+char_hid: ` I've gotta go out for Eva's sake as well."`
+char_cla: `"How is Eva?"`
+char_hid: `"She's finally gotten to sleep.`
+char_hid: ` ...She's burnin' up, too.`
+char_hid: ` We should leave her be for a while..."`
+char_cla: `"......I guess you can't just stand still when it comes to your wife's health...`
+char_cla: ` .........Understood.`
+char_cla: ` I'll give you permission to go outside."`
+char_rud: `"Then, we'll take a little trip there and back.`
+char_rud: ` A speed contest.`
+char_rud: ` Canned food is OK, right?`
+char_rud: ` You at least have a can opener here, right?"`
+char_nat: `"Y‐yes.`
+char_nat: ` We have a can opener and a bottle opener..."`
+char_kir: `"There's running water in the guesthouse, so we won't need anything to drink.`
+char_kir: ` There's ten people to cover for, so you'll have to take what you get."`
+char_hid: `"Alright!`
+char_hid: ` Let's dash out there and bring it all back pronto.`
+char_hid: ` There's no time to open umbrellas...!"`
+char_rud: `"So, Aniki.`
+char_rud: ` Watch the place for me."`
+char_cla: `"......Be careful.`
+char_cla: ` ...Under normal circumstances, I would want to go too.`
+char_cla: ` ...Being a man, I despise this title of eldest brother that prevents me from lending a hand in an emergency like this."`
+char_rud: `"This is about the only time we get to show off.`
+char_rud: ` Sit back and take it easy every once in a while, Aniki.`
+char_rud: ` Alright, Natsuhi‐san.`
+char_rud: ` Wait here and get some towels ready or something.`
+char_rud: ` We aren't using umbrellas, so we'll be coming back like drowned rats."`
+char_nat: `"U‐understood.`
+char_nat: ` ...Take care."`
+char_non: `Rudolf, Kyrie, and Hideyoshi,`
+char_non: ` each leaving their own brave words behind, left the lobby...`
+char_non: `Compared to the time Rosa and Maria had gone outside, the winds had picked up once again.`
+char_non: `Rudolf's group of three people jogged through the rose garden without umbrellas, holding their guns and a folded cart.`
+char_non: `If everything had been still and quiet, without the wind and the rain, they would probably have kept their ears open and moved with caution.`
+char_non: `But in this rain, even if some suspicious person was hiding nearby, it would be difficult to notice them.`
+char_non: `Because of that, it had been Rudolf's plan to instead dash through the dangerous area.`
+char_non: `......If there was a chance that their opponent was equipped with a gun,`
+char_non: ` then walking slowly with their guard up would only make them a target.`
+char_non: `It was probably correct to decide on swift action.`
+char_hid: `".........The rose garden.`
+char_hid: ` It feels like we're just askin' to be attacked...!"`
+char_rud: `"Please, let nobody come out of there..."`
+char_non: `Even as Rudolf and Hideyoshi continued to run, they looked around restlessly, vigilant of their surroundings.`
+char_non: `Rosa and Maria's deaths had not been caused by a projectile.`
+char_non: `{n}......However, it was easy to suspect that the servants had been killed in such a manner.`
+char_non: `Will they come flying out of the dark?`
+char_non: `{n}Or will they take careful aim and snipe from the shadows?`
+char_non: `......Either way, they couldn't relax their tension for even an instant.`
+char_non: `But even so, when they reached the overhang in front of the entrance to the mansion and escaped the reach of the raindrops,`
+char_non: ` they felt themselves breathing a sigh of relief.`
+char_hid: `"No problems for the first part.`
+char_hid: ` ......It's not like how it was for Rosa‐san.`
+char_hid: ` Maybe they can't get their hands on us easily."`
+char_rud: `"I'd like to believe that.`
+char_rud: ` Kyrie, unlock the door while we keep a lookout."`
+char_kir: `"Sure.`
+char_kir: ` Returning home to the mansion with a pair of bodyguards makes me feel just like an executive."`
+char_hid: `"Wahahahaha.`
+char_hid: ` If we had a welcoming party of servants on a red carpet, it'd be perfect."`
+char_rud: `"A welcoming party, huh.`
+char_rud: ` ...Careful what you wish for.`
+char_rud: ` Stay alert."`
+char_non: `As the two cautiously surveyed their surroundings,`
+char_non: ` Kyrie unlocked the front door with the master key she had been given.`
+char_kir: `"It's open."`
+char_rud: `"Hideyoshi nii‐san.`
+char_rud: ` Could you take the front?`
+char_rud: ` I'll keep an eye on the rear."`
+char_hid: `"Roger.`
+char_hid: ` Kyrie‐san, try not to move from my shadow.`
+char_hid: ` ......Alright, let's break in!"`
+char_rud: `"Rear guard, understood. Covering...!"`
+char_kir: `"......Men.`
+char_kir: ` You're enjoying this situation a little bit, aren't you?"`
+char_rud: `"Give it up, that's how men are.`
+char_rud: ` ......But man, there's still that rank stench."`
+char_non: `...The air in the mansion felt stagnant with a heavy silence.`
+char_non: `And worse, it was still thick with the stench from Kinzo's burnt corpse in the boiler room,`
+char_non: ` and they were struck with a strong desire to leave the mansion—although they were never planning to stay.`
+char_hid: `"No problems in the front.`
+char_hid: ` Just a short dash to the kitchen."`
+char_rud: `"Let's finish this quickly and head home.`
+char_rud: ` This suit'll get fumigated with Dad's stench."`
+char_non: `The three of them dashed towards the kitchen...`
+char_non: `And after they disappeared from the entrance hall, ......the new witch showed herself there.`
+char_ev2: `"They were lured out just as planned.`
+char_ev2: ` ......They got caught right in my trap."`
+char_non: `The witch grinned.`
+char_non: `......Thinking about it now, no matter how unbearable their hunger had grown,`
+char_non: ` barely a few hours had passed since Rosa and Maria had been attacked and had lost their lives.`
+char_non: `In that case, why had they needed to recklessly leave the guesthouse...?`
+char_non: `Until that question could be dealt with, the only answer was that they had been called out by the witch's magic...`
+char_ev2: `"What reckless people.`
+char_ev2: ` ......They will never leave this mansion alive.`
+char_ev2: ` Lock yourself, locks! Close yourself, mansion!"`
+char_non: `The instant she proclaimed that...`
+char_non: `...the mansion was sealed off in a separate world.`
+char_non: `......Unless she were to dispel the barrier, no longer could anyone exit this mansion, or enter it.`
+char_ron: `"......Spectacular.`
+char_ron: ` To think that even though barely half a day has passed since you succeeded the Endless Witch, you can use magic this well.`
+char_ron: ` ......That talent surprises me.`
+char_ron: ` It is almost as though you were born a witch."`
+char_ev2: `"Well, I {i:have} been a witch since the time I was born.`
+char_ev2: ` ......Who taught you how to blink?`
+char_ev2: ` That's what using magic is like for me."`
+char_ron: `".....................`
+char_ron: ` ...A fearsome person."`
+char_non: `The witch's face twisted with brutality.`
+char_non: `{n}......She was beside herself with excitement at being able to toy with lives again.`
+char_ev2: `"Well then.`
+char_ev2: ` ......Gehehehe{0}hhi{0}hhi{0}hi{0}hi{0}hi{0}hi{0}hihyahya!`
+char_ev2: ` First is Rudolf and Kyrie, but what cruel way should I kill them...?!"`
+char_ron: `"......If you would excuse me,`
+char_ron: ` but the Predecessor has left instructions that you are to restrain yourself from committing murders of unnecessary cruelty.`
+char_ron: ` And, there is a protocol to follow for the sacrifices from the fourth twilight onwards.`
+char_ron: ` For that, you must borrow the power of the Seven Sisters of Purgatory."`
+char_ev2: `"......Oh, really?`
+char_ev2: ` Now that you mention it, that's right.`
+char_ev2: ` I'm only allowed to play as I like until the second twilight I just finished.`
+char_ev2: ` ..................Boring.`
+char_ev2: ` Just when I thought I could play to my heart's content like I did with Rosa.`
+char_ev2: ` ......But, that refers to the way they're killed in the end, right?"`
+char_ron: `"By which you mean..."`
+char_ev2: `"So I can just kill them however I want over and over again, revive them,`
+char_ev2: ` and follow the epitaph the last time I kill them, right?"`
+char_ev2: `"......So, in the end, no matter how I play, it isn't a problem.`
+char_ev2: ` ......Who'd act well‐behaved with an interesting power like this...?!`
+char_ev2: ` Kuhhihi{0}hi{0}hi{0}hihihi!"`
+char_non: `Her wild logic was, for an Endless Witch, an extremely valid argument.`
+char_non: `{n}The sacrifices for the fourth twilight and onward had prescribed protocols for the method of killing, represented by things like "gouge the head".`
+char_non: `However, that referred to the way they died in the end.`
+char_non: `In other words, ......in the process leading up to that, she was free to tease and kill them however she wanted.`
+char_non: `She just had to keep on reviving them, and follow the rules only when she killed them the final time.`
+char_non: `Even while Ronove glimpsed some talent as a witch in her innocent cruelty,`
+char_non: ` he was beginning to notice a naturally brutal side of her.`
+char_ron: `"......They do say that apprentices are the most brutal of witches, and now I see that may be true."`
+char_ron: `".........Do as you wish, ...is what I would like to say,`
+char_ron: ` but I must insist that it would be wiser to exercise some restraint in this instance.`
+char_ron: ` They are holding guns.`
+char_ron: ` Weapons with a high anti‐magic power, such as guns, are the natural enemies of witches and demons."`
+char_non: `The witch stared blankly at this demon butler, who was unexpectedly afraid of guns.`
+char_ev2: `".........No one told me this.`
+char_ev2: ` Shouldn't a witch be able to take a bullet like it's nothing?"`
+char_ron: `"No.`
+char_ron: ` It would be a fatal wound, exactly the same as it would for a normal {y:0:Human}{n:0:human}.`
+char_ron: ` ...To prevent that weak point from being noticed,`
+char_ron: ` most witches rigorously strengthen their guard with a defense of protective barriers and furniture."`
+char_ev2: `"Do I have any of those protective barrier things?"`
+char_ron: `"......Constructing a barrier to make even gun bullets ineffective requires much in preparation and rituals.`
+char_ron: ` I am afraid to say that you currently have none of those, {f:5:Beatrice}‐sama.`
+char_ron: ` Furthermore, you are currently ill‐prepared to summon furniture strong enough to block a bullet."`
+char_ev2: `"So even though I've become a Great Witch with this much magical power, I really do have to be afraid of lead bullets.`
+char_ev2: ` .........Annoying, but I'll just have to accept it.`
+char_ev2: ` So, in that case, should I call some furniture to act as my arms and legs?"`
+char_ron: `"Yes.`
+char_ron: ` Leaving everything to your servants while not exposing yourself to danger is also part of a witch's elegant temperance.`
+char_ron: ` {f:5:Beatrice}‐sama, leave this to the furniture and hide in a safe place."`
+char_ev2: `"...............Fine."`
+char_ev2: `"...Seven Sisters of Purgatory.`
+char_ev2: ` I don't care who, any two of you...!"`
+char_non: `Leviathan and Belphegor responded to that call.`
+char_rg2: `"Leviathan the Envious, right here."`
+char_rg4: `"Belphegor the Slothful, right here."`
+char_ev2: `"Show me your power.`
+char_ev2: ` Your targets are Rudolf and Kyrie.`
+char_ev2: ` Not Hideyoshi.`
+char_ev2: ` ......Now, show me just how cruel you can be, furniture."`
+char_rg4: `"......My apologies,`
+char_rg4: ` but we have received an order from the Predecessor to restrain ourselves from unnecessarily cruel actions."`
+char_rg2: `"Buuut, I think the Predecessor's order does give us some leeway to tease them.`
+char_rg2: ` Will that be acceptable?"`
+char_ev2: `"Hmph.`
+char_ev2: ` Fine, I'll compromise."`
+char_ev2: `"......You mustn't kill them easily.`
+char_ev2: ` Thoroughly corner them and let them taste the fear of death before killing them.`
+char_ev2: ` ......Will that be alright, Ronove?"`
+char_ron: `"Yes. If you simply remain conscious of the extent, I do not believe there will be a problem."`
+char_ev2: `"...............Then, go!"`
+char_non: `""Yes, leave it to us...!""`
+char_ron: `"Your opponents are armed with guns.`
+char_ron: ` ...For those as skilled as yourselves, dodging them should be easy,`
+char_ron: ` ...but if you are hit, it will be fatal.`
+char_ron: ` Go with an appropriate level of caution."`
+char_rg4: `"Do not worry.`
+char_rg4: ` We won't expose such a level of incompetence."`
+char_non: `The two Sisters of Purgatory vanished.`
+char_non: `{n}After bowing, Ronove also disappeared.`
+char_ev2: `".........There's even rules on how to kill them.`
+char_ev2: ` .........Why do I have to be constrained by my predecessor?`
+char_ev2: ` ............It's so rigid and boring."`
+char_non: `As the witch looked up at the portrait of the Predecessor {f:5:Beatrice} hanging in the hall, she cursed...`
+char_non: `The three had already arrived at the kitchen, and were gathering food supplies.`
+char_non: `Thinking of the possibility that poison had been mixed in, they gave up on the alluring fruits and vegetables,`
+char_non: ` and gathered a whole cardboard box full of only the safe canned foods.`
+char_non: `It was very heavy, but by piling it on the cart, they could carry it well enough.`
+char_non: `With all of that, there would be plenty for ten people to hold out until tomorrow's breakfast.`
+char_non: ` That would be enough while they waited for the boat.`
+char_non: `The two men were supposed to be devoted to guard duty, but the weight of the load was tough on Kyrie even with the cart.`
+char_non: `Hideyoshi, who professed himself strong, switched to being the cart‐pusher, and Rudolf and his wife took up the task of guard duty.`
+char_hid: `"With all this, even George and the kids will be full.`
+char_hid: ` We're not safe until we're home, let's go...!"`
+char_non: `When Hideyoshi vigorously proclaimed their departure, Kyrie frowned, looking as though she was gazing into the distance.`
+char_non: `......There was a wall in that direction.`
+char_non: ` ...No, if her gaze could go through that, the hall was beyond it...`
+char_rud: `".........What is it, Kyrie?"`
+char_kir: `"...I sense something.`
+char_kir: ` .........I have a bad feeling about this."`
+char_non: `Kyrie stopped, narrowing her eyes even further.`
+char_rud: `".........Women's intuition?"`
+char_non: `In times like this, Kyrie's intuition surpassed reason.`
+char_non: `{n}...Rudolf trusted that intuition.`
+char_kir: `"Yes.`
+char_kir: ` Someone's probably waiting to ambush us.`
+char_kir: ` ......I didn't sense them until a short while ago.`
+char_kir: ` ...But just now, I felt it.`
+char_kir: ` ......Just now, someone...`
+char_kir: `{i:set up an ambush for us}."`
+char_rud: `"......Then, there's no reason we need to return the way we came.`
+char_rud: ` There's a back door over there, right?`
+char_rud: ` Let's leave that way."`
+char_non: `Rudolf made to unlock the back door.`
+char_non: `When things were carried into the kitchen, they never passed through the part of the mansion that the family came and went from.`
+char_non: `So outside the back door, there was probably a slope for transporting things.`
+char_non: ` Surely, they would be able to leave through there with the cart.`
+char_rud: `"......What is this?`
+char_rud: ` ...It's stuck.`
+char_rud: ` ...Damn, what's going on?"`
+char_kir: `"Can't you open it?"`
+char_rud: `"Nope.`
+char_rud: ` Is it broken?`
+char_rud: ` It isn't giving an inch..."`
+char_non: `Rudolf tried various things, using force, then coaxing it,`
+char_non: ` but the lock was as hard as stone, and didn't even budge.`
+char_hid: `"...Don't stress over it, let's leave through the front entrance.`
+char_hid: ` Right now, it'll be even worse if we stand around wastin' time."`
+char_kir: `".............................."`
+char_rud: `"......Are you saying this is a trap?"`
+char_kir: `"...I don't know.`
+char_kir: ` Be careful."`
+char_non: `With strained expressions, the three of them returned to the hall again, and headed for the entrance...`
+char_rud: `"Wh‐......who's there?!!"`
+char_non: `The instant they exited into the hall, Rudolf noticed a suspicious shadow right in front of them and yelled...`
+char_non: `In that instant, a storm of gold leaf started blowing, and gold butterflies dyed the area a golden color.`
+char_rg4: `"............I can't believe it.`
+char_rg4: ` A lowly {y:0:Human}{n:0:human} predicted our ambush?"`
+char_rg2: `"I‐it isn't my fault.`
+char_rg2: ` I was hiding my presence...!"`
+char_kir: `"Don't hesitate!! FIRE!!!"`
+char_non: `The two guns spouted fire.`
+char_non: `The lead bullets blasted right through the pair's magic defense as easily as though it were a wet paper wall,`
+char_non: ` ......but the two who should have been there had disappeared.`
+char_non: `Certainly, guns were very frightening objects for them.`
+char_non: `...But there was no need to fear as long as they weren't hit.`
+char_non: `{n}They at least had enough speed to dodge those.`
+char_rg2: `"Wait a sec!`
+char_rg2: ` You won't even let us say our names?!`
+char_rg2: ` This is why I hate {y:0:Human}{n:0:human}s!"`
+char_non: `Leviathan protested, popping her head out from behind a pillar in the shadow of the staircase, a full ten meters from where she had supposedly been.`
+char_rg4: `"By order of {f:5:Beatrice}‐sama, we shall now slay you!`
+char_rg4: ` We are ordered to take some time teasing you.`
+char_rg4: ` You are free to resist, but know that it is useless...!"`
+char_non: `That voice came from overhead.`
+char_non: `{n}Belphegor could be seen on top of the hall chandelier.`
+char_non: `{n}Elegantly looking down upon them, she proclaimed their execution with a cruel smile.`
+char_hid: `"......Wh‐`
+char_hid: `......who the heck are these girls...?!"`
+char_kir: `"Forget the cart!!`
+char_kir: ` We have two opponents, so if we split up, they can't chase all of us!"`
+char_non: `All three of them were well acquainted with the inside of the mansion.`
+char_non: `They had already made plans to run off in separate directions in the case of a crisis, returning to the guesthouse by breaking windows or leaving through a back door.`
+char_non: `Fighting was forbidden.`
+char_non: ` ......As long as they could get away.`
+char_rud: `"Hah‐hah‐ha, of the thirty‐six stratagems, fleeing is best...!!"`
+char_non: `The three of them escaped into the depths of the mansion at full tilt.`
+char_non: `{n}The two furniture calmly watched them go.`
+char_rg2: `"......I'll kill the woman.`
+char_rg2: ` You take the man!"`
+char_rg4: `"Understood."`
+char_non: `The two pieces of furniture in the shadow of the pillar and on the chandelier burst apart their humanlike forms,`
+char_non: ` and, leaving behind only the sound of hopping beetles colliding with the walls, they pursued their respective targets.`
+char_non: `Their speed was overwhelming, and they easily blocked the others' path of retreat.`
+char_ev2: `"............I'll inspect their skill as furniture.`
+char_ev2: ` It'd be nice if they entertained me."`
+char_ron: `"{f:5:Beatrice}‐sama, I might suggest it wise not to show yourself carelessly..."`
+char_ev2: `"A king doesn't carelessly wander about the center.`
+char_ev2: ` That's part of a king's—`
+char_ev2: `a witch's dignity!"`
+char_non: `In front of Rudolf, who had boldly tried to escape to the second floor, Belphegor was already standing in the way.`
+char_rg4: `"It's useless to try and resist or escape.`
+char_rg4: ` ......You don't need to think about anything.`
+char_rg4: ` Just close your eyes.`
+char_rg4: ` I'll bring everything to a gentle finish."`
+char_rud: `"You'd make a good wife.`
+char_rud: ` Your husband would be pleased to hear that kind of thing when he comes home tired."`
+char_rg4: `"To think that you're still relaxed enough to speak such vulgarity at a time like this...!"`
+char_rg4: `"{f:5:Beatrice}‐sama, thank you for such good prey!`
+char_rg4: ` Die!!!"`
+char_non: `Rudolf fired first.`
+char_non: `But even before that bullet could hit her, Belphegor had already moved behind Rudolf's back.`
+char_non: `There she stood, her arm raised above her, a purple trail extending from it...`
+char_non: `However, even before that arm could decapitate Rudolf, unbelievably, Rudolf had swung his gun behind him.`
+char_non: `The barrel pointed behind his back, from the same motion with which he had reloaded the sawed‐off gun one‐handedly.`
+char_non: `It was pointing right at Belphegor's chest...`
+char_non: `Takk, clunk‐rrrr...!`
+char_non: ` It was the sound of the ejected empty cartridge finally hitting the wall after the reload.`
+char_non: `In other words, it meant that the next shot was already fully loaded.`
+char_non: `Without turning around, his gun pointing right at Belphegor's chest, Rudolf grinned.`
+char_rg4: `".........Not bad.........`
+char_rg4: ` ...For a middle‐aged man...!!"`
+char_rud: `"Don't look down on the generation that loves westerns, got it?`
+char_rud: ` Brats don't know jack squat about the refinement of a lever‐action."`
+char_non: `Just like Rudolf, Kyrie was also confronting a demon stake, in the first floor corridor.`
+char_rg2: `"What an idiot you are.`
+char_rg2: ` You should have just escaped with your husband.`
+char_rg2: ` You do know that that was your final farewell just now, right...?`
+char_rg2: ` *giggle*giggle*giggle*!"`
+char_kir: `"Don't worry.`
+char_kir: ` This kind of thing is my husband's specialty.`
+char_kir: ` I'm sure he'll come for me on a white horse soon."`
+char_kir: `"Because he's never failed to come and save me when I'm in trouble.`
+char_kir: ` ......Not even when Asumu‐san was around, you see?`
+char_kir: ` Heheh."`
+char_rg2: `"Heheheheheheheh!`
+char_rg2: ` What a happy couple.`
+char_rg2: ` I envy you.`
+char_rg2: ` .........I am Leviathan the Envious...!`
+char_rg2: ` Envy is itself my power.`
+char_rg2: ` My anger, my origin!"`
+char_kir: `"I agree.`
+char_kir: ` Envy is the source of a woman's power.`
+char_kir: ` ...And if you call something like that power, I won't lose to a girl like you."`
+char_rg2: `"Hahhahahahahahahahaha!`
+char_rg2: ` Imagine saying that to the one who governs envy!`
+char_rg2: ` You actually think I'd let you two be reunited...?!!"`
+char_rg2: `"Ahhahahahaha, I'll give you a tragic farewell!!"`
+char_non: `The arm Leviathan swung trailed purple.`
+char_non: `{n}It was a magic blade that cut by the power of malice.`
+char_non: `Kyrie guarded herself against that with her gun.`
+char_non: `......Even though the magic blade should have been able to cut through metal like butter, the {i:gun}, with its extremely high magic resistance,`
+char_non: ` was able to block the blade as easily as if it were a rolled up newspaper.`
+char_non: `Rapidly, two times, three times.`
+char_non: ` It blocked all of them.`
+char_non: `And, without missing the opening created when that purple trail took a long swing upward,`
+char_non: ` Kyrie kicked Leviathan in the stomach with her heel.`
+char_non: `Almost like she was a lightly dancing feather, Leviathan was knocked away.`
+char_non: `...Before the demon stake's feet touched ground again...`
+char_non: `Kyrie had already perfectly captured Leviathan, who was in midair, down the barrel of her gun.`
+char_non: `From midair, the two women who had spoken to each other of envy as power met each other's gaze.`
+char_rg2: `"......C‐can you pull it?`
+char_rg2: ` That trigger...!!"`
+char_kir: `"You know, I can be pretty brutal when my husband isn't around."`
+char_rud: `"Whoawhoaoaoaoao!!"`
+char_non: `Rudolf tumbled down the staircase.`
+char_non: ` He had been gradually chased down by Belphegor, and had been pushed back into the original hall.`
+char_ev2: `".........The Predecessor's furniture is pretty good.`
+char_ev2: ` She's lacking in flair, though!"`
+char_rg4: `"{f:5:Beatrice}‐sama...!`
+char_rg4: ` It isn't over yet, it's dangerous to show yourself...!"`
+char_rud: `"........................Could you...`
+char_rud: `...possibly be...Aneki?"`
+char_ev2: `"That used to be my name.`
+char_ev2: ` But not now, Rudolf."`
+char_rud: `"You don't have to tell me.`
+char_rud: ` You're going to say you're the Golden Witch, {f:5:Beatrice}, right?"`
+char_ev2: `"Ehheheheheh, ahhahahahaha!`
+char_ev2: ` How did you know?"`
+char_rud: `"......Since the time Rosa was killed, I had a general idea."`
+char_rud: `".........Rosa, forgive me.`
+char_rud: ` Forgive me for sending the sister you hated down to your hell...!!"`
+char_rg4: `"{f:5:Beatrice}‐sama, look out!!!"`
+char_non: `Rudolf pointed the unforgiving barrel of his gun at the witch who claimed to have once been his sister.`
+char_non: `{n}But Belphegor could not permit that, and savagely attacked.`
+char_non: `She sprung at him, vanished, and got behind him.`
+char_non: `If he dodged that attack, she got behind him again.`
+char_non: `She vanished over and over, each time teleporting into Rudolf's blind spot.`
+char_non: `It was almost like she was a fairy.`
+char_non: ` As she blinked in and out of vision, Belphegor incessantly drove towards Rudolf.`
+char_ev2: `"This might be kinda fun in its own way.`
+char_ev2: ` Rudolf, let me leisurely watch and see how long your brave efforts last you.`
+char_ev2: ` *cackle*cackle*cackle*cackle*cackle*cackle*cackle*cackle*!"`
+char_non: `Then, a dull tearing sound and Rudolf's cry of anguish intermingled.`
+char_non: `Rudolf had finally reacted too slowly in his dance with the purple trail which pressed upon him,`
+char_non: ` and he had let it lightly cut him on his side.`
+char_non: `A single wound delayed a single one of his actions.`
+char_non: `That caused a new wound, which delayed him from acting again.`
+char_non: `Belphegor's dance began to swallow Rudolf whole...`
+char_non: `Watching Rudolf's body gradually get carved up, his former sister let out a shrill laugh.`
+char_non: `Leviathan could no longer hide her irritation that Kyrie was absolutely refusing to allow her to deliver a fatal wound.`
+char_rg2: `".........I really am dense.`
+char_rg2: ` ...Among the Seven Sisters, I was always the slowest to grow.`
+char_rg2: ` I was always slow, always weak, always stupid."`
+char_rg2: `"......That inferiority complex became envy,`
+char_rg2: ` and when I converted that into power, I gained a strength greater than that of any of the other sisters."`
+char_kir: `"It's important to have a moderate inferiority complex when you're a girl.`
+char_kir: ` It teaches women about cosmetics and hard work."`
+char_rg2: `"I don't like using the limits of my power against mere {y:0:Human}{n:0:human}s.`
+char_rg2: ` ......But I will turn my envy of your ability to completely trust your husband into power."`
+char_rg2: `"......I don't like it.`
+char_rg2: ` Why are you so relaxed when you're fighting for your life?"`
+char_kir: `"......*giggle*.`
+char_kir: ` I wonder?"`
+char_rg2: `"............I get it.`
+char_rg2: ` You fully believe that your husband will definitely come to rescue you and will save you.`
+char_rg2: ` .........Isn't it incredible, that trust of yours.`
+char_rg2: ` It's worthy of my envy."`
+char_non: `What kind of trust do we sisters have in each other?`
+char_non: `We sisters are always looking down on each other, trying to thoroughly lambast each other and turn things from bad to worse...!`
+char_rg2: `"I've always been bullied by my sisters.`
+char_rg2: ` I've always wanted just one of them to become my ally."`
+char_rg2: `"......So since you have that single ally,`
+char_rg2: ` who you can place complete trust in, I feel the strongest envy towards you..."`
+char_rg2: `"............Aaah, that composed expression of total belief in your husband...!`
+char_rg2: ` I can feel my envy giving me power...!!`
+char_rg2: ` .........I might even exceed it.`
+char_rg2: ` The speed of sound!!!"`
+char_non: `Leviathan turned herself into a stake, and the speed of her flight as she attacked was proportional to the strength of her envy.`
+char_rg2: `"On that day when my sisters looked down on me,`
+char_rg2: ` I was jealous from the bottom of my heart of the other six, who had grown quickly!`
+char_rg2: ` I was jealous for seven days and seven nights!!`
+char_rg2: ` Behold the power and speed I ultimately gained...!!`
+char_rg2: ` Die, Ushiromiya Kyrieee{-}e{-}e{-}e{-}e{-}e{-}eeee!!!"`
+char_non: `The demon stake exposed her true form, leaping about at a terrible speed.`
+char_non: ` The noise from her colliding with and bouncing off the walls sounded like a machine gun.`
+char_non: `By now, Kyrie probably couldn't tell whether it was a single stake or a swarm of beetles flying and bouncing around.`
+char_non: `Leviathan was certain of a greater than 100% chance of victory, from the bottom of her heart...!`
+char_non: `Then, Kyrie spoke with an unbelievably calm voice.`
+char_kir: `".........I was the one who had been going out with Rudolf‐san from the very beginning.`
+char_kir: ` ......Asumu‐san shamelessly cut in between us,`
+char_kir: ` ...and calculatingly got herself pregnant."`
+char_kir: `"......I don't blame Rudolf‐san.`
+char_kir: ` That woman manipulated him using her body as a weapon,`
+char_kir: ` and cornered him into a situation where he was forced to become engaged to her."`
+char_kir: `Asumu‐san was carrying Battler‐kun.`
+char_kir: `{n}`
+char_kir: `And at the same time, I was also carrying a boy.`
+char_kir: `{n}`
+char_kir: `...As fate would have it, our delivery dates were on the same day.`
+char_kir: `"And Asumu‐san gave birth to Battler‐kun.`
+char_kir: ` ...But I was not so lucky.`
+char_kir: ` .........There's something I've thought about.`
+char_kir: ` What if Asumu‐san had been the unlucky one, and I had been the one to give birth?"`
+char_kir: `"......Would Rudolf‐san have broken off his engagement and married me?`
+char_kir: ` ......But I couldn't birth a child.`
+char_kir: ` So until Asumu‐san died,`
+char_kir: ` and until I got pregnant with Ange, I cursed Asumu‐san, and was jealous of her."`
+char_kir: `Asumu‐san should just die.`
+char_kir: `And then I want him to remarry, with me... In my envy, I kept cursing her like that, over and over, until Asumu‐san finally died.`
+char_kir: `I became certain.`
+char_kir: `I became certain that I possessed the power of magic, and that it had become a curse which had killed Asumu‐san.`
+char_kir: `But that did not quell the flames of my envy.`
+char_kir: `Don't tell anyone, alright?`
+char_kir: `Every time I look at Battler‐kun, I remember that woman.`
+char_kir: `And every time I look at Battler‐kun,`
+char_kir: ` ...I think that if only my child had been born, he would be the same age.`
+char_kir: `I am still jealous of her, tormented by her.`
+char_kir: `{n}`
+char_kir: `Now, and forever.`
+char_kir: ` For all eternity.`
+char_kir: `"You say that you were jealous of your sisters for seven days and seven nights...?"`
+char_rg2: `"Th‐......that's right..."`
+char_kir: `Don't make me laugh, you little brat.`
+char_kir: `".........How could you understand the madness of a woman...`
+char_kir: `whose man was stolen from her, and who has burned with envy for eighteen years...!!"`
+char_rg2: `"U‐......uoawa{0}aaa{0}aAAa{0}a{0}aaAA{0}AAHHH!!!!"`
+char_non: `If Leviathan's power had 24 hours × 7 days, or 168 hours' worth of speed...`
+char_non: `Then the power that Kyrie had accumulated...`
+char_non: `was 24 hours in 1 day,`
+char_non: ` 365 days in 1 year,`
+char_non: ` and for 18 whole years......`
+char_non: `Even without counting leap years,`
+char_non: ` it was 157,680 hours.`
+char_non: `...Compared to Leviathan's power and speed,`
+char_non: ` it was more than 938 times greater.`
+char_non: `So then, even if Leviathan was soaring at the speed of sound, {nobreak:1,225 km/h},`
+char_non: ` ......to Kyrie's eyes, it only looked like...`
+char_non: `1/938 of that.`
+char_non: `So then, so then, 1225÷938 is...`
+char_non: `{n}`
+char_non: `.........a speed of...`
+char_non: `1.30 km/h.`
+char_non: `...They say that a human's walking speed is 4 km/h, so it was even less than half of that.`
+char_non: ` Almost the same speed as a baby crawling on the floor.`
+char_non: `So then, so then, so then...!`
+char_non: `In unit time slowed so much you could count all the bits of dust floating through the air,`
+char_non: ` Kyrie looked at the demon stake with pity.`
+char_non: `She pitied the slowness at which it came towards her.`
+char_non: `And she lazily raised the barrel of her gun.`
+char_non: `{n}Almost as though she was trying to swallow the demon stake up with the gun barrel.`
+char_kir: `"You're completely lacking in both love and envy."`
+char_kir: `"......Come back when you're older, darling."`
+char_ev2: `"Rudolf, what happened to all that vigor from a couple seconds ago?`
+char_ev2: ` {ruby:Sliced live fish:Ikezukuri} is best served while it's still twitching.`
+char_ev2: ` After it dies, it isn't interesting in the slightest.`
+char_ev2: ` That's enough.`
+char_ev2: ` Why not kill him now and forever?!"`
+char_rud: `".........kh, ......damn it......"`
+char_rg4: `"I'm surprised you managed to endure this long after being carved up."`
+char_rg4: `"......That's enough.`
+char_rg4: ` You don't need to think about anything more.`
+char_rg4: ` I'll steal your life away painlessly...!"`
+char_rud: `"Wait... Do me a favor.`
+char_rud: ` In the very end, I want to do one of those..."`
+char_rg4: `"......What do you mean, one of those?"`
+char_rud: `"One of those things that westerns made famous.`
+char_rud: ` That thing where we put our backs together, walk three steps, and then {i:bang}."`
+char_rg4: `"............Ah, a duel.`
+char_rg4: ` Very well.`
+char_rg4: ` If that will satisfy your regrets in this world, I'll accept."`
+char_non: `Rudolf raised his wound‐covered body, and turned his back to her.`
+char_non: `Belphegor responded, and faced her back to his.`
+char_non: `...Belphegor had a sense of integrity that was uncommon in a witch's furniture.`
+char_rg4: `"Let me warn you.`
+char_rg4: ` Even if you press the barrel of your gun between my eyebrows,`
+char_rg4: ` I can teleport even faster than you could pull the trigger and have the bullet reach my skull."`
+char_rud: `"......Yeah, I'm already feeling that throughout my body.`
+char_rud: ` ...You are faster than a bullet."`
+char_rg4: `"I have agreed to this out of respect for your courage in challenging me to a duel despite that knowledge.`
+char_rg4: ` Thank me."`
+char_rud: `"......You are a person of integrity.`
+char_rud: ` And a good woman.`
+char_rud: ` You might just steal my heart away."`
+char_rg4: `"Let's get this started.`
+char_rg4: ` Three steps is fine?"`
+char_rg4: `".........First, one step."`
+char_rud: `"......Two steps."`
+char_rg4: `"......Three steps.`
+char_rg4: ` Is that alright?"`
+char_rud: `"Yep.`
+char_rud: ` ......And, since you still haven't noticed after walking three whole steps,`
+char_rud: ` ......looks like I win, girl."`
+char_rg4: `"Whaaat......?"`
+char_rg4: `"...........................Ah...h...!"`
+char_non: `Rudolf turned around and fired off a bullet.`
+char_non: `......Of course, Belphegor could easily see through the speed and trajectory of a bullet like that.`
+char_non: `It should have been no problem at all to dodge it.`
+char_non: `But a spray of fresh blood flew about.`
+char_non: `......Belphegor had set up an adequate magical defensive barrier.`
+char_non: `But before an incarnation of anti‐magic power such as that bullet, it was completely meaningless.`
+char_ev2: `".........What are you doing?`
+char_ev2: ` Why'd you get hit...?!"`
+char_non: `The bullet had hit Belphegor right in the chest.`
+char_non: ` ...The pain from the lead caused her to grimace, as did as the pain from the denial of magic...`
+char_rud: `"......Forgive me.`
+char_rud: ` I'm a coward of a man."`
+char_rg4: `"..................ku‐`
+char_rg4: `...............u..."`
+char_ev2: `"Wh‐...What a mood‐killer.`
+char_ev2: ` To think that someone who is furniture to a witch could be defeated by a {y:0:Human}{n:0:human}...!"`
+char_ev2: `"Know your shame.`
+char_ev2: ` Worthless, pathetic...!`
+char_ev2: ` Why don't you just stay sprawled there and die forever?!"`
+char_rud: `".........Quit it, Aneki.`
+char_rud: ` ...This girl could have dodged it.`
+char_rud: ` But she didn't."`
+char_rud: `"......She realized that you were in the line of fire.`
+char_rud: ` So this girl of integrity took it without dodging, and guarded you.`
+char_rud: ` In the very end, she noticed that I was forking the rook and the king."`
+char_rg4: `"Spe‐.........spectacular............"`
+char_rud: `"Don't think badly of me.`
+char_rud: ` ...I'd planned to accept my fate if you realized while you were taking those three steps."`
+char_rg4: `"............Those three steps...`
+char_rg4: `were out of...`
+char_rg4: `consideration for me, then...`
+char_rg4: ` .........I didn't even try to think about it.`
+char_rg4: ` ......I...`
+char_rg4: `...was la...`
+char_rg4: `zy........."`
+char_rud: `"......You were a good woman.`
+char_rud: ` Go to heaven before me and do your makeup.`
+char_rud: ` I'll definitely come and talk you up."`
+char_non: `As Belphegor slowly fell over, ...she lost even the power that kept her in a human form,`
+char_non: ` and she turned as fine as gold dust, and melted into thin air...`
+char_non: `At that point, Kyrie dashed in.`
+char_non: `{n}It seemed that she had defeated her pursuer with her own hands.`
+char_non: `As she pointed the barrel of her gun straight at the witch, she ran up to the wound‐covered Rudolf.`
+char_kir: `"......Are you alright?`
+char_kir: ` Were you talking someone up just now?"`
+char_rud: `"Yep, a fine woman.`
+char_rud: ` ...No match for you, of course."`
+char_rud: `"............Sorry, Aneki.`
+char_rud: ` It's checkmate."`
+char_non: `The two of them pinned the witch down the barrels of their guns.`
+char_ev2: `"............Worthless furniture.`
+char_ev2: ` ...I can't believe they were beaten by {y:0:Human}{n:0:human} opponents.`
+char_ev2: ` ...Worthless.`
+char_ev2: ` Stupid.`
+char_ev2: ` ...Boring...!"`
+char_ron: `"{f:5:Beatrice}‐sama, we should retreat from this place.`
+char_ron: ` ......There is no furniture or barrier to guard against bullets here."`
+char_ev2: `"Eheheheh,`
+char_ev2: ` ......*cackle*cackle*cackle*cackle*cackle*!"`
+char_non: `The witch began to let out a muffled laugh.`
+char_non: `...It surprised not only Rudolf and Kyrie, but Ronove as well.`
+char_non: `.........Because a situation like this, with two guns pointed at her,`
+char_non: ` was not one that could just be laughed off, even by a witch.`
+char_non: `But the witch laughed with pleasure.`
+char_ev2: `".........Well, it's only natural that it'd be impossible for the Predecessor's worn out furniture.`
+char_ev2: ` ......I have to have new furniture, suitable for me.`
+char_ev2: ` I used them out of obligation,`
+char_ev2: ` ......but I've always hated hand‐me‐downs."`
+char_non: `As she said that, she looked down at Belphegor's remains, which had turned completely into a pile of gold dust, with disgust.`
+char_rud: `"I don't know what you're talking about.`
+char_rud: ` Now put your damn hands up."`
+char_non: `...Then, the witch obediently raised her hands.`
+char_non: `But instead of raising her hands because a gun was being pointed at her,`
+char_non: ` it looked more like she was a conductor facing an orchestra, waving her conductor's baton.`
+char_ev2: `"Come, arise, furniture suitable for me...!!`
+char_ev2: ` Not that cheap furniture, much much stronger ones!`
+char_ev2: ` Cruel ones!!`
+char_ev2: ` Ahhaha{0}ha{0}ha{0}ha{0}ha{0}ha{0}ha{0}ha{0}hahyahhyahhya!!!"`
+char_kir: `"No funny stuff...!`
+char_kir: ` I'll pull the trigger...!"`
+char_non: `In response to the witch's call, the hall was once again buried in the color of gold.`
+char_non: `It was a wild dance of brilliantly radiant gold butterflies,`
+char_non: ` ...and felt as though they had been swallowed up by an ocean of gold leaf.`
+char_non: `Ronove was left shocked at that upsurge in magic power...`
+char_non: `{n}That was because it far surpassed even that of his former master.`
+char_non: `As their eyes were dazzled amidst the golden brilliance, a gunshot could be heard.`
+char_non: `{n}Either Rudolf or Kyrie had fired a round.`
+char_non: `......And after the golden glow had subsided, there was the witch, looking at least cool and composed.`
+char_non: `The bullet?`
+char_non: ` Kyrie had definitely fired it into her.`
+char_non: `But it was not embedded anywhere in the witch's body.`
+char_non: `There it was.`
+char_non: ` ...The bullet was fastened in midair right in front of the witch's chest.`
+char_ron: `"A, ......a bullet‐proof barrier........."`
+char_non: `A barrier which took even her predecessor a significant amount of preparation...in an instant...`
+char_non: `{n}Ronove's face was by now twisted in shock.`
+char_non: `{n}And the surprise did not stop there......`
+char_non: `The group of gold butterflies created two humanoid forms.`
+char_non: `......It was a furniture summoning.`
+char_non: `The butterflies peeled off and flew away, and beneath them, furniture in the shape of girls showed themselves.`
+char_ron: `"..................The Chiester Sisters troops...`
+char_ron: ` .........Even the Predecessor...`
+char_ron: `...wasn't able to summon the Pendragon's Memorial Troops on a moment's notice, and so easily...!"`
+char_s41: `"Chiester{ruby:four‐one‐zero:410}. Right here."`
+char_s45: `"Chiester{ruby:forty‐five:45}. Right here."`
+char_ev2: `"...You two {i:are} suitable furniture for me, right?"`
+char_s41: `"From reading you a picture book, to going on a friendship date, to shooting down a meteorite,`
+char_s41: ` we'll take care of anything. Nihihi."`
+char_s45: `"I‐if we don't take care of it, the Dragon King will get mad at us...!`
+char_s45: ` Please, your orders, Great Lady {f:5:Beatrice}!"`
+char_kir: `".........Rudolf‐san.`
+char_kir: ` Let's run.`
+char_kir: ` These guys are no good......!"`
+char_rud: `"S‐.........sure!"`
+char_non: `Thanks to the same feeling that had alerted her to the ambush by the Seven Sisters of Purgatory,`
+char_non: ` Kyrie clearly heard warning sirens going off in her head, almost resembling screams.`
+char_non: `Without hesitation, they ran.`
+char_non: `As the witch elegantly watched them leave, she ordered her new furniture.`
+char_ev2: `"...This is an order.`
+char_ev2: ` Kill the two who ran away.`
+char_ev2: ` Then bring the corpses back here.`
+char_ev2: ` Then I'll bring them back to life, and play with them over and over.`
+char_ev2: ` ...*cackle*cackle*cackle*cackle*cackle*!!"`
+char_non: `The witch's expression twisted with an evil smile.`
+char_non: `Even though she feared that expression, Lucifer appeared and spoke.`
+char_rg1: `"M‐...my apologies.`
+char_rg1: ` ...The Predecessor said to avoid brutal actions of that—"`
+char_non: `When the witch stared at her with those terrifying eyes, Lucifer was struck dumb.`
+char_non: `...She was unsatisfied.`
+char_non: ` She was bored, of not being able to let her own power and her own cruelty run wild.`
+char_non: `......Irritated by her predecessor's furniture telling her to act with restraint, her discontent was at its peak.`
+char_s41: `"Oh, it's Lucifer‐chan the Proud.`
+char_s41: ` Long time no see nyeh, how ya doin'?`
+char_s41: ` Let's play together again sometime.`
+char_s41: ` Nihhihihihihihi!"`
+char_s45: `"F‐...410, you mustn't chat, you'll get in trouble...!`
+char_s45: ` Let us carry out the great Lady {f:5:Beatrice}'s order at once...!"`
+char_s41: `"Nihi.`
+char_s41: ` Looks like we're on the job right now nyeh."`
+char_s41: `"......410, understood.`
+char_s41: ` Preparing for sniping pursuit combat."`
+char_s45: `"Collecting terrain data, collecting firing data.`
+char_s45: ` Data link to 410."`
+char_s41: `"410, data received.`
+char_s41: ` Target acquired.`
+char_s41: ` Correcting for terrain.`
+char_s41: ` Forming firing curve, control points adjusted.`
+char_s41: ` Data link to 45."`
+char_s45: `"45, data received.`
+char_s45: ` Checking danger zone, ......ah, not there!"`
+char_s41: `"You're in the way behind us, Lucifer‐chan,`
+char_s41: ` you'll get roasted in the backfire, you know? Nihi!"`
+char_rg1: `".........nh..."`
+char_non: `The Chiester sisters, through their mutual measurements,`
+char_non: ` were able to instantly calculate the terrain inside the mansion and the coordinates of their targets, as well as a firing curve to reach them.`
+char_non: `...Yes, their shots could be guided to draw a curved line.`
+char_non: `{n}No one would be able to escape it.`
+char_non: `The precision homing ability of the Seven Sisters of Purgatory was nothing more than a cheap version of the ability these two held.`
+char_s45: `"45, firing preparations complete.`
+char_s45: ` Ammo selected, now loading."`
+char_non: `The two of them faced each other,`
+char_non: ` and, as though they were both pulling back a bowstring together,`
+char_non: ` ...there, a dazzling golden arrow was readied.`
+char_s41: `"410, nihi.`
+char_s41: ` Firing."`
+char_non: `After they proclaimed that they were firing, together, they released a single arrow.`
+char_non: `As the curve taken by the gold‐sparkling snake of light drew a trail,`
+char_non: ` it headed in the direction Rudolf and Kyrie had run, in rapid pursuit.`
+char_non: `It turned through the corridors, crawled over the floor, chasing them as it drew a beautiful curve.`
+char_non: `No one could block the Chiester Sisters' homing projectiles.`
+char_non: ` No one could escape them.`
+char_non: ` And their strength could pierce all physical and magical defenses.`
+char_non: `......It was an all‐too‐merciless guided weapon of certain death.`
+char_non: `However, among mythical‐class soldiers, it was a weapon used by pretty much everyone.`
+char_non: ` It was very commonplace for them, ...and very extraordinary for those of the everyday world.`
+char_rud: `"Wh‐what the...?!"`
+char_non: `When he noticed something rapidly chasing them, and turned around...`
+char_non: `Rudolf was shot straight through the location of his heart by the gold snake.`
+char_non: ` It all happened in an instant.`
+char_kir: `"R‐Rudolf‐san......?!"`
+char_non: `After the gold snake ran Rudolf through,`
+char_non: ` it swooped down to the floor, drawing a beautiful spiral, coiled itself around Kyrie's legs, and crawled up to her chest.`
+char_non: `And just like Rudolf, it shot straight through the location of her heart.`
+char_non: `...And all of that, too, happened in an instant.`
+char_non: `{n}It impaled Rudolf, and it impaled Kyrie.`
+char_non: `So they died at almost the same time, dropped to their knees at the same time, and fell over at the same time.`
+char_ev2: `"......What is thiiis?`
+char_ev2: ` So overwhelming, ahhaha{0}ha{0}ha{0}ha{0}ha{0}ha{0}ha{0}ha{0}hahaha!`
+char_ev2: ` That was ridiculously easy, wasn't it?`
+char_ev2: ` Kuhhihihya{0}hya{0}hya{0}hyahya!`
+char_ev2: ` This is the kind of furniture I need.`
+char_ev2: ` Way different from my predecessor's second‐hand furniture!"`
+char_ev2: `"Come on, bring their corpses here.`
+char_ev2: ` I'll keep reviving them until I'm bored, and try killing them in the most brutal ways I can think of.`
+char_ev2: ` Aaah, to think that being a witch could be so much fun,`
+char_ev2: ` that taking a life could be so much fun, ahhaha{0}ha{0}ha{0}ha{0}ha{0}ha{0}ha{0}hahaha!"`
+char_non: `......The most shunned action to take for someone born a human is the murder of another human.`
+char_non: `It's only natural for a human not to understand how pleasurable it is to break this taboo.`
+char_non: `......But she was no longer a {y:0:Human}{n:0:human}.`
+char_non: `{n}She was a witch.`
+char_non: `...And there were some pleasures that only witches could understand.`
+char_non: `By now, she had tasted those pleasures, and was totally immersed in them.`
+char_non: `...After learning that the contents of the forbidden pot were honey, she could no longer live without it.`
+char_non: `......No, maybe the contents were honey because they were forbidden.`
+char_non: `In any case, the act of killing {y:0:Human}{n:0:human}s gruesomely,`
+char_non: ` and doing it over and over, was by now giving her a drug‐like pleasure.`
+char_non: `As the witch rolled over laughing,`
+char_non: ` the gold snake which had just been fired returned as though being hauled back in.`
+char_non: `The two were stitched at the tip and being dragged along.`
+char_non: `The witch's order had been carried out.`
+char_non: `...Rudolf and Kyrie had been killed instantly, and their bodies had been carried back.`
+char_s45: `"Chiester45, 410, execution of orders completed.`
+char_s45: ` We await your next order, Great Lady {f:5:Beatrice}.`
+char_s45: ` Please, your order...!"`
+char_s41: `"From babysitting, to playing you in online multiplayer,`
+char_s41: ` to shooting down a space shuttle, we'll take care of everything.`
+char_s41: ` Nihihi!"`
+char_ev2: `"............These two are apparently the sacrifices for the fourth twilight and the fifth twilight.`
+char_ev2: ` So in the end, I need those worthless Seven Sisters,`
+char_ev2: ` ...oh, I guess they're the Five Sisters now.`
+char_ev2: ` I need those girls to pierce and gouge the forehead and the chest."`
+char_ev2: `"......But I can do that at the very end, and I'm free to play in any way until then, right?`
+char_ev2: ` Eheheh{0}eh{0}eh{0}eh{0}eh{0}eheh!"`
+char_bea: `"Wait wait wait waait.`
+char_bea: ` ...Have you already forgotten what I told you?!"`
+char_ev2: `"Oh, it's you, Predecessor‐sama.`
+char_ev2: ` Do you have any complaints?"`
+char_bea: `"Of course I do...!`
+char_bea: ` You are doing as you please, are you not?!`
+char_bea: ` Why can't you follow my directions?!"`
+char_ev2: `"What's wrong with doing as I please, Predecessor‐sama?`
+char_ev2: ` And I haven't got the slightest desire to deviate from the rules of the ritual."`
+char_ev2: `"I'll make sure to clean these two corpses up later, and drive stakes into their forehead and chest."`
+char_bea: `"I, I'm telling you, that is not the problem...!`
+char_bea: ` If you act so undignified and cruel, uh,`
+char_bea: ` ...umm, some people might take it badly..."`
+char_ev2: `"..............................`
+char_ev2: ` ......You mean, your opponent in that game, who I heard you were fighting with somewhere?`
+char_ev2: ` Ronove told me."`
+char_bea: `"......C‐curse that blabbermouth.`
+char_bea: ` .........Well, to be perfectly honest, that's how it is.`
+char_bea: ` I had a complaint that, um,`
+char_bea: ` ...it is a little too much, you see?"`
+char_ev2: `"It's not like there's any need for them to tell you to pass it on instead of objecting directly to me.`
+char_ev2: ` ...That person is a coward."`
+char_bea: `".........Well, that person is a resident of, uh, a different world from this one, you see.`
+char_bea: ` There's no choice but to use me as an intermediary.`
+char_bea: ` Well, anyway, the point is—"`
+char_ev2: `"........................`
+char_ev2: ` ......Which means that this person can't interact with me even if they wanted to.`
+char_ev2: ` And I can't interact with them even if I wanted to either.`
+char_ev2: ` Am I correct to understand this as an unrelated person from a world that far away?"`
+char_bea: `"M‐mm.`
+char_bea: ` ......By analogy, perhaps you could say these worlds are like two very close parallel lines.`
+char_bea: ` The worlds are very nearby, but since they are parallel lines, they will never cross.`
+char_bea: ` For the time being, you may view that world in such a manner."`
+char_ev2: `"They never cross.`
+char_ev2: ` Which means...`
+char_ev2: `.........that world has nothing to do with me.`
+char_ev2: ` ...If you're telling me on behalf of that person to show some restraint, please pass this message on to them."`
+char_bea: `"A message?`
+char_bea: ` What should I say...?"`
+char_ev2: `"It's none of your business, so screw off, you old hag.`
+char_ev2: ` Why don't you just give up and die forever...?"`
+char_bea: `"..................Wha—"`
+char_ev2: `"...Oh, I'm sorry.`
+char_ev2: ` Since it was a friend of yours, I just imagined that she'd be a woman.`
+char_ev2: ` By "old hag", I'm definitely not talking about youuu, Predecessor‐sama, so please forgive me.`
+char_ev2: ` *cackle*cackle*cackle*cackle*...!"`
+char_non: `When she spoke, the witch was looking straight into Beato's eyes.`
+char_non: `{n}...Anyone in that place would be able to figure it out just by looking.`
+char_ev2: `"............Predecessor‐sama.`
+char_ev2: ` There is something I find very strange.`
+char_ev2: ` ...Why do you have to play a game with that person from another world,`
+char_ev2: ` and have them accept that you are a witch?"`
+char_bea: `"Well, about that,`
+char_bea: ` ...that is because making all humans accept the existence of witches is related to perfect control.`
+char_bea: ` There was a single holdout, you see, and he just won't accept me as a witch."`
+char_ev2: `".........Why is it that you need that {y:0:Human}{n:0:human}'s approval?`
+char_ev2: ` Witches are witches, and they use magic; why do you need a {y:0:Human}{n:0:human}'s acknowledgement for this?"`
+char_bea: `"...Mh, .........well, like I said earlier, that which is called magic is—"`
+char_ev2: `"I am a witch.`
+char_ev2: ` I can use magic without anyone's approval in particular, so what's your point......?"`
+char_bea: `"In this world, right?`
+char_bea: ` However, since he will not accept it, umm,`
+char_bea: ` ...hmmmm, how should I explain it..."`
+char_ev2: `"......I don't need an explanation.`
+char_ev2: ` After all, isn't this all about a different world that never crosses this one?`
+char_ev2: ` In other words, it's just as though that world doesn't exist."`
+char_ev2: `"...............Whether you're fighting in a game in another world, or talking about your delusions, that doesn't change aaanything.`
+char_ev2: ` ......I'll say it again.`
+char_ev2: ` It has nothing to do with me.`
+char_ev2: ` And I am already a witch."`
+char_ev2: `"Predecessor‐sama, somehow or another, it seems that you can't become a witch as long as this person doesn't accept you, but I'm different.`
+char_ev2: ` Even though no one has accepted me, I am already an excellent witch.`
+char_ev2: ` .........Since you are my predecessor, I will formally pay you respect,`
+char_ev2: ` but that is out of good will, not out of duty."`
+char_ev2: `"......I do not seek your advice anymore,`
+char_ev2: ` and I understand clearly what I should do now and how I should play from now on."`
+char_ev2: `".........So I will carry out the ceremonial murder of the thirteen people as a final act of respect for you.`
+char_ev2: ` However, as for the methods I use,`
+char_ev2: ` and what I do after that, there is absolutely no reason I should be lectured by you on those.`
+char_ev2: ` ..................Therefore, I'll be counting on you in that regard."`
+char_non: `At a glance, those words seemed obedient, but they contained within them a clear parting of ways.`
+char_non: `...They were saying, as clear as could be,`
+char_non: ` "I have no more reason to rely on you, so don't get in the way of my fun".`
+char_non: `Beato understood that,`
+char_non: ` ...and was dejected, realizing that no matter how she explained it, she wouldn't be able to make the witch understand.`
+char_bea: `"...I, ............I see...`
+char_bea: ` Then it is no longer my problem...`
+char_bea: ` Go and learn first‐hand how magic ceases to exist when you lose your feelings of respect for it."`
+char_ev2: `"......That carefree rampage of yours up until now,`
+char_ev2: ` I would dearly like to hear how it can be called respect."`
+char_non: `After hearing that, Beato could not respond.`
+char_non: ` ......Because she remembered hearing exactly the same thing from her master.`
+char_ev2: `"So.`
+char_ev2: ` Chiester Sisters?`
+char_ev2: ` My predecessor is just leaving, please see her off."`
+char_s41: `"Nihihihihi.`
+char_s41: ` Predecessor‐sama, please retire from this place."`
+char_s45: `"I‐if you don't, we'll be scolded...!"`
+char_non: `Throughout her body, Beato felt something invisible in the Chiester Sisters' eyes which could only be described as an oppressive feeling.`
+char_non: `......Most likely, they were initiating firing calculations.`
+char_non: `{n}It was an action much like taking out a gun and cocking it.`
+char_non: `Even Beato could not escape from the Chiester Sisters' attacks without any preparation.`
+char_non: `...In the past, she had placed her greatest trust in them, so she knew down to her very soul how terrifying they were.`
+char_ron: `".........Predecessor‐sama, if you would retire.`
+char_ron: ` .........I would not recommend damaging {f:5:Beatrice}‐sama's mood any further."`
+char_rg1: `"......Predecessor‐sama..."`
+char_bea: `"A‐.........alright.`
+char_bea: ` ...I shall now take my leave.`
+char_bea: ` ......I shall take my time appreciating the circumstances you will put yourself in!"`
+char_non: `That was as close as you could get to a loser's last retort.`
+char_non: `...So after Beato hid herself, the witch and her furniture fell over laughing...`
+char_bea: `"............Well, I understand.`
+char_bea: ` Endless power is fun.`
+char_bea: ` ...The joy of freely toying with a life, the epitome of finite things, cannot be explained to those who have not tasted it.`
+char_bea: ` ......I can understand the feeling of being possessed with that pleasure."`
+char_wal: `"......It must have been quite fun.`
+char_wal: ` Judging from your antics in the past."`
+char_bea: `"Are you saying it is like how you used to admonish me in the past, Master, and I did not listen...?"`
+char_wal: `".........Why is it that you have started trying to scold that child for her actions?"`
+char_bea: `"Mh, ......umm, well.`
+char_bea: ` ........................"`
+char_wal: `"...There is a single large difference between you and that child.`
+char_wal: ` That child may already be a witch.`
+char_wal: ` Of course, you are also a witch.`
+char_wal: ` In the world on top of the game board."`
+char_wal: `"......However, to be accepted as a witch outside the game board,`
+char_wal: ` you need to have your opponent in this game, Battler‐kun, accept you.`
+char_wal: ` ......You must have understood that when you started the game."`
+char_bea: `"......I thought that if I could show off a whirlwind of proof that I am a witch,`
+char_bea: ` blow away his feelings that made him deny me, and break him completely,`
+char_bea: ` .........he would accept me as a witch.`
+char_bea: ` ...It all went my way last time, so I thought I was just a breath away..."`
+char_wal: `"It's actually the opposite.`
+char_wal: ` Battler‐kun was shocked by your brutality.`
+char_wal: ` And the reason he stepped up as your opponent was not because he accepted you as an equal opponent.`
+char_wal: ` It was based on a strong animosity, as he tried to completely deny the existence of a brutal witch."`
+char_wal: `".........In your foolishness, you probably felt that Battler‐kun considering himself as your opponent...`
+char_wal: `was a first step towards making him accept that you are a witch.`
+char_wal: ` However, it was actually the exact opposite."`
+char_wal: `"Battler‐kun challenged you in this game because he definitely would not accept you as a witch.`
+char_wal: ` ......No matter how much the thoughtless north wind blew, the traveler only wore his cloak even tighter.`
+char_wal: ` You were committing a huge error from the very beginning."`
+char_wal: `"............This game is not torture to break Battler‐kun.`
+char_wal: ` It is a test, in which you must work hard to make Battler‐kun accept you."`
+char_bea: `"...............`
+char_bea: ` ...I,`
+char_bea: ` ......I vaguely, you know,`
+char_bea: ` ...realized that..."`
+char_wal: `"Last time, it was a tough game for Battler‐kun.`
+char_wal: ` But it seems that you've already noticed.`
+char_wal: ` ......This time, the game is tough for you."`
+char_bea: `"Wh‐...what should I do from now on?"`
+char_wal: `"Think about it yourself.`
+char_wal: ` ......Fortunately, you have already abandoned being a piece on the game board, and relegated things to the new witch.`
+char_wal: ` You should have time to deliberately ponder upon yourself."`
+char_bea: `"............But Battler's already a big ball of hostility.`
+char_bea: ` He won't accept witches, and he won't accept me.`
+char_bea: ` ......In that case, how do I make Battler accept me, then...?`
+char_bea: ` Are you saying that if the north wind doesn't work, ...then I should shine on him as the sun from now on...?`
+char_bea: ` {i:I} should, after all this time......?"`
+char_wal: `"It is October now.`
+char_wal: ` The Halloween season.`
+char_wal: ` .........It is the month of rebirth, when the sun dies and is revived again.`
+char_wal: ` When the sun is weak right after reviving, it may pale in comparison to the cold winter winds."`
+char_wal: `"However, it slowly grows, and is eventually able to hail the coming of spring.`
+char_wal: ` ...At that time, the traveler may even fold up his cloak."`
+char_bea: `".........So you say...`
+char_bea: `...that I am mistaken........."`
+char_non: `...The beautiful hall of the Ushiromiya mansion was covered in a glow golden like gold leaf,`
+char_non: ` ...and stained deep red with thick spurts of blood.`
+char_non: `The number of deaths given to Rudolf and Kyrie had long surpassed anything you could count on both your fingers and your toes.`
+char_non: `The witch was breathing so hard her shoulders shook, but it wasn't because she was tired.`
+char_non: `{n}...She just couldn't hide the ragged breathing caused by her still uncontainable excitement.`
+char_ev2: `"Ahhahahaha{0}ha{0}ha{0}ha{0}ha{0}ha{0}hha{0}ha{0}hahaha!!`
+char_ev2: ` How fun it is to do as I will with the life and death of people!`
+char_ev2: ` Before the power of the Endless Witch, every one of the infinities I paint with my mind becomes reality!"`
+char_ev2: `"No matter how {i:sloppily} I {i:mash} them,`
+char_ev2: ` I can revive them, returning them to normal with just a snap of my fingers."`
+char_ev2: `"Because in the end, I just have to return the corpses to normal and make a token show of following the epitaph.`
+char_ev2: ` Ahha{0}ha{0}ha{0}ha{0}ha{0}ha{0}ha{0}ha{0}ha{0}ha{0}ha{0}ha{0}ha{0}ha{0}hahaha!!"`
+char_ev2: `"......Hey, you guys,`
+char_ev2: ` have you ever sliced a stuffed animal's stomach open?"`
+char_s41: `"Never, nihi.`
+char_s41: ` What about you, 45?"`
+char_s45: `"N‐no...!`
+char_s45: ` I have never done it, my apologies...!"`
+char_ev2: `"Of course not.`
+char_ev2: ` Normally, you wouldn't.`
+char_ev2: ` ......Especially not if it was a stuffed animal you liked.`
+char_ev2: ` But I've always thought about it."`
+char_ev2: `"I wondered what was packed inside this fluffy stuffed animal that I loved so much,`
+char_ev2: ` and always thought I'd like to peek inside one day."`
+char_non: `If you cut it and looked inside, your curiosity might be quelled, but the stuffed animal would be broken.`
+char_non: `......So even though you want to see, you can't.`
+char_non: `{n}You understand that feeling, right?`
+char_ev2: `"......The power of the Endless Witch can grant exactly that wish.`
+char_ev2: ` ...As I am now, I can slice the stuffed animal all I want."`
+char_ev2: `"......And yet, with a bit of magic, I can revive it back to normal.`
+char_ev2: ` ...In other words, it means that I have broken all limitations in this world.`
+char_ev2: ` ......As I am now, I don't have to hesitate, refrain, or anything of the sort."`
+char_ev2: `"That joy, ......aah, there's probably no one who can understand it.`
+char_ev2: ` No one other than me, the Endless Witch!!"`
+char_non: `As the witch let out a euphoric cry, she revived Rudolf and Kyrie again,`
+char_non: ` and faster than they could realize it, she killed them right away.`
+char_non: `......As she made it known that something other than cotton was stuffed inside those two.`
+char_hid: `"...G‐`
+char_hid: `............give it a rest, Eva......!"`
+char_ev2: `"Huh?`
+char_ev2: ` ......Ah, you.`
+char_ev2: ` You're here."`
+char_non: `In that hall of tragedy, Hideyoshi showed himself, his gun readied.`
+char_non: `The witch had sealed the mansion with a barrier, so Hideyoshi had nowhere to run.`
+char_non: `...He had probably picked up Rudolf's or Kyrie's gun, and come back.`
+char_non: `It seemed that the gun, which should have been something to be feared, was no longer an object she took seriously now that she was overflowing with magic power.`
+char_non: `Her bold expression didn't flinch in the slightest.`
+char_hid: `".........Why'd you have to kill Rosa‐san and Maria‐chan,`
+char_hid: ` ......and Rudolf‐kun and Kyrie‐san......?!"`
+char_ev2: `"Huh?`
+char_ev2: ` I am the head of the Ushiromiya family, and the witch of Rokkenjima.`
+char_ev2: ` I am free to start whatever I like on this island.`
+char_ev2: ` ...Just isolating this one instant and asking about their life and death within it is meaningless to me."`
+char_non: `Hideyoshi was struck speechless by that all‐too‐callous response from the witch.`
+char_non: ` Could someone's personality change so much just by finding Kinzo's gold......?`
+char_hid: `"Just how high was that gold piled?`
+char_hid: ` I can't even imagine it.`
+char_hid: ` It must have been enough to make you lose your sanity..."`
+char_hid: `"......Still, if there was that much gold,`
+char_hid: ` ......why didn't you think of graciously splittin' it up...?!!"`
+char_ev2: `"You misunderstand.`
+char_ev2: ` ............All of that belongs to the Golden Witch.`
+char_ev2: ` No one is qualified to touch it except for me.`
+char_ev2: ` *giggle*giggle*giggle*, ahhaha{0}ha{0}ha{0}ha{0}ha{0}ha{0}ha{0}ha{0}ha{0}ha{0}ha{0}ha{0}hahaha...!!"`
+char_hid: `"......What are you?`
+char_hid: ` Are you tryin' to say you're that thing Eva told me about long ago......the witch Eva from when she was young?"`
+char_ev2: `"That's right.`
+char_ev2: ` I am me in my youth, who was always living in the heart of your wife, Ushiromiya Eva.`
+char_ev2: ` ...And I'm a witch.`
+char_ev2: ` .........Eva became an adult by forgetting me.`
+char_ev2: ` So she can't use magic."`
+char_hid: `"...Everyone fills their head sometimes with innocent yet cruel fantasies, as kids.`
+char_hid: ` Even me, when I was young, I'd sometimes go around steppin' on ants and pullin' the wings off dragonflies.`
+char_hid: ` .........But you learn the importance of life, and grow out of that cruel childhood age."`
+char_hid: `"......Right now, you really are a child, y'know!`
+char_hid: ` ...A personality that Eva should have outgrown!`
+char_hid: ` That's not Eva.`
+char_hid: ` It's a different human!!"`
+char_ev2: `"That's right.`
+char_ev2: ` I am not Ushiromiya Eva.`
+char_ev2: ` I'm the Golden Witch, {f:5:Beatrice}."`
+char_ev2: `"It's so fun, not being bounded by any limitations, and the pleasure of being able to do as I will with life and death is truly wonderful...!`
+char_ev2: ` I don't have to apologize for breaking the goldfish bowl,`
+char_ev2: ` and I can tear the stuffed animal as much as I want!`
+char_ev2: ` I—"`
+char_non: `A dry sound.`
+char_non: `...It was the sound of Hideyoshi slapping the witch's face.`
+char_non: `By looking at the hall stained deep red with fresh blood, he should have been able to imagine how terrible the witch was.`
+char_non: `But without fear, without even hesitating, Hideyoshi had walked determinedly up to her, and hit her on the cheek.`
+char_ev2: `"....................."`
+char_hid: `"You dolt!!`
+char_hid: ` Don't act like you're cruel, not when you're really a coward and a weaklin'!`
+char_hid: ` I'll keep you on the straight and narrow, you wicked woman!!`
+char_hid: ` You dumbo!`
+char_hid: ` Nitwit!!"`
+char_ev2: `"Ow,`
+char_ev2: ` ......ouch,`
+char_ev2: ` ...hey...!"`
+char_hid: `"You used to be a woman who understood how important, how fragile a life is!`
+char_hid: ` I'll knock some sense back into you...!!`
+char_hid: ` What's all this about witches, what a load of crock!!"`
+char_hid: `"You're my wife, Ushiromiya Eva!`
+char_hid: ` A witch of the kitchen, thoughtfully whippin' up snacks from leftovers in the fridge, that's the only witch you are!!`
+char_hid: ` Open your eyes, you blunderin' dolt...!!"`
+char_ev2: `"Didn't I just say...`
+char_ev2: `that I'm not Ushiromiya Eva......?!"`
+char_hid: `"That's horsecrap!!`
+char_hid: ` You!`
+char_hid: ` You!!"`
+char_non: `As tears dripped down his face, Hideyoshi kept hitting the witch's head.`
+char_non: `He wasn't even pointing the gun at her anymore.`
+char_non: `So.`
+char_non: ` That sound of gunfire couldn't have come from the gun Hideyoshi was holding.`
+char_non: `......The gun, which had fallen in the corner near Rudolf's body, was floating in the air,`
+char_non: ` ...and smoke lingered near the barrel.`
+char_non: `And the bullet?`
+char_non: ` .........A red stain was slowly spreading across the chest of Hideyoshi's vest.`
+char_non: `Even though his back was facing the barrel of the gun, ...the bullet was embedded in Hideyoshi's chest.`
+char_hid: `".........E...`
+char_hid: `va............`
+char_hid: ` ............uu..."`
+char_ev2: `"...I told you, I'm not Eva.`
+char_ev2: ` What a stupid, annoying man."`
+char_ev2: `"......You're a pain, so I'll switch the sacrifice for the sixth twilight to you.`
+char_ev2: ` ...If you'd just stayed hidden under a bed quivering or something, I'd planned to let you go.`
+char_ev2: ` ......You deliberately came back.`
+char_ev2: ` You really are a stupid man."`
+char_non: `Thunk...`
+char_non: ` There was a dull sound as Hideyoshi fell to the floor.`
+char_non: `Even though he would be able to escape his pain by dying, he resisted that until the last second,`
+char_non: ` and staring straight into the witch's eyes, ...he passed away.`
+char_non: `Because he had died without closing his eyes, for a short while, the witch didn't realize that he was dead,`
+char_non: ` and she remained pinned down by that gaze.`
+char_s41: `"Will we make this one a new toy and play?`
+char_s41: ` Nihi."`
+char_non: `At those words, the witch finally realized that Hideyoshi was dead.`
+char_ev2: `".........nn, ...ahh.`
+char_ev2: ` ...Right, what'll we do..."`
+char_non: `The Chiester Sisters waited for instructions.`
+char_non: `{n}On the inside, they imagined an order even more brutal than before from their master.`
+char_non: `But the expression that rose to the witch's face looked as though she had gotten over her excitement.`
+char_non: `{n}She looked down at Hideyoshi's face, which still had tears dripping down it...`
+char_ev2: `"......This guy totally ruined my mood.`
+char_ev2: ` Yeeeah, I'm done.`
+char_ev2: ` .........Ronove, you there?"`
+char_ron: `"Yes, right here."`
+char_ev2: `"Clean up, please.`
+char_ev2: ` ...My predecessor will be annoying.`
+char_ev2: ` Please make it clean enough so that the old hag will accept it. ......And I guess I will follow the rules of the ritual, out of responsibility to my predecessor.`
+char_ev2: ` Please make these three corpses the fourth twilight through the sixth twilight."`
+char_ev2: `"Lucifer, you're up."`
+char_rg1: `"Lucifer the Proud, right here."`
+char_ev2: `"Dig into these three corpses and gouge them."`
+char_rg1: `"I‐...into the corpses?"`
+char_ev2: `"That's right.`
+char_ev2: ` You have a problem with that?"`
+char_rg1: `"N‐...no..."`
+char_non: `The Seven Sisters of Purgatory had a modest sense of pride.`
+char_non: ` It was the pride of a hunter, the pride of gouging prey that they had brought down themselves.`
+char_non: `...However, being told to gouge a corpse that someone else had brought down ran contrary to that feeling.`
+char_non: ` Of course, that was not the witch's intention, but for the Seven Sisters, it was horribly humiliating.`
+char_non: `...However, they had already messed up, with two of the sisters defeated, so they had no right to question her.`
+char_non: `Only Ronove appreciated that, and he rested his hand on her shoulder in understanding.`
+char_ron: `"......It is {f:5:Beatrice}‐sama's order.`
+char_ron: ` Lucifer, carry the three, and deal with them according to the protocol of the ritual.`
+char_ron: ` Then, when you are done, lend me a hand with the cleanup."`
+char_rg1: `"Certainly......"`
+char_non: `The witch looked down upon Hideyoshi's corpse, as though implying that this somehow weird atmosphere was all Hideyoshi's fault.`
+char_ev2: `".........Stupid man.`
+char_ev2: ` You didn't even have to die."`
+char_eva: `"Honey......!!!`
+char_eva: ` Aaaaaaaaaaaaaaaaaaaahhh!!`
+char_eva: ` Honey, where are you?!`
+char_eva: ` You're there, right?`
+char_eva: ` Answer me!!"`
+char_non: `The sound of a loud thunderbolt woke Eva from her nightmare.`
+char_non: `If Hideyoshi had been gripping her hand at that time, her fearful heart would probably have been instantly healed.`
+char_non: `However, Hideyoshi, who had sworn that he wouldn't leave even for a moment, was nowhere to be seen in the room.`
+char_eva: `"Honey,`
+char_eva: ` ...answer me...`
+char_eva: ` .........Honey...!!`
+char_eva: ` Uuuuuhhuuu{0}uuughhhuu!!"`

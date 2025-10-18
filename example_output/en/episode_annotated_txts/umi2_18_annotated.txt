@@ -1,0 +1,1093 @@
+char_ros: `"Where are you, {f:5:Beatrice}!!`
+char_ros: ` Show yourself!!`
+char_ros: ` {f:5:Beatriceee}!!"`
+char_non: `Rosa finally arrived at the chapel.`
+char_non: ` She pointed her gun around her, screaming the witch's name, but there was no way there would be an answer.`
+char_non: `After grimacing slightly, she noisily approached the table where her siblings' corpses were still exposed, and stretched out her arm towards the gold ingots.`
+char_non: `They were very heavy, but Rosa paid that no regard.`
+char_non: `{n}She wrapped one of them up in a blanket, and slung it over her shoulder.`
+char_ros: `"At least...just this one......`
+char_ros: ` Just this should be worth more than ten million..."`
+char_non: `Rosa did not part with her gun either, carrying the gold in addition to it.`
+char_non: `{n}...Her shoulders were screaming, but Rosa didn't care.`
+char_mar: `"......Kihihihihihihihihihihihihihihihihi.`
+char_mar: ` It will happen very soon.`
+char_mar: ` ......Very soon, the door to the Golden Land...will open."`
+char_ros: `"Stop laughing with that creepy voice!!`
+char_ros: ` Where is {f:5:Beatrice}?!`
+char_ros: ` Yes, I know it, she's around here somewhere, isn't she?!`
+char_ros: ` You know, right?!`
+char_ros: ` Where?!"`
+char_mar: `"Kihihihihihihihihihihihi.`
+char_mar: ` I dooon't knowww.`
+char_mar: ` Even if you don't search for her, you can meet her in the Golden Land.`
+char_mar: ` ...Kihihi{0}hi{0}hi{0}hi{0}hi{0}hi{0}hi{0}hi{0}hi{0}hi{0}hi{0}hi{0}hihihi,`
+char_mar: ` ouch."`
+char_ros: `"Stop that laugh!!`
+char_ros: ` ......Aaah, it almost makes {i:me} want to laugh!!`
+char_ros: ` That's right, that was definitely a witch, definitely a witch!!`
+char_ros: ` I didn't understand, I thought it was a human calling herself a witch, I was wrong!!!"`
+char_ros: `"...It really was a witch!!`
+char_ros: ` I won't be fooled by a thing like that!!`
+char_ros: ` You're there, aren't you?!`
+char_ros: ` Come out, show yourself!!`
+char_ros: ` {f:5:Beatriceeee{-}e{-}e{-}e{-}e{-}e{-}eeeee}!!!"`
+char_mar: `"I told you, she'll appear very soon.`
+char_mar: ` The door to the Golden Land will be opened.`
+char_mar: ` ......Kihihi{0}hi{0}hi{0}hi{0}hi{0}hi{0}hi{0}hihihi..."`
+char_kin: `"............Of course.`
+char_kin: ` That's what I should have done!`
+char_kin: ` I don't care, I shall throw away the rook!`
+char_kin: ` You, woman, are the king, who can't even be reached without the resolve to lose everything one has.`
+char_kin: ` I'll corner you, {f:5:Beatriceeee}.`
+char_kin: ` Hihahahahahahahahahaha!"`
+char_bea: `"At least call me a queen.`
+char_bea: ` Hoh, what a brilliant move.`
+char_bea: ` Tenacity is in your, ...no, in the Ushiromiyas' blood."`
+char_kin: `"......How pleasant!`
+char_kin: ` Truly an elegant night.`
+char_kin: ` Ku‐hah‐hah‐hah‐hah‐hah‐hah‐ha...!!"`
+char_gen: `".........My lord; {f:5:Beatrice}‐sama.`
+char_gen: ` It will soon be time for the banquet."`
+char_kin: `"Already?`
+char_kin: ` ......That's fast.`
+char_kin: ` Every night I pass with you goes by fast;`
+char_kin: ` the moon falls like an apple, and the sun rises like a small fish leaping out of the river."`
+char_bea: `"Shall we go, it is time.`
+char_bea: ` ......Stand, Battler.`
+char_bea: ` It is the beginning of the banquet to celebrate my revival."`
+char_bea: `"I'll introduce you as my new furniture, ...no, as my toy.`
+char_bea: ` To the dignitaries among witches."`
+char_non: `The witch was relaxing elegantly, her feet thrown out from the sofa and sitting on top of a footrest.`
+char_non: `...However, the footrest wasn't a part of the sofa, ......it was a {y:0:Human}{n:0:human}.`
+char_non: ` Which was down on all fours......`
+char_gen: `"......{f:5:Beatrice}‐sama, your silk dress."`
+char_kin: `"You are the guest of honor, but I am the host.`
+char_kin: ` I will go out first.`
+char_kin: ` It would have been nice if Shannon were here to help dress you, but, unfortunately, it seems that she no longer remains."`
+char_kin: `"......She's never around when I want to use her.`
+char_kin: ` Completely useless.`
+char_kin: ` .........However, you did well to remain here.`
+char_kin: ` ...I'm happy, my friend."`
+char_gen: `"......I am grateful for your words."`
+char_bea: `"Good.`
+char_bea: ` Wait downstairs, you two.`
+char_bea: ` Genji, good work, set the dress down over there."`
+char_gen: `"......Certainly.`
+char_gen: ` .........Well then, my lord."`
+char_kin: `"We will go first.`
+char_kin: ` ...{f:5:Beatrice}, I will see you later."`
+char_bea: `"Indeed."`
+char_non: `Kinzo and Genji left the study.`
+char_non: `{n}After that, only the witch and the dress and the furniture remained.`
+char_bea: `".........Do you know why I am not embarrassed to show myself to you naked...?"`
+char_but: `"..........................."`
+char_bea: `"It's because you are furniture.`
+char_bea: ` Furrrrniture.`
+char_bea: ` Understand?`
+char_bea: ` Furniture, just furrrrniture!"`
+char_bea: `"Who would feel shame at exposing their body to furniture?`
+char_bea: ` So there is no reason for me to feel shame because of you.`
+char_bea: ` ...*cackle*cackle*cackle*cackle*cackle*!"`
+char_non: `The witch stood up, and removed her jacket just at the shoulders.`
+char_non: `{n}......The jacket slumped down at the back.`
+char_non: `When the furniture respectfully approached to pick up her clothing, the witch gave it a small kick and it fell over.`
+char_non: `...The furniture was afraid of what misconduct it had shown...`
+char_bea: `"Do you, as furniture, plan to force me to unbutton myself?"`
+char_bea: `"......Stand.`
+char_bea: ` And undo the buttons.`
+char_bea: ` ...One by one, carefully.`
+char_bea: ` Quickly.`
+char_bea: ` Beautifully.`
+char_bea: ` With no mistakes.`
+char_bea: ` The guests are being kept waiting, change my clothes quickly."`
+char_but: `"..................Yes..."`
+char_bea: `"*cackle*cackle*cackle*cackle*cackle*, kakakaka, hah‐hah‐hah‐hah‐hah‐hah‐ha!!`
+char_bea: ` Undo them carefully.`
+char_bea: ` Those buttons are each worth more than one of your eyeballs.`
+char_bea: ` ...If you accidentally tear one off, I'll sew on an eyeball of yours in its place...`
+char_bea: ` *cackle*cackle*cackle*cackle*cackle*cackle*cackle*cackle*cackle*cackle*!!"`
+char_non: `The entrance hall was bustling with a large number of figures.`
+char_non: `{n}And it was sparkling gold with the gold butterflies flying around.`
+char_non: `The gentlemen in suits and tuxedos and the ladies in dresses looked like they were having a great number of friendly chats.`
+char_non: ` At a glance, it might have looked like a fabulous medieval ball.`
+char_non: `But they all had one thing in common, and that thing was exceedingly bizarre.`
+char_non: `......Because all of them...had goat heads.`
+char_non: `It was impossible to tell whether it was a goat mask masquerade,`
+char_non: ` .........or whether they really had goat heads.`
+char_non: `...The latter was a ridiculous notion, but in this bizarre world, there was serious doubt about which was true...`
+char_non: `Kinzo was amongst those goat nobles, greeting them.`
+char_non: `Every one of them seemed to be an honored guest, and Kinzo greeted them more respectfully than could ever have been imagined from his normal demeanor.`
+char_non: `At that time, Genji's voice rang out through the hall.`
+char_non: `{n}It was a voice calling for silence.`
+char_non: `{n}That voice stopped the voices of idle chatter, and everyone turned to face Genji.`
+char_gen: `".........Tonight marks the entrance of our Golden Witch, who has achieved her revival,`
+char_gen: ` the Lady {f:5:Beatrice}.`
+char_gen: ` I ask you all to join me in welcoming her with your applause."`
+char_non: `When Genji began to applaud, it quickly spread through the guests, and became thunderous applause.`
+char_non: `And.........the Golden Witch appeared at the top of the large staircase...`
+char_non: `She gracefully waved her hand as she slowly descended the staircase...with her preferred furniture in tow...`
+char_non: `The goat nobles offered unanimous words of celebration in some long‐forgotten language.`
+char_non: `And those with whom she was closely acquainted embraced her, filled with joy at their reunion.`
+char_non: `As the witch offered greetings of reunion, ...the witch's furniture followed behind her the whole time.`
+char_non: `.........There was a chain around its neck.`
+char_non: `{n}This was gripped in the witch's hand, like it was a trained dog.`
+char_non: `The chain wasn't there to restrain it.`
+char_non: `{n}...The only purpose of the restraining device was to injure the furniture's dignity...`
+char_non: `It wasn't permitted to wear anything else on its body.`
+char_non: `One of the young woman goats, mixed in with the goat nobles,`
+char_non: ` softly removed her goat mask as the furniture passed in front of her, and spoke with eyes that had no light in them.`
+char_non: `That face...looked like it belonged to a long‐haired young girl...`
+char_ber: `"...............How pitiful."`
+char_bea: `"Ohh, Lady {f:5:Bernkastel}.`
+char_bea: ` Welcome.`
+char_bea: ` Do you like my furniture?"`
+char_ber: `".........Good taste."`
+char_non: `After saying only that, the witch called {f:5:Bernkastel} once again put on her goat mask,`
+char_non: ` and was swallowed up in the shadows of the other tall goats...`
+char_non: `"Ahahahahahahaha...`
+char_non: ` Sore loser.`
+char_non: ` She's irritated."`
+char_bea: `"You're right.`
+char_bea: ` *cackle*cackle*cackle*cackle*cackle*cackle*cackle*cackle*cackle*cackle*!"`
+char_non: `The young women goats giggled, and the witch once again let out a high‐pitched laugh.`
+char_bea: `"Thank you for gathering here for my sake tonight!!`
+char_bea: ` Why don't we enjoy to the fullest this "banquet of the witch", where old friends have gathered from past and present, east and west...!"`
+char_bea: `"Come, we will eat all night,`
+char_bea: ` drink all night,`
+char_bea: ` slurp all night,`
+char_bea: ` and chew to bits all night as we enjoy ourselves!!`
+char_bea: ` Look at the clock, it shows the time when the ending hour and the beginning hour melt together... ...Come!!`
+char_bea: ` Let us begin the banquet of the witch!!!"`
+char_non: `When the witch proclaimed the beginning of the banquet, the large clock pointed to 24:00, and the sound of a bell began to ring out loudly...`
+char_bea: `"Come...... Now is the time!!`
+char_bea: ` Open the golden door............!!!"`
+char_non: `All at once, the butterflies leafed in gold flew all around the inside of the room.`
+char_non: `Amidst the golden storm and the brilliant gold‐colored light, the cross‐section joining this world and a different world......was cut open......`
+char_non: `Amidst the goats' delighted voices, the mansion of the human world and the mansion of those not human overlapped,`
+char_non: ` ......and, in the form of golden butterflies, all those folk who praised the resurrection of the Golden Witch...`
+char_non: `...poured out of the depths of hell...`
+char_non: `It was...a golden...tornado.`
+char_non: `{n}...A rondo of golden demons.`
+char_non: `Come, tonight we will put aside rank.`
+char_non: `Throw open the wine cellar,`
+char_non: ` drop the snake's head into the liquor pot,`
+char_non: ` throw cows and chickens into the furnace alive,`
+char_non: ` drink and eat and sing and dance,`
+char_non: ` sneer and kill and desecrate and degrade!!`
+char_kin: `"Aaaaaahh, {f:5:Beatrice}!!`
+char_kin: ` Take me to the Golden Land now!`
+char_kin: ` To the Golden Laaaaa{-}a{-}a{-}a{-}a{-}a{-}aaaand!!!`
+char_kin: ` Oooo{0}o{0}o{0}o{0}ooohhh{0}h{0}hhhhh, aaaaa{0}a{0}a{0}a{0}a{0}a{0}a{0}a{0}a{0}a{0}a{0}a{0}a{0}a{0}a{0}a{0}a{0}a{0}aaaaahhh!!!"`
+char_non: `The goat nobles were suddenly crushing in around Kinzo.`
+char_non: `...Almost like they were kids demanding the autograph of some famous movie star.`
+char_non: `There were two differences.`
+char_non: ` First, they were witches, not kids.`
+char_non: ` And second, what the witches demanded were not autographs.`
+char_non: `Kinzo began to drown in the sea of goat nobles.`
+char_non: `{n}Only Kinzo's laughing voice echoed throughout the area.`
+char_non: `It was a grand mixture of laughter and his death throes.`
+char_non: `{n}And Kinzo became wine and meat and bread.`
+char_non: `An aroma if slurped, a rich taste if gnawed, and pleasant to tear to bits!`
+char_non: `The voice of his death throes lingered on sweetly,`
+char_non: ` and adorned with melted chocolate and silver dragées, it would make a wonderful dessert!`
+char_non: `If you took the bones home, you could also use them for a soup,`
+char_non: ` and the remains could even become toys for the children to play with,`
+char_non: ` and they could also become good tools for fortune‐telling that always gave misfortune!`
+char_non: `That entire scene, ......was watched by the piece of furniture.`
+char_non: `{n}It was all fantastical.`
+char_non: ` ...It was all demonic.`
+char_non: `...Was the quaking of its heart, which should have been paralyzed, ...proof that it could still feel fear?`
+char_non: `Just then, its knees buckled, and the furniture's body tumbled onto the center of the carpet.`
+char_non: `Because the witch had kicked those knees from behind.`
+char_bea: `"Kneel and show your respect.`
+char_bea: ` Rub your forehead against the carpet and show how vulgar you are.`
+char_bea: ` Join your hands behind your back and swear that you will offer all your flesh and blood to me."`
+char_but: `"..................u............ah........."`
+char_non: `The piece of furniture let out a painful voice.`
+char_non: `...Fear is the most primal emotion {y:0:Human}{n:0:human}s have.`
+char_non: `{n}...Was that emotion reviving his sense of self, which should already have been killed?`
+char_bea: `".........Hmph.`
+char_bea: ` So, you are still far from being appropriate for my furniture."`
+char_bea: `"Good!`
+char_bea: ` I will carefully make you into the kind of furniture I like, the kind appropriate only for me.`
+char_bea: ` ...I suppose the best you can do for now is simply entertaining the guests!"`
+char_non: `The goat nobles were surrounding the cowering furniture...`
+char_non: `{n}It seemed that their blazing, blood‐red eyes couldn't hide their ecstasy at this new young food that they had been given.`
+char_non: `And from their mouths, from which protruded countless ugly teeth, saliva,`
+char_non: ` ...or maybe the traces of meat and wine that they had just eaten, dribbled down...`
+char_but: `".........e............eeeeeeeeeeeeeeeeeeeeeeeeeek!!"`
+char_non: `As the piece of furniture let out a wild scream, it retreated, still sitting on its backside.`
+char_non: `...But the circle of goat nobles was closing in...`
+char_non: `And the piece of furniture looked at the witch's face.`
+char_non: ` ...It stared at her face one final time, believing that because it had submitted to the witch, she would show it some mercy.`
+char_non: `But there was nothing but scorn on the witch's face, and she wasn't even facing it anymore.`
+char_non: `The witch went off to greet an honored guest with whom she had crossed gazes...`
+char_non: `The goat nobles looked down upon the furniture.`
+char_non: `They were, in fact, waiting.`
+char_non: `Just like how one must remove the cork in order to drink champagne,`
+char_non: ` before bringing the offering served at the banquet to their mouths, they were waiting for just one of {i:those}.`
+char_non: `Of course, the furniture didn't know what that was.`
+char_non: `...But it would come out of his mouth all by itself.`
+char_non: ` In the same way there is always a pop when the cork is removed, it too would certainly leave his mouth.`
+char_but: `"...G...`
+char_but: `......yaa...`
+char_but: `ahiiii{0}i{0}i{0}i{0}i{0}i{0}i{0}i{0}i{0}i{0}i{0}i{0}i{0}i{0}i{0}i{0}i{0}i{0}i{0}i{0}i{0}i{0}i{0}i{0}i{0}i{0}i{0}i{0}i{0}i{0}i{0}i{0}i{0}i{0}i{0}i{0}i{0}i{0}i{0}i{0}i{0}i{0}i{0}iiIII!!!"`
+char_non: `{nobreak:{m:-5:—}—}A scream.`
+char_non: `{n}It was a sign that the modest banquet at which he was to be served...had begun.`
+char_but: `"Gyaaaaaaaaaaaaaa`
+char_but: `gebu{0}ki{0}kya{0}kya{0}ka{0}ku`
+char_but: `oooo{0}ga{0}a{0}ge{0}o{0}e`
+char_but: `oo{0}ooaa{0}a{0}a{0}a{0}a{0}a{0}a{0}a{0}a{0}a{0}a{0}a{0}a{0}a{0}a{0}a{0}a{0}a{0}a{0}a{0}a{0}a{0}a{0}a`
+char_but: `a{0}a{0}a{0}a{0}a{0}a{0}a{0}a{0}a{0}a{0}a{0}a{0}a{0}a{0}a{0}a{0}a{0}a{0}a{0}a{0}a{0}a{0}a{0}a{0}a{0}a{0}a{0}a{0}a{0}a{0}a{0}a{0}a`
+char_but: `a{0}a{0}a{0}a{0}a{0}a{0}a{0}a{0}a{0}a{0}a{0}a{0}a{0}a{0}a{0}a{0}a{0}a{0}a{0}a{0}a{0}a{0}a{0}a{0}a{0}a{0}a{0}a{0}a{0}a{0}a{0}a{0}a{0}a{0}a{0}a{0}a{0}a{0}a{0}a{0}a{0}a{0}a{0}a{0}a{0}aaah...!!!"`
+char_but: `Gapupogyugukigukiboryu.`
+char_but: `By now the rose garden was a garden of roses and gold.`
+char_but: ` A gold‐colored garden where gold butterflies, gold fairies, gold lizards rampaged and flew about wildly.`
+char_ros: `"Maria, hurry!!`
+char_ros: ` Run!!`
+char_ros: ` Hurry hurry hurry hurry!!"`
+char_non: `Holding onto the gun and the blanket wrapping the ingot,`
+char_non: ` Rosa ran at a speed Maria couldn't catch up with, sometimes pausing to call out at Maria to run faster.`
+char_non: `Therefore, she saw it every time.`
+char_non: `{n}...She saw the golden pursuers chasing them from the mansion!`
+char_non: `The mass of gold butterflies was chasing after them like a massive crawling hand!!`
+char_non: ` And horrifyingly strange‐looking shadowy figures with goat heads were chasing after them...!!`
+char_non: `There was no need for her to strain her eyes.`
+char_non: ` Because those blazing pupils told her what would happen if she was captured.`
+char_mar: `"......Mama, wait,`
+char_mar: ` Mama, wait......`
+char_mar: ` ...Uu‐uu,`
+char_mar: ` ......au!!"`
+char_non: `Maria tripped over.`
+char_non: `Rosa, ashamed that for just an instant she had entertained thoughts of abandoning her daughter and running away, kicked back against the ground and instantly reversed direction.`
+char_non: `As Rosa's own child tried to stand,`
+char_non: ` the goat‐head that had sprinted over to get the first bite grabbed a fistful of her hair and pulled her up from the back...!!`
+char_mar: `"Mamaaaaaaaaaaaaaaaaaaaa,`
+char_mar: ` noooo{-}o{-}o{-}o{-}o{-}o{-}o{-}o{-}o{-}o{-}o{-}o{-}o{-}o{-}o{-}o{-}o{-}o{-}o{-}o{-}ooooo!!"`
+char_non: `Rosa rammed into the goat‐head with her shoulder,`
+char_non: ` spun,`
+char_non: ` bashed the back of her elbow into the goat's jaw,`
+char_non: ` and buried her knee into its protruding chest!!`
+char_non: `And she thrust the barrel of the gun inside the goat‐head's mouth as it doubled over from the pain in its gut!`
+char_ros: `"......Just try laying one finger on Maria in front of me.`
+char_ros: ` I'll show you just how lukewarm the hell you came from is."`
+char_non: `The blast from the 45‐caliber Long Colt bullet exploded inside the goat‐head's throat,`
+char_non: ` and its medulla oblongata was instantly pulverized.`
+char_non: `The goat‐head couldn't understand.`
+char_non: `It had thought that women were like already opened wine bottles!`
+char_non: `{n}It had thought that they were wine bottles, and that turning them upside down would immediately cause their deep‐red contents to come out!`
+char_mar: `"Mama!!`
+char_mar: ` Mamaaaaaa!!"`
+char_non: `Released, Maria flung her arms around Rosa.`
+char_non: `But the pursuers were still coming!`
+char_non: ` They could see the giant goat‐heads, who had given up even pretending to be {y:0:Human}{n:0:human}, running towards them from across the rose bushes.`
+char_non: `Rosa spilled several extra bullets, which had been in the pocket of her coat, all over the place, and told Maria to pick them up.`
+char_mar: `"Y‐yes...!`
+char_mar: ` Pick up, pick up...!!"`
+char_ros: `"Maria.`
+char_ros: ` If Mama falls down,`
+char_ros: ` run.`
+char_ros: ` Go to the shore.`
+char_ros: ` And swim, and swim, and swim!`
+char_ros: ` There's no place on this island where we can survive!!"`
+char_mar: `"N‐no!!`
+char_mar: ` Together with Mama!!`
+char_mar: ` Uuu!!"`
+char_non: `Rosa's gun roared four times.`
+char_non: ` But even though she really did land four shots in the chest of the massive, approaching goat, it didn't even flinch!!`
+char_non: `The goat ran with a violent vigor, as though it planned to crush Rosa and Maria with its massive body!!`
+char_ros: `"Put the bullets in!!`
+char_ros: ` Quickly!!"`
+char_mar: `"U‐uu!!"`
+char_non: `Rosa grasped the blanket with the ingot in both hands,`
+char_non: ` and she herself sprinted at the goat, dragging the ingot along behind her!!`
+char_non: ` Without even an ounce of fear of that strange‐looking giant!!`
+char_non: `If it's to protect my daughter, I'll overcome even hell!!`
+char_ros: `"I'll show you...`
+char_ros: `what a golden dream looks liiiiiiiiiiike!!!"`
+char_non: `Rosa's roar.`
+char_non: ` The goat‐head's roar.`
+char_non: `The terribly heavy ingot, after picking up a terrible centrifugal force and speed, slammed into the goat‐head's cranium.`
+char_non: `Rosa pulled a fountain pen from her pocket.`
+char_non: ` But she held it crooked.`
+char_non: ` She placed it in her palm,`
+char_non: ` in the gap between her middle finger and her ring finger, so that it stuck out when she made a fist, almost like it was a stinger growing out.`
+char_non: `She jabbed that stinger into the left eye of the goat‐head as its head toppled forward.`
+char_non: ` Was the goat‐head's roar a scream?`
+char_non: `But Rosa's roar was different.`
+char_non: `She pulled back her fist and slammed it into the fountain pen that was still sticking into the goat‐head's eye.`
+char_non: ` The pointed tip was gouged destructively into the depths of its head...!`
+char_mar: `"Mama, bullets in!!"`
+char_ros: `"Good job!!"`
+char_non: `As I grabbed the gun Maria had thrown, I finally heard the thunderous crash of the giant tumbling to earth.`
+char_non: `However, at the same time, I saw the goat‐head pursuers on the other side of the rose bushes increase in number.`
+char_non: ` I've gained some distance, more than enough now!`
+char_non: `Holding onto the gun and the blanket wrapped around the ingot, I once again ran with Maria.`
+char_non: `...Why am I running with a gun in my right hand and the gold in my left?`
+char_non: `Why don't I free one hand and grasp Maria's hand...?!!`
+char_non: `I can't let go of the gun that protects my body.`
+char_non: `{n}I can't let go of the gold that protects my future.`
+char_non: `And yet I would let go of the hand of my daughter, who {i:is} my very future...?!`
+char_non: `Run.`
+char_non: ` Run. Run.`
+char_non: `She got out of the rose garden and began to run down the staircase through the grove of trees.`
+char_non: `But Rosa knew.`
+char_non: ` This path through the grove was only turning and twisting many times to make it seem long.`
+char_non: ` She tore straight through it!`
+char_non: `She had always played here since she was a kid.`
+char_non: `{n}So she knew!`
+char_non: `To the beach. To the beach.`
+char_non: ` To the sea, to the sea, to the sea.`
+char_non: `And after reaching the sea?`
+char_non: `Nothing to do but swim, swim swim, if Maria can't swim, I'll carry her as I swim!!`
+char_non: `There is nothing but death on this island!`
+char_ros: `"Kya!!!"`
+char_mar: `"Mamaaaa?!"`
+char_non: `As she raced down the stairs, she took a bad step.`
+char_non: `{n}A violent pain ran up her left ankle and her mind went completely blank.`
+char_non: `Rosa fell down several stairs, and stared in shock at her ankle, which was bent at an odd angle.`
+char_non: `...And the blanket with the ingot wasn't there.`
+char_non: ` She had let go of it the instant she fell, and it had disappeared somewhere into the darkness.`
+char_non: `Only the gun was left.`
+char_non: `The tremors in the earth were getting closer.`
+char_non: `{n}It was only a matter of time before the goat‐heads flooded in.`
+char_non: `She didn't want to imagine how many there would be, or how strange they would look.`
+char_non: `The lightly dancing gold pursuers arrived.`
+char_non: `The gold butterflies surrounded Rosa and Maria, sparkling and clamoring as though saying "the prize is here, the prize is here".`
+char_non: `Rosa couldn't even try to get up.`
+char_non: `{n}The violent pain from her broken ankle was so great that she couldn't ignore it, even in her last moments.`
+char_non: `Aaaaaaaaaaaaah, what am I doing...`
+char_non: `{n}I had the gold, it would have been worth several million yen.`
+char_non: `I might have been able to start over with that!!`
+char_non: ` And yet I fell, lost it, and that's not all, my own life is in danger, even Maria's life is in danger?!`
+char_non: `......What has my life been?!!!`
+char_non: `I was born in an incomprehensible house!`
+char_non: `{n}With an irritating older brother and sister since the day I was born!!`
+char_non: `What did I do?!`
+char_non: `No matter what I did or didn't do, I was always in trouble and bullied and made fun of!!`
+char_non: ` What has my life been?!?!`
+char_mar: `"Mama..., Mama, Mama...!!"`
+char_ros: `"........................"`
+char_non: `The roar inside Rosa's heart shriveled away and disappeared.`
+char_non: `...It disappeared when she listened to Maria's crying voice, as her daughter sobbed and clung onto her.`
+char_ros: `".........Maria.`
+char_ros: ` Mama remembered that there's something she has to do.`
+char_ros: ` Please go on ahead."`
+char_mar: `"No, no no no no!!`
+char_mar: ` Want to be with Mama!!`
+char_mar: ` Don't want Mama to die!!"`
+char_ros: `"Maria,`
+char_ros: ` ...even though I'm such a bad mama,`
+char_ros: ` ......you still say you want to be with me?"`
+char_mar: `"Yes...!`
+char_mar: ` ......Want to be with Mama...`
+char_mar: ` Want to be with Mama...!"`
+char_ros: `"...I made it look like I was putting you first,`
+char_ros: ` ...but I was always putting you off.`
+char_ros: ` I went to your sports day,`
+char_ros: ` I went to parent's day,`
+char_ros: ` ...but I was always thinking about how I appeared to the world, and you were never in my eyes."`
+char_ros: `"......Are you saying...that you want to be together, even with that kind of mama......?`
+char_ros: ` Even though...`
+char_ros: `...I've been such a bad mama............!!"`
+char_mar: `"Hey, Mama.`
+char_mar: ` ...Did you know?`
+char_mar: ` There's only one Mama in the world.`
+char_mar: ` There's no good Mama or bad Mama.`
+char_mar: ` ...There's just one Mama.`
+char_mar: ` So all I want is for Mama, the only Mama in the world, to be here.`
+char_mar: ` And I want to become the only Maria for Mama."`
+char_mar: `".........The Maria who's in a good mood that you want to spoil, and the Maria who's a nuisance and you don't want to be around, aren't different people.`
+char_mar: ` I'm also just one Maria.`
+char_mar: ` ......So the scary Mama and the nice Mama are just like that.`
+char_mar: ` ......To me,`
+char_mar: ` ...there is just one...`
+char_mar: `...Mama......"`
+char_ros: `"...............I was...`
+char_ros: `......such...`
+char_ros: `.........an idiot...`
+char_ros: ` .........I didn't need gold.`
+char_ros: ` If only I had just pulled your hand...`
+char_ros: ` ......I was such a...`
+char_ros: `...stupid mama...!!"`
+char_non: `The shadows of the goats covered the sky even more than the trees of the forest.`
+char_non: `{n}Their roars blotted out the world with fear.`
+char_non: `Rosa, still hugging Maria, readied her gun with one hand.`
+char_ros: `"Maria, let's go together.`
+char_ros: ` Always together.`
+char_ros: ` ...So that Mama doesn't lose her way, always together...!"`
+char_mar: `"Yes...!!`
+char_mar: ` Can see each other soon.`
+char_mar: ` Always together...!!`
+char_mar: ` ...Can see each other...in the Golden Land...!!"`
+char_mar: `"And then we'll play together!`
+char_mar: ` Play with the "Wolves and Sheep Puzzle"!!`
+char_mar: ` You still haven't solved more than one question, Mama, but I solved them all.`
+char_mar: ` So I'll be the questioner!!"`
+char_non: `She had bought that as a birthday present, ......and then hadn't played it with Maria after that night.`
+char_ros: `"Yes, let's play, together!!!`
+char_ros: ` I promise!!!"`
+char_mar: `"Mamaaaaaaaaaaaaaaaaaaaa!!"`
+char_non: `Those eyes, sparkling like red‐hot lava, looked just like a group of fireflies.`
+char_non: `{n}They danced, closed in, and attacked.`
+char_ros: `"Oooooooooooooohh, come ooooooon!!`
+char_ros: ` Whoever wants to eat these bullets Maria chambered for me, step forwaaaaaaard,`
+char_ros: ` uwoooo{0}o{0}o{0}o{0}o{0}o{0}o{0}o{0}o{0}o{0}o{0}o{0}o{0}o{0}o{0}o{0}o{0}o{0}o{0}o{0}o{0}o{0}oooohhh!!!"`
+char_ros: `"................................."`
+char_non: `Rosa woke up from her doze.`
+char_non: `......It must have been a very deep sleep.`
+char_non: `{n}Her mind was fuzzy and she wasn't thinking clearly.`
+char_non: `Where was she...`
+char_non: `{n}It felt like some mansion, but at least it didn't seem to be the Ushiromiya family mansion.`
+char_non: `She was in a room that looked like a parlor.`
+char_non: `......And there was some tea that had been prepared.`
+char_non: `{n}It had almost certainly been prepared for her.`
+char_non: `Sparkles like gold leaf were dancing around the room, and it looked very dreamlike.`
+char_non: `...She eventually realized that they were gold butterflies, which made that stand out even more.`
+char_non: `There was someone across from her.`
+char_non: `......Female.`
+char_non: ` ......A lady.`
+char_non: `.........The witch...`
+char_non: `of the portrait.`
+char_non: `She looked like she was having a one‐sided conversation.`
+char_non: `She was probably talking to Rosa,`
+char_non: ` but Rosa's mind was clouded up by a deep fog, and she didn't have a clue what was being said...`
+char_bea: `"......It can be anything.`
+char_bea: ` If there is anything you desire, I will give you it all.`
+char_bea: ` You may think of it as a reward for your good luck, or as a proper trade for my demands."`
+char_bea: `"To you, it may not be that great a thing at all.`
+char_bea: ` But that is how significant this transaction is to me."`
+char_non: `............What is she...talking about.`
+char_non: `...I don't know,`
+char_non: ` ...I don't know.`
+char_bea: `"Only, ......considering that I {i:am} a witch,`
+char_bea: ` I think it would be wise to ask for something that only a witch can grant."`
+char_bea: `"Isn't this a rare chance.`
+char_bea: ` You can actually receive a favor from me, {f:5:Beatrice} the Golden.`
+char_bea: ` *cackle*cackle*!"`
+char_ros: `"........................u........."`
+char_non: `Finally, Rosa started to feel the blood flowing through her body.`
+char_non: `{n}...Her movements were still sluggish, and she couldn't even voice the words she was thinking.`
+char_bea: `"I am commonly called the Golden Witch.`
+char_bea: ` Bestowing a mountain of gold, like I gave to Kinzo, is no problem for me.`
+char_bea: ` ......After all, every pleasure of the human world can be expressed in terms of cash.`
+char_bea: ` Put another way, gold is human pleasure itself."`
+char_bea: `"Can you imagine?`
+char_bea: ` A mountain of gold that you couldn't use up as long as you lived."`
+char_non: `The witch blew on her pipe, and seven colors of smoke covered the area.`
+char_non: `When she did, the inside of the parlor...had suddenly become filled with stacks of gold ingots.`
+char_non: `It looked like a shining gold‐colored wall.`
+char_non: `...If each ingot was worth tens of millions of yen,`
+char_non: ` how much would all of this be worth?`
+char_non: `It seemed sinful to even think of that number.`
+char_bea: `"......However, the human world is difficult.`
+char_bea: ` I know that there are some things that cannot be satisfied no matter how high into the sky you pile up gold.`
+char_bea: ` I know that there are cracks that can't be filled."`
+char_bea: `"I won't make light of that, and in fact, I believe that is why this is a gift that only a witch such as I can give."`
+char_bea: `"......Why don't I fill those cracks in for you?`
+char_bea: ` Yes, how about this.`
+char_bea: ` It's something that only I can give.`
+char_bea: ` You should be very happy."`
+char_bea: `"......You don't have to say it out loud.`
+char_bea: ` I can understand it right away, the cracks in your heart are written on your face, *cackle*cackle*!"`
+char_non: `Rosa felt a touch of discomfort at this witch,`
+char_non: ` who kept on talking even though she herself hadn't uttered a single word,`
+char_non: ` but since she still couldn't speak well, and found it difficult even to move a finger, she could do nothing about it,`
+char_non: ` and was unable to do anything but listen.`
+char_bea: `"How far back must I trace the deep wounds in your heart in order to heal them?"`
+char_bea: `"......This is...`
+char_bea: `...deep,`
+char_bea: ` deep.`
+char_bea: ` ......Sometimes, wounds close up while a fragment of something is still inside.`
+char_bea: ` ...Even when those wounds appear to have healed, they will continue to throb for all eternity.`
+char_bea: ` Sometimes you have to open the wound once to completely heal it."`
+char_non: `As the witch spoke, she was staring deep into Rosa's eyes.`
+char_non: `......What in the world...was she peering at?`
+char_non: ` Rosa felt uncomfortable, but she couldn't look away.`
+char_bea: `"............So this pain of yours was preordained from your very birth.`
+char_bea: ` ...How heart‐breaking.`
+char_bea: ` ...You don't have to say it.`
+char_bea: ` I understand.`
+char_bea: ` ......I understand......"`
+char_non: `Gradually, Rosa, in turn, was drawn into the witch's eyes.`
+char_non: `Gradually, the world grew dark, spinning round and round as she was sucked in...`
+char_cla: `Rosa, Rosa.`
+char_cla: ` Why are you such an idiot?`
+char_cla: `Oh, that's Krauss nii‐san's voice.`
+char_cla: `{n}Krauss nii‐san is very grown‐up, so he's very smart.`
+char_cla: `{n}So he hated the stupid kid Rosa.`
+char_cla: `And he was a very scary person, and I was often hit, and my toys were taken from me and broken.`
+char_cla: `He would say it was a punishment because I did something bad, but I didn't really understand what that was, or why I was being punished.`
+char_cla: `I was always punished suddenly, and then after the fact, I was told in a contrived manner that it was a punishment for something or other,`
+char_cla: ` but it was always something I didn't remember doing.`
+char_cla: `......So I really hated Krauss nii‐san.`
+char_eva: `Rosa, Rosa.`
+char_eva: ` Why are you such an idiot?`
+char_eva: `Oh, that's Eva nee‐san's voice.`
+char_eva: `{n}Eva nee‐san is very grown‐up, so she's very smart.`
+char_eva: `{n}So she hated the stupid kid Rosa.`
+char_eva: `And she was a very sly person, and I was often lied to, tricked, and bullied a lot.`
+char_eva: `She would say it was because I was stupid, and that it was only natural for stupid people to be swindled by those smarter than them.`
+char_eva: `So I wanted to become a wise person like Eva nee‐san, and listened to what she said, but when I obeyed her, for some reason, someone always got really mad at me.`
+char_eva: `......So I really hated Eva nee‐san.`
+char_rud: `Rosa, Rosa.`
+char_rud: ` Why are you such an idiot?`
+char_rud: `Oh, that's Rudolf nii‐san's voice.`
+char_rud: `{n}Rudolf nii‐san is very shrewd.`
+char_rud: `{n}So he hated the stupid kid Rosa.`
+char_rud: `When Krauss nii‐san was around, he was friendly with Krauss nii‐san.`
+char_rud: `{n}When Eva nee‐san was around, he was friendly with Eva nee‐san.`
+char_rud: `...And when Krauss nii‐san wasn't around, he was violent like Krauss nii‐san,`
+char_rud: ` and when Eva nee‐san wasn't around, he played dirty like Eva nee‐san.`
+char_rud: `And even though he too was bullied most of the time,`
+char_rud: ` when Krauss nii‐san and Eva nee‐san weren't around, he gave me two people's worth of bullying.`
+char_rud: `......So I really hated Rudolf nii‐san.`
+char_rud: `......Oh, but these are my memories from when I was a kid.`
+char_rud: `Quite a lot of unfair things happen when you're a kid.`
+char_rud: `{n}And you can't drag them out forever.`
+char_rud: `In time, you bury them away in the far reaches of memory, and forget them bit by bit; that is supposed to be what it means to grow up, and become an adult.`
+char_rud: `So becoming an adult is the same thing as separating yourself from all of those memories.`
+char_rud: `And so.`
+char_rud: ` No matter how much time passed, Rosa couldn't become an adult.`
+char_rud: `......Even though she had been blessed with a daughter called Maria and was called a mother,`
+char_rud: ` ...she didn't at all feel like she had become an adult.`
+char_rud: `The witch pitied that.`
+char_rud: `And she smiled, saying that she could heal that pain herself.`
+char_bea: `"......How to heal you.`
+char_bea: ` It's possible, but not easy.`
+char_bea: ` ...I could even rewind time, and give you a world where you have no elder siblings."`
+char_bea: `"But that way, your "memories of being hurt by your elder siblings" wouldn't remain,`
+char_bea: ` and therefore, you would be unable to acknowledge it as a reward."`
+char_bea: `"It is the relieving of hunger that brings satisfaction.`
+char_bea: ` If you erase hunger itself, no one will thank you.`
+char_bea: ` Just like how there are no young people who give thanks for their daily gluttony.`
+char_bea: ` ......Understand?"`
+char_non: `I think she just told me something really difficult.`
+char_non: `...In short, even if she makes it so that I never had elder siblings, the pain wouldn't be removed,`
+char_non: ` maybe that's what she's saying.`
+char_non: `Strictly speaking, it's different.`
+char_non: `{n}Healing isn't the same thing as removing pain.`
+char_non: `{n}It's the pleasure earned for withstanding pain.`
+char_non: `Therefore, there can be no healing without pain.`
+char_non: `{n}To know the joy of healing, you have to know the pain.`
+char_bea: `"In that case, ......you will require joy that compensates for your pain.`
+char_bea: ` You can feel proud of the past you have suffered.`
+char_bea: ` Because you are qualified to know a kind of pleasure that those who have not known suffering cannot taste.`
+char_bea: ` ...Those that have known this pleasure cannot help but give the same joy to others...`
+char_bea: ` *cackle*cackle*..."`
+char_non: `The witch snapped her fingers, and even though the room was still filled with a mountain of gold,`
+char_non: ` and was already like something from another world, a fabulous tablecloth appeared on top of the table,`
+char_non: ` and wonderful cooking was laid out, almost as though it was the opening of a banquet in a castle from some fairy tale.`
+char_non: `For an instant, Rosa felt a pleasurable surprise at how fabulous it was,`
+char_non: ` ...but at the same time, she felt a bit of anticlimax.`
+char_non: `Because she found herself thinking that being bullied by her siblings...`
+char_non: `couldn't be wiped away by just one meal, no matter how delicious.`
+char_bea: `"Food contains many of the human pleasures.`
+char_bea: ` You must eat like a pig as long as you live."`
+char_bea: `"If one meal isn't enough, then as many as you want.`
+char_bea: ` Let us continue this gourmet banquet until the pain of your heart is healed.`
+char_bea: ` ......Begin, furniture."`
+char_non: `As the witch clapped twice,`
+char_non: ` there were suddenly goat‐head servants there, and they began to prepare the meal.`
+char_non: `From the beautiful food dishes adorning the table, they efficiently took some food and began to pile it up on Rosa's plate.`
+char_non: `It really did look delicious, but Rosa's body still felt as heavy as lead,`
+char_non: ` and there was no way she could eat.`
+char_non: `Maybe they also understood that.`
+char_non: `The goat‐head servants tied a napkin around Rosa's collar,`
+char_non: ` and gallantly brought a glass of before‐dinner alcohol to her mouth, and even tilted it for her.`
+char_non: `She remembered an old servant who had once carried rice porridge to her mouth when she was laid up with a high fever.`
+char_non: `She couldn't drink it well, and it dripped down from her mouth, but she felt the fragrant sweetness spread throughout her mouth.`
+char_bea: `"It's a sweet aperitif of noble rot German‐made wine.`
+char_bea: ` A wine cocktail of white wine tinged with crimson golden drops."`
+char_bea: `"If I had to give it a name, I'd call it a Bloody Krauss.`
+char_bea: ` The color comes solely from golden drops of your brother's blood, obtained by placing him in a compressor."`
+char_ros: `"Bghk......?! *cough*, *cough*......!!"`
+char_non: `Rosa coughed violently.`
+char_non: ` And the bright red that stained her face made it look as though she had coughed up blood.`
+char_bea: `"You know a lot about black tea, so you should know what it means, right?`
+char_bea: ` "Golden drop" refers to the last drop.`
+char_bea: ` It is called the most precious drop in black tea."`
+char_bea: `".........So a golden drop of blood is the same.`
+char_bea: ` The last and most precious drop of blood squeezed out of a human.`
+char_bea: ` It's squeezed with that."`
+char_non: `As the witch snapped her fingers, a bright red veil was pulled off something large which had not been there moments ago.`
+char_non: `......The solemn and massive machine there was just like...`
+char_non: `a coffin for a large‐sized person, with many large bulb‐like things stuck to it,`
+char_non: ` and it looked like a sinister torture device.`
+char_non: `By its unnerving shape,`
+char_non: ` you could tell that it used manpower to tighten and compress something.`
+char_non: `...And it seemed that there were still some squeezed dregs remaining inside,`
+char_non: ` because of the bright red remains that stained it.`
+char_bea: `"But you can't take more than one golden drop at once.`
+char_bea: ` No matter what kind of human you take it from, you can't get more than one drop.`
+char_bea: ` But I am a witch.`
+char_bea: ` It is also easy to revive a person."`
+char_non: `When the witch snapped her fingers, suddenly, the human compressor began to shake.`
+char_non: ` ...No, you could also hear a groan.`
+char_non: `......It looked almost as though someone had been sleeping in that man‐sized coffin,`
+char_non: ` had woken up, and was now struggling to get out.`
+char_non: `But that was wrong.`
+char_non: `{n}What was inside had definitely {i:been squeezed dregs}.`
+char_non: `Using her magic, the witch had once again revived the squeezed dregs to how they had been before they were squeezed.`
+char_non: `Three goat‐head servants with muscular physiques approached the compressor, and forcefully started tightening the large bulbs.`
+char_non: `...As they did, an unearthly moan came from the inside of the coffin.`
+char_non: `{n}...Rosa thought she knew the owner of that voice.`
+char_bea: `"It is fitting for cooking to be done in the kitchen.`
+char_bea: ` That is enough, stand back."`
+char_bea: `"......Do you understand now how precious a golden drop is?`
+char_bea: ` To have it stained this crimson requires that {i:several dozen people's worth} be squeezed."`
+char_non: `The witch had definitely said that only one golden drop could be taken from a single human.`
+char_non: `And yet, she had dozens of people's worth of golden drops from a single human.`
+char_non: `{n}......Only a witch could do this.`
+char_non: `The Golden Witch {f:5:Beatrice} could kill a single human "endlessly".`
+char_non: `......In other words, before {f:5:Beatrice}, even death did not mean release.`
+char_bea: `"Want a second sip?`
+char_bea: ` Have you forgotten the day this man hit you, and you swallowed the blood that ran into your mouth?"`
+char_bea: `"That's right, remember that taste.`
+char_bea: ` Remember the taste of the tears that you spilled until you were dry.`
+char_bea: ` I believe this aperitif will be sufficient to heal that regrettable memory.`
+char_bea: ` *cackle*cackle*!!"`
+char_non: `Once again, the goat‐head servants tilted the deep red glass against her mouth.`
+char_non: `...Rosa attempted to close her lips in resistance,`
+char_non: ` but the deep red liquid was relentlessly poured into her mouth, which was hanging open with shock,`
+char_non: ` and the inside of her mouth was filled with a ghastly sweetness...`
+char_non: `It was definitely a fragrant sweetness.`
+char_non: `Her brother, who she had thought of so hatefully, and who had made her soak her pillow so many times,`
+char_non: ` had died dozens of times over to tinge this wine crimson, so it must have tasted sweet.`
+char_non: `But Rosa tried to spit it out.`
+char_non: `Because of that, the deep red wine that spilled out of Rosa's mouth made her look as if she was covered in blood.`
+char_non: `......If this ghastly substance was only the aperitif,`
+char_non: ` Rosa couldn't help but feel uncomfortable about what would happen if this banquet continued.`
+char_bea: `"That is a forked‐tongued salad made from vegetables in season.`
+char_bea: ` ...On your ninth birthday, you wished you could bite it off someday—so here is that salad you desired, made from Eva's tongue."`
+char_ros: `"........................!!!"`
+char_non: `When Rosa heard the true nature of the pink‐colored meat piled up in the salad,`
+char_non: ` she had a sudden impulse to vomit her guts out.`
+char_non: `...Furthermore, the goat servants stuck a fork in it, and carried it to Rosa's mouth.`
+char_bea: `"How does your sister's forked tongue taste?`
+char_bea: ` It must be quite soft and enchanting, right?`
+char_bea: ` *cackle*cackle*!"`
+char_non: `How sweet, soft and enchanting it must have tasted in her mouth.`
+char_non: `After all, Eva's lies were always sweet, and young Rosa had always listened to them.`
+char_non: `...So you could say that the taste of the stimulating pepper seasoning that had been added expressed the details of those lies well.`
+char_ros: `"......mnnnnnnnnnnn!!`
+char_ros: ` mnnnnnnnnnnnnnn!!"`
+char_non: `Rosa spat out the tongue salad that kept being pushed into her mouth, covering it with saliva.`
+char_non: `But the goat‐head servants carefully returned it to the plate and carried it to Rosa's mouth over and over again.`
+char_bea: `"It goes without saying, but I made this salad generously using five of Eva's tongues.`
+char_bea: ` You can't steal more than one tongue out of one person.`
+char_bea: ` But I can steal it over and over.`
+char_bea: ` *cackle*cackle*!!"`
+char_ros: `".........nnnnnnnnnnnnnnn!!`
+char_ros: ` nnnnnnnnnnnnnnnnnnnnn!!"`
+char_non: `As Rosa's tears dripped down, she resisted, half‐crazed.`
+char_non: `{n}However, the only way she could resist was by refusing to swallow.`
+char_non: `Even if she didn't swallow it,`
+char_non: ` the taste of the french dressing increasingly violated Rosa's mouth...`
+char_bea: `"Is it not to your satisfaction...?`
+char_bea: ` There's still much more food.`
+char_bea: ` Sea bass pie wrapped in the skin of Rudolf's face.`
+char_bea: ` Soup with boiled brains, liver pate.`
+char_bea: ` And look forward to dessert, *cackle*cackle*!!"`
+char_bea: `"It's not just your siblings, see?`
+char_bea: ` I have lavishly arranged all of those who you have trusted and yet betrayed you.`
+char_bea: ` Why don't we continue this banquet for all eternity, until your heart is satisfied.`
+char_bea: ` For all eternity."`
+char_bea: `"......You're happy, riiiight, Ushiromiya Rosaaaa?`
+char_bea: ` Don't pretend that you hate it I know that you're really happy alriiight?`
+char_bea: ` If you want to laugh, then laugh,`
+char_bea: ` if you won't feel better until you've heard a live performance of your annoying elder siblings' screams, then I'll let you hear them as often as you want."`
+char_bea: `"It's alright that you are so unwilling.`
+char_bea: ` That's your personality, isn't it?`
+char_bea: ` You're actually so happy that your skin is crawling all over.`
+char_bea: ` And yet, on the outside, you're just pretending to act like you're in pain, aren't youuu?"`
+char_bea: `"It's alright, there is no need to worry about honor or your public image or anything here,`
+char_bea: ` so laugh as much as you want and chew it to bits.`
+char_bea: ` Isn't this the bessst banquet, Ushiromiya Rosaaaa{-}a{-}a{-}a{-}a{-}a{-}a{-}a{-}a{-}a{-}a{-}a{-}a{-}a{-}a{-}a{-}a{-}a{-}a{-}aaaaa???"`
+char_ros: `".........st‐`
+char_ros: ` .........please,`
+char_ros: ` ......stop......`
+char_ros: `...*cough*, *hack*!!`
+char_ros: ` uweghhh..."`
+char_bea: `"Oh, I'm sorry, I was keeping the dessert a secret to surprise you, but let me reveal it anyways.`
+char_bea: ` If I reveal it, maybe that will be enough incentive for you to eat up the full course."`
+char_bea: `"The dessert is that beloved daughter that you had to keep pretending to love,`
+char_bea: ` oven‐baked Maria and apples.`
+char_bea: ` Doesn't that sound yummyyyy?"`
+char_bea: `"If you eat this, you will be released from everything.`
+char_bea: ` Freedom, you see, freedom!`
+char_bea: ` Finally Rosa will gain freedom as an individual person, aren't you happyyyy{-}y{-}y{-}y{-}y{-}y{-}y{-}y{-}yyyyyy?`
+char_bea: ` Of course you are, drool is hanging from your mouth, just try looking in a mirroooo{-}o{-}o{-}o{-}o{-}o{-}o{-}o{-}o{-}o{-}ooooor, hyaha{0}haaa{0}haa{0}haa{0}haha!!"`
+char_non: `Suddenly, a muscular goat‐head cook was holding Maria under his arm.`
+char_non: `And Maria gazed at Rosa with a face that was just slightly sad.`
+char_mar: `"............Mama...`
+char_mar: ` ......Was I......a burden......?"`
+char_ros: `"...nnnnnnn!`
+char_ros: ` You aren't a burden!!`
+char_ros: ` nnnnnnnnnnnnnnnnnn!!"`
+char_non: `As Rosa spat out the food that was continually being carried to her mouth,`
+char_non: ` as she was covered with mess and saliva and blood, she resisted filthily and screamed.`
+char_mar: `"......If you...`
+char_mar: `think I'm a burden, Mama,`
+char_mar: ` ......I'm fine being eaten."`
+char_mar: `".........After all, I always do horrible things to you, Mama.`
+char_mar: ` Even when you brought a man over, I couldn't stay quiet.`
+char_mar: ` When you stayed over with a man, I got lonely and unruly and made a mess of the room."`
+char_mar: `"When I went to search by myself, I got lost, the police had to pick me up and I brought shame on you, Mama.`
+char_mar: ` When you didn't come home for days, I cried and had to be cheered up by the neighbors, and brought shame on you again, Mama."`
+char_mar: `"Because I'm like this, I cause trouble for you, Mama.`
+char_mar: ` I'm sorry for being born.`
+char_mar: ` So I'll become delicious oven‐baked apples for you, Mama."`
+char_mar: `"And then, maybe I can make you happy I exist for the first time.`
+char_mar: ` Maybe, if you eat me and you think I'm delicious."`
+char_bea: `"She will be, riiiiiiiiiiiiiiiight?`
+char_bea: ` Be choked up with tears of gratitude your daughter is saying this much for you seeeeeee?`
+char_bea: ` Oven‐baked apples and your beloved daughter make for the best dessert!`
+char_bea: ` You've managed to raise such delicious ingredients,`
+char_bea: ` aren't you the best mother, Ushiromiya Rosaaa{-}a{-}a{-}a{-}a{-}a{-}a{-}a{-}a{-}a{-}aaaaaa???"`
+char_mar: `".........Mama, thanks for everything.`
+char_mar: ` Bye bye."`
+char_ros: `"Wait!!`
+char_ros: ` Wait, Maria, that's wrong!!`
+char_ros: ` Stop it already, stop it already,`
+char_ros: ` noooo{-}o{-}o{-}o{-}o{-}o{-}o{-}o{-}o{-}o{-}o{-}o{-}o{-}o{-}o{-}ooooo!!`
+char_ros: ` I didn't want something like this!"`
+char_ros: `"Please stop, please let me go!!`
+char_ros: ` No,`
+char_ros: ` stop it already,`
+char_ros: ` don't put it...in my mouth...`
+char_ros: ` uuuuulg,`
+char_ros: ` gweeeeeeeeeeeeehh!!"`
+char_bea: `"Have you found my hospitality to your satisfaction...?`
+char_bea: ` Then I'll have you accept it.`
+char_bea: ` That I am a witch.`
+char_bea: ` Proclaim it.`
+char_bea: ` Proclaim that "Ushiromiya Rosa accepts that {f:5:Beatrice} is a witch"!!"`
+char_ros: `"......I accept it!!`
+char_ros: ` U‐Ushiromiya Rosa...`
+char_ros: `...accepts that B‐{f:5:Beatrice}...`
+char_ros: `...is a witch!!`
+char_ros: ` So give Maria back!!`
+char_ros: ` Release meeeeeee{-}e{-}e{-}eeeee!!"`
+char_bea: `"*cackle*cackle*, hahaha{0}ha{0}ha{0}ha{0}ha{0}ha{0}ha{0}ha{0}ha{0}hah‐hah‐hah‐hah‐hah‐ha!!`
+char_bea: ` I finally made you accept it!!`
+char_bea: ` That smart‐alecky Battler has already submitted, and now I've made even Rosa accept it, the fool who denied me after being invited to the Golden Land!!`
+char_bea: ` Perfect!!`
+char_bea: ` <It's perfect!!>"`
+char_bea: `"I've accomplished my perfect victory!!`
+char_bea: ` *cackle*, haha{0}ha{0}ha{0}ha{0}ha{0}ha{0}hakya‐HAH‐HAH‐HAH‐HAH‐HAH‐HA!!`
+char_bea: ` Now, take Maria away, prepare a delicious oven roast for Rosa!!"`
+char_ros: `"Nooooooooooooooooooooooo, Mariaaaaa{-}a{-}a{-}a{-}a{-}a{-}a{-}a{-}a{-}a{-}a{-}a{-}aaaaaa!!"`
+char_but: `"Looks delicious.`
+char_but: ` Slice up your cow tits and make me a sandwich."`
+char_bea: `"Wha‐......th‐that voice!!`
+char_bea: ` Ooof?!"`
+char_non: `An arm grabbed the back of the witch's head and smashed her face into the table.`
+char_non: `As it did, the witch broke to pieces, turned into a group of gold butterflies, and reformed into her body a short distance away.`
+char_bea: `"Ba‐.........Battler?!?!`
+char_bea: ` Y‐......you cursed man,`
+char_bea: ` ...I, I thought you became furniture, that you submitted down to your very soul!!"`
+char_but: `"I thought I did too.`
+char_but: ` ...But while I was listening to your gross recipes, I started to get a little hungry."`
+char_but: `"Now I feel like eating a whole roast witch!!"`
+char_but: `"And Maria.`
+char_but: ` It's ten years too early for you to talk about having someone eat you.`
+char_but: ` But in ten years, you have to say that to me. Promise."`
+char_mar: `"......Uu.`
+char_mar: ` Promise."`
+char_ros: `"Ba‐...Battler‐kun...!"`
+char_but: `"Sorry to keep you waiting, Auntie Rosa.`
+char_but: ` I had forgotten.`
+char_but: ` This was a one‐on‐one fight between me and this woman.`
+char_but: ` I was never supposed to give in.`
+char_but: ` ......Thanks to your persistence, I've regained my will to fight!!"`
+char_non: `......Th‐...this man, he was broken to the depths of his soul, and capitulated to me...`
+char_non: `......I see, he doesn't know when to give up, just what I'd expect from Ushiromiya Kinzo's grandson...!`
+char_non: ` So the chick of a phoenix is a phoenix after all...!`
+char_bea: `"Fu...fuhahahahahahahahaha, how vigorous, I like it!`
+char_bea: ` I wouldn't have it any other way!!"`
+char_bea: `"That is exactly what I expect from you, Ushiromiya Battler!!`
+char_bea: ` Try to deny me, I'll completely and thoroughly smash you to bits!`
+char_bea: ` I will break you over and over again, and I'll teach you, one who has licked my shoes, the taste of defeat over and over!!"`
+char_but: `"No problem, I'll teach you that I, Ushiromiya Battler, am a man who'll stand back up even after crawling in the mud!!"`
+char_but: `"I've never had the experience of being invincible in a fight.`
+char_but: ` I've lost many times."`
+char_but: `"But I always crawl through the mud and stand up again.`
+char_but: ` And I always finish what I started!!`
+char_but: ` In a man's fight, you don't lose until you accept defeat, no matter how much you get beat up!!"`
+char_but: `"Don't think I'm out just because you took a shot at me.`
+char_but: ` Entertain me, {f:5:Beatriceeeeeeeeeeeee}!!"`
+char_bea: `"I'll accept your challenge, Ushiromiya Battler!!`
+char_bea: ` Furniture, begin preparations for the next game!!"`
+char_bea: `"And while we're waiting, I have much I want to hear from you!`
+char_bea: ` There were many locked rooms in this game.`
+char_bea: ` Using red, I've smashed to bits most of the methods by which you tried to talk yourself out.`
+char_bea: ` What other evasive quibbles will you show me now?!!"`
+char_bea: `"The lock to the chapel, the lock to Jessica's room, the lock to the servant room, the lock to Natsuhi's room, the lock to the parlor!!`
+char_bea: ` Use all those things you humans are so good at pulling out of the blue,`
+char_bea: ` your delusions, rantings, daydreams, bluffs,`
+char_bea: ` all slanted with ridiculous, incredible turns of events, and show how you can thoroughly deny meeeeeeeeeeeeeeeeeeeeee!!"`
+char_but: `"Aaah, it's no good,`
+char_but: ` it's no goddamn good at aaaaaa{-}a{-}a{-}a{-}a{-}a{-}a{-}a{-}a{-}a{-}a{-}a{-}aaaaaaallllll!!!"`
+char_bea: `"Well then.`
+char_bea: ` ...Did you enjoy it?`
+char_bea: ` Our game just now."`
+char_ber: `"......A game that one‐sided goes beyond captivating and becomes boring."`
+char_bea: `"*cackle*cackle*. My, my, a harsh critic as always.`
+char_bea: ` ......And I was so certain that even Lady {f:5:Bernkastel}, who has no love for boredom,`
+char_bea: ` would surely be satisfied by this compelling development... How remorseless."`
+char_ber: `"...Well, I'll accept that it was compelling.`
+char_ber: ` ...However, it was horrible as a fair game.`
+char_ber: ` You need the conditions to be a little more even, or—"`
+char_bea: `"......Am I about to be told there's no way to win?`
+char_bea: ` By Lady {f:5:Bernkastel}?`
+char_bea: ` ......*cackle*cackle*."`
+char_ber: `"..................I wonder what you mean by that, Beato."`
+char_bea: `"There's no need to play ignorant.`
+char_bea: ` I already know.`
+char_bea: ` ...That you {i:aren't a bystander}."`
+char_ber: `"................................."`
+char_bea: `"You thought you were hiding it?`
+char_bea: ` How insolent, to travel all that way, and come into territory that isn't yours, just to bet against me.`
+char_bea: ` You came here planning to watch my game from the sidelines, while having a large stake placed in my defeat.`
+char_bea: ` I've guessed right, haven't I...?"`
+char_ber: `"...........................`
+char_ber: ` And if so?"`
+char_bea: `"......*cackle*cackle*!`
+char_bea: ` Truly interesting!"`
+char_bea: `"That I should be granted a chance to fight against Lady {f:5:Bernkastel}, the strongest of witches who defeated Lady {f:5:Lambdadelta}, is truly a pleasure!!"`
+char_ber: `"......Yes.`
+char_ber: ` It is pleasing me too.`
+char_ber: ` After all, I came all this way just because I wanted to see you brimming with that confidence, only to fall apart and lose."`
+char_bea: `"What an honest person.`
+char_bea: ` *cackle*cackle*!!"`
+char_bea: `"Incidentally, if the contest between me and the great Lady {f:5:Bernkastel}...`
+char_bea: `were not to have at least one observer, what a tremendous shame that would be."`
+char_ber: `".................................`
+char_ber: ` ...You called her, didn't you.`
+char_ber: ` That child."`
+char_lam: `"Hoh‐hoh‐hoh‐hoh‐ho!`
+char_lam: ` I found you, I finally found you, {f:5:Bernkastel}!!"`
+char_ber: `"............How are you, Lambda?`
+char_ber: ` Looks like you also have time to kill.`
+char_ber: ` ...I wonder if it's fate that we who share no love for boredom should run into each other again...?"`
+char_lam: `"Such a dumb kid.`
+char_lam: ` Why can't you realize that the only reason you won against me was because of a little luck and a not‐so‐great matchup?`
+char_lam: ` That made you so snobby, and now you're even picking a fight with {f:5:Beatrice}? Shouldn't you learn your place?"`
+char_lam: `"*giggle*, {f:5:Beatrice} is strong, you know.`
+char_lam: ` And she's more brutal than I am.`
+char_lam: ` Just a teensy bit!"`
+char_lam: `"Oh and also, don't just shorten someone's name to Lambda!"`
+char_ber: `".........You're a fool too, Beato.`
+char_ber: ` This kid won't make exceptions for your game, she'll turn everything into a preposterous farce."`
+char_bea: `"I didn't bring Lady {f:5:Lambdadelta} here solely to watch from the sidelines."`
+char_bea: `"After I informed her that you were betting against me, she said that she would bet against you."`
+char_ber: `"..............................You're still holding a grudge, aren't you."`
+char_lam: `"Hoh‐hoh‐hoh‐ho!!`
+char_lam: ` 'Cause I'm the strongest witch in the universe.`
+char_lam: ` But I lost to you so I'm not the strongest!"`
+char_lam: `"So I'm taking the side of anyone who's against youuuu!!"`
+char_bea: `"*cackle*cackle*!`
+char_bea: ` There you have it.`
+char_bea: ` With the great Lady {f:5:Bernkastel} as our opponent, this may not even count as a handicap, but it will be suitable for entertainment."`
+char_ber: `"...............Do as you like.`
+char_ber: ` ...Now that the cat's out of the bag, I'm going to get serious."`
+char_bea: `"That would be suitable.`
+char_bea: ` "Leniency" has never featured in my dictionary.`
+char_bea: ` *cackle*cackle*cackle*cackle*cackle*!`
+char_bea: ` Lady {f:5:Lambdadelta}, let us enjoy our valuable new relationship."`
+char_lam: `"Yes, I'll be counting on you, Lady {f:5:Beatrice}!`
+char_lam: ` This girl really put me through the wringer.`
+char_lam: ` I'm not gonna be happy until the two of us have smushed her up and paid her back double!!"`
+char_ber: `"............I look forward to it, Lambda.`
+char_ber: ` And Beato.`
+char_ber: ` ...No matter who wins or who loses, this will be a very meaningful battle for us."`
+char_lam: `"That's right.`
+char_lam: ` Of course, I'm not gonna lose easy, but this is more important than winning and losing."`
+char_bea: `"After all, we have no love for boredom."`
+char_non: `The three witches giggled, cackled, and guffawed.`
+char_ber: `"......That's right.`
+char_ber: ` I should thank you, Beato.`
+char_ber: ` It looks like I can finally escape boredom.`
+char_ber: ` Do your best to entertain me.`
+char_ber: ` Together with {f:5:Lambdadelta}."`
+char_bea: `"I shall do just that.`
+char_bea: ` *cackle*cackle*...!!"`
+char_lam: `"That's that, Beato, so let's start a strategy meeting right now!`
+char_lam: ` I know all of this girl's weak points, and I'm gonna teach you all of them!"`
+char_bea: `"And yet, Lady {f:5:Lambdadelta}, you were defeated by her, I note... *cackle*cackle*...!"`
+char_lam: `"Urrrrrrrrgggh, I won't tell you, I won't tell you!`
+char_lam: ` Tsuun!"`
+char_bea: `"*cackle*cackle* hahhahahahahahaha!`
+char_bea: ` ...She never bores, that Lady {f:5:Lambdadelta}."`
+char_ber: `"............She doesn't, does she?`
+char_ber: ` Take care of her.`
+char_ber: ` She might not look it, but she gets lonely."`
+char_bea: `"I see.`
+char_bea: ` So she's one of those newfangled whatchamacallits.`
+char_bea: ` *cackle*, as expected from Lady {f:5:Lambdadelta}.`
+char_bea: ` Quite cutting edge.`
+char_bea: ` *cackle*cackle*cackle*cackle*."`
+char_ber: `"Go already.`
+char_ber: ` That child's waiting for you to chase after her."`
+char_bea: `"......Then, if you'll excuse me."`
+char_bea: `"See you next game.`
+char_bea: ` *cackle*cackle*cackle*cackle*cackle*!"`
+char_ber: `......I'm sorry.`
+char_ber: ` A troublesome one came, but don't mind her.`
+char_ber: `More importantly,`
+char_ber: ` .........things sure got ugly.`
+char_ber: `I thought I had experienced some particularly gruesome ends in my game with Lambda,`
+char_ber: ` .........but this time, ......it's exceptionally horrible.`
+char_ber: `...It isn't as though I don't understand your desire to hug your knees and close your heart.`
+char_ber: `If you meet that end several more times,`
+char_ber: ` your heart will be killed within a hundred years.`
+char_ber: `......Beato saw through me, so I'll confess.`
+char_ber: `You are now just like I was in the past, when I was imprisoned inside Lambda's world.`
+char_ber: `Shut inside a labyrinth of cruel fate, tormented at the whims of a witch.`
+char_ber: `...I am a witch who was born from there.`
+char_ber: `......So maybe I'm like an older sister to you.`
+char_ber: `{n}`
+char_ber: ` So I decided that I'd lend you my power.`
+char_ber: `However,`
+char_ber: ` ............even compared to my fate,`
+char_ber: ` ......yours is...truly brutal.`
+char_ber: `Not only do I sympathize with you, I'm almost brought to tears by your tragic fate.`
+char_ber: `But please, don't lose heart.`
+char_ber: `{n}`
+char_ber: `Please don't submit to Beato, no matter what.`
+char_ber: `Certainly, that child's game is quite unfair.`
+char_ber: `I took a glimpse of the game board, and the tricks are so mean and cunning,`
+char_ber: ` and the scenic tricks are filthy to a degree that probably far surpasses that of {f:5:Lambdadelta}'s game board.`
+char_ber: `And what's even more frightening is that when that child moves a piece, it's not like she always makes the best possible move.`
+char_ber: `This is where she is very different from Lambda.`
+char_ber: `{n}`
+char_ber: `Lambda always uses an overpowering number of pieces and makes the best possible move, in order to win.`
+char_ber: `But Beato sometimes intentionally eases up when she moves her pieces.`
+char_ber: `This is unfortunate for us, trying to seek out our opponent's strategy by looking at her moves,`
+char_ber: ` because it creates a formidable amount of noise in our information.`
+char_ber: `This disorder could be troublesome.`
+char_ber: `......However, as in chess,`
+char_ber: ` a player might be able to create some noise for their opponent with a useless move, but they would still miss out on a more valuable move.`
+char_ber: `In other words, it's not like your opportunities to take advantage of it are zero.`
+char_ber: `Although you may not be able to believe it, this game was also like that.`
+char_ber: `......Even though those developments looked so overpowering,`
+char_ber: ` ...there actually were weak points.`
+char_ber: `It looks almost as if she wants us to take advantage of them.`
+char_ber: `......Although, I don't know if it's a trap or if she's testing us.`
+char_ber: `Anyway, don't surrender.`
+char_ber: `{n}`
+char_ber: `Don't stop thinking.`
+char_ber: `{n}`
+char_ber: `Don't deny any possibility.`
+char_ber: `As long as you continue to hold the will to fight, Beato will not win.`
+char_ber: `Defense is crucial during a witch's battle, you know?`
+char_ber: `{n}`
+char_ber: `Rather than trying to win, try not to lose.`
+char_ber: `...If you lose when you accept her, then you definitely must not accept her.`
+char_ber: `......Making you accept witches.`
+char_ber: `{n}`
+char_ber: `There is no longer any doubt that this is one of {f:5:Beatrice}'s victory conditions.`
+char_ber: `Now that I have announced that I am your ally, I too will make an effort to lend you as much of my power as I can.`
+char_ber: `Make an effort yourself as well.`
+char_ber: `If you're still hugging your knees, quickly stand back up.`
+char_ber: `......Umm, in times like this, what did I use to say again?`
+char_ber: `.........Umm, uh,`
+char_ber: `{n}`
+char_ber: ` .........Fi‐`
+char_ber: `...fight,`
+char_ber: ` yea~h.`
+char_ber: ` Mii,`
+char_ber: ` nipah~{p:0:☆}`
+char_ber: `..................It's so embarrassing, doing this.`
+char_ber: `......I've done this much for you, so hurry and stand back up.`
+char_lam: `"...Ah, there you are.`
+char_lam: ` Did Bern shrink off somewhere?`
+char_lam: ` *giggle*, could she be any more lame?"`
+char_lam: `Anywho.`
+char_lam: `{n}`
+char_lam: `The pieces Bern chooses are crummy as usual, huh.`
+char_lam: `It's the same with chess, right?`
+char_lam: `{n}`
+char_lam: `If all your pieces were pawns, you'd have zero chance to win, right?`
+char_lam: `{n}`
+char_lam: `If all your pieces were rooks and bishops, no way you'd lose.`
+char_lam: `......W‐well, last time, I felt just a little pity and said that she could start her pieces anywhere she wants,`
+char_lam: ` and then that idiot Bern totally didn't pick up on my compassion and started with aaall of her pawns promoted on the eighth rank!!`
+char_lam: `What's up with that, that wasn't a loss or anything!!`
+char_lam: ` Aaah, just remembering that makes me queasy.`
+char_lam: `So, see, I'm gonna be ruffled until I see Bern's stupid speechless face.`
+char_lam: `So it's like, seeing you in this state as Bern's piece, that makes me feel just awesome!`
+char_lam: `Plus, believe it or not, that girl really hates to lose,`
+char_lam: ` so I bet she's definitely grinding her teeth in frustration right about now, crying like a baby,`
+char_lam: ` she's so lame, *giggle*, hohhh‐hoh‐hoh‐hoh‐hoh‐ho!`
+char_lam: `C'mon, laugh with me, oh‐hoh‐hoh‐hoh‐ho!`
+char_lam: `............Wait a sec.`
+char_lam: `{n}`
+char_lam: `Are you still hugging your knees?`
+char_lam: `You're already like this just because Beato got a little serious?`
+char_lam: `Could you be any more pathetic?`
+char_lam: `You're so pathetic, I'll help you just a little bit.`
+char_lam: `I, the great Lady {f:5:Lambdadelta}, the Witch of Certainty and the strongest in the universe,`
+char_lam: ` will bring your hopeless chances of winning just a teensy bit closer to certainty.`
+char_lam: ` You better thank me.`
+char_lam: `You know, {f:5:Beatrice} may really be a cruel and powerful witch, but she's no match for me.`
+char_lam: `Why?`
+char_lam: ` 'Cause she's soft.`
+char_lam: `That kid will make the board so she can win with just a few more moves, but she deliberately won't finish you off.`
+char_lam: `She'll do stuff like take worthless pieces, or put way too many pieces on the board to make things even more one‐sided.`
+char_lam: `The point is, she's got this bad habit of playing around when she thinks she's going to win.`
+char_lam: `Almost all the various attacks that are painful for you and Bern...`
+char_lam: `look like a total waste and overkill to me.`
+char_lam: `...Basically, that's her weakness, and it's also your chance.`
+char_lam: ` See?`
+char_lam: ` She isn't an opponent to be afraid of, right?`
+char_lam: `She sometimes mistakes the means for the end.`
+char_lam: `{n}`
+char_lam: `And she has too much bad fun.`
+char_lam: `{n}`
+char_lam: `As a result, she makes and even exposes her own weak points.`
+char_lam: `It's impossible for a strongest‐ever witch like me to understand why she acts so relaxed.`
+char_lam: `Lowering her own chances of winning.`
+char_lam: `.........But, well.`
+char_lam: `That's why the type of witch like Bern who reads her opponent and dodges their moves has a really bad matchup with her.`
+char_lam: ` 'Cause reading her doesn't work.`
+char_lam: `...It's probably really easy for Bern to read and handle an obedient and honest type like me.`
+char_lam: ` That makes me so mad!`
+char_lam: `...Well, still, a super‐firepower type like me can easily go head‐on against a light, wide‐range barrage type like {f:5:Beatrice},`
+char_lam: ` so I guess it's kinda like rock‐paper‐scissors.`
+char_lam: `If I'm paper, Beato's rock.`
+char_lam: `{n}`
+char_lam: `I guess Bern would be scissors.`
+char_lam: `{n}`
+char_lam: `Weeelll, maybe none of that matters anyway.`
+char_lam: `Sure, my paper loses to Bern's scissors,`
+char_lam: ` but if it was the way more awesome super‐paper, which is as thick as wood, it could even beat scissors, right?!`
+char_lam: `In other words, I, Lady {f:5:Lambdadelta},`
+char_lam: ` am super‐paper, and super‐thick!`
+char_lam: `{n}`
+char_lam: ` Hoh‐hoh‐hoh‐ho!`
+char_lam: `It looks like the color's come back to your face a little.`
+char_lam: `{n}`
+char_lam: `That Beato, she's having fun torturing some piece called Rosa.`
+char_lam: `At a glance, you'd think she has really nasty hobbies, right?`
+char_lam: `{n}`
+char_lam: ` Wrong, though!`
+char_lam: `......She's just killing time, hoping you'll get up and come back.`
+char_lam: `It's a move to fire up your righteous indignation by doing something to make you hate her on purpose.`
+char_lam: `Ah man, I hate kids like that!`
+char_lam: `Well then, I'll go back.`
+char_lam: `Ah!`
+char_lam: ` Don't you tell anyone that I helped you out just a teensy bit!`
+char_lam: `I mean, it's not like I helped you because I wanted to save you, okay?!`
+char_lam: `I, the strongest witch in the universe, had my seat as the strongest stolen when I lost to Bern!`
+char_lam: `So it's like, I have to take that seat back from Bern,`
+char_lam: ` but if Bern loses to Beato here, then the position of the strongest will be moved to Beato this time, right?!`
+char_lam: `...Well, it'd be easier to steal it back from Beato, so who cares really, but that won't satisfy me, you know what I mean?!`
+char_lam: `I'm gonna be the one to defeat Bern!`
+char_lam: `{n}`
+char_lam: `And I'll take back my position as the strongest!`
+char_lam: `It's not like I'm really helping you, okay?!`
+char_lam: `{n}`
+char_lam: `I won't forgive you if you make Bern cry!`

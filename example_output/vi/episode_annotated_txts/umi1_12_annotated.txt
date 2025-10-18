@@ -1,0 +1,1316 @@
+char_non: `Lunch had ended, and the servants had removed the tableware, and were now in the kitchen.`
+char_non: `{n}The wind and rain had neither weakened nor strengthened, and the island remained cut off from the outside world.`
+char_non: `It seemed that, at first, Natsuhi had planned not to let anyone set one foot outside the room,`
+char_non: ` but when it came time to prepare lunch, she finally realized that this was impossible.`
+char_non: `However, in order to avoid having anyone alone in the kitchen, she told the three servants to go together.`
+char_non: `Because of that, the servants were the first ones given the right to leave the stuffy parlor, which had been packed with eleven people.`
+char_non: `......Since breakfast had immediately followed that terrible incident,`
+char_non: ` and many of them hadn't eaten much, everyone tore into their lunches in silence.`
+char_kum: `"I will wash the dishes, so you can rest a while, Genji‐san, Kanon‐kun.`
+char_kum: ` ...Do you want something to drink?"`
+char_gen: `".........Nothing for me.`
+char_gen: ` .........Kanon?"`
+char_kan: `"......Nothing for me either."`
+char_kum: `"You two must have been so busy, and so early in the morning...`
+char_kum: ` It's no wonder you're worn out..."`
+char_non: `The only sound was that of Kumasawa washing the dishes, which resounded throughout the kitchen.`
+char_non: `Genji and Kanon sat in some chairs a short distance away, their eyes lightly closed.`
+char_non: `Just as Kumasawa had said, those two had probably built up a great deal of fatigue.`
+char_non: `But that didn't mean they could let it show in front of the relatives.`
+char_non: `...Avoiding that was one of their virtues.`
+char_non: `After the silence had continued for some time,`
+char_non: ` .........Kanon opened his mouth and muttered.`
+char_kan: `"...............Shannon...`
+char_kan: ` ...............Why...did she have to die in such a horrible way...?"`
+char_gen: `"......Forget about how she died.`
+char_gen: ` .........It was nothing more than...bad luck."`
+char_kan: `".........You're right.`
+char_kan: ` ...It was nothing more than bad luck..."`
+char_non: `They both fell silent once again.`
+char_non: ` ...Kanon's expression was filled with grief.`
+char_kum: `"To think that Shannon‐chan's actually dead...`
+char_kum: ` I still can't believe it.`
+char_kum: ` ......Poor, poor Shannon‐chan...`
+char_kum: ` ......Not being able to meet her again feels like a lie...`
+char_kum: ` I just wanted to see that girl's smiling face one more time..."`
+char_non: `Kumasawa spoke with her back facing them.`
+char_non: `...Kumasawa hadn't seen Shannon's corpse,`
+char_non: ` so she had no trouble mentioning Shannon's face.`
+char_non: `...When Kanon heard those words, it reminded him again of how only half of Shannon's face had been left, and his grieving expression twisted even further...`
+char_kan: `".........Why did {f:5:Beatrice}‐sama do that to Shannon...?`
+char_kan: ` ......If she wanted a sacrifice, there were plenty of others to choose from...`
+char_kan: ` ......Why... ......Why...?!"`
+char_gen: `".........It was nothing more than bad luck.`
+char_gen: ` ...If chance had fallen even slightly differently, it could have been me or you lying out there."`
+char_gen: `"Or even someone else.`
+char_gen: ` ......Everything is left to fate."`
+char_kan: `"Genji‐sama.`
+char_kan: ` .........You said that the door to Madam's room was stained with traces of something like blood, right...?`
+char_kan: ` The same substance that was painted on the shutter?"`
+char_gen: `"......Yes.`
+char_gen: ` ...It was an unpleasant mark.`
+char_gen: ` Almost as though someone with blood‐stained fingers had been trying to pull out the doorknob,`
+char_gen: ` ...no, scratch through the door...`
+char_gen: ` ...That sort of unpleasant mark."`
+char_kan: `"So does this mean that...{f:5:Beatrice}‐sama came to visit Madam's room,`
+char_kan: ` ......and tried to open the door, but...`
+char_kan: `couldn't...?`
+char_kan: ` Is that what this means...?"`
+char_non: `Genji thought back to the time he had seen those traces of blood on the door to Natsuhi's room...`
+char_non: `With the substance sticking to the door around the doorknob, and the marks of something scratching against the door...`
+char_non: `it had definitely appeared as though someone had tried to open the door,`
+char_non: ` but couldn't...`
+char_kan: `"...Why...`
+char_kan: `......was Madam not chosen as a sacrifice...?`
+char_kan: ` If only she had been chosen,`
+char_kan: ` ......Shannon wouldn't,`
+char_kan: ` ......Shannon wouldn't have had to die..."`
+char_non: `Just then, a loud, sharp noise resounded from the hall.`
+char_non: `{n}Both of them turned around, surprised.`
+char_but: `"........................Sounds like a pretty interesting discussion you're having.`
+char_but: ` Let me join in too."`
+char_non: `Battler was standing in the doorway to the kitchen.`
+char_kan: `"......Battler‐sama.`
+char_kan: ` Please, excuse me..."`
+char_non: `Genji‐san and Kanon‐kun stood up, surprised, and hastily bowed.`
+char_non: `...But I didn't care about stuff like that.`
+char_non: `{n}I was more concerned with continuing their discussion.`
+char_but: `"I told them I was going to the bathroom, so they let me go.`
+char_but: ` I thought I'd suffocate if I was locked up in that room any longer."`
+char_but: `"...When I was about to come ask you for some water, I overheard something pretty interesting.`
+char_but: ` ......You don't need to bow your heads or anything.`
+char_but: ` Please, let me hear the rest."`
+char_kan: `"............That just now......wasn't really......"`
+char_but: `"I've been listening to you for a while.`
+char_but: ` Don't try to hide it now."`
+char_but: `"............So I'll ask directly.`
+char_but: ` ...Who is this {f:5:Beatrice}?`
+char_but: ` She's supposed to be a witch from a kid's story, but it doesn't look that way now."`
+char_kan: `"........................"`
+char_non: `Kanon‐kun averted his gaze.`
+char_non: `...It was obvious that he didn't want to talk about this,`
+char_non: ` ...which only made me want to ask even more.`
+char_non: `While making an effort to smile, I grabbed the collar of his shirt.`
+char_but: `"......If it were last night, this'd be none of my business.`
+char_but: ` But after this morning, everything's changed.`
+char_but: ` Now that Dad and the rest have been killed, this is totally my business.`
+char_but: ` .........I have the right to listen to this suspicious story, don't I...?"`
+char_non: `I glared into Kanon‐kun's eyes as he still continued to look away, in apparent pain.`
+char_non: `...Since there was a big difference in our heights, Kanon‐kun had to stand on his toes, and it looked like it hurt a bit.`
+char_kum: `"............Battler‐san...`
+char_kum: ` ...Please let go of him...`
+char_kum: ` It's not like Kanon‐san is really hiding anything..."`
+char_but: `"Then you won't have any problem talking about it, right?`
+char_but: ` It's lonely being out of the loop, get it?"`
+char_non: `When I tried to further twist up his collar, Genji‐san cut between us and spoke.`
+char_non: `...There was a slight sense of resignation on his face.`
+char_non: `{n}......It looked like he didn't plan on hiding anything.`
+char_gen: `".........I can talk about it.`
+char_gen: ` ......Kanon only hesitated because you might have taken it badly, Battler‐sama..."`
+char_but: `"Hesitating isn't very manly, is it?`
+char_but: ` Keeping it a secret's even more unpleasant."`
+char_but: `"......Tell me about it.`
+char_but: ` It's not like I have anything better to do before tomorrow comes.`
+char_but: ` A slightly shady story might be the best way to stave off boredom."`
+char_non: `After Genji‐san and Kanon‐kun looked at each other, they nodded as though they had decided to talk...`
+char_kan: `"......Understood.`
+char_kan: ` Please ask us anything.`
+char_kan: ` ............We will talk."`
+char_but: `"Right.`
+char_but: ` Then I'll ask."`
+char_but: `"......Who in the world is {f:5:Beatrice}?`
+char_but: ` ...All I know is that she's a witch who lives in the forest of Rokkenjima.`
+char_but: ` ...I've heard that it's a story that Grandmother or someone invented to keep people out of the dangerous forest.`
+char_but: ` ......Is that wrong?"`
+char_kan: `"............No, ...it isn't wrong.`
+char_kan: ` It's as you say.`
+char_kan: ` {f:5:Beatrice}‐sama is a witch who dwells in the forest of Rokkenjima."`
+char_gen: `"......Battler‐sama.`
+char_gen: ` .........I don't expect you to believe this all of a sudden, but...`
+char_gen: `{f:5:Beatrice}‐sama exists.`
+char_gen: ` ...She is a real person, the one who gave the Master a vast amount of gold and who has worked by his side for many years."`
+char_but: `"Huh...?`
+char_but: ` Ah, come on...`
+char_but: ` Is Grandfather paying you to repeat everything he says...?"`
+char_non: `I laughed like it was a joke,`
+char_non: ` but neither Genji‐san nor Kanon‐kun laughed,`
+char_non: ` ......not even Kumasawa baa‐chan, who avoided my eyes, flustered, and started washing the utensils.`
+char_non: `So unfortunately, I was the only one laughing.`
+char_non: ` ...Painfully, bitterly.`
+char_but: `"......I see now why you warned me, Genji‐san.`
+char_but: ` ...Anyone sane would take this badly.`
+char_but: ` ............So you're saying that a person named {f:5:Beatrice} actually exists?"`
+char_gen: `"......Yes.`
+char_gen: ` She has been working for the Master since before the mansion was built on this island.`
+char_gen: ` ...Most likely, she has been working for him even longer than I have."`
+char_but: `"What do you know, Kyrie‐san's theory was off...`
+char_but: ` ......Grandfather really did have a confidante called {f:5:Beatrice}.`
+char_but: ` ......And she's on the island now...?"`
+char_kan: `"...............Yes.`
+char_kan: ` I believe that she is here."`
+char_but: `"...That's a vague way to say it.`
+char_but: ` I guess that means you haven't seen her face today or yesterday."`
+char_kan: `"......Yes.`
+char_kan: ` ......It is extremely difficult to say, but...`
+char_kan: `...umm..."`
+char_non: `Kanon‐kun once again dropped his gaze, avoiding my eyes.`
+char_but: `"...Come on, don't just stop there.`
+char_but: ` That's like freezing an inch before the blow!"`
+char_non: `I urged him on jokingly.`
+char_non: `...However, it looked like Kanon‐kun was still unsure as to whether he should speak or not.`
+char_non: `.........Then, Kumasawa baa‐chan whispered.`
+char_kum: `"...Hoh‐hoh‐ho...`
+char_kum: ` You cannot see her face,`
+char_kum: ` .........because {f:5:Beatrice}‐sama has no form..."`
+char_but: `"............She has no...`
+char_but: `......what?"`
+char_gen: `"{f:5:Beatrice}‐sama has no body.`
+char_gen: ` ...Therefore, unless {f:5:Beatrice}‐sama wishes it, common people like us are not able to see her form."`
+char_kum: `"I have heard that the portrait shows what {f:5:Beatrice}‐sama looked like back when she had a human form...`
+char_kum: ` ......I hear she often lingers in front of the portrait, yearning for her old form...`
+char_kum: ` ...Hoh‐hoh‐ho..."`
+char_kan: `"{f:5:Beatrice}‐sama sometimes changes her form into glittering butterflies and shows herself.`
+char_kan: ` ......On the rare occasion that you spot them somewhere in the mansion, there is a rule that you absolutely mustn't chase after them."`
+char_kan: `"It is whispered that you will meet with disaster if you follow them.`
+char_kan: ` ...In fact, there was a servant who broke that rule and quit because of a great injury."`
+char_but: `"......Wait a sec, are you kidding me?`
+char_but: ` Are you all serious about this......?"`
+char_gen: `"...Battler‐sama, {f:5:Beatrice}‐sama has already arrived.`
+char_gen: ` Such language may be unwise."`
+char_kan: `"{f:5:Beatrice}‐sama is not fond of those who profane her.`
+char_kan: ` ......If you doubt her existence, you will surely meet with disaster."`
+char_kum: `"Battler‐san... You probably find this story unpleasant.`
+char_kum: ` But you know what?`
+char_kum: ` {f:5:Beatrice} does "exist", okay?"`
+char_gen: `"......She "exists".`
+char_gen: ` {f:5:Beatrice}‐sama has an exceptional dislike of that being called into question."`
+char_kan: `"............Don't you understand, Battler‐sama?`
+char_kan: ` ......{f:5:Beatrice}‐sama has already arrived here..."`
+char_but: `"...Come on, quit it.`
+char_but: ` I'm weak against that stuff, you know...?`
+char_but: ` You're freaking me out..."`
+char_non: `However, there was no trace of a joke in the eyes of the three servants.`
+char_non: `On the surface, I laughed and tried to look unconcerned, but I was quickly starting to sober up.`
+char_non: `{n}...Their eyes were also sobering up fast.`
+char_kum: `"......Battler‐san... I beg that you stop profaning {f:5:Beatrice}‐sama.`
+char_kum: ` Please trust me..."`
+char_non: `Kumasawa baa‐chan, who was usually cheerful and would always tease people,`
+char_non: ` ......now spoke with a totally straight face that I had never known her to make.`
+char_but: `".........W‐......well...`
+char_but: ` Sure you say she exists...`
+char_but: ` But I don't see anything...`
+char_but: ` Are you trying to say that she's standing right next to me or something?`
+char_but: ` Quit joking around..."`
+char_mar: `"Kihihihihihihihihihihihihihihihihi......"`
+char_non: `Just then, that unnerving laugh suddenly filled the kitchen...`
+char_non: `...When I turned around, Maria was standing there by the entrance.`
+char_non: `{n}...But her expression and the feeling about her, her presence...felt exactly the same as the servants.`
+char_mar: `"...Whether your wavelength matches or not is determined at birth.`
+char_mar: ` Battler, you were born with a mismatched wavelength.`
+char_mar: ` That's why you can't see her,`
+char_mar: ` can't meet with her,`
+char_mar: ` can't talk to her."`
+char_mar: `"...Kihihihihihihihihihihihihihihihi.`
+char_mar: ` You're the type {f:5:Beatrice} hates the most."`
+char_non: `Maria's laugh sounded like she was greatly enjoying herself, ...yet it was extremely eerie.`
+char_non: `......It was almost like she was laughing at me because I alone didn't understand.`
+char_mar: `"Do you want to know about {f:5:Beatrice}?`
+char_mar: ` ............{f:5:Beatrice} is a thousand‐year‐old witch.`
+char_mar: ` ......She has all the demons at her command, and can harness the power of alchemy to create the philosopher's stone and a vast quantity of gold.`
+char_mar: ` Grandfather built up all of the vast wealth of the Ushiromiya family by making a contract with her."`
+char_mar: `"......Yesterday, I read {f:5:Beatrice}'s letter, didn't I?`
+char_mar: ` That was real.`
+char_mar: ` ...Well, I guess it's pointless for me to try and force you to believe."`
+char_mar: `"...After all, it looks like you were born without a trace of the sixth sense.`
+char_mar: ` Kihihi{0}hi{0}hi{0}hi{0}hi{0}hi{0}hi{0}hi{0}hi{0}hi{0}hi{0}hi{0}hi{0}hihi...!"`
+char_but: `"......What are you talking about?`
+char_but: ` Witches, demons?`
+char_but: ` Who told you that...?"`
+char_mar: `"Kihihihihihihihihi.`
+char_mar: ` I heard it from {f:5:Beatrice} herself.`
+char_mar: ` Kihihi{0}hi{0}hi{0}hi{0}hi{0}hi{0}hi{0}hihi!"`
+char_non: `Maria kept doing that unpleasant laugh.`
+char_non: `{n}...However, the servants who watched over this didn't even blink.`
+char_non: `She heard it from...that witch in the portrait adorning the entrance hall.`
+char_non: `{n}Maria kept on laughing in a weird voice, as though this was nothing more or less than the truth...`
+char_but: `"...Maria, it might be rude to ask, but I'll ask one more time, okay...?`
+char_but: ` Who gave you that letter yesterday?"`
+char_mar: `"I got it from {f:5:Beatrice}. How many times must I tell you before you understand?"`
+char_mar: `"......You don't get it, do you?`
+char_mar: ` You can't see her, I know.`
+char_mar: ` You can't believe it, I know!`
+char_mar: ` ...Kihihi{0}hi{0}hi{0}hi{0}hi{0}hi{0}hi{0}hi{0}hi{0}hi{0}hi{0}hi{0}hihi."`
+char_non: `Just then, Maria's laughter suddenly stopped.`
+char_mar: `".........Battler.`
+char_mar: ` You still can't tell?`
+char_mar: ` That {f:5:Beatrice} "exists"."`
+char_but: `"She "exists", you say.........but where?"`
+char_mar: `"Like I said, {f:5:Beatrice} "exists", right here."`
+char_non: `......That's right.`
+char_non: `{n}Now that I think about it, I've been feeling for some time now that the others haven't been looking in quite the right direction.`
+char_non: `...I'd figured that everyone had just been gazing into the distance, but......that wasn't the case.`
+char_non: `The four here—Genji‐san,`
+char_non: ` Kanon‐kun,`
+char_non: ` Kumasawa‐san,`
+char_non: ` ...and Maria—`
+char_non: ` ......everyone except me—`
+char_non: ` ...............was looking at a spot right behind me......`
+char_non: `Holding my breath tightly, I slowly looked over my shoulder.`
+char_non: `...Of course, there wasn't anyone there.`
+char_non: `{n}I've known that the whole time!`
+char_non: `.........However, everyone in the room except me was focusing on that point as if there was someone there.`
+char_mar: `"{f:5:Beatrice} is a great witch of gold who has lived for one thousand years.`
+char_mar: ` ......But she can't show her form to humans of the wrong wavelength, and she can't talk to them."`
+char_mar: `"...And you know what?`
+char_mar: ` She finds that really sad.`
+char_mar: ` ...That's why she truly despises it when people like you, who were born without a fragment of magic sensitivity, deny that she exists...!"`
+char_mar: `".........You're lucky, Battler.`
+char_mar: ` Good thing that I gave you that charm yesterday, right?`
+char_mar: ` Who knows what kind of curse {f:5:Beatrice} would have put on you by now if you hadn't been carrying it around.`
+char_mar: ` ...You really are lucky, Battler.`
+char_mar: ` Kihihi{0}hi{0}hi{0}hi{0}hi{0}hi{0}hi{0}hi{0}hi{0}hi{0}hi{0}hi{0}hi{0}hi{0}hi{0}hihi...!"`
+char_but: `".........Right, that scorpion keyholder.`
+char_but: ` I'd thought that was just some cheap gift or something, but I guess it really had some benefit, then?"`
+char_mar: `"Kihihihihihihihi.`
+char_mar: ` If it weren't for that, you'd be lying in that storehouse as a sacrifice with your face crushed by now.`
+char_mar: ` Kihihi{0}hi{0}hi{0}hi{0}hi{0}hihi, you're so lucky, Battler...!`
+char_mar: ` Kihhihi{0}hi{0}hi{0}hi{0}hi{0}hi{0}hi{0}hi{0}hi{0}hi{0}hi{0}hi{0}hi{0}hihi!"`
+char_but: `"......I see.`
+char_but: ` So if it weren't for that, I'd have been killed by now......"`
+char_mar: `"Battler, why don't you believe in {f:5:Beatrice}...?`
+char_mar: ` Even though she "exists".`
+char_mar: ` Right now, over there, look."`
+char_mar: `"Kihihihihihihihi!`
+char_mar: ` Hey, I'll bet you want to believe it now.`
+char_mar: ` Believe it.`
+char_mar: ` And thank me for giving you that charm...!"`
+char_mar: `"If it weren't for that, you'd be in the storehouse right now.`
+char_mar: ` But then, maybe you would have saved someone else in exchange, right?`
+char_mar: ` Kihhi{0}hi{0}hi{0}hi{0}hi{0}hi{0}hi{0}hi{0}hihi!"`
+char_non: `Pff...!`
+char_non: `......Right then, I burst into laughter.`
+char_non: `{n}Playing witches had been pretty fun up until a second ago, but unfortunately, that last one didn't quite hit the mark.`
+char_but: `"Hahahahahahah.`
+char_but: ` ......Then it's no goddamn good at all, is it, Maria?`
+char_but: ` If that's true, then I'm sorry, but it's no goddamn good at all."`
+char_non: `When Maria saw me suddenly start laughing, she stopped.`
+char_non: `{n}Even though she didn't understand what I was laughing at, she realized it wouldn't be pleasant for her.`
+char_mar: `".............................."`
+char_but: `"I thought it might hurt you, so I didn't say it earlier, but..."`
+char_but: `"......Although I thought I'd put that charm you gave me in my pocket,`
+char_but: ` I must have dropped it somewhere, you see?"`
+char_but: `"......That means the charm can't be the reason I'm alive now, and even though I should have been cursed by the witch, I'm perfectly fine.`
+char_but: ` ......Sorry, but I don't believe in things I don't see with my own eyes."`
+char_but: `"Sixth sense?`
+char_but: ` Wavelengths?`
+char_but: ` Magic sensitivity?`
+char_but: ` Sorry, but I don't believe in fake stuff like that.`
+char_but: ` When I hear the girls in class start talking about how good or bad their ability to sense the supernatural is, it pisses me off!"`
+char_but: `"...I don't know how much Grandfather is paying you, but if you're trying to talk me into joining some cult,`
+char_but: ` believe me, you won't be able to do it that easily."`
+char_kan: `"...............Battler‐sama..."`
+char_but: `"...You guys are free to believe whatever you want.`
+char_but: ` But when it comes to whether I believe or not,`
+char_but: ` that is always`
+char_but: ` for me`
+char_but: ` to decide!"`
+char_but: `"Sorry, but I can't believe in something as shady as {f:5:Beatrice} until I've seen her with my own eyes...!!"`
+char_non: `I spoke forcefully and sharply...`
+char_non: `{n}When I did, Maria started cackling again.`
+char_mar: `"Kihhihihihihihihihihihihi...!`
+char_mar: ` Well that's just fine, isn't it...?`
+char_mar: ` Eventually, even people like you with totally mismatched wavelengths will be able to see {f:5:Beatrice}."`
+char_mar: `".........Very soon, she will revive.`
+char_mar: ` {f:5:Beatrice} will revive.`
+char_mar: ` ......Once that happens, she's promised to talk with me and play with me a lot."`
+char_mar: `"...There's neither a need to doubt nor to force yourself to believe.`
+char_mar: ` ......She will appear, very soon.`
+char_mar: ` Kihihihihihihihihihi...!"`
+char_non: `Some people usually head to the bathroom after a meal; others prefer to take a short nap.`
+char_non: `It seemed that several people had gone out of the parlor, just like I did when I went to the kitchen to drink some water.`
+char_non: `In the end, Aunt Natsuhi's order to keep everyone packed together in the parlor was reluctantly withdrawn, under the conditions that:`
+char_non: ` no one was to be on their own,`
+char_non: ` and no one was to go far from the parlor.`
+char_non: `After all, if eleven people are shut up in the same room starting early in the morning, the air will start to stagnate.`
+char_non: `...And now that a little time had passed,`
+char_non: ` everyone had started to recover from the shock of that morning—maybe their sense of danger was weakening over time, too.`
+char_non: `......However, it was a certain fact that six people had been killed inside this mansion,`
+char_non: ` so no one was completely negligent.`
+char_non: `So when they went out into the hallway for a breath of fresh air, trying to act tough,`
+char_non: ` ......they would get scared of standing there, isolated, and would end up returning to the parlor.`
+char_non: `...Like that fable.`
+char_non: ` You know, "The North Wind and the Sun".`
+char_non: `{n}If you force someone to stay shut in, they'll resist, but if you tell them to do whatever they want, they'll come back, obediently.`
+char_non: `People sure are hypocrites.`
+char_non: `.........When the servants finished cleaning up from the meal,`
+char_non: ` they returned obediently to the parlor just as Aunt Natsuhi had told them to, and sat in a sofa near the entrance, patiently awaiting orders.`
+char_non: `Maria, almost as though she had suddenly finished playing witches,`
+char_non: ` had returned to the pure Maria I knew well, saying "uu‐uu".`
+char_non: `...What in the world was that back there?`
+char_non: `{n}.........I hadn't felt even an atom of the presence of this person called {f:5:Beatrice}, supposedly standing behind me, invisible.`
+char_non: `...However, it felt like, inside Maria, I could catch a glimpse of a little of that presence...`
+char_geo: `"You're right.`
+char_geo: ` When Maria‐chan starts talking about witches, she changes.`
+char_geo: ` ...Battler‐kun, you also saw it down by the beach yesterday, right?"`
+char_but: `"You mean when she gave me that scorpion keyholder?`
+char_but: ` ...No, I don't mean like when her feelings were hurt,`
+char_but: ` I'm talking about when she looked like she had, you know, a dual personality."`
+char_jes: `"Aah, that happens sometimes too.`
+char_jes: ` ......Just like when Maria started talking about the magic circle, not very often, but it happens.`
+char_jes: ` It's freaky though."`
+char_non: `Apparently, according to Jessica, the "Kihihihihihi" laughing Maria shows up every now and then.`
+char_non: `This was just bad timing, and furthermore, it was the first time I'd seen it, so it really shocked me...`
+char_but: `"So what is that?`
+char_but: ` Does Maria have a dual personality or something?`
+char_but: ` Or are you saying that her spiritual sense really is that strong, and she gets possessed by stuff like that?"`
+char_geo: `"...No, I don't think it's that.`
+char_geo: ` Didn't you ever experience it?`
+char_geo: ` A desire to be someone other than yourself, when you were small."`
+char_non: `Right when humans are born, no one has any individuality.`
+char_non: `{n}However, when they reach their growth period, and their sense of self starts to be born, they start to gain a sense of individuality.`
+char_non: `They want to be different from other people.`
+char_non: `...But of course, they will find that they're no different from the others in their class,`
+char_non: ` since they are learning the same thing in school and forced into the same lifestyle.`
+char_non: `When they realize that, they start off by breaking the rules, in what's called the rebellious age.`
+char_non: `{n}Since everyone follows the rules, they want to show off their individuality by breaking them.`
+char_non: `...Even those who call everyone around them babies and stir up trouble...`
+char_non: `are just cute kids searching for themselves when you look at them this way.`
+char_non: `......Well, I'm lecturing about all this like I'm so smart, but I actually got it second‐hand from George‐aniki.`
+char_non: `I myself was one of those embarrassing guys who thought it was cool to act like a little bastard...`
+char_non: `Well, that was when I was the age where you try standing out for the opposite sex.`
+char_geo: `"At the very foundation of the growing period is an impulse to escape from being a kid, much the same as a chick trying to crack the shell of their egg.`
+char_geo: ` Do you know what the difference between a child and an adult is?"`
+char_but: `"Age?`
+char_but: ` Or physique?"`
+char_geo: `"No, it's experience.`
+char_geo: ` Adults look down on children because children have very little life experience.`
+char_geo: ` The reason they snort and look down on children whenever they say anything is because children don't know anything about the world."`
+char_jes: `"Yeah, I know what you mean.`
+char_jes: ` When you're a kid, you try to say things like you've got life all figured out, and try to act like an adult.`
+char_jes: ` ...No matter what a kid says, adults will just snort at them because they're too naive or because they'd "understand once they grew up" or something."`
+char_jes: `"...Well, it's probably true, but to a kid, it's just annoying, like they're being looked down upon."`
+char_but: `"......I get it.`
+char_but: ` It's about whether they have knowledge and experience.`
+char_but: ` ...You're right, you don't earn respect just by becoming old and not achieving anything."`
+char_geo: `"Therefore, what we have is: a period where they have the impulse to escape from being a kid; and also, they want to have individuality, different from other people.`
+char_geo: ` If what separates kids and adults is knowledge and experience, then...?"`
+char_but: `"............I get it, if they know something that no one else knows, that's one way to form an identity."`
+char_jes: `"When you're in, like, elementary school, if you knew stuff no one else knew,`
+char_jes: ` had stuff no one else had, wore stuff no one else wore, you could become a bit of a hero for it.`
+char_jes: ` I bet you did the same thing, Battler."`
+char_but: `"Yeah, yeah.`
+char_but: ` There was definitely an age when I wanted to excel in something.`
+char_but: ` ...I see, that was because I was trying to separate myself from being a child, my growing period."`
+char_geo: `"If you look at it in a good way, the growing period, by forcing you to separate yourself from others, pushes you to gain skills and knowledge that no one else has."`
+char_geo: `"...This is also interesting from a sociological standpoint.`
+char_geo: ` Because people hate being like everyone else, they try to learn skills that other people don't know.`
+char_geo: ` In this way, society can acquire the broad range of skills it needs to survive.`
+char_geo: ` ...The quality of the gods' programming is truly surprising."`
+char_but: `"Well, individual personalities can also be negative, right?`
+char_but: ` Like saying, everyone else in the class is studying hard, so I'll slack off so I stick out."`
+char_non: `...That was actually me.`
+char_non: `{n}It was only recently that I'd finally been able to feel thankful towards that middle school teacher who had slapped me after school.`
+char_but: `"But, well, I did have those desires to jump over the vaulting box that no one else could,`
+char_but: ` or sprint as fast as I could trying to lap those guys with good grades when we did a marathon."`
+char_but: `"...It was in my nature that, if I couldn't study well, then at least I could get back at them by exercising.`
+char_but: ` ......I get it, I really went all out during my growing period."`
+char_jes: `"I guess boys do tend to focus more on physical things."`
+char_jes: `"But you know? Girls of the same age tend to focus more on emotional things.`
+char_jes: ` ......I'll bet there were groups of girls in your classes that were really interested in like, fortune telling and their spiritual senses."`
+char_but: `"Yeah, yeah! There was, there was!`
+char_but: ` They'd come over, asking me for my sign and my blood type! And then they'd laugh, "Aah, I thought so, *giggle*giggle*!"`
+char_but: ` It really got on my nerves."`
+char_but: `"No matter which class you go to, girls like fortune telling.`
+char_but: ` There was always a group that went on about spirit senses being strong or weak, or "sensitivity", or seeing things that can't be seen."`
+char_geo: `"That's because fortune telling and spiritual senses are things that aren't taught in school.`
+char_geo: ` To girls, who unlike guys are more introverted,`
+char_geo: ` that's a genre which is easy to build an identity upon, and one that they find very interesting."`
+char_jes: `"Just like when boys enter their growing period, and start acting tough and rebelling against adults,`
+char_jes: ` when girls enter their growing period, they start getting interested in that kind of thing instead.`
+char_jes: ` ......Well, not me though!"`
+char_but: `"......So Maria having so much interest in the occult isn't that rare among girls her age?"`
+char_non: `...Even if you accept that, ...I wonder if it explains that creepy dual personality thing...`
+char_non: `............Well, I think I can accept it vaguely.`
+char_geo: `"As I said before, becoming an adult means gaining knowledge and experience.`
+char_geo: ` So kids must study various things so that they can gain knowledge and truly awaken."`
+char_geo: `"...There is a specific kind of fantasy useful for this, which is and has always been prolific in the world of children.`
+char_geo: ` Do you know what that is?"`
+char_jes: `"You see it all the time in manga and anime, right?`
+char_jes: ` You know.`
+char_jes: ` Like, memories coming back to you from a former life.`
+char_jes: ` Or like, channeling the soul of the great whatever."`
+char_but: `"Ah, there's also sleeping genes awakening,`
+char_but: ` or sealed powers or memories returning...there's a lot of versions.`
+char_but: ` For some reason, those kinds of things are really popular at that age.`
+char_but: ` ...Why's that?"`
+char_geo: `"All of those examples you've just mentioned are fantasies by which children can immediately add knowledge and experience to their childhood selves.`
+char_geo: ` Even a nine‐year‐old girl simply has to say that she has a thousand‐year‐old witch possessing her,`
+char_geo: ` and she can gain a 1009‐year‐old identity."`
+char_jes: `"So what you're saying is that for people who think studying is annoying,`
+char_jes: ` but want to learn different skills from everyone else and brag about it, and get attention from it, it's a convenient delusion."`
+char_non: `So you can brag about something without having to work hard or study.`
+char_non: `{n}......I see, isn't that a kid's greatest dream?`
+char_geo: `"Furthermore, their ideal self image is always self‐projected onto their desires to escape from being a kid,`
+char_geo: ` and it's not rare for that desired form to become established as an alternate personality."`
+char_geo: `"Even you, Battler‐kun, I'm sure your character is a little different at home and at school, right?`
+char_geo: ` It would probably be embarrassing if anyone at school saw how you were at home.`
+char_geo: ` At school, you try to project yourself as you want to be, but home is where you are your true self."`
+char_but: `".........So, in other words, I'm changing my character for different situations.`
+char_but: ` ......Are you trying to say that having multiple personalities is actually really common?"`
+char_jes: `"A girl who is a fan of the occult might say that she's being possessed, or has awakened.`
+char_jes: ` Honestly, there are some kids who can change their personalities so drastically, it can change your whole opinion of them."`
+char_jes: `"......Even some boys, right?`
+char_jes: ` Guys who just blow their top and get violent over nothing.`
+char_jes: ` I bet they think it's pretty cool, but it's painful to watch."`
+char_but: `"So let's sum this all up.`
+char_but: ` ...Girls of about Maria's age, even if they show a creepy second personality like she did a minute ago,`
+char_but: ` you're saying that's not such a rare thing...?"`
+char_geo: `"If you bring it all together simply, that's what it means.`
+char_geo: ` ...Identity is an important thing used to build up one's sense of self.`
+char_geo: ` If you make fun of that, it could actually cause children to go back into their shell."`
+char_geo: `"So it's important to go along with them to some degree.`
+char_geo: ` ...Although to accept it completely requires the tolerance of a parent."`
+char_but: `"......Aniki, I can't believe you aren't married...`
+char_but: ` You sound like you've already raised kids through middle school.`
+char_but: ` .........Then, I wonder if Auntie Rosa also knew much about Maria's dual personality."`
+char_jes: `"She knew.`
+char_jes: ` .........Just between us, Auntie Rosa couldn't friggin' stand it.`
+char_jes: ` She said it was creepy, and it was just making Maria more and more separated from the rest of the class."`
+char_jes: `"So any time Maria started talking about the occult or laughing like a witch, she'd slap her.`
+char_jes: ` ...And it looks like Maria stopped talking that way in front of her."`
+char_non: `.........Maybe it was just a little game, from a girl facing her growing period,`
+char_non: ` ...that thing that had happened back there.`
+char_non: `Just a girl trying to show that she was different and independent by holding interest in witches and the occult.`
+char_non: `...And since she wanted to have another side to herself that wasn't infantile, she was switching between her normal personality and the personality of her ideal, a witch.`
+char_non: `.........In the beginning, I had found that very disturbing,`
+char_non: ` but after George‐aniki's lecture, it felt like this was a path that everyone walked down at one time or another.`
+char_non: `......I haven't told anyone, but when I was in kindergarten,`
+char_non: ` I joined up with a little gang of kids trying to form a Earth Defense Force, saying we'd help protect peace on earth.`
+char_non: `My face turns red when I remember how, during what we called battle practice, we would chant "EDF! EDF!"...`
+char_non: `Just like usual, Maria was relaxing,`
+char_non: ` immersed in the TV, "uu‐uu"ing and laughing just like any girl her age.`
+char_non: `......But on the inside, another personality, that of the ideal witch that she admired and blindly accepted, was sleeping.`
+char_non: `But that wasn't anything extraordinary; it was perfectly natural for a girl of her age...`
+char_non: `............I calmed down a little.`
+char_non: `{n}I had started to recover from the shock of my bizarre experience in the kitchen.`
+char_non: `...If I hadn't talked to Aniki and Jessica, I might still have been frightened by the idea that an invisible witch was standing right behind me.`
+char_non: `...However, ......can I really accept that as an explanation of what happened back there?`
+char_non: `If it had just been Maria, I could have explained it as the fickle fantasies of a growing girl.`
+char_non: `...But Genji‐san, Kanon‐kun, and Kumasawa baa‐chan had also been there.`
+char_non: `None of them had denied what Maria said.`
+char_non: `.........They had silently accepted that {f:5:Beatrice} "exists".`
+char_non: `I was starting to feel a little uneasy...`
+char_non: `Auntie Eva had claimed that no 19th person exists,`
+char_non: ` saying that someone within the family had committed the crime in connection with their messy quarrel.`
+char_non: `On the other hand, Aunt Natsuhi had claimed that the culprit was hiding somewhere outside the mansion.`
+char_non: `That meant that she was denying that the crime had been committed by one of us, and accepting that a 19th person exists.`
+char_non: `And in the kitchen, Maria and the servants had agreed that a 19th person exists.`
+char_non: `But according to them, this 19th person isn't human.`
+char_non: `{n}......They had said that it was an invisible witch, plotting something mysterious.`
+char_non: `Is there a 19th person, or not?`
+char_non: `{n}And is the culprit a human, or a witch?`
+char_non: `For some reason, I couldn't just laugh off any of the possibilities.`
+char_non: `{n}...Not even the most ridiculous one about the witch.`
+char_but: `"......Jessica,`
+char_but: ` all I know about the story of the witch is that it was a story made by the adults to keep the kids too scared to enter the forest, but...`
+char_but: `...is it different here in the mansion...?"`
+char_jes: `"............Hmmm...`
+char_jes: ` I'm with you on this."`
+char_jes: `"I think it was just a dumb ghost story made by the parents so their kids would listen to them.`
+char_jes: ` ......But I can't deny that the atmosphere inside the mansion makes it a little hard to say it out loud..."`
+char_geo: `"......Because Grandfather has proclaimed that {f:5:Beatrice} does exist.`
+char_geo: ` And because of their position, the servants can't doubt that.`
+char_geo: ` Jessica's mother and father don't want to get into a fight with him either, so on the surface, they go along with it."`
+char_geo: `"......So you could probably say that, inside this mansion, doubting the existence of {f:5:Beatrice} is a kind of taboo.`
+char_geo: ` Unlike the rest of us, who only come here once a year.`
+char_geo: ` ......Is that right?"`
+char_non: `Jessica puffed out air in admiration...`
+char_non: `{n}It looked like Aniki had guessed right.`
+char_jes: `"......You've got it totally.`
+char_jes: ` No one really believes it on the inside.`
+char_jes: ` ...But on the outside, they accept she exists."`
+char_jes: `"See, it's just like the way some people are about gods.`
+char_jes: ` Even if you know there's actually no such thing, it feels rude to actually say that out loud..."`
+char_but: `"......How do you think the servants feel about it amongst themselves?`
+char_but: ` Is it true that, since Grandfather who employs them says she "exists", they have to go along with it...?"`
+char_jes: `"Well...`
+char_jes: ` I don't really know the details,`
+char_jes: ` ......but between the servants, the story about {f:5:Beatrice} has been treated a bit like a ghost story."`
+char_jes: `"...Remember yesterday, when Shannon was talking to us down by the beach?`
+char_jes: ` About how they saw unsettling things while doing the rounds in the mansion at night."`
+char_non: `She had said something like that, hadn't she...`
+char_non: `Back then, I didn't give it much thought, assuming she was just going along with the displeased Maria,`
+char_non: ` ...but now that I think about it, she did say that, and completely seriously.`
+char_non: `......That's right.`
+char_non: ` She definitely said it.`
+char_non: `...She definitely said the same kind of thing that Genji‐san and the rest had all unanimously declared back in the kitchen...`
+char_sha: `"In addition, some servants have also seen will‐o'‐the‐wisps and glittering butterflies dancing around.`
+char_sha: ` ......Kanon‐kun also said he saw something like that when he went patrolling one night."`
+char_sha: `"And recently, the servants have been talking about strange footsteps inside the mansion near midnight.`
+char_sha: ` We have whispered together that the {f:5:Beatrice}‐sama from the portrait sometimes walks through the mansion invisible."`
+char_sha: `"...It happened a long time ago, but I have also heard those kinds of footsteps while patrolling at night."`
+char_non: `......That's right.`
+char_non: ` She definitely said that.`
+char_non: `{n}Exactly the same thing that I had been told just now.`
+char_sha: `"Ah, ...but, there's nothing to be afraid of, you know?`
+char_sha: ` {f:5:Beatrice}‐sama is another ruler of this mansion separate from the Master.`
+char_sha: ` So, she won't do anything bad, as long as you respect her and don't act oddly afraid."`
+char_geo: `"However, she's fearsome if you don't respect her, right?"`
+char_sha: `"...Yes.`
+char_sha: ` I heard that someone who quit just before I began working, after falling down the stairs and receiving a large injury to their back,`
+char_sha: ` had been speaking badly of {f:5:Beatrice}‐sama.`
+char_sha: ` Because of that, there was a rumor between the servants that {f:5:Beatrice}‐sama's anger had been brought down upon this person..."`
+char_but: `"......If you don't respect her, her anger will be brought down upon you, and you will be injured.`
+char_but: ` ...So, to the servants, {f:5:Beatrice}'s existence...`
+char_but: `is just as credible as the story that, if you pull pranks on {c:86EF9C:Inari‐san}, you will be cursed by the {c:86EF9C:kitsune}."`
+char_non: `Of course, even though everyone accepts that curses and the like don't exist in the modern era,`
+char_non: ` ...people are still afraid and still have a little respect for them.`
+char_non: `You see it a lot even in residential areas, such as when someone is building a house, and they call a Shinto priest for a ceremony to honor the god of that plot of land.`
+char_non: `...You might think that's just a big waste of time and money,`
+char_non: ` but the workers say that a big accident will occur if they don't do it, so they apparently never neglect the procedure.`
+char_non: `You also hear about how, if an Inari shrine is carelessly removed during a town replanning,`
+char_non: ` there would be a curse by Kitsune‐sama.`
+char_non: `I think I might have read somewhere that when the occupying forces were trying to expand an airport, and had to remove an Inari‐san that was in the way,`
+char_non: ` all of the workers were suddenly taken out by some mysterious fever.`
+char_non: `Even in modern cities like Tokyo,`
+char_non: ` it isn't rare to see modern buildings packed all around an old Inari shrine, leaving the shrine itself untouched.`
+char_non: `And this isn't limited to Japan.`
+char_non: `{n}It's probably similar to how people baptize babies.`
+char_non: `If I remember correctly, by the Christian doctrine,`
+char_non: ` unbaptized souls, though their sin is the lightest, still fulfill the conditions for going to hell.`
+char_non: `Putting water on a child's forehead doesn't do anything but make them cry.`
+char_non: `But if a parent can prevent their child from going to hell with just that little effort, they will happily go through with that ceremony.`
+char_non: `......In short, even in this modern society of reason,`
+char_non: ` we are still unable to throw away every trace of belief and fear.`
+char_non: `...You could say that it's a passive acceptance of the supernatural.`
+char_non: `Maybe the only difference on this island was that {f:5:Beatrice} was the name that was respected here...`
+char_but: `"...So, in other words,`
+char_but: ` if anything happens that doesn't seem explainable in human terms, it's called the work of {f:5:Beatrice}."`
+char_but: `".........I think Shannon‐chan was talking about it.`
+char_but: ` About windows and doors that had definitely been properly shut or locked being open the next time they were checked.`
+char_but: ` Lights that had been off being on, and lights that had been on being off."`
+char_but: `"......And, if I remember right, Jessica, you used to joke that it was {f:5:Beatrice}'s doing that you couldn't find your bag sometimes when you went to leave in the morning, right?"`
+char_jes: `"Good memory.`
+char_jes: ` ...Normally, you'd say a fairy took them, but on this island, it's {f:5:Beatrice}.`
+char_jes: ` Man, what a stupid story."`
+char_geo: `"This mansion has been standing for about thirty years by now, hasn't it?`
+char_geo: ` It's natural for things that old to get their fair share of ghost and occult stories.`
+char_geo: ` Like the seven mysteries at a school."`
+char_but: `"...............So here...`
+char_but: `is where we "flip over the chessboard"."`
+char_jes: `"Huh?"`
+char_but: `".........Basically, on this island, there's a rule that {f:5:Beatrice} can be blamed for anything that couldn't have been done by humans.`
+char_but: ` Anything that the humans can't do.`
+char_but: ` ......How many humans are there?`
+char_but: ` There's 18."`
+char_but: `"............In other words, the culprit is modelling things after this rule, trying to make it appear that this crime was the work of the witch.`
+char_but: ` In short, they desperately want to claim this as the doing of a 19th person."`
+char_but: `"............{i:I don't like it}.`
+char_but: ` I really don't like it."`
+char_jes: `"What don't you like...?"`
+char_but: `"............Just assume that an invisible 19th person existed, and that this person wanted to make it known that they existed.`
+char_but: ` ......If it were me, I'd do it with more perfect timing."`
+char_geo: `"......What do you mean by perfect timing?"`
+char_but: `"...Well.`
+char_but: ` After all, the crime took place after midnight while it was still dark, right?`
+char_but: ` People were talking together until midnight, some people had the night shift, and some people had returned to their rooms and were sleeping."`
+char_but: `"...Everyone's alibi is really vague, and there's plenty of room to suspect that the crime was committed by one of us.`
+char_but: ` George‐aniki, Auntie Eva probably told you too, right?`
+char_but: ` That there's a good chance that one of us is the culprit?"`
+char_geo: `"...mh......yes.`
+char_geo: ` ...I guess."`
+char_but: `"......In other words, if the 19th person really existed and wanted to show themselves, this first crime was a complete failure."`
+char_but: `"...No, in the first place, the timing was a mistake.`
+char_but: ` If this invisible 19th person really wanted to show themselves,`
+char_but: ` they had to make sure that the crime took place {i:under conditions which proved that the remaining twelve people were all innocent}."`
+char_but: `"Unless there are no suspicious humans, they can't prove that they exist.`
+char_but: ` So by killing them in the middle of the night, when everyone's alibi was at its most ambiguous,`
+char_but: ` whether or not this 19th person exists was also at its most ambiguous.`
+char_but: ` Even so, they chose that time to commit the crime."`
+char_geo: `"......By committing the crime then, it's obvious that one of the 18 would be suspected.`
+char_geo: ` ...Yet they took the name of the witch and handed Maria the letter, and everyone denies doing it."`
+char_jes: `"In other words, ......you're trying to say that one of the 18 is trying to make it look like a 19th person called {f:5:Beatrice} exists...?"`
+char_jes: `"That's pretty crazy......`
+char_jes: ` ...I think my mom's theory that someone is hiding outside the mansion is a little more credible...`
+char_jes: ` ...Battler, don't tell me you actually suspect that someone in this room is the culprit...?"`
+char_but: `"Yeah.`
+char_but: ` ...Someone trying to force us to accept that {f:5:Beatrice} exists.`
+char_but: ` ......That's right, the letter last night is when this whole thing started.`
+char_but: ` ...I don't have any basis or proof, but..."`
+char_but: `"......With the chessboard upside‐down, this is my best guess."`
+char_jes: `"......Seriously, that's too crazy...`
+char_jes: ` Haven't you been reading too many weird detective novels...?"`
+char_geo: `"But it does hit on a point that we can't ignore.`
+char_geo: ` ......Whether there's a 19th person or not,`
+char_geo: ` the culprit is definitely planning something based around that rule about this island."`
+char_geo: `"......Just now, listening to Battler‐kun talk, I remembered something that's a little disturbing."`
+char_but: `"Something disturbing...?"`
+char_geo: `"Yes.`
+char_geo: ` ......Do you remember?`
+char_geo: ` {f:5:Beatrice}'s letter.`
+char_geo: ` ......It said that {f:5:Beatrice} was going to collect interest.`
+char_geo: ` And as for what that interest is, it said: everything of the Ushiromiya family."`
+char_non: `Jessica and I thought back on what Maria had read aloud the previous night...`
+char_jes: `"...It said that.`
+char_jes: ` It definitely said that.`
+char_jes: ` That the collecting of the interest would now take place, but if the riddle of the gold could be solved, she would lose that right."`
+char_geo: `"...Grandfather was granted the gold, and the Ushiromiya house prospered.`
+char_geo: ` Basically, {f:5:Beatrice} is saying that everything he birthed from that gold counts as interest.`
+char_geo: ` ......In other words—"`
+char_but: `".........That's pretty scary for a joke, Aniki...`
+char_but: ` ......Don't tell me that everything of the Ushiromiya family—`
+char_but: `in other words, everything that Grandfather gave birth to—`
+char_but: `refers to everyone with Grandfather's blood flowing through their veins...?!"`
+char_geo: `"If you read the letter that way,`
+char_geo: ` ...these murders are just {f:5:Beatrice} legitimately collecting interest.`
+char_geo: ` ...If that's the case, these crimes will continue.`
+char_geo: ` ...Because the collection of interest is still only halfway completed."`
+char_non: `George turned around, looking over the parlor.`
+char_non: `{n}......There were still many people who held the name Ushiromiya.`
+char_non: `And we knew that, since Gohda‐san and Shannon‐chan had been killed,`
+char_non: ` not even the servants, who didn't bear the name Ushiromiya, would be spared...`
+char_jes: `"A‐...are we...`
+char_jes: `......all gonna be killed...?"`
+char_jes: `"...But that's weird, George nii‐san!`
+char_jes: ` Why only six people, then?`
+char_jes: ` They could have killed a lot more.`
+char_jes: ` In the worst case, it might even have been possible for them to assault us all while we were sleeping and kill everyone in a single night.`
+char_jes: ` Why didn't they do that?!"`
+char_geo: `"............The special clause.`
+char_geo: ` ...If someone managed to solve the riddle of the gold, the right to the interest would be lost.`
+char_geo: ` ......And remember how the very last part of the letter concluded?`
+char_geo: ` ...It said for everyone to try to solve the riddle of Grandfather's gold."`
+char_but: `"Jesus...!`
+char_but: ` ......It looks like we're finally getting close to understanding the culprit's message...`
+char_but: ` In other words, the culprit is telling us to try and solve the riddle on that epitaph Grandfather had made.`
+char_but: ` ......{i:Furthermore, they're saying that if we just sit around, they'll keep collecting the interest}..."`
+char_non: `I realized that this was all based on several crazy guesses.`
+char_non: `......But not everything that happens in this world is joined together in a perfect line.`
+char_non: `...Most unknown phenomena are nothing but individual points.`
+char_non: `{n}......By joining them together into lines, we deepen our understanding.`
+char_non: `The closer together the points at the ends of those lines are, the more logical it is, and the easier to understand.`
+char_non: `...And the farther away they are, the more it lacks those qualities.`
+char_non: `{n}That is why we use a distance analogy, and call such theories "way out there".`
+char_non: `{n}...However, if you can only join up to a small, limited distance away, we call it having a "limited imagination".`
+char_non: `Is imagination different from reasoning?`
+char_non: `{n}Was I just trying to force everything that I knew about the case to fit my simple imagination?`
+char_non: `No, that's not it.`
+char_non: `{n}When you're searching around with your hands in the dark, that search is imagination.`
+char_non: `Only imagination can find the two points you should connect together.`
+char_non: `{n}...Reasoning is nothing more than the action of drawing the line between them.`
+char_non: `If you can't imagine, you can't reason.`
+char_non: `{n}......What I was doing might be "out there"...but it shouldn't be wrong, either.`
+char_non: `Only the power of imagination can pull out a clue from the darkness.`
+char_non: `{n}......And the power of reasoning ties those clues together.`
+char_non: `...It's a lot like the process of searching out an enemy's weak spot and striking.`
+char_non: `It's alright if it's crazy.`
+char_non: `{n}Find the weak point first.`
+char_non: `{n}Then we can think about how to strike!`
+char_non: `Now was the time to find the points that we could tie together later...!`
+char_non: `For the time being, I put aside whether a 19th person exists,`
+char_non: ` and announced the theory that the goal of the culprit might have been to make us solve the riddle of the epitaph.`
+char_non: `Uncle Hideyoshi looked like he was really interested, but Aunt Natsuhi thought it was ridiculous.`
+char_hid: `"Of course.`
+char_hid: ` If you think about it that way, even that letter from yesterday makes sense.`
+char_hid: ` That motive seems to fit pretty well with the facts...!`
+char_hid: ` Settin' aside whoever it was that gave Maria‐chan the letter."`
+char_mar: `"Uu!`
+char_mar: ` {f:5:Beatrice} exists!!`
+char_mar: ` Uu."`
+char_non: `Even though she was puffing up her cheeks in that cute way she had been doing since yesterday, ...I couldn't think of it as cute.`
+char_non: `...If I took it lightly, it might suddenly transform into a creepy laugh...`
+char_nat: `"...The hidden gold doesn't exist.`
+char_nat: ` However, the idea that we have a culprit who foolishly believes otherwise, wants Father's gold,`
+char_nat: ` and whose motive is to make us solve the riddle and then steal the gold from us, does indeed make some sense."`
+char_nat: `"However, in that case, why did they kill those most highly ranked in the Ushiromiya family first?"`
+char_nan: `".........A good point.`
+char_nan: ` If they wanted to make us solve the riddle, killing those closest to Kinzo‐san doesn't sound like a good plan to me."`
+char_eva: `"I agree...`
+char_eva: ` Besides, if we follow that argument, wouldn't it have been quicker if they had threatened Father in the first place?`
+char_eva: ` You'd think it would be faster to just ask the person who wrote it, rather than try to force us to solve it."`
+char_hid: `"That's also a good point.`
+char_hid: ` ...'Course, I don't think that Father would let it slip from any ordinary threat."`
+char_nan: `"Anyone who knows Kinzo‐san well would surely be well aware that he won't bow to ordinary threats..."`
+char_nat: `"......He is the man who bears the burden of the Ushiromiya family and all its wealth.`
+char_nat: ` He has been exposed to many threats and attacks in the past.`
+char_nat: ` It is because he was able to overcome them that the family prospers today."`
+char_jes: `"Totally agreed on that.`
+char_jes: ` I can't imagine our grandfather letting himself get pushed around just 'cause some asshole threatened him!"`
+char_nat: `"...Jessica, that is not how we talk."`
+char_jes: `"............u...`
+char_jes: `......yes."`
+char_but: `"In that case, .........what about this one?`
+char_but: ` ......No wait, is this "out there" as well...?"`
+char_non: `...I couldn't hesitate!`
+char_non: ` A crazy idea is like a bow and arrow.`
+char_non: `...It might be hard to hit with, but it's a great weapon that can strike enemies from afar.`
+char_non: `......Research shows that most people who have died in battles were killed by wounds from arrows.`
+char_non: `......In a battle, you don't shoot off just one arrow.`
+char_non: `You shoot off a whole bunch of arrows at once, and assault the enemy soldiers with a wall of them.`
+char_non: `{n}......So shoot them, over and over!`
+char_non: ` "Assault the truth with a wall...!"`
+char_but: `"If the culprit is after the hidden gold, it would be very inefficient for them to force us to solve the riddle.`
+char_but: ` Asking the person who made it in the first place would be much quicker and easier."`
+char_but: `".........In that case, the question is,`
+char_but: ` ...is this all a message directed at Grandfather?"`
+char_non: `In other words, these murders were a threat directed at Grandfather.`
+char_non: `{n}......If he didn't tell the culprit where the gold was, his family members would be killed off one by one.`
+char_non: `What if we weren't the only ones being forced to solve this riddle...`
+char_non: ` ...What if Grandfather was too?!`
+char_non: `If you think about it that way, it explained Grandfather's mysterious disappearance.`
+char_non: `If the culprit had attacked Grandfather, then judging by the state the six bodies were left in,`
+char_non: ` he would definitely have been displayed somewhere with that horrible makeup added.`
+char_non: `But despite that, we still hadn't found him.`
+char_non: ` ......Did that mean that Grandfather had been kidnapped, and was being held somewhere?!`
+char_nat: `".........How could...`
+char_nat: ` .........You aren't saying, how could......!"`
+char_eva: `"*giggle*giggle*.`
+char_eva: ` That sounds interesting.`
+char_eva: ` ...So Father is being confined somewhere,`
+char_eva: ` and being threatened that if he doesn't tell them the location of the gold, we will be killed off one by one?"`
+char_nat: `"I struggle to understand what you find interesting about that...!"`
+char_non: `Aunt Natsuhi threatened her, but Auntie Eva just smiled calmly.`
+char_geo: `"......Since we still haven't seen him after all this time, I think that it's almost certain that Grandfather has gotten caught up in the crime.`
+char_geo: ` When you think about that, you can't just ignore Battler‐kun's theory, right...?"`
+char_eva: `"Stay quiet, George.`
+char_eva: ` ......In the first place, when exactly was it that Father went missing?"`
+char_hid: `"...Who was the last one to see Father?"`
+char_nat: `".........It was probably me.`
+char_nat: ` This morning, when we were worried that we didn't know where my husband and the rest were, we were talking about how they might be in Father's study,`
+char_nat: ` and I went to check his room and greeted him."`
+char_nat: `".........Come to think of it, I've been holding the key to his study the whole time, haven't I.`
+char_nat: ` Genji, let me return this to you."`
+char_non: `Aunt Natsuhi pulled out the gold key and handed it to Genji‐san...`
+char_non: `Looking at the key, Auntie Eva giggled...`
+char_eva: `"...Hey, Genji‐san.`
+char_eva: ` I'm sure the police will inspect Father's room thoroughly anyway.`
+char_eva: ` ...It doesn't matter what you hide, it will just be exposed anyway.`
+char_eva: ` ......So you might as well just tell us about it right here, right now, don't you think?"`
+char_gen: `"............What are you talking about?"`
+char_eva: `"It's simple.`
+char_eva: ` .........Don't forget, Father's study is a locked room, with no way in or out except for that key.`
+char_eva: ` I want to double‐check how that's being defined.`
+char_eva: ` There is one entrance to Father's study.`
+char_eva: ` And also the windows?`
+char_eva: ` Any other entrances or exits?"`
+char_gen: `"............There are none.`
+char_gen: ` There is no way to get in except for the entrance."`
+char_eva: `"You're sure about that?`
+char_eva: ` There isn't some secret hidden door or anything?`
+char_eva: ` ......Since Father isn't here, I am the highest ranked member of the Ushiromiya family.`
+char_eva: ` I am asking you as a representative of the Ushiromiya family head.`
+char_eva: ` Understand that and answer me."`
+char_eva: `"Are there any ways in or out of that room other than the main entrance?`
+char_eva: ` ......As Father's closest aide, I'm sure you know."`
+char_non: `Aunt Natsuhi looked a little offended at the part about the "highest ranked family member",`
+char_non: ` but she kept her mouth closed for the time being, and waited for Genji's answer.`
+char_non: `......I couldn't help but feel a little uncomfortable.`
+char_non: `{n}Why was she going on and on about hidden doors...??`
+char_eva: `"You too, Kanon‐kun, Kumasawa‐san—if you know, won't you tell me?`
+char_eva: ` If there is one, it would be better if you said it."`
+char_eva: `"...If there isn't, then someone is going to be very much driven into a corner in a second.`
+char_eva: ` ......If I'm given that there is a hidden door, then my argument comes to nothing."`
+char_non: `Auntie Eva didn't specify which person was about to be driven into a corner,`
+char_non: ` ...but following the flow of the conversation, I had to feel that she was referring to Aunt Natsuhi.`
+char_geo: `"......Mother, ...what are you talking about?"`
+char_eva: `"George, stay quiet for a while.`
+char_eva: ` .........What do you say?`
+char_eva: ` Genji‐san?`
+char_eva: ` Kanon‐kun?`
+char_eva: ` And Kumasawa‐san?`
+char_eva: ` Is there a hidden door?`
+char_eva: ` Or not?`
+char_eva: ` Genji‐san, when you remodeled Father's study, you must have overseen the construction.`
+char_eva: ` I won't let you say that you don't know."`
+char_gen: `"............There is nothing of that nature in the Master's study."`
+char_eva: `"You're sure?`
+char_eva: ` What about Kanon‐kun, entrusted with the One‐winged Eagle?"`
+char_kan: `"......Yes.`
+char_kan: ` I'm sure.`
+char_kan: ` ......There is nothing like a hidden door in the Master's study."`
+char_eva: `"Kumasawa‐san?"`
+char_kum: `"N‐......no, I haven't heard of such a thing..."`
+char_eva: `"What about Doctor Nanjo, who had a close relationship with Father?"`
+char_nan: `"......I, I have never heard of something like that..."`
+char_eva: `"Great!`
+char_eva: ` Then are you ready?`
+char_eva: ` Let me begin.`
+char_eva: ` It's really simple."`
+char_non: `Everyone tilted their head doubtfully, wondering what Auntie Eva was so proudly starting to talk about.`
+char_non: `...Auntie Eva laughed triumphantly, as though she were about to reveal a secret that only she knew.`
+char_eva: `"Natsuhi nee‐san was the last person to spot Father, right?`
+char_eva: ` ...I forget the exact time, but I think it was a little before nine in the morning."`
+char_eva: `"......Nee‐san, do you remember?`
+char_eva: ` I ran into you just as you were coming out of Father's study, right?"`
+char_nat: `"......Yes, I remember.`
+char_nat: ` What does that have to do with anything?"`
+char_eva: `"And the next time you went to visit Father's study?`
+char_eva: ` That was after we had found the bodies of Nii‐san and the rest, right?`
+char_eva: ` Together with me, you went up to the study to report that, and we discovered that he wasn't there."`
+char_eva: `".........By the way, Nee‐san.`
+char_eva: ` At that time, when you went to enter Father's study, did you notice anything?"`
+char_nat: `".........Notice anything?`
+char_nat: ` ...What are you talking about?"`
+char_eva: `"Come on.`
+char_eva: ` You picked up some trash, right?`
+char_eva: ` A folded receipt."`
+char_nat: `"......I do seem to remember picking up some trash.`
+char_nat: ` What does that have to do with...?"`
+char_eva: `"I got that receipt when I bought some candy at a store in the airport."`
+char_non: `Auntie Eva pulled a small bag of candy out of her handbag.`
+char_geo: `"...Aah, the receipt from when you bought that candy?`
+char_geo: ` ...But, Mother, what does that receipt have to do with anything...?"`
+char_hid: `"George, stay quiet and listen for just a little longer..."`
+char_non: `Uncle Hideyoshi's expression was a little strict.`
+char_non: `{n}...Somehow, it seemed that he understood what Auntie Eva was getting at.`
+char_eva: `"It was really just on a whim, you see?`
+char_eva: ` It wasn't out of any foresight,`
+char_eva: ` and I certainly wasn't planning on setting a trap for you or anything."`
+char_eva: `"......Actually, this receipt...`
+char_eva: ` You remember, Nee‐san, that just after you met Father and left, you met me, right?`
+char_eva: ` At that time, I stuck this into the door to the study."`
+char_but: `"......So, what does that mean?`
+char_but: ` Does it mean that, until Aunt Natsuhi picked up that receipt, no one had opened the door...?"`
+char_jes: `"W‐wait a second, Auntie Eva...!`
+char_jes: ` Sticking a receipt in would be obvious!`
+char_jes: ` It's possible that, when Grandfather opened the door, he noticed it, found it interesting, and stuck it back in the door..."`
+char_non: `Jessica hurriedly argued back.`
+char_non: `...She still didn't really know what it meant,`
+char_non: ` but she realized that, whatever it was, it was placing some kind of suspicion on her own mother.`
+char_eva: `"Of course, I folded the receipt up very small so that no one would notice it.`
+char_eva: ` But even if you assume that he saw it fall, he would have no way of knowing how high up the door it had been stuck, right?"`
+char_eva: `"I checked it while Natsuhi nee‐san was taking the key out.`
+char_eva: ` The receipt was still stuck not one millimeter away from where I had put it...!"`
+char_nat: `"I, ......I can't understand why you would pull such a childish prank!`
+char_nat: ` I, I'll bet you were the one who did that prank on the door to my room, too!"`
+char_nan: `"......The door to your room?"`
+char_nat: `"...It was unpleasant to talk about, so I didn't,`
+char_nat: ` but this morning, when I woke up, there were the signs of some prank on the outside of my door, with what was probably the same red paint that was scribbled across the shutter.`
+char_nat: ` There were some unpleasant marks, as though someone had been tearing at the door..."`
+char_hid: `"Wait, what is this!`
+char_hid: ` Why have you been silent about this until now...?!!"`
+char_nat: `"My apologies.`
+char_nat: ` Since so many horrid things have happened since then, I had completely forgotten about it until just now."`
+char_eva: `"I don't know or care about that.`
+char_eva: ` I am not talking about your door, but the door to Father's room, okay?`
+char_eva: ` After you checked that he was in his room, and until we made sure that he wasn't, that door wasn't opened even once.`
+char_eva: ` How did Father get out if he didn't use the door?"`
+char_nat: `".........I, ...I don't know that...!`
+char_nat: ` That's what I want to know!!!"`
+char_hid: `"Natsuhi nee‐san, other than you, who else checked to see whether Father was in his room?"`
+char_nan: `"The last time I met Kinzo‐san was when we were playing chess last night...`
+char_nan: ` ...I believe I was with him until just before dinner......"`
+char_hid: `"Did anyone see him after that?"`
+char_gen: `"...............I did.`
+char_gen: ` I gave him his dinner last night."`
+char_kan: `"......Yes.`
+char_kan: ` Shannon and I were with him."`
+char_hid: `"So up till then, Father was still definitely in his room.`
+char_hid: ` ...But, Natsuhi nee‐san.`
+char_hid: ` It sounds like when you found out he wasn't there, all ways in or out of the study were closed, right?`
+char_hid: ` ......But even so, you said that you met and talked with him this morning."`
+char_nan: `"......I, ......I don't understand why everyone has become so gloomy.`
+char_nan: ` ...Could someone explain it to me...?"`
+char_geo: `"M‐......Mother and Father, are you...`
+char_geo: `......saying that what Aunt Natsuhi says about meeting Grandfather this morning...`
+char_geo: `...is a lie?"`
+char_jes: `"Wh‐why the hell would she tell a lie? Mom's innocent!!`
+char_jes: ` Why the hell would she lie!!"`
+char_nat: `"Jessica!`
+char_nat: ` I keep telling you to watch your language!"`
+char_non: `All at once, everything became confused...`
+char_non: `From across the parlor table, Auntie Eva and Aunt Natsuhi confronted each other,`
+char_non: ` while George‐aniki confronted Jessica...`
+char_non: ` ......What the hell is going on...?!!`
+char_eva: `"Remember, it's only up until last night that we have multiple people saying they saw him.`
+char_eva: ` But the only one who claims that they saw Father since this morning is Natsuhi nee‐san."`
+char_eva: `"......And then there's that strange fact we learned from the receipt.`
+char_eva: ` ...So, how can we connect these points together...?"`
+char_non: `Auntie Eva urged everyone to work their imaginations...`
+char_non: `......Sure, that receipt could become an important point.`
+char_non: `{n}...But I didn't know what other point I could draw a line towards...!`
+char_non: `The answer Auntie Eva was hoping for...`
+char_non: `......was that Aunt Natsuhi had lied to make it seem as if Grandfather had been in that room this morning.`
+char_non: `And Auntie Eva's mere whim had exposed that......??`
+char_jes: `"That makes no friggin' sense!!`
+char_jes: ` Why the hell would Mom lie?!!`
+char_jes: ` She has no friggin' reason to!!"`
+char_eva: `"......That's what I want to know."`
+char_eva: `"But Jessica‐chan.`
+char_eva: ` You can't say that there's no possible reason for her to lie about Father being in the room, right?`
+char_eva: ` You see it every once in a while in detective novels, don't you?`
+char_eva: ` That trick of confusing the time of death to create an alibi."`
+char_jes: `"Wh‐what are you talking about?!`
+char_jes: ` I've never even heard of that!!"`
+char_eva: `"...We still haven't found Father yet, but if you think about it normally, it would be natural to assume that he has already been killed.`
+char_eva: ` In that case, we should expect to find his corpse soon."`
+char_eva: `"...If, at that point, the time of death could be faked, Natsuhi nee‐san would be able to create an alibi.`
+char_eva: ` ......Do you understand?`
+char_eva: ` Everyone?"`
+char_non: `...This morning, when Aunt Natsuhi went to check that Grandfather was there, she lied,`
+char_non: ` ...and he was already dead at that time?`
+char_non: `...And, she moved the body to some location, and disguised it to make it seem like he had just been killed there.`
+char_non: `......And then she could stay with everyone else to prepare an alibi.`
+char_non: `......And then, she could say "I heard someone screaming!"`
+char_non: ` or something and dash over there, and become the first to find the body along with everyone else... Is that what Auntie Eva's saying......?`
+char_nat: `"How preposterous.`
+char_nat: ` Detective novels are nothing more than indulgent entertainment!`
+char_nat: ` You can only think of such an indiscreet idea because you read them all the time!"`
+char_jes: `"Yeah!!`
+char_jes: ` Even if she tried to fake the time of death a little, all of that would be blown away in an instant once the police did their autopsy!!`
+char_jes: ` It might have fooled the people in old books, but do you seriously think that kind of trick would fly in modern Japan?!`
+char_jes: ` Are you insane?!"`
+char_eva: `"......You think so?`
+char_eva: ` This morning, when Doctor Nanjo looked at the corpses, he was only able to give a vague estimate of the time of death, right?`
+char_eva: ` Autopsy results are affected greatly by the corpse's surroundings and individual peculiarities.`
+char_eva: ` It's a very rough estimate with an uncertainty of several hours."`
+char_eva: `"And, unfortunately, the police's scientific investigation will have to wait until tomorrow.`
+char_eva: ` Measuring the exact time of death after that, even in modern Japan like you said, wouldn't be that easy, you know?`
+char_eva: ` Right, Doctor Nanjo...?"`
+char_nan: `"............Examining a corpse is an extremely difficult task that requires both experience and instinct...`
+char_nan: ` I have heard that there is a very high rate of mistaken diagnoses...`
+char_nan: ` I imagine it is very possible for a misreading of just a few hours to occur..."`
+char_hid: `"...However, for an alibi, that's more than enough!`
+char_hid: ` It's not just a trick for the classics!`
+char_hid: ` It's a trick that actually works!`
+char_hid: ` ......Natsuhi nee‐san.`
+char_hid: ` It's not like we want to suspect you, alright?`
+char_hid: ` We don't, an' that's why we just want you to prove you're innocent."`
+char_nat: `"What is this innocence you want me to prove?!!`
+char_nat: ` This morning, I definitely met with Father!!`
+char_nat: ` And he told me to keep the One‐winged Eagle engraved in my heart...`
+char_nat: ` ......Are you denying that he said that, too?!!"`
+char_nat: `"I will definitely not permit that!!`
+char_nat: ` I won't permit you to deny that Father said those words!!"`
+char_eva: `"......Maybe Father's body won't appear at all?`
+char_eva: ` Normally, a person has to be missing for seven years before they're officially declared dead.`
+char_eva: ` Wouldn't that be a clever way to extend Father's nearly finished life another seven years and keep all of his wealth for yourself!"`
+char_nat: `"I, I cannot abide this!!`
+char_nat: ` I cannot abide any more from you!!"`
+char_nat: `"I am Ushiromiya Natsuhi!!`
+char_nat: ` Although I do not have the right to wear the One‐winged Eagle on my body, it is certainly engraved in my heart!!`
+char_nat: ` Speaking that way to the wife of Krauss, successor to the head—to the person who will act as such in his place—absolutely disgusting!!!"`
+char_eva: `"What's thiiis?`
+char_eva: ` Are you going to shoot me with that gun?`
+char_eva: ` Go ahead, then?`
+char_eva: ` Why don't you just shoot?!`
+char_eva: ` You're just desperate because you can't think of a way out, aren't you?!`
+char_eva: ` Do it, just try to obscure the truth with violence...!!"`
+char_nat: `"Y‐......youuu!!!!"`
+char_non: `It wasn't like Aunt Natsuhi had been actually holding that gun at the ready and threatening anyone.`
+char_non: `{n}But after she was told to by Auntie Eva, she did hold it at the ready!`
+char_non: `...Unsurprisingly, once things got to this stage, Jessica and Genji‐san tried to stop her.`
+char_gen: `"...Madam, please, calm yourself......!"`
+char_jes: `"Mom, you aren't lying!`
+char_jes: ` So there's no reason for you to listen to this!!"`
+char_hid: `"......Calm down, Natsuhi nee‐san.`
+char_hid: ` Don't you just have to swear that Father was definitely in that room?`
+char_hid: ` Why are you getting so worked up over that...?"`
+char_nan: `"...Th‐...that's right.`
+char_nan: ` Natsuhi‐san isn't lying.`
+char_nan: ` Isn't that the end of it...?"`
+char_eva: `"Then I want you to explain.`
+char_eva: ` How did Father manage to disappear from the room?`
+char_eva: ` ...The windows were closed tight from the inside.`
+char_eva: ` And the door too, remember!"`
+char_eva: `"......If you really met with Father this morning,`
+char_eva: ` ...then you must explain how he disappeared from this "unopened door" locked‐room scenario.`
+char_eva: ` If you don't, that would mean that you are a liar after all, right?"`
+char_nat: `"How far do you plan to mock me......?!!!"`
+char_eva: `"If you want to argue back, go ahead!!`
+char_eva: ` That's right, try explaining it right here, right now.`
+char_eva: ` After that, I can apologize to you for doubting you.`
+char_eva: ` How did Father manage to get out from that locked room?!!"`
+char_nat: `"I can't explain that, and I don't need to!!"`
+char_eva: `"Really?`
+char_eva: ` Then let me explain it!`
+char_eva: ` We'll take the best parts from my perspective and yours, and come up with a more friendly explanation!`
+char_eva: ` ......I'll believe that, like you said, Father was still in his room this morning."`
+char_eva: `"But the next time the door was opened, Father wasn't there.`
+char_eva: ` You don't have any objections so far, right?"`
+char_nat: `"I have no desire to listen to anything more you have to say!!`
+char_nat: ` Shut your frivolous mouth!!"`
+char_eva: `"My reasoning goes like this, alright?`
+char_eva: ` I verified on both occasions that you were the only one to go through that door.`
+char_eva: ` And the receipt is proof of that!`
+char_eva: ` So what is the answer to the puzzle of how Father was sent out of the room regardless?"`
+char_eva: `"The window!`
+char_eva: ` He was sent out the window.`
+char_eva: ` ......Natsuhi nee‐san, you pushed Father out of the third‐story window of the study into the courtyard!!!"`
+char_nat: `"YOU....VICIOUS MALCONTENT!!!!!!!!!!!!"`
+char_kan: `"Madam, please, endure it...!!"`
+char_kum: `"Eva‐sama... Please stop this.....!!"`
+char_eva: `"Father died from the fall into the courtyard,`
+char_eva: ` and when you left saying you were going to check the doors and windows, you went and hid the corpse somewhere!`
+char_eva: ` That was probably when you took some measures to fake the time of death, right?!"`
+char_hid: `"......This all ties in with the case regardin' Krauss nii‐san and the rest, and also the case regardin' {f:5:Beatrice} last night!`
+char_hid: ` There's an extremely good chance that Natsuhi‐san is suspicious in those cases...`
+char_hid: ` Normally, I wouldn't want to say this."`
+char_hid: `"...But now it's out in the open, there's nothin' else I can do...!`
+char_hid: ` Please, Natsuhi nee‐san!`
+char_hid: ` Please explain how you can be innocent!!`
+char_hid: ` Or else, I can't help but suspect you...!!"`
+char_nat: `"Why me?!!`
+char_nat: ` Why must I, Ushiromiya Natsuhi, be insulted like this!!!!!!!!"`
+char_non: `...............Hmm.`
+char_non: ` ...Looks like everyone else has said their piece.`
+char_but: `"Ihihihi.`
+char_but: ` ...No good. {i:No goddamn good at all},`
+char_but: ` Auntie Eva."`
+char_jes: `"...Wh‐...what do you mean "no good", Battler..."`
+char_non: `Jessica looked up at me, hanging on to my every word.`
+char_non: `{n}Auntie Eva's expression was composed as always.`
+char_eva: `"......No good at all, you say? What is?`
+char_eva: ` Battler‐kun.`
+char_eva: ` Tell me."`
+char_but: `"You can only see this from one angle—that's why you're convinced that it has to be Aunt Natsuhi.`
+char_but: ` ...It's not like I'm defending her, but bluffing a checkmate like that isn't gonna work."`
+char_but: `"I think the theory you've based around that receipt is passable.`
+char_but: ` It's not a bad thread of logic.`
+char_but: ` But I'd only give it a grade of 65 at best.`
+char_but: ` If this were an exam, that'd be bad enough to get you extra lessons in detention, you know?`
+char_but: ` Ihihi!"`
+char_eva: `"...Oh my. Well, how would you break through a door sealed by a receipt, and make Father disappear? Other than by my theory?!"`
+char_but: `"Your theory is interesting, I admit.`
+char_but: ` And if we could state definitively that there was no way to make Grandfather disappear other than yours,`
+char_but: ` then we could say for certain that the last person to see him, Aunt Natsuhi, has to be responsible."`
+char_but: `"However, since there still is a possibility that she is innocent, and that these accusations are false, you can't make that claim!!"`
+char_eva: `"......Hmm. Then, Battler‐kun, who are you saying could have made Grandfather disappear, other than Natsuhi nee‐san?`
+char_eva: ` It would be impossible for anyone else to do it.`
+char_eva: ` My receipt proved that, right?"`
+char_eva: `"From the first time she visited that study,`
+char_eva: ` and until the second time when we visited it together, the study was a perfect locked room, and when the seal was broken on the locked room, he was already missing!`
+char_eva: ` If this doesn't prove that she was the culprit, what kind of trick could they have used?!"`
+char_but: `"Like I said, Auntie Eva, only 65 points.`
+char_but: ` So, let's try "flipping over the chessboard", shall we?`
+char_but: ` It's not about how they managed to make Grandfather disappear from the outside.`
+char_but: ` Think about how Grandfather disappeared from the inside."`
+char_but: `"The door had the receipt stuck in it, so it couldn't have been used.`
+char_but: ` He also couldn't have gone through a window, because they can't be locked from the outside, and when you visited the study, you checked to make sure they were locked.`
+char_but: ` So the windows also weren't used.`
+char_but: ` At that point, the study really was a locked room.`
+char_but: ` We have to accept this!"`
+char_but: `"However, the study didn't remain a locked room forever.`
+char_but: ` Once the seal created by the receipt was removed, it became possible to use the door, and possible to escape through the door."`
+char_but: `"...In other words, it's not about how Aunt Natsuhi made Grandfather disappear.`
+char_but: ` ...We need to think about how he was able to escape!!"`
+char_but: `"Grandfather's study isn't any ordinary study, right?`
+char_but: ` According to Genji‐san, there's a toilet and a kitchen and even a bedroom, almost like a little house.`
+char_but: ` ......If he hid under the bed, for example, he could trick the two of you into thinking he'd disappeared, right?"`
+char_but: `"Auntie Eva, even you didn't check that carefully, did you?`
+char_but: ` And then the two of you went back down the stairs, thinking that he wasn't there."`
+char_but: `"At that time, the receipt was already gone!`
+char_but: ` In other words, if Grandfather was hiding in his room the whole time when it was a locked room,`
+char_but: ` and escaped after letting the two of you go past him, we can crack this locked room right open!!"`
+char_eva: `"Wh‐what is this?!`
+char_eva: ` Why would Father want to do something that weird and then escape the room?!`
+char_eva: ` Don't be so absurd!"`
+char_but: `"Yeah, it might be absurd.`
+char_but: ` However, it still shows that there is a possibility that Aunt Natsuhi is being accused falsely.`
+char_but: ` Your receipt wasn't perfect.`
+char_but: ` In chess, we might call that check,`
+char_but: ` but it isn't checkmate!!"`
+char_but: `"And the thing that I like least,`
+char_but: ` is how you pressure Aunt Natsuhi to explain it, and then argue that if she doesn't, she must be guilty!`
+char_but: ` If that passes as logic, then why don't you let me......"`
+char_but: `"...flip over the chessboard one more time!!"`
+char_but: `"Auntie Eva, according to your argument,`
+char_but: ` ......you must explain to us here and now why you and Uncle Hideyoshi couldn't have killed those six last night and then casually returned to the guesthouse...!"`
+char_but: `"You've been trying to force Aunt Natsuhi to explain.`
+char_but: ` I'm sure you can prove your own innocence, right?!`
+char_but: ` Auntie Eva, who's had all of Grandfather's wealth suddenly dropped right into her hands!!"`
+char_jes: `"Th‐that's right, you're pretty damn suspicious yourself, aren't you!!`
+char_jes: ` If you say Mom's suspicious 'cause she was the last person to see him,`
+char_jes: ` then what about you, Auntie Eva, who was the last person to see Dad and the rest?!!`
+char_jes: ` Just like Battler said, prove that you two weren't the ones that killed them!!"`
+char_geo: `".........Mother, I also think that your reasoning was a little overeager.`
+char_geo: ` ......I'm sure that the receipt was an important hint."`
+char_geo: `"But, like Battler‐kun said, that's not enough to prove that Aunt Natsuhi is guilty to any degree.`
+char_geo: ` ......We're all equally suspicious.`
+char_geo: ` It's not right for only Aunt Natsuhi to be persecuted."`
+char_eva: `"Our, our noble father, crawling on the floor under his bed?`
+char_eva: ` You call nonsense like that an explanation?!"`
+char_jes: `"Then why don't you explain first?!!`
+char_jes: ` Who killed those six, and how, and then try showing us proof that you weren't involved!!"`
+char_jes: `"......*cough*,`
+char_jes: ` *cough* *cough* *cough*,`
+char_jes: ` *cough*,`
+char_jes: ` *kof*!!!`
+char_jes: ` uu, *cough* *cough* *cough*!!`
+char_jes: ` *coughCOUGH*!!`
+char_jes: ` *kofkofkofkof*!!!"`
+char_kan: `"Milady... Milady...!!"`
+char_non: `Jessica suddenly started coughing.`
+char_non: ` At first I thought that she was just choking after yelling too loud, but it seemed to be lasting too long for that, and she really looked like she was suffering...`
+char_non: `Jessica kept coughing and choking, down on her hands and knees...`
+char_nat: `"Jessica... Hang in there...!!`
+char_nat: ` Doctor Nanjo...!"`
+char_nan: `"...Jessica‐san, your inhaler, quickly.`
+char_nan: ` ......No, wait, I have one with me."`
+char_non: `Doctor Nanjo pulled a bronchodilator inhaler from his own bag, which was lying on the sofa, and handed it to Kanon‐kun.`
+char_non: `......Come to think of it, six years ago, didn't Jessica sometimes break into violent coughing and have to use that...?`
+char_non: `But six years ago, I never saw Jessica look like she was in this much pain.`
+char_but: `"......Aniki, was Jessica's asthma always this bad...?"`
+char_geo: `"It's gotten a lot worse these last few years...`
+char_geo: ` It's no problem when she's normal...`
+char_geo: ` But when an attack comes suddenly, she can't stop coughing."`
+char_jes: `"*cough* *cough*!!`
+char_jes: ` uu, ga*COUGH* *coughcough*!!`
+char_jes: ` *kofkof*, *kofkof*!!"`
+char_kan: `"......Milady, your medicine.`
+char_kan: ` .........Here..."`
+char_jes: `"...............nnn...`
+char_jes: `...`
+char_jes: ` ......*coughcough*!!"`
+char_non: `Taking the inhaler from Kanon‐kun, Jessica used it with a practiced hand.`
+char_non: `...For a while, it looked like her throat was still feeling itchy, but it gradually settled down...`
+char_but: `"Are you alright, Jessica...?`
+char_but: ` You scared me..."`
+char_jes: `"......It's no big deal.`
+char_jes: ` ...Don't worry about it..."`
+char_non: `Beads of sweat covered Jessica's whole body and she couldn't hide her rough breathing, but it looked like her sudden attack had calmed down for now...`
+char_non: `This disturbance had left the room's hostile atmosphere in an awkward, unsettled state.`
+char_non: `But that was fine.`
+char_non: ` ......There was absolutely no need to be driving up everyone's suspicions of each other.`
+char_non: `When you think about it, even probing at each other's alibis and searching for the killer were probably completely unnecessary.`
+char_non: `After all, we're just powerless, ordinary people,`
+char_non: ` and when the police come tomorrow, they'll definitely employ cutting‐edge techniques and investigate the case thoroughly,`
+char_non: ` solve all of the riddles and arrest the killer...`
+char_eva: `"............I wonder if Battler‐kun is right after all.`
+char_eva: ` ...Just like Natsuhi nee‐san is suspicious, I can't ignore the fact that we are suspicious too.`
+char_eva: ` Arguing about that now is certainly unproductive.`
+char_eva: ` ...Everything will be fine if we just leave it to the police tomorrow."`
+char_eva: `".........But don't you want to know too, Battler‐kun?`
+char_eva: ` Who the killer is?`
+char_eva: ` ...Don't you want to let them know right this very second the pain you feel from losing someone precious to you?"`
+char_but: `".........I won't deny that.`
+char_but: ` Even one day would be too long to let the bastard who pulled this detestable bullshit go."`
+char_but: `"......But that doesn't mean that I want to doubt one of the 18.`
+char_but: ` Even though I said what I said earlier, I don't even want to doubt you, Auntie Eva.`
+char_but: ` ...To me, you're an awesome aunt who's always mischievous and entertaining."`
+char_but: `"......I don't want to trade insults with an aunt like that.`
+char_but: ` Not a single person here wants to do that.`
+char_but: ` .........Right?`
+char_but: ` Everyone?"`
+char_geo: `"..................I feel the same as Battler‐kun.`
+char_geo: ` ...It's pointless to trade insults.`
+char_geo: ` ......It's probably just the stress built up because so many people have been crammed in one place since morning."`
+char_nan: `"......Probably.`
+char_nan: ` It is only natural...`
+char_nan: ` It may be easier said than done, but I think we should all relax as much as possible..."`
+char_hid: `"...............Eva.`
+char_hid: ` Don't you think we should cool our heads?`
+char_hid: ` ...I do think the receipt is gonna be an important clue in searchin' for Father's whereabouts.`
+char_hid: ` We should tell the police about it when they come..."`
+char_eva: `"...Yes, you're right.`
+char_eva: ` ...Yes.`
+char_eva: ` I just felt a little triumphant when I figured out that part with the receipt.`
+char_eva: ` ......Of course it isn't fair to only doubt Natsuhi nee‐san.`
+char_eva: ` We're just as suspicious."`
+char_eva: `"......But still, Battler‐kun?`
+char_eva: ` At least the part about the receipt is real, alright?`
+char_eva: ` ...Don't forget this.`
+char_eva: ` And try thinking deeply about what this means, okay...?"`
+char_but: `"....................."`
+char_nat: `"...................................."`
+char_non: `Auntie Eva and Uncle Hideyoshi stood up.`
+char_non: `{n}It looked like they planned on leaving the parlor.`
+char_eva: `"In the end, it's pointless for us to continue playing detectives.`
+char_eva: ` After all, the police will reveal everything in the end anyway."`
+char_non: `.........That's right.`
+char_non: `Even if we don't play this detective game, when the typhoon passes,`
+char_non: ` ...and those lively seagulls return to the harbor, everything will settle itself.`
+char_non: `Yes.`
+char_non: ` If you think about it, this kind of crime is completely trivial.`
+char_non: `......It will definitely be resolved—`
+char_non: `even if we do nothing—`
+char_non: `{i:when the seagulls cry}.`
+char_eva: `"...Natsuhi nee‐san, I'll take it that you don't want to see my face anymore?`
+char_eva: ` I feel the same.`
+char_eva: ` ...If I remember correctly, yesterday, you had some rooms prepared for us in the mansion so that we wouldn't need to go back to the guesthouse, right?"`
+char_eva: `"There should be a bath and a toilet there, as well as a lock and a chain to secure the door.`
+char_eva: ` There's even a bed to lie on, and my husband will be able to watch TV without having to fight with Maria‐chan over which channel to watch, okay?"`
+char_nat: `"....................................`
+char_nat: ` ......You may do as you please.`
+char_nat: ` ...But...make sure to be cautious."`
+char_eva: `"Thank you, Nee‐san.`
+char_eva: ` ...And mind your own business.`
+char_eva: ` I'll be counting on you to keep an eye on everyone, alright?`
+char_eva: ` Because the killer is definitely among us.`
+char_eva: ` ...And Nee‐san, make sure you don't forget that you're being watched, too."`
+char_nat: `".........Haven't you made enough parting remarks?"`
+char_eva: `"...Yes, that's enough.`
+char_eva: ` .........See you, Natsuhi nee‐san.`
+char_eva: ` ......Genji‐san, please call for us when it's dinnertime.`
+char_eva: ` Until then, we'll keep ourselves locked in with the chain."`
+char_hid: `"..........................."`
+char_nat: `"......Genji, Kanon.`
+char_nat: ` Escort them to the guest room."`
+char_eva: `"We'll be fine.`
+char_eva: ` I don't want to end up being escorted by the killer.`
+char_eva: ` In fact, I would be more comfortable if nobody left this room until we reach ours.`
+char_eva: ` .........Let's go, George."`
+char_geo: `"...............I'll stay here with everyone else."`
+char_eva: `"George...!`
+char_eva: ` The killer is in this room.`
+char_eva: ` Do you plan on staying in a place like that...?!"`
+char_geo: `"......Leaving this room...would be the same as suspecting one of my relatives.`
+char_geo: ` ...I......refuse to believe that anyone in our family is capable of something so horrifying."`
+char_eva: `"George...!`
+char_eva: ` ......Honey, say something to him...!"`
+char_hid: `".........George is already an adult.`
+char_hid: ` ...If his code tells him not to leave this room, then it's up to him.`
+char_hid: ` Let him do what he wants..."`
+char_geo: `"...Father..."`
+char_non: `Auntie Eva and Uncle Hideyoshi left.`
+char_non: `{n}The only voice that called after them was the sound of the rain.`
+char_non: `The parlor was being buried beneath the savage atmosphere...`
+char_non: `{n}When I looked at the clock, I was surprised to find that it was already evening.`
+char_non: `.........Had we really spent that much time worrying, talking, fighting about such needless things...?`
+char_non: `Feeling bored, I started clawing at my head, when...`
+char_non: `...Maria and I made eye contact.`
+char_non: `Since I had thought she was completely immersed in the TV, I was a little surprised.`
+char_but: `"......I'll believe it now."`
+char_mar: `"Uu...?"`
+char_but: `"The letter, the murders, everything—it was all {f:5:Beatrice}.`
+char_but: ` ...No, actually, I wish she would just come out and say that was true.`
+char_but: ` .........I want it to be the work of a 19th person.`
+char_but: ` Otherwise, the 18 of us will have to keep on doubting each other...`
+char_but: ` ...I think believing in a 19th person is better than that..."`
+char_mar: `".............................."`
+char_but: `"...Bringing Grandfather outside without opening the doors or windows must be a piece of cake for {f:5:Beatrice}, right...?"`
+char_non: `Maria, after taking a single, short breath, hung her head, ......and then raised her face again.`
+char_mar: `"............That's right.`
+char_mar: ` Kihihihihihihihi, locking a door is useless against a witch.`
+char_mar: ` ......{f:5:Beatrice} is familiar with all 72 demons.`
+char_mar: ` The 33rd ranked, Gaap, gives the power to instantly carry the desired person to any location."`
+char_mar: `"...To her, taking a person out of any locked room isn't hard at all, you see?`
+char_mar: ` Kihihi{0}hi{0}hi{0}hi{0}hi{0}hi{0}hi{0}hi{0}hi{0}hi{0}hi{0}hi{0}hi{0}hi{0}hihi..."`
+char_but: `"Witches sure are incredible.`
+char_but: ` ......Tell her, if she still plans on committing another crime, to do it in a way that no human could,`
+char_but: ` ......to make me believe that a 19th person,`
+char_but: ` ......no, a witch, exists."`
+char_mar: `".................................Kihihi.`
+char_mar: ` ......Alright.`
+char_mar: ` If I meet her, I'll tell her."`
+char_non: `Dammit...`
+char_non: ` I don't even understand my own thoughts anymore...`
+char_non: `When I'm led to believe in a 19th person, I deny it, and when I'm led to believe that there are only 18 people, I deny that too.`
+char_non: `Even though I wish that there were more than just the 18 people here, I can't accept the existence of that 19th person.`
+char_non: `......In short, even though there are more than 18 people, there are less than 19.`
+char_non: `{n}......The number of people in this mansion is 19>X>18.`
+char_non: `{n}So the number of people can't be represented by an integer.`
+char_non: `......However, it's impossible for there to be anything after the decimal point.`
+char_non: `{n}You shouldn't be able to represent the number of people with anything but an integer.`
+char_non: `...And yet, 19>X>18.`
+char_non: `{n}Why does a fraction less than 1 play into this...!`
+char_non: `It's no wonder.`
+char_non: ` ...That 19th person is an {i:invisible being, that can't be {y:1:‘seen’}{n:1:seen}}.`
+char_non: `{n}That's why, in the integer representation that must be used to describe numbers of people, she {i:can't be {y:1:‘seen’}{n:1:seen}}.`
+char_non: `That witch cannot be {y:1:‘seen’}{n:1:seen}.`
+char_non: `{n}Because {f:5:Beatrice} has no body.`
+char_non: `{n}Therefore, she is invisible.`
+char_non: `Is there a 19th person, or not?`
+char_non: `{n}Does the witch exist, or not?`
+char_non: `19>X>18.`
+char_non: `{n}...The witch exists somewhere in that X...!`

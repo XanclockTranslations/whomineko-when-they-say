@@ -1,0 +1,605 @@
+char_rud: `...Hideyoshi's claim that advertising doubled the taste was apparently right.`
+char_rud: `The kids and Nanjo, who had been chased out to the guesthouse, had gathered in the cousins' room,`
+char_rud: ` and were eating the cake that Kumasawa had brought there for dessert.`
+char_rud: `It was both wonderful and high‐class, with lavish amounts of cream and decorated deliciously with fruits,`
+char_rud: ` but even though it was delicious, for some reason it didn't taste quite as good...`
+char_jes: `"Haha, without Gohda‐san's advertising, it doesn't taste nearly as good."`
+char_but: `"And good frickin' luck asking Kumasawa baa‐chan for advertising, she'll just say it's made out of mackerel."`
+char_mar: `"Uu?!`
+char_mar: ` Really?!`
+char_mar: ` You can make cake from mackerel?!"`
+char_kum: `"Hoh‐hoh‐hoh‐ho.`
+char_kum: ` Oh, goodness, yes, this cake too, if you mix the squeezed juice of a mackerel in with the flour and eggs and bake it up, it comes out all fluffy.`
+char_kum: ` Hoh‐hoh‐hoh‐ho."`
+char_geo: `"That would be incredible if true.`
+char_geo: ` Maybe mackerel cake will show up on the new menu at Father's stores."`
+char_but: `"Wahahaha!`
+char_but: ` Because mackerel is full of nutrients and has a healthy image.`
+char_but: ` It could be really popular with women and old people!`
+char_but: ` But I'm not gonna get anywhere near it!"`
+char_jes: `"Girls won't eat something that weird."`
+char_nan: `"Even old people would wish to decline."`
+char_kum: `"Hoh‐hoh‐hoh‐ho!`
+char_kum: ` But it's delicious!"`
+char_non: `Kumasawa was really raising the mood with the mackerel jokes that were her specialty.`
+char_non: ` ...But the sound of the downpouring rain invariably focused their concern on the mystery guest.`
+char_non: `In the end, they ended up showering Maria with questions again, since she was the only person here to have met {f:5:Beatrice}.`
+char_geo: `".........I never believed...that story was true."`
+char_but: `"From the way you say that, it sounds like this wasn't the first time you heard that Maria was meeting a witch, even if you didn't believe it."`
+char_jes: `"...Yeah.`
+char_jes: ` I thought it was a pretty typical fairy tale for people of that imaginative age."`
+char_mar: `"Exiiists!!`
+char_mar: ` {f:5:Beatrice} "exiiists"!`
+char_mar: ` Every year when we come to the family conference, I see her and we play together!"`
+char_kum: `"That's right.`
+char_kum: ` Although {f:5:Beatrice}‐sama doesn't usually show herself,`
+char_kum: ` I hear that she sometimes unexpectedly appears before honest people with clean hearts, to play pranks.`
+char_kum: ` Hoh‐hoh‐ho."`
+char_non: `{f:5:Beatrice} was a name which referred to the being in that fairy tale about the Rokkenjima witch.`
+char_non: `Because the family and the servants publicly accepted the image of the witch of Kinzo's delusions to keep him in a good mood,`
+char_non: ` it became established as Rokkenjima's fairy tale, or maybe ghost story...`
+char_non: `To the family members who knew that history, the fairy tale of the Golden Witch didn't have much substance.`
+char_non: ` ...However, they hadn't been able to say that in front of Kinzo.`
+char_non: `So to those who didn't know the history,`
+char_non: ` ...like young Maria, for example, it definitely wasn't unsubstantial, ...but a real legend of a witch.`
+char_non: `So Maria believed in the legend of the witch.`
+char_non: ` She swallowed it whole.`
+char_non: `...That was natural for an imaginative girl who believed in witches.`
+char_non: `So no one said anything to betray her dream.`
+char_non: `{n}...On the contrary, they arranged things together to get her excited about her dreams.`
+char_geo: `"...So even on those times when Maria‐chan showed off candy and said that {f:5:Beatrice} had given it to her,`
+char_geo: ` ...I thought that somebody had probably slipped a candy into Maria‐chan's handbag or something to create that impression."`
+char_nan: `"............I have also put on such performances on a few occasions in the past,`
+char_nan: ` secretly placing sweets somewhere for her.`
+char_nan: ` ...Probably, Kumasawa‐san too—no—I expect all of the servants and all of the Ushiromiya family have done it once or twice."`
+char_but: `"......So, if it will make a small, innocent kid happy, you sometimes plan it together and place some sweets somewhere.`
+char_but: ` ......In that case, I'll bet you do that kind of thing all the time, right, George‐aniki?"`
+char_geo: `"............Who knows."`
+char_non: `Admitting that would probably be unrefined.`
+char_non: `George admitted it while being extremely wary that Maria didn't find out.`
+char_but: `"In other words, ......it's kinda like Santa Claus.`
+char_but: ` To protect a kid's dreams, the parents plot together and lie, setting presents at the bedside of a child fast asleep."`
+char_jes: `"......I mean, you do want to protect kids' dreams.`
+char_jes: ` ...As for me, I obviously found out that Santa didn't exist a long time ago.`
+char_jes: ` ......But if it was okay not to wake from that dream, I'd have liked to have believed it my whole life."`
+char_nan: `"...Because they know that the world is tough,`
+char_nan: ` ...adults want to at least protect a child's untainted dreams."`
+char_mar: `"Uu!!`
+char_mar: ` {f:5:Beatrice} exists!`
+char_mar: ` "Exiiiists"!!!"`
+char_kum: `"Oh, goodness, certainly.`
+char_kum: ` {f:5:Beatrice}‐sama does exist, you know?`
+char_kum: ` Some time ago, when I was drying mackerel to make some black tea, all of a sudden—"`
+char_geo: `"......Well, that's basically how it went.`
+char_geo: ` ...Or at least, how we thought it went."`
+char_but: `"To sum up,`
+char_but: ` ......she's a witch that supposedly no one believed in, except for Maria."`
+char_geo: `"Those words don't quite explain it.`
+char_geo: ` ......It's not that we didn't believe.`
+char_geo: ` ...We were trying to let {i:her} believe."`
+char_non: `So this was about not betraying a child's innocence.`
+char_non: `But Santa doesn't exist in reality.`
+char_non: ` If you don't want them to be all disappointed when they learn that, you should just not give them that dream in the first place.`
+char_non: `...Did I think like that because I was still a long way from becoming a full adult?`
+char_non: `Battler had finally attained a level of understanding about the true form of the Rokkenjima witch.`
+char_non: `.........But the current situation lay on an even higher level of understanding than that,`
+char_non: ` and overturned all its premises...`
+char_but: `"......That's all we believed the witch {f:5:Beatrice}‐sama to be, but then she actually appeared.`
+char_but: ` Right."`
+char_but: `"Furthermore, judging from our parents' uproar, it looks like she wasn't an invited guest.`
+char_but: ` ......That sounds kinda interesting."`
+char_geo: `"There actually is no basis to say that a woman called {f:5:Beatrice} doesn't exist.`
+char_geo: ` ......It's what Uncle Rudolf called a Devil's Proof.`
+char_geo: ` ......None of us knew that a woman calling herself {f:5:Beatrice} existed."`
+char_geo: `"...But that doesn't mean we can deny the possibility that {f:5:Beatrice} exists."`
+char_jes: `"......Doctor Nanjo, you've been friends with Grandfather for a long time, right?"`
+char_nan: `".....................`
+char_nan: ` ...There was a period when I was questioned quite a lot on this topic at the family conferences, by Krauss‐san and the others.`
+char_nan: ` ......The topic of whether Kinzo‐san may have had a mistress long ago, and even a hidden child with her."`
+char_but: `"I see.`
+char_but: ` Our parents' heads are full with the distribution of the inheritance.`
+char_but: ` So it's blindingly obvious that if the daughter of a mistress showed up, it'd mean trouble for them."`
+char_nan: `"Krauss‐san and the rest probably asked Genji‐san about it first.`
+char_nan: ` However, Genji‐san has sworn loyalty to Kinzo‐san as his right‐hand man, ...and is probably a more trusted friend to Kinzo‐san than myself."`
+char_nan: `" ......I imagine Genji‐san didn't tell them anything.`
+char_nan: ` ......And so they turned to me as his next‐oldest friend, I suppose..."`
+char_but: `"And?`
+char_but: ` ......When all is said and done, Doctor Nanjo,`
+char_but: ` ......{i:did} Grandfather have a mistress called {f:5:Beatrice}?"`
+char_nan: `"...............He did.`
+char_nan: ` ...No, I have never met her.`
+char_nan: ` ...However, I have heard from Kinzo‐san that he did have a relationship with a woman like that.`
+char_nan: ` .........He said that she passed away a very long time ago."`
+char_but: `"......She's dead.`
+char_but: ` ......And did he have a child with her?"`
+char_nan: `"That, I do not know.`
+char_nan: ` ......But Kinzo‐san always says that he is researching how to revive {f:5:Beatrice}."`
+char_nan: `"...Usually, if one loses a lover and has a child left from them, they would pour all of that love on that child.`
+char_nan: ` ......Therefore, we naturally thought that there probably wasn't a child between Kinzo‐san and {f:5:Beatrice}..."`
+char_but: `"............Hm?`
+char_but: ` ....That makes that a Devil's Proof as well."`
+char_jes: `"......It does.`
+char_jes: ` ......It's impossible to prove that he "didn't" have a child with his mistress.`
+char_jes: ` ......So now that she's actually appeared, we have to assume that he "did"."`
+char_geo: `"That's a bit of a rushed argument.`
+char_geo: ` ......It's more realistic that someone caught wind of the trouble over the Ushiromiya inheritance issue,`
+char_geo: ` found out about Grandfather's relationship with a mistress long ago,`
+char_geo: ` and impersonated her, trying to work their way into the inheritance issue."`
+char_but: `"......It is more realistic.`
+char_but: ` ...However, we can't deny the possibility that she really is a hidden child,`
+char_but: ` who lived in isolation, forgotten by Grandfather, and who's returned for revenge, right...?"`
+char_jes: `"Revennnge?!`
+char_jes: ` The hell did that come from?!"`
+char_but: `"Aaah, sorry, sorry...`
+char_but: ` I'm a guy, we just like to embellish things to make them more interesting.`
+char_but: ` I've seen too many weird dramas.`
+char_but: ` Ihihihi!"`
+char_non: `Normally, that would have been a light joke.`
+char_non: `......But it had come when a mystery guest calling herself {f:5:Beatrice}, who no one had invited,`
+char_non: ` had marched in on the day of the family conference, the day of the inheritance distribution discussion, which even without the witch was threatening to become a bloodbath.`
+char_non: `.........There was no way that Battler's joke would be welcomed with laughter.`
+char_non: `So it was a really big help when Nanjo laughed energetically to calm everyone down.`
+char_nan: `"Hahahahaha...`
+char_nan: ` I see, I see, that does sound quite interesting.`
+char_nan: ` I should love to read a novel with a plot like that."`
+char_but: `"Well, I don't think that could happen in reality.`
+char_but: ` ......After all, right now, on this island, there's one, two, three... 18 people, right?"`
+char_but: `"If she did something weird, we could immediately restrain her.`
+char_but: ` And thanks to the typhoon, she can't even leave the island.`
+char_but: ` Basically, there's just no way she could even begin to pull off a crazy crime like that."`
+char_geo: `"......I agree.`
+char_geo: ` In a dead‐end without any way to escape, and in a situation where everyone is suspicious of her,`
+char_geo: ` I really don't think she could pull off a terrifying revenge tragedy like that."`
+char_nan: `"I imagine not.`
+char_nan: ` ...If revenge was her aim, it would have been more realistic for her to come in secret, without showing herself.`
+char_nan: ` You don't often hear about people appearing openly for revenge except in historical plays."`
+char_jes: `"I wouldn't be so sure about that?`
+char_jes: ` Revenge is based on emotion, not frickin' logic.`
+char_jes: ` And if she wants revenge so badly she's ready to give her life for it, she might not be much afraid of the police or the number of people or that there's no way out."`
+char_geo: `"It's alright, Jessica‐chan.`
+char_geo: ` Nothing as horrible as we imagine will happen."`
+char_but: `"Ihihi!`
+char_but: ` Like the battle royal between our parents over the inheritance isn't horrible."`
+char_jes: `"......You're right.`
+char_jes: ` ...Dad and Uncle Rudolf are pretty tough, and Auntie Eva's even trained in the martial arts.`
+char_jes: ` ......We'll be OK.`
+char_jes: ` Yeah..."`
+char_non: `Jessica didn't say it, but she had vaguely noticed that her own father opposed all of the other siblings regarding the inheritance.`
+char_non: `They acted like everything was good in front of the children, but when that pretense was lifted away, like it had been at dinner, it would become a tumultuous uproar.`
+char_non: `It was only natural that Jessica, realizing that,`
+char_non: ` would be frightened that her father and mother had gotten into some kind of trouble,`
+char_non: ` ...and were about to be sacrificed for something terrifying...`
+char_but: `"Seriously.`
+char_but: ` George‐aniki's right.`
+char_but: ` ...Nothing's gonna happen.`
+char_but: ` Even if she pretends she's a witch,`
+char_but: ` what can a single {i:human woman} who can't even use magic do?"`
+char_mar: `"Kihihihihihihihihihihihihihihihihihihi..."`
+char_mar: `The sudden, creepy laugh made all of us jump.`
+char_mar: `......And when we realized that this strange laugh was coming from Maria, we were shocked again.`
+char_mar: `".........So that's how it is.`
+char_mar: ` ...That's your perception, isn't it, Battler?"`
+char_but: `"Wha‐.........what is?`
+char_but: ` Don't laugh all creepy like that."`
+char_mar: `"You accept {f:5:Beatrice}'s existence for now.`
+char_mar: ` At least you accept her as the 19th person and a guest.`
+char_mar: ` ............But that's all, right?`
+char_mar: ` ...You don't accept that the 19th person, {f:5:Beatrice}, is a witch, right...?"`
+char_but: `"You surprised us all for that?`
+char_but: ` ......Of course I don't.`
+char_but: ` {i:There's obviously no such thing as witches}.`
+char_but: ` It's impossible for it to be anything other than a human woman pretending to be one."`
+char_mar: `"......Kihihihihihihihihihihihihihihi.`
+char_mar: ` Hmmm...?`
+char_mar: ` That makes no sense, Battler.`
+char_mar: ` ......That's a Devil's Proof, you know?`
+char_mar: ` ......There's obviously no such thing as witches?`
+char_mar: ` But that just means you've never met a witch,`
+char_mar: ` and doesn't mean you can deny that witches exist, right...?"`
+char_but: `"...............`
+char_but: ` .........That's right.`
+char_but: ` ...That really is right.`
+char_but: ` I can't prove that witches don't exist.`
+char_but: ` ......However, even if I can't prove it, I can claim it.`
+char_but: ` I claim that witches don't exist."`
+char_mar: `"How...?`
+char_mar: ` How can you claim that witches don't exist even though you can't prove it...?"`
+char_but: `"'Cause stuff like that doesn't exist."`
+char_mar: `"Kihihihihihihihihihihihihihihihi!`
+char_mar: ` And that's QED?`
+char_mar: ` Proof concluded without any evidence or basis?`
+char_mar: ` A classic example of how ignorance shelves its problems.`
+char_mar: ` A reckless suspension of thought.`
+char_mar: ` Kihihihihihihihi...!"`
+char_but: `"In that case, I have one answer, Maria.`
+char_but: ` ......The witch side has to show some proof themselves.`
+char_but: ` This is also part of the Devil's Proof.`
+char_but: ` ......If you bring one, it'll be over quickly."`
+char_but: `"...In our case, this lady calling herself {f:5:Beatrice}...`
+char_but: `just has to perform some magnificent magic, like sending out some sparkling stars with her wand or something,`
+char_but: ` {i:and show us something that's impossible for {y:0:Human}{n:0:human}s},`
+char_but: ` right?"`
+char_kum: `"......Come now, you two.`
+char_kum: ` Please settle down..."`
+char_non: `Kumasawa noticed that the atmosphere between them was getting worse, and tried to calm them.`
+char_non: `...It seemed as though Battler quickly realized that he was acting immaturely.`
+char_non: `But Maria's expression didn't loosen.`
+char_non: ` ......She kept staring at Battler as she laughed creepily...`
+char_jes: `"You quit it too, Maria.`
+char_jes: ` ...Let's get back in a good mood, alright?"`
+char_mar: `"Kihihihihihihihihihihi, kihihihihihihihihihihihihi."`
+char_but: `"....................."`
+char_mar: `"......If that's what you want, {f:5:Beatrice} will show you, I'm sure.`
+char_mar: ` {i:Something impossible for {y:0:Human}{n:0:human}s}.`
+char_mar: ` And then you too will believe, right?`
+char_mar: ` About {f:5:Beatrice}."`
+char_but: `"............Sure.`
+char_but: ` ......If she lets me have a look‐see, I'll believe."`
+char_mar: `"It's a chess argument between the witch and you, Battler.`
+char_mar: ` .........If you get checkmated, you will believe in the witch."`
+char_but: `"Oh, that's a stylish analogy.`
+char_but: ` ......The witch shows her magic.`
+char_but: ` My king is put into check."`
+char_but: `"I quibble, saying that it would be possible to reproduce that by measures even a human could take, and create an escape for my king.`
+char_but: ` ...If I can't do that, it's checkmate—that's a pretty good analogy."`
+char_mar: `"Battler.`
+char_mar: ` ......In chess, you and your opponent have pieces which move in the same way.`
+char_mar: ` That's why you can read your opponent's moves."`
+char_mar: `"............But you know what?`
+char_mar: ` You haven't supposed that your opponent's pieces might be able to move in much more strange ways than yours.`
+char_mar: ` You've simply assumed that, since witches shouldn't exist, the movements of {f:5:Beatrice}'s pieces will obviously be the same as your own."`
+char_but: `"..........................."`
+char_mar: `"......But the thing is,`
+char_mar: ` .........sorry, Battler, but your chess partner isn't {y:0:Human}{n:0:human}.`
+char_mar: ` She's a witch.`
+char_mar: ` ......She can move her pieces in ways that {y:0:Human}{n:0:human}s can't.`
+char_mar: ` .........Right now, your perception of that is wrong.`
+char_mar: ` ...Battler, you like Auntie Kyrie's chessboard thinking, right?"`
+char_but: `".........Yeah.`
+char_but: ` I like that style of thinking where you stand in your opponent's position."`
+char_mar: `"And that's no good.`
+char_mar: ` Even though your opponent is a witch, you won't accept that.`
+char_mar: ` .........So you can't understand the moves a witch can make, and your chessboard thinking won't work.`
+char_mar: ` Your perception of your opponent is wrong.`
+char_mar: ` The very first premise of chessboard thinking is broken down."`
+char_but: `"........................Hoh,`
+char_but: ` ...is that what you say?"`
+char_mar: `"{i:{ruby:sonata:You} cannot win in chess against a witch}...!`
+char_mar: ` Kihihi{0}hi{0}hi{0}hi{0}hi{0}hi{0}hi{0}hi{0}hi{0}hi{0}hi{0}hi{0}hi{0}hi{0}hi{0}hi{0}hi{0}hi{0}hi{0}hi{0}hi{0}hi{0}hi{0}hi{0}hi{0}hi{0}hi{0}hi{0}hi{0}hi{0}hi{0}hi{0}hi{0}hi{0}hi{0}hi{0}hihihi!"`
+char_sha: `"...I do not know what happened after that.`
+char_sha: ` We servants were ordered not to approach the dining room..."`
+char_geo: `".........I see.`
+char_geo: ` So, Shannon, have you, uh, ever met this person called {f:5:Beatrice} before?"`
+char_sha: `"...........................`
+char_sha: ` ......I have no idea."`
+char_non: `That was a slightly odd way to say it.`
+char_non: `{n}I thought it didn't sound like she meant her memory was vague.`
+char_sha: `"......For us servants, {f:5:Beatrice}‐sama is another master of this mansion.`
+char_sha: ` ......Some speak as if we spread that rumor due to having been influenced by the Master, but..."`
+char_sha: `"......Since the time I started working here, the story of {f:5:Beatrice}‐sama was already whispered about."`
+char_geo: `"I heard about it before.`
+char_geo: ` ...How you'll get cursed if you don't respect her, and how there was a servant who actually had an accident this way."`
+char_sha: `"Yes...`
+char_sha: ` ......But it's true that some people believed more or less than others.`
+char_sha: ` ...I, umm, ...believe that respect for that sort of thing shouldn't be forgotten, so I have never doubted that she exists."`
+char_sha: `"......I dimly believed that a...`
+char_sha: `...umm......uncertain being called the Golden Witch surely existed."`
+char_geo: `"...And then that witch whose existence was uncertain actually showed herself and came in openly through the entrance hall... Is that what happened?"`
+char_sha: `".........I don't know.`
+char_sha: ` ...............I don't know...anything."`
+char_geo: `"............`
+char_geo: ` ...When you brought her dinner, did you talk about anything?"`
+char_sha: `".................................`
+char_sha: ` ......No, nothing."`
+char_geo: `"I see.`
+char_geo: ` ...Still, a witch that eats food...somehow doesn't sound so realistic.`
+char_geo: ` Maybe it's just someone who knows about the witch legend on this island taking on {f:5:Beatrice}'s name after all."`
+char_geo: `".........I think you've probably come to respect {f:5:Beatrice} and think of her as something like a guardian goddess of the mansion.`
+char_geo: ` So when a person appeared actually calling themselves that, maybe you were a little disturbed."`
+char_sha: `".........`
+char_sha: ` .........Yes.`
+char_sha: ` I think that definitely could be it."`
+char_non: `George was slightly at a loss at what to do about Shannon's downcast appearance.`
+char_non: `......Possibly,`
+char_non: ` not just Genji, but also the young servants, including Shannon,`
+char_non: ` had been strictly questioned about whether they had a clue as to who this person called {f:5:Beatrice} was...`
+char_non: `Thinking that, he had tried to cheer her up somehow.`
+char_non: `Like Maria and Jessica, Shannon too must be unable to completely hide her agitation over the sudden visit of a person calling herself the Golden Witch.`
+char_non: `He thought that must be the case.`
+char_non: `{n}...But George had no way of knowing what was in Shannon's heart.`
+char_non: `Shannon was bitter and sad.`
+char_non: `......The door to the Golden Land...would be opened.`
+char_non: `{n}......The witch had definitely told her that.`
+char_non: `That meant...the demise of everything.`
+char_non: `.........Even if she accepted the ring from George,`
+char_non: ` ............now, they could never be married.`
+char_non: `No, .........in the first place...`
+char_non: `{n}...Did furniture like her......have the right to be married?`
+char_non: `Even if the witch hadn't come to tell of their demise, ......wasn't it fated to fail sometime or another?`
+char_non: `Hadn't she turned her gaze towards the fun days with George, ...and purposefully closed her eyes to the sad reality?`
+char_geo: `"............What's wrong?`
+char_geo: ` ...You've really been seeming down for a while now."`
+char_sha: `"George‐san.`
+char_sha: ` ......What does it mean...to be engaged?"`
+char_geo: `"Huh?!`
+char_geo: ` Ah, ......err!`
+char_geo: ` It means making a promise to marry.`
+char_geo: ` ...But the way I think of it, it means the same thing as marriage."`
+char_geo: `"......Honestly, I want to take you as my wife right now, and take you back home.`
+char_geo: ` ......But right now, I am in the middle of training, and I'm still a long way from gaining the ability needed to create my own castle.`
+char_geo: ` That's why I want to become an independent man first, and only then, proudly take you home with me."`
+char_geo: `"I'm not talking about the distant future.`
+char_geo: ` I just want you to wait a short three years.`
+char_geo: ` ......But even so, I don't want to lie about my feelings for the next three years."`
+char_geo: `"So, ......I decided to give you an engagement ring.`
+char_geo: ` ......That might be a shameful reason as a man.`
+char_geo: ` An engagement because I want you to wait, because I can't balance a wife and a job, might be shameful.`
+char_geo: ` ......But I will never—"`
+char_sha: `".........Thank you very much.`
+char_sha: ` ...I now understand that to you, an engagement ring isn't just another present you would give to a lover."`
+char_geo: `"O‐of course not.`
+char_geo: ` An engagement ring isn't a simple accessory.`
+char_geo: ` It's an oath between lovers, a precious promise left in the form of a ring."`
+char_sha: `".........*giggle*.`
+char_sha: ` ...In that case, if we got married quickly, it would become unnecessary, right?"`
+char_geo: `"The‐then it wouldn't be an engagement ring I'd give you.`
+char_geo: ` I'd give it to you as a wedding ring.`
+char_geo: ` ......Either way, it won't change the fact that I'll give you a ring."`
+char_sha: `"So it's like a sales contract, saying "This woman is mine, nobody touch her"."`
+char_geo: `"Nn......no, umm, ......that's not what I......`
+char_geo: ` ...............*cough*."`
+char_non: `George knew about his shameful character.`
+char_non: ` When he had fallen for Shannon, and sworn to become an excellent man, he had sworn to part ways with that shameful part of himself.`
+char_non: `......So, he chose to answer a little roughly on purpose.`
+char_non: `{n}...Believing that Shannon would find it reassuring.`
+char_geo: `".........No, ...that may be exactly it.`
+char_geo: ` .........Sayo.`
+char_geo: ` I'll make you my wife.`
+char_geo: ` ...I won't give you to anyone else.`
+char_geo: ` I'll make you all mine.`
+char_geo: ` ...So no one better lay a hand on you.`
+char_geo: ` ......That's what this ring is.`
+char_geo: ` ...Without a doubt."`
+char_sha: `"Thank you very much, George‐san.`
+char_sha: ` ............I'm truly...happy."`
+char_non: `Then, George‐san.`
+char_non: `......If it was decided by fate that this engagement ring, ......that this promise would not be fulfilled, ......would you still give it to me...?`
+char_non: `...Shannon was about to ask that, ...but she swallowed her words.`
+char_non: `Because George had already spoken the answer.`
+char_non: `......George had said it.`
+char_non: ` He had said that to him, an engagement ring was infinitely similar to a wedding ring.`
+char_non: `Therefore, accepting George's ring had a far more sacred significance than a promise to marry.`
+char_geo: `"Which is why...`
+char_geo: `...I will stop calling this an engagement ring.`
+char_geo: ` From now on, this isn't an engagement.`
+char_geo: ` It's a wedding ring."`
+char_sha: `"Is, ...is that alright...?`
+char_sha: ` Is it alright to, umm, just proclaim that we're married without God's blessing......?"`
+char_geo: `"Yeah.`
+char_geo: ` It's enough to tell God, Father, and Mother about it afterwards.`
+char_geo: ` We'll declare that the two of us have been joined in marriage.`
+char_geo: ` ..........No one can overturn it."`
+char_sha: `".........George‐san......"`
+char_geo: `"I'm not saying this because of a momentary emotion.`
+char_geo: ` I'm not just looking at how you are now.`
+char_geo: ` .........I'm looking at how you will be tomorrow, and the next day.`
+char_geo: ` ...I'm even gazing at you as you'll be in old age, in the future, as I say this."`
+char_sha: `"......You are always telling me about that, George‐san.`
+char_sha: ` ...About how you want to spend your old age slowly, surrounded by sprightly children and grandchildren."`
+char_geo: `"Yeah.`
+char_geo: ` At that time, an older you will be beside me.`
+char_geo: ` That is what I predict—no—what I foresee.`
+char_geo: ` ...Yes.`
+char_geo: ` Because that day will surely come."`
+char_sha: `".....................Will it...`
+char_sha: `surely come?`
+char_sha: ` {e:070:......Is it OK......for me to believe?}{e:100:"}`
+char_geo: `"Yes.`
+char_geo: ` Surely.`
+char_geo: ` Definitely.`
+char_geo: ` ......And this ring proves it without words."`
+char_sha: `"............Show it to me...`
+char_sha: `...please."`
+char_geo: `"Huh?`
+char_geo: ` Ah,`
+char_geo: ` ah,`
+char_geo: ` ah,`
+char_geo: ` .........h‐he‐here it is...!"`
+char_non: `George, thinking he was being told to show her the ring, hurriedly took out the ring box.`
+char_non: `...Even though he had practiced so much, he hadn't been able to look cool.`
+char_non: `But Shannon wasn't looking at that.`
+char_non: `......With a straight and direct gaze, with faint tears and a smile...`
+char_non: `.........She was staring right at George's eyes—no, into something she could see beyond his eyes...`
+char_sha: `"......Show me...`
+char_sha: `......that future,`
+char_sha: ` .........please."`
+char_geo: `"Ah............yeah.`
+char_geo: ` ......I'll show it to you.`
+char_geo: ` For sure.`
+char_geo: ` ......I promise.`
+char_geo: ` .........And not just until old age.`
+char_geo: ` ...After we die too.`
+char_geo: ` ...Even if we become spirits, we'll always, always be together."`
+char_non: `Shannon wiped away her tears and took the ring box.`
+char_non: ` Inside was a diamond ring more than worthy of blessing the two of them.`
+char_non: `George said the line that he had practiced over and over again inside his head.`
+char_geo: `"I, ......I want you to put that ring on whatever finger you like, and have that be your answer.`
+char_geo: ` Umm, so, by tomorrow morning......"`
+char_sha: `"......*giggle*."`
+char_non: `Shannon smiled, took the ring,`
+char_non: ` ......and with a completely natural movement, put it on the ring finger of her left hand.`
+char_non: `It really had looked, ......like a very, very natural movement,`
+char_non: ` and for a while, George was stunned...`
+char_sha: `"This...is my answer.`
+char_sha: ` ...George‐san."`
+char_geo: `"Shannon......`
+char_geo: ` No,`
+char_geo: ` .........Sayo..............."`
+char_sha: `"......Even if we become spirits,`
+char_sha: ` .........we'll always,`
+char_sha: ` ............always......`
+char_sha: `be together.`
+char_sha: ` .........George‐san."`
+char_non: `There was no blessing from God, no pastor to witness, nothing.`
+char_non: `{n}But the two to be married had proclaimed it.`
+char_non: `{n}...Two souls were joined here today.........`
+char_kan: `".....................Nee‐san, ............you're an idiot."`
+char_sha: `"......Am I really?"`
+char_kan: `"Even though you're furniture......`
+char_kan: ` ......Even though...you're furniture......!"`
+char_sha: `"I'm not furniture.`
+char_sha: ` Not anymore."`
+char_kan: `"......Liar!!`
+char_kan: ` Why are you fooling yourself?!`
+char_kan: ` You know that you can never become human!`
+char_kan: ` You know that you can't become human unless you go to the Golden Land!!"`
+char_kan: `"......So why did you throw away the promise that enabled you to go to the Golden Land...?!!"`
+char_sha: `"Oh yeah.`
+char_sha: ` By accepting the ring, ......that promise with {f:5:Beatrice}‐sama comes to nothing, doesn't it?`
+char_sha: ` ......*giggle*, sorry."`
+char_kan: `"............Now, me, you, George‐sama, the Master, each and every one of us has the same conditions.`
+char_kan: ` Thirteen people will be made sacrifices.`
+char_kan: ` Only five will be invited to the Golden Land.`
+char_kan: ` ......And you......rejected one of those places,`
+char_kan: ` ......yourself......"`
+char_sha: `"That's odd.`
+char_sha: ` ......It looks like you're the one with lingering regrets, Kanon‐kun."`
+char_kan: `"You're the one with regrets, aren't you, Nee‐san!`
+char_kan: ` You got engaged, right?!`
+char_kan: ` Even though you knew it was a fate that would never be fulfilled!!"`
+char_sha: `"Yep.`
+char_sha: ` ...I promised that we would always, always be together, for eternity."`
+char_sha: `"......So you know what?`
+char_sha: ` ......In that instant, our eternity was completed.`
+char_sha: ` Even if we become sacrifices, it's already completed.`
+char_sha: ` So, it's alright."`
+char_sha: `".........Kanon‐kun, you're the one who actually has regrets.`
+char_sha: ` ...We're furniture, right?`
+char_sha: ` No matter what the result, we will be freed.`
+char_sha: ` ...In that case, it doesn't matter whether we go to the Golden Land or not."`
+char_sha: `"......And yet you're set on going to the Golden Land.`
+char_sha: ` .........You want to become human no matter what, right?`
+char_sha: ` ...Why?"`
+char_kan: `"Because I want to become human!!`
+char_kan: ` I've had enough of being furniture!!"`
+char_sha: `"Why?"`
+char_kan: `"I...wanted to fall in love as well...!!!"`
+char_non: `Tears spilled from both of Kanon's eyes.`
+char_non: ` ...And he howled.`
+char_kan: `"......I...liked Milady...!!`
+char_kan: ` And after seeing Milady on that day, I started liking her even more...!`
+char_kan: ` And when I heard that Milady also liked me, I was really happy...!!`
+char_kan: ` But I'm furniture, ......and I can't accept Milady's feelings!!"`
+char_sha: `"...That's where you're wrong.`
+char_sha: ` .........We may be furniture.`
+char_sha: ` We may be less than human.`
+char_sha: ` ...But I learned that doesn't mean we aren't qualified to love."`
+char_kan: `"I believed that if we couldn't make those feelings eternal, we were better without them!!`
+char_kan: ` I just decided that someday, a day would come when I would disappear, and that would definitely hurt her, .........no, that's wrong!!"`
+char_kan: `"I was just frightened!!`
+char_kan: ` I......was just afraid, and thought that if love could not be eternal, I was better off not knowing it!!"`
+char_sha: `"......Cicadas fall in love during a span of only a few weeks out of their whole lives, and then they disappear.`
+char_sha: ` .........I don't think there are any cicadas that don't fall in love because it will be over in a few weeks."`
+char_kan: `"Uuuuuuuuuuughhh!!`
+char_kan: ` Uuuuu{0}u{0}u{0}u{0}u{0}u{0}u{0}u{0}u{0}u{0}u{0}u{0}u{0}u{0}u{0}uughhh!!"`
+char_non: `It seemed that Kanon was still speaking of his regrets, but by now it was all jumbled up in his crying voice...`
+char_kan: `"......I hate that witch...!!`
+char_kan: ` ...Why did she plant these feelings in me...?!`
+char_kan: ` If only, if only she hadn't pulled that weird prank, I wouldn't have payed Milady any notice...!!!"`
+char_sha: `"............{f:5:Beatrice}‐sama is so cruel, isn't she.`
+char_sha: ` ...To make you cry bitter tears, she played games with your fate.`
+char_sha: ` .........But, the witch probably isn't achieving what she plotted.`
+char_sha: ` ...After all—"`
+char_non: `Knowing love isn't a lingering attachment that ties you to life.`
+char_non: ` It is the place we should reach on our journey through life...`
+char_bea: `So there you have it, Kanon.`
+char_bea: `{n}`
+char_bea: `That promise you worked so hard for has now come to nothing.`
+char_bea: `{n}`
+char_bea: `*cackle*cackle*cackle*cackle*cackle*!`
+char_bea: `Well now.`
+char_bea: ` With this, the conditions for all of the pieces are the same.`
+char_bea: `{n}`
+char_bea: `There are eighteen pieces! Thirteen will be sacrificed!`
+char_bea: `{n}`
+char_bea: `Who will the five survivors be?`
+char_bea: `............Or.`
+char_bea: `{n}`
+char_bea: `Will someone destroy this ritual?`
+char_bea: `{n}`
+char_bea: `Who?!! How?!`
+char_bea: `Fuhahahahahahahahahahahahahahahahahaha!!`
+char_bea: `This isn't a chess problem.`
+char_bea: ` It's a game on equal footing.`
+char_bea: `{n}`
+char_bea: `I won't be closing in one‐sidedly.`
+char_bea: `You can frantically run from my advances, and make it a tie, a result of no contest.`
+char_bea: `Well, the best you can do is have that repeat over and over.`
+char_bea: `And it probably won't be that difficult for you.`
+char_bea: `However, these no contest results will continue forever, soon wearing down your mind, and eventually killing it.`
+char_bea: `At that time, you will accept your defeat and surrender to me!!`
+char_bea: `The reason I said it was a fair game.`
+char_bea: `......That is because the rules for my loss have also been established.`
+char_bea: `{n}`
+char_bea: `There's nothing so boring as a game you can't lose, you see.`
+char_bea: `The way to defeat me.`
+char_bea: `{n}`
+char_bea: `That is...the epitaph offered to my portrait.`
+char_bea: `That is both the way to open the door to the Golden Land and the key to destroying my ritual.`
+char_bea: `I complete the ritual according to the epitaph.`
+char_bea: `{n}`
+char_bea: `You solve the epitaph's riddle, destroy the ritual and overthrow me...!`
+char_bea: `Solve the riddle hidden in the epitaph, and expose the location of the vast gold I gave to Kinzo!!`
+char_bea: `What result will this game show us?!`
+char_bea: `{n}`
+char_bea: `I'm expecting a good fight from you.`
+char_bea: `Entertain me, Ushiromiya Battleeeeeeeeeeeeeer!!`
+char_nat: `"................................."`
+char_cla: `"...............I have no objections.`
+char_cla: ` ...Natsuhi and I accept it."`
+char_nat: `".........Ggh......`
+char_nat: ` ...I can't believe it, ...and I don't want to, but...`
+char_nat: `......that is......reality, isn't it..."`
+char_cla: `"...Natsuhi.`
+char_cla: ` Choose your words more carefully.`
+char_cla: ` .........She is this family's most honored guest."`
+char_hid: `"............W‐we accept it too.`
+char_hid: ` ...There's nothin' more to say."`
+char_eva: `"Yes.`
+char_eva: ` ...I accept it.`
+char_eva: ` .........I have absolutely no complaints.`
+char_eva: ` I can't believe that you really......`
+char_eva: ` .........I have to honestly respect you."`
+char_ros: `"Me too...`
+char_ros: ` ............Incredible.`
+char_ros: ` I genuinely respect you.`
+char_ros: ` ......So I have to accept it."`
+char_rud: `"I accept it too...`
+char_rud: ` .........Still can't believe it.`
+char_rud: ` ...But, .........what can you do?`
+char_rud: ` {i:You've proven devils!}`
+char_rud: ` You win...!"`
+char_bea: `"*cackle*cackle*cackle*...!`
+char_bea: ` The Devil's Proof was a convenient excuse that you liked using to show that something was impossible to prove, ......but now it's become your mortal enemy, has it not?"`
+char_rud: `"......Don't torture me, great witch.`
+char_rud: ` .........I've already accepted you.`
+char_rud: ` I resign."`
+char_kir: `"................................."`
+char_bea: `".........Kyrie.`
+char_bea: ` Do you still have any objections...?`
+char_bea: ` I must have everyone in agreement.`
+char_bea: ` If you alone will not accept my existence..."`
+char_non: `As the witch laughed boldly, the siblings started to panic.`
+char_non: `{n}...They were afraid of displeasing the witch.`
+char_non: `Kyrie lightly closed her eyes, ...and after keeping silent for a while, opened her mouth.`
+char_kir: `"...My apologies.`
+char_kir: ` ......I resign."`
+char_non: `Only Kyrie had faced the witch with stern eyes until the end.`
+char_non: `......However, she had only been able to resist acknowledging the truth for a short time.`
+char_non: `The reality—the being—that was before her eyes...couldn't be denied.`
+char_non: `{n}{i:Devils had already been proven}...!`
+char_kir: `".........I also...accept it.`
+char_kir: ` ......You are {f:5:Beatrice}.`
+char_kir: ` The Ushiromiya family alchemist.`
+char_kir: ` ...And a user of great magic.`
+char_kir: ` ..................I must accept the fact that you are a witch...!"`

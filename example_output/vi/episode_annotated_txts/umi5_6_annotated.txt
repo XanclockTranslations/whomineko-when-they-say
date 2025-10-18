@@ -1,0 +1,544 @@
+char_nat: `"......We've managed to make it through the first day."`
+char_non: `Natsuhi could be seen in the study.`
+char_non: `When she muttered as though to herself, gold butterflies appeared and formed into the shape of a person...`
+char_bea: `"We can't afford optimism.`
+char_bea: ` ......I doubt that we will be able to make it through tomorrow by sitting around here."`
+char_nat: `"......So you do think that saying Father is in a bad mood and refuses to come out won't be enough to fool them..."`
+char_bea: `"Mm...`
+char_bea: ` It seems they were already quite suspicious last year.`
+char_bea: ` Because of that, the toxin has expanded and is coiling itself around this study, growing ever tighter..."`
+char_ron: `"I expect that the suspicion they have harbored since last year is not the only cause."`
+char_wal: `".........That's right.`
+char_wal: ` The toxin has grown too thick to be explained away by that alone.`
+char_wal: ` ......I have no doubt that after suspecting Kinzo‐sama's death last year, they have come with a strong determination to expose it at this year's conference."`
+char_nat: `"Even last year, ......we didn't succeed in fully deceiving them?"`
+char_ron: `"...Unfortunately, it might be best to assume that in the current situation.`
+char_ron: ` The typhoon will remain here tomorrow, and the boat will not come for them until the day after.`
+char_ron: ` In short, we must endure for another thirty‐six hours at the very least..."`
+char_bea: `".........Your eyes may not be able to see it, Natsuhi, but the locked‐room barrier sealing this room was once very firm.`
+char_bea: ` In the span of a single night, it has been worn ragged like wilted leaves, and now only awaits a storm."`
+char_wal: `"No, the storm is already here.`
+char_wal: ` .........Natsuhi‐sama.`
+char_wal: ` I propose that we switch from the locked‐room barrier to something else."`
+char_nat: `"What do you mean by something else...?`
+char_nat: ` Do you mean to change our plan...?"`
+char_ron: `"That is correct.`
+char_ron: ` ......{f:5:Virgilia}‐sama and I will reconstruct a barrier similar to last year's."`
+char_bea: `"In other words, we'll take Kinzo out of the study and have him tightrope walk from shadow to shadow where the toxin can't reach, just like last year.`
+char_bea: ` It will be dangerous, but I would like to propose the same thing."`
+char_nat: `"What did you say...?`
+char_nat: ` You want to change the plan this far in...?!"`
+char_wal: `"When you learn that you cannot withstand a siege, you must consider abandoning the castle..."`
+char_ron: `"......Right now, this room is like a castle surrounded by enemy troops with its walls about to crumble.`
+char_ron: ` If staying put means certain death, then you still have the ability to ride out for one last stand and an honorable defeat.`
+char_ron: ` ......After all, surrender doesn't seem to be an option in this fight."`
+char_nat: `"I'll protect Father's secret until the very end!`
+char_nat: ` If it's discovered, there will be no chance for us to talk our way out of it!`
+char_nat: ` My husband's embezzlement will be exposed to the light of day, and the Ushiromiya family's honor will be destroyed!`
+char_nat: ` We must remain firm and prevent that no matter what...!"`
+char_bea: `"......Calm down, I understand that.`
+char_bea: ` ...Krauss's alchemy will soon see great results.`
+char_bea: ` If we can make it through this year, we'll be able to manage.`
+char_bea: ` So don't get flustered."`
+char_nat: `"But we planned this barricade strategy because using the same trick as last year wouldn't work...!`
+char_nat: ` Isn't it the height of stupidity to return to a plan you previously abandoned because it was impossible...?!`
+char_nat: ` Just what kind of story do you suggest we create at this point...?!"`
+char_wal: `"Ronove and I will prepare that.`
+char_wal: ` Leave it to us, as creating illusions is what witches do.`
+char_wal: ` ......All you have to do is give us your permission, Natsuhi‐sama."`
+char_bea: `".........Master and Ronove are very reliable at times like these...!`
+char_bea: ` Also, the servants of the One‐winged Eagle are excellent furniture.`
+char_bea: ` If Master and Ronove reconstruct the magic, they will work to protect it.`
+char_bea: ` ...It still isn't too late by any means.`
+char_bea: ` Let's take Kinzo out of the study and have his illusion walk around...!"`
+char_nat: `"Did you forget that we chose our current strategy because we considered those kinds of plans at length and couldn't find anything that would work?!`
+char_nat: ` To get flustered in an emergency and carelessly throw away the primary plan is simply foolish!"`
+char_wal: `"But Natsuhi‐sama...!`
+char_wal: ` You, right there amidst the toxin, must realize better than anyone else that our barricade cannot endure any longer...!"`
+char_nat: `".........I propose that we try and think of another plan without changing our objective of holding the fort.`
+char_nat: ` ......In any event, as long as we can keep this room sealed, no one will be able to deny Father's existence.`
+char_nat: ` After all, you can't determine the contents of a cat box that can't be opened, no matter how many people you have with you......!"`
+char_bea: `"...Well, that is true......`
+char_bea: ` However, {y:0:Human}{n:0:human}s are unreasonable.`
+char_bea: ` It's possible for them to eat into an airtight cat box and go inside like black ants swarming a box of cake.`
+char_bea: ` ............And Lady {f:5:Bernkastel}'s piece also concerns me."`
+char_ron: `".........It was fortunate that Erika‐sama stole the show at tonight's dinner.`
+char_ron: ` By doing that, she created an atmosphere where it was possible for tonight's family conference to come to a close.`
+char_ron: ` ......If you had gone straight back to the family conference afterwards like usual, the barrier might have broken tonight."`
+char_wal: `"But because of that, the toxin has grown even thicker.`
+char_wal: ` ......After thickening all night, the toxin may be able to corrode the locked‐room barrier easily.`
+char_wal: ` Whether we continue holding the fort or give up that plan,`
+char_wal: ` we will not be able to make it through tomorrow unless we prepare a new strategy and a new barrier."`
+char_bea: `"......Lady {f:5:Bernkastel} may have some plan for breaking the locked‐room barrier.........`
+char_bea: ` We can't take that piece called Erika lightly..."`
+char_ron: `"............Come to think of it, that man who said something about taking revenge for the events of 19 years ago might also be Lady {f:5:Bernkastel}'s piece.`
+char_ron: ` ......This board, which achieved equilibrium with 18 pieces, has had two undesired pieces added to it.`
+char_ron: ` ...There are too many irregularities this year."`
+char_bea: `"Lady {f:5:Bernkastel} is a fan of Eastern things.`
+char_bea: ` ......They say that in shogi, Japanese chess, you are allowed to drop pieces onto the board in the middle of a game, do they not?"`
+char_wal: `"Yes, that is possible.`
+char_wal: ` ......In shogi, even dropping a queen from the captured pile right in front of the enemy king is a permissible move that can serve as a trump card."`
+char_nat: `"......What is......that man who spoke of "19 years ago" doing right now?`
+char_nat: ` ...Is he already hiding somewhere on this island...?"`
+char_nat: `".........That girl called Erika was able to appear, claiming to have drifted here.`
+char_nat: ` ......That man might also have landed somewhere on this island despite the typhoon, ...and he might be hiding somewhere......"`
+char_nat: `"......And it's going to be hard to fully deceive the relatives any longer......`
+char_nat: ` ...........................`
+char_nat: ` ......Why?!!`
+char_nat: ` Why must there be so many irregularities?!!`
+char_nat: ` How can you explain this miracle of nightmares and coincidences?!!"`
+char_non: `Natsuhi slammed the desk hard, held her head, and cringed at the pain from her overwhelming headache...`
+char_bea: `".........Lady {f:5:Bernkastel} controls miracles.`
+char_bea: ` ...There's no point being surprised at irregularities or miracles when that person is around."`
+char_ron: `"It may be true that shogi is a game where an enemy piece can suddenly appear right in front of a king.`
+char_ron: ` However, that is why you build up a perfect formation that doesn't allow for that kind of weakness, artistically constructing a castle to protect your king."`
+char_nat: `"Then holding the fort {i:is} what we should be doing, isn't it?!!"`
+char_ron: `"If we had a fort that we could hold then perhaps, but we cannot hope for such a thing now."`
+char_bea: `"It is difficult to corner a king without a wall to his back, and even more difficult to corner one with open spaces in all directions.`
+char_bea: ` ......Think of a mouse.`
+char_bea: ` You can catch a mouse that's shut in a cage.`
+char_bea: ` However, catching a mouse in a field is like trying to catch a cloud."`
+char_wal: `"Natsuhi‐sama.`
+char_wal: ` ......Please allow us to explore this option...`
+char_wal: `...of Kinzo‐sama leaving his study and wandering around the mansion on a whim, avoiding the gazes of the relatives.`
+char_wal: ` ......We will think of a story that makes it appear natural before morning."`
+char_nat: `"............Don't you see the danger......?`
+char_nat: ` ......If we're willing to consider such a dangerous option, wouldn't it be better to continue acting as though Father is in his room in a bad mood......?"`
+char_wal: `"Tomorrow, the relatives will again crowd around in front of the study.`
+char_wal: ` They will crowd right on the other side of that door.`
+char_wal: ` How many hours do you think you will be able to stand there keeping up the charade of a yelling match with Kinzo‐sama?!`
+char_wal: ` It's impossible...!"`
+char_nat: `"And it falls to me to resist that impossibility for thirty‐six hours!!`
+char_nat: ` If you tell me to do it, I will!!`
+char_nat: ` I am Ushiromiya Natsuhi!`
+char_nat: ` The wife of the Ushiromiya family head!!`
+char_nat: ` If you tell me to do that, ......I will act out a shouting match with Father for as many days as it takes...!!`
+char_nat: ` Uuhhhuu!!"`
+char_non: `......Even Natsuhi understood that there was no way she could manage it.`
+char_non: `But she could no longer see any chance of victory from a plan which involved making an illusion of Kinzo walk around......`
+char_non: `Banging on the desk several times, with tears of intense emotion streaming down her face, Natsuhi alternated between groaning from her headache and placing the blame on one thing or another.`
+char_non: `It was enough to make one feel that there was a curse which made anyone who sat in that chair do the same......`
+char_ron: `".........This is like a game of mating shogi, where you are on the defensive.`
+char_ron: ` ......In mating shogi, the opponent has no king.`
+char_ron: ` And you have no way of winning other than avoiding a checkmate for a predetermined number of moves."`
+char_nat: `"And to think...`
+char_nat: `......that I must escape for a whole day and a half's worth of moves...`
+char_nat: ` ......That's just too many..."`
+char_bea: `"Do not stop thinking... Do not surrender...!`
+char_bea: ` I am here to listen to your woes, but do not admit defeat...!`
+char_bea: ` Your absolute determination to overcome this trial no matter what will produce results with certainty...!`
+char_bea: ` That is the power of the Witch of Certainty."`
+char_bea: `"You must not lose that magical power.`
+char_bea: ` ......Believe that you will overcome this no matter what...!`
+char_bea: ` I am sure a brilliant plan will come to mind.`
+char_bea: ` You must not give up and stop thinking...!"`
+char_nat: `"......You're right...`
+char_nat: ` I understand...`
+char_nat: ` If I can't overcome this hardship, then no one can......"`
+char_bea: `"That is correct.`
+char_bea: ` Didn't Kinzo entrust you with the job of overcoming all of this?`
+char_bea: ` ......Kinzo acknowledged that you were worthy of this responsibility...!"`
+char_nat: `".........Father...`
+char_nat: ` ...Father... Uuuhu...uhu...!!!"`
+char_bea: `"Master and Ronove will think of a move.`
+char_bea: ` Of course, I will think as well!`
+char_bea: ` However, we cannot do even that without our master's permission...your permission!`
+char_bea: ` So the least you can do is not abandon the will to fight...!`
+char_bea: ` Do not give in...!!"`
+char_nat: `"I know that, ...I know!!`
+char_nat: ` But, ...I'm......so very tired, ...and the headaches are unbearable...`
+char_nat: ` ......Why am I here...in this freezing cold study......crying alone?!`
+char_nat: ` Why...why isn't my husband here for me now?!"`
+char_non: `Back when dinner ended, Krauss claimed to be dizzy and went to bed early.`
+char_non: `Of course, he had done this to get enough rest to ready himself for the long day ahead,`
+char_non: ` but to Natsuhi right now, it felt as though he had just gone straight to sleep and pushed all of the burden onto her.`
+char_non: `However, complaining about such a thing would mean that she had failed as a wife.`
+char_non: `......Wasn't it a good wife's duty to work hard and think of the family first even when her husband was resting......?`
+char_non: `Regretting even her anger at her husband,`
+char_non: ` ...and unable to determine whom she should be angry at, Natsuhi continued to sob......`
+char_non: `If only......Kinzo could just speak to her kindly at times like this.`
+char_non: `Beato searched for him, but Kinzo had been nowhere to be seen in the study for some time now...`
+char_non: `Perhaps Natsuhi had noticed this as well...`
+char_non: `Though she took pride in fighting alone and supporting from behind, thinking of those as the responsibilities of a good wife,`
+char_non: ` ......without anyone to validate what she was doing and say it was needed, .........she was now so frail that she couldn't even stop her own tears.`
+char_non: `Just as Beato was thinking of words she could use to console Natsuhi, {f:5:Virgilia} tapped her lightly on the shoulder.`
+char_non: `......If words of consolation don't come from the mouth of the right person, they can sometimes do more harm than good.`
+char_non: `Therefore, {f:5:Virgilia} silently urged Beato that saying nothing was the best course of action for now...`
+char_gap: `"...............Hi, sorry to interrupt.`
+char_gap: ` ...I know I'm an outsider, but I wonder if you'd let me speak."`
+char_wal: `"Gaap.`
+char_wal: ` ...Please restrain yourself for the time being."`
+char_nat: `"No, as long as you're here, there's no distinction between outsiders or guests and the rest of us.`
+char_nat: ` ......You may speak."`
+char_gap: `".........Thank you.`
+char_gap: ` ......Ronove said it himself a while ago.`
+char_gap: ` This is mating Shogi with you on the defensive.`
+char_gap: ` .........How does one lose in mating Shogi?`
+char_gap: ` It's because their king is checkmated, right?"`
+char_bea: `"That goes without saying.`
+char_bea: ` And the opponent has no king.`
+char_bea: ` Therefore, all Natsuhi can do is have her king run away constantly."`
+char_ron: `".........I see.`
+char_ron: ` ......So you're thinking of that move.`
+char_ron: ` Has that time already come?"`
+char_nat: `"What do you mean?`
+char_nat: ` ......Are you saying we have some sort of move?"`
+char_gap: `"............It's the first thing you suggested to conceal {f:5:Goldsmith}'s death.`
+char_gap: ` ......I'm trying to say that the time has come for us to use it..."`
+char_wal: `"You mean...having him go missing......?!`
+char_wal: ` You mean to make that move right now, during the family conference?!`
+char_wal: ` That's too dangerous!"`
+char_non: `After successfully resolving all of their problems, they would have to lay Kinzo to rest.`
+char_non: `And the way to do that......was to make him disappear.`
+char_non: `One day, Kinzo would go out into the forest and never return.`
+char_non: `{n}They wouldn't be able to find him no matter how much they searched, so he would be declared "missing"......`
+char_gap: `".........You said it yourself a second ago, Riiche.`
+char_gap: ` You can't catch a mouse that's escaped to a field.`
+char_gap: ` And you can't catch a {f:5:Goldsmith} who's disappeared into the forest."`
+char_wal: `"Do you honestly think that we could talk our way out of this using that?!`
+char_wal: ` Using such a move now, when the suspicion against us is greatest, would be no better than committing suicide!!"`
+char_ron: `"They will suspect, yes.`
+char_ron: ` It is a move fully deserving of being called suspicious.`
+char_ron: ` .........However, even if they set foot in this study, such suspicions will be unprovable.`
+char_ron: ` ......It will be impossible for them to capture Kinzo‐sama forever after,`
+char_ron: ` and no matter how much they suspect him to be dead, they will be unable to prove it..."`
+char_gap: `"Forget about thirty‐six hours, you could protect Kinzo's secret forever this way, couldn't you......?`
+char_gap: ` ...Of course, it'll mean taking on that much risk as well."`
+char_bea: `"......If you make this move, you may be able to overcome this particular challenge,`
+char_bea: ` ......but I cannot even guess at how much prestige you might lose for it."`
+char_gap: `"Even so,`
+char_gap: ` ............this move can definitely get you through this.`
+char_gap: ` Of course, you'll be treated with even greater suspicion.`
+char_gap: ` But it won't be fatal."`
+char_nat: `"Y‐`
+char_nat: `.......yes,`
+char_nat: ` ......that may be true, but......"`
+char_gap: `".........The Ushiromiya family should have collapsed after the Great Kanto Earthquake.`
+char_gap: ` But the mad genius {f:5:Goldsmith} revived it,`
+char_gap: ` and he rebuilt it into something so magnificent that you want to protect it.`
+char_gap: ` ......So this time, it is up to you and your husband, the new head and his wife, to do the same."`
+char_ron: `"......Hoh...`
+char_ron: ` .........Is that how you intend to stir her up?"`
+char_gap: `"I'm not stirring her up.`
+char_gap: ` I'm just asking if she's prepared to be the wife of the head......`
+char_gap: ` ......Are you prepared to protect the Ushiromiya family, even if you end up getting dragged through the dirt to do it......?"`
+char_nat: `"I, ......I am..."`
+char_gap: `"Then now is the time.`
+char_gap: ` .........If you can survive by being dragged through the dirt, then crawl with all your might.`
+char_gap: ` You'll drag yourself through a world of suffering, and you'll eventually regain your glory.`
+char_gap: ` .........I, Gaap, the 33rd in rank, promise you this."`
+char_bea: `"............Gaap..."`
+char_gap: `".........The fact that I dropped in at a time like this must be guidance from the gods of happenstance...`
+char_gap: ` ......I'll keep that promise, Ushiromiya Natsuhi.`
+char_gap: ` I don't need anything in return.`
+char_gap: ` Riiche, the one who serves you, has already paid me plenty in advance."`
+char_non: `Gaap seemed quite cavalier, but she was actually possessed by a strong sense of duty.`
+char_non: `{n}She was the kind of person who just couldn't leave someone in trouble alone.`
+char_bea: `"Payment in advance?`
+char_bea: ` Now when did I do that...?`
+char_bea: ` I can't recall..."`
+char_gap: `"*giggle*giggle*...`
+char_gap: ` .........Just the various magical items that you couldn't remember where you put.`
+char_gap: ` I made off with quite a few of those."`
+char_bea: `"Wha?!!`
+char_bea: ` So it really was your fault that I could never find those...!!`
+char_bea: ` Give 'em back!!`
+char_bea: ` Give back my Phantom Silver Crystal and Moon Stick!`
+char_bea: ` I still haven't played around by sticking them together yet!"`
+char_gap: `"............This is the sort of magic or plan that I can give you.`
+char_gap: ` I can hide {f:5:Goldsmith} away in a world where no one will be able to find him.`
+char_gap: ` .........Let me know the instant you need this magic.`
+char_gap: ` Until then, you may think of another, safer plan."`
+char_ron: `"True.`
+char_ron: ` ......Having an option open to you leaves you with a little peace of mind.`
+char_ron: ` ...Without any peace of mind, you cannot think up a brilliant plan."`
+char_wal: `"Natsuhi‐sama.`
+char_wal: ` The night is not short.`
+char_wal: ` ......Let's leave Gaap's plan as a final trump card and iron out our plan for the time being.`
+char_wal: ` Please give us permission.`
+char_wal: ` ......Furthermore, please give us the trust, magical power, and certain conviction needed to succeed without fail."`
+char_gap: `"If you believe, I will make that come true.`
+char_gap: ` If you doubt, I will make that come true.`
+char_gap: ` ......You must make your own future."`
+char_nat: `".............................."`
+char_non: `Having Kinzo...go missing.`
+char_non: ` And doing it right in the middle of this family conference.`
+char_non: `{n}That was truly a last resort.`
+char_non: `Hiding this final trump card in her heart, ......Natsuhi decided that she would grope around for a different plan until the last second.`
+char_non: `After all, this long, long night had only just begun......`
+char_non: `......And it was long not only for her.`
+char_non: ` {f:5:Bernkastel} and her pieces had just as much time.........`
+char_but: `"......Gouge the leg......and kill.`
+char_but: ` ......Now it's complete..."`
+char_eri: `"I see, ......so that {i:was} what "gouge" meant after all.`
+char_eri: ` Once again, my reasoning was correct."`
+char_non: `The feel of the last one was clearly different from all the ones before,`
+char_non: ` making the two of them almost certain that they had activated some sort of mechanism.`
+char_non: `However, as far as a quick glance could tell, there was no dramatic change, such as an entrance of some sort opening.`
+char_non: `Apparently, they would need to do just a little more before they could find it...`
+char_but: `"You're something else.`
+char_but: ` .........If this really does lead us to the gold, we'll have to split it between us."`
+char_eri: `"Enjoying the intellectual stimulation is enough for me.`
+char_eri: ` ............The only thing I like is solving riddles.`
+char_eri: ` Proof that I was right is all I need for a reward."`
+char_non: `She shrugged it off, saying that just seeing the gold would be enough.`
+char_non: `Then she crouched down, peering fixedly at the gimmick that made up the key.`
+char_non: `......It's no exaggeration at all......to say that this girl really loves solving riddles.`
+char_non: `Her fondness for treasure hunting is fueled by a romanticism regarding the process of finding hidden things,`
+char_non: ` and she has no interest whatsoever in getting the treasure for herself and becoming a billionaire or whatever......`
+char_eri: `"......I see.`
+char_eri: ` You really thought such a gimmick would fool me...`
+char_eri: ` ...The mistake "you all" made was welcoming me onto the island in the first place.`
+char_eri: ` .........All it takes is the presence of that epitaph,`
+char_eri: ` and a deduction like this becomes trivial for Furudo Erika.`
+char_eri: ` ......Your thoughts, ladies and gentlemen?"`
+char_non: `As she said this to the mechanism she had exposed, she grinned at it.`
+char_non: `That smile had a bit of triumph on it, but it was more fully characterized by the small bit of unpleasant disdain it contained.`
+char_non: `After solving the riddle, she was probably reveling in the pleasure of having won against the one who had proposed it, as well as the way she could now scoff at this person......`
+char_eri: `".........If we find the gold now, the successor to the head won't be Krauss‐san, but you."`
+char_but: `"Heh.`
+char_but: ` ......Well, I wonder."`
+char_eri: `"......Krauss‐san is a little bit arrogant, isn't he?`
+char_eri: ` A braggart, you might say.`
+char_eri: ` The thought of him waking up in the morning to find that both the gold and his position as successor to the head have been snatched away from him by his nephew...... It kind of makes you smile, doesn't it?"`
+char_but: `"..........................."`
+char_non: `Erika was still crouched down as she spoke, her back to Battler as she toyed around with the mechanism...`
+char_eri: `".........Jessica‐san...was her name, right?`
+char_eri: ` The girl who spoke up against me."`
+char_but: `"Nn, ......yeah."`
+char_eri: `".........She really was acting big about her father being the successor to the head.`
+char_eri: ` ......When she wakes up tomorrow and learns that you've inherited all the gold,`
+char_eri: ` and that her father is no longer the successor, I wonder what kind of expression she'll have on her face......?"`
+char_but: `".........I don't intend to keep all 20 billion for myself, you know.`
+char_but: ` ......I mean, even ten percent would be great, I wouldn't want any more than that.`
+char_but: ` We can split the rest fairly amongst the family.`
+char_but: ` I'm even less interested in being the successor to the head.`
+char_but: ` I'd be glad to let Uncle Krauss deal with that."`
+char_eri: `".........Will it really be so simple, I wonder...?`
+char_eri: ` *giggle*giggle*giggle*.`
+char_eri: ` Instead of trying to predict that,`
+char_eri: ` ......I have a feeling that it will be much more fun to puzzle out what kind of expression Jessica‐san will have on her face tomorrow,`
+char_eri: ` and what kind of sad excuses she'll try to make."`
+char_but: `"............You have a real twisted mind."`
+char_eri: `"Oh?`
+char_eri: ` ............Couldn't you deduce that from the moment I said I liked solving riddles......?`
+char_eri: ` .........I'm an intellectual rapist who enjoys exposing things that other people hide.`
+char_eri: ` ......It was the same for solving the epitaph."`
+char_but: `"......You probably wanted to expose the gold Grandfather had done everything he could to hide."`
+char_eri: `"Yes, that's how it was at first,`
+char_eri: ` ............but my goal changed halfway through."`
+char_but: `"Halfway through?`
+char_but: ` ......Changed to what?"`
+char_eri: `"Jessica‐san.`
+char_eri: ` .........She cast doubt on my deductions and contaminated my sublime and noble moment.`
+char_eri: ` .........I changed my goal into solving the riddle so that I could get even with this Jessica girl."`
+char_but: `".....................Are you...being serious?"`
+char_eri: `"*giggle*.`
+char_eri: ` .........*giggle*giggle*giggle*giggle*.`
+char_eri: ` ...I can bring any opponent to their knees, no matter who they are.`
+char_eri: ` That is my one and only pleasure.`
+char_eri: ` ......Perhaps you still need time to reason?"`
+char_eri: `".........Ushiromiya Jessica irritated me.`
+char_eri: ` So I decided to solve the epitaph to put her in her place.`
+char_eri: ` .........From this, you should be able to deduce how I'm feeling at this very moment.`
+char_eri: ` ...Can you work it out?"`
+char_non: `......This time, I turned my back on her in earnest.`
+char_non: `Did I get so caught up in the fun of this riddle‐solving game...`
+char_non: `that I allowed her to lead me into making a terrible mistake...?`
+char_non: `That's right.`
+char_non: ` ......I could have worked out that this would happen.`
+char_non: `With the riddle solved, the relatives will probably get into an uproar about who will be the successor to the head.`
+char_non: `Dad and Kyrie‐san will probably make a fuss about how I, the discoverer, should be the successor, and the other relatives not thrilled with that prospect will probably oppose them.`
+char_non: `Despite how adamant Erika was about it, it isn't written anywhere that the one who solves the riddle of the epitaph becomes the successor.`
+char_non: `Because of this, it'll lead to a fight between those who are willing to accept that and those who aren't......`
+char_non: `To reason out what will happen next, as Erika suggested...`
+char_non: `......It will probably turn into an ugly fight between Uncle Krauss and the rest of the relatives.`
+char_non: `When Jessica finds out I've solved the riddle, ......will she admire me...or curse me?`
+char_non: `......I don't want to think about that now......`
+char_non: `......Erika was still mumbling.`
+char_non: `{n}...Apparently...she had already started trying to reason it out...`
+char_non: `As I began to feel very bad, ......I lazily gazed out into the black night...`
+char_but: `"..................!"`
+char_non: `Then, .........I looked at a dimly lit outdoor light...`
+char_non: `...and saw the silhouette of a person in front of it.`
+char_non: `I thought I must be seeing things.`
+char_non: `After all, it was unthinkable that someone would have been standing there the whole time, pounded upon by the rain without even an umbrella.`
+char_non: `However,`
+char_non: ` ......the silhouette didn't move an inch,`
+char_non: ` .........and maybe...`
+char_non: `......no, it couldn't be......`
+char_non: `............It was...looking at me.`
+char_non: `{n}And......it was.........`
+char_kin: `"...................................."`
+char_but: `"...........................G‐"`
+char_non: `......Grandfather.....................`
+char_non: `In that instant,`
+char_non: ` ......I understood.`
+char_non: `Grandfather had probably...`
+char_non: `......been watching us solve the riddle the whole time.`
+char_non: `......And...`
+char_non: `...he had seen us...`
+char_non: `......as we spectacularly solved the entire riddle of the epitaph......`
+char_kin: `"..................`
+char_kin: ` .....................Heh......"`
+char_non: `Without a doubt,`
+char_non: ` .........Grandfather smiled faintly.`
+char_non: `Grandfather, who had never worn any expression that wasn't moody or frightening,`
+char_non: ` ......looked me in the face......and smiled at me for the first time.`
+char_non: `......Almost as though he was saying "Too smart for your own good".`
+char_non: `{n}Or else, "I never thought it would be you"...`
+char_non: `However, ......this was the result...chosen by Grandfather's epitaph.`
+char_non: `So I was sure......that he had accepted that result.`
+char_non: `......He grinned one final time.`
+char_non: `Of course, he didn't use words.`
+char_non: `His smile seemed to be a silent expression of a single word:`
+char_non: ` "superb"......`
+char_non: `......I didn't know how I should respond.`
+char_non: `I couldn't do anything but stand there in shock, ignoring Erika as she crouched down, mumbling with her back towards me.`
+char_non: `......Then, Grandfather stretched a hand out from the folds of his cloak and pointed at something.`
+char_non: `When I looked in that direction,`
+char_non: ` ......what I saw there.........`
+char_non: `The thing he was pointing at...`
+char_non: `...was probably...`
+char_non: `......the guidepost to the Golden Land.`
+char_non: `......Go.`
+char_non: `Grandfather had undoubtedly said that one word.`
+char_non: `I......nodded to show that I understood.`
+char_non: `Seeing this, Grandfather nodded back, satisfied.`
+char_non: `Then, with a spin of his cloak,`
+char_non: `......he disappeared, seeming to melt into the darkness......`
+char_non: `The expression on his face at the end...`
+char_non: `...was a truly and finally satisfied...`
+char_non: `...smile.`
+char_eri: `"Are you listening? Battler‐san?`
+char_eri: ` To my deductions?"`
+char_but: `"............I've found it.`
+char_but: ` That's the guidepost to the Golden Land."`
+char_eri: `"......Huh?`
+char_eri: ` Ah, ......it's facing a different direction than it used to.`
+char_eri: ` ......I see.`
+char_eri: ` So it means "go that way".`
+char_eri: ` ......You're very observant."`
+char_but: `"Grandfather showed me the way."`
+char_eri: `"Huh? Kinzo‐san...?`
+char_eri: ` Where?"`
+char_but: `"Let's go.`
+char_but: ` .........It's time we got a look.`
+char_but: ` ...At this "Golden Land"..."`
+char_non: `We started to walk.`
+char_non: `{n}The entrance to the Golden Land was right there.........`
+char_kin: `".........So, my epitaph has finally been solved.`
+char_kin: ` ......And...it was Battler...`
+char_kin: ` .........Pfft, ...ha{0}ha{0}ha{0}ha{0}ha{0}ha{0}ha{0}ha{0}ha{0}haha...!!`
+char_kin: ` Entertaining beyond compare!"`
+char_non: `When I think about it, I was also a head that no one saw coming.`
+char_non: `How interesting that the one who will succeed me as head is also a person no one saw coming.`
+char_kin: `"I now have no regrets remaining in my life!!`
+char_kin: ` {f:5:Beatrice}, I am coming to join you.`
+char_kin: ` Along with a present, the miracle chosen by my epitaph...!"`
+char_non: `{a:c:`
+char_non: `Battler, of all people.`
+char_non: `{n}......That......Battler......!!}`
+char_kin: `"Waha{0}ha{0}ha{0}ha{0}ha{0}ha{0}haha...!!`
+char_kin: ` Waha{0}ha{0}ha{0}ha{0}ha{0}ha{0}ha{0}ha{0}ha{0}ha{0}ha{0}ha{0}haha!!`
+char_kin: ` At the very, very end of my life, I have witnessed a true miracle!!"`
+char_kin: `"{f:5:Beatriceeeeeeeee}!`
+char_kin: ` I've won this bee{-}e{-}e{-}e{-}e{-}ettt, waaahhha{0}ha{0}ha{0}ha{0}ha{0}ha{0}ha{0}ha{0}ha{0}ha{0}ha{0}ha{0}ha{0}ha{0}ha{0}ha{0}ha{0}ha{0}ha{0}haa{0}aahhh!!!"`
+char_but: `"Ha, hahahahaha...!!`
+char_but: ` Yahoo!!`
+char_but: ` Haha{0}ha{0}ha{0}haaaahhh!!!"`
+char_eri: `".........I can't see anything convenient about using gold as a store of value except for its non‐corrosive properties.`
+char_eri: ` I imagine it'd take a lot of work to liquidate all of this."`
+char_non: `At the end of a crude underground tunnel, in a VIP room which was so beautiful that it seemed out of place,`
+char_non: ` .........there was a pile of gold so large that there could be no doubting its 20 billion yen worth...`
+char_non: `Erika was calm, but Battler couldn't suppress his excitement.`
+char_non: `As for which of the two was the correct reaction to show after seeing a mountain of gold...`
+char_non: `only those who saw the scene with their own eyes could say for sure......`
+char_non: `In this day and age, it's said that an average salaryman earns about 200 million yen in wages over his life.`
+char_non: `......And this is 20 billion yen worth of gold.`
+char_non: `With even one one‐hundredth of this gold mountain......a single human could live their entire life without working.`
+char_non: `What is labor?`
+char_non: `Isn't it the very point of a human's life, since a person who doesn't work cannot eat......?`
+char_non: `If so, then 200 million yen is enough to make a single person's life complete.`
+char_non: `And this is 20 billion yen!`
+char_non: `......This would account for the labors of a hundred humans, no, a single human life one hundred times over...!`
+char_non: `Of course, if you still wanted to work, you could.`
+char_non: `{n}Any money you gained as a result could all be used to play with.`
+char_non: `After all, you would already have enough money to live for your entire life, no, for eternity...!!`
+char_non: `No, wait, I mustn't keep it all to myself. I can split it up among 100 people.`
+char_non: `If I could create a world where a full 100 humans wouldn't have to work for their whole lives, ......just what kind of world would that be...?`
+char_non: `.........Yeah, ......there's no doubt at all......`
+char_but: `"This.........is the Golden Land......"`
+char_lam: `"And so,`
+char_lam: ` Bern‐Battler masterfully discovered the gold.`
+char_lam: ` The End.`
+char_lam: ` Heh{0}eh{0}eh{0}eh{0}eh{0}eh{0}eheh!!`
+char_lam: ` I kept the really critical parts hidden, but nothing wrong with just a little bit of teasing, right?"`
+char_but: `"......Sure, do what you want with that.`
+char_but: ` I'm not interested in the micro details about what kind of puzzle it was or what kind of answer it had.`
+char_but: ` The important thing is that as a result, ten tons of gold were discovered."`
+char_non: `The gold was discovered in the third game as well, by Auntie Eva.`
+char_non: `Auntie Rosa had also witnessed it.`
+char_non: `However, the two of them hadn't spoken of the gold's discovery to anyone.`
+char_non: `In other words, there was a chance that the gold's discovery was a cat‐box truth kept between the two of them.`
+char_non: `Which meant that it was possible that the gold didn't exist and was just an illusion...!`
+char_but: `"However, ......‘I’ have finally found it...`
+char_but: ` The cat box...has been opened...!"`
+char_lam: `"It'd be a waste of time to do that repetition game, so I'll give you a little bonus.`
+char_lam: ` {p:1:This mountain of gold is the real thing.`
+char_lam: ` All of the ingots piled up here are real, pure gold!`
+char_lam: ` There are absolutely no tricks such as replicas or fakes}!!"`
+char_but: `"......Alright, got it.`
+char_but: ` I'll accept that this gold exists.`
+char_but: ` ......However, there are still some things I can't accept!"`
+char_ber: `".........Of course.`
+char_ber: ` After all, you met with him, didn't you?`
+char_ber: ` ...With Kinzo."`
+char_lam: `"*giggle*giggle*!`
+char_lam: ` Even though Kinzo's supposedly an illusion, you met with him just a second ago, didn't you?`
+char_lam: ` *giggle*giggle*, I guess that really was magic, wasn't it?!"`
+char_but: `"Ridiculous.`
+char_but: ` ......‘I’ didn't exchange a single word with Grandfather.`
+char_but: ` ...I only {i:felt as though} Grandfather and I had exchanged words.`
+char_but: ` Give it a rest. The same move won't work again!"`
+char_lam: `"In that case, your blue truth, if you please!"`
+char_but: `"{p:2:I was probably in a state of euphoria after solving the epitaph's riddle.`
+char_but: ` And that caused me to mistake something for Grandfather}."`
+char_but: `"{p:2:For example, maybe that was some kind of sheet or cover that had gotten caught in a dark grove of trees,`
+char_but: ` which looked like Grandfather wearing a pitch black cloak!`
+char_but: ` As a result, I mistakenly thought that I'd had some sort of conversation with Grandfather}."`
+char_ber: `".........Blue truth, valid.`
+char_ber: ` Well, I did say the exact same thing in blue."`
+char_but: `"And? Did it work?`
+char_but: ` Was there a counter with the red truth...?!"`
+char_lam: `"Nope.`
+char_lam: ` Not for now, at least...`
+char_lam: ` *giggle*giggle*giggle*giggle*giggle*!!"`
+char_non: `The "me" who had let out a strange yell in front of the gold mountain was finally starting to regain his cool.`
+char_non: `......Now that we'd found it, there was no covering it up.`
+char_non: `{n}I faintly thought about keeping this discovery a secret.`
+char_non: `......However, Erika wanted to prove that her own reasoning was correct by announcing this fact to everyone.`
+char_non: `She really is an intellectual rapist...just as she says.`
+char_non: `The puzzle‐solving game is what's important to her,`
+char_non: ` and she doesn't intend to take any responsibility for what happens after the riddle is solved.`
+char_non: `......A riddle is sort of like a lock.`
+char_non: ` Locks exist to be locked.`
+char_non: `{n}And whenever a lock is locked, there is a meaning behind locking it.`
+char_non: `Therefore, there should also always be a meaning behind breaking one open and exposing what it protects.`
+char_non: `However, ......this girl has made the exposure itself her final goal,`
+char_non: ` ...and she doesn't plan on taking responsibility for anything that happens later.`
+char_non: `......Maybe the true storm to hit Rokkenjima...`
+char_non: `...isn't the typhoon, but her.`
+char_non: `She won't keep this discovery secret.`
+char_non: `{n}She'll definitely announce it to brag about her success.`
+char_non: `And then, ......she'll call a real storm down upon this island.`
+char_non: `I won't be able to keep this covered up......`
+char_non: `{n}...Then in that case, ......there's nothing to do except announce this fact fairly.`
+char_non: `I can't imagine what will happen after that.`
+char_non: `As she grinned, Erika muttered to herself.`
+char_non: `......She must have been predicting the uproar the relatives would soon bring about.`
+char_non: `To her,`
+char_non: ` ......imagining that was much sweeter than 20 billion yen in gold......`
+char_eri: `"......All it takes is the presence of that epitaph,`
+char_eri: ` and a deduction like this becomes trivial for Furudo Erika.`
+char_eri: ` ......Your thoughts, ladies and gentlemen?"`

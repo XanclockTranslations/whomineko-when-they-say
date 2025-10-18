@@ -1,0 +1,842 @@
+char_jes: `As usual, this year's family conference was getting bogged down.`
+char_jes: `Everyone had decided to cool their heads for a moment, and a short break had been agreed upon...`
+char_jes: `The four siblings could say whatever they wanted,`
+char_jes: ` but Natsuhi and Kyrie, for example, were outsiders and found it difficult to speak freely in this sort of atmosphere.`
+char_jes: `A conference where you aren't allowed to say what you want can be tiring even as you just sit there quietly.`
+char_jes: `Even Kyrie couldn't help letting out a deep sigh...`
+char_kir: `".............................."`
+char_non: `This was the second floor hallway of the mansion.`
+char_non: `Rudolf had wanted to be alone during the break, so she had felt like doing the same...`
+char_non: `...and had drifted up the stairs to reach this place.`
+char_non: `Her expression was less tightly controlled than it was when her husband was around.`
+char_non: `{n}......Kyrie wore a tired look that she didn't often show.`
+char_non: `She pressed her forehead against the cool window glass.`
+char_non: `I need to regain my spirit and support my husband.`
+char_non: ` Even if I'm not allowed to speak.`
+char_non: `......That's the duty I've won.`
+char_kir: `".....................Who is it?"`
+char_non: `She suddenly sensed another person, turned around,`
+char_non: ` and saw Jessica standing at the other end of the hallway.`
+char_jes: `"..........................."`
+char_kir: `"Oh, it's you, Jessica‐chan.`
+char_kir: ` ......Didn't you go to the guesthouse?"`
+char_jes: `"......Well,`
+char_jes: ` ......I just decided to head back to my own room for a bit to get a book."`
+char_kir: `"I see.`
+char_kir: ` And now you're on your way back to the guesthouse?"`
+char_jes: `"Y‐yes.`
+char_jes: ` That's right......"`
+char_kir: `"What horrible rain.`
+char_kir: ` Is the wind really strong...?"`
+char_jes: `"It's weak right now, relatively speaking......"`
+char_non: `As Kyrie looked out the window, ......Jessica watched her back, looking agitated...`
+char_jes: `"......Auntie Kyrie...`
+char_jes: ` ......I'm sorry, you just had bad luck..."`
+char_fur: `"Ah, Zepar!`
+char_fur: ` Jessica's roulette of fate has chosen Kyrie!"`
+char_zep: `"What will you do, Jessica?!`
+char_zep: ` The roulette has chosen Kyrie, but you may reject that choice and spin the roulette again if you wish!"`
+char_non: `""It doesn't matter whose life is sacrificed for this trial...!!""`
+char_non: `Jessica wasn't like George.`
+char_non: `George had willingly chosen Eva to be his sacrifice,`
+char_non: ` to signify his separation from his old life so that he could step into a new life married to Shannon.`
+char_non: `However, Jessica hadn't thought of any particular target.`
+char_non: `......So, she had left it up to the roulette of fate.`
+char_non: `That "roulette" was nothing very grandiose.`
+char_non: ` ......She had simply walked around at random, imposing a rule on herself saying that the first person she met would be chosen as the sacrifice.`
+char_non: `And so, ......the roulette of fate had brought her to Kyrie...`
+char_non: `Of course, there was nothing forcing her to keep to that rule.`
+char_non: `However, it was the rule that she had decided upon, and she didn't want to break it now.`
+char_non: `......Now that she was participating in this demons' game, this was the one bit of justice that she could cling to...`
+char_non: `Right now, she could attack that unprotected back...`
+char_non: `{n}But Jessica still wasn't able to fully resolve herself.`
+char_kir: `"........................`
+char_kir: ` ......What is it?`
+char_kir: ` Do you have something to say to me...?"`
+char_non: `Noticing Jessica's strange silence, Kyrie turned around.`
+char_non: `{n}......That unprotected back was already gone.`
+char_non: `Jessica realized that her hesitation had cost her her own first chance...`
+char_non: `......She had taken on this demons' game to prove her love for Kanon.`
+char_non: `However,`
+char_non: ` ......would it really be alright to sell her soul to demons...`
+char_non: `...for the sake of love...?`
+char_non: `Not wanting to let George, who had already come to terms with the situation, get any more of a lead on her, she had energetically consented to this demons' game, but...`
+char_non: `......her heart still wasn't ready......`
+char_jes: `"Umm, ..................`
+char_jes: ` ......M‐maybe I shouldn't be asking you this, Auntie Kyrie........."`
+char_kir: `"......What is it?`
+char_kir: ` It's rare for you to ask me questions, Jessica‐chan.`
+char_kir: ` ......I hope I'm capable of answering it for you."`
+char_jes: `"Actually, umm, ............I...`
+char_jes: `have someone I like."`
+char_kir: `"Oh, really?`
+char_kir: ` That's wonderful, *giggle*.`
+char_kir: ` Then is it love you wanted to talk about...?"`
+char_jes: `"E‐......eheheh...`
+char_jes: ` ...Yeah, ......pretty much."`
+char_kir: `".........Alright.`
+char_kir: ` I'll help out if I can."`
+char_jes: `"Th‐thank you very much...`
+char_jes: ` ......Actually, umm......"`
+char_kir: `"Is it still one‐sided?"`
+char_jes: `"No, ......I guess you could say that it's just become mutual...`
+char_jes: ` But, well, .........there's this trial......for us to be joined together......"`
+char_kir: `"A trial?`
+char_kir: ` What are you talking about?"`
+char_jes: `"......There's the two of us and another pair of lovers......and we have to fight each other."`
+char_kir: `"A love triangle?`
+char_kir: ` Or a love rectangle...?`
+char_kir: ` Sounds complicated.`
+char_kir: ` ......And?"`
+char_jes: `"Only the pair who wins can be together...`
+char_jes: ` ......It's something complicated like that.`
+char_jes: ` So it's like, um—"`
+char_kir: `".........Sounds nasty.`
+char_kir: ` ......Love that can only succeed at another couple's expense."`
+char_jes: `"Yes...`
+char_jes: ` ......If we join up, ......then they'll fall apart.`
+char_jes: ` ......And the same the other way around."`
+char_kir: `"......I think I see where you're going with this.`
+char_kir: ` ......Something like this, right?`
+char_kir: ` "To what extent is a person allowed to climb over others in their own pursuit of happiness", ......right?"`
+char_jes: `".............................."`
+char_non: `It was once again apparent......just how smart Kyrie was.`
+char_non: `She immediately figured out the question that Jessica wanted to ask most...`
+char_kir: `"If you don't fight, it automatically means that they win and you lose.`
+char_kir: ` ......However, if you do fight and win, you cause the other pair to break apart.`
+char_kir: ` ......It's nasty either way.`
+char_kir: ` But the answer is obvious."`
+char_jes: `"............Yes......"`
+char_non: `Kyrie giggled.`
+char_non: `......If she wasn't willing to commit to her love, then that would show the measure of their relationship.`
+char_non: `{n}If that was the case, she should just let the other pair of lovers win.`
+char_non: `However, if this was a love she couldn't abandon,`
+char_non: ` ......she couldn't abandon the victory either.`
+char_non: `So, ......she had no option but to fight.`
+char_non: `In the end, Jessica's hesitation was caused by guilt...`
+char_non: `over forcing the others to split apart as the result of her inevitable decision......`
+char_jes: `"......I guess...`
+char_jes: `......I'm just...`
+char_jes: `...being soft after all......"`
+char_kir: `"Yep.`
+char_kir: ` ......That you are."`
+char_jes: `"...........................`
+char_jes: ` ......But stepping over someone else for the sake of my own love,`
+char_jes: ` ......it feels......horrible..."`
+char_kir: `"In that case, what about the one you love?`
+char_kir: ` ......Will you give up on them?"`
+char_jes: `"......That's......"`
+char_kir: `"I can tell you one thing for certain.`
+char_kir: ` Doing that would feel even worse.`
+char_kir: ` You'll be forced to crawl through hell.`
+char_kir: ` ......For the rest of your life."`
+char_non: `A hardness had entered Kyrie's gaze...`
+char_enj: `"......I was just six, so I didn't understand much about it at the time,`
+char_enj: ` ......but I found Mom's notebook among her belongings after she died."`
+char_fea: `"Was it a diary...?"`
+char_enj: `"It was more a collection of her thoughts.`
+char_enj: ` It was much less organized than a diary would've been.`
+char_enj: ` ......I found it and read it right after she passed away,`
+char_enj: ` ...but I needed to wait a long time, until I'd grown for several years, before I could understand it."`
+char_fea: `".........I see.`
+char_fea: ` ...So, did it speak of Kyrie's worries about her marriage?"`
+char_enj: `"It was......practically a book of curses.`
+char_enj: ` ......It cleared up several things that six‐year‐old me had always vaguely sensed."`
+char_non: `When I was six, it seemed as though my parents were very close and had no problems.`
+char_non: `......And though I did think it odd that Onii‐chan lived separately when he was meant to be part of our family,`
+char_non: ` and I did wonder why he only came home every once in a while,`
+char_non: ` I accepted it as the way things were.`
+char_fea: `"Did you not know about Asumu?"`
+char_enj: `"......I think Onii‐chan talked to me about her when no one was around, but there was no way an elementary schooler like I was could understand.`
+char_enj: ` ......After all, I never even saw a picture of her.`
+char_enj: ` ......Mom had sent all of the pictures with Asumu‐san in them to Onii‐chan, leaving none behind in the house."`
+char_non: `In front of Ange, and even in front of Battler who only rarely came home,`
+char_non: ` ......Kyrie's smile never faltered.`
+char_non: `If she hadn't written her thoughts in that notebook, Ange would probably never have known them.`
+char_non: `Rudolf had been particularly popular with the opposite sex since his school days—a typical playboy.`
+char_non: `Audacious, over the top, and yet not lacking a little gentleness towards women,`
+char_non: ` he had probably built up a formula for getting women to like him.`
+char_non: `Plenty of women approached him, using various seductive tricks to try to win his favor.`
+char_non: `Rudolf probably enjoyed that more than anyone.`
+char_non: `Since the beginning, love had been a game to Rudolf.`
+char_non: `He never thought of it as a trial and error process to find a single life partner.`
+char_non: `He would intentionally spark jealousy between women and revel in the harem, lapping up their flirting.`
+char_non: `......He may be my father, ......but he was an awful man.`
+char_enj: `"But at the same time, Dad must have looked down on those toadying girls.`
+char_enj: ` ......Mom, who had her own set of values and was extremely intelligent, must have stood out."`
+char_fea: `"......Though even that might have been due to the skillful way Kyrie tried to catch Rudolf's gaze."`
+char_enj: `"...........................`
+char_enj: ` ......Yeah, maybe.`
+char_enj: ` Mom was smart in many ways."`
+char_non: `Like the other Ushiromiya siblings, Rudolf had strong ambitions and lofty goals.`
+char_non: `Under the mottos of "who dares wins" and "it's not a crime if you don't get caught",`
+char_non: ` he would set up businesses that were borderline swindles or bending the law, then bail out of them, and repeat that process over and over.`
+char_non: `Apparently, he was already making use of that talent in his college years, cleverly making money by thinking up shameless projects and selling cheap tickets to parties for them,`
+char_non: ` so much money that he could brag about how his wallet was always stuffed with a hundred 10,000 yen notes......`
+char_non: `Many women fell for his charisma in being the man responsible for these radical projects, ...as well as his thick wallet and generosity.`
+char_non: `......It would be a lie to say that Kyrie was not one of them.`
+char_non: `However, what made Kyrie very different from the other women...`
+char_non: `...was that she could also support Rudolf as a business partner.`
+char_non: `Rudolf would laugh all the way to the bank as his large‐scale party succeeded.`
+char_non: ` His female entourage would surround him.`
+char_non: `And Kyrie would be the only one among them able to calmly point out several ways that income and expenditure could be improved upon,`
+char_non: ` and even lay out a proposal for the next project.`
+char_fea: `"In that manner, ......Rudolf must have slowly begun to accept her as a partner."`
+char_enj: `".........Just like some people say men don't belong in the kitchen,`
+char_enj: ` ......there's also a sense that women should stay out of financial affairs.`
+char_enj: ` ......It's "normal" for women to be treated by men.`
+char_enj: ` ...The details of how those 10,000 yen notes were scrounged up are vulgar, so they don't ask, don't know, don't even care."`
+char_fea: `"So, you're saying that Kyrie viewed money from a man's perspective..."`
+char_non: `In that regard, Rudolf noticed something unique about Kyrie.`
+char_non: `He knew all about how much hard work it took to make just one of those 10,000 yen notes.`
+char_non: `So, somewhere inside him, he looked down upon those extravagant women who never even considered the efforts he had undertaken.`
+char_non: `......Among all of them, only Kyrie possessed the same sharp financial intuition as Rudolf...`
+char_non: `Every time Rudolf thought of a new plan, he would talk to Kyrie about it, work out the kinks, and make it succeed.`
+char_non: `In this way, Kyrie steadily worked her way up until she was the number one of Rudolf's large group of followers.`
+char_enj: `"But Mom was still a woman.`
+char_enj: ` ......I doubt she enjoyed seeing Dad pampered by all the other girls."`
+char_fea: `"......So, she would rather have been his only one, instead of his number one..."`
+char_enj: `"Yeah.`
+char_enj: ` Though she served as Dad's right hand, she slyly got rid of the other women in the shadows.`
+char_enj: ` ......It was only a matter of time before Mom would succeed in her love."`
+char_fea: `"When did Asumu come into the picture?"`
+char_kir: `"......She was one of those who swarmed around Rudolf‐san.`
+char_kir: ` ...No, not even that.`
+char_kir: ` She was just one of his fans."`
+char_jes: `"Did you ever talk with her...?"`
+char_kir: `"Of course.`
+char_kir: ` ......I knew her well.`
+char_kir: ` Ever since the very beginning, before Rudolf‐san even knew her name.`
+char_kir: ` .........I'm sure she was quite intelligent herself.`
+char_kir: ` And cunning.`
+char_kir: ` ......I tried to use my intelligence to stick out, .........but she took the exact opposite approach."`
+char_jes: `"......By her...stupidity......?"`
+char_kir: `"*giggle*...`
+char_kir: ` .........I mean she was good at triggering his protective instinct.`
+char_kir: ` Out of all the girls who came to flatter and flirt with him,`
+char_kir: ` ......only she stood out with every action she made, unlike the flashy girls Rudolf‐san had tired of."`
+char_non: `......Even now, Kyrie recognized the mistake she had made in letting Asumu and Rudolf get too close.`
+char_non: `Kyrie had thought that by taking the role of his business partner, she had succeeded in making him entirely hers.`
+char_non: `......She might have been a little conceited.`
+char_non: `And her arrogance in trying to eliminate the relationships the other girls had with Rudolf might also have contributed.`
+char_non: `Perhaps she sometimes tried too hard as a business partner,`
+char_non: ` putting too much pressure on him, regardless of the fact that it was justified.`
+char_non: `Bit by bit, Rudolf started to need a woman who could stay quiet and soothe him,`
+char_non: ` ......without making him think about anything complicated.`
+char_non: `.........That woman was Asumu.`
+char_kir: `"I am ruthless and intellectual.`
+char_kir: ` Rational and economical.`
+char_kir: ` ......In a plank of Carneades situation, I would push the other person off without hesitation.`
+char_kir: ` ......I thought that was the kind of partner suitable for him."`
+char_non: `However, though that ruthlessness had made her reliable on the business side of things...`
+char_non: `......outside of business,`
+char_non: ` it might have disturbed Rudolf deeply.`
+char_non: `At some point, ......though Rudolf still acknowledged Kyrie's skill, he began to yearn for a quiet, warm acceptance.`
+char_non: `Asumu filled that role completely.`
+char_non: `She would never talk about anything complicated.`
+char_non: `{n}Even if he did, she would just shake her head to say she didn't know.`
+char_non: `However, she would care more for him physically than anyone else, quietly putting a blanket on him and staying by his side until morning...`
+char_kir: `"......Yes, I did get the position of his business partner.`
+char_kir: ` ......But before I knew it,`
+char_kir: ` ......Rudolf‐san had grown a need for a mental partner, someone who could heal his heart.`
+char_kir: ` Foolishly enough, despite claiming to be the intellectual one, I never noticed."`
+char_jes: `"............And then...`
+char_jes: `...Uncle Rudolf...`
+char_jes: `married Aunt Asumu......?"`
+char_kir: `".................................`
+char_kir: ` ...Yes, that's right.`
+char_kir: ` She stole him away from me."`
+char_jes: `"........................"`
+char_kir: `"He had slept with a lot of women.`
+char_kir: ` ......By that point, he wasn't the kind of guy to let his emotions be captured by a woman just because he slept with her.`
+char_kir: ` After all, sleeping with women was just a game to him.`
+char_kir: ` .........That's why I used something other than my body to attract his attention."`
+char_fea: `"......Conceit.`
+char_fea: ` A woman's downfall..."`
+char_enj: `"Before long, they were both pregnant.`
+char_enj: ` ......Asumu‐san told Dad about it right away, but Mom did the opposite."`
+char_fea: `".........She must have been afraid that pregnancy would threaten her position as his business partner..."`
+char_enj: `"Apparently, Mom wasn't eating much at the time and was often out of sorts.`
+char_enj: ` Because of that, it took a really long time before she realized she was pregnant."`
+char_fea: `"When did she notice...?"`
+char_enj: `"......It was after Asumu‐san suddenly moved into Dad's family register.`
+char_enj: ` ......Mom learned about her pregnancy after that and plotted several times to split Asumu‐san and Dad apart, but..."`
+char_kir: `"Even though Asumu‐san.........always appeared to be so absentminded,`
+char_kir: ` ...once she got her hands on Rudolf‐san, she wouldn't let go.`
+char_kir: ` ......‘What do you want? Please stay out of our way’, she'd say.`
+char_kir: ` ......And this coming from that sissy little girl who'd curl up into a ball every time she got on a bus."`
+char_kir: `".........At that point, I realized.`
+char_kir: ` ...She had been the truly cunning one.`
+char_kir: ` ......Yes, even her fear of vehicles was another lie to catch Rudolf‐san's sympathy.`
+char_kir: ` ..............."`
+char_kir: `".....................My apologies.`
+char_kir: ` I must be boring you."`
+char_jes: `"Oh, ......no........."`
+char_kir: `"At the very least,`
+char_kir: ` I wanted him to register himself as the father of my child.`
+char_kir: ` ......And it does seem as though Rudolf‐san was prepared to do that.`
+char_kir: ` He made sure there was a hospital waiting for me, and even though Asumu‐san was close to giving birth herself, he gallantly came to see me.`
+char_kir: ` .........Even though she was already his wife.`
+char_kir: ` What an awful man, really......"`
+char_non: `After that......is the tale I can't bear even to tell.`
+char_non: `Both Asumu and I......had the same delivery date.`
+char_non: `And yet, her pregnancy led to marriage, ......while mine was completely meaningless.`
+char_non: `I swore to bring up my child well, so that Rudolf‐san would be proud to call himself its father.`
+char_non: `Asumu‐san had won her battle against me.`
+char_non: `{n}......However, I hadn't yet lost the war.`
+char_non: `If I could make my child excel far more than Asumu‐san's,`
+char_non: ` if I could make my child the one that Rudolf‐san most respected, I would be rewarded.`
+char_non: ` .........That's what I believed.`
+char_fea: `"However, ......Kyrie's child was stillborn."`
+char_enj: `"Yeah.`
+char_enj: ` ......Asumu‐san gave birth to Onii‐chan.`
+char_enj: ` ......But Mom didn't give birth to anyone.`
+char_enj: ` ......Even Mom's final hope of being left a spot as Dad's second wife...was destroyed......"`
+char_non: `Kyrie had fallen from his partner to his second wife,`
+char_non: ` ......and then, unable to give birth to the bond of a child, ......she tumbled down......to being merely his mistress.`
+char_non: `I can't imagine...`
+char_non: `...how much she must have hated Asumu and her child, ...Battler.`
+char_enj: `"......But despite that,`
+char_enj: ` ......Mom was able to act in a very friendly way towards Onii‐chan.`
+char_enj: ` .........It was definitely a shock for me.`
+char_enj: ` To discover that my kind and gentle mother had held such negative emotions towards Onii‐chan......and managed to hide them."`
+char_fea: `"........................`
+char_fea: ` ......She must have despised Battler."`
+char_enj: `"I don't doubt it.`
+char_enj: ` ......If Asumu‐san's child had been stillborn and Mom had been the one to give birth to Onii‐chan,`
+char_enj: ` ......history might have changed in some way.`
+char_enj: ` It seems she thought that if that had happened,`
+char_enj: ` she might have been able to make things play out in a way that Dad would divorce Asumu‐san and marry her instead."`
+char_fea: `".........Was that...also written in that book where she kept her thoughts?"`
+char_enj: `"Yeah.`
+char_enj: ` ......It truly was a collection of random thoughts, fantasies.`
+char_enj: ` .........Mom's resentment, as she chewed on the corner of her tear‐stained bed sheets."`
+char_kir: `"There's just one thing I regret."`
+char_jes: `".........You mean...the pregnancy?"`
+char_kir: `"No, no.`
+char_kir: ` .........It's my arrogance I regret.`
+char_kir: ` ".........Rudolf‐san is already mine, so I'm completely safe.`
+char_kir: ` ......I'll never lose to that Asumu girl.""`
+char_kir: `"......While she was screaming and shrieking on buses and planes, I was capable of properly managing the travel arrangements and expenditures.`
+char_kir: ` ......And so, I was overly confident......that I was the one Rudolf‐san trusted the most."`
+char_jes: `"........................"`
+char_kir: `"They say love needs to be nurtured, right?"`
+char_jes: `"Y‐......yeah."`
+char_kir: `"That's not wrong.`
+char_kir: ` ......You both need to water that tree, care for it, and nurture it.`
+char_kir: ` ......And at the end, it will finally bear the fruit called love.`
+char_kir: ` Did you know?`
+char_kir: ` It isn't over when it bears fruit.`
+char_kir: ` ......You have to harvest that love, or it will never be realized."`
+char_jes: `".........Harvest......?"`
+char_kir: `"You need to think about that yourself, Jessica‐chan.`
+char_kir: ` ......If you make the tree bear fruit without harvesting it, it can sometimes grow rotten.`
+char_kir: ` And bugs will often gather around it.`
+char_kir: ` In fact, ......sometimes thieves will come by and pluck it off the branch."`
+char_jes: `"..........................."`
+char_kir: `"Young kids like you, Jessica‐chan, think that love ends with nurturing.`
+char_kir: ` ......That's naive.`
+char_kir: ` ......If you don't harvest it, you will never be rewarded for your love."`
+char_jes: `"Harvest......love......"`
+char_kir: `"At a glance, it may seem to be a matter just for the pair of lovers, but that isn't true.`
+char_kir: ` Putting off the harvest because you assume you can do it at any time just gives the thieves a chance."`
+char_kir: `"......What if that fruit you've worked so hard to nurture gets pulled off the branch the next morning?`
+char_kir: ` ......You'll regret that you didn't choose to harvest it the previous day instead of putting it off.`
+char_kir: ` ......That regret really hurts.`
+char_kir: ` ......It'll make you crawl through hell."`
+char_jes: `"........................"`
+char_kir: `"I was lucky.`
+char_kir: ` My hell ended after 18 years.`
+char_kir: ` ......So, I'll never misjudge myself again.`
+char_kir: ` ......That man is mine.`
+char_kir: ` I won't let him get away. I won't let him out of my sight.`
+char_kir: ` And I'm grateful to my masters.........`
+char_kir: `for giving me that chance.`
+char_kir: ` My "absolute, certain willpower" in not giving up on that man no matter what was answered with a "miracle"."`
+char_non: `By now, Jessica was speechless......and didn't even nod her head in understanding.`
+char_non: `......This true form of love that Kyrie was telling her about...`
+char_non: `was far, far more harsh than anything she had imagined...`
+char_kir: `"Now,`
+char_kir: ` ......I will do anything to keep Rudolf‐san by my side.`
+char_kir: ` And I will show no mercy to his enemies.`
+char_kir: ` ......If he wished it, I might not even hesitate to commit murder."`
+char_kir: `".........Because I finally gained that determination, on the 18th year,`
+char_kir: ` .........that absolute willpower...`
+char_kir: `...brought about a miracle for me.`
+char_kir: ` .........You know, miracles only come to those who can make them come true themselves."`
+char_non: `Asumu's death was no murder.`
+char_non: `However, Kyrie had often cursed her and hoped for her death,`
+char_non: ` ......and finally, on the 18th year, she built up the determination to kill her with her own hands.`
+char_non: `And then, ......she actually......got herself a knife with which to do the deed.........`
+char_non: `That was when the miracle occurred......`
+char_jes: `"......Aunt Asumu passing away......was a miracle......?"`
+char_kir: `"Not really.`
+char_kir: ` ......That wasn't even close to a miracle."`
+char_jes: `"............Huh?"`
+char_kir: `"After all,`
+char_kir: ` ......if she hadn't died, I would have killed her.`
+char_kir: ` ......In other words, she was fated to die no matter what.`
+char_kir: ` ......The miracle was that, even though she did die,`
+char_kir: ` {i:I didn't have to get my hands dirty}.`
+char_kir: ` That's all."`
+char_non: `......Until now, Kyrie had never shown Jessica...`
+char_non: `......no, she had never even shown Rudolf...that glint in the deepest depths of her eyes.`
+char_non: `It told plainly and clearly...`
+char_non: `that romance and love are not the sweet and fluffy candies that young girls imagine them to be.`
+char_non: `Jessica was overwhelmed by that pressure......and stunned silent.`
+char_non: `{n}And she had to acknowledge it.`
+char_non: `{n}This was.........the power of will that could make love be realized.`
+char_non: `This was the level of willpower Kyrie showed in her support of Rudolf as his wife.`
+char_non: `And it was the same for George.`
+char_non: `......He already had the willpower to confront everything in the way of his love that transcended status,`
+char_non: ` and he had proven that.`
+char_non: `Now, ......Jessica could clearly understand.`
+char_non: `This was the magnitude of George's determination,`
+char_non: ` which had allowed him to coldly carry out his part of the demons' trial...`
+char_non: `Then, ......what about her.........?`
+char_non: `Did she really have the resolve to make her love with Kanon bear fruit...`
+char_non: `and to go through with the task of harvesting it.........?`
+char_kir: `"*giggle*, I'm sorry.`
+char_kir: ` I only meant to give a little advice, but perhaps I scared you a little too much.`
+char_kir: ` ......*giggle*giggle*.`
+char_kir: ` Blame the weather.`
+char_kir: ` I just wanted to pressure you a bit, but I've gone overboard."`
+char_non: `Kyrie let a relaxed smile rise to her face.`
+char_non: `{n}The tense atmosphere finally slackened.`
+char_non: `......However, her words had been gouged into Jessica's heart.`
+char_kir: `"I don't know what your love has been like, Jessica‐chan,`
+char_kir: ` .........but if you have a rival and neither is willing to back down, you can't let yourself become complacent."`
+char_kir: `"......If you do, you'll end up like me.`
+char_kir: ` ............Every woman should have one time in her life...`
+char_kir: `when she would kill for the sake of love.`
+char_kir: ` ......I can tell you that all women in the world who call themselves mothers have been through that.`
+char_kir: ` After all..."`
+char_kir: `"Women who don't do that are chewed to bits by the others and forced to crawl through the hell of envy and regret for the rest of their lives.`
+char_kir: ` .........My hell lasted 18 years.`
+char_kir: ` ......I was lucky to be pardoned after just 18.`
+char_kir: ` ......That hell is still filled with women......who will never get out until they die.`
+char_kir: ` ......Unless they execute themselves in their regret."`
+char_jes: `"........................`
+char_jes: ` ......Wow, I......I have no words."`
+char_kir: `"*giggle*.`
+char_kir: ` ......I was trying to spur you on, but here I've gone and frightened you too much.`
+char_kir: ` ...I'm truly sorry.`
+char_kir: ` ......Love can be much more easygoing than that, okay?`
+char_kir: ` Love really is like playing with fire.`
+char_kir: ` Anyone can play easily and lightheartedly.`
+char_kir: `......But when you mess up and get burned, that scar stays with you your whole life.`
+char_kir: ` .........*giggle*giggle*giggle*."`
+char_non: `Regrets in love will never fade.`
+char_non: `That was all that Kyrie had been trying to communicate.`
+char_non: `......It wasn't like Kyrie to tell her life story instead of just saying something like that directly—in fact, her past was a topic she usually avoided.`
+char_non: `However, ......Kyrie might have felt as though Jessica deserved to hear.`
+char_non: `Jessica had timidly brought up the subject of love.`
+char_non: `......Perhaps Kyrie had opened up and told everything...`
+char_non: `...because she had seen the fires of Jessica's determination in her eyes.`
+char_kir: `"Well, I'd better head back.`
+char_kir: ` ......Let's keep what we've talked about a secret, okay?`
+char_kir: ` Eheheheh..."`
+char_non: `With a mysterious smile on her face, Kyrie turned around.`
+char_kir: `.........I wonder if I scared her too much.`
+char_kir: `Still, it's a hundred times better to learn of that hell from a warning.`
+char_kir: `{n}`
+char_kir: `......Once you've fallen into it, it's already too late.`
+char_kir: `Good luck, Jessica‐chan.`
+char_kir: `{n}`
+char_kir: `Your love sounds like a handful, but don't let yourself be beaten.`
+char_kir: `Eheheh, it's not every day I get to act as a mentor...`
+char_kir: `"......Hmm?`
+char_kir: ` What is it, Jessica‐chan...?"`
+char_non: `What—`
+char_non: `A windstorm grazed Kyrie's head.`
+char_non: `It had missed by a hair.`
+char_non: `If Kyrie hadn't twisted her body slightly, that fist would probably have been buried in her face by now.`
+char_non: `A bitter smile rose to Jessica's face when she saw that her first strike had failed to land a kill...`
+char_jes: `"Just so you know, I didn't try to sucker punch you because I'm a dirty coward...`
+char_jes: ` ......I hoped to end it with a single painless strike before you realized what was happening..."`
+char_kir: `".........Didn't I tell you that I've lived through the hell of jealousy?`
+char_kir: ` I've come close to getting stabbed in the back a couple times before.`
+char_kir: ` I know how it feels just before a surprise attack."`
+char_jes: `"You mean you could sense it...?"`
+char_kir: `"That, plus the lie you told in the beginning."`
+char_jes: `"......A lie?"`
+char_kir: `"Come now.`
+char_kir: ` If you had come from your room after picking up a book and were on your way back to the guesthouse, you wouldn't have come through this hallway in that direction.`
+char_kir: ` ......Chessboard theory led me to seven possible reasons you might have had for lying,`
+char_kir: ` and this was the worst‐case scenario."`
+char_non: `Telling a hasty lie to Kyrie would only put her on her guard.`
+char_non: `If Jessica hadn't told that lie, her surprise attack would have succeeded.`
+char_jes: `".........Not bad.`
+char_jes: ` ......I should have expected that from you, ...Auntie Kyrie."`
+char_kir: `"Why me?`
+char_kir: ` You were planning to kill me from the beginning."`
+char_jes: `"It didn't matter who it was."`
+char_kir: `"Just my luck."`
+char_jes: `"It's what you said that gave me the boost I needed.`
+char_jes: ` .........Thanks a lot......"`
+char_kir: `".........Wha............?!"`
+char_non: `Kyrie dodged the punch, placed her hand against that fist, and slammed it against the wall.`
+char_non: `Ordinarily, being made to punch the wall should have caused Jessica to hurt her own hand...`
+char_non: `...and roll around clutching it in pain...`
+char_non: `However, Jessica's fist...`
+char_non: `...had left what looked like a meter‐wide crater in the wall.`
+char_non: `Instead of a look of anguish after smashing her fist against the wall,`
+char_non: ` Jessica clicked her tongue in irritation at having missed...`
+char_kir: `"......Incredible.`
+char_kir: ` I see that you are your father's daughter.`
+char_kir: ` Have you taken up boxing too...?"`
+char_non: `Impossible... Jessica is barehanded.`
+char_non: `{n}She isn't holding any sort of weapon at all...!`
+char_jes: `"............Please don't resist, Auntie.`
+char_jes: ` Just one strike to the head...`
+char_jes: ` I promise you won't feel a thing."`
+char_non: `Kyrie tried to look confident, but she couldn't hide her confusion at this unreal destructive force.`
+char_non: `If that punch had hit, her head probably would have split open like Jessica had said, killing her without any pain.`
+char_jes: `"Here I come........."`
+char_kir: `".........!!!"`
+char_non: `If Kyrie's kick off the ground and leap backward had been an instant slower, her gut would probably have been pulverized.`
+char_non: `Though she had avoided it by a hair,`
+char_non: ` Jessica's left body blow was followed by a terrible tornado‐like gust of wind, which blew Kyrie back.`
+char_kir: `"......Is this a dream?`
+char_kir: ` Am I still sleeping?!`
+char_kir: ` I...I don't understand!"`
+char_non: `This Jessica looked like the normal Jessica, but something was different...!`
+char_non: `{n}It wasn't human, and common sense didn't apply to it!`
+char_non: `This had to be......some kind of nightmare...!!`
+char_non: `Kyrie slowly stood up.`
+char_non: `Then, she looked at Jessica, noticed the several meters between them...`
+char_non: `and realized just how far that blast of wind had sent her flying.`
+char_jes: `"..................Feel free to hate me.`
+char_jes: ` ...But...`
+char_jes: `......just like you,`
+char_jes: ` ......I can't back down.`
+char_jes: ` .........I can't let...`
+char_jes: `...my love...`
+char_jes: `...finish half‐hearted."`
+char_kir: `".........What are you talking about...?`
+char_kir: ` What are you saying?! What on Earth is going on?!`
+char_kir: ` Someone, tell mee{-}e{-}e{-}e{-}e{-}e{-}e{-}e{-}e!!!"`
+char_non: `The air around Jessica seemed to bend like a heat wave.`
+char_non: `It seemed to be enshrouding her fists.`
+char_non: ` ......And, it seemed as though something like a red magic circle had appeared beneath her feet.`
+char_non: `She looked just like a Western demon standing amidst the flames of hell.`
+char_jes: `"...Flame upgrade.`
+char_jes: ` ......Mass upgrade.`
+char_jes: ` ......Armor‐piercing upgrade."`
+char_non: `Each time Jessica muttered, her fists were surrounded by a pulsating, sinister, red light.`
+char_non: `......Those fists, which were even giving off smoke,`
+char_non: ` surely represented...`
+char_non: `......the iron hammers of hell wielded by demons...`
+char_kir: `"G‐goodbye!! This is just a nightmare...!!"`
+char_non: `Kyrie dashed away with lightning speed.`
+char_non: `Yes—right now, that was her best option.`
+char_non: `She was smart enough to realize that pinching her cheek wasn't the best way to wake up from this nightmare, and by now, this came as no surprise.`
+char_jes: `"......Ronove."`
+char_non: `When Jessica muttered once more, a blood‐red magical barrier blocked off the corridor.`
+char_non: `{n}Kyrie slammed into it hard and realized that her path of escape had been cut off.`
+char_kir: `"Gah,`
+char_kir: ` ......st‐`
+char_kir: `......stop this, this...madness...!!`
+char_kir: ` This is...`
+char_kir: `......a nightmare,`
+char_kir: ` ......it's a nightmare...`
+char_kir: ` ......Let me wake up...`
+char_kir: `......quickly......!"`
+char_jes: `"......Yeah, this is a nightmare......`
+char_jes: ` .........I'll wake you up right now, if that's what you want.`
+char_jes: ` .........Just one strike... Don't move......"`
+char_non: `Jessica slowly stepped forward towards her, enshrouded in flames...`
+char_non: `Each time her feet lifted off the floor......boiling steam hung around her footprints...`
+char_non: `This was......a true nightmare......`
+char_non: ` ......Kyrie clutched her head in her hands, shaking it over and over again......`
+char_kir: `"It's a nightmare, right......?`
+char_kir: ` This is......a nightmare, isn't it.........?`
+char_kir: ` Please, tell me it is......!!"`
+char_jes: `"Yeah, it's a nightmare."`
+char_kir: `"It is, right...?`
+char_kir: ` It's a nightmare, right......?`
+char_kir: ` Ah, ......aaa{0}a{0}a{0}a{0}a{0}a{0}a{0}a{0}a{0}a{0}a{0}a{0}a{0}a{0}a{0}aahh!!"`
+char_jes: `"I'll recognize that.`
+char_jes: ` ......This is a nightmare."`
+char_kir: `"I do too!!`
+char_kir: ` I recognize that this is a nightmare!! S‐so please—"`
+char_jes: `"I'll wake you up......with a single punch!`
+char_jes: ` Rrrraa{0}a{0}a{0}a{0}a{0}a{0}a{0}a{0}a{0}a{0}a{0}a{0}a{0}a{0}a{0}a{0}a{0}aahhh{0}h{0}h{0}h{0}hhh!!!"`
+char_jes: `"Ack.........ggha...gh...............kh...??"`
+char_non: `Jessica's neck twisted at an odd angle,`
+char_non: ` ......and she staggered backwards, her eyes rolled back into her head,`
+char_non: ` as though she didn't have a clue what had just happened.`
+char_non: `A demon stake......was buried at an angle into her forehead.`
+char_non: `It pulled itself out of her, spun around, then became Leviathan and landed.`
+char_non: `The hole left behind in Jessica's head spewed blood.`
+char_rg2: `"Leviathan the Envious, right here......!"`
+char_kir: `"If this is inside a nightmare anyway, .........why not have the friend that shows up in my nightmares?`
+char_kir: ` My friend from the hell of envy.`
+char_kir: ` Thanks for showing up just in the nick of time."`
+char_rg2: `"......It's too early to thank me.`
+char_rg2: ` She's......not down yet...!!"`
+char_jes: `".........Gah............gah......"`
+char_non: `Even though she had taken a deep gouge to the top of the head,`
+char_non: ` ......Jessica just stood there, convulsing and white‐eyed, and didn't fall over.`
+char_non: `The blood stopped pouring out of her forehead, ......and her blank, doll‐like eyes returned.`
+char_non: `Then, she slowly pressed her own palm against the wound in her forehead.`
+char_non: ` ......There was a sizzle, as though she had pressed a hot iron against it.`
+char_non: `It was easy to imagine that she was doing this to seal up the wound.`
+char_non: `If Kyrie didn't escape now, there would never be another chance...!`
+char_kir: `"Can you defeat her...?!"`
+char_rg2: `"Impossible.`
+char_rg2: ` ......She has a contract with one of the Great Demons... She's immortal...!"`
+char_zep: `"That is because of love!!`
+char_zep: ` That is why she is immortal!!"`
+char_fur: `"Yes, love is magnificent!`
+char_fur: ` Those with our blessings cannot be killed!!"`
+char_kir: `"Can we break that red magic wall?"`
+char_rg2: `"Ronove‐sama is also a Great Demon.`
+char_rg2: ` There's nothing I can do...!"`
+char_kir: `"Can we escape out of a window?"`
+char_rg2: `"The windows are no good either!`
+char_rg2: ` They were blocked by Ronove‐sama's barrier a while ago...!"`
+char_kir: `"Incredible. Does this mean she sold her soul to demons for the sake of love?"`
+char_rg2: `"How could she make so many contracts with Great Demons...?!`
+char_rg2: ` Aah, I'm so jealous...!!"`
+char_jes: `".................................`
+char_jes: ` ......Armor upgrade.`
+char_jes: ` ......All‐attribute defense,`
+char_jes: ` counter‐attacking armor upgrade."`
+char_non: `In response to these words, this time her entire body pulsated with a red light.`
+char_non: `......She had upgraded herself with a defensive power that would ensure Leviathan's attacks would never work again......`
+char_kir: `"What is she talking about...?"`
+char_rg2: `"......Self‐augmentation.`
+char_rg2: ` It's a kind of enchantment.`
+char_rg2: ` ......Right now, she has enough defensive power to prevent me from piercing her,`
+char_rg2: ` and she even has the power to reflect the damage back upon the attacker!`
+char_rg2: ` ......She's no longer {y:0:Human}{n:0:human}. She's a monster...!!"`
+char_kir: `"Oh, so that's all.`
+char_kir: ` Then not much has changed."`
+char_rg2: `"How can you say that?"`
+char_kir: `"Just like in the very beginning, we still have no chance of winning...!!"`
+char_jes: `"..............................`
+char_jes: ` ............That hurt.`
+char_jes: ` ......But it won't...work again."`
+char_non: `Jessica slowly...`
+char_non: `...lifted the hand that had been covering her forehead...`
+char_non: `...and there was no longer any hole there.`
+char_non: `The hall was blocked by barriers in both directions, and even the windows were sealed.`
+char_non: ` There was no way out.`
+char_kir: `"Is the door to this room sealed?"`
+char_rg2: `"No, it's just locked.`
+char_rg2: ` ......But it's just a normal room.`
+char_rg2: ` It does have windows, but they've already been sealed.`
+char_rg2: ` In other words, that's a locked room, and a coffin for us...!"`
+char_kir: `"A coffin is just what I need. Unlock it.`
+char_kir: ` ......Aah, I'm jealous, why are you the only one who can unlock it?!!!"`
+char_non: `Leviathan's stake flew about at high speeds, ramming itself into the keyhole to that room.`
+char_non: `The tip of the stake had become a key.`
+char_non: ` As soon as it was unlocked, the door flew open.`
+char_non: `Both of them fell into the room and quickly locked it.`
+char_non: `This was probably...Krauss's study.`
+char_non: `Its soothing furnishings brought about a sense of nobility that Krauss would probably like.`
+char_rg2: `"Even if you lock it, she can just smash through it with one punch!!`
+char_rg2: ` You've just put the lid on your own coffin!!"`
+char_kir: `"However, if she wants to send us a killing blow here inside this coffin, she'll have to take the lid off first!"`
+char_jes: `".....................?"`
+char_non: `With dim eyes, Jessica tilted her head upon hearing Kyrie's words.`
+char_jes: `"............What are you talking about...?`
+char_jes: ` ......How will such a small room...be able to protect you...?"`
+char_kir: `"This room may be a locked room.`
+char_kir: ` It may leave us with no method of escape.`
+char_kir: ` However, even you can't break into this room.`
+char_kir: ` That's what a locked room is!"`
+char_jes: `"......What are you talking about......?`
+char_jes: ` How does this tiny room,`
+char_jes: ` ......with its tiny door, make you think you've gotten away from me......?"`
+char_non: `With a confused expression on her face,`
+char_non: ` Jessica looked wearily between her own burning fists and the door.`
+char_non: `Then, slowly, ......she sent that pulsating, red light to her fists......`
+char_non: `She repeatedly enchanted her fists to give them the destructive power for the killing blow.`
+char_jes: `"......I'll smash this door to bits........."`
+char_kir: `"If you think you can,`
+char_kir: ` give it a try."`
+char_rg2: `"K‐Kyrieeeeeee......!!"`
+char_non: `Responding calmly through the door, which was the only thing separating her from Jessica, Kyrie placed a single index finger on it as if to hold it shut.`
+char_non: `Jessica slowly...`
+char_non: `...raised a fire‐wreathed demonic fist......`
+char_jes: `"......So long, Auntie Kyrie......"`
+char_rg2: `"Kyrieeeeeeeeeeeeeeeeeeee!!`
+char_rg2: ` ............{0}......{0}..................?!?!"`
+char_jes: `"...............Oh........."`
+char_non: `Jessica's fist slammed into the door in slow motion.`
+char_non: `It was the same kind of slow motion often seen as a special effect at the climax of a movie.`
+char_non: `However, this was no special effect.`
+char_non: `......Jessica's fist really was...slowing down as though it was being sucked in......like a spoon sinking into a jar of honey.`
+char_non: `That punch...was no longer a punch.`
+char_non: ` It was no more than a knock.`
+char_kir: `"I'm envious of you."`
+char_jes: `"...............Envy......"`
+char_kir: `"I crawled through the hell of envy for 18 years because of my arrogance and naivety in love.`
+char_kir: ` ......So I envy you.`
+char_kir: ` ......You're going to remember my warning, succeed in love, and walk a beautiful life, right......?"`
+char_jes: `"...........................Hah..."`
+char_kir: `"......Aah, I envy you.`
+char_kir: ` You'll get to live through the most beautiful time in a woman's life...for a full 18 years longer than I did.`
+char_kir: ` ...Aah, I envy you so much...!!"`
+char_non: `Jessica tried to slam her fists against the door over and over again.`
+char_non: `{n}However, as soon as her fist approached it, its speed plummeted.`
+char_non: `She could barely knock, much less smash the door...!`
+char_jes: `"............Speed upgrade.`
+char_jes: ` ......Instantaneous force upgrade.`
+char_jes: ` ......Speed of sound upgrade."`
+char_kir: `"It's useless, darling."`
+char_jes: `"......Break............!!!!"`
+char_non: `With full speed upgrades, Jessica's fist moved at the speed of sound, {nobreak:1,225 km/h}.`
+char_non: `However, how long had Jessica been in envy to gain that speed?`
+char_non: `She had started to envy George and Shannon's relationship about......two years ago?`
+char_non: `{n}2×365=730 days,`
+char_non: ` 730×24=17,520 hours.`
+char_non: `However, she wasn't envious all the time.`
+char_non: `{n}It only happened when Shannon started going on about George.`
+char_non: `{n}With Shannon's shift on about 3 days of the week, ÷7×3.`
+char_non: `And it wasn't as though she would go on about George all day long.`
+char_non: `{n}Her fond words for him would only leave a mark on Jessica for about......an hour?`
+char_non: `So only one 24th of each day.`
+char_non: `{n}17520÷7×3÷24=312 (rounded down).`
+char_non: `The number of hours that Kyrie had been jealous was 157,680.`
+char_non: ` {n}In other words, this was a scant 0.2% of the time that Kyrie had been jealous.`
+char_non: `Even 1225 km/h, the speed of sound, becomes only {nobr:2.45 km/h} in the 1/500 world.`
+char_kir: `"......Understand?`
+char_kir: ` ......You're lacking in both love and envy."`
+char_jes: `"..................!!!"`
+char_non: `Even Jessica's sonic fists...`
+char_non: `...were no faster than a walking child in Kyrie's world.`
+char_non: `Jessica ground her teeth, her fist still pressed against the door.`
+char_non: `If someone could have seen this from both sides of the door, it would have looked as though Kyrie was holding it shut with a single finger...`
+char_rg2: `"Way to go, Kyrie...!!!"`
+char_kir: `"See? This room is a locked room.`
+char_kir: ` At most, Jessica‐chan can knock on the door, but she can't lay a finger on us inside!"`
+char_ron: `"Ah, {f:5:Beatrice}'s definition of a locked room."`
+char_jes: `".........What the hell...?"`
+char_ron: `"Then this locked room will be somewhat troublesome.`
+char_ron: ` It is impossible for a {y:0:Human}{n:0:human} to carry out a locked‐room murder.`
+char_ron: ` ......Only magic can do that.`
+char_ron: ` ......Until you truly understand magic, you will not be able to break through it."`
+char_kir: `"You can't corner me any further...!`
+char_kir: ` As time passes, the relatives will eventually realize that I haven't returned, and they'll start searching the mansion.`
+char_kir: ` And then, you will be observed.`
+char_kir: ` Witches and magic alike disappear when they're observed.`
+char_kir: ` .........The nightmare is already over, darling!!!"`
+char_jes: `"......D‐......damn...it..............."`
+char_zep: `"Oh?!`
+char_zep: ` I can't believe Jessica is going to drop out all of a sudden!!"`
+char_fur: `"Oh, please give it your all!`
+char_fur: ` Do it for your beloved Kanon!!"`
+char_non: `""Come, Jessica, believe in love and let us see a miracle!!""`
+char_kir: `"Let me make a correction.`
+char_kir: ` There isn't even any need to wait for time to pass.`
+char_kir: ` ......After all, there's an extension telephone right here.`
+char_kir: ` Of course, the internal phone line hasn't been cut."`
+char_kir: `"......I'll just...pick up...`
+char_kir: `......the receiver!!`
+char_kir: ` This is...my...`
+char_kir: `......checkmate!!!"`
+char_jes: `".........Construction completed.`
+char_jes: ` .........Locked‐room murder."`
+char_ron: `"......Aha.`
+char_ron: ` ......Yes, that is valid."`
+char_jes: `".........Permeation upgrade.`
+char_jes: ` .........Attack transmission,`
+char_jes: ` indirect attack power upgrade."`
+char_kir: `"Huh..............."`
+char_non: `Jessica's fist, which was pressed against the door, glowed red...and then white hot...`
+char_non: `Jessica didn't even swing her fist.`
+char_non: `{n}She just kept it pressed against the door.`
+char_non: `However, ......Jessica's "murder" reached inside the "locked room"......`
+char_non: `Through the cracks in the study door, through the keyhole...burst the flames of hell.`
+char_non: `Jessica couldn't see what was happening inside the room.`
+char_non: `......However, even here, on the other side of the door, she could tell that the flames of hell had swallowed the entire room.`
+char_kir: `"Ggh...`
+char_kir: `......gyah...`
+char_kir: `.........gah...`
+char_kir: `............"`
+char_non: `Kyrie's smoldering death throes could be heard from across the door.`
+char_non: `Jessica clearly heard as Kyrie danced a dance of death amidst the hellfire,`
+char_non: ` ......fell to her knees,`
+char_non: ` ......and slumped over to the floor.`
+char_non: `Slowly, ......Jessica tore her burning fist away from the door.`
+char_jes: `".........If you love the hell of envy so much,`
+char_jes: ` then burn.`
+char_jes: ` ......Burn in the flames of envy...for all time.`
+char_jes: ` .........There are probably some things that can be learned from envy.`
+char_jes: ` However, it's nothing to be praised, and it's no one's duty.`
+char_jes: ` ............It seems you were too proud after all,`
+char_jes: ` ......Auntie Kyrie."`
+char_ron: `"......A splendid......locked‐room murder."`
+char_jes: `"Could you take care of the mess?`
+char_jes: ` .........I'd hate for her body to be burnt to a crisp when it's finally found.`
+char_jes: ` ......Do you think you could clean it up...?"`
+char_ron: `"As you wish, Milady."`
+char_non: `Ronove transformed into a gold butterfly and entered Krauss's study through the keyhole.`
+char_non: `......Then, he had to cross his arms and think...`
+char_non: `...about how he should even start cleaning up Kyrie's unrecognizable corpse and this room that had ended up as a burning hell...`
+char_jes: `"....................................`
+char_jes: ` ......Haaah.........haah..."`
+char_non: `Jessica finally let out the breath that she had been holding down in her chest...`
+char_non: `Her normal {y:0:Human}{n:0:human} glint finally returned to her eyes...`
+char_non: `......And then, ...she couldn't help but shudder at what she had done,`
+char_non: ` ......even if it had been just a trial on the game board for the sake of her love...`
+char_jes: `"......Is that what you wanted, demons?!"`
+char_non: `""Yes, well done, Jessica!`
+char_non: ` Your love is the real deal!!""`
+char_geo: `"........................"`
+char_non: `George welcomed Jessica with crisp applause.`
+char_non: `......Beato timidly tried to join him, but Jessica yelled at them and she stopped.`
+char_geo: `"......It's just something that happened on the game board.`
+char_geo: ` There's no need to look so sad about it."`
+char_jes: `"I know that logically!!`
+char_jes: ` But still, ......how am I supposed to just accept it emotionally?!!"`
+char_kan: `".........Milady—"`
+char_jes: `"Kanon‐kun, ......I...love you...!`
+char_jes: ` I can't give up...!!`
+char_jes: ` That's why I've shown how strong my feelings are...!`
+char_jes: ` I...didn't do something wrong, did I?`
+char_jes: ` I'm not wrong, am I?!`
+char_jes: ` Uuu...aa{0}a{0}a{0}a{0}a{0}a{0}a{0}a{0}a{0}a{0}ahh......"`
+char_kan: `"...............Milady..."`
+char_non: `As Jessica started to sob, ...Kanon held her quietly.`
+char_non: `{n}And he realized that he would have to carry on the determination she had shown him...`
+char_geo: `"You didn't make any mistake.`
+char_geo: ` ......And it also isn't a mistake to keep your human heart and be sad.`
+char_geo: ` ......I just happen to be a bit more of a stoic when it comes to that sort of thing."`
+char_sha: `"......Not everyone can match up to George‐sama's level.`
+char_sha: ` ......But, in any event, you have completed your trial, Milady.`
+char_sha: ` ......Well done. I admire the strength of your determination."`
+char_be3: `"Hmm, very true.`
+char_be3: ` Both George and Jessica...`
+char_be3: `have splendidly succeeded just the same.`
+char_be3: ` Very impressive, Jessica!`
+char_be3: ` ......That "locked‐room murder" just now was wonderful enough to fascinate even a witch like myself."`
+char_non: `Jessica had used "magic" to kill Kyrie, who had holed up inside a closed room.`
+char_non: `In that instant, Jessica had "constructed" a locked‐room murder,`
+char_non: ` had it acknowledged by the demons, and raised it to the level of magic...`
+char_fur: `"The trials for the two of you have been completed!!"`
+char_zep: `"So then, who will take the next challenge?!"`
+char_fur: `"Will it be {f:5:Beatrice}‐sama?!"`
+char_zep: `"No, no, it might be Shannon!"`
+char_fur: `"No, this has to be Kanon's time to shine!"`
+char_non: `""Come, speak up!!`
+char_non: ` Who is next?! Who will take the next trial?!""`
+char_bea: `".....................nn—"`
+char_be3: `"What witch would hesitate at committing murder on the game board?`
+char_be3: ` Even excess shyness can kill love."`
+char_bea: `"..........................."`
+char_zep: `"Come!! Who will be next—"`
+char_fur: `"To carry out a murder of love?!"`
+char_sha: `"....................."`
+char_kan: `".................."`
+char_bea: `"............nn—"`
+char_non: `The three who remained looked at each other.`
+char_non: `......‘If the other two are going to spend a few more moments hesitating to raise their hands, I will raise my own instead.’`
+char_non: `......All three thought this at the same time.`
+char_non: `So,`
+char_non: ` they all raised their hands at the same time.`
+char_non: `......The ones they loved had already shown their determination.`
+char_non: `{n}They had to carry on.`

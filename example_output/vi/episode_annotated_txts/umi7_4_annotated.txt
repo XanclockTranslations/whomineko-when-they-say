@@ -1,0 +1,464 @@
+char_non: `"Step it up!!`
+char_non: ` What are you doing, slacking off when the fighting's so close?!"`
+char_non: `Stars seemed to spin around inside my head.`
+char_non: `I could just lie down on the floor, but that'd only make him more angry.`
+char_non: `I've no intention of being obedient.`
+char_non: `......Still, it'd be stupid to get myself punched for no reason, so I got up and stood at attention...`
+char_kin: `"................................."`
+char_non: `The fighting's close, is it?`
+char_non: ` You really think the American troops are likely to show up on this forgotten island?`
+char_non: `Then let them come right now.`
+char_non: `{n}That's what I've been waiting for all this time.`
+char_non: `"What's this cowardly look you're wearing?!`
+char_non: ` Is this how afraid you are of death?!`
+char_non: ` Are you so scared of those Americans?!`
+char_non: ` You won't be killin' any of them with an attitude like that!!"`
+char_kin: `".............................."`
+char_non: `They hit me again.`
+char_non: `......Could you please quit your whining already?`
+char_non: ` Filthy cowards.`
+char_non: `They give themselves over to this inexplicable anger because it's the only way to distract themselves from their own fear.`
+char_non: `Heart and spirit aren't any use when the battle becomes hopeless.`
+char_non: `When trapped by an insurmountable hopelessness, humans rely on several other emotions to escape their fear.`
+char_non: `These young, inexperienced soldiers found anger to be a very convenient emotion to fall back upon.`
+char_non: `They did "drills" by shouting in loud voices and swinging their bamboo spears around.`
+char_non: ` Drinking the wine called anger was simply what they needed to do to numb their fear.`
+char_non: `The more one drinks wine, the more one needs to drink to get drunk.`
+char_non: `Their useless anger continued to pile up, day after day, without pause.`
+char_non: `As for me, I did not fear death.`
+char_non: `So, I had no need of the wine called anger.`
+char_non: `This made their cowardice all the more apparent to me.`
+char_non: `"There you go again, that look in your eyes!`
+char_non: ` Ushiromiya, your spirit is rotten to the core!!`
+char_non: ` You're a fish, that's what you are.`
+char_non: ` You've got the eyes of a dead fish!!"`
+char_non: `However, it went both ways.`
+char_non: `Just as I was able to spot their cowardice...`
+char_non: `{n}They were able to pick up on my lethargy.`
+char_non: `"Is Ushiromiya Kinzo here?!`
+char_non: ` The lieutenant's looking for you!"`
+char_non: `"Stand up!`
+char_non: ` No slouching about!`
+char_non: ` Double tiiiiime!!"`
+char_non: `First Lieutenant Yamamoto was the commanding officer in charge of the Rokkenjima garrison.`
+char_non: `He was just another filthy coward trying to forget his fear with violence,`
+char_non: ` and would reprimand his subordinates for slacking off at the drop of a hat.`
+char_non: `The stories of his life he'd spout off when in a good mood were all about how much of a thug he had been, ignoring the rules of society.`
+char_non: `On and on about how so‐and‐so was a prick so he taught them a lesson, or how everyone was so scared of him that he got special treatment.`
+char_non: `......He kept on talking about what a vile human he was as though it was a badge of honor.`
+char_non: `Normally, I had nothing to do with this disagreeable lieutenant.`
+char_non: `He would always hang around with his non‐commissioned subordinates,`
+char_non: ` so as long as I treated him with a snappy salute, I could more or less ignore him for the time being.`
+char_non: `Now that the construction project on this island had been suspended indefinitely, there was no longer any use for an engineer like me.`
+char_non: `So, why did the lieutenant ask for me specifically?`
+char_non: `{n}At that moment, I couldn't think of anything......`
+char_non: `"Ushiromiya!`
+char_non: ` I hear you're good at speaking foreign languages, is that true?!"`
+char_kin: `"I am proficient in both English and Chinese, sir."`
+char_non: `The lieutenant liked to brag about his education in front of the non‐commissioned officers,`
+char_non: ` but he held a bit of a grudge against me for being even more highly educated than him.`
+char_non: `He also felt uncomfortable about having me as a subordinate because he was younger than me,`
+char_non: ` so I was definitely not the kind of person he could hit it off with.`
+char_non: `Just the fact that I knew several languages must have hurt his pride.`
+char_non: `"What about Italian, do you speak that?"`
+char_kin: `"I'm afraid not."`
+char_non: `"So, you wouldn't be much help as an Italian interpreter, then."`
+char_kin: `"It should be possible if one of them speaks English as well, sir."`
+char_non: `"......Ah, yes, very true!`
+char_non: ` Have you ever talked with a foreigner in English?!"`
+char_kin: `"I have, sir."`
+char_non: `Why on Earth would he need an interpreter in a cave on an uninhabited island that even our superiors have forgotten?`
+char_non: `His question made it clear that someone who would need an interpreter would be visiting Rokkenjima.`
+char_non: `"Good!`
+char_non: ` Ushiromiya, you'll be my interpreter, that's an order!"`
+char_non: `That evening, I found out exactly what he was talking about.`
+char_non: `That pointless cavern submarine dock that had never been used...`
+char_non: `.........was now being approached slowly by a submarine of the Italian Navy.`
+char_non: `Of course, I knew that the Italians had been our allies.`
+char_non: `{n}However, this was the first time I had seen anything from their military with my own eyes.`
+char_rio: `"What was the Italian Navy doing here......?`
+char_rio: ` Didn't Italy surrender in 1943?`
+char_rio: ` What's going on...?"`
+char_kin: `"It was the Kingdom of Italy that surrendered.`
+char_kin: ` ......However, the ones who couldn't accept that surrender formed a pro‐German government called the RSI so that they could continue fighting."`
+char_rio: `"The RSI?"`
+char_wil: `"The Italian Social Republic.`
+char_wil: ` Also known as the Salò Republic."`
+char_kin: `"You know your history.`
+char_kin: ` ......The ignorant often call the Italians cowards, saying that they surrendered first of the Axis powers in 1943.`
+char_kin: ` That's not true.`
+char_kin: ` The military of the Italian Social Republic fought bravely from the outbreak of war until April 29th, 1945."`
+char_wil: `"And Berlin fell just three days after that.`
+char_wil: ` Far from being cowards, they gave one hell of a fight.`
+char_wil: ` ......Still, I'm surprised the RSI Navy even had possession of a submarine that could travel all the way to Japan."`
+char_rio: `"......Even if they did, it's a surprise that they'd come out this far at all.`
+char_rio: ` ......Why would they come to Japan?`
+char_rio: ` To Rokkenjima?"`
+char_non: `The submarine was both weather‐worn and massive.`
+char_non: `This dock had never even been used by one of our own country's submarines.`
+char_non: `I doubt anyone here imagined that it would end up welcoming in one from a far‐off nation.`
+char_non: `All of the guards of Rokkenjima, of which there were only about thirty, stood at attention as the submarine docked.`
+char_non: `"......Never seen the Italian military before......"`
+char_non: `"I heard a mine or some kinda accident trashed their sub."`
+char_non: `"From what I heard, their ventilation system was hit and they couldn't stop the cabin filling up with chlorine gas."`
+char_non: `"The lieutenant was hinting about there being something very important in there......"`
+char_non: `"You mean like a code machine or the blueprints for some new kind of engine?"`
+char_non: `"I couldn't care less what they're carrying, I'm more surprised that the higher‐ups still remember we exist..."`
+char_non: `"Move it, Ushiromiya!!`
+char_non: ` How're you supposed to interpret from over there?!!"`
+char_kin: `"Yes, sir......"`
+char_non: `On top of the hatch was a young Italian saluting us.`
+char_non: `......Normally, this should have been the job of a commissioned officer, but his clothes looked like those of a sailor,`
+char_non: ` and it really didn't look like he had the dignity and composure of a ship's captain.`
+char_non: `That probably meant that all of the commissioned officers in charge had died in the accident that had befallen this sub.`
+char_non: `Crew members crawled out of the hatch one by one, but they all looked pale and entirely worn out.`
+char_non: `I wasn't sure how long ago the accident had happened,`
+char_non: ` but being crammed together in a tiny sub filled with chlorine gas for any amount of time can't be good for your health.`
+char_non: `Adding to the problem of the broken ventilation system was the fact that they couldn't afford to travel about carelessly on the surface of the waters around Japan right now.`
+char_non: `......They had essentially traveled here inside a can of poison gas.`
+char_non: `Almost all of them were unable to walk without leaning on someone else—it looked like a bunch of people staggering out of a hospital boat.`
+char_non: `"Ushiromiya!`
+char_non: ` Ask them who the captain is!`
+char_non: ` Tell them that I'm in charge of this island!"`
+char_kin: `"<......Welcome to Japan.`
+char_kin: ` Do any of you speak English?>"`
+char_non: `The crew members seemed to understand that I was speaking English, but it looked as though none of them could speak it.`
+char_non: `Eventually, someone who seemed to be dressed as an officer saluted.`
+char_kin: `"<Welcome to Japan.`
+char_kin: ` Are you the captain?>"`
+char_non: `"<I cannot speak English>......`
+char_non: ` <Please, wait.>"`
+char_non: `The officer answered in slow, laborious English.`
+char_non: `......After asking us to wait, he shouted something to his subordinates in rapid Italian.`
+char_non: `It looked as though he was telling them to get someone among them who could speak English.`
+char_non: `"Ushiromiya, what're they talking about?!"`
+char_kin: `"They've asked us to wait.`
+char_kin: ` They might be looking for someone there who can speak English."`
+char_non: `At that moment, I heard a high‐pitched cough.`
+char_non: `{n}It wasn't a man's cough.`
+char_non: ` ......It was a woman's.`
+char_non: `"<I speak English.>"`
+char_non: `As she came down from the hatch, .........a woman with beautiful golden hair said this in English.`
+char_non: `In this filthy cavern,`
+char_non: ` the appearance of one as beautiful as she was seemed like an angel descending upon us......`
+char_kin: `"<Welcome to Japan.`
+char_kin: ` Is the captain there?>"`
+char_non: `"<The captain is dead.`
+char_non: ` That man over there is the only officer left.>"`
+char_kin: `"<My condolences.`
+char_kin: ` Can we do anything to assist you?>"`
+char_non: `"<Well, we would like some fresh air and water.`
+char_non: ` Some of us are still having trouble breathing.`
+char_non: ` We'd like a place to rest.>"`
+char_kin: `"<We would be happy to help.`
+char_kin: ` Do any of the others understand English?>"`
+char_non: `"<There were some who did, but they're all dead.`
+char_non: ` I'm the only one now.>"`
+char_non: `"Ushiromiya! What's that woman talking about?!`
+char_non: ` Who's the captain? That man from a second ago?!`
+char_non: ` Who is that woman?! Let's see some translating, dammit!!"`
+char_non: `The lieutenant wouldn't shut up.`
+char_non: `......He must have been surprised to see such a beautiful woman appear from the submarine...`
+char_non: `and more than a little annoyed to see all of her attention focused on me alone.`
+char_non: `It was a mark......of how divinely beautiful she was.`
+char_kin: `"Sir,`
+char_kin: ` it seems that she's the only one who understands English.`
+char_kin: ` She will act as their interpreter.`
+char_kin: ` Their captain is dead.`
+char_kin: ` That officer seems to be acting in his place."`
+char_non: `"<Who's that loud man who keeps yelling at you?`
+char_non: ` Don't tell me he's your superior.>"`
+char_kin: `"<Yes, unfortunately.`
+char_kin: ` He probably doesn't like seeing me have such a beautiful lady all to myself.>"`
+char_non: `"<Oho.`
+char_non: ` I didn't expect such flattery from an Asian.`
+char_non: ` Your English is superb.`
+char_non: ` I imagine you've been brought up very well.`
+char_non: ` Unlike that rude man who keeps on shouting.`
+char_non: ` They should have made you the officer in charge around here.>"`
+char_kin: `"<Oh?`
+char_kin: ` I didn't expect such flattery from a Westerner.>"`
+char_non: `"<*giggle*!`
+char_non: ` You're an interesting man.`
+char_non: ` What's your name?>"`
+char_kin: `"<Ushiromiya...Kinzo.`
+char_kin: ` If you don't mind, may I ask for your name as well?>"`
+char_non: `"<Beatrice Castiglioni.>"`
+char_kin: `"<Welcome, Beatrice.`
+char_kin: ` Welcome to Japan.>"`
+char_non: `That was when I first met Beatrice, the woman who would capture my heart for the rest of my life......`
+char_rio: `"......So, Beatrice was an Italian."`
+char_kin: `"Yes.`
+char_kin: ` She was the daughter of a high‐ranking RSI official.`
+char_kin: ` Apparently, their most important cargo was her father himself.`
+char_kin: ` ......Sadly, he had already died by the time they reached Rokkenjima."`
+char_wil: `"Why would a high official like that come to Japan?`
+char_wil: ` You're saying he went through the Suez Canal and crossed the Indian Ocean to come all the way here?"`
+char_rio: `"That's a good point.`
+char_rio: ` If they wanted to reach one of their allies, Germany should have been much closer.`
+char_rio: ` ......So, why would they make the long trip to Japan?"`
+char_kin: `".........It may have been part of some grand, outrageous strategy.`
+char_kin: ` ......I don't know all the details,`
+char_kin: ` but shortly after, I learned that this submarine's mission was far from a minor one..."`
+char_non: `They said that there had been about sixty of them at the time of their departure.`
+char_non: `However, only about ten of them, including Beatrice, had survived.`
+char_non: `Their submarine had apparently hit a mine or something in the nearby waters and sustained a great deal of damage.`
+char_non: `They told us that it had flooded rapidly with water, which had taken out the batteries and released a large amount of chlorine gas.`
+char_non: `Their sub had become completely incapable of continuing further,`
+char_non: ` nothing but a massive lump of metal floating in the dock.`
+char_non: `Since the sub seemed to be carrying "something of immense value",`
+char_non: ` the higher‐ups ordered us to investigate.`
+char_non: `After questioning the Italians, with Beatrice and me acting as double interpreters,`
+char_non: ` we concluded that this thing of immense value must have been her father himself.`
+char_non: `Apparently, Beatrice's father was extremely high up in the RSI hierarchy,`
+char_non: ` and it was thought that he might have worked alongside the Italian Prime Minister himself.`
+char_non: `Though their massive voyage had apparently been part of some top‐secret mission, now that the man himself and all of the commissioned officers had died,`
+char_non: ` their reason for coming to Japan remained a mystery.`
+char_non: `And, since the higher‐ups were telling us to investigate, that meant that even they didn't know what it was.`
+char_non: `Their ship had broken down, their mission was unknown, and the high official they had been carrying was dead.`
+char_non: `{n}And even the Japanese government didn't know why they were here.`
+char_non: `......The Italians' great and perilous voyage...`
+char_non: `...had come to a meaningless and utterly fruitless end...`
+char_be4: `"<That's a relief.`
+char_be4: ` I always assumed the Japanese ocean air would smell like soy sauce.>"`
+char_kin: `"<What a coincidence.`
+char_kin: ` I've always thought Italians had hair made of pasta.>"`
+char_be4: `"<Of course we do.`
+char_be4: ` You don't know how hard it is to get that perfect al dente texture.`
+char_be4: ` I imagine you Japanese all wear spaghetti al nero?>"`
+char_kin: `"<Oh, you know quite a lot, I see.`
+char_kin: ` In Japan, we like to use squid ink instead of shampoo.>"`
+char_be4: `"<*giggle*!`
+char_be4: ` You really are amazing, Kinzo.`
+char_be4: ` It seems you know everything!`
+char_be4: ` Have you ever been to Italy?>"`
+char_kin: `"<Never.`
+char_kin: ` I have read a lot of your books, though.>"`
+char_be4: `"<An Asian man reading Italian books?!`
+char_be4: ` Wow, what kinds of books?>"`
+char_kin: `"<Niccolò Machiavelli.`
+char_kin: ` And Dante Alighieri.`
+char_kin: ` So, I know of course that you are the eternal lady.>"`
+char_be4: `"<Oh, what a surprise...`
+char_be4: ` You must be quite the bookworm.`
+char_be4: ` Does this mean you came from some Japanese noble family?>"`
+char_kin: `"<.........Who knows?>"`
+char_be4: `"<You're completely different from those other savage‐looking Japanese soldiers.`
+char_be4: ` I can tell!`
+char_be4: ` You must've come from a noble family.`
+char_be4: ` Are the Ushiromiyas some sort of Japanese aristocrats?>"`
+char_kin: `"<......Of course not.`
+char_kin: ` They just managed to strike it rich in the spinning industry in recent generations.`
+char_kin: ` I didn't study to prepare myself for nobility or anything like that.`
+char_kin: ` ......I just wasn't allowed to do anything else.`
+char_kin: ` Reading books, playing around with roses,`
+char_kin: ` and getting myself drunk were the only ways I had to occupy myself.>"`
+char_non: `Beatrice hadn't asked that question out of malice.`
+char_non: `{n}It had just been a curious question asked to a friend from a faraway country.`
+char_non: `However, ......Beatrice was from a noble family herself, so she could tell.`
+char_non: `......She could see the faint gloomy look on Kinzo's face.`
+char_be4: `"<Forgive me, Kinzo.`
+char_be4: ` I was so surprised that a high‐class person like you would be a simple soldier in a place like this...`
+char_be4: `...that I didn't stop to think about why.>"`
+char_kin: `"<I don't really care about my family line.`
+char_kin: ` The name Ushiromiya will mean nothing when I'm dead.`
+char_kin: ` And that will be what finally sets me free.>"`
+char_be4: `"<.........So, you joined the army because you wanted to die?`
+char_be4: ` You mustn't do that.`
+char_be4: ` Your family would be so sad.>"`
+char_kin: `"<Family?`
+char_kin: ` ......I have no family.>"`
+char_non: `I have a wife for the sake of public appearances...and children.`
+char_non: `{n}However, I've never wanted any of them.`
+char_non: `......Everything, everything......is a fleeting daydream created by selfish, greedy old men.`
+char_non: `......So, at least being stuck on this island, I can forget about all of that......and find some peace.`
+char_non: `Peace.........?`
+char_non: `But haven't I spent each and every day complaining that I wasn't sent to the front and haven't managed to die yet......?`
+char_be4: `"<......I can't understand the pain you're going through, but I do realize that my thoughtless words have hurt you.`
+char_be4: ` Forgive me, Kinzo.>"`
+char_non: `Forgive me, Kinzo.`
+char_non: `Ohh, those words...I think...they set me free.`
+char_non: `All of the Japanese people call me Ushiromiya.`
+char_non: `......Every time I hear it, it's a constant reminder that I'm the property of the Ushiromiya family.`
+char_non: `But she is different.`
+char_non: `{n}She calls me...Kinzo.`
+char_non: ` Not Ushiromiya.`
+char_non: `So maybe.........just for the time I chat with her like this,`
+char_non: ` ......I can forget that cursed family.`
+char_be4: `"<............Kinzo.>"`
+char_non: `I hadn't meant to make Beatrice feel guilty,`
+char_non: ` but she seemed certain that her thoughtless words had hurt me.`
+char_kin: `"<Thank you.>"`
+char_be4: `"<Huh?>"`
+char_kin: `"<You calling me "Kinzo" makes me feel like I can finally be my own man.`
+char_kin: ` ......I think...that I've finally met a person who truly sees me for who I am.>"`
+char_be4: `"<Kinzo.`
+char_be4: ` You may be a foreigner I met in a distant land,`
+char_be4: ` ......but I know your heart is very sensitive and beautiful.`
+char_be4: ` If we had grown up in the same neighborhood, I'm sure we'd have become quick friends.>"`
+char_be4: `"<......I'm happy too.`
+char_be4: ` You always call me Beatrice.`
+char_be4: ` Not "the daughter of the Castiglioni family".>"`
+char_non: `We were both in the same position.`
+char_non: `Her Castiglioni family must have been a rigid place as well.`
+char_non: `......Though we came from different countries, we had finally found something we could truly understand about each other.`
+char_be4: `"<Do you have a nickname that people close to you use?>"`
+char_kin: `"<No.`
+char_kin: ` They would just call me Kinzo.>"`
+char_be4: `"<Well then, you should stop calling me Beatrice.`
+char_be4: ` All of my close friends used to call me Bice.`
+char_be4: ` I'd like you to call me that too.>"`
+char_kin: `"<Very well.`
+char_kin: ` From this point onwards, I will call you Bice as a sign of our friendship.>"`
+char_be4: `"<Ah, come on.`
+char_be4: ` You can't talk all stiff like that.`
+char_be4: ` We're friends now, okay?>"`
+char_non: `A bright smile stretched across Beatrice's face......`
+char_kin: `"No matter how many decades pass,`
+char_kin: ` ......that smile will never fade from my memory......"`
+char_rio: `"......So, by meeting Beatrice, you managed to regain your sense of self."`
+char_wil: `"Or, as most people would put it, he cheated on his wife.`
+char_wil: ` .........Nggyaahh, ggrrrrkkk......"`
+char_rio: `"If you plan to continue being rude, I suggest you get in the habit of covering your butt."`
+char_non: `After having his butt pinched once more, Will hopped around in pathetic agony...`
+char_rio: `"So, in your eyes, Grandfather, Rokkenjima was...`
+char_rio: `always special for being the place you first met Beatrice."`
+char_kin: `".........Mm.`
+char_kin: ` ...If I had never come to this island, I would never have met her... It truly is an island of miracles..."`
+char_wil: `"Is there anything left of that submarine base today?"`
+char_kin: `"Yes, it's still there, close to Kuwadorian.`
+char_kin: ` It's in the shadows of a cove that can't be seen from the outside.`
+char_kin: ` After all, fishermen never approach this supposedly ill‐omened island.`
+char_kin: ` It is unlikely that anyone besides me still knows of its existence."`
+char_wil: `"Is the two‐kilometer‐long underground passage between Kuwadorian and the mansion a remnant of that base?"`
+char_kin: `"That is correct.`
+char_kin: ` There was some nonsense about carving a network of tunnels out of the limestone caverns...`
+char_kin: `which would connect a number of bunkers across the island.`
+char_kin: ` I made use of those tunnels and had two mansions built, one at each end of the island."`
+char_rio: `"Two mansions, two families.`
+char_rio: ` ......The Ushiromiya family mansion, ......and the mansion for "Kinzo", released from the shackles of the Ushiromiya family."`
+char_kin: `"............Correct.`
+char_kin: ` ......It was something I needed.`
+char_kin: ` ......A place for me to escape from the cursed name of Ushiromiya."`
+char_wil: `"...................................."`
+char_kin: `"<Still, I do feel bad for you.`
+char_kin: ` It must be awful to have come all the way out here and been unable to fulfill your mission.>"`
+char_be4: `"<I don't really know what Papa's plan was.`
+char_be4: ` He said that we needed to run far away to hide "it" until the time came.>"`
+char_kin: `"<And what is "it"?>"`
+char_be4: `"<I don't know.`
+char_be4: ` ......‘It’ was something very important,`
+char_be4: ` and he planned to hide it for many years until the right moment.`
+char_be4: ` Oh, and he planned for us to remain hidden along with it.`
+char_be4: ` I know because he apologized to me that I might be spending a very long time on foreign soil.>"`
+char_kin: `"<Didn't Ensign Angelo say that you had no cargo in particular,`
+char_kin: ` and that you were transporting your father instead?>"`
+char_be4: `"<The ensign doesn't trust you or the others.`
+char_be4: ` Even I know a few things he's kept hidden from you.`
+char_be4: ` ......He might even know what Papa's goal was...and what the cargo is.>"`
+char_kin: `"<Whatever it is, that's a mission for the Italian military.`
+char_kin: ` It has nothing to do with us.`
+char_kin: ` In fact, given that we're allies,`
+char_kin: ` we'd be willing to help if only they asked.>"`
+char_be4: `"<I have no doubts that you're a good person, Kinzo.`
+char_be4: ` I've even told Ensign Angelo that you're a man we can trust, but...`
+char_be4: ` ......Why is it that men always get so rigid and uptight when they're in a strange land?>"`
+char_be4: `"<Normally, they're all very bright and cheery people.`
+char_be4: ` Ever since we came here, there's been this strange feeling of tension.`
+char_be4: ` ......Ensign Angelo has ordered that his subordinates be armed at all times.`
+char_be4: ` It's almost as though we're in enemy territory.>"`
+char_non: `That was true.`
+char_non: `The Italians were clearly the very opposite of relaxed.`
+char_non: `The Japanese soldiers, watching this, began to suspect that the Italians didn't really trust them at all.`
+char_kin: `"<That's normal for a soldier.`
+char_kin: ` This is precisely the time for them to straighten up their guard, so they don't embarrass themselves in front of a friendly army.>"`
+char_be4: `"<They have a person stand watch every time they sleep,`
+char_be4: ` and they're still keeping a lookout to make sure none of you approach the submarine, even though it's nothing more than an unusable scrap heap now.`
+char_be4: ` It almost feels as though they're acting openly hostile towards the Japanese, and that bothers me.>"`
+char_non: `True, they had set up a constant sentry by the submarine and had refused to let any of the Japanese soldiers come near.`
+char_non: `This hadn't made the Japanese particularly happy.`
+char_non: `......However, submarines are treated as classified in all countries.`
+char_non: `Maybe it was just natural for them to stop foreigners from approaching it without reason.`
+char_kin: `"<They're probably uncomfortable with being made to live in a way they aren't used to.`
+char_kin: ` ......That boat which is supposed to take you back to the mainland is still being delayed by weather and problems up the command chain.`
+char_kin: ` Just how long will it take before they can send you there...>"`
+char_non: `We had been told that a boat was being sent for them directly from the mainland,`
+char_non: ` but apparently, thanks to the weather, problems up the command chain, and the recent air raids,`
+char_non: ` there were no ships to spare for a forgotten island like this.`
+char_non: `There might have been some sort of diplomatic problem.`
+char_non: `......After all, their homeland had already surrendered to the Allies.`
+char_non: `......I didn't know the details.`
+char_non: `The only thing I knew for sure...`
+char_non: `was that they'd been stuck on Rokkenjima for two whole weeks and no one had come to get them.`
+char_non: `Of course, we had some small boats on Rokkenjima.`
+char_non: `{n}There was nothing physically stopping us from taking them to a nearby island.`
+char_non: `Still, Rokkenjima was technically a top‐secret base, and contact with the outside world had been strictly forbidden...`
+char_be4: `"<Well, nothing we can do about it, and it isn't all that bad, really.`
+char_be4: ` After all, if a boat did come for us, I'd probably never see you again, Kinzo.>"`
+char_kin: `"<.........True.>"`
+char_non: `To me, those two weeks......were the first I'd ever truly {i:lived}.`
+char_non: `The faint twenty years before all seemed to vanish in the sparkle of those two weeks.`
+char_non: `......I realized that she would have to leave this place eventually.`
+char_non: `And yet, this one moment felt so rich and dazzling...`
+char_non: `...that I felt myself wishing it could last forever......`
+char_non: `Then, I heard a voice calling for Beatrice in Italian.`
+char_kin: `"<......It's Ensign Angelo.`
+char_kin: ` Looks like he wants you for something.>"`
+char_be4: `"<Probably to scold me.`
+char_be4: ` These days, he keeps yapping on about how I shouldn't get too friendly with the Japanese soldiers.>"`
+char_non: `The ensign approached, saluting Kinzo,`
+char_non: ` and after glancing at Beatrice as though asking her to translate something, he began to speak in Italian.`
+char_non: `Judging by his tone, it sounded like something serious.`
+char_be4: `"<......Ensign Angelo has something very important to say, so he wants to talk with your commanding officer.`
+char_be4: ` ......He seeks assistance with something.`
+char_be4: ` I don't know what.>"`
+char_kin: `"<Something important...?`
+char_kin: ` Got it.`
+char_kin: ` I'll go find Lieutenant Yamamoto.>"`
+char_non: `Ensign Angelo had two of his subordinates with him and wore a stern expression on his face.`
+char_non: `They didn't have to say anything for us to realize that this must be something very serious......`
+char_non: `"That's it!!`
+char_non: ` Lift it up!!"`
+char_non: `The winch creaked and the thick chains rang out with a dull clang.`
+char_non: `Very, very slowly, ......{i:it} was lifted up out of the submarine's cargo hold.`
+char_non: `"......Now I get it!`
+char_non: ` ......So this is why those Italians didn't want us near their sub...!"`
+char_non: `The lieutenant and the others looked up at what the winch was slowly lifting up,`
+char_non: ` ......all of them wearing unpleasant, forced smiles......`
+char_be4: `"<.........Unbelievable...`
+char_be4: ` ......So this is what Papa brought all this way...?>"`
+char_kin: `"<I‐......incredible......`
+char_kin: ` ......I've never seen anything like this......>"`
+char_non: `It was...a mountain of gold ingots.`
+char_non: `Those carefully piled bars were being slowly lifted out of the cargo hold, one group after another......`
+char_non: `This gold had been their true cargo.`
+char_non: `I don't know where they were planning to take it.`
+char_non: `They might have been trying to sneak it into Japan, one of their allies,`
+char_non: ` ......or they might have been on their way to hide it in some remote area.`
+char_non: `Was it some sort of strategy?`
+char_non: ` A conspiracy? Embezzlement?`
+char_non: ` Top‐secret transportation of wealth?`
+char_non: `This incomprehensible amount of gold led to all sorts of dark suspicions, but we didn't know anything about the truth.`
+char_non: `All told, the gold weighed an incredible ten tons.`
+char_non: `{n}That was the only truth we could wrap our minds around at the moment......`
+char_non: `They had strongly resisted showing this to us.`
+char_non: `{n}However, the submarine could no longer make sea, and it was apparently continuing to take in water bit by bit.`
+char_non: `Rokkenjima had been outfitted in an extremely slipshod way, so we had no means of repairing it.`
+char_non: `Also, while we could unload the sub, there was no way we could lift it up again once it had filled with water and sunk to the bottom.`
+char_non: `It was clear that unless action was taken, the gold would soon become completely impossible to transport.`
+char_non: ` ............And so, they had made the decision to unload it.`
+char_non: `Of course, they made no effort to explain the reason for all this gold.`
+char_non: `{n}They just asked us to help them take it out......`
+char_kin: `"<Why would they take so much gold out of the country...?`
+char_kin: ` Couldn't they have changed the course of the war with this much wealth...?>"`
+char_be4: `"<......Weapons change the course of war,`
+char_be4: ` but after the war, they aren't useful for anything.`
+char_be4: ` ......Money may also change the course,`
+char_be4: ` but it remains just as valuable after the war.>"`
+char_non: `There was no longer any way to change the course of this war.`
+char_non: `{n}The Axis powers would probably all surrender, leading to an Allied victory.`
+char_non: `Anyone could tell this simply by looking at the American planes flying across the sky day after day.`
+char_non: `However, gold would still be valuable after the war was over.`
+char_non: `Everyone stared upwards,`
+char_non: ` dumbfounded...`
+char_non: `...as the winch slowly lifted the dully sparkling gold......`

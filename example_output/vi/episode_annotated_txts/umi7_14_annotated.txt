@@ -1,0 +1,667 @@
+char_wil: `"........................"`
+char_non: `"............This form is......"`
+char_ber: `"I'm lending it to you.`
+char_ber: ` After all, I hate idiots.`
+char_ber: ` ......*giggle*giggle*.`
+char_ber: ` Call yourself Clair, as a temporary name.`
+char_ber: ` Or would you prefer Beato?"`
+char_cur: `"........................`
+char_cur: ` ...You have my gratitude.`
+char_cur: ` This way, I won't have to expose my pitiful form."`
+char_non: `{f:5:Bernkastel} had given this person a fake form.`
+char_non: `It was a temporary form for the person acting the part of {f:5:Beatrice}.`
+char_non: `{n}A false appearance intended for those yet to reach the truth of {f:5:Beatrice}'s identity......`
+char_rio: `"......Is that...`
+char_rio: `...a story about...`
+char_rio: `...me in another world?"`
+char_cur: `"Lion.`
+char_cur: ` ......It is a tale about me, who is also another world's you.`
+char_cur: ` ......The tale of the world where I live as a witch, not a {y:0:Human}{n:0:human}..."`
+char_rio: `"............I sometimes imagine "what if" scenarios for my own life.`
+char_rio: ` ......However,`
+char_rio: ` ......the tale you tell...`
+char_rio: `...is beyond anything...`
+char_rio: `I can imagine..."`
+char_wil: `"Even so,`
+char_wil: ` ......it's the life that another "you" has led."`
+char_rio: `"But still!`
+char_rio: ` That doesn't mean I can accept it easily."`
+char_non: `Lion suddenly yelled and looked at the floor.`
+char_non: `{n}Lion already knew.`
+char_non: `Because of the fragments provided by {f:5:Bernkastel}, Lion knew.`
+char_non: `This was a different world, where the same person lived as the Golden Witch {f:5:Beatrice}.`
+char_non: `And, in this world, .........eventually,`
+char_non: ` ............on the day of the October 1986 family conference,`
+char_non: ` .........this person would be the ringleader of a terrible crime.`
+char_rio: `"......Even if it is a different world,`
+char_rio: ` ......you're saying that I get my immediate and extended family and all of the servants involved in a terrible crime that I'm the mastermind of!`
+char_rio: ` How am I supposed to deal with that?!"`
+char_wil: `"...............Be quiet, listen, and understand."`
+char_rio: `"In a different life, I end up as a servant!`
+char_rio: ` And if that wasn't enough, I suddenly become a witch!`
+char_rio: ` And then, I eventually carry out several horrifying murders...!`
+char_rio: ` How am I supposed to "understand" that?!"`
+char_cur: `".............................."`
+char_wil: `"Yeah, that's what I expected you to say.`
+char_wil: ` ......I doubt anyone could understand.`
+char_wil: ` ......This person here's long past expecting anyone to understand.`
+char_wil: ` That's why {i:you} are here.`
+char_wil: ` ......That's why {f:5:Bernkastel} brought you two, two people who never could have met, together like this."`
+char_ber: `"............It's not like I had any deep reason for it.`
+char_ber: ` It was just a whim."`
+char_wil: `"It's a motive that no one else can understand, Lion, so you need to be the one to understand it.`
+char_wil: ` I'm not the main character in this tale.`
+char_wil: ` You are.`
+char_wil: ` .........I'm just here to help you understand."`
+char_rio: `"You said that you understood the culprit's motive."`
+char_wil: `"......Yeah."`
+char_rio: `"Is it...a satisfying motive...`
+char_rio: `for explaining why I'd kill my entire family...?!"`
+char_wil: `"Who knows.`
+char_wil: ` That's for you to decide.`
+char_wil: ` Even if I say it's satisfying, that doesn't mean it'll satisfy you.`
+char_wil: ` ......You have to decide that for yourself."`
+char_rio: `"I really don't have a clue what's going on...!`
+char_rio: ` I've seen several crimes called game boards that {f:5:Beatrice} supposedly carried out.`
+char_rio: ` And now, I'm hearing another me talk about a different life from mine.`
+char_rio: ` But none of that fits with the crime!`
+char_rio: ` I don't understand!!"`
+char_cur: `"..................At this point in the tale, ......even I...`
+char_cur: `could not have dreamed that I would eventually carry out such a terrible crime.`
+char_cur: ` In fact, even if I could have dreamed it,`
+char_cur: ` .........I did not have the power to commit that crime at that time."`
+char_wil: `"Probably.`
+char_wil: ` ......Your misfortune probably came...`
+char_wil: `...when you solved the epitaph's riddle."`
+char_rio: `".........Huh?`
+char_rio: ` You mean that epitaph about the hidden gold, which Grandfather supposedly wrote...?!"`
+char_wil: `"There was a system by which the culprit obtained different accomplices each time the crime was committed.`
+char_wil: ` .........Reasoning leads us to the possibility that the culprit possessed a vast amount of money.`
+char_wil: ` And...`
+char_wil: `......for inviting all to the Golden Land...`
+char_wil: `......and making all loves bear fruit......there was one other system."`
+char_cur: `"...............So, it's not just the motive...`
+char_cur: `...that you've figured out."`
+char_wil: `"That's the answer to the final riddle in the fourth game.`
+char_wil: ` ......Your greatest misfortune was solving the epitaph,`
+char_wil: ` .........reviving as the Golden Witch in the truest sense, and gaining that magical power."`
+char_cur: `"......Looking back, ......perhaps that was an ill‐fortuned event.`
+char_cur: ` .........I do not know.`
+char_cur: ` However, as long as the fact that Battler‐san returns in 1986 remains unchanged,`
+char_cur: ` .........some sort of tragedy would certainly have occurred."`
+char_wil: `"That's right.`
+char_wil: ` ......If Battler had returned a year earlier or later,`
+char_wil: ` .........that incident might not have occurred."`
+char_non: `No, some small incident would probably have occurred.`
+char_non: `And it would surely have been a mysterious, impossible incident, which no one could understand.`
+char_non: `But even so, it would have been insignificant compared to the Rokkenjima Serial Murders......`
+char_rio: `"......If Battler‐kun...`
+char_rio: `...had returned a year earlier or later,`
+char_rio: ` ......then what?"`
+char_cur: `"........................`
+char_cur: ` ......Fate can be so filled with irony.`
+char_cur: ` .........It made me walk the path of a witch, ......and when I solved the epitaph, I became a true witch.`
+char_cur: ` ......Then, after six years, I learned of his return.`
+char_cur: ` .........If all of that was fate,`
+char_cur: ` .........then this crime must have been inevitable and inescapable for me."`
+char_wil: `"In 1980,`
+char_wil: ` when Asumu, his mother, died, and his father remarried too soon for his liking, Battler left the Ushiromiya family in disgust.`
+char_wil: ` And he was gone for six whole years."`
+char_non: `He convinced his grandparents on his mother's side to help him and had his last name changed to his mother's maiden name.`
+char_non: `Then, when those grandparents passed away, he finally made up with Rudolf...and returned to the Ushiromiya family again in 1986...`
+char_wil: `"That bad luck......gave birth to your motive for the crime."`
+char_cur: `".........I did think it.`
+char_cur: ` ......‘Why, after six whole years,`
+char_cur: ` .........have you come back now?’"`
+char_wil: `"I understand.`
+char_wil: ` In a way, ......it would have been better for you if he had never come back."`
+char_cur: `"Of course, my suffering would have continued.`
+char_cur: ` ......However, I may have avoided tainting myself with the unforgivable crime of mass murder."`
+char_rio: `".........How could Battler‐kun leaving the Ushiromiya family...`
+char_rio: `...create a motive?"`
+char_wil: `"You've got it backwards."`
+char_rio: `"......Backwards?"`
+char_wil: `"The crime didn't occur because Battler left.`
+char_wil: ` .........It happened because Battler came back."`
+char_cur: `"...........................`
+char_cur: ` ......The more I think about it, the more I realize.`
+char_cur: ` ......Ushiromiya Battler.`
+char_cur: ` ......What a detestable man he was.`
+char_cur: ` More than anything else, because he never realized that the outbreak of the crime was his fault."`
+char_wil: `"He did remember, in the end.`
+char_wil: ` ......However, that was long after you gave up and disappeared."`
+char_cur: `"............If that is so,`
+char_cur: ` ......then it would give my heart some peace..."`
+char_rio: `"I still don't have a clue what you two are talking about.`
+char_rio: ` ......But I'd like to ask you straightforwardly.`
+char_rio: ` I want to know.`
+char_rio: ` ......What on Earth happened to you that made you decide to commit the crime?"`
+char_wil: `"Yes.`
+char_wil: ` That's the most important part.`
+char_wil: ` ......Just like how Ushiromiya Battler respected the whydunit in mystery novels.`
+char_wil: ` .........In the tale of the Golden Witch and in the game, ......the answers to all the riddles are hidden there."`
+char_cur: `"In that case,`
+char_cur: ` .........allow me to continue.`
+char_cur: ` ......1980.`
+char_cur: ` ......Six years before I resolved myself to commit the crime."`
+char_sha: `"......Battler‐sama has...`
+char_sha: `......left the Ushiromiya family......?"`
+char_non: `"That's what Krauss‐sama and Rudolf‐sama were saying!`
+char_non: ` What a shock!"`
+char_cla: `"You have your own way of life and your own family situation.`
+char_cla: ` I have no intention of criticizing those.`
+char_cla: ` However, Father is in a towering rage.`
+char_cla: ` Disinheriting a son is one thing, but I've never even heard of a child becoming so fed up with his family that he changed his own name."`
+char_rud: `"......No idea who he gets it from,`
+char_rud: ` but that Battler's as stubborn as a mule."`
+char_nat: `"If you are unable to understand Battler‐kun's feelings, I believe that would make you a failure as a father."`
+char_cla: `"That's enough.`
+char_cla: ` I'm sure Rudolf was just trying to show his commitment to raising Kyrie‐san's child properly."`
+char_nat: `"That would be perfectly satisfactory if it happened next year.`
+char_nat: ` ......But why this year?`
+char_nat: ` He's still in a period of mourning.`
+char_nat: ` ......If you consider the timing of this pregnancy, one must acknowledge that Rudolf‐san has acted disgracefully."`
+char_rud: `"............Come on, don't be so harsh.`
+char_rud: ` ......This is my way of atoning for what I've done..."`
+char_nat: `"Battler‐kun feels as though he's resisting you for the sake of his departed mother, Asumu‐san.`
+char_nat: ` ......I deeply understand how he feels.`
+char_nat: ` If he were here, I would like to hold him and cry along with him."`
+char_non: `Natsuhi's words were sharp.`
+char_non: ` They pierced Rudolf mercilessly.`
+char_non: `Rudolf had no retort.`
+char_non: `{n}His relationship with Kyrie had been improper, plain and simple.`
+char_non: `......According to Rudolf, he had been close to Kyrie longer than Asumu.`
+char_non: `And, even after his marriage to Asumu, that relationship had not disappeared......`
+char_but: `What the hell?!`
+char_but: ` You old bastard!!`
+char_but: `So what you're telling me is, you've been betraying Mom all this time!!`
+char_but: `Sure, I know Kyrie‐san.`
+char_but: ` You've told me that she was your business partner and a friend whose advice you can always rely on!`
+char_but: `Now you're telling me she was more than that all along, and you think I give a damn about that now?!!`
+char_but: `If all this had happened after Mom died, that'd be your own damn business!`
+char_but: ` I'd be right there with you, saying that you should live life as you please!`
+char_but: `But just when did Kyrie‐san get pregnant?!`
+char_but: ` Back when Mom was still alive, right?!`
+char_but: `Yeah, now I finally get it!`
+char_but: ` This is why looking at you makes me feel sick to my stomach!`
+char_but: `You were {i:glad} when Mom died, weren't you? Weren't you?!`
+char_but: `It must have been so hard on you, keeping your infidelity and even a kid secret while Mom was still alive!!`
+char_but: `And now that Mom conveniently kicked it, you get to marry Kyrie‐san and make the kid my new little brother or sister... The nerve of you!!`
+char_but: `Mom is crying her eyes out in heaven!!`
+char_but: ` You should be ashamed of yourself, you should be ashamed!!`
+char_but: ` {i:I} am!!`
+char_but: ` I am goddamn ashamed to have the same last name as you!!`
+char_but: ` The kid's done nothing wrong.`
+char_but: ` He or she'll need two parents to look after him or her.`
+char_but: ` So you go ahead and build a new family and give that kid a happy life!!`
+char_but: `But don't expect any forgiveness from me!!`
+char_but: `'Cause Mom isn't even here to hate you anymore!!`
+char_but: ` So I'm gonna hate you in her place!!`
+char_but: ` With all of my body and soul!!`
+char_but: ` So long, you old bastard!!`
+char_rud: `"................................."`
+char_cla: `"That is enough, Natsuhi.`
+char_cla: ` ......Rudolf hasn't lost the affection he feels for Battler‐kun.`
+char_cla: ` ......It may take some time, but he wants to fix their relationship one day."`
+char_nat: `"No less should be expected of him as a father.`
+char_nat: ` ......Battler‐kun is not a stranger.`
+char_nat: ` He is Rudolf‐san's flesh and blood, and Rudolf‐san has a bounden duty to repair their relationship."`
+char_rud: `".........Go ahead.`
+char_rud: ` Heap it on me.`
+char_rud: ` I won't argue back.`
+char_rud: ` ......That's the only way I can atone."`
+char_cla: `"At the very least, make sure you give the new child a happy life."`
+char_rud: `"............The new kid......and Battler.`
+char_rud: ` ......They're both my kids."`
+char_cla: `"Wedding Kyrie‐san after Asumu‐san's death...`
+char_cla: `...may have been painful for Battler‐kun, but it was the best choice you could make for the coming child.`
+char_cla: ` ......I understand why you did it."`
+char_nat: `"And I understand why Battler‐kun felt like accusing you of being glad when Asumu‐san passed away."`
+char_cla: `"Stop, Natsuhi.`
+char_cla: ` ......Rudolf has already been scolded enough from the person most fit to do so."`
+char_cla: `"......Now then, how about some black tea?`
+char_cla: ` Would you mind asking someone in the kitchen to make us some?"`
+char_nat: `"...............Very well."`
+char_non: `Natsuhi took this as a signal to leave the room and did so.`
+char_non: `Once she left, Krauss relaxed slightly.`
+char_cla: `"............It is a terrible shame about Asumu‐san,`
+char_cla: ` ......but considering the best interests of the coming child, the timing of all this might have been fortuitous."`
+char_rud: `"It's almost as though Asumu...`
+char_rud: `...knew about it, and stepped down from the stage of her own choosing.`
+char_rud: ` .........Was I the one who killed her...?`
+char_rud: ` .........If so, ......how long ago did I start...?"`
+char_cla: `"If you still treasure Asumu‐san's memory,`
+char_cla: ` ......then, though it may take several years, you must fix your relationship with Battler‐kun."`
+char_rud: `".........Yeah.`
+char_rud: ` ......I know."`
+char_cla: `"And be sure to pour just as much affection on Kyrie‐san and the new child that is to be born.`
+char_cla: ` ......While also bearing Asumu‐san's cross."`
+char_rud: `"..............................`
+char_rud: ` .........If they have reserved seating in hell..."`
+char_cla: `"......Hmm?"`
+char_rud: `"I hope that one of their finest seats...`
+char_rud: `...has got my name on it......"`
+char_cla: `"..........................."`
+char_non: `The news that Battler had left the Ushiromiya family swept across the family.`
+char_kum: `"How terrible for Battler‐san, too......`
+char_kum: ` I do believe that they will make up eventually, but......"`
+char_gen: `"......This is a matter for the family.`
+char_gen: ` We servants have nothing to do with it.`
+char_gen: ` Instead, we should focus on memorizing the face of the newest member of the Ushiromiya family, Kyrie‐sama."`
+char_kum: `"Yes, that's true.`
+char_kum: ` She will be coming to the family conference this year......"`
+char_non: `If the person new to the Ushiromiya family would be coming to the conference...`
+char_non: `......Then what about the person who just left...?`
+char_non: `"That means Battler isn't coming, right?"`
+char_bea: `"That seems the most probable outcome.`
+char_bea: ` How lonely is the loss of a single, noisy man."`
+char_non: `Though most people felt that it was sad to see Battler leave the Ushiromiya family and that he would be missed, they didn't think any more about it than that.`
+char_non: `However, .........what about Shannon?`
+char_non: `Wasn't Battler supposed to come for her on a white horse......?`
+char_non: `At first, I was shocked.`
+char_non: `Because I immediately thought that his departure from the family meant that he wouldn't be coming to this island anymore.`
+char_non: `......And I do think that's understandable given how he must feel.`
+char_non: `I understand painfully well why he wanted to leave his family...`
+char_non: `But, ......does that really mean he won't come to Rokkenjima anymore...?`
+char_non: `What on Earth is going on?`
+char_non: `{n}Will he really never return?`
+char_non: `Unable to ask him this directly, I was forced to spend each day contending with a growing sense of anxiety...`
+char_non: ` ......Battler‐san.`
+char_non: `{n}I understand how you feel......`
+char_non: `But............`
+char_non: `.........You wouldn't leave this place behind forever just because you broke away from the Ushiromiya family, would you...?`
+char_non: ` ......Tell me it isn't true......`
+char_non: `I was so confused that the world seemed to be spinning around me...`
+char_non: `I felt tightness in my chest, and I couldn't think at all.`
+char_non: `When I happened to touch my cheek,`
+char_non: ` ......I was surprised to find it hot and wet.`
+char_non: `......With a miserable expression on my face,`
+char_non: ` I was...`
+char_non: `...crying......`
+char_non: `{a:c:`
+char_non: `Shannon......`
+char_non: `...Shannon.........}`
+char_non: `From far away, ......I could hear someone calling to me.`
+char_non: `{n}But it was a very strange sort of distance.`
+char_non: `Though it felt very far away, ......the voice also seemed to be coming from right beside me.`
+char_bea: `"......Shannon.`
+char_bea: ` I understand......how you must be feeling..."`
+char_non: `"It's okay.`
+char_non: ` ......It's just a fight between a boy and his father.`
+char_non: ` And rumors always blow things out of proportion.`
+char_non: ` Everything's just being exaggerated."`
+char_bea: `"Indeed.`
+char_bea: ` There are none who can say with certainty that Battler will not return to this island.`
+char_bea: ` You would do well to remain strong."`
+char_non: `......Where......is this place......?`
+char_non: `I seem to remember it somehow.`
+char_non: `It's like it reminds me of the scenery of a strange dream I once had.`
+char_non: `{n}......Then, ......this must be another dream......`
+char_non: `I was there, under an arbor in a golden rose garden,`
+char_non: ` ......and two witches in white and red dresses were showering words of encouragement upon me...`
+char_bea: `"You can be sure that those rumor‐mongering young servants are embellishing the story however they please.`
+char_bea: ` That he has {i:changed his name} is obviously a gross exaggeration!`
+char_bea: ` Surely, this can be nothing more than a family quarrel."`
+char_sha: `"........................`
+char_sha: ` ......Thank you.`
+char_sha: ` ......I wish I could believe that..."`
+char_non: `"Of course that's true.`
+char_non: ` He's a boy, after all.`
+char_non: ` You can hardly be surprised that he has a few arguments with his dad."`
+char_bea: `"Precisely, as you say.`
+char_bea: ` Clearly, they will make it up to each other once they cool their heads."`
+char_non: `"Arguments between men flare up quickly, but they burn out just as fast."`
+char_bea: `"In contrast, an argument between women never bursts into flame, but smolders and lasts forever.`
+char_bea: ` Men's arguments are fierce but short!`
+char_bea: ` Quick and easy."`
+char_sha: `"......You're right.`
+char_sha: ` ......I hope Battler‐san and Rudolf‐sama...`
+char_sha: `...make up soon..."`
+char_bea: `"Oh, they will!`
+char_bea: ` Haven't you heard all the times Battler has spoken of it?`
+char_bea: ` He always fights with his father!`
+char_bea: ` This is just another of those fights.`
+char_bea: ` His mother's death and his father's remarriage have upset him—that is all."`
+char_non: `"It sounds as though he's gone to live with his mother's parents, but he'll come back after he's had a few days to cool his head.`
+char_non: ` You know, like a kid running away from home."`
+char_non: `The two witches kept saying that Battler's fight hadn't been anything huge.`
+char_non: `......If it was just a family quarrel, the rumors wouldn't have started in the first place.`
+char_non: ` I just can't feel optimistic about this...`
+char_bea: `"In any case,`
+char_bea: ` this is a problem between Battler and his father.`
+char_bea: ` Have patience, and time will heal all wounds!`
+char_bea: ` Matters will not be helped by you worrying about it."`
+char_non: `"Just because Battler didn't come today doesn't mean we can be sure he'll never come.`
+char_non: ` All this means is that Rudolf came alone today."`
+char_bea: `"Very true.`
+char_bea: ` Of course he will appear at the next family conference, as energetic as ever!`
+char_bea: ` By then, Rudolf will probably bring that Kyrie here too.`
+char_bea: ` Battler may be sulky about it, but I am certain that he will come too!"`
+char_sha: `"......You're right.`
+char_sha: ` ......Yeah.`
+char_sha: ` .........I'm sure...you're right."`
+char_non: `How nice would it be if they were right...`
+char_non: `In fact, if I could, I'd like to flip through the calendar until autumn right now and check to see whether he does come to the next conference.`
+char_non: `If he does, then all of my fears are groundless.`
+char_non: `It would mean the rumor‐mongering family members and servants just blew things out of proportion......`
+char_non: `If Battler‐san were right here, I'd like to question him right away...`
+char_non: ` "Hey, it isn't true that you'll never come to Rokkenjima again, right...?"`
+char_non: `If I could just hear him say "of course not", ......I could stop worrying about it...`
+char_non: `I don't know the phone number for Rudolf‐sama's house, but I could probably look it up if I tried.`
+char_non: `However, as a servant of the family, I have no excuse for making the call.`
+char_non: `And anyway, I have no way of finding out the phone number at Battler‐san's grandparents' house......`
+char_non: `All I can do is wait for Rudolf‐sama's family to come visit and hope that my fears are groundless......`
+char_non: `However, will I be able to make it through the day feeling like this...?`
+char_non: `No way.`
+char_non: ` I doubt I'll sleep a wink tonight.`
+char_non: `Just waiting around, feeling like this, ......when I don't know when my next chance will come...`
+char_non: ` I can't do that...`
+char_non: `Will it be next month?`
+char_non: ` Or the month after?`
+char_non: `{n}......In the worst case, I might have to wait until the next family conference.`
+char_non: `And I have to wait that long......while holding back this suffocating feeling......`
+char_non: `......I can't bear it.........`
+char_non: `"Hey, Shannon.`
+char_non: ` Sorry for asking this out of the blue,`
+char_non: ` ......but when you said that by the next year you'd have made a resolved decision about something, that something wasn't just quitting work as a servant on this island, right?"`
+char_sha: `"......Huh? ......Well, I.........`
+char_sha: ` ........................"`
+char_non: `It was......to make up my mind to start a new life.`
+char_non: `Instead of remaining a servant by force of habit.`
+char_non: `I'm supposed to resolve to step into a new life and leave my old life as a servant behind.`
+char_non: `"And Battler promised that he'd come here on the day you make that resolved decision, right...?"`
+char_sha: `".........Ummm,`
+char_sha: ` .........yes..."`
+char_bea: `"Tact is not one of my strong points, so I shall speak frankly.`
+char_bea: ` You are supposed to resolve to start a new life with Battler, correct...?"`
+char_sha: `"......A new life...`
+char_sha: `...with...Battler‐san..."`
+char_bea: `"You are afraid that Battler will not come for you on the day of your decision.`
+char_bea: ` However, there is more to that day of decision than just Battler coming to see you."`
+char_non: `"It's also the day for you to show your resolve to spend the rest of your life with Battler."`
+char_bea: `"That resolve is yours to create.`
+char_bea: ` It is not something that will be created automatically upon Battler's visit."`
+char_non: `"......Shannon.`
+char_non: ` Are you already resolved to spend the rest of your life with him?`
+char_non: ` You decided to put it off until the next family conference because you didn't have that resolve the last time, right?"`
+char_bea: `"What does it mean to live life with Battler?`
+char_bea: ` Have you ever thought seriously about it in detail?"`
+char_sha: `"Well, .........uh............"`
+char_non: `As long as I'm working as a servant on Rokkenjima, my opportunities for meeting him are limited.`
+char_non: `We're both underage, so it's too early to talk about......umm......marriage.`
+char_non: `However, if I quit working as a servant, I should have many more opportunities to meet him.`
+char_non: `Once I quit work here, ......I'll return to the Gospel House.`
+char_non: `I have my wages for serving the family, so I should have more than enough to make visits to Battler‐san's house.`
+char_non: `And when I graduate from school, I can rent an apartment near to Battler‐san's house.`
+char_non: `Then, well......I can work while going to school.`
+char_non: `{n}That life will be a lot more difficult than my vague conception of it.`
+char_non: `......However, I'll be able to see Battler‐san much, much more often.`
+char_non: `{n}If not every day, then every week.`
+char_non: `I won't be a servant anymore, so we'll finally be equals.`
+char_non: ` ......I'll be allowed to call him whenever I want.`
+char_non: `And I'm already balancing school and work.`
+char_non: `Thanks to my experience here, I know more than enough to do simple housework......`
+char_bea: `"......Doesn't that sound like a fun life?`
+char_bea: ` You can rent a humble abode, and once you've built up your own home, you can invite Battler over."`
+char_non: `"And then, the time you spend together, the world the two of you make, will begin.`
+char_non: ` Doesn't that sound wonderful?"`
+char_sha: `".........Y‐`
+char_sha: `......yes.`
+char_sha: ` ......It does sound a bit...`
+char_sha: `...wonderful......"`
+char_non: `This was the first time I had ever imagined that future clearly.`
+char_non: `I've been able to appreciate the feeling of my love for him...`
+char_non: `......and my honest desire to live my life with him.`
+char_non: `However, now that I have a clear picture of the future I plan to choose, I finally understand.`
+char_non: `I need to mentally commit myself to embarking on this future.`
+char_non: `"You dream of...`
+char_non: `......marriage, eventually, don't you?"`
+char_bea: `"Hohoh!`
+char_bea: ` Girls these days, dating with marriage in mind at such a young age...!"`
+char_sha: `"W‐well, that's a bit, umm......"`
+char_non: `"Don't deny your dreams, okay?`
+char_non: ` There's no point in taking a first step if your eyes are closed and you don't look to the future."`
+char_bea: `"If a girl's in love with a man, there's nothing wrong with thinking "I wanna marry hi~m"!`
+char_bea: ` That's a young girl's natural right."`
+char_non: `My face had turned bright red.`
+char_non: `Before today, I had thought that considering marriage really was a bit premature, and I had been trying my best not to think about it.`
+char_non: `......However, now that the witches had encouraged me to imagine it, that image was both exciting and fresh.`
+char_non: `I felt an indescribable feeling of refreshment and awakening,`
+char_non: ` ......like the gentle breeze that washes over you when you go outside during a brief spot of sunshine on a rainy day.`
+char_non: `Certainly, I hadn't yet reached that level of resolve.`
+char_non: `I need to create that resolve by the time the next family conference comes around.`
+char_non: `If I can't do that, then sticking around as a servant on this island is no more than I deserve.`
+char_non: `"And at the same time, this is also a trial."`
+char_bea: `"True.`
+char_bea: ` A trial to be overcome."`
+char_sha: `"......A trial...?`
+char_sha: ` Why is that...?"`
+char_bea: `"Fool.`
+char_bea: ` Battler promised that he would come for you at the next family conference, did he not?"`
+char_non: `"He said he'd come on a white horse, right?"`
+char_sha: `"Y‐......yes......"`
+char_bea: `"You are thinking that Battler will not come anymore.`
+char_bea: ` In other words, you have no trust in Battler's promise."`
+char_non: `"That's why this is a trial.`
+char_non: ` To pass through this trial, you'll have to show that you can trust him and wait."`
+char_sha: `".........A trial......"`
+char_non: `I never thought of it that way.`
+char_non: `Since he promised to come for me in a year...`
+char_non: `{n}I must believe that he will come for me in a year.`
+char_non: `......If I doubt that, I don't have the right to wait for him in the first place.`
+char_non: `..............................`
+char_bea: `"In fact, the reason that Battler left the Ushiromiya family might have been...`
+char_bea: `that he has his sights set on a future with you."`
+char_non: `"Oh, why would that be?"`
+char_bea: `"If he knows that you will live together and eventually exchange marriage vows,`
+char_bea: ` having the name Ushiromiya could cause problems, since Shannon is a servant of the Ushiromiya family."`
+char_non: `"Ah, I see!`
+char_non: ` He realizes that there'll be all kinds of trouble if he decides to marry a servant girl, so he's abandoned the Ushiromiya name beforehand...!"`
+char_bea: `"What do you think, Shannon?!`
+char_bea: ` That way, everything makes sense!`
+char_bea: ` Battler has abandoned the Ushiromiya name for your sake!`
+char_bea: ` This sudden argument with Rudolf was undoubtedly just an excuse."`
+char_non: `"What splendid reasoning!`
+char_non: ` Nice going, Riiche!"`
+char_bea: `"Wahahahahahahahahaha...!`
+char_bea: ` What do you say, Shannon?`
+char_bea: ` There's no reason to feel down!`
+char_bea: ` On the contrary, it is as though Battler has shown his resolve first!"`
+char_sha: `"......*giggle*.`
+char_sha: ` ......*giggle*giggle*giggle*......"`
+char_non: `A smile finally returned to my face.`
+char_non: `{n}Of course, I hadn't taken the witches seriously and let myself be reassured.`
+char_non: `The opposite, in fact.`
+char_non: ` It was just funny that they could think up such ridiculously convenient explanations for everything.`
+char_non: `However, they had made all of those ridiculous theories to cheer me up.`
+char_non: `......The witches are right when they say that I must trust Battler‐san...`
+char_non: `and that there's no point moping about just because I've heard a few rumors.`
+char_non: `By the date of the next family conference, I intend to have a firm resolve to live my life with him.`
+char_non: `And......I believe that he'll accept my feelings and come for me.`
+char_non: `The idea that Battler left the family so that he could be married to me some day...`
+char_non: `......is laughable, of course.`
+char_non: `But right now, I should try to feel confident enough to accept even crazy ideas like that.`
+char_sha: `"............Thanks so much.`
+char_sha: ` ......I feel a little better now."`
+char_bea: `"That is well.`
+char_bea: ` I cannot stand watching you dampen your pillow with tears."`
+char_sha: `"Thanks for coming into my dreams to encourage me."`
+char_bea: `"Yes.`
+char_bea: ` ......It will be morning soon.`
+char_bea: ` This is all a dream.`
+char_bea: ` You will surely have forgotten it when you wake up.`
+char_bea: ` However, your heart will be at peace."`
+char_sha: `".........Yes.`
+char_sha: ` ......I'll believe in him...and wait.`
+char_sha: ` ......So, I won't listen to every little rumor."`
+char_bea: `"Very good.`
+char_bea: ` Wait until the next conference while improving yourself.`
+char_bea: ` If you think of it as training to become a wife, all of your everyday chores will grow more meaningful!"`
+char_sha: `"*giggle*.`
+char_sha: ` ......Thanks a lot."`
+char_non: `"......Riiche.`
+char_non: ` It'll be morning soon."`
+char_bea: `"Is that so?`
+char_bea: ` Then so long, Shannon.`
+char_bea: ` ......You may not remember me,`
+char_bea: ` but I will always be by your side, watching over you......"`
+char_sha: `"Thank you......`
+char_sha: ` ......Thank you..."`
+char_bea: `"......The next family conference will be here in a flash.`
+char_bea: ` ......Wait for it at your leisure......`
+char_bea: ` Battler will certainly keep his promise........."`
+char_kir: `"Pleased to meet you.`
+char_kir: ` .........My name is Kyrie.`
+char_kir: ` I hope we can all become quick friends."`
+char_eva: `"I've known your name longer than I've known Asumu‐san's.`
+char_eva: ` I hear you're Rudolf's old girlfriend."`
+char_kir: `"*giggle*.`
+char_kir: ` Yes, we've known each other for quite a long time..."`
+char_nat: `"......Welcome to the Ushiromiya family.`
+char_nat: ` I hope you find it easy to grow comfortable here."`
+char_kir: `"Yes.`
+char_kir: ` I'd like to grow comfortable quickly, so that I can support my husband."`
+char_hid: `"But look at how cute that little girl is.`
+char_hid: ` What's her name...?!"`
+char_ros: `"This is Ange‐chan.`
+char_ros: ` What a cute name."`
+char_cla: `"............So, you two couldn't make up after all."`
+char_rud: `"I thought this would be the perfect chance to bring him back, but...`
+char_rud: ` ......He's as stubborn as Dad."`
+char_ros: `"Will Battler‐kun ever come back...?`
+char_ros: ` I'll miss him."`
+char_hid: `"Nothin' wrong with a man havin' the backbone to find his own way in the world.`
+char_hid: ` I'm sure he'll make it big and come right back...!"`
+char_eva: `"You think so?`
+char_eva: ` Right now, Battler‐kun's home isn't home for him.`
+char_eva: ` There's no reason for him to go back there."`
+char_cla: `"......Enough.`
+char_cla: ` This concerns Rudolf's family only.`
+char_cla: ` It is not our place to meddle."`
+char_kir: `"Thank you, Krauss nii‐san.`
+char_kir: ` ......This is an issue for our family alone.`
+char_kir: ` However, I intend to do all I can to see that Battler‐kun and Rudolf‐san can live together again someday.`
+char_kir: ` After all, he's Ange's one and only big brother."`
+char_rud: `"......Yep.`
+char_rud: ` When that kid gets stuck on something, anything you say to him will have the opposite effect.`
+char_rud: ` ......Asumu's father has a bit of a short temper.`
+char_rud: ` Looks like he's been adding fuel to the fire."`
+char_kir: `"It'll be okay.`
+char_kir: ` I'm sure he'll understand your feelings before too long."`
+char_hid: `"We can't do anything except cheer you on.`
+char_hid: ` ......Even if he doesn't come back, we're all prayin' that the two of you will make up quickly."`
+char_jes: `"......It's kinda boring without Battler."`
+char_geo: `"Yeah.`
+char_geo: ` ......I hope he and Uncle Rudolf can make up soon."`
+char_sha: `"............If you think about how Battler‐sama feels......it must be painful."`
+char_jes: `"It's like his family's suddenly changed around him...`
+char_jes: ` ......It probably doesn't feel comfortable at home anymore."`
+char_geo: `"All men need to go out into the world one day or another.`
+char_geo: ` It might just be that Battler‐kun's time has come."`
+char_sha: `"Do you think so......?"`
+char_geo: `"I do.`
+char_geo: ` It's not cool for a guy to hang around at his parents' for too long.`
+char_geo: ` You've got to leave the nest in a flurry and make your name in the world.`
+char_geo: ` ......I planned to do that eventually, but it looks like he's gone and done it first."`
+char_sha: `"O‐once he makes his name in the world, ......do you think he will come back?"`
+char_geo: `"It may be......that he never comes back.`
+char_geo: ` After all, this might be leaving the nest to him."`
+char_sha: `"......Leaving the nest....................."`
+char_non: `"Battler didn't come, did he......"`
+char_bea: `"Oh, how terrible.`
+char_bea: ` And I kept telling Shannon that he was sure to come.`
+char_bea: ` .........I'm sure she feels very upset about Battler not coming.`
+char_bea: ` And it's all because I irresponsibly raised her hopes...!"`
+char_non: `"She's practically been living for the sake of this day...`
+char_non: ` It pains me to think of how she must feel."`
+char_sha: `"...............Thanks, you two.`
+char_sha: ` ......I'm...okay."`
+char_non: `I had been reunited with the witches once again in that dream world.`
+char_non: `.........Though I could never remember anything during the day, now that I was in the dream world, I somehow knew that this was a reunion.`
+char_non: `The witches both looked apologetic.`
+char_non: `Though they had tried to cheer me up by saying that Battler would come today,`
+char_non: ` now that he hadn't come, it was like they had been lying, and they seemed to regret it heavily.`
+char_bea: `"Shannon,`
+char_bea: ` ......umm...`
+char_bea: `...well......"`
+char_sha: `"......Thanks for your concern.`
+char_sha: ` It'd be a lie to say I'm not sad,`
+char_sha: ` .........but I'll be okay."`
+char_bea: `"Y‐you will?`
+char_bea: ` You are certain?`
+char_bea: ` ......That would be splendid, but......"`
+char_non: `"Clearly, Battler's fight was so over‐the‐top that he couldn't bring himself to back down so soon.`
+char_non: ` Men are so stubborn."`
+char_bea: `"Y‐yes, that is true...!`
+char_bea: ` He stormed out of the family with some very strong words, so his stubbornness is preventing him from taking back what he said so easily!`
+char_bea: ` He probably regrets not coming today.`
+char_bea: ` Yes, that must be it...!"`
+char_non: `For some reason, ......they seemed nearly desperate in their attempts to encourage me.`
+char_non: `It was almost funny to watch.`
+char_non: ` ......I couldn't help but giggle.`
+char_sha: `"Thanks a lot, both of you.`
+char_sha: ` After all, .........you're the ones who told me in the first place.`
+char_sha: ` That this is a test, a trial to be overcome."`
+char_non: `The truth was, I couldn't really fool myself so easily.`
+char_non: `When will he come back?`
+char_non: `{n}When will he come for me?`
+char_non: `{n}When...isn't the question.`
+char_non: ` ......Will he come for me, ever?`
+char_non: `If I start moping right now, the uncertainty and sadness will probably tear me apart.`
+char_non: `But they've taught me.`
+char_non: `This is.........a test to see whether I really have faith in him or not.`
+char_non: `The very fact that I feel uncertain and anxious is a betrayal of my resolve......and of his promise to come for me someday.`
+char_sha: `"George‐sama said something about it.`
+char_sha: ` ......He said this might be the same as leaving the nest for Battler‐san."`
+char_non: `"That's right.`
+char_non: ` This is his chance to leave behind the Ushiromiya name and spread his wings as his own man."`
+char_sha: `"If you really think about it, ......we're still very young.`
+char_sha: ` Even if we want to be tied together, we're still lacking many years of social experience and trust.`
+char_sha: ` If Battler‐san is really and truly taking this seriously, ......then it's too soon for him to come for me now."`
+char_bea: `"Well done.`
+char_bea: ` Yes, that's the right attitude...!`
+char_bea: ` You have done well to reach this understanding."`
+char_sha: `"......I haven't reached anything...`
+char_sha: ` .........But I've decided to think of it that way for now.`
+char_sha: ` This is a trial......to see whether I trust Battler‐san or not."`
+char_non: `If he {i:had} showed up today,`
+char_non: ` ......then today, I would have had to inform Madam that I was quitting my job as a servant.`
+char_non: `But was I mentally prepared for that?`
+char_non: `I spent all last night worrying about whether Battler‐san would come or not.`
+char_non: `I spent so much time worrying that not only was I not mentally prepared to quit my job, I didn't even prepare a letter of resignation.`
+char_non: `......In short, I still don't have the "resolve" that I promised him that day.`
+char_non: `I'm sure that God knew that.`
+char_non: `{n}Battler is supposed to come for me when I've found my resolve.`
+char_non: `I wasn't resolved, so it's only natural that he didn't come today......`
+char_non: `..............................`
+char_non: `......Yeah.`
+char_non: ` ...It all makes sense now.`
+char_sha: `"So,`
+char_sha: ` ......I'm sure Battler‐san didn't come today......because I wasn't resolved enough.`
+char_sha: ` It's only natural, since I couldn't even truly believe that he would come..."`
+char_bea: `"I'm sure Battler was the same way.`
+char_bea: ` He did not yet have the resolve to come for you."`
+char_non: `"......God isn't heartless.`
+char_non: ` When your feelings truly do draw close, I'm sure He'll bring the two of you together."`
+char_bea: `"Just like {c:86EF9C:Orihime and Hikoboshi}...!"`
+char_sha: `"Yes, it's as though the weather just happened to be bad during this year's Tanabata...`
+char_sha: ` ......That's how I'd like to think about what happened today."`
+char_non: `That's how...I'd like to think about it.`
+char_non: `......I have no other choice.`
+char_non: `..............................`
+char_non: `......Battler‐san......`
+char_rio: `"But Battler‐kun didn't come back for......"`
+char_wil: `"Six years.`
+char_wil: ` ......Still a long way to go until then."`
+char_rio: `"......So this agonizing wait continued for six whole years...?"`
+char_cur: `"When one waits every year for something to happen the next, and then the same thing the next year and the next,`
+char_cur: ` ......it becomes similar to waiting for an eternity."`
+char_ber: `".........Pretty pathetic, don't you think?`
+char_ber: ` After all, this promise you thought Battler made seems to be something he wasn't even conscious of, right?"`
+char_rio: `"Battler‐kun does tend to use melodramatic phrases, just like Uncle Rudolf.`
+char_rio: ` ......His turns of phrase might have led to a misunderstanding..."`
+char_ber: `"Some girl's going to stab Battler in the back someday.`
+char_ber: ` ......Well, that's more or less what this tale is."`
+char_wil: `".........When words carry significance, they can change the course of a person's life.`
+char_wil: ` ......There are times...when careless talk can kill."`
+char_cur: `"...................................."`

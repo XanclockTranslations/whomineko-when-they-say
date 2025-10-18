@@ -1,0 +1,888 @@
+char_ros: `"Doctor Nanjo and Kumasawa‐san?!`
+char_ros: ` What in the world is going on?!"`
+char_geo: `"Aaah, Shannon!`
+char_geo: ` Thank goodness you're safe...!`
+char_geo: ` If something had happened to you, I...!"`
+char_sha: `"......George‐sama......`
+char_sha: ` ......uuuuughh........."`
+char_ros: `"George‐kun, be quiet for a second!`
+char_ros: ` A murder occurred before your very eyes, right?!`
+char_ros: ` Did you see the culprit?!`
+char_ros: ` Or not?!!"`
+char_goh: `"Tha‐......that is, umm,`
+char_goh: ` ......how should I explain...?!`
+char_goh: ` G‐Genji‐san."`
+char_gen: `"..................Even we cannot explain what we saw very well."`
+char_goh: `"It certainly, umm, ...happened right before our eyes!`
+char_goh: ` It was right in front of my eyes!`
+char_goh: ` But still,`
+char_goh: ` ......that, umm,`
+char_goh: ` .........what was that...`
+char_goh: ` Even I do not understand!"`
+char_ros: `"What are you saying?!`
+char_ros: ` It's impossible for you to have met anyone other than the witch, {f:5:Beatrice}, whose location has been unknown since last night,`
+char_ros: ` or Kanon‐kun, who has gone missing!`
+char_ros: ` Was it a man or a woman?!`
+char_ros: ` You should be able to tell me at least that much, right?!"`
+char_but: `"Auntie Rosa, calm down a bit...!`
+char_but: ` Anyone would be confused if two people were taken out right in front of them!`
+char_but: ` Gohda‐san, Genji‐san.`
+char_but: ` There's no need to rush.`
+char_but: ` Tell us what happened, one thing at a time."`
+char_goh: `"...............About that... ...How should I say it......"`
+char_geo: `".............................."`
+char_non: `Doctor Nanjo and Kumasawa‐san had been killed.`
+char_non: `{n}We understood that much.`
+char_non: `...And it seemed that it had occurred in front of their eyes.`
+char_non: `{n}But even so, they spoke awkwardly.`
+char_non: `They admitted that they had definitely seen the crime with their own two eyes.`
+char_non: `{n}But when asked to explain what they had seen, their mouths went suddenly shut.`
+char_non: `I could understand why Auntie Rosa was irritated and losing her patience...`
+char_geo: `"...Shannon.`
+char_geo: ` Did you see it?`
+char_geo: ` When Doctor Nanjo was attacked."`
+char_sha: `"Ye‐.........yes."`
+char_geo: `"Tell me.`
+char_geo: ` ...Just what you understand.`
+char_geo: ` What in the world happened?"`
+char_sha: `"..................The back door............`
+char_sha: ` ......In through there."`
+char_goh: `"...Tha‐that's right.`
+char_goh: ` Someone came up to the back door.`
+char_goh: ` Then, wondering who it was, I opened the door..."`
+char_ros: `"Someone at the back door?`
+char_ros: ` Who was it?!"`
+char_but: `"Let them finish!`
+char_but: ` And after that?!"`
+char_goh: `".........That person was...stained with blood, and had a large wound.`
+char_goh: ` ...We carried them to the servant room, and Doctor Nanjo immediately began first aid.`
+char_goh: ` ......It was a...very deep wound."`
+char_ros: `"For the last time, {i:who} are you talking about?!"`
+char_goh: `"...I don't know!`
+char_goh: ` Certainly, ...in the beginning, I thought I knew.`
+char_goh: ` No, I still think it was!`
+char_goh: `{n}`
+char_goh: `But.........what in the world was that!!`
+char_goh: ` ...I don't know... ...I don't know!!"`
+char_non: `In a manner that didn't match his large body, Gohda held his head and scratched at it...`
+char_non: `I didn't have a clue whether he was confused because he couldn't remember,`
+char_non: ` or whether he was confused because he had seen something terrifying, and couldn't accept it.`
+char_non: `And Shannon looked the same way.`
+char_non: `If she let her guard down, what she had seen just a short while ago would quickly melt away like a daydream,`
+char_non: ` and she wouldn't even be able to remember what she saw.`
+char_non: `......That's what she looked like.`
+char_non: `Only Genji looked composed as usual.`
+char_non: `...So the questions were naturally directed at Genji.`
+char_non: `But even Genji had to take quite some time to gather his thoughts before he opened his mouth.`
+char_ros: `"Genji‐san.`
+char_ros: ` You saw it, right?`
+char_ros: ` Who was the person that came in through the back door?!"`
+char_gen: `"............At first, ...we believed that person...was Kanon."`
+char_ros: `"You see!!`
+char_ros: ` He was alive after all!`
+char_ros: ` My reasoning was correct!!"`
+char_geo: `"......By "at first", you mean that your impression changed later, right......?"`
+char_gen: `"Yes.`
+char_gen: ` .........I cannot explain with words what happened after that.`
+char_gen: ` ......It killed Doctor Nanjo and Kumasawa, ......then disappeared.`
+char_gen: ` At that time, it was definitely not Kanon."`
+char_goh: `"Yes!`
+char_goh: ` That's right!`
+char_goh: ` It's just as Genji‐san says!!`
+char_goh: ` You really couldn't explain it with words!"`
+char_geo: `"......Do you have the same opinion?"`
+char_sha: `"...Yes............`
+char_sha: ` I......can only say the same thing as well......"`
+char_but: `"..........................."`
+char_non: `...If we interpreted what they were saying favorably,`
+char_non: ` ......it meant that Auntie Rosa's conclusion had been correct from the beginning.`
+char_non: `Kanon‐kun had appeared from the back door in the kitchen with a serious injury.`
+char_non: `{n}Then he had been taken to the servant room and cared for.`
+char_non: `......Then, something terrifying had happened.`
+char_non: `Since these people couldn't imagine that Kanon‐kun could have pulled that off, they had started to suspect whether that really had been Kanon‐kun.`
+char_non: ` Is that how things are?`
+char_non: `In other words, this meant......Kanon‐kun had appeared.`
+char_non: `{n}No matter how confused they were, no matter how they muddled their words, that's what it meant in the end.`
+char_non: `So had Kanon‐kun indeed used some trick to escape that room while it was locked?!`
+char_non: ` No, that doesn't matter anymore.`
+char_non: `The real problem is that Doctor Nanjo and Kumasawa‐san were killed.`
+char_non: `Auntie Rosa had claimed that Kanon‐kun was behind this from the very beginning.`
+char_non: `No matter how confused they became and no matter how much they tried to deny it, ...they were halfway saying that it was the truth.`
+char_non: `......But even so, for some reason, I felt like their awkwardness couldn't be explained just by confusion...`
+char_non: `......What had they seen?`
+char_non: `Like they said, had they really {i:seen something unexplainable with words}...?`
+char_non: `Auntie Rosa, having decided that she wouldn't be able to get any more out of them, concluded her questioning,`
+char_non: ` and said that she wanted to check the two bodies.`
+char_non: `I was also interested in that.`
+char_non: `Even if these people didn't have a clue what was going on in their confusion,`
+char_non: ` ...if those of us who hadn't been at the scene calmly looked at the bodies, we might find something.`
+char_non: `.........But it was a little surprising that Auntie Rosa was also concerned about the bodies, just like I was.`
+char_non: `Even at this point, I still wanted to expose the culprit and the truth myself, if we could find any clues.`
+char_non: `But Auntie Rosa should have been different.`
+char_non: ` ......Hadn't Auntie Rosa's plan given a higher priority to staying safe than to finding the culprit?`
+char_non: `I couldn't really see why Auntie Rosa wanted to check the bodies so badly that she would deliberately leave our fort in the parlor.`
+char_ros: `"We will all go to the servant room together.`
+char_ros: ` If we all move together, it'll be safe.`
+char_ros: ` Maria, stop that scribbling now!"`
+char_mar: `"Uu.`
+char_mar: ` Not scribbliiing.`
+char_mar: ` Solving {f:5:Beatrice}'s probleeem.`
+char_mar: ` Uu..."`
+char_but: `"{f:5:Beatrice}'s problem?`
+char_but: ` What's that? Tell me too."`
+char_geo: `"...Auntie Rosa, are you...umm...bringing Maria‐chan too?"`
+char_non: `It seemed that George‐aniki had some resistance to bringing Maria to the bloody crime scene.`
+char_non: `...But taking into consideration the fact that Maria would be left alone here, it would surely be much safer if we took Maria with us.`
+char_non: `......In the end, it was just Aniki's irresponsible humanism.`
+char_non: `{n}We decided that all of us, including Maria, would go to the servant room.`
+char_non: `The bed in the servant room was stained with bright‐red blood.`
+char_non: `...No, not just the bed.`
+char_non: ` The whole room was covered with a gruesome paint from countless blood stains.`
+char_non: `That dreadful scene alone was enough to give us an idea of the repulsive sight they had been trying to describe...`
+char_mar: `"......Uu.`
+char_mar: ` Wanna look too!"`
+char_geo: `"You wait here with me, Maria‐chan, okay?"`
+char_non: `George‐aniki was standing by the entrance, covering Maria's eyes, with his back to the room.`
+char_non: `......He probably didn't want to dirty an innocent girl's retinas with the repulsive red in this room.`
+char_non: `That was surely the correct decision.`
+char_non: `......I was acting tough right now, so I didn't mind,`
+char_non: ` ......but I would probably remember this room and start to vomit whenever I saw red paint scattered around,`
+char_non: ` for the rest of my life.`
+char_non: `......My retinas already had this room burned into them.`
+char_non: `{n}...In other words, it was too late for me...`
+char_sha: `"...............Huh......"`
+char_goh: `"Wh‐...where did they...!"`
+char_non: `Right after they entered the servant room, Gohda‐san and Shannon‐chan appeared flustered.`
+char_non: `...We shook, wondering what horrible new situation had arisen to fluster them for a second time.`
+char_ros: `"What happened?`
+char_ros: ` What is it?"`
+char_non: `Auntie Rosa also shuddered, raised her gun high, and searched for whatever it was that had them shaken.`
+char_non: `......But she couldn't find it.`
+char_non: ` ...Which wasn't surprising.`
+char_non: `{n}...They were shaken {i:because} they couldn't find it.`
+char_but: `"Hey, hey, what in the world's going on..."`
+char_gen: `".........The two bodies...aren't here."`
+char_ros: `"What do you mean?"`
+char_sha: `"......Tha‐that can't be...!`
+char_sha: ` Those two were definitely...here......!"`
+char_but: `"...Wait wait wait.`
+char_but: ` What the hell—are you saying the corpses just walked off somewhere?`
+char_but: ` How could that happen?`
+char_but: ` I mean, wasn't the servant room locked?`
+char_but: ` Didn't you unlock the door when you came in just now, Gohda‐san?!"`
+char_but: `"......So then, what?`
+char_but: ` ...Isn't this the same as Jessica's room?!`
+char_but: ` They've disappeared from inside a locked room again?!`
+char_but: ` That's ridiculous!!"`
+char_goh: `"I don't have a clue what happened either!!`
+char_goh: ` When we left this room, we definitely locked it, and......!!`
+char_goh: ` I don't have a clue what's going on anymore...!!"`
+char_non: `There was a timid and pitiful smile on Gohda‐san's face that he definitely wouldn't have let show normally.`
+char_non: `Shannon was the same.`
+char_but: `"Both their corpses disappeared!`
+char_but: ` And furthermore, they disappeared while the door was locked!`
+char_but: ` Even if the culprit was Kanon‐kun, he shouldn't be holding a master key anymore!!"`
+char_sha: `"That's wrong...!`
+char_sha: ` Kanon‐kun is not the culprit...!!"`
+char_geo: `"......Shannon...`
+char_geo: ` I believe Shannon.`
+char_geo: ` Kanon‐kun is not the culprit.`
+char_geo: ` This must be the doing of someone who looks a lot like him."`
+char_ros: `"No.`
+char_ros: ` Kanon‐kun could have gotten a master key.`
+char_ros: ` ......After all, his master key was found in the pocket of Jessica‐chan's body.`
+char_ros: ` ...And who took that key?"`
+char_geo: `"!!`
+char_geo: ` Th‐that's right!`
+char_geo: ` It was Doctor Nanjo......!!"`
+char_non: `That's right.`
+char_non: ` Back then, it definitely had been Doctor Nanjo who searched through Jessica's clothes and found the master key...!`
+char_non: `So, if someone had the opportunity to search Doctor Nanjo's corpse, it would have been easy for them to take the master key back...`
+char_non: `Auntie Rosa searched under the bed and in the locker.`
+char_non: `...By now, I also understood what that meant.`
+char_non: `{n}If you assume that there had been two culprits, it could be easily explained.`
+char_non: `The first person was Kanon‐kun, or maybe an impostor that looked like him.`
+char_non: `{n}He had finished off Doctor Nanjo and ran off somewhere.`
+char_non: `The second person was......probably the 19th person, {f:5:Beatrice}, whose location was unknown.`
+char_non: `She had hidden under the bed in the servant room beforehand, and with Doctor Nanjo's body still enshrined here, she had waited for Genji‐san and the rest to leave.`
+char_non: `Then after that, she had crawled out, taken the master key back from Doctor Nanjo's pocket, and carried the two bodies away for some reason.`
+char_non: `If she had then locked the door with the master key, this locked room would be created.`
+char_bea: `"*cackle*cackle*.`
+char_bea: ` You constructed that one pretty fast with your reasoning from Jessica's room as a premise.`
+char_bea: ` With that method, you could indeed create a locked room even without magic.`
+char_bea: ` Should I give you passing marks?`
+char_bea: ` However, as truly fascinating as it was, ......there is something you must not forget."`
+char_bea: `"...If the culprit had taken the master key back by the method you say,`
+char_bea: ` ......that culprit...`
+char_bea: `{i:would have to have known that Nanjo had taken the master key from Jessica's body}."`
+char_but: `"......You don't have to tell me that...`
+char_but: ` You're probably trying to say that it's information only the people in that place, at that time, could know..."`
+char_but: `"......Heh!`
+char_but: ` This third locked room was crushed so fast that you can't do anything but gripe.`
+char_but: ` There's no art in repeating the same content..."`
+char_non: `Even though I was acting tough, that move of the witch's hurt bad...`
+char_non: `{n}......I could feel cracks forming in the thing I most wanted to deny.`
+char_non: `She's trying to close in on me from two directions.`
+char_non: `On the one hand, there's the frontal attack, where she tries to force me to believe in witches, using locked room tricks that only a witch could do.`
+char_non: `......And on the other hand, there's the rear attack, where she tries to lure me into thinking it would be better if there was a witch, by strengthening my suspicions of those close to me.`
+char_non: `In the first locked room, the chapel, she had used the frontal attack, but it hadn't worked on me.`
+char_non: `That's undoubtedly why, with the second locked room, and now the third, she's started to change the direction of her attack...`
+char_non: `However, the fact that she was changing the direction of her attack also proved that my resistance was working a little.`
+char_non: `...And she had surely given up on the frontal attack because she couldn't just win directly with it...`
+char_non: `.........I tried to force myself to accept my own position by thinking that.`
+char_non: `{n}But it seemed that the witch had seen through these thoughts of mine long ago.`
+char_bea: `"*cackle*cackle*.`
+char_bea: ` The frontal attack is indispensable.`
+char_bea: ` ...The rear attack only has meaning because it advances at the same time as the frontal attack.`
+char_bea: ` If I were to degenerate into only using the rear attack, it would be nothing more than a foolish plan occurring when my means became my goal."`
+char_but: `"...Ihihi, really?`
+char_but: ` Well then, won't you repeat "no one was hiding in the servant room" in that red you're so proud of?"`
+char_bea: `"There is no need.`
+char_bea: ` The premise of your reasoning is about to be destroyed."`
+char_but: `"Oh, oh?!`
+char_but: ` You decline?!`
+char_but: ` So someone really is hiding?!"`
+char_bea: `"Rosa will destroy your premise right now.`
+char_bea: ` ...*cackle*cackle*!`
+char_bea: ` Well, try listening in."`
+char_goh: `"Please believe us, Rosa‐sama...!!`
+char_goh: ` The two bodies were certainly lying here!`
+char_goh: ` The bright‐red blood on the floor is theirs...!!"`
+char_non: `Auntie Rosa began to search through various objects around the room, her back to Gohda‐san as he cried out in supplication.`
+char_non: `......Eventually, she found something, and for a while, stopped moving.`
+char_goh: `"Rosa‐sama, we definitely aren't lying...!!`
+char_goh: ` The two bodies were definitely here!!"`
+char_ros: `"Quiet down.`
+char_ros: ` .........The person who hid the corpses has confessed that they took them to another place.`
+char_ros: ` .........With this."`
+char_non: `Rosa showed them a single sheet of paper over her shoulder.`
+char_but: `"What on Earth is that?!`
+char_but: ` It couldn't be......a letter in a sealed envelope with crest, just like in the chapel?!"`
+char_ros: `"......Yes, that's right.`
+char_ros: ` It was set here, out in the open.`
+char_ros: ` I'll read it."`
+char_non: `{e:070:―People of the Ushiromiya family.`
+char_non: `{n}`
+char_non: `I wonder if your attempts at solving the epitaph's riddle for the gold are reaching a climax.`
+char_non: `{n}`
+char_non: `Solving the riddle of the epitaph is the single method by which you all can stop me.}`
+char_non: `{e:070:You will not be able to stop me, or the ritual, by way of any other method of any kind.`
+char_non: `{n}`
+char_non: `I ask all of you that you take care not to mistake your goal.}`
+char_non: `{e:070:Attempting to search for me is useless.`
+char_non: `{n}`
+char_non: `Attempting to escape from me is useless.`
+char_non: `{n}`
+char_non: `Attempting to deny me is also—useless.`
+char_non: `{n}{n}`
+char_non: `—{f:5:Beatrice} the Golden.}`
+char_ros: `"......P.S.`
+char_ros: ` I borrowed the two bodies for the ritual.`
+char_ros: ` I will return them later, so please accept my apologies.`
+char_ros: ` ...Furthermore, since these keys belong to all of you, I shall return them."`
+char_non: `As Rosa read that aloud, the contents of the envelope lay exposed on the palm of her hand.`
+char_non: `They were two master keys.`
+char_non: `{n}The master key that Nanjo had found in Jessica's pocket, which had originally been Kanon's, and Kumasawa's master key.`
+char_but: `"What the helllllll......`
+char_but: ` So what does that mean...`
+char_but: ` Damn you, again?!`
+char_but: ` You're saying I can only suspect the servants holding keys again?!"`
+char_bea: `"I haven't said it in red, you know...?`
+char_bea: ` I haven't denied the possibility that at the time they locked the door and left, someone was hiding in this room...`
+char_bea: ` *cackle*cackle*cackle*!"`
+char_but: `"......If they were hiding under the bed, it wouldn't have been impossible for them to have carried the corpses away somewhere.`
+char_but: ` But that way they couldn't lock the door!`
+char_but: ` The master key they went to all that trouble to get their hands on was set down right here!"`
+char_but: `"......That's right, I'd forgotten.`
+char_but: ` What about the keys specifically for this room, the servant room keys?!"`
+char_bea: `"Mmhm.`
+char_bea: ` Those {p:1:are in the key box in the center of the servant room}.`
+char_bea: ` There are several servant room keys, but {p:1:all of those are inside the key box}."`
+char_but: `"Which means that the situation isn't any different from the time with the key to Jessica's room...`
+char_but: ` It's not like the servants would walk around with an unnecessary key when they have those convenient master keys.`
+char_but: ` I can accept that they were all still shut away in the key box..."`
+char_bea: `"And nothing has changed in the other conditions.`
+char_bea: ` {p:1:Entry and exit are impossible except for the single door and the single window}.`
+char_bea: ` Therefore, hidden doors and irregular methods of entry cannot exist.`
+char_bea: ` Rejoice, great detectives.`
+char_bea: ` *cackle*!"`
+char_bea: `"`
+char_bea: `{p:1:And those were both locked}.`
+char_bea: ` {p:1:The door and the window do not permit any kind of entry or exit when they are locked}.`
+char_bea: ` So it won't work to remove the door, make a crack to slide in through, or anything like that while the lock is maintained.`
+char_bea: ` And obviously, {p:1:it is impossible to unlock the door without the servant room key or a master key}."`
+char_bea: `"...It's a pain having to read all these aloud every time.`
+char_bea: ` Sooner or later, I should think of some word to abbreviate all this into a single phrase."`
+char_but: `"But you can't repeat that no one was hiding in this room!`
+char_but: ` ......However, that alone won't break open the door of a locked room...`
+char_but: ` Aaah, damn it, damn it!!`
+char_but: ` It's no good, no good, no goddamn good at all...!"`
+char_bea: `"*cackle*cackle*!`
+char_bea: ` What happened to that flipping over the chessboard thing that you're so proud of...?`
+char_bea: ` Please, announce your boastful strange theory."`
+char_but: `"...............Flip over...the chessboard.`
+char_but: ` ............What would I do if I were the culprit?`
+char_but: ` I carry the corpses off somewhere.`
+char_but: ` ......I leave a letter.`
+char_but: ` .........I lock the door from the inside.`
+char_but: ` ......Then I just have to escape this room by some means."`
+char_but: `".........Damn it, is that even possible?!`
+char_but: ` I was told in red that you can't get outside except by the door or the window...!"`
+char_but: `"..................ah—"`
+char_non: `......At that moment, ......I got it.`
+char_non: ` That's right.`
+char_non: `......Carry the corpses, leave the letter.`
+char_non: `{n}......And not rely on a "hidden door"—{i:in other words, not even able to escape}.`
+char_non: `...That's it.`
+char_non: ` This isn't a question, it's an answer......`
+char_but: `"Beato.`
+char_but: ` ......Before my repetition request, I want to check the {i:definition of these hidden doors} that you're talking about."`
+char_bea: `"What have you thought of?`
+char_bea: ` Very well, I'll explain.`
+char_bea: ` A hidden door refers to an entrance or exit that cannot be recognized by those who do not know of it.`
+char_bea: ` Even children know that."`
+char_but: `"......So in other words, if you can't get outside the room with it, it isn't a hidden door?"`
+char_bea: `"Hoh.`
+char_bea: ` .........That angle."`
+char_but: `"I kept thinking that the culprit had escaped the locked room."`
+char_but: `"......That's wrong.`
+char_but: ` Even the culprit couldn't escape the locked room!`
+char_but: ` So the culprit decided to hide until we passed by!"`
+char_non: ` I had used this theory for the second locked room, and reasoned that Kanon‐kun might have done this.`
+char_non: `......But I had given up that reasoning when I was told "Kanon‐kun was killed" in red.`
+char_non: `And next, I had reasoned that if there had been a third person in the room, it would have been possible for them to escape through a hidden door.`
+char_non: `And that was when, for the first time, the claim had been made in red that "no hidden doors exist".`
+char_non: `And what I'd learned just now.`
+char_non: ` These "hidden doors" the witch was talking about referred to things that made it possible to get into or out of the room.`
+char_non: `......In other words, things that didn't permit entry or exit to the outside, and also wouldn't be noticed by people who didn't know about them, wouldn't fall under the definition of "hidden door".`
+char_non: `In other words, if there were, for example, something like a "hidden shelf" or a "secret closet", they wouldn't be defined as "hidden doors"!`
+char_non: `In other words, the third person in Jessica's room was hiding here, waiting for us to pass by!`
+char_non: `Heh, how pathetic, just a little playing around with words!`
+char_non: `{n}With this method, it looks like I can even manage the third locked room, the servant room.`
+char_non: `If there's a hidden shelf under the bed or anything like that, that would be enough.`
+char_non: `{n}The culprit's hiding somewhere, waiting for us to leave.`
+char_non: `.........The culprit is also trapped in the locked room even now!!`
+char_non: `Which means......at this very moment!`
+char_non: `The culprit is still hiding in the servant room, holding their breath...!!!`
+char_non: `And that means......... What the hell...`
+char_non: `Even though we've been tortured with locked rooms three times,`
+char_non: ` ......in this very moment, we've actually gotten the culprit in checkmate!!`
+char_but: `"I've finally started to see it.`
+char_but: ` ......Take this, Beato!!"`
+char_but: `"Repetition requested!`
+char_but: ` "There is no one in this room other than us"!`
+char_but: ` By us, I mean me, George‐aniki, Maria, Auntie Rosa, Genji‐san, Gohda‐san, and Shannon‐chan, alright?!`
+char_but: ` Well?!! You can't say it, can you?!"`
+char_bea: `".........Hoh......`
+char_bea: ` .........Hoh......!"`
+char_but: `"I'll bet I hit you where it hurts!!`
+char_but: ` If you decline, then say you decline, damn it!!`
+char_but: ` Here comes the next one!!`
+char_but: ` Repetition requested!!"`
+char_non: `I don't know how they're hiding in this room.`
+char_non: `But if that's a fact, then this also resolves the second locked room, Jessica's room, at the same time!!`
+char_non: `I've finally caught her by the tail!`
+char_non: `{n}With this, I can explain everything!`
+char_non: `{n}Witches don't exist, I don't have to doubt anyone!!`
+char_non: `Alright, starting now, I'll flip it over!`
+char_non: ` The next thing I'll request she repeat is—`
+char_bea: `"`
+char_bea: `{p:1:No one exists in this room except your group}.`
+char_bea: ` {p:1:"Your group" refers to Battler, George, Maria, Rosa, Genji, Gohda, and Shannon}."`
+char_but: `"......Wha‐............"`
+char_bea: `"Let's go back to Jessica's room.`
+char_bea: ` {p:1:At the time of Jessica's corpse discovery,`
+char_bea: ` only Battler, George, Maria, Rosa, Genji, Gohda, Shannon, Kumasawa, and Nanjo were in Jessica's room}."`
+char_bea: `"Whoops, the corpse of {p:1:Jessica is also included, of course}.`
+char_bea: ` {p:1:Therefore, both in the case of Jessica's room and the case of this servant room, no humans exist that you were not aware of}.`
+char_bea: ` {p:1:No one is hiding}."`
+char_bea: `"And I'll say more.`
+char_bea: ` {p:1:No method exists by which the doors can be locked from the outside without using a key}.`
+char_bea: ` {p:1:Regarding the windows, no method exists by which they could somehow be locked from the outside}."`
+char_bea: `"And while I'm at it.`
+char_bea: ` {p:1:You are incompetent}!"`
+char_bea: `"*cackle*cackle*cackle*cackle*, {p:1:hiiihhi{0}hi{0}hhi{0}hi{0}hi{0}hi{0}hi{0}hi{0}hi{0}hi{0}hihihi}!!"`
+char_but: `"S‐.........son of a biiiiitch......`
+char_but: ` Then.........it really is......a locked room, isn't it............"`
+char_but: `"It, ...it was so hard to think of, too.`
+char_but: ` If you had been hiding...that explanation would fit everything.`
+char_but: ` Just when I thought I'd broken the trick... .........Damn iiit..."`
+char_but: `".........u............uoooooooooooooooooooooohhh!!"`
+char_non: `It's no good no good no good no goddamn good!!`
+char_non: `{n}For a second, I thought I had it!`
+char_non: ` It was no goddamn good at all!!`
+char_non: `{f:5:Beatrice}, you bitch,`
+char_non: ` I thought you were all smoke and mirrors, playing word games that made clever use of red,`
+char_non: ` I was certain you'd just cleverly deceived me...!!`
+char_non: `......Just when I thought I'd seen a light in the darkness,`
+char_non: ` ............it disappeared,`
+char_non: ` .........it just disappeared.........`
+char_non: `swallowed up...`
+char_non: `...by a blood‐red sea.........!`
+char_non: `Red,`
+char_non: ` ...`
+char_non: `...`
+char_non: `red`
+char_non: ` red`
+char_non: ` red`
+char_non: ` red!!`
+char_non: `No one is hiding!`
+char_non: ` And there's no hidden door, and no way to trick the doors or the windows while they're locked!!`
+char_non: `Have you just proven that it's all impossible?!`
+char_non: `Has the Devil's Proof...`
+char_non: `...been pulled off...`
+char_non: `...with a frontal attack?!`
+char_non: `Impossible,`
+char_non: ` ......this is impossible!!`
+char_bea: `"What's wrong, Ushiromiya Battlerr?`
+char_bea: ` Weren't you so confident you could deny witchesss?`
+char_bea: ` Why are you groveling and wringing out bitter tears in a place like thaaat?"`
+char_bea: `"Oh, yes, that's a really wonderful method.`
+char_bea: ` Truly wonderful how you're trying to make me fall over laughing and drown in a sea of the tears of my own laughter.`
+char_bea: ` That's what you're really trying to do, riight?`
+char_bea: ` You're trying to make me laugh and laugh and laugh myself to death, riight,`
+char_bea: ` U`
+char_bea: `shiro`
+char_bea: `miya`
+char_bea: ` Batt`
+char_bea: `le`
+char_bea: `e`
+char_bea: `rr`
+char_bea: `???"`
+char_but: `"Magic?! Screw that! I'll definitely deny witches exist!!`
+char_but: ` I'll never believe in you!!`
+char_but: ` You used the power of magic,`
+char_but: ` ......and bullied and killed everyone for fun?`
+char_but: ` ......I'm never gonna accept thaaaaaaaat!!"`
+char_bea: `"Hey, Battler?`
+char_bea: ` Sorry for bullying you too much.`
+char_bea: ` I'll "flip over the chessboard" from my side.`
+char_bea: ` I'll teach your side the best move in your place.`
+char_bea: ` Want to heeeeeaar??"`
+char_but: `"Screw you, I don't wanna hear, I don't wanna hear!!"`
+char_bea: `"The case of Jessica's room.`
+char_bea: ` You really struck on a good spot, you know...?`
+char_bea: ` Trying to hide and wait for you to pass by.`
+char_bea: ` That truly was a good observation."`
+char_bea: `"...But why did you think that could only be Kanon or me, the 19th person......?`
+char_bea: ` I see, the "hide" part of "hide and wait for you to pass" must have gotten in the way, so you didn't think that far."`
+char_bea: `"...Loooook, now do you understand?`
+char_bea: ` It's Jessica.`
+char_bea: ` Jeeeessicaaaaaa!!"`
+char_non: `If Jessica were the culprit, ......a farce like this could be easily constructed!!`
+char_non: `She killed Kanon‐kun, and carried him off somewhere!`
+char_non: `{n}Then, she played dead and let us walk by!`
+char_non: `But that's ridiculous!!`
+char_non: ` Doctor Nanjo had definitely checked that she was dead!`
+char_non: ` So is Doctor Nanjo an accomplice too?!`
+char_non: `That's wrong!!`
+char_non: ` I had also made sure that Jessica was really dead!`
+char_non: ` Sure, I'd never performed an examination of a corpse before, but she was definitely dead!`
+char_non: `I think she was dead!!`
+char_non: ` No, she probably, surely, definitely, at least I think so but she has to be, no, no......`
+char_non: ` ...She was dead!!`
+char_non: ` She was dead!!!`
+char_bea: `"Jessica was also an accomplice.`
+char_bea: ` And Nanjo, who examined her corpse, was also an accomplice.`
+char_bea: ` *cackle*cackle*cackle*cackle*cackle*cackle*!!`
+char_bea: ` Then the third locked room was a faaaarce."`
+char_non: `Yeah, then it's simple.`
+char_non: ` Doctor Nanjo was an accomplice so in other words, he was on the culprits' side so in other words in other words...`
+char_non: `he was never killed in the first place?!`
+char_non: `We thought he had been killed and the body had disappeared, but he wasn't in the servant room in the first place?!`
+char_non: `Then is Kumasawa baa‐chan, who disappeared with him, also an accomplice?!`
+char_non: `......That's not all that's not all!`
+char_non: `{n}The servants who are going along with that story—Genji‐san and Gohda‐san, and even Shannon‐chan are accomplices!`
+char_non: `Then, the one who stole the key from Maria's handbag was Jessica,`
+char_non: ` ...no no, it's also possible it was George‐aniki!`
+char_non: `After all, if Shannon‐chan was on the culprit's side, then George‐aniki would automatically be on the culprit's side as well!!`
+char_non: `Wait a second just wait a second, they're all wolves...`
+char_non: `{n}They're all wolves!!`
+char_non: `Not only am I drowning in an ocean of bright‐red blood,`
+char_non: ` there are packs of wolves clamoring on the banks, whose blazing eyes tell me that if I crawl out, they'll eat me!!`
+char_non: `Which way should I die?!`
+char_non: `{n}Will I have everything denied, and drown in a bright‐red sea?!`
+char_non: `{n}Will I know the truth, and have my whole body chewed to bits by the wolves?!`
+char_non: `It's either one hell or the other!!`
+char_non: ` I can't choose!`
+char_non: `{n}Hiiiiiiiiiiiiiiiiiiiiiiiiiiiii!!!`
+char_bea: `"That is why I am here...!!`
+char_bea: ` {p:1:Come on, Ushiromiya Battler, kneel}.`
+char_bea: ` Then swear your eternal loyalty and lick my shoes...!!"`
+char_bea: `"{p:1:If you accept me, all of the riddles will be resolved}.`
+char_bea: ` {p:1:With my power, any kind of locked room can be created or destroyed}!!"`
+char_bea: `"Battler, don't you want to abandon yourself to the joy of surrendering to one with poweeeer??`
+char_bea: ` {p:1:I'll make you my favorite piece of furniture}.`
+char_bea: ` {p:1:I'll love you so much and make you my toy until you turn to ashes}..."`
+char_bea: `"{p:1:*cackle*cackle*cackle*hihihi{0}hi{0}hi{0}hi{0}hi{0}hi{0}hi{0}hi{0}hya{0}hya{0}hya{0}hha{0}hha{0}ha{0}ha{0}ha{0}hha{0}ha{0}ha{0}hha{0}hha{0}hha{0}hha{0}hha{0}hhahha}!!!"`
+char_ros: `".........Now it's clear.`
+char_ros: ` There's no longer any reason to doubt."`
+char_goh: `"Hm...?`
+char_goh: ` ......What do you mean by that......?"`
+char_ros: `"Those two that you kept saying were dead aren't here.`
+char_ros: ` ...And now we have the letter from {f:5:Beatrice}, where she was kind enough to confess that she carried the corpses off.`
+char_ros: ` ......That's what it is."`
+char_ros: `"I've had enough of this farce!!"`
+char_non: `As Auntie Rosa yelled this, she looked over at everyone with a harsh expression.`
+char_sha: `"Fa‐`
+char_sha: `......farce?`
+char_sha: ` ......What do you mean...?!"`
+char_ros: `"I said it in Jessica‐chan's room.`
+char_ros: ` ......You can't trust anyone but yourself and those whose corpses have been found."`
+char_ros: `"And since we cannot find the corpses, there's no reason we should accept that those two were killed."`
+char_geo: `"......P‐please wait, Auntie Rosa.`
+char_geo: ` What do you mean by that...?!"`
+char_ros: `"Doctor Nanjo and Kumasawa‐san aren't dead, they're alive!`
+char_ros: ` They made it seem like they were killed, and are hiding somewhere in this mansion.`
+char_ros: ` So that they can attack us!!"`
+char_geo: `"How could you know that?!`
+char_geo: ` Are you saying that Gohda‐san and the rest are lying?!"`
+char_goh: `"......Rosa‐sama!!`
+char_goh: ` I swear—no, all of the Ushiromiya family servants do!`
+char_goh: ` We all swear that we would do nothing of the sort!!"`
+char_ros: `"You all say that those two were killed.`
+char_ros: ` But since there are no corpses, there's no reason to believe that.`
+char_ros: ` There's a chance that you worked out a story beforehand, and that you're lying about that!!"`
+char_ros: `"There's a good way to prove your innocence, isn't there?`
+char_ros: ` For Doctor Nanjo's and Kumasawa‐san's bodies to be found!!"`
+char_ros: `"If we find them, then maybe I'll start listening to your story.`
+char_ros: ` But until we do, you cannot deny that you are all wolves!!"`
+char_ros: `"You too!`
+char_ros: ` And you!!`
+char_ros: ` You were probably bought by that witch, your eyes blinded with gold!!`
+char_ros: ` Do you really want money that much?!`
+char_ros: ` That's right, isn't it?!`
+char_ros: ` You want to play around for the rest of your life?!`
+char_ros: ` What is that kind of life worth?!!"`
+char_sha: `"Rosa‐sama...!!`
+char_sha: ` We...... We couldn't!"`
+char_ros: `"Silence!`
+char_ros: ` And Shannon, don't get any closer!!`
+char_ros: ` I can't believe that you would repay a ten‐year‐long debt of gratitude with betrayal!!`
+char_ros: ` I'll pull the trigger without mercy!!"`
+char_sha: `"How......`
+char_sha: ` .........How could you...`
+char_sha: ` .........It's too......`
+char_sha: `cruel......"`
+char_geo: `"......A‐Auntie Rosa!!`
+char_geo: ` That's horrible!!`
+char_geo: ` A murder occurred in this room!`
+char_geo: ` Then the culprit carried the corpses away!`
+char_geo: ` They are only honestly reporting that to us!!"`
+char_sha: `".........uuu, ......uuuUUuuUUuughhu!!!"`
+char_non: `Shannon had finally broken down in tears...`
+char_non: `She had sacrificed ten years to the Ushiromiya family.`
+char_non: `{n}She had sacrificed ten of the most brilliant years of her life.`
+char_non: `.........And she had believed that she had built up a friendly relationship with Rosa, as well.`
+char_non: `...And this was how she was treated!!`
+char_non: `{n}You could kill a person without using a knife...`
+char_non: `It wasn't just George‐aniki;`
+char_non: ` ...even I could recognize that Shannon‐chan had been stabbed deep into her heart, as blood by the name of tears flowed out...`
+char_goh: `"Shannon‐san, stay back...`
+char_goh: ` ......Rosa‐sama, it is true that I have not served for many years, and I understand that I have not earned your trust..."`
+char_goh: `"...However, ......could you not at least believe Shannon‐san...?!`
+char_goh: ` She has dedicated a full ten years of service to the Ushiromiya family...!"`
+char_goh: `"I'm not telling you to believe me...!`
+char_goh: ` At the very least, would you at least believe Shannon‐san...?!!"`
+char_non: `...But......I don't understand anymore!!`
+char_non: `{n}I don't understand!!`
+char_non: `We can't seek an answer without suspecting them!!!`
+char_non: `That's it, bit by bit I'm starting to understand...`
+char_non: `......It's because we seek an answer; ...that's why everything keeps getting stranger...`
+char_non: `We don't need...an answer.`
+char_non: ` These are all strange murders committed with bizarre magic by the 19th person, the witch {f:5:Beatrice}, as she follows a creepy ritual.`
+char_non: `............Isn't that......good enough.........`
+char_non: `I don't...want to suspect...anyone anymore.........`
+char_non: `Shannon‐chan and Gohda‐san were protesting their innocence, half in tears.`
+char_non: `Genji‐san quietly stopped that.`
+char_gen: `"............Stop.`
+char_gen: ` ...What Rosa‐sama says is quite right.`
+char_gen: ` ...Until we find the corpses,`
+char_gen: ` {i:we cannot prove that Doctor Nanjo and Kumasawa are innocent}."`
+char_non: `That's right.`
+char_non: ` ......By Rosa‐san's argument, if the corpses could be found, then the innocence of at least those people could be proved.`
+char_non: `But only the people who were corpses.`
+char_non: ` Even if they searched around the mansion and found the corpses, in the end, their own innocence would not be proved.`
+char_non: `They had abducted Doctor Nanjo and Kumasawa‐san, killed them in another place, and locked the room with their own master keys.`
+char_non: `Unless the locked room could be broken by a method other than that one,`
+char_non: ` ......it would be impossible to prove their innocence...`
+char_non: `......But, .........that couldn't be done!!`
+char_non: `They only have one chance to prove their innocence.`
+char_non: `......That can only happen when they meet with the culprit, become corpses, and are reunited with Auntie Rosa.`
+char_non: `That's messed up!!`
+char_non: ` Innocent if they die, guilty as long as they live, almost like a witch's trial!`
+char_non: `...Oh, right, the enemy's a witch.`
+char_non: `{n}So that makes it OK...?`
+char_gen: `"......Rosa‐sama.`
+char_gen: ` We are furniture working for the Ushiromiya family.`
+char_gen: ` ......Whether we are trusted by you or not, that is not our concern.`
+char_gen: ` No matter what assessment you give us, we will only continue to serve until our final hour."`
+char_ros: `"You really are a model servant.`
+char_ros: ` ...I truly understand why Father trusts you.`
+char_ros: ` It is truly heartrending that I must suspect even you."`
+char_gen: `"........................"`
+char_non: `Genji‐san stuck his hand into his pocket and pulled out a master key.`
+char_non: `...Then he set it on an adjacent table.`
+char_gen: `"......I believe that I hold this as a proof of trust.`
+char_gen: ` If that has been lost, I think it is only natural that I return it."`
+char_ros: `"..................`
+char_ros: ` ......That's good judgment.`
+char_ros: ` Those master keys are the greatest basis upon which you have been suspected several times today.`
+char_ros: ` Relinquishing them in order to clear away that suspicion may only be a first step,`
+char_ros: ` but, well, I think it isn't a bad start."`
+char_gen: `"...............You two."`
+char_non: `Genji‐san looked at Gohda‐san and Shannon‐chan.`
+char_non: `......The two of them nodded, and set their own master keys onto the table.`
+char_non: `Auntie Rosa lay the two master keys that had come out of the envelope on top.`
+char_non: `With that, all five master keys were gathered in this place.`
+char_non: `In other words, this was proof that all of the servants' service until today had been negated,`
+char_non: ` and even the final honor that they should have been permitted had been stripped from them...`
+char_ros: `"Maria, give me that handbag."`
+char_mar: `"......Uu!!`
+char_mar: ` Give it baaack!!"`
+char_non: `Auntie Rosa snatched Maria's handbag, tossed all the master keys in there noisily, then lifted one out and held it up for all to see.`
+char_non: `She was announcing that she had all of the master keys.`
+char_geo: `"A‐.........are you satisfied now, Aunt Rosa?`
+char_geo: ` ......Now the only master keys are the ones you are holding yourself.`
+char_geo: ` ......I hope you're satisfied!!"`
+char_ros: `"Yes, I'm satisfied.`
+char_ros: ` Even if I can't trust anyone, I can at least trust myself!"`
+char_ros: `"I've been able to get the gun and all the master keys for myself!`
+char_ros: ` Now, I don't have to suspect anyone.`
+char_ros: ` You're all happy too, right?`
+char_ros: ` Now you don't have to be suspected anymore!`
+char_ros: ` Ahahahahahahahahaha, hah‐hah‐hah‐hah‐hah‐hah‐ha!"`
+char_mar: `".........Kihihihihi."`
+char_non: `Then, Maria, who had looked like a spectator off by herself, sneered at her mother.`
+char_non: `...Auntie Rosa reacted nervously to that laugh, and turned around.`
+char_mar: `"......Keys don't matter.`
+char_mar: ` ......{f:5:Beatrice} can open doors with magic.`
+char_mar: ` She doesn't need keys.`
+char_mar: ` ...It doesn't matter who has or doesn't have something like that.`
+char_mar: ` Kihihi{0}hi{0}hi{0}hi{0}hi{0}hi{0}hi{0}hi{0}hi{0}hihihi...!"`
+char_ros: `"Aren't I always telling you to stop laughing like that?!!`
+char_ros: ` ......?`
+char_ros: ` What is iiiit, Battler‐kun?"`
+char_non: `...I had just cut between the two of them.`
+char_non: `......No, that's not it.`
+char_non: `...I was on my knees, and hugging Maria's head.`
+char_non: `{n}......I was......crying.`
+char_but: `"Just...stop it already, Auntie Rosa......`
+char_but: ` ...Maria was...right......"`
+char_ros: `"......Wha‐...what are you talking about......?"`
+char_but: `".........Maria...`
+char_but: ` I'm sorry for...`
+char_but: `......doubting.`
+char_but: ` ......I'm sorry for...`
+char_but: `......not believing."`
+char_mar: `"...............Battler."`
+char_but: `"It was all...`
+char_but: `...the witch's doing...`
+char_but: ` ......The witch's...`
+char_but: `...doing......`
+char_but: ` ...All that stuff about tricks and locked rooms never mattered..."`
+char_but: `".........It's just, it's just...`
+char_but: `.........that the witch {f:5:Beatrice} actually exists,`
+char_but: ` .........and she really was a witch...`
+char_but: ` ......Because I didn't believe that,`
+char_but: ` ............it was this painful,`
+char_but: ` ............this sad............"`
+char_mar: `".........Battler, ......you believe in {f:5:Beatrice}......?"`
+char_but: `"Yes...!`
+char_but: ` I believe.`
+char_but: ` ...{f:5:Beatrice} "exists".`
+char_but: ` And she's a witch, who uses strange magic...!"`
+char_mar: `"Battler......"`
+char_non: `Maria let go of my hand, ...and then she was the one holding my head.`
+char_mar: `"......That's the way, Battler.`
+char_mar: ` ............{f:5:Beatrice} "existed".`
+char_mar: ` ......You just couldn't believe that easily, so couldn't see her.`
+char_mar: ` ............The witch "exists".`
+char_mar: ` "Exists".`
+char_mar: ` Will soon "come"."`
+char_mar: `".........You believed in Beato, so I'm sure you'll be invited to the Golden Land.`
+char_mar: ` ......Very soon.`
+char_mar: ` ......It'll be very soon.`
+char_mar: ` Nothing to be afraid of anymore."`
+char_mar: `"............Not afraid, okay?`
+char_mar: ` Always be with me, holding hands, okay...?`
+char_mar: ` Let's solve the epitaph's riddle together.`
+char_mar: ` Let's think about Beato's problem.`
+char_mar: ` .........Beato has been saying it from the beginning.`
+char_mar: ` She hasn't said anything other than let's play and solve the problem."`
+char_but: `"Right...... She did......`
+char_but: ` Searching for the culprit was just a total waste of time...`
+char_but: ` ......If only we had...`
+char_but: `...just believed in...`
+char_but: `...the witch........."`
+char_non: `After softly brushing my cheek as my tears kept dripping down,`
+char_non: ` ......Maria kissed my forehead, as soft as a feather.`
+char_non: `For just that instant, ......Maria's smile, which I had once thought was creepy, looked like an angel...`
+char_gen: `"We have returned the master keys, ...but our loyalty to the Ushiromiya family will not change.`
+char_gen: ` .........From now on, we will not enter the parlor without permission.`
+char_gen: ` Rosa‐sama, please lock the parlor from the inside."`
+char_ros: `"......You truly are an admirable person.`
+char_ros: ` When the typhoon passes, ......if the cries of the seagulls return to this island again,`
+char_ros: ` .........I wonder if we will be able to trust each other once more."`
+char_gen: `"......If you were to grant us your trust once again, there would be no greater pleasure."`
+char_ros: `"You're right.`
+char_ros: ` ......We'll definitely be able to understand each other.`
+char_ros: ` ......When the seagulls cry."`
+char_gen: `".........It would probably be better if we left this room as it is until the police come.`
+char_gen: ` Rosa‐sama, if you would please lock it.`
+char_gen: ` ......We will return to the kitchen.`
+char_gen: ` If you need anything, please command us at any time."`
+char_ros: `"Thank you.`
+char_ros: ` ............If you are a wolf,`
+char_ros: ` how shamelessly you speak."`
+char_ros: `"......And if you are a sheep,`
+char_ros: ` .........I'm sorry for throwing you into the wolf cage."`
+char_gen: `"......Furniture entrusts its fate to the family.`
+char_gen: ` ......Even if it comes to throwing away this life, if by that your trust could be regained,`
+char_gen: ` it would be a great honor."`
+char_ros: `".....................`
+char_ros: ` I hope that you all can remain healthy until the typhoon passes, if that is at all possible.`
+char_ros: ` This is all a rhapsody of blowing winds and pouring rain performed by the typhoon.`
+char_ros: ` ......When the performance ends, and the curtain closes,`
+char_ros: ` ......we will surely be able to grasp hands together again."`
+char_ros: `"......When the seagulls...cry."`
+char_ros: `Auntie Rosa nodded in response...`
+char_ros: `Genji‐san turned on his heels.`
+char_ros: `{n}He left the servant room.`
+char_ros: `Gohda‐san's face was still streaked with tears,`
+char_ros: ` ......but as he had listened to Genji‐san's words, maybe he had managed to sort out his heart.`
+char_ros: `......His face had been truly shameful,`
+char_ros: ` ......but it had returned to the face of the Gohda‐san we knew well.`
+char_goh: `".........I will also be waiting in the kitchen.`
+char_goh: ` ......If you need anything, please command me at any time.`
+char_goh: ` .........If you wish for some warm food, I promise to have the very best prepared for you."`
+char_ros: `"............Thank you.`
+char_ros: ` I would like to ask you for breakfast tomorrow.`
+char_ros: ` ......And the boat will probably come by midday tomorrow.`
+char_ros: ` ...Thanks for everything up until now.`
+char_ros: ` Your cooking was my only pleasure on Rokkenjima."`
+char_goh: `"...Certainly.`
+char_goh: ` I promise you, I will prepare a supreme breakfast.`
+char_goh: ` Please, look forward to tomorrow morning."`
+char_ros: `"Thank you.`
+char_ros: ` ............And Shannon‐chan.`
+char_ros: ` Tomorrow morning, ...let's make up while drinking some delicious coffee."`
+char_geo: `"............"`
+char_ros: `"......?`
+char_ros: ` George‐kun?"`
+char_geo: `"......I'm...going with them too."`
+char_sha: `"...It's alright, George‐sama...`
+char_sha: ` Please, return to the parlor.`
+char_sha: ` There are no more master keys anymore.`
+char_sha: ` So if you are with Rosa‐sama in the parlor, you won't be threatened by anyone."`
+char_ros: `"That's right.`
+char_ros: ` ...That's how things are.`
+char_ros: ` ...Objectively speaking, I think that being with me in the parlor would be the safest."`
+char_ros: `"......But I won't force you to stay with us.`
+char_ros: ` George‐kun, you may stay in any place you feel is safe.`
+char_ros: ` .........You are already an adult.`
+char_ros: ` It's up to you where and with whom you spend the time until tomorrow morning."`
+char_geo: `".........Yes.`
+char_geo: ` I will decide, by myself...`
+char_geo: `who I'll spend the night with."`
+char_but: `"A‐.........Aniki......"`
+char_geo: `"Battler‐kun, stay with Auntie Rosa in the parlor.`
+char_geo: ` I'm sure that's safest.`
+char_geo: ` ......Compared to that, I think being outside the parlor isn't as safe.`
+char_geo: ` ......So I can't leave her in a place like that alone."`
+char_but: `"......It's......not like I suspect Shannon‐chan and the other servants—`
+char_but: `no, anyone at all......`
+char_but: ` I don't want to suspect anyone..."`
+char_but: `"The inheritance?`
+char_but: ` The gold?`
+char_but: ` ...That's just stupid...`
+char_but: ` ...There's no way people are killing each other over that......"`
+char_geo: `"Yes.`
+char_geo: ` I know better than anyone how pure your heart is, Battler‐kun.`
+char_geo: ` ......No one will blame you.`
+char_geo: ` No one."`
+char_but: `"..................Anikii..."`
+char_mar: `"...It's okay.`
+char_mar: ` I'll protect you.`
+char_mar: ` ......If you're with me, even {f:5:Beatrice} can't lay a hand on you.`
+char_mar: ` 'Cause even though I'm small, I'm a witch."`
+char_geo: `"Yeah.`
+char_geo: ` .........Maria‐chan.`
+char_geo: ` I'm leaving Battler‐kun in your care.`
+char_geo: ` .........Alright, Shannon.`
+char_geo: ` Let's go."`
+char_sha: `"Yes......`
+char_sha: ` ......Rosa‐sama, if you would excuse me.`
+char_sha: ` If you have an order, please call me at any time."`
+char_ros: `".........I'm sorry for saying something so cruel just now.`
+char_ros: ` ............I don't expect you to have forgiven me by tomorrow morning.`
+char_ros: ` But when tomorrow morning comes, let me apologize again."`
+char_sha: `"Yes...`
+char_sha: ` ............Thank you very much."`
+char_non: `George‐aniki and Shannon‐chan left the servant room together.`
+char_non: `.........Now, only Maria, Auntie Rosa and I were left in this disgusting, blood‐stained room.`
+char_non: `Until Genji‐san disappeared—until Gohda‐san disappeared—until George‐aniki and Shannon‐chan disappeared—we stood there, in a daze...`
+char_non: `After their presence and their footsteps had disappeared completely, Auntie Rosa giggled at them, as though she had just remembered something pleasant.`
+char_ros: `".........You can't trust them at all.`
+char_ros: ` Goddamn furniture."`
+char_non: `That one sentence...`
+char_non: `...made me choke.`
+char_but: `"...Wh‐`
+char_but: `.........why are you...`
+char_but: `.........saying...`
+char_but: `something like that......?"`
+char_ros: `"There are five master keys in all?`
+char_ros: ` Who would believe that?`
+char_ros: ` It's obvious that some duplicate keys exist.`
+char_ros: ` ......As if we could trust them just because they pulled keys out of their pockets...!!"`
+char_but: `"Th‐......that's not fair.........`
+char_but: ` By, ......by setting down those keys, ......they weren't just letting go of the keys..."`
+char_but: `"......You've...made all their hard work count for nothing, disgraced it, trampled it,`
+char_but: ` .........and caused them to give up the keys at the end of it all......"`
+char_but: `"What's with that parting line...`
+char_but: ` They've shown that they're willing to go this far, ......and you still can't trust them?!`
+char_but: ` Too much... That's just too much......!"`
+char_ros: `"It's a Devil's Proof!`
+char_ros: ` There are five master keys in all?!`
+char_ros: ` It's impossible to prove something like that!!`
+char_ros: ` You can show that there are five master keys by placing them here!`
+char_ros: ` But you can't prove that no more than five exist!!`
+char_ros: ` Only a demon or a witch could prove something like that, you know?!"`
+char_but: `"Uwaaaaaaaaaaaaaaaaaaaaaaaaaaaa!!!`
+char_but: ` Stop it already stop it already...!!"`
+char_but: `"Please, {f:5:Beatrice}, show yourself right now,`
+char_but: ` and tell Auntie Rosa in red that "there are only five master keys"!!`
+char_but: ` Please, I beg you, this can only be proved by devils, a witch like you could prove it!"`
+char_but: `"Please, Beato, show yourself here and tell Auntie Rosa...`
+char_but: `that those are all of the master keys, and that there's no need to suspect anyone anymore...!!!"`
+char_bea: `"`
+char_bea: `{p:1:There are only five master keys}.`
+char_bea: ` {p:1:There are only five master keys}."`
+char_bea: `"...*cackle*, whatever could be wrong?`
+char_bea: ` It doesn't reach Rosa's ears no matter how often I say it.`
+char_bea: ` It seems there must still be someone who denies that I exist, isn't that riiiight?`
+char_bea: ` Ushiromiya Battleeeeeeeer???"`
+char_but: `"I accept it!!`
+char_but: ` I accept it, you exist you exist you definitely exist!`
+char_but: ` So, I beg you, stop this already!!`
+char_but: ` Stop it already! Stop it already!!`
+char_but: ` HiiiiIIIiiiiiIiiiiiiii!!"`
+char_bea: `"Your words alone will not reach me; show it with your actions.`
+char_bea: ` Swear from your heart that you will become my furniture."`
+char_bea: `"Can you do it?`
+char_bea: ` Take off your clothes, be naked, then put both your hands flat and crawl on the ground.`
+char_bea: ` Clothing is proof of one's humanity.`
+char_bea: ` From now on, you will become furniture, so you will lose that right, it's only natural!!"`
+char_bea: `"Then kneel, make your tongue crawl on my shoes.`
+char_bea: ` Can you do it?`
+char_bea: ` You can do it, riiiiiiiight??`
+char_bea: ` Then I'll appear, sure, I'll say it in red, sure!`
+char_bea: ` I'll tell Rosa that {p:1:there are only five master keys}!!"`
+char_bea: `"Oh, but I understand, there's no way you could throw away your lordly pride.`
+char_bea: ` But that's alright, that's more than enough, you're starting to waver a bit, aren't youu?"`
+char_bea: `"For just an instant, you thought maybe it would be alright to lick my shoes, didn't youuu?`
+char_bea: ` And you immediately denied that and felt ashamed, riiiiight??`
+char_bea: ` Just looking at that expression makes me feel just wooonderful!!"`
+char_bea: `"That face of yours is so pathetic, go look in a mirror,`
+char_bea: ` see how low you are there, naked and licking my shoooooes?`
+char_bea: ` Can you see it, Ushiromiya Battleeeeeeeeeeeeeeeeeeeeer???"`

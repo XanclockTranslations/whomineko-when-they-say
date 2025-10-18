@@ -1,0 +1,931 @@
+char_non: `The months and years slid by.`
+char_non: `In my new, more colorful life, I smiled at the spring sunshine peeking through the trees, gazed up at the column of summer clouds,`
+char_non: ` enjoyed the piles of fallen leaves in autumn, and played in the winter snow the few times it did fall.`
+char_non: `As these days passed one after another, there was a considerable change to my environment.`
+char_non: `That was a complete rotation in the servants from the Gospel House.`
+char_non: `There weren't specific grades like in school, so there was no rule saying how long a servant could work before quitting.`
+char_non: `Each servant made their own decision about when they would "graduate" from Rokkenjima.`
+char_non: `Some of those who couldn't stand the environment would quit in as little as three days.`
+char_non: `After all, life on Rokkenjima was strict.`
+char_non: `It was also strict in the Gospel House, of course, but there were a lot of Rokkenjima‐only rules,`
+char_non: ` and Natsuhi, the one who supervised the servants, was also very authoritarian.`
+char_non: ` It was probably easy to feel constrained.`
+char_non: `That constrained feeling and the money sat on opposite sides of the scale that they used to decide the time of their graduation.`
+char_non: `And sometimes, someone from the Ushiromiya family would use their influence to secure someone a new job, encouraging them to spread their wings and start a new life.`
+char_non: `The cycle usually lasted two or three years.`
+char_non: `No one decided this, but it was one of the goals most servants shot for, an unspoken rule.`
+char_non: `However, I was an exception to that rule.`
+char_non: `I continued to live as a servant while going to school in Niijima......`
+char_non: `That year, all of the Gospel House servants quit at once.`
+char_non: `It wasn't at all rare for friends to quit at the same time as each other.`
+char_non: `All of my fellow servants from the Gospel House graduated from the island at once, leaving only me behind...`
+char_non: `Of course, I hadn't been on particularly good terms with them.`
+char_non: `On the contrary, it was annoying to be treated like a kid and called Yasu all the time.`
+char_non: `Even when new servants had joined,`
+char_non: ` the older ones got them believing that "Yasu loses things all the time",`
+char_non: ` so things had still been unpleasant even then.`
+char_non: `Those unpleasant older servants, as well as the ones who started at the same time or after I did, all quit at once.`
+char_non: `The Ushiromiya family had no quarrel with those who left.`
+char_non: ` Adult servants were easier to handle in the first place.`
+char_non: `The Gospel House servants were only accepted so that they could be trained.`
+char_non: `So, all of the servants except for me left, and no one tried to stop them......`
+char_non: `"Later, Yasu.`
+char_non: ` Don't go losing stuff again."`
+char_non: `"......I don't lose things anymore."`
+char_non: `"Hmph, later.`
+char_non: ` Make sure you listen to what Madam says.`
+char_non: ` Don't you go troubling the next group of servants."`
+char_non: `"......You know, it's still a mystery.`
+char_non: ` Why did someone recommend Yasu?"`
+char_non: `"It's even more surprising that Madam let Yasu stay this long."`
+char_non: `"Hey, at least the kid's got the guts to not give up and run away.`
+char_non: ` Keep it up, {i:Yasu}."`
+char_non: `"I, I......hate being called Yasu..."`
+char_non: `At the very end, ......I finally said the one thing I'd always wanted to say to them.`
+char_non: `However, they basically ignored me, and just picked up their things and left...`
+char_non: `"........................"`
+char_sha: `"......Guess you never got a chance to become friends with them."`
+char_non: `"I wouldn't even want to."`
+char_sha: `"Yep.`
+char_sha: ` I'm sure they feel the same way, so you're even.`
+char_sha: ` Just forget about those people.`
+char_sha: ` They don't have anything to do with you anymore.`
+char_sha: ` So, there's no reason to give them any more thought."`
+char_non: `"............Yeah.`
+char_non: ` ......You're right."`
+char_non: `I felt just a bit disappointed.`
+char_non: `I was never able to get them to acknowledge that I'd become a fully‐fledged servant who could take care of myself.`
+char_sha: `"It's hard for people to throw off their first impressions.`
+char_sha: ` ......That's just how it is.`
+char_sha: ` No matter how wonderful a person you grow into,`
+char_sha: ` they would probably always call you Yasu and make fun of you.`
+char_sha: ` There's no reason for you to seek their validation."`
+char_non: `"......Yes.`
+char_non: ` Yeah, you're right, Shannon.`
+char_non: ` I'll completely forget about those people."`
+char_sha: `"Good.`
+char_sha: ` You have two great friends, Kumasawa‐san and me.`
+char_sha: ` And when the new servants come, you can show them from the start that you can take care of yourself."`
+char_non: `Shannon was exactly right.`
+char_non: `I regained a sense of confidence and pride that I hadn't felt since that day when I held the key with the spiderweb charm up high.`
+char_non: `......I am now the most experienced Fukuin servant.`
+char_non: `The new servants who come will still probably be older than me,`
+char_non: ` but I need to teach them the ropes as the more experienced servant.`
+char_non: `Genji‐sama even told me to guide the newer servants...`
+char_non: `Okay.`
+char_non: ` ......I'll give it my all.`
+char_sha: `"That's the right attitude.`
+char_sha: ` Let's give it our all together."`
+char_non: `"Yeah!"`
+char_non: `"My name is Asne ({p:0:明日音}).`
+char_non: ` Pleased to meet you."`
+char_non: `"My name is Belne ({p:0:鐘音}).`
+char_non: ` Pleased to meet you."`
+char_non: `.....................`
+char_non: `The newly arrived servants looked......a bit frivolous.`
+char_non: `When I first joined the Ushiromiya family, I was incredibly nervous.`
+char_non: `However, I couldn't see any trace of that nervousness on these girls...`
+char_sha: `"Yes.`
+char_sha: ` Usually, kids with good grades and behavior were selected."`
+char_zep: `"How are they selected?`
+char_zep: ` Who chooses?"`
+char_sha: `"People from the board of directors come and interview them.`
+char_sha: ` And other things are considered like their everyday conduct..."`
+char_fur: `"So! As long as they acted like good kids in front of the adults, they could pass?"`
+char_sha: `"......Well,`
+char_sha: ` ummm,`
+char_sha: ` ......there were times that they passed because the adults thought they looked suitable..."`
+char_cur: `"All of the children who came from the Gospel House were highly individualistic.`
+char_cur: ` Their rough edges would be sanded down as they worked as servants,`
+char_cur: ` and eventually they would grow to be servants who would not shame the Ushiromiya family."`
+char_cur: `"However, it was the role of the more experienced servants to encourage this model behavior.`
+char_cur: ` ......Since I was now the only one with experience, it was my responsibility to guide them."`
+char_zep: `"What were the new kids like?"`
+char_fur: `"Elites, no doubt?!`
+char_fur: ` Of irreproachable conduct!"`
+char_sha: `"......I think they were like that when Madam and Genji‐sama were around.`
+char_sha: ` However,`
+char_sha: ` ......when their superiors weren't around, well,`
+char_sha: ` ......they didn't take things quite as seriously..."`
+char_sha: `"Asne‐san...`
+char_sha: ` Make sure you put your tools on the cart when you're done using them."`
+char_non: `"Kyahhahahahaha!`
+char_non: ` ......Huh?`
+char_non: ` Su~re. So~rry."`
+char_non: `As an experienced servant, I also gave them a warning.`
+char_non: `"And Belne‐san, you shouldn't set your key down in a place like that.`
+char_non: ` You'll lose it."`
+char_non: `"I'm not gonna lose it.`
+char_non: ` I never forget where I put things."`
+char_non: `When I first arrived here, the older servants would often tell me off just as I was doing now.`
+char_non: `They would probably have been far more mean and obnoxious about it.`
+char_non: `I had hated that, so I tried to be more gentle when admonishing them, but they wouldn't take me seriously...`
+char_non: `"L‐listen up.`
+char_non: ` You know there's a witch living in the mansion, don't you...?"`
+char_non: `"Oooh, {f:5:Beatrice}~!"`
+char_non: `"Kyahahahaha! That sounded just like him!"`
+char_non: `"Shannon‐chan,`
+char_non: ` don't tell me you believe in that too?"`
+char_sha: `"Y‐yes, she really exists...`
+char_sha: ` If you leave things lying around, the witch will prank you and hide them..."`
+char_non: `"It's true.`
+char_non: ` It's gotten me into trouble many times..."`
+char_non: `"A witch hiding things?"`
+char_non: `"That's totally impossible."`
+char_non: `"I mean, come on, witches?"`
+char_non: `"They don't even exist!`
+char_non: ` Kyahhahahahaha!"`
+char_non: `"They don't exist.`
+char_non: ` ......Witches."`
+char_non: `"......I thought they were just pranks.`
+char_non: ` No, ......I think it just gave me peace of mind to think of them that way......while I still could."`
+char_zep: `"Do you think the witch {f:5:Beatrice} actually existed...?"`
+char_non: `"I don't believe it."`
+char_non: `"......I don't know if it was {f:5:Beatrice},`
+char_non: ` but I do think that something that wasn't human...`
+char_non: `...really did exist in that mansion."`
+char_fur: `"Do you think there's a chance that this non‐human thing was {f:5:Beatrice}...?"`
+char_non: `"Ridiculous."`
+char_non: `"......I wish I could say it was ridiculous."`
+char_non: `"That must have been a prank of Yasu's. No, not a prank, revenge."`
+char_non: `"I did think that at first, but......"`
+char_zep: `"Did something happen that couldn't be explained away as a prank...?"`
+char_non: `"......It was persistent.`
+char_non: ` ......And creepy."`
+char_fur: `"Specifically, what sorts of things happened?"`
+char_non: `"Things I set down would disappear as soon as I looked away for a second."`
+char_non: `"Didn't Yasu just hide them?"`
+char_non: `"I thought so at first.`
+char_non: ` It was only natural to think that.`
+char_non: ` But I started getting this feeling that something wasn't right.`
+char_non: ` I kept thinking...would a timid kid like that really pull such nasty pranks?"`
+char_zep: `"Can you tell us what happened?"`
+char_non: `"......When my key ring disappeared, it was easy to think that Yasu snatched it when I wasn't looking.`
+char_non: ` ......But when just a single key disappeared off that key ring...`
+char_non: `and reappeared somewhere impossible, I couldn't think of it that way."`
+char_non: `"Maybe Yasu just pulled that one key off while you weren't looking...?"`
+char_non: `"Is that even possible?! Practically speaking?!`
+char_non: ` Quickly hiding the whole ring is one thing,`
+char_non: ` but if you really think about it, taking a single key off a key ring isn't that easy!`
+char_non: ` The keys would jingle and jangle.`
+char_non: ` I was standing right next to them, facing the other way!`
+char_non: ` If someone had taken their time to carefully remove a key when I was that close, even an idiot like me would've noticed!"`
+char_non: `"But a single key just vanished without a sound.`
+char_non: ` ......At that moment, I finally realized.`
+char_non: ` This wasn't Yasu trying to get back at me,`
+char_non: ` ......it was something...`
+char_non: `...worse...`
+char_non: `than that."`
+char_fur: `"And where did you find this disappearing key?"`
+char_non: `"It was...`
+char_non: `......in my locker."`
+char_non: `"Belne, you're such a ditz sometimes...`
+char_non: ` Are you sure you didn't just take that key off yourself and forget that you put it in your locker......?"`
+char_non: `"Why would I take that one key off the ring?!`
+char_non: ` Have you ever taken a key off your key ring, Asne, or put one on?!`
+char_non: ` I tried doing it myself.`
+char_non: ` It's really stiff!`
+char_non: ` I would never go to all that trouble.`
+char_non: ` There's no point in it!`
+char_non: ` Am I a sleepwalker or something?!`
+char_non: ` How could I not remember something I'd done?!"`
+char_non: `"I may be stupid, but I'm not that stupid!`
+char_non: ` I don't forget about things I do that easily!!`
+char_non: ` And anyway, I know I had my key with me when I entered the room!`
+char_non: ` Otherwise, how could I have unlocked the door?!"`
+char_non: `"......Okay then...`
+char_non: ` Being careful not to make any sound,`
+char_non: ` Yasu must have, um,`
+char_non: ` ...slipped the key off,`
+char_non: ` and hid it in your locker..."`
+char_non: `"That's what I thought at first!`
+char_non: ` I jumped at Yasu, telling that kid not to mess with me!`
+char_non: ` But even as I said it, I realized.`
+char_non: ` Isn't there something completely wrong here?!"`
+char_non: `"I mean, we were with Yasu the whole time that day as we went around cleaning the rooms, right?!`
+char_non: ` There's no way Yasu had enough time to take a jangly key off the ring!`
+char_non: ` It was impossible for Yasu!`
+char_non: ` In fact, that would have been impossible for anyone, to remove just a single key in that short amount of time without making a sound!!"`
+char_non: `"M‐maybe the ring was missing a master key when you got it..."`
+char_non: `"I already told you!!`
+char_non: ` The key really was there in the beginning!`
+char_non: ` I was the one who unlocked that room!`
+char_non: ` So it must have been there!`
+char_non: ` ......And then, I went into the room!`
+char_non: ` I'm an idiot who hates hearing the keys clattering around, so I placed the ring on the bed...!"`
+char_non: `"Then, when we finished cleaning, I picked up the ring, tried to lock the door, and it was gone!`
+char_non: ` I may have turned my back on the ring, but it was right next to me!`
+char_non: ` So, if someone tried to pull a prank by removing just one key, I'd have heard the clinking!`
+char_non: ` And yet, just the key for that room vanished and appeared again in my locker!!"`
+char_non: `"......So okay, let's say that Yasu managed to sneak it away.`
+char_non: ` It's less stressful to imagine.`
+char_non: ` ......But still!`
+char_non: ` How could Yasu have put it in my locker, then?!`
+char_non: ` We were together with Yasu the whole time, right?!`
+char_non: ` When I started yelling about it being gone and ran all over the place looking for it, Yasu was with me until the moment I found it in my locker, get it?!"`
+char_non: `"I'm telling you it's impossible!!`
+char_non: ` Even as I jumped at Yasu, I began to feel it.`
+char_non: ` I mean, Yasu's eyes seemed to be saying it silently.`
+char_non: ` ......According to Yasu, the reason things used to go missing all the time...`
+char_non: `wasn't because Yasu was forgetful, as everyone said, ......but actually...`
+char_non: `......because impossible things would suddenly happen, just like they had to me,`
+char_non: ` ......and.........and...!"`
+char_fur: `"......Yasu was with you the whole time, so there was no chance for Yasu to put the key in the locker?"`
+char_zep: `"Did other strange things like that happen?"`
+char_non: `"Yeah, they did.`
+char_non: ` More stuff went missing, but not just that... Things kept happening, over and over...`
+char_non: ` ......Of course, I started getting nervous and being careful not to just leave stuff lying around, ......but that didn't help."`
+char_non: `"......At first, I was angry at Yasu,`
+char_non: ` ......but at some point, I began to realize that I was mistaken.`
+char_non: ` One time, a key even disappeared from a ring that was in my pocket!`
+char_non: ` Then, I realized.`
+char_non: ` ......These weren't Yasu's pranks.`
+char_non: ` The same thing that had happened to Yasu was now happening to me...!"`
+char_non: `"C‐calm down a bit...`
+char_non: ` I think some of those were Yasu's pranks,`
+char_non: ` ...and the others were just you being clumsy.`
+char_non: ` ......It's true that the mansion's always dark and eerie,`
+char_non: ` ......and it does feel like the sort of place you'd find a curse.`
+char_non: ` I'm sure that's what made you scared like that..."`
+char_non: `"You saw it too, didn't you?!`
+char_non: ` Remember that white shadow we saw vanish into the VIP room that rainy day?!"`
+char_non: `"......Y‐yes, I saw,`
+char_non: ` but couldn't that just have been Madam or Milady wearing something white...?"`
+char_non: `"What do you mean, something white?!`
+char_non: ` Have you ever seen either of them wearing something like that?!`
+char_non: ` And besides, that VIP room is always locked!`
+char_non: ` They don't have keys to it!`
+char_non: ` That had to have been some kind of ghost or evil spirit...`
+char_non: `...no, the silhouette of the witch!"`
+char_non: `"........................`
+char_non: ` ......Ha...hahaha...`
+char_non: ` So, as you can see, ......Belne started acting like this at one point.`
+char_non: ` Totally scared.`
+char_non: ` ......I've got more street smarts than her,`
+char_non: ` so the more scared she became, the more strongly I felt that this whole thing was stupid and witches couldn't exist."`
+char_non: `"......Still, I had to be careful about what I said.`
+char_non: ` ......I mean, I was starting to realize that this wasn't something I should talk about carelessly.`
+char_non: ` ......All ghost stories and curses sound stupid to outsiders.`
+char_non: ` ......But to the people who believe in them, it's absolutely not a joking matter.`
+char_non: ` It really was......no joke."`
+char_non: `"......Asne didn't believe a word of what I said.`
+char_non: ` So, I eventually stopped telling Asne about it......and confessed to Yasu instead.`
+char_non: ` I told Yasu "I thought you were the culprit, but it couldn't have been you".`
+char_non: ` I said that something...`
+char_non: `...strange...was happening to me...!"`
+char_zep: `"......And what was the reply?"`
+char_non: `"Yasu said that the same thing had happened many times before, but no one would believe it...!`
+char_non: ` Besides, even though the older servants always made fun of Yasu, I knew that Yasu wasn't as clumsy or stupid as they said."`
+char_non: `"I hated being bossed around by a younger person, so I always fought back, but Yasu did have the job pretty much down pat.`
+char_non: ` I'd always thought it strange that people made so much fun of Yasu for losing things...!"`
+char_non: `"I was then sure.`
+char_non: ` It "existed"!`
+char_non: ` Some strange, inhuman thing "existed" in this mansion!"`
+char_fur: `"And that was the witch {f:5:Beatrice}...?"`
+char_non: `"If {f:5:Beatrice} is what you want to call it, then I believe in {f:5:Beatrice}!`
+char_non: ` Anyway, something that can't be explained away by human actions definitely "existed" there!`
+char_non: ` People who didn't understand kept calling Yasu and me forgetful!`
+char_non: ` They didn't get it... They just didn't get it!!"`
+char_non: `"......B‐but still,`
+char_non: ` ......you got a little scared, but it spooked you into shaping up, didn't it?`
+char_non: ` And then all that fuss about you losing things went away, right...?`
+char_non: ` So it must have been your imagination all the time......"`
+char_non: `"You're wrong!!`
+char_non: ` I talked to Yasu, Shannon, and Kumasawa‐san about it!`
+char_non: ` And they said that the witch really did exist...`
+char_non: ` That all the old servants make sure to respect her!"`
+char_non: `"They said I had been cursed because I'd stupidly gone around saying that {f:5:Beatrice} didn't exist...!`
+char_non: ` So I reformed!`
+char_non: ` Yasu taught me how to give offerings to the doll in the VIP room!`
+char_non: ` I asked Genji‐sama for permission and prayed at the shrine on the reef!`
+char_non: ` And then it all stopped, all at once!!"`
+char_non: `"You were okay, Asne, since you stopped making fun of the witch,`
+char_non: ` but if you'd cluelessly gone on making fun of her, you would surely have been cursed next!`
+char_non: ` Yes, I guarantee it! You definitely would have been cursed...!!"`
+char_non: `".........Yeah,`
+char_non: ` .....that kind of stuff makes even me uncomfortable...`
+char_non: ` ......Though I'd never say it to their faces..."`
+char_non: `"You just don't get it!`
+char_non: ` You really don't!!`
+char_non: ` So, I made sure to teach all the newer servants well!`
+char_non: ` A witch called {f:5:Beatrice}‐sama lives in this mansion...!`
+char_non: ` If you make fun of her, you really will be cursed...!!"`
+char_non: `".....................Belne..."`
+char_non: `"When things, you know, ......disappear, that's a sign that the witch is close by and watching us...`
+char_non: ` If you say it's a prank, or that witches aren't real,`
+char_non: ` you'll be cursed even more...!!`
+char_non: ` It was like that for both Yasu and me!`
+char_non: ` Whenever a key vanishes,`
+char_non: ` ......that's a sign that the witch has appeared...!!"`
+char_non: `Belne‐san carelessly tossed her key ring on the bed again, humming as she started to clean...`
+char_non: `No matter how much I warn her, she doesn't change her ways.`
+char_non: ` She's always making fun of me and calling me Yasu, so she won't listen to what I tell her......`
+char_non: `Why won't she listen to what I say...?`
+char_non: `You mustn't leave things lying carelessly about.`
+char_non: ` If you lower your guard, the witch will prank you......`
+char_bea: `"......Ahyahhyahhya!`
+char_bea: ` Look at that delicious key ring lying out there in the open......"`
+char_non: `"St‐stop it, please...!`
+char_non: ` That's Belne‐san's key!`
+char_non: ` Keep your pranking to me alone.`
+char_non: ` Let the others be......!"`
+char_bea: `"You have become so cautious lately that you are no longer fun.`
+char_bea: ` ......*cackle*cackle*, I jest, of course."`
+char_bea: `"Still, how unpleasant these people are, refusing to listen to my friend's kindly advice.`
+char_bea: ` Any insult to my friend, I take as an insult to myself...!"`
+char_non: `"......Are you planning to steal Belne‐san's key...?`
+char_non: ` Please, don't do it...!`
+char_non: ` She'll think I hid it again...!"`
+char_bea: `"She thinks my magic is naught but the work of a child like you...?!`
+char_bea: ` *cackle*cackle*, very well, then.`
+char_bea: ` I shall simply show her a feat impossible for {y:0:Humans}{n:0:humans} to perform...!"`
+char_bea: `"{i:I shall show her my magic}!!`
+char_bea: ` Foolish Belne, if that is your name!`
+char_bea: ` You will regret that you did not heed the warnings given you by my friend!`
+char_bea: ` This flimsy body of mine will not do the trick! I'm borrowing yours!!`
+char_bea: ` It's been too long since I last demonstrated real magic!`
+char_bea: ` Let my body return for a spell......to the land of the living!"`
+char_non: `"Huh?`
+char_non: ` Ah, ..................!"`
+char_non: `A shiver ran up my whole body like an electric shock.`
+char_non: `From that moment onwards, ......I couldn't move any part of my body by my own will.`
+char_non: `Like a moment of shock after a blackout,`
+char_non: ` I could do nothing but accept the fact that I had lost control over my body......`
+char_non: `All of the cells throughout my body felt tingly.`
+char_non: ` ......It felt as though my body had been transformed into someone else's.`
+char_non: `......I realized that the witch {f:5:Beatrice} was using my body as a vessel to revive for a short period of time...`
+char_bea: `"......Hmm, very nice.`
+char_bea: ` That ticklish feeling of the air on my skin... Having a body is simply wonderful!"`
+char_non: `Wh‐......what are you trying to do?!`
+char_non: ` Please, don't do anything mean......`
+char_non: `This time, everything was backwards.`
+char_non: ` My words were spoken inside my heart.`
+char_non: ` And the witch's voice was coming out of my mouth...!`
+char_bea: `"Fear not.`
+char_bea: ` I will return your body soon enough.`
+char_bea: ` I just need to teach her a lesson with a little prank.`
+char_bea: ` However, it will not be one so simple that suspicion could fall on you...!`
+char_bea: ` Come, try to remember.`
+char_bea: ` Where have you been sleeping?!"`
+char_non: `Everything went completely white and my mind stopped.`
+char_non: `Once again, that tingling sensation slid up my body.`
+char_non: `I could feel it all gather in the fingers of both my hands, ......and come out through my fingertips.`
+char_non: `It was an incomprehensible,`
+char_non: ` indescribable,`
+char_non: ` ......unknown sensation.`
+char_non: `My head went blank, and I couldn't think at all.`
+char_non: `I could do nothing......but abandon my soul to the sensation.`
+char_non: `I finally understood.`
+char_non: ` This is...`
+char_non: `......what it's like...`
+char_non: `to use magic......`
+char_bea: `"Come, try to remember.`
+char_bea: ` Where have you been sleeping......?"`
+char_non: `My fingers moved like a puppet's, and danced around as though I was a conductor—not of music, but of magic.`
+char_non: `I never knew that having my body move without my control could be so exciting...`
+char_non: `When Beato lifted my finger as if a string was attached to it,`
+char_non: ` the key ring lying on the bed stood on end.`
+char_non: `......Belne‐san...didn't notice.`
+char_non: ` ......Neither did Asne‐san.`
+char_non: `They were fully occupied by their happy chat as they cleaned the room...`
+char_non: `I doubt that either of them could have dreamed that a witch was right behind them,`
+char_non: ` readying herself to use magic.`
+char_non: `They could never have imagined...`
+char_non: `...that the key ring was doing a little dance right behind their backs.`
+char_non: `It was like an anime fairy tale I'd seen once as a kid.`
+char_non: `The happy way the keys danced and spun made it look as though they had a will of their own.`
+char_non: `I could feel the fun of making those keys dance with my fingers wash over me...`
+char_non: `Yes, this is...pleasure......`
+char_non: `As I powerlessly watched the witch control me,`
+char_non: ` ......I couldn't help but surrender myself to this new joy called magic......`
+char_bea: `"Whoops, that's no good.`
+char_bea: ` If the whole ring disappears, my friend will be suspected again.`
+char_bea: ` ......All we need to disappear is...`
+char_bea: `...yes, just the key to this room."`
+char_non: `Beato controlled my fingers, controlling the magic.`
+char_non: ` ......And thereby controlling the keys.`
+char_non: `The key ring slumped down on the bed,`
+char_non: ` .........and then just the mansion's master key stood on end.`
+char_bea: `"Well now, what shall I do with this?`
+char_bea: ` ......Just erasing it would be terribly dull.`
+char_bea: ` So, ............*cackle*cackle*!`
+char_bea: ` Why don't I throw it into her locker?!`
+char_bea: ` That way, I'll give my friend, who's been working here with her the whole time, a perfect alibi!"`
+char_bea: `"Come, try to remember.`
+char_bea: ` Where have you been sleeping?!`
+char_bea: ` Yes, it was a warm, dark place..."`
+char_bea: `"The inside of Belne's locker!!`
+char_bea: ` *cackle*cackle*cackle*!!"`
+char_non: `When Beato snapped her fingers, the key burst and became a gold butterfly.`
+char_non: `......A gold butterfly...?`
+char_non: `I see, it's gold because she's the Golden Witch, who gave the Master all of his gold.`
+char_non: `And butterflies are scared of spiderwebs.`
+char_non: ` ......So, it's a gold butterfly.`
+char_non: `The minions of the witch {f:5:Beatrice}...are gold butterflies......`
+char_non: `After flitting into the air, it burst into a shower of gold sparks and disappeared.`
+char_non: `Then, the vanished key......went to Belne‐san's locker......`
+char_non: `Though it was far away, in the locker of a changing room, I had a vivid understanding of its new state.`
+char_non: `It wasn't by sight or by touch.`
+char_non: `{n}It was by some other sense inside my heart, which couldn't be explained by the five senses.`
+char_non: `{n}A completely new sensation that I'd never felt before.`
+char_non: `It was the completely alien concept...called magic.`
+char_non: `{n}A completely unknown pleasure that left me in a trance.`
+char_bea: `"......It is done, my friend.`
+char_bea: ` I shall return this body to you..."`
+char_non: `Nn, ..................ah......`
+char_non: `"..........................."`
+char_non: `It felt as though I had been spinning through space,`
+char_non: ` and gravity had suddenly come back and thrown me to the ground.`
+char_non: `Like when you're having a great dream, but you're suddenly woken up,`
+char_non: ` ......and all you can remember about the dream was that it was fun.`
+char_non: ` ......That sort of lonely feeling.`
+char_non: `Though Beato had been borrowing my body, it was my own body that used magic.`
+char_non: `I could still feel that sensation in my hands.`
+char_non: `The key ring over there had danced along with the movements of my fingers.`
+char_non: `No, that's not quite it.`
+char_non: ` The key ring and my fingers had danced together.`
+char_non: `That fun, that excitement...`
+char_non: `...still tingled slightly in my hands......`
+char_non: `"Whoops, that was close."`
+char_non: `Saying this, Belne‐san suddenly turned around and picked up the key ring she had thrown down on the bed.`
+char_non: `She must have realized that I was staring at it.`
+char_non: `"Almost had Yasu complain that I shouldn't leave keys lying about like this.`
+char_non: ` I'd never put something down and forget about it."`
+char_non: `With a grin, she put the key back into her pocket.`
+char_non: `However, she still hadn't noticed.`
+char_non: `She probably couldn't even imagine that during the few moments her guard was down...`
+char_non: `...just a single key had vanished from the ring...`
+char_non: `It's not easy for a {y:0:Human}{n:0:human} to do things like that.`
+char_non: `......But, with magic...`
+char_non: `With just a little dance of the keys and a butterfly popping, ......it had disappeared.`
+char_non: `"Alright, fingertip inspection!`
+char_non: ` Bed, okay.`
+char_non: ` Curtains, okay!"`
+char_non: `"Tools, okay.`
+char_non: ` And keys too!`
+char_non: ` See?`
+char_non: ` Nothing wrong, right?"`
+char_non: `"Y‐yes, that's good......`
+char_non: ` Then let's go on to the next room.`
+char_non: ` ......Ah, ......Belne‐san.`
+char_non: ` Could you......lock up this room for me?"`
+char_non: `"Hmm?`
+char_non: ` Su~re."`
+char_non: `.........Did Belne‐san's key...`
+char_non: `...really disappear by magic?`
+char_non: `Was that fun magic just a daydream I had......?`
+char_non: `I was so scared of that being true......that I tested it.`
+char_non: `"...........................`
+char_non: ` ...............Huh......?"`
+char_non: `"What's wrong?`
+char_non: ` Why're you taking so long?"`
+char_non: `".........Huh?`
+char_non: ` .........Huh? Huh??`
+char_non: ` ......Wait, are you kidding me?"`
+char_non: `"What's wrong...?"`
+char_non: `"......It's not this one.`
+char_non: ` ......And it isn't this one.`
+char_non: ` ......Huh?`
+char_non: ` What the...?"`
+char_non: `"What is it?`
+char_non: ` Do you want me to lock it?"`
+char_non: `"I, I don't get it?`
+char_non: ` What's going on?`
+char_non: ` ......My master key's gone.`
+char_non: ` Just my master key is gone.`
+char_non: ` Wh‐why...?!`
+char_non: ` This ring's so stiff... There's no way it'd come off......!"`
+char_non: `I could faintly feel that tingling sensation...`
+char_non: `in the tips of my fingers......`
+char_non: `That night.`
+char_non: `......As I gazed at the ceiling from the bed in my dorm room,`
+char_non: ` ......I looked at my hands.`
+char_non: ` I couldn't sleep.`
+char_non: `The excitement from the time those keys danced was still there in my fingers...`
+char_non: `Is this...`
+char_non: `...how {f:5:Beatrice}...`
+char_non: `...how witches...`
+char_non: `...always feel?`
+char_non: `............I have a witch friend called {f:5:Beatrice}.`
+char_non: `{n}She always used to pull pranks on me with her strange magic.`
+char_non: `Because I saw this all the time,`
+char_non: ` .........I thought I knew what magic was.`
+char_non: `But today...`
+char_non: `.....she had possessed my body......and used magic with it.`
+char_non: `The sensation of magic that I finally felt at that time......still held my heart entranced.`
+char_non: `It was a completely unknown pleasure.`
+char_non: `After all......`
+char_non: `With a movement of my fingertips,`
+char_non: ` .........the key had danced on command.`
+char_non: `{n}It was an mysterious, wondrous miracle of magic—something no {y:0:Human}{n:0:human} could do.`
+char_non: `I still couldn't let go of that excitement...`
+char_non: `........................`
+char_non: `".........Shannon.`
+char_non: ` .........Are you awake...?"`
+char_sha: `".....................`
+char_sha: ` ......What's up?"`
+char_non: `Shannon was still awake.`
+char_non: `Shannon is always early to bed, early to rise.`
+char_non: ` By getting to bed early, all of her weariness disappears by the next day.`
+char_non: `......She lives a model life, one that all servants should respect and admire.`
+char_non: `......If I wanted to become a beloved and respected servant like Shannon,`
+char_non: ` .........I would need to act that way too.`
+char_non: `However, ......I had no confidence that I could do that anymore.`
+char_non: `"I guess...`
+char_non: `.........I can't become like you after all."`
+char_sha: `"......What do you mean?`
+char_sha: ` This is a bit abrupt."`
+char_non: `"You were my ideal.`
+char_non: ` Always."`
+char_sha: `".........Yeah."`
+char_non: `"At the Gospel House, you were kind to everyone and loved by everyone.`
+char_non: ` ......You would always play with me, and you were my only friend.`
+char_non: ` And at the Ushiromiya mansion, you were a wonderful servant, who could carry out any task flawlessly and gracefully.`
+char_non: ` My idol and goal.`
+char_non: ` ......That's what you were."`
+char_sha: `"Yeah.`
+char_sha: ` ......Let's give it our all together.`
+char_sha: ` As they say, perseverance prevails.`
+char_sha: ` You're gaining recognition from everyone now.`
+char_sha: ` So let's aim to become wonderful servants together."`
+char_non: `"..................`
+char_non: ` ......I'm...done with being a servant."`
+char_sha: `"......Huh?"`
+char_non: `"Instead of a servant,`
+char_non: ` ......I think it'd be more fun to be a witch."`
+char_sha: `"A, a witch...?`
+char_sha: ` ...What do you mean...?"`
+char_non: `"A servant who everyone loves and relies upon is...`
+char_non: `...yeah, it's still something I'd love to be.`
+char_non: ` ......But right now,`
+char_non: ` .........I want to be a witch...`
+char_non: `even more."`
+char_sha: `"Well, that's...`
+char_sha: `...ummm...`
+char_sha: ` .........Huh......?"`
+char_non: `Shannon was confused.`
+char_non: `It was hardly surprising.`
+char_non: ` ......All this about quitting as a servant was at least understandable.`
+char_non: `But she didn't know how to answer after hearing that her roommate wanted to become a witch...`
+char_non: `"A witch.`
+char_non: ` {f:5:Beatrice}.`
+char_non: ` ......You see, today, {f:5:Beatrice} possessed me and used my body to do magic.`
+char_non: ` That unknown world felt so......thrilling.`
+char_non: ` It was far, far more thrilling than even the time I learned that I'd been selected as an Ushiromiya family servant."`
+char_non: `"It was like learning about a new world.`
+char_non: ` ......As though I'd been living in a world of darkness all my life and thought I knew what the world was like,`
+char_non: ` then finally learned what light was and saw the world for the first time.`
+char_non: ` It was...joy.`
+char_non: ` ......Excitement."`
+char_non: `At that time, Beato had only used my fingers, made a key ring dance,`
+char_non: ` and turned a key into a butterfly before hiding it in a locker.`
+char_non: `But I had understood it with my body.`
+char_non: `If I had moved my fingers a different way, the ring could have flown into the air instead of just dancing,`
+char_non: ` and I could have turned it into a scurrying lizard instead of a butterfly. ......I could have done anything.`
+char_non: `True, {f:5:Beatrice}'s magical power was still weak.`
+char_non: `It had all happened in the little world behind the backs of the servants filled with the anti‐magic toxin.`
+char_non: `However, inside that tiny, short‐lived world, I could have done anything at all.`
+char_non: `{n}Beato just happened to settle on making the keys dance and turning one into a butterfly.`
+char_non: `{n}But if she wanted to, she could have done anything else!`
+char_non: `The endless sensation of that free, unrestricted power...`
+char_non: `{n}I could still feel it in my fingertips.`
+char_non: `Could it be that, along with that sensation, a sliver of that magical power might also remain...?`
+char_non: `I can tell.`
+char_non: ` It's still there.`
+char_non: ` .........There's still just a bit of it there, along with that sensation.`
+char_non: `I can do it.`
+char_non: ` ......I can still.........do it......`
+char_sha: `"............Ah......"`
+char_non: `A single spot of golden light suddenly lit up in this dark room.`
+char_non: `{n}It was right between my clasped hands.`
+char_non: `When I slowly opened them,`
+char_non: ` ......I could see a single dot that sparkled gold.`
+char_sha: `"What...`
+char_sha: `......is...`
+char_sha: `......?"`
+char_non: `Shannon didn't know what the light meant.`
+char_non: `How could light appear from the palms of my hands?`
+char_non: `And yet, even with this miracle right in front of her,`
+char_non: ` ......she couldn't understand what it was.`
+char_non: `She just sat there with her mouth open in disbelief.`
+char_non: `However, to me,`
+char_non: ` ......this was just the return of that bit of sensation in my fingertips.`
+char_non: `The golden dot...`
+char_non: `...spread out...`
+char_non: `...and became a small, gold butterfly.`
+char_non: `It flapped its wings and scattered gold sparks about like Tinker Bell.`
+char_non: `To Shannon, it probably just looked as though a gold butterfly was flapping its wings.`
+char_non: `......Of course, that alone was a miracle that she could hardly grasp.`
+char_non: `But to me, it was like a remote‐control plane in the shape of a butterfly.`
+char_non: `{n}I could control that gold butterfly however I wanted.`
+char_non: `Not clumsily with threads.`
+char_non: `{n}......I could make it flap, dance, play through the air as I wished.`
+char_non: `I was taking a walk through the air as that little butterfly.`
+char_non: `The golden glint of it pierced the darkness of the small room as it danced about freely.`
+char_non: ` ......It was an entrancing pleasure.`
+char_non: `......However, that sensation in my fingers began to weaken.`
+char_non: `I could tell that the few magic butterfly scales left in my fingers were going away.`
+char_non: `Finally, like a sparkler burning out, the gold butterfly gave out one last blink of light,`
+char_non: ` fell down as a single golden dot, and disappeared without a trace......`
+char_sha: `"Wh‐what on Earth just happened......"`
+char_non: `"This is magic.`
+char_non: ` .........It's really fun."`
+char_sha: `"M‐.........magic............"`
+char_non: `"Yeah.`
+char_non: ` Magic.`
+char_non: ` ......I was able to use it just now because there was still a little left in my fingers.`
+char_non: ` ......But if I became a real witch, ......I'd be able to use it whenever and however I wanted......to do anything.`
+char_non: ` Now that I've learned how fun this can be,`
+char_non: ` I don't want to go back to being {y:0:Human}{n:0:human}.`
+char_non: ` Being a servant is just too boring.`
+char_non: ` So, ......I'm going to become a witch."`
+char_sha: `"B‐become a witch...`
+char_sha: ` ............W‐wait......!"`
+char_non: `"I've already made my decision, Shannon.`
+char_non: ` It's been fun.`
+char_non: ` I'll give you this room.`
+char_non: ` You can use it by yourself.`
+char_non: ` Later.`
+char_non: ` Goodbye."`
+char_sha: `"W‐wait...!!"`
+char_non: `As Shannon called out repeatedly for me to wait, ......a massive planetarium swallowed me up.`
+char_non: `In the sea of the pitch‐black starry sky, I was alone.`
+char_non: ` I...we...are alone here.`
+char_non: `"I'm done acting the part of a servant.`
+char_non: ` .........I'm going to...modify the world."`
+char_bea: `".........Mm.`
+char_bea: ` Understood.`
+char_bea: ` In that case, how would you like it to be?"`
+char_non: `"Being a wonderful servant like Shannon wouldn't be bad.`
+char_non: ` ......But now that I know how fun it is to be a witch, that feels like a boring dream.`
+char_non: ` I can't go back anymore."`
+char_bea: `"What will happen to Shannon?"`
+char_non: `"......Shannon can just be Shannon, and stay as a respected servant.`
+char_non: ` She'll stay the same.`
+char_non: ` But from now on, it won't be the two of us together, but her alone."`
+char_bea: `"Partings can be so sudden.`
+char_bea: ` ......Ah, well.`
+char_bea: ` Being fickle makes life more entertaining.`
+char_bea: ` Then what will you do instead?"`
+char_non: `"I want to be a witch.`
+char_non: ` I want to be Beato."`
+char_bea: `"But I am already {f:5:Beatrice}."`
+char_non: `"Your backstory that you're a witch and my friend will remain the same,`
+char_non: ` but I'll modify the world so that Beato is me."`
+char_bea: `"Would I then be a witch who is a friend of {f:5:Beatrice}?"`
+char_non: `"Pretty much.`
+char_non: ` So, from now on, you're a different witch."`
+char_non: `"Very well.`
+char_non: ` Then, what will be my new name?"`
+char_non: `".....................`
+char_non: ` I'll put that on hold until I can think of one.`
+char_non: ` You'll be nameless for a while.`
+char_non: ` Sorry about that."`
+char_non: `"Worry not, worry not.`
+char_non: ` It is to be my name, after all.`
+char_non: ` You had better take your time and think carefully about it.`
+char_non: ` *cackle*."`
+char_non: `"You'll be {f:5:Beatrice}'s friend that she's had since she was young and couldn't use magic yet.`
+char_non: ` It started with you hiding my things to tease me."`
+char_non: `"I see.`
+char_non: ` And when {f:5:Beatrice} finally learns magic, I become a friend on an equal footing with her.`
+char_non: ` So, I should act like a big sister sort of friend."`
+char_non: `"Yeah, like that.`
+char_non: ` ......What should we do about how we talk?"`
+char_non: `"It seems that "warawa" has become firmly established as the way {f:5:Beatrice} refers to herself.`
+char_non: ` Should I relinquish that to you?"`
+char_non: `"Yeah.`
+char_non: ` That haughty way of speaking with "warawa" will be mine."`
+char_non: `"Hmm, very well.`
+char_non: ` Then I shall—no, I can't speak like that any more.`
+char_non: ` ......Then I need to find a good way to sound like {f:5:Beatrice}'s big‐sister‐like witch friend."`
+char_non: `"Yeah.`
+char_non: ` ......Or should it be...`
+char_non: `.........very well."`
+char_non: `"Ahahahaha.`
+char_non: ` Now there's a nice, dignified voice."`
+char_non: `"What about the way I—let's try that again.`
+char_non: ` And what of my appearance?"`
+char_non: `"Good point.`
+char_non: ` I've got a sort of blood‐red witch look.`
+char_non: ` Why not choose a different color for yourself?"`
+char_non: `"......When {f:5:Beatrice} wanders the mansion at night, she is often seen dressed in white."`
+char_non: `"Of course, ghosts are classically white."`
+char_non: `"A white dress...`
+char_non: `...on a witch......`
+char_non: ` .........Let's try putting it all together."`
+char_non: `I need a different look than the witch in the demon‐red dress.`
+char_non: `{n}A white, noble witch.`
+char_non: `......Unlike the time with the red witch, I'm thinking about my own look now,`
+char_non: ` ......so I'd like to make it beautiful and......cute if I can.`
+char_non: `A white dress.`
+char_non: ` A noble look.`
+char_non: `{n}Like one of noble blood, but with a dark, sarcastic streak......`
+char_non: `No, she's like a tomboy princess, so her voice is a mix of formality and rudeness.`
+char_non: `Then the dress should be the exact opposite, pure and clean, to make a nice contrast......`
+char_bea: `"..............................`
+char_bea: ` ......How does this form suit me?"`
+char_fur: `"Is this the form of the new {f:5:Beatrice}?!"`
+char_zep: `"How beautiful!`
+char_zep: ` Just like a noble princess!"`
+char_bea: `"Hmmm...`
+char_bea: ` ...I've taken a liking to this form.`
+char_bea: ` Not bad at all."`
+char_non: `"......Looking good.`
+char_non: ` That's wonderful, Beato."`
+char_bea: `"Hmm. I like it.`
+char_bea: ` I truly do like this form..."`
+char_non: `"Now, if you can keep this up and give me a wonderful name, that'd be great.`
+char_non: ` If I have to go around nameless for too long, I'll get all sulky."`
+char_bea: `"Fear not, I shall find you a splendid name!`
+char_bea: ` But first, there is something I must consider: what shall be the form of my magic?!"`
+char_bea: `"Hiding objects and transporting them instantaneously is your theme.`
+char_bea: ` So, I must think of my own particular theme of magic.`
+char_bea: ` ......When I use magic, gold butterflies will flit about.`
+char_bea: ` I'm not backing down on that part...!"`
+char_non: `"*giggle*. Splendid.`
+char_non: ` Just perfect for the Golden Witch.`
+char_non: ` ......Then the weaknesses such as spiderwebs and the sacred mirror in the shrine will also go to you?"`
+char_bea: `"Hmm.`
+char_bea: ` Even an all‐powerful witch needs a few small weaknesses to keep things interesting.`
+char_bea: ` Then let us do it like so.`
+char_bea: ` If I touch a spiderweb, it will burn me."`
+char_non: `Silently, a silvery spider dropped down vertically.`
+char_non: `Beato, now in her new form, lightly touched the silver spiderweb that trailed out behind it.`
+char_non: `As she did, ......there was a faint sound of flesh burning, and a thin burn was left across her fingers.`
+char_non: `{f:5:Beatrice} can't stand spiderwebs.`
+char_non: `{n}That was one of the weaknesses of the evil spirits Kumasawa‐san spoke of.`
+char_non: `Since the witch {f:5:Beatrice} had revived thanks to the power of those evil spirits,`
+char_non: ` she also inherited their weaknesses.`
+char_non: `So, the sacred mirror is also one of her weaknesses.`
+char_non: `......However, I am unlikely to cross paths with that sacred mirror in the shrine very often.`
+char_non: `That's not very fun.`
+char_bea: `".........Then, while mirrors with sacred power will obviously be a weakness, let us make mirrors in general a weakness too."`
+char_non: `"They do often say that mirrors have magical powers.`
+char_non: ` Good idea, I think.`
+char_non: ` Sounds just like a witch."`
+char_bea: `"Let us say that I cannot abide mirrors because when I look at one, it feels as though my magical power is being sucked out.`
+char_bea: ` Hmm, that sounds quite entertaining."`
+char_non: `......Now that I really think about it,`
+char_non: ` I'll be bad with mirrors whether I invent a story for it or not.`
+char_non: `No matter who I want or strive to be,`
+char_non: ` ......the only face that will ever show in a mirror...`
+char_non: `is the heartlessly pathetic and realistic face of {i:"Yasu"}.`
+char_non: `Mirrors, which will always force me to face my shabby reality, are something I always want to avoid.`
+char_non: `That's right.`
+char_non: ` ......I hate mirrors.`
+char_non: `......I don't want to look at...`
+char_non: `my own...`
+char_non: `pitiful self.`
+char_non: `"You don't need to decide everything at once.`
+char_non: ` It's fun to build up a world one little bit at a time."`
+char_bea: `"True.`
+char_bea: ` I understand.`
+char_bea: ` I shall enjoy life as a witch as I slowly expand my world."`
+char_non: `"That tiny, dark room is no place for you to sleep now."`
+char_bea: `"Indeed.`
+char_bea: ` I am the Golden Witch!`
+char_bea: ` I am the ruler of Rokkenjima's night, and the nighttime mansion belongs to me.`
+char_bea: ` That is where I should be living, is it not?"`
+char_zep: `"A room for {f:5:Beatrice}?`
+char_zep: ` Haha, isn't it obvious?!"`
+char_fur: `"Yeah, that's right!`
+char_fur: ` That wonderful room on the second floor of the mansion......"`
+char_zep: `"The VIP room of the witch—{i:that} is {f:5:Beatrice}'s room!"`
+char_bea: `"Oh, so it is.`
+char_bea: ` From this evening forward, that room in the nighttime mansion shall be my dwelling place...!`
+char_bea: ` Why didn't I think of that myself, hahaha, heha{0}ha{0}ha{0}ha{0}ha{0}ha{0}haha...!!"`
+char_non: `"Then let's go, Beato.`
+char_non: ` If we're going to drink tea together, we'll need a much better room than that cramped one."`
+char_bea: `"Indeed.`
+char_bea: ` That room is too crude to welcome friends to and serve tea in.`
+char_bea: ` We shall change rooms.`
+char_bea: ` Let us go, my friend...!"`
+char_non: `".........So, this is goodbye to Shannon."`
+char_non: `When I looked at my feet, ......I could see my own dorm room far beneath me.`
+char_non: `I could see Shannon, who had dashed up to the bed I lay on and had been saying "wait" at the moment time froze.`
+char_non: ` She was as rigid as a doll.`
+char_non: `Looking down at it from this height, it really did look like a small dollhouse...`
+char_bea: `"Farewell, Shannon.`
+char_bea: ` ......The days I spent as a {y:0:Human}{n:0:human}, growing our friendship as I attempted to emulate you, were truly fun.`
+char_bea: ` ...If I had never learned the joys of magic and awakened as a witch,`
+char_bea: ` everything would doubtless have remained as it was."`
+char_non: ` .........I was your only close friend as well, wasn't I?`
+char_non: `{n}Please forgive me for erasing that friend so suddenly.`
+char_non: `As a parting gift, ......I will erase "me" from your world.`
+char_non: `Starting now, this will not be a two‐person room.`
+char_non: `It will be a single‐person room, with just you in it.`
+char_non: `Strive to be a kind, reliable servant loved by everyone,`
+char_non: ` and embody that ideal as you always have.`
+char_non: `Yasu, the stupid, clumsy servant who lost things all the time, no longer exists.`
+char_non: `Farewell, Shannon.`
+char_non: `When I mature as the witch {f:5:Beatrice} and wander freely about the nighttime mansion,`
+char_non: ` ......I may bump into you as you do your nighttime rounds.`
+char_non: `However, when I meet you again,`
+char_non: ` it will not be a reunion.`
+char_non: `{n}It will be our first meeting.`
+char_non: `After all, though you have heard the rumors about the witch {f:5:Beatrice}, you have never met her......`
+char_non: `Farewell, Shannon.`
+char_non: `Let us meet again sometime and spin up some fun tale.........`
+char_sha: `"Wait......!!`
+char_sha: ` Wai...`
+char_sha: `.........t...`
+char_sha: `............`
+char_sha: ` ..........................."`
+char_non: `....................................`
+char_non: `.........What...`
+char_non: `...was I doing...?`
+char_non: `Was I......talking in my sleep......?`
+char_non: `Apparently, I had gotten out of bed, stretched my hand out towards it,`
+char_non: ` ......and said "wait".`
+char_non: `This isn't the first time I've woken myself up by saying something strange in my sleep, but...`
+char_non: `......I don't remember ever waking up to find myself out of bed and standing up.`
+char_non: `Could this be what they call......sleepwalking...?`
+char_non: `Am I just tired......?`
+char_non: `......Gotta sleep.`
+char_non: ` Gotta get back to sleep.`
+char_non: `I turned around to face my bed.`
+char_non: `............?`
+char_non: `My bed wasn't there.`
+char_non: `{n}There was no bed in this room except the one I had just turned my back on.`
+char_non: `If I'm the only one in this room, and the only bed is the one behind me,`
+char_non: ` ......that must mean it's my bed.`
+char_non: `......That feels wrong, for some reason.`
+char_non: `The bed sheets are all disarranged, as though someone slipped out of them.`
+char_non: `"Someone"...?`
+char_non: ` This is my own, single‐person room.`
+char_non: `So, that there is my bed, and the rumpled sheets mean...`
+char_non: `that I was just sleeping there until a second ago, don't they...?`
+char_non: `......But, for some reason,`
+char_non: ` .........that bed...`
+char_non: `...doesn't feel like my bed.`
+char_non: `But I, Shannon, have a single‐person room—I was the only person to be given one while all the other kids had to share.`
+char_non: `So, there's only one bed.`
+char_non: `{n}And it must be mine.`
+char_non: `...........................`
+char_sha: `".........Am I just...`
+char_sha: `...tired?`
+char_sha: ` ......I wonder..."`
+char_non: `I must just be half‐asleep.`
+char_non: ` I have school again first thing tomorrow.`
+char_non: `And after school, I'll go to the mansion, help out with some work,`
+char_non: ` and then I want to talk to Kumasawa‐san about the mystery novel I just read.`
+char_sha: `"Time to sleep.`
+char_sha: ` I'm probably just so worn out that I'm imagining things.`
+char_sha: ` .........Good night, Shannon.`
+char_sha: ` Just crawl in bed and close your eyes...`
+char_sha: `...and you won't have to think about anything complicated......"`
+char_non: `I went back into my bed.`
+char_non: `It felt a bit uncomfortable to crawl into a bed that wasn't mine.`
+char_non: `Still, it might just be because I'm getting so sleepy, but it's starting to feel as though this is my bed after all.`
+char_non: `.........I'm just half‐asleep......`
+char_sha: `I am...Shannon.`
+char_sha: ` A lonely servant.`
+char_sha: `I mess up from time to time,`
+char_sha: ` ......but I want to become a kind servant whom everyone loves......`
+char_sha: `.........Goodnight,`
+char_sha: ` .........me.........`
+char_bea: ` Oh, I am one yet many.`
+char_bea: `{n}`
+char_bea: `I have grown tired of playing the servant.`
+char_bea: ` I have grown tired of playing the {y:0:Human}{n:0:human}!`
+char_bea: `From this moment forth, from this night forth, I am {f:5:Beatrice}!`
+char_bea: `{n}`
+char_bea: `The Golden Witch {f:5:Beatrice}, who has lived for a thousand years!`
+char_bea: `Praise me, servants.`
+char_bea: ` Have fear when you are chosen for the night shift!`
+char_bea: `{n}`
+char_bea: `On the nighttime island, the mansion is my place, and that is my time...!`
+char_bea: `Oh, I am one yet many!`
+char_bea: `Yes, let our world swallow up everything.`
+char_bea: ` It is like the raging seas!`
+char_bea: `Well now, let us drink the mysterious moon dry tonight, with this {y:0:Human}{n:0:human} book as a side dish!`
+char_bea: `You call this mystery?`
+char_bea: ` You call this a locked room?`
+char_bea: ` You call this "a crime impossible for {y:0:Human}{n:0:human}s"?`
+char_bea: `Don't make me laugh!`
+char_bea: ` With all these holes and weak points, you call this a crime impossible for {y:0:Human}{n:0:human}s?!`
+char_bea: `Is there no splendid locked‐room magic capable of astonishing me?`
+char_bea: `Oh, not here, not there, not this, not that, all of them pathetic!`
+char_bea: `It draws out a chuckle, but leaves me unsure which is the side dish, the moon or the book?!`
+char_bea: `If I get tired of mystery, I can change myself into a butterfly!`
+char_bea: ` I can flit about the island,`
+char_bea: ` the mansion, the vast forest at will!`
+char_bea: ` I'll follow those cowardly servants as they do their nighttime rounds,`
+char_bea: ` and when they check to see that a window is locked, they'll see me laughing at them in the reflection on the glass!`
+char_bea: `I can be fickle, and do as I please!`
+char_bea: `{n}`
+char_bea: `Pranks at night will probably be a lot of fun.`
+char_bea: `Yes, my mind is made up—I will play like that starting tonight!`
+char_bea: `*cackle*cackle*, how pleasurable!`
+char_bea: ` Tonight will truly be pleasurable!`
+char_bea: `In the world of witches, the only limits to your fun are the limits of your imagination!`
+char_bea: `My imagination shall become the source of my magical power!`
+char_bea: `Very well, then—this will be fun!`
+char_bea: ` I shall allow my imagination to grow without bound.`
+char_bea: ` And with it, I shall swallow up the entire island.`
+char_bea: ` All nights on this island belong to me!!`
+char_bea: `Oh, how refined and pleasant are the days of a witch!`
+char_bea: `Oh, I am one yet many!`
+char_bea: ` Kiha{0}ha{0}ha{0}ha{0}hah{0}hha, hyahhaha!!`
+char_bea: `Here's to the wonderful world of witches!!`

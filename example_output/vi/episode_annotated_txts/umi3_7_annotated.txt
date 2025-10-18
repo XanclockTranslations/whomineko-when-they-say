@@ -1,0 +1,640 @@
+char_non: `Gohda was doing the nighttime rounds.`
+char_non: `There had never been anything on Rokkenjima outside the Ushiromiya family.`
+char_non: `{n}So checking that the doors and windows were all closed had no real purpose.`
+char_non: `However, ever since Natsuhi had scolded them saying that this was careless, the nighttime rounds had become part of the servants' daily routine.`
+char_non: `......The reason that Natsuhi had ordered this was the occasional disturbances of the witch.`
+char_non: `Everyone who visited this island knew about the legend of {f:5:Beatrice}, the witch of the forest.`
+char_non: ` This had become established as this island's characteristic ghost story.`
+char_non: `Because of that, it was only natural that some people would occasionally say that, when they thought they were alone in the mansion,`
+char_non: ` ...they had heard strange sounds, or seen the shadow of a person.`
+char_non: `However, when that had created a little too big of a disturbance and reached Natsuhi's ears,`
+char_non: ` she had made a fuss, thinking that some suspicious person might have been coming in and out.`
+char_non: `Apparently, it was said that she had roused all of the servants and had them check throughout the mansion.`
+char_non: `Because all of this uproar over the witch had happened before Gohda had come,`
+char_non: ` he had only heard about it from the more senior servants.`
+char_non: `Ghost stories like that could be found in any workplace.`
+char_non: ` Even at the hotel Gohda had once worked at, and at the restaurant,`
+char_non: ` there was never a shortage of those types of story.`
+char_non: `So when he heard that story on this island,`
+char_non: ` he smiled bitterly, thinking "ah, so they have that kind of thing here after all".`
+char_non: `He smiled bitterly, but he thought when in Rome, do as the Romans do, and had not slighted that.`
+char_non: `Gohda went along with it on the outside, but in his heart he thought it was a childish trick.`
+char_non: ` ......At first.`
+char_goh: `"............This certainly is eerie.`
+char_goh: ` I see, I understand why the servants got in an uproar over this in the past."`
+char_non: `He could understand that if someone, doing the rounds on an eerie night like this,`
+char_non: ` saw a lace curtain waving in the breeze from a window which hadn't been closed,`
+char_non: ` they might be tempted to believe they had seen a ghost.`
+char_goh: `"So there's a curse if you make fun of the witch of the portrait, huh.`
+char_goh: ` ......Seems like there were servants who got hurt really bad and quit, too.`
+char_goh: ` ...I'd hate to be injured.`
+char_goh: ` I'm already this old.`
+char_goh: ` Doubt I'll ever be blessed with a workplace this hospitable again...`
+char_goh: ` Aaah.`
+char_goh: ` Great witch of the portrait.`
+char_goh: ` I'm really gonna work hard here, so please go easy on me."`
+char_non: `Gohda prayed to the portrait, his hands together, as though he was at a Shinto shrine...`
+char_non: `At that time, ...he thought he heard a sound.`
+char_non: `The kitchen?`
+char_non: ` Was that the sound of something metal falling on the floor?`
+char_non: `Surely a mouse or a cockroach hadn't come out, and knocked over some of the dishes...`
+char_non: ` No, no, how could that be.`
+char_non: ` It was routinely and thoroughly cleaned!`
+char_non: `Gohda thought that in any case he had better check what that noise had been, and entered the kitchen.`
+char_non: `He turned on the kitchen light.`
+char_non: `{n}......When he did, he heard a strange sound.`
+char_non: `Clankclankclankclankclankclank.`
+char_non: `......To a cook like Gohda, that sound seemed like the lid on the pressure cooker or something was shaking.`
+char_non: `Of course, it couldn't be in use when no one was in the kitchen.`
+char_non: `{n}If someone {i:had} been using the gas, what a dangerous thing to do, to just walk away from it.`
+char_non: `...Just in case, Gohda decided to inspect the area around the gas range...`
+char_goh: `"...............What is this...?"`
+char_non: `When he did, in the corner by the gas range,`
+char_non: ` ...the pressure cooker really had been placed there, just as he had thought.`
+char_non: `But the flame wasn't on.`
+char_non: `{n}...And yet, the lid was clanking...`
+char_non: `Was something fermenting and leaking gas?`
+char_non: `{n}...How could that be?`
+char_non: ` ......Then was there a mouse or something inside?`
+char_non: `{n}...How could there be, ridiculous...`
+char_non: `In front of people, Gohda acted as though he had a bold personality fitting for his build,`
+char_non: ` ......but he actually had an unexpectedly timid side to him.`
+char_non: `He was terrified to find out what might be inside, and he couldn't check it carelessly...`
+char_non: `In his cowardice, ...he grabbed a nearby wooden pestle,`
+char_non: ` and with a {i:clunk!},`
+char_non: ` he tapped it a little strongly against the side of the pressure cooker.`
+char_non: `When he did, the clanking sound suddenly stopped.`
+char_non: `...He should have been relieved now that it had stopped,`
+char_non: ` ...but the fact that it had stopped when he had hit it was even more eerie, and made him even more suspicious about what was inside...`
+char_goh: `"............nn, ...*gulp*.`
+char_goh: ` .........Strange phenomena do not exist in this world, no sirree.`
+char_goh: ` Yes, there's no such thing as witches, or magic, things like that can't possibly exist.`
+char_goh: ` All phenomena can be explained with science.`
+char_goh: ` ......As though monsters and witches could exist...!"`
+char_non: `He repeated that many times, trying to build up his own confidence.`
+char_non: ` ...It was quite comical how he looked completely different from what he was saying.`
+char_goh: `"Who would believe in a witch, who would believe in magic or curses...`
+char_goh: ` ......Come on,`
+char_goh: ` ......show me what you really are...!`
+char_goh: ` Take that!"`
+char_non: `......He removed the lid of the pressure cooker.`
+char_non: `And lying exposed there...`
+char_non: `was the sparkling clean silver bottom of the pot.`
+char_non: `......There was absolutely nothing frightening like he had imagined.`
+char_goh: `"...............Whew.`
+char_goh: ` ...Hahahaha, well, of course.`
+char_goh: ` ...There's no way there could have been anything inside."`
+char_non: `By now, Gohda realized that he had been a coward.`
+char_non: `......So while he still had some doubts about what had caused the lid to make that sound,`
+char_non: ` ...he explained it away abstractly as some quirk of positioning or something, and decided not to worry about it too much.`
+char_non: `Then he took the lid he had grabbed, ......and softly set it back down where it had been.`
+char_non: `......It's alright, there won't be a sound.`
+char_non: ` ......Obviously.`
+char_non: `{n}As if witches or magic could exist...!`
+char_non: `Clank.`
+char_non: ` Clankclankclankclank.`
+char_goh: `"...............Huh...?"`
+char_non: `Clank{0}clank{0}clank{0}clank{0}clank{0}clank{0}clank{0}clank.`
+char_non: `CLANK{0}CLANK{0}CLANK{0}CLANK{0}CLANK{0}CLANK{0}CLANK{0}CLANK{0}CLANK{0}CLANK{0}CLANK{0}CLANK{0}CLANK{0}CLANK!`
+char_goh: `"Hii, ......HIIIiiiIIIIii!!"`
+char_non: `All of the pots and utensils in the kitchen started clanking at once.`
+char_non: `And it grew stronger still, until finally, it became so strong that the lid to one of the pots fell off...!`
+char_non: `And, ......from inside that pot, .........a slender white arm slowly streeeetched out.`
+char_non: `The lid fell off another pot, and another hand slowly streeeetched out,`
+char_non: ` and anotherrrr,`
+char_non: ` and anotherrrr...`
+char_goh: `"Hiiiiiiiii!!!`
+char_goh: ` Witches aren't, witches can't be reeeeeal!!`
+char_goh: ` I'll never believe iiiiiiiiiit!!"`
+char_non: `When the number of arms grew to seven, a loud, shrill laughter split the air.`
+char_rg6: `"What a letdown!`
+char_rg6: ` It's a reeeeal letdown that a person who can make such delicious food is such a lightweight!!"`
+char_rg5: `"If you don't need him, I'll take him, he's all mine!!"`
+char_rg2: `"Wait, I said nooooooooooo!!`
+char_rg2: ` I'm gonna take him!!"`
+char_goh: `"Huh?!`
+char_goh: ` Wha, whaa?!?!`
+char_goh: ` HYAAAAAAAAAAAAAAAAAAAAAAAHHH!!"`
+char_non: `""""Kyahahahahahahaha!!!""""`
+char_non: `Come on, let's search, there's only one more.`
+char_non: `{n}That old hag!`
+char_non: ` Where is she?`
+char_non: `{n}Not the mansion, maybe the guesthouse?`
+char_non: `Kuhihihihi, you snooze you lose, right, you snooze you lose, right?!`
+char_non: `Come on, search search, find her find her...!`
+char_non: `Don't get noticed by the relatives in the dining hall?`
+char_non: `Don't get noticed by the kids in the guesthouse?`
+char_non: `Search in silence, kill in silence!`
+char_non: `{n}After all, it's still just the first twilight!`
+char_non: `She isn't in the guesthouse.`
+char_non: `{n}But she wasn't in the mansion either?`
+char_non: `Hey hey, I found her, I found her, she's in the rose garden.`
+char_non: `{n}Why's she standing around there without an umbrella?`
+char_non: `She's given herself up, all mine all mine all miiine!`
+char_non: `{n}You slowpokes can just sit there and watch!`
+char_non: `I told you, nooooooo, this one's miiiiiiiiiiiiine!!`
+char_non: `Come on, if we take any longer we'll be scolded by {f:5:Beatrice}‐sama!`
+char_non: ` Let's take care of it all at once!`
+char_kum: `"......................................."`
+char_non: `Come on, found her, surrounded her!`
+char_non: ` Come on, let's get along and do it all at once, okay?!`
+char_non: ` Diiiiiiiiiiiiiiiiiiiiiiiie!!!`
+char_rg7: `".........Eeeh...?`
+char_rg7: ` .........Huh?"`
+char_rg1: `"Wh‐`
+char_rg1: `......what is...`
+char_rg1: `...this..."`
+char_kum: `"............Hoh‐hoh‐hoh‐ho.`
+char_kum: ` What naughty girls.`
+char_kum: ` ...Could you be friends of that child...?"`
+char_rg2: `"...What is with this............o‐old hag...?!"`
+char_rg3: `"There's got to be some mistake!!`
+char_rg3: ` One more time!!"`
+char_rg6: `"......Why can she defend against us?!"`
+char_rg5: `"Move aside!`
+char_rg5: ` One more time!!!"`
+char_rg4: `"............No matter how often you try, it's useless.`
+char_rg4: ` This person...is good."`
+char_kum: `"...............I am waiting for that child.`
+char_kum: ` Would you mind calling for her?"`
+char_rg1: `"D‐do you think we'd be apprenticed to you like that?!"`
+char_bea: `"There's no need."`
+char_rg1: `"{f:5:Beatrice}‐sama...!"`
+char_ron: `"............It was sufficient for even myself to manifest.`
+char_ron: ` ...I was sure that you would awaken."`
+char_kum: `"Ronove.`
+char_kum: ` It has been a long time.`
+char_kum: ` ......Yes, it truly has been a long time."`
+char_rg7: `"This woman, she didn't use "sama" for his name......!"`
+char_kum: `"..................And...`
+char_kum: `it has been a long time for us also.`
+char_kum: ` ...{f:5:Beatrice}."`
+char_rg2: `"Sh‐she's not even using "sama" for {f:5:Beatrice}‐sama..."`
+char_bea: `"Enough.`
+char_bea: ` Do you know who this person is?`
+char_bea: ` ......{f:5:Beatrice} was originally this person's name.`
+char_bea: ` I merely inherited that name from her.`
+char_bea: ` ......This person is my master.`
+char_bea: ` The Predecessor Lady {f:5:Beatrice}."`
+char_rg1: `"The Predecessor...`
+char_rg1: `...Lady {f:5:Beatrice}......"`
+char_non: `Gold butterflies appeared in ones and twos from the garden of roses and began to gather around Kumasawa...`
+char_non: `And after becoming a golden radiance and enveloping her, they burst and disappeared—and Kumasawa's form was no longer there.`
+char_non: `...Instead, there was another Golden Witch, .........the one who had, in the past, explained to {f:5:Beatrice} the path of an Endless Witch,`
+char_non: ` the only person {f:5:Beatrice} had called Master in her entire life.`
+char_non: `Her hair was long, beautiful, and vividly youthful,`
+char_non: ` and her figure in that elegant dress was unrecognizable as an old lady...`
+char_non: `No, this looked like a completely different person than Kumasawa.`
+char_bea: `".........Well, well, Master.`
+char_bea: ` I never even dreamed the day would come that we would meet each other again."`
+char_non: `"Yes, me too.`
+char_non: ` ...Certainly, I never even dreamed that my sleep would be disturbed."`
+char_bea: `"Such a troublesome time for you to awaken.`
+char_bea: ` ......If you remained sleeping as usual, the first twilight could be finished without much trouble."`
+char_bea: `"...Or should I welcome you?`
+char_bea: ` ............I was just a little bored."`
+char_non: `"......Just as usual, it seems you are toying with sinless people in a vulgar game.`
+char_non: ` ......I believe I have taught you many times that the power of the Endless Witch must not be used to cause people trouble."`
+char_bea: `"Don't say that, Master.`
+char_bea: ` Isn't boredom our natural enemy?`
+char_bea: ` This is just a little spice to escape from that."`
+char_bea: `".........Tch.`
+char_bea: ` The more the corrosion advances, the stronger my power becomes, and the easier it becomes to call my minions.`
+char_bea: ` ...But who would have thought it would release the seal on you, Master, at the same time..."`
+char_non: `"It was because I predicted that,`
+char_non: ` that I slept very close to you like this.`
+char_non: ` ......As I prayed in my sleep that I would not be woken again.`
+char_non: ` ...Being reunited with you like this is a very sad thing for me."`
+char_bea: `"..................You're as cunning as always, Master...`
+char_bea: ` *cackle*..."`
+char_non: `"Ronove.`
+char_non: ` Have the furniture children step back.`
+char_non: ` Furniture merely serves its master.`
+char_non: ` The master is responsible for all of her crimes."`
+char_ron: `".........Certainly.`
+char_ron: ` Madam {f:5:Beatrice}."`
+char_non: `"I have already surrendered that name to this child.`
+char_non: ` ......Come now, step back.`
+char_non: ` Furniture girls.`
+char_non: ` ......For those who do not listen the first time, I say it a second.`
+char_non: ` However, I do not speak it a third..."`
+char_ron: `"......Step back, Seven Sisters of Purgatory.`
+char_ron: ` If you get involved, you will be turned to dust..."`
+char_rg1: `"B‐......back, everyone..."`
+char_non: `Ronove and the Seven Sisters of Purgatory retreated.`
+char_non: `After that, there was the {f:5:Beatrice} whose bold expression didn't falter,`
+char_non: ` and the master {f:5:Beatrice}, who had given up that name, and wore a composed smile...`
+char_bea: `"Well then.`
+char_bea: ` ......Master.`
+char_bea: ` What tea shall I prepare for our long awaited reunion?"`
+char_non: `"Let's see.`
+char_non: ` This reunion was longer in coming than the visit of a comet.`
+char_non: ` I will accept your hospitality.`
+char_non: ` .........If there appear to be any issues, then my name and the title of Endless Witch,`
+char_non: ` ......I will have them returned, understand?"`
+char_bea: `"*cackle*cackle*!`
+char_bea: ` So there's even a license renewal policy for the title of Endless Witch?"`
+char_bea: `"......As you say, Master.`
+char_bea: ` See how splendid your disciple has become,`
+char_bea: ` and see how far she has surpassed what you were long ago...!"`
+char_non: `It looked like sparks exploded in the air between the two {f:5:Beatrice}s.`
+char_non: `Just by glaring at each other, they purged all spirits from that space.`
+char_non: `...As they watched, the Seven Sisters shivered.`
+char_non: ` ...Because if they had retreated just three steps less than they had, they would already have been turned to dust by now.`
+char_non: `"So, come.`
+char_non: ` {f:5:Beatrice}.`
+char_non: ` ...Surrendering my name to you is the only regret I have in my life.`
+char_non: ` I will now correct that error with my own hands!"`
+char_bea: `"*cackle*cackle*cackle*...`
+char_bea: ` ...Tut tut tut.`
+char_bea: ` ......That's wrong, Masterrr.`
+char_bea: ` My only error...`
+char_bea: `was becoming your disciple to learn this trifling level of power, got thaaaat?"`
+char_bea: `"You call this magic?`
+char_bea: ` You call this being an Endless Witch?`
+char_bea: ` ......The power to notice, that's all it waaas!`
+char_bea: ` And you made suuuch a big deal of it.`
+char_bea: ` Your time is long past, Masteee{-}e{-}e{-}e{-}e{-}e{-}e{-}e{-}eeer!!"`
+char_but: `".........I,`
+char_but: ` ......I, I don't have a clue what's going on anymore......!`
+char_but: ` What in the world is happening right in front of my eyes...!"`
+char_non: `"......Poor thing.`
+char_non: ` It seems my disciple is causing you trouble.`
+char_non: ` I apologize."`
+char_but: `"Y‐...you... Who are you?`
+char_but: ` Why did Kumasawa baa‐chan turn into an attractive lady like this?!`
+char_but: ` I mean, who are you?!`
+char_but: ` I don't get it?!`
+char_but: ` What kind of special effects are these?!`
+char_but: ` My head feels like it's gonna explode!!"`
+char_non: `"I am the witch master of that child.`
+char_non: ` My old name was {f:5:Beatrice}.`
+char_non: ` When she succeeded me, I gave her that name, so I do not have a name."`
+char_but: `"You already said it, but your disciple's being a real pain to me!`
+char_but: ` Please, take responsibility and do something!`
+char_but: ` No, wait!!"`
+char_but: `"I don't believe in stuff like this!!`
+char_but: ` As if witches and magic are real!!`
+char_but: ` I won't accept this messed‐up battle!`
+char_but: ` Damn it all to hell, what am I supposed to believe?!!"`
+char_non: `"Hoh‐hoh‐ho...`
+char_non: ` Just like you, hospitality with a very quick temper."`
+char_bea: `"...*cackle*cackle*.`
+char_bea: ` I'd expect nothing less from you, Master.`
+char_bea: ` It looks like this level of magic is so insignificant to you, you can't even be bothered to open your eyes...!"`
+char_bea: `"Looks like it'll be impossible unless I'm prepared to wreck the whole island, riiiiiight?`
+char_bea: ` Come, arise, Shoulder War Towers!!"`
+char_non: `In response to {f:5:Beatrice}'s summons, a terrific earth tremor split the rose garden.`
+char_non: `And on either side of her shoulders, two massive War Towers sprouted and stabbed into the heavens.`
+char_non: ` They stretched 100 {c:86Ef9C:merute} tall, and each one had over 360 ports.`
+char_non: `They were War Towers of the gods' army corps, which had not allowed the heroes of antiquity to invade their precincts, even as they banded together.`
+char_non: `As {f:5:Beatrice} elegantly floated in the gap between the massive two‐headed towers, she looked down on her master, sneering with an absolute superiority.`
+char_non: `With the two massive towers lined up behind her shoulders, the witch looked very small,`
+char_non: ` like a butterfly dancing between large trees.`
+char_bea: `"Hihhyahhyahhyaaaaaa!!`
+char_bea: ` Don't think you can dodge it by turning into butterflies, alright?`
+char_bea: ` The density of the twin towers' barrage wouldn't just make you a pinned bug collection, it'd make you a madly stabbed pincushion, get it...?"`
+char_non: `The towers' more than 720 ports opened, and godly soldiers readied their multi‐shot ballistas.`
+char_non: `"Does that conclude your turn?"`
+char_bea: `"Heh, {i:those} are your last words?!!`
+char_bea: ` OPEN FIII{-}I{-}I{-}I{-}I{-}I{-}I{-}IIIRE!!!"`
+char_non: `Ballista shots numbering easily over a thousand were all fired at once, drawing a beautiful geometric curtain of death.`
+char_non: `The boorish sound performed by those bowstrings was probably even deeper than the sound of Death swinging his scythe.`
+char_non: `"Come, arise, Fallen Tower.`
+char_non: ` Split the single language, and make known the sin."`
+char_non: `The sky was stained an incandescent red, and from between the clouds, a blazing, massive tower fell upside down.`
+char_non: `That massive falling tower and its rubble...`
+char_non: `swallowed the thousands of ballista shots, so that not one of them could approach the body of the witch who had summoned it.`
+char_non: `Yes, none can approach the mysteries of heaven.`
+char_non: `{n}That was the truth of the Fallen Tower.`
+char_bea: `"As I would expect from you, Master!`
+char_bea: ` If you do something, you always do it big!!`
+char_bea: ` Kuhhuhu{0}hu{0}huhya{0}hyahya!!"`
+char_non: `"My turn isn't over.`
+char_non: ` Come, arise, Sons of Ivaldi.`
+char_non: ` Bestow upon me a worthy spear!"`
+char_non: `As the massive crimson tower that had fallen made a mighty gold‐colored explosion,`
+char_non: ` from inside those flames, a spear showed itself, of such massive proportions that you had to look up to see all of it, much like a tower.`
+char_non: `...It was too large for even a giant's hand.`
+char_non: `It was a divinely beautiful spear of the gods, so massive that it gave the illusion that the tower which had fallen had turned into a spear of the same size.`
+char_non: ` A spear of certain victory that no one could escape.`
+char_non: `"It looks like your twin towers are useless.`
+char_non: ` How foolish that you blocked off your means of escape on both sides.`
+char_non: ` You can't defend against even a single spear!"`
+char_non: `When she snapped her fingers in command,`
+char_non: ` the massive tower‐like spear shot at {f:5:Beatrice} like a lightning bolt.`
+char_non: `As the Golden Witch danced in the gap between the towers like a butterfly,`
+char_non: ` it sliced straight through the air like a flash of lightning,`
+char_non: ` aiming right for the very middle of the absolute center of her heart, with the most ultimate and extreme precision.`
+char_bea: `"Hah!!`
+char_bea: ` So, you use Gungnir in a place like this!!`
+char_bea: ` You really are incredible, Masteeeerrrrr!!"`
+char_bea: `"Explode, useless towers!`
+char_bea: ` Arise, Giant Soldier Battle Line.`
+char_bea: ` Fully block that divine spear with your shields and chests!!"`
+char_non: `The Shoulder War Towers exploded in gold.`
+char_non: `{n}They became several billion gold butterflies.`
+char_non: `Those butterflies took the shape of seven massive armored soldiers.`
+char_non: `Each stretched a full 50 merute into the sky,`
+char_non: ` and they lined up in front of {f:5:Beatrice}, protecting their master and holding massive shields which towered like windmills.`
+char_non: `Their massive size was evocative of a mountain range.`
+char_non: ` The witch hiding behind them was like a small moon hiding behind the mountains.`
+char_non: `Once in the past, when the massive shields these giants held had been readied by the whole giants' regiment,`
+char_non: ` they had protected King Wilhelm's castle not only from arrows, but from the wind and the rain,`
+char_non: ` and when they had faced upwards and held their shields to the heavens, not a single raindrop had gotten through.`
+char_non: `"Foolish.`
+char_non: ` How pitiful is the witch who has forgotten her respect for the divine.`
+char_non: ` Did you think that giants could defend against a spear of the gods?!"`
+char_ron: `"......Indeed.`
+char_ron: ` No matter how much human metal you are armed with, you cannot block a spear of the gods.`
+char_ron: ` A wonderful epaulette mate by Madam."`
+char_rg1: `"No way?!`
+char_rg1: ` {f:5:Beatrice}‐sama!!"`
+char_bea: `"Of course I haven't forgotten, Master!`
+char_bea: ` Come, arise, Hephaestus and his disciples.`
+char_bea: ` Bestow upon me a worthy shieeeld!!"`
+char_non: `A golden whirlwind arose at the feet of the Giant Soldiers.`
+char_non: `{n}It was a group of countless butterflies.`
+char_non: `...They attached themselves to the massive shields like gold leaf, sparkling like they were a gold mirror.`
+char_non: `That was the absolute defensive wall that the King of the Gods gave to the goddess.`
+char_non: `{n}The Aegis Shield.`
+char_non: `When the holy spear, which left a dignified tail behind it like a comet, crashed into the mountain range of that gold shield,`
+char_non: ` there was a terrible thunderous roar.`
+char_non: ` It was the creaking of the pillars that held up the heavens.`
+char_non: `The Divine Spear spun around and around, sent flying in the direction the sun sets.`
+char_rg4: `"Impossible...`
+char_rg4: ` Sh‐she defended against the Divine Spear...!!"`
+char_ron: `"No, that is not correct.`
+char_ron: ` The holy spear avoided the impact.`
+char_ron: ` It is the law of the gods that an absolute spear and an absolute shield must not fight each other.`
+char_ron: ` Although in the end, it means the same thing as defending against it."`
+char_non: `"..................Churlish fighting appears to be the only area in which your skills have improved."`
+char_bea: `"Or rather, it seems that you are still as bad as ever at this kind of game, Master.`
+char_bea: ` It's my turn to strike back.`
+char_bea: ` I shall follow the code and counter a spear with a spear."`
+char_non: `The Giant Soldier Battle Line, which had fully blocked the Divine Spear, released their holy gold shields.`
+char_non: `The shields fell to the earth, making the ground shake.`
+char_non: `And then another gold whirlwind arose,`
+char_non: ` and the seven gold shields changed their form into seven massive spears of lightning lying on the ground.`
+char_non: `In unison, each of the giants lifted a leg high, and firmly stomped on the tips of the handles.`
+char_non: `As the earth shook with a thunderous sound, the seven lightning spears spun beautifully and flew up above the Giant Soldiers' heads.`
+char_non: `...They covered everywhere in a spray of gold as they began to fall before the giants.`
+char_non: `Each of the giants squared off, and with the force of their whole body, they kicked and smashed them into pieces.`
+char_non: `Those broken pieces numbered exactly 30 each, and became lightning spears of exactly the same size as the original,`
+char_non: ` which made 210 for all 7 of them; and all of those burst at once,`
+char_non: ` each splitting into 30 thorns, so that there were 6,300.`
+char_non: `They became a thundercloud barrage, drawing out a beautiful geometric pattern,`
+char_non: ` and then each of those changed into three bolts of lightning, so that 18,900 thunderbolts shot at the Predecessor {f:5:Beatrice}.`
+char_rg7: `"It's oveeeeer!!`
+char_rg7: ` {f:5:Beatrice}‐samaaa!!"`
+char_ron: `"I would expect nothing less.`
+char_ron: ` ......From Madam."`
+char_non: `Certainly, a bundle of almost 20,000 thunderbolts should have reduced the master's body to dust.`
+char_non: ` But there was no impact.`
+char_non: `{f:5:Beatrice} knew immediately that she had been fooled.`
+char_non: `At that moment, from the direction the sun was supposed to set, she felt an impossible ray of sunlight.`
+char_non: `A brilliant ray of light shone on her profile.`
+char_non: `It was the figure of the master, holding aloft the spear of the gods that had supposedly been repelled a short while ago.`
+char_non: `{n}...She bore a brilliant radiance like the sun on her back, and made it shine on the incarnation of darkness.`
+char_non: `...{f:5:Beatrice}, watching from there,`
+char_non: ` was trapped like a mouse in a cage, cornered in a dead‐end formed by the Giant Soldier Battle Line.`
+char_non: `By now, the Predecessor {f:5:Beatrice} had seized a position directly alongside the Giant Soldier Battle Line.`
+char_non: `"Now we are done playing, {f:5:Beatrice}...!"`
+char_bea: `".........H‐have I...`
+char_bea: `exposed my flaaaaank......?!"`
+char_non: `Her bold expression hadn't faltered once before now, but now it twisted for the first time.`
+char_non: `And faster than {f:5:Beatrice} could click her tongue, the Predecessor {f:5:Beatrice} released the holy spear.`
+char_non: `In mid‐air, it sprung up into the air once more, and changed its form once again.`
+char_non: `"Come, arise, Dvergar brothers.`
+char_non: ` Bestow upon me the giant‐smashing Iron Hammer of Heaven!"`
+char_bea: `"Giant Soldiers, protect me!!!`
+char_bea: ` What are you doing, you slowpokes!!!"`
+char_non: `By now it was no longer a spear, but the whirlwind of a massive hammer that raised a sound like a windstorm as it flew through the air.`
+char_non: `It was the legendary hammer that had shaken the King of the Frost Giants.`
+char_non: `{n}So the Giant Soldiers couldn't escape from that fear.`
+char_non: `So no matter how much their master ordered them, they couldn't block the path of that hammer.`
+char_non: `"Back rank mate!`
+char_non: ` Rest in peace."`
+char_bea: `"...Damn iiiiiiiiiiiiiiiit.........!!!"`
+char_non: `Before the whirlwind of this massive chunk of metal, {f:5:Beatrice} was nothing more than a mere speck.`
+char_non: `The instant the whirlwind started to suck {f:5:Beatrice} in, {f:5:Beatrice}'s form turned into a massive War Tower.`
+char_non: `The Iron Hammer smashed the War Tower, scattered tremendous amounts of rubble, but it did not reach she who had escaped behind it.`
+char_non: `Furthermore, when the smoke started to settle, the War Tower had sucked in the massive Iron Hammer without crumbling, and blocked the way.`
+char_non: `Even the giant‐smashing Iron Hammer couldn't break through the final tower protecting the witch.`
+char_non: `However, this War Tower was in fact the witch's last trump card.`
+char_non: `{n}It was a War Tower for dodging that could only save her from danger once.`
+char_non: `But this tower was impregnable.`
+char_non: ` No weapon could break through it.`
+char_non: `Just then, the moon disappeared.`
+char_non: ` As {f:5:Beatrice} hid in the shadows of the Giant Soldier Battle Line and the War Tower, she looked up at the sky.`
+char_non: `When she did, inside the moon was the figure of a massive horse ridden by the god of war and death.`
+char_non: `The Predecessor {f:5:Beatrice} rode the horse with him.`
+char_non: `His cloak had blocked the moon and swallowed it in an eerie shadow.`
+char_non: `{n}And the spear of the gods was in his hand once more...`
+char_non: `It was, in other words, a godly knight who had jumped over the ramparts formed by the Giant Soldiers and the War Tower, attacking from the heavens.`
+char_bea: `"......*cackle*...`
+char_bea: ` You got meee..."`
+char_non: `"Smothered mate.`
+char_non: ` It was fun, {f:5:Beatrice}!"`
+char_bea: `"Uuuoooooo{0}o{0}o{0}o{0}o{0}o{0}o{0}o{0}o{0}o{0}o{0}o{0}o{0}o{0}o{0}o{0}o{0}o{0}o{0}o{0}o{0}o{0}o{0}o{0}o{0}o{0}o{0}o{0}o{0}o{0}o{0}o{0}o{0}o{0}o{0}o{0}o{0}o{0}o{0}o{0}o{0}o{0}o{0}o{0}o{0}o{0}o{0}o{0}o{0}o{0}o{0}o{0}o{0}o{0}o{0}o{0}o{0}o{0}oooo!!!"`
+char_non: `The struggle to the death between the two witches with the same name...was resolved.`
+char_non: `The spear that had been launched from the heavens pierced the ground.`
+char_non: `The Giant Soldier Battle Line and the War Tower split up into countless gold butterflies, shrouding the area in a golden storm.`
+char_non: `Then, the sound of thunder.`
+char_non: ` ......And the sound of the falling rain and wind.`
+char_non: `Suddenly, that place was the empty rose garden once more.`
+char_non: `{n}...The butler and the rest were watching the two witches confronting each other.`
+char_non: `.........But only {f:5:Beatrice} was different.`
+char_non: `She had been pierced straight through by the spear, from the base of her neck and her right shoulder, to her left buttock,`
+char_non: ` unable to even reach the ground with her feet,`
+char_non: ` ...horribly exposed like a pitiful pinned butterfly, tormented by the wind and rain...`
+char_rg1: `".........B‐{f:5:Beatrice}‐sama..."`
+char_ron: `".....................`
+char_ron: ` Truly...`
+char_ron: `she is a fearsome person."`
+char_non: `"It is decided.`
+char_non: ` {f:5:Beatrice}."`
+char_bea: `"......Ku,`
+char_bea: ` ......hihihihi,`
+char_bea: ` ......ouch...h..."`
+char_non: `{f:5:Beatrice} wore a bitter smile of false courage,`
+char_non: ` but a strand of blood dangled from her mouth, making her look even more pitiful.`
+char_non: `"The title and power of the Endless Witch.`
+char_non: ` You will now return them to me along with the name {f:5:Beatrice}.`
+char_non: ` ...You are too immature to be called the Endless Witch."`
+char_bea: `"............Stop...`
+char_bea: ` Forgive me, Master...`
+char_bea: ` I was just fooling around, okay......?"`
+char_non: `"I will take my name back from you.`
+char_non: ` I will return you to your original form.`
+char_non: ` Relinquish this power which is beyond you, and live a life suitable for yourself."`
+char_non: `".........Come, try to remember.`
+char_non: ` What form did you have?"`
+char_non: `The Predecessor {f:5:Beatrice} began to recite the words of power.`
+char_non: `{n}When she did, small gold butterflies gathered around the skewered {f:5:Beatrice}, and began to swarm about her.`
+char_non: `Like butterflies sucking the nectar out of flowers...`
+char_non: `{n}...they began to suck the magical power out of {f:5:Beatrice}.`
+char_non: `And it seemed that it caused her intense pain.`
+char_non: `{n}A cry of agony escaped from {f:5:Beatrice}'s mouth.`
+char_non: `She no longer had any power to resist it...`
+char_non: `"Come, try closing your eyes.`
+char_non: ` Try to remember.`
+char_non: ` What form did you have?"`
+char_non: `".........Come, {f:5:Beatrice}?`
+char_non: ` Repeat it with me.`
+char_non: ` Let us chant together.`
+char_non: ` Then it will be over in no time.`
+char_non: ` Let us end your pain as fast as possible."`
+char_bea: `"...Kuhihihi,`
+char_bea: ` ......ha,`
+char_bea: ` ...haha...`
+char_bea: ` ......You're right...`
+char_bea: ` How long has it been...`
+char_bea: `......since I chanted with you, Master......"`
+char_non: `"Now, together.`
+char_non: ` .........Come, try to remember.`
+char_non: ` What form did you have?"`
+char_bea: `"......Come, try to remember.`
+char_bea: ` What form did you have...?"`
+char_non: `When the two of them began to recite the same chant,`
+char_non: ` more and more gold butterflies danced around, swarming around {f:5:Beatrice}...`
+char_non: `".........It's alright, Milady.`
+char_non: ` You will lose the fact that you are my disciple,`
+char_non: ` but that will not change the fact that you are the lady I serve."`
+char_non: `"...After that, I shall read a book for you again.`
+char_non: ` I shall bake you apple pies again.`
+char_non: ` Just like it was long ago.`
+char_non: ` ......Come, try to remember."`
+char_bea: `"......Hahahahahaha...`
+char_bea: ` Yes, try to remember.`
+char_bea: ` ...Are you finally starting to remember...?`
+char_bea: ` ............Well, Master.`
+char_bea: ` Did you remember...`
+char_bea: `...that thing behind yooou...?"`
+char_non: `"...What is this...?`
+char_non: ` .................................This is..."`
+char_non: `When the Predecessor {f:5:Beatrice} looked behind her,`
+char_non: ` ............there was a creepy hedgehog crouching there.`
+char_non: `No.`
+char_non: ` ...It was...`
+char_non: `...herself.`
+char_non: `There was another Predecessor {f:5:Beatrice}, whose whole body was packed with ballista shots,`
+char_non: ` ......lying there like a pincushion doll...`
+char_bea: `"......Come, try to remember.`
+char_bea: ` What form did you have?`
+char_bea: ` ......No, I suppose that's wrong."`
+char_bea: `"......Come, try to remember.`
+char_bea: ` How were you killed?`
+char_bea: ` ......Kuhihihii, kuhya{0}hhya{0}hhya{0}hhaa{0}a{0}a{0}aaahh!!"`
+char_non: `The Predecessor {f:5:Beatrice} was shocked.`
+char_non: `...Instantly, her form began to grow faint...`
+char_non: `"This......`
+char_non: ` ......When...did you............"`
+char_bea: `"In the beginning, I did not summon Shoulder Towers.`
+char_bea: ` They were Quadruplet Towers.`
+char_bea: ` Master, you nonchalantly stepped across the Seventh Rank Rook boundary of death created by the two hidden towers,`
+char_bea: ` which were lurking in the distance on either side of you."`
+char_bea: `"......It was bad manners for me to say "check" so late.`
+char_bea: ` Let me openly apologize.`
+char_bea: ` ...*cackle*cackle*cackle*!"`
+char_non: `The battle had been decided at the very beginning.`
+char_non: ` It had been over since the time the Predecessor had leaned forward, readying her holy spear to attack {f:5:Beatrice}, who had been wedged between her Shoulder Towers.`
+char_non: `...The hidden towers lurking on either side had bathed her in a windstorm of ballista shots from 720 ports on both sides,`
+char_non: ` pinning and killing her.`
+char_non: `However, {f:5:Beatrice} hadn't wanted it to be resolved with that.`
+char_non: `{n}She had wanted to make her master take her next move, and had continued acting as though the game was still on.`
+char_non: `She had immediately revived her with the Endless power,`
+char_non: ` ...and had made her continue the game as though nothing had happened...`
+char_non: `Then the Predecessor slowly remembered that she had already been killed,`
+char_non: ` ......and began to completely erase her form.`
+char_non: `When she did, the spear which had pierced {f:5:Beatrice} also erased itself.`
+char_non: `{f:5:Beatrice} finally fell and landed on her feet.`
+char_non: `{n}...There wasn't even a trace of a scar.`
+char_bea: `".........It was fun,`
+char_bea: ` Master.`
+char_bea: ` If you want to play again, I'll revive you any time.`
+char_bea: ` And once we've had some fun, I'll make you remember that you were a corpse again."`
+char_bea: `"Okay?`
+char_bea: ` I'm fully obeying what you taught me, you know...?`
+char_bea: ` Didn't you say to always put a toy back in its box when you are done playing with it?`
+char_bea: ` *cackle*cackle*, hahha{0}ha{0}ha{0}ha{0}ha{0}ha{0}ha{0}ha{0}ha{0}ha{0}ha{0}ha{0}ha{0}ha{0}ha{0}ha{0}ha{0}ha{0}ha{0}hahaha!!"`
+char_ron: `"......Was it...an easy victory?"`
+char_bea: `"You fool, it was a difficult victory!!`
+char_bea: ` ............If I hadn't tricked her with the Quadruplet Towers, I would have been the one to die!`
+char_bea: ` ......As I would expect from my master.`
+char_bea: ` .........But now I may feel proud."`
+char_bea: `"...Now, I have completely surpassed my master.`
+char_bea: ` Ronove.`
+char_bea: ` Make Master's remains a little better.`
+char_bea: ` ......I haven't lost my respect for her that much."`
+char_ron: `"Certainly.`
+char_ron: ` Tonight's first twilight became a little too riotous.`
+char_ron: ` It will require some cleaning up.`
+char_ron: ` It shall be handled immediately.`
+char_ron: ` Goats, it is time to clean up."`
+char_non: `When Ronove snapped his fingers, blazing, sparkling eyes began to blink open in the shadows and darkness,`
+char_non: ` becoming goat‐headed attendants, which appeared one after another, slowly out of the black.`
+char_non: `One by one, they lined up behind Ronove's back, wordlessly standing at attention.`
+char_ron: `"What shall be done about the six bodies this time?`
+char_ron: ` Another locked‐room format?"`
+char_bea: `"......I am not in a mood to think now.`
+char_bea: ` I will leave it to you.`
+char_bea: ` ...An extraordinary locked room to torment Battler, if you would."`
+char_ron: `"Certainly.`
+char_ron: ` It shall be extraordinary."`
+char_bea: `"*cackle*cackle*cackle*, hahhhahaha{0}ha{0}ha{0}ha{0}hahaha...!!`
+char_bea: ` Allllright, where is Battler?`
+char_bea: ` Battleeeeer, did you watch my big momeeeeeeeeent??"`
+char_but: `".........Damn iiiiiiiiit...`
+char_but: ` After being shown that screwed up magical storm, what can I deny?!"`
+char_but: `"Do witches exist, I ask?!`
+char_but: ` After all those kabooms and kabangs,`
+char_but: ` after being shown all that tremendous fantasy, what can I deny now?!!`
+char_but: ` I don't get it anymore!`
+char_but: ` It was like that last time too, but how can I deny that awesome, wonderful magical battle?!"`
+char_bea: `"I knoo~w, rii~ght?!`
+char_bea: ` After watching this, you can't talk your way out of it anymore, caaaan youuuuu???`
+char_bea: ` Alright, Battler, let me hear some ridiculous reasoning, kuhhi{0}hhyah{0}hyahhya!`
+char_bea: ` Uhhiehhiehhyaaahhh!!"`
+char_ron: `"Milady, your laugh is undignified."`
+char_bea: `"Oh, my apologies.`
+char_bea: ` But I am not to blame."`
+char_bea: `"After all, when Battler tightly closes his eyes, grinds his teeth and shows me that ever‐so‐bitter expression,`
+char_bea: ` it just automatically slips out of my mouth, you seeee...`
+char_bea: ` Kuhhihihhyahhyahaah!!"`
+char_ron: `"Come, Battler‐sama.`
+char_ron: ` Why don't you return to the table without losing heart?`
+char_ron: ` Milady is expecting your counterattack, you see...?"`
+char_but: `"Fuck you!!`
+char_but: ` How the hell can I make a counterargument?!"`
+char_but: `"In the first place, this has all been fucked up since about the time that the tower sprouted up out of the earth!!`
+char_but: ` Should I say that, actually, underground on Rokkenjima, there's a secret laboratory for massive transforming combining robots or something,`
+char_but: ` and that by pushing a button, a strange tower sprouts up?!"`
+char_but: `"Right, and then those huge giants must be robots,`
+char_but: ` or maybe an evil secret association's mecha‐monsters?!"`
+char_but: `"It makes no goddamn sense!!`
+char_but: ` Don't talk to meeeeeeeeeee, uuo{0}o{0}o{0}o{0}o{0}o{0}o{0}o{0}o{0}o{0}o{0}o{0}o{0}o{0}o{0}o{0}oohhh!!!"`
+char_bea: `"C'mon c'mon c'mon c'mon, don't cry, alright??`
+char_bea: ` Kaboom, kabang, it's magic!!"`
+char_bea: `"If you want, I'll crush the moon and make comets fall like rain!`
+char_bea: ` I can even bury the whole island in those bouncy‐chested babes you like so much, seeeeeeeeee??`
+char_bea: ` Hihhihhihhihhi!!"`
+char_bea: `"Come come, look look look, my turn is over, seeeeeeeeee?!`
+char_bea: ` Show me your response, counterattack!!`
+char_bea: ` You can't, can yoooooouuu?`
+char_bea: ` I'm a quadrillion percent sure that you can't!!`
+char_bea: ` You're useless against this, riiiiiiiiiight?`
+char_bea: ` You actually like this kind of fantasy, don't yooooouuu??"`
+char_bea: `"I know all about it, this kind of stuff's been going around everywhere lately hasn't it?!`
+char_bea: ` In manga and light novels, in anime and movies!`
+char_bea: ` Some teenage brat has a whole bunch of some strange special abilities, and there's all these kabooms and badooms with the fate of the world at risk!"`
+char_bea: `"You looove that too, don't you?!`
+char_bea: ` I know, don't hide it, you love it, right, hiihyahhyahhyah!!`
+char_bea: ` That thing that you love just displayed itself a little before your eyes, that's all, riiiiight?"`
+char_bea: `"Why do you believe it in manga and anime, but you won't believe in meeeeeeeeee??`
+char_bea: ` Believe, believe, believe it!`
+char_bea: ` You can't argue back, not after you've been shown something like this, riiiiiiiiiiiiight?"`
+char_bea: `"C'mon c'mon c'mon c'mon, answer me,`
+char_bea: ` you don't need to think, you can just obediently say "I'm sorry, {f:5:Beatrice}‐sama"!"`
+char_bea: `"Come on come on try saying it, "I'm sorry, {f:5:Beatrice}‐sama", try saying it, say it say it, don't be embarrassed,`
+char_bea: ` kukikiki{0}kak{0}ka{0}ka{0}kah{0}hyah{0}hya{0}a{0}a{0}ah{0}ha{0}hha{0}hha{0}ha{0}hhha{0}hahhya{0}aahh!!"`

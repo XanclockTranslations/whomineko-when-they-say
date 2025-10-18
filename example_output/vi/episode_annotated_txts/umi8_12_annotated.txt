@@ -1,0 +1,794 @@
+char_en2: `"And then, you see,`
+char_en2: ` the public will be told that, among the works entered into the first Company X mystery novel contest, a work from the amazing Hachijo was once again submitted under a false name..."`
+char_en2: `"Of course, we'll have produced a movie version and a TV drama, all of it ready for a simultaneous and coordinated launch...!`
+char_en2: ` I hope this makes clear how eager we are at Company X to receive your manuscript...!!"`
+char_bu3: `"And will there be prize money?"`
+char_non: `"But of course...!`
+char_non: ` The ten million yen prize for Company X's first mystery novel contest will all go to you!`
+char_non: ` And much more besides!!"`
+char_bu3: `"Splendid.`
+char_bu3: ` You've caught my interest.`
+char_bu3: ` That's why I've decided not to write up a manuscript."`
+char_non: `""Whaaaaaaaa?!?!`
+char_non: ` M‐Madam Hachijo, whyyyyyyyy...?!!!""`
+char_non: `Everything had seemed to be going so smoothly up until then, so this sudden refusal made the people from the publishing company fall over in their sofa.`
+char_bu3: `"This little scheme of yours is far more interesting than the manuscript I wrote.`
+char_bu3: ` Which is why this manuscript is unsuitable for your company.`
+char_bu3: ` ......It was always a worthless story.`
+char_bu3: ` Mere junk prose to entice my ignorant readers into somehow ignoring their own ignorance and feeling as though they have exhausted the limits of reasoning."`
+char_bu3: `"I was hoping that they'd recognize the irony and laugh at their own foolishness,`
+char_bu3: ` but it looks like you've taken it seriously.`
+char_bu3: ` Yes, I can say I'm ashamed at my own failure as a writer."`
+char_non: `"O‐o‐of course not!!`
+char_non: ` Please, forgive us!! Please, let us use your work!!"`
+char_bu3: `".........I have no need for money, but some pet food would be nice."`
+char_non: `"Pet food?`
+char_non: ` O‐oh, for your cat...!!"`
+char_non: `"Th‐there was a rumor that you had a cat who liked dried plums!`
+char_non: ` Y‐yes, as you wish...!`
+char_non: ` Quickly, let's have a high‐quality assortment of dried plums in here!!"`
+char_bu3: `"She only eats the ones that are packaged separately, at 200 yen apiece.`
+char_bu3: ` ......At this rate, she'll die of high blood pressure.`
+char_bu3: ` She snacks on kimchi and spicy miso soup all the time too...`
+char_bu3: ` Really, there must be something wrong with that cat's tongue."`
+char_non: `Mii!`
+char_non: ` The cat meowed an objection from where it lay on top of the bookshelf.`
+char_bu3: `"I cannot give you this manuscript, but why don't I write up a new one for your company's contest?`
+char_bu3: ` However, I won't write it under my name.`
+char_bu3: ` It's estimated that thousands of manuscripts will be sent in for your contest.`
+char_bu3: ` If you manage to pick out mine from the pack, and if you also find it deserving of the prize, then I would be happy to continue our discussion just now.`
+char_bu3: ` .........How does that sound?"`
+char_non: `""Y‐yes, of course!!`
+char_non: ` Just the honor of receiving your manuscript is more than enough!!""`
+char_bu3: `"You people truly are amusing, fawning and cringing all the time.`
+char_bu3: ` But I've grown weary of this for today.`
+char_bu3: ` Leave now.`
+char_bu3: ` Meeting with the children of man can be so tiring."`
+char_non: `""Thank you!!`
+char_non: ` We are deeply grateful for your kindness in allowing us this meeting!!!""`
+char_non: `A servant guided the people from the publishing company to the door.`
+char_non: `In the study that was now finally quiet, Hachijo Tohya let out a sigh, slumped down in the sofa, and gazed at the ceiling.`
+char_bu3: `"It is tiring, but the stimulation of talking with a child of man isn't such a bad thing, in small doses."`
+char_non: `".........It's good for you to talk to people every now and then.`
+char_non: ` ......You'll go senile if you stay shut in all the time."`
+char_non: `The black cat leapt from the bookshelf and landed softly on the carpet.`
+char_non: `Then its form silently twisted and became that of {f:5:Bernkastel}.`
+char_bu3: `"Indeed.`
+char_bu3: ` They certainly can be entertaining.`
+char_bu3: ` Inviting them over now and then may go a long way to alleviating my boredom.`
+char_bu3: ` .........At any rate, I think I will write that manuscript...when I feel like it.`
+char_bu3: ` It sounds like they'll even bring a gift for you."`
+char_ber: `"What's all this about pet food?`
+char_ber: ` How rude."`
+char_bu3: `"Well, that's what it is.`
+char_bu3: ` ......Here."`
+char_non: `Hachijo picked up a jar from a shelf, then took a dried plum out and threw it into the air.`
+char_non: `In an instant, {f:5:Bernkastel} turned back into a black cat, caught it in midair, and started munching away.`
+char_non: `"......Miss Hachijo, your guests have departed."`
+char_non: `A servant knocked on the door before making this announcement.`
+char_bu3: `"Thank you.`
+char_bu3: ` ......Let me know if that one wakes up."`
+char_non: `"As you wish.`
+char_non: ` ......Would you like some tea?"`
+char_bu3: `"No.`
+char_bu3: ` I'm going to write for a bit.`
+char_bu3: ` Please do not disturb me."`
+char_non: `"Yes, ma'am."`
+char_non: `After waiting for the servant's footsteps to disappear into the distance, Hachijo moved to her desk.`
+char_non: `The desk certainly looked as though it belonged to a great writer, with pages of manuscript scattered across it.`
+char_ber: `"......Even though the century's almost over, you still write with a pen?"`
+char_non: `The black cat spoke as it tore the dried plum apart with its mouth.`
+char_bu3: `"Tales are to be written with ink.`
+char_bu3: ` To me, that is an unbreakable rule."`
+char_ber: `"......So, you write it once with ink, then type the whole thing over again with a keyboard.`
+char_ber: ` ......Pretty stupid, doing the same thing twice."`
+char_bu3: `"In that case, why does a child of man draw up a tale in their mind, and then spit the whole thing out again on a keyboard?`
+char_bu3: ` ......How foolish of them to do the same thing twice."`
+char_ber: `"Look at it that way, and you're doing the same thing three times."`
+char_bu3: `"......Pft, ......*cackle*cackle*.`
+char_bu3: ` That was a good one."`
+char_non: `Even as Hachijo laughed, her fountain pen was already sliding across the page.`
+char_non: `Beautiful letters appeared almost as fast and proficiently as a typewriter.`
+char_non: `......Only {y:0:Human}{n:0:human}s called her creations "manuscripts".`
+char_non: `With her fountain pen and writing paper, she was creating a world......`
+char_non: `{n}As she did, the hands of the clock would spin around like a top.`
+char_non: `The light and shadows that came in through the window changed their angle so fast, they might have been the hands of a clock themselves...`
+char_non: `......Slowly, she drew a large X across the tightly packed words on the paper.`
+char_ber: `".........Having trouble?"`
+char_bu3: `"......I can't draw it out well.`
+char_bu3: ` ......Writing a manuscript to please others is truly a pain.`
+char_bu3: ` ......After all, I don't usually write for other people to read."`
+char_ber: `"Why don't you just try taking whatever it is you're trying to say and writing that down......?"`
+char_non: `{f:5:Bernkastel} curled up on the sofa, a mocking smile on her face.`
+char_non: `Normally, whenever Hachijo was writing, {f:5:Bernkastel} would never let herself be noticed, much less talk to her.`
+char_non: `However, realizing that Hachijo was apparently getting bored with her manuscript, {f:5:Bernkastel} yawned and started talking.`
+char_ber: `"What is it you're writing, anyway?"`
+char_bu3: `"............A tale to give to a child of man."`
+char_ber: `"Which child of man?"`
+char_bu3: `"......It's a tale I promised to write for a miko who once Read for me."`
+char_ber: `"Ah......`
+char_ber: ` You're still writing that?"`
+char_bu3: `"What can I write that would give her satisfaction?`
+char_bu3: ` ......The answer is no longer clear to me."`
+char_ber: `"......Looks like Auau's giving up yet again.`
+char_ber: ` ......You always promise to write a story, then get stuck before you're finished and give up."`
+char_bu3: `"If I had given up, I wouldn't be worrying over it like this."`
+char_ber: `".........There's only one tale that Ange's wanted from the beginning."`
+char_bu3: `"The tale of the Single Truth..."`
+char_ber: `"Ange wishes to know what happened that day.`
+char_ber: ` No matter how many tales you write distorting the truth, she'll never be satisfied."`
+char_bu3: `"And yet, I do think my tales are far more interesting than the Single Truth."`
+char_ber: `"Ange doesn't want to read an interesting tale."`
+char_bu3: `"......I promised that child of man that I would write a tale for her sake.`
+char_bu3: ` So, I'm writing a tale to please her."`
+char_ber: `"No matter how interesting or uninteresting it is,`
+char_ber: ` everything you write is an illusion.`
+char_ber: ` Ange doesn't want any of that.`
+char_ber: ` ......Haven't you figured that out yet?"`
+char_bu3: `".........The Book of the Single Truth...was written by Ushiromiya Eva."`
+char_non: `Hidden amongst the pile of writing paper......was Eva's diary.`
+char_bu3: `"Furthermore, the one who wrote this passed away without revealing it to anyone.`
+char_bu3: ` ......Being the humble writer that I am, I would like to respect that."`
+char_ber: `"......Don't make me laugh.`
+char_ber: ` Is this coming from the person who entertains herself by tearing out the guts of a tale while enjoying a glass of wine by the light of the moon?"`
+char_bu3: `"The truth...is uninteresting."`
+char_ber: `"Is that your opinion after tearing apart the guts of so many tales?"`
+char_bu3: `"..................`
+char_bu3: ` ...You might as well say that."`
+char_non: `With a self‐mocking laugh, Hachijo set down her fountain pen.`
+char_bu3: `"I certainly have aged.`
+char_bu3: ` .........The first thing age taught me was that "not knowing" is more precious than "knowing"."`
+char_ber: `"That definitely sounds like something an old person would say, but I'll play along.`
+char_ber: ` What do you mean?"`
+char_bu3: `""Knowing" and "not knowing".`
+char_bu3: ` These two things have a one‐way relationship."`
+char_ber: `"True.`
+char_ber: ` ......It's possible to switch from "not knowing" to "knowing", but you can't do it the other way around."`
+char_bu3: `"When I realized that,`
+char_bu3: ` ......I saw the noble purity resembling virginity...that exists in not knowing."`
+char_ber: `".............................."`
+char_bu3: `"In my attempts to escape boredom, I've torn apart and eaten the guts of as many games and tales as there are stars in the sky.`
+char_bu3: ` ......But always, my relief from boredom is short‐lived. It's all so fleeting that I've lost sight of the value in each individual tale."`
+char_ber: `"......That's right.`
+char_ber: ` If you eat a cat, then you only get to enjoy it for one night.`
+char_ber: ` But if you let it live, it might start calling you names and getting sarcastic."`
+char_bu3: `"Indeed.`
+char_bu3: ` ......Even the annoying way they break into your sweets cupboard or sneak into your bed can be part of their charm."`
+char_non: `Hachijo looked around at the books covering every square inch of the room, then softly pet the cat's back.`
+char_bu3: `"I might have been able to enjoy a single tale much longer and much more deeply.`
+char_bu3: ` ......As I've eaten my way through countless tales to escape boredom, I haven't really been eating them.`
+char_bu3: ` ......I've just been killing them.`
+char_bu3: ` ......And, in the end, they'll kill me too."`
+char_non: `Hachijo laughed with self‐derision.`
+char_ber: `".........Even in Beato's game, you tried to tear the guts out."`
+char_bu3: `"I just wanted to check my answers.`
+char_bu3: ` I did try to do it in a way that respected {f:5:Beatrice}, the weaver of this tale."`
+char_ber: `".........Yeah.`
+char_ber: ` ......I think it was pretty well Read, all done so that people who didn't understand wouldn't find the answers."`
+char_bu3: `"Will it make for a better tale if Ange learns the truth, or if she doesn't? ......To be honest, I don't know anymore.`
+char_bu3: ` So, fully aware that you'll scorn me for it,`
+char_bu3: ` ......I've decided to stop writing the rest of this tale."`
+char_ber: `"......What do you mean?"`
+char_bu3: `"I won't write it.`
+char_bu3: ` I will merely record it.`
+char_bu3: ` ......The tale that Ushiromiya Ange weaves herself."`
+char_ber: `"So, ......you're going to do that sort of thing again?"`
+char_bu3: `"After growing tired of a thousand years of life, I am of the opinion that deliberately choosing not to learn the truth is the more noble path.`
+char_bu3: ` ......However, I now see that it isn't fair to force my opinion on Ange, who hasn't lived even a hundred years."`
+char_ber: `"So, ......you're going to leave it in Ange's care?"`
+char_bu3: `"Yes.`
+char_bu3: ` I will write it as it plays out."`
+char_ber: `"......If you're leaving it to Ange, ......then the future course of this tale is all but set in stone, right...?"`
+char_bu3: `"It would seem so.`
+char_bu3: ` .........Let it be so.`
+char_bu3: ` ......After all, in the end, a tale that a child of man weaves for herself will be more fun than any story I could create."`
+char_ber: `"In that case, why don't you lend a hand in Ange's tale?`
+char_ber: ` You've already given yourself a role in it, haven't you...?"`
+char_bu3: `".........Hmm.`
+char_bu3: ` ......So, it is my role to bring this tale to its conclusion."`
+char_ber: `"Come on, that's no way for someone in Beato's game to talk.`
+char_ber: ` ......It's your job to tear the guts out of the cat box."`
+char_non: `Hachijo chuckled, pushed aside the pile of writing paper, and picked up the Book of the Single Truth.`
+char_non: `Then, she opened a locked drawer.`
+char_bu3: `"......That is what Ange desires.`
+char_bu3: ` ......Perhaps fate has decided that this book's seal is to be broken.`
+char_bu3: ` ......Ange will reach the Single Truth, the Single Truth will break the seal on the cat box, and everything will be exposed to the light of day."`
+char_bu3: `"And so, all of those countless message bottles and fragments made up of delightful imaginings, which have been scattered across the ocean of the internet, will fade away like foam on the sea.`
+char_bu3: ` .........After all, even that one has surely tired of such fragments."`
+char_ber: `"It's about time for that kid's journey to end as well."`
+char_bu3: `"......Yes, let us accept this task.`
+char_bu3: ` Let us bring this journey to its final destination."`
+char_non: `At that moment, there were sounds of someone in the hallway.`
+char_non: `The instant someone knocked on the door, {f:5:Bernkastel} turned back into a black cat.`
+char_non: `"......Miss Hachijo, please forgive me for interrupting."`
+char_non: `It was the voice of Hachijo's servant.`
+char_bu3: `"What is it?`
+char_bu3: ` If it's a phone call, tell them I'm busy."`
+char_non: `"It isn't that.`
+char_non: ` ......Tohya‐sama has woken up."`
+char_bu3: `"Thank you.`
+char_bu3: ` Prepare a light meal.`
+char_bu3: ` Enough for the two of us."`
+char_non: `"As you wish."`
+char_non: `Hachijo stood up.`
+char_non: ` Then, she shut the open drawer and locked it again.`
+char_non: `Inside that drawer.........lay a glittering golden key......`
+char_eri: `"Repetition requested!! `
+char_eri: `"The definition of a locked room prevents all varieties of entering and exiting"!"`
+char_but: `"Decline repetition!!`
+char_but: ` By definition, it is impossible for a locked‐room murder to take place inside a perfect locked room!"`
+char_eri: `"{p:2:The chain might have been repaired after it was destroyed!`
+char_eri: ` The door might have been repaired after it was destroyed!`
+char_eri: ` The wall might have been repaired after it was destroyed}!!"`
+char_but: `"{p:1:My locked room doesn't involve anything being repaired}!!"`
+char_eri: `"<Good>!`
+char_eri: ` This really is getting fun, Battler‐san...!"`
+char_but: `"Sorry, but I don't have time to play with you right now!"`
+char_eri: `"I'm sorry too, but as a fellow Witch of Truth, I can't let you get in Ange‐san's way."`
+char_but: `"......Come to think of it, you're a Witch of Truth too, aren't you?`
+char_but: ` I see, that makes you a sort of mentor to Ange."`
+char_eri: `"The Single Truth!!`
+char_eri: ` It is the supreme, the ultimate!!`
+char_eri: ` Only a Witch of Truth can break down all barriers that stand between her and that truth!"`
+char_but: `"Is this Single Truth of yours really so important...?!`
+char_but: ` There are lots of things in this world that aren't worth knowing.`
+char_but: ` How important is 1986 to Ange, really?!`
+char_but: ` It isn't important at all!"`
+char_eri: `"*giggle*giggle*!`
+char_eri: ` You're probably right!`
+char_eri: ` No matter what happened or didn't happen in 1986,`
+char_eri: ` it won't change anything for the Ange living in 1998!`
+char_eri: ` There's no point in learning that truth.`
+char_eri: ` However, there is just one thing that will change."`
+char_but: `"What's that?"`
+char_eri: `"How she lives!!"`
+char_non: `Erika transformed her reasoning into a scythe's blade and lashed out at Battler over and over.`
+char_non: `Battler also created a blade from his reasoning and attacked Erika over and over.`
+char_non: `In the middle of all this, he questioned Erika, the girl who, like Ange, called herself a Witch of Truth.`
+char_non: `Just what is the point of exposing the truth?`
+char_but: `"You're right.`
+char_but: ` Knowing certain things often changes the way a person lives her life.`
+char_but: ` ......In that case, I have one hope as her blood relative.`
+char_but: ` I hope that, at the end of my game, Ange finds a better way to live her life."`
+char_eri: `"By learning things, people change the way they live, but not always in a good direction.`
+char_eri: ` There are plenty of things in this world that you'll be more comfortable not knowing."`
+char_but: `"The number of ticks living in the seats on a train.`
+char_but: ` Those urban legends about nasty stuff in the tap water.`
+char_but: ` The world's full of things you'd be better off not knowing...!!"`
+char_but: `"The Book of the Single Truth probably can teach Ange what happened on this island.`
+char_but: ` But what's the point in her knowing that?!`
+char_but: ` It'll just increase the sadness she's felt for twelve years!`
+char_but: ` How many more years will it take for her to find happiness as an ordinary girl...?!`
+char_but: ` How many years will it take for her wounds to be healed...?!!"`
+char_non: `Ange's desire to find the truth is hurting her, regardless of what the truth actually is.`
+char_non: `Though her deep wounds were slow to heal, they did begin to do so during those twelve years.`
+char_non: `However, Ange kept picking at the scabs.`
+char_non: `In her search for the truth, she tore at those wounds herself, opening them up once more...`
+char_but: `"It's time for Ange to be free of her sadness from 1986...!!`
+char_but: ` That's the thing all of us Ushiromiyas pray for!!"`
+char_eri: `"Who cares about that?!`
+char_eri: ` The truth is everything! The truth is justice!!"`
+char_but: `"That's a disease everyone catches at one time in middle school...!`
+char_but: ` The desire to find out all those things adults are hiding!"`
+char_eri: `"And don't you think it's fun to find that out?"`
+char_but: `"Yeah, totally.`
+char_but: ` Reading dirty books wouldn't be nearly so fun if you didn't have to do it in secret."`
+char_eri: `"......Pft—"`
+char_non: `""Waha{0}ha{0}ha{0}ha{0}ha{0}ha{0}ha{0}haha!!""`
+char_bea: `"{p:1:I deny all of your blue wedges with the red truth.`
+char_bea: ` None of the methods you suggest could defeat my locked room}!!"`
+char_en2: `"...................................."`
+char_non: `Ange was breathing heavily.`
+char_non: ` The Book of the Single Truth was right before her eyes.`
+char_non: `If she could just defeat Beato, she'd be able to take the book to {f:5:Bernkastel}, and then she could read what was inside.`
+char_non: `......Even though the truth of the final family conference on October 4th and 5th, 1986, was right there, ......the Golden Witch stood in her way.`
+char_non: `Her anger and hatred spun around inside her head, wiping out the composure that she needed to create theories.`
+char_non: `Ange shook her head several times, clearing away everything that got in the way of thinking.`
+char_non: `However, no matter how many times she thought it through, the locked room sealing her in the chapel was perfect.`
+char_non: `Ange wasn't particularly familiar with the mystery genre.`
+char_non: `However, she knew about all the fragments containing Beato's games so far.`
+char_non: `Her knowledge was shallow, but it should still have been enough to give her a good foothold.`
+char_non: `However, .........no matter how many blue truths she shot at Beato, none of them even made the witch flinch...`
+char_non: `Beato just blew them apart with the red truth and an elegant wave of her pipe.`
+char_bea: `"It's about time you gave up.`
+char_bea: ` I don't even view this as a game between the two of us."`
+char_en2: `".........Are you trying to say that I could never solve this puzzle?"`
+char_bea: `"I'm just buying time until Battler finishes entertaining Erika.`
+char_bea: ` He's the only one who can bring you to your senses."`
+char_en2: `"Bring {i:me} to my senses?`
+char_en2: ` .........You're the ones doing this to me by hiding the Single Truth!!`
+char_en2: ` That's why I'm fighting you!!`
+char_en2: ` This is my right!!`
+char_en2: ` As the final member of the Ushiromiya family, I have a right to know the truth!"`
+char_bea: `"Indeed.`
+char_bea: ` And that is the purpose of this final game."`
+char_en2: `"......That's right.`
+char_en2: ` Without this final game, I wouldn't have been given a chance to reach the truth.`
+char_en2: ` At least for that one thing, I'm grateful."`
+char_bea: `"But as for what happened in 1986...`
+char_bea: ` As for who took your relatives and your family away from you...`
+char_bea: ` As a {y:0:Human}{n:0:human}, your desire to know the truth is quite natural.`
+char_bea: ` ......However, even knowing this, Battler decided that it would be best if you didn't return to 1986."`
+char_en2: `"I know what Onii‐chan's trying to say...!`
+char_en2: ` He's telling me to look to the future and live, instead of being stuck in the past, right?!"`
+char_bea: `"Correct.`
+char_bea: ` Battler...`
+char_bea: `wanted to use this final game to show you that."`
+char_en2: `"In that case, I gave my answer at the beginning.`
+char_en2: ` It's "thanks but no thanks", Golden Witch...!`
+char_en2: ` Back in 1986, I was already dead.`
+char_en2: ` I've wandered about like a ghost for twelve years since then...!`
+char_en2: ` And when Aunt Eva died, I lost my only reason to stick around on this Earth as a ghost!`
+char_en2: ` That's why I decided to do one last thing before ending my life!!"`
+char_bea: `"And that thing would be learning the truth of 1986?"`
+char_en2: `"Yeah! Something wrong with that?!?!"`
+char_bea: `"Indeed there is, foolish girl!!`
+char_bea: ` So, when you do reach the truth, you plan to die...!`
+char_bea: ` In that case, I can't let you have it...!!`
+char_bea: ` I must trick you and blind you as much as I can...to keep you alive!`
+char_bea: ` Battler wants you to live...!!"`
+char_en2: `"Life without truth is no better than being dead!!`
+char_en2: ` I'm trying to find the truth so I can live!!"`
+char_bea: `"You just admitted you were searching for the truth so you could die."`
+char_en2: `"Yeah, that's true.`
+char_en2: ` Then let me rephrase that...!`
+char_en2: ` I'm trying to find the truth so I can die!!`
+char_en2: ` I offered up my life when I made my contract with {f:5:Bernkastel}!!`
+char_en2: ` All so that I could learn what happened that day!!`
+char_en2: ` That Single Truth will be the souvenir I take with me to hell!!!"`
+char_bea: `"{p:1:It's useless.`
+char_bea: ` You cannot break this locked room.`
+char_bea: ` This locked room is perfect...!`
+char_bea: ` And yet, I kill you in this locked room}!!"`
+char_non: `She had tried every theory and idea she could think of, even those so absurd they qualified as nonsense.`
+char_non: `However, none of it had any effect on Beato.`
+char_non: `Powerless and frustrated, with the Book of the Single Truth right before her eyes, ......Ange bit her lower lip.`
+char_bea: `"At first, this was supposed to be a game in which you were given a key. A key that would let you decide your future."`
+char_en2: `"Liar.`
+char_en2: ` You wanted to hide the truth in this chapel, them make me choose a door that leads to some optimistic future.`
+char_en2: ` ......That's not a choice! You're trying to decide for me!!"`
+char_bea: `"Parents have the right to prevent their children from making unsuitable choices."`
+char_en2: `"I'm not a kid!!`
+char_en2: ` I'm an eighteen‐year‐old woman, who can think and act for herself...!!"`
+char_bea: `"Fool!!`
+char_bea: ` You're just a six‐year‐old girl, who can't think of anything except the past!!"`
+char_en2: `"And whose fault is that?!!`
+char_en2: ` Because of you, ......I've been stuck as a six‐year‐old all this time!!`
+char_en2: ` Now it's time for me to tear apart your illusion covering the truth!!"`
+char_en2: `"Yes, now that I think about it, it's not this chapel that you've locked me inside!`
+char_en2: ` Since that day in 1986, for all these years, ......you've had me locked away in a locked room where I'm all alone, and where no one will tell me the truth!!"`
+char_en2: `"And now......I'll tear your locked room apart with my own hands!!`
+char_en2: ` ......Yeah, it's no good, it's no good at all.`
+char_en2: ` I know the trick to your perfect locked room!!`
+char_en2: ` Repetition requested!!`
+char_en2: ` "You murdered me immediately after shutting me into this locked room!""`
+char_bea: `"............!`
+char_bea: ` I decline."`
+char_en2: `"Of course you do.`
+char_en2: ` ......You spend the next eighteen years killing me.`
+char_en2: ` Thanks, {f:5:Beatrice}.`
+char_en2: ` ......If you hadn't reminded me, I wouldn't have figured out the trick."`
+char_bea: `"............Ange.`
+char_bea: ` You are young, and you have a long future ahead of you.`
+char_bea: ` In fact, you are a Golden Witch living in the future, are you not?`
+char_bea: ` Then live in the future.`
+char_bea: ` Just how much is a truth of the past really worth?`
+char_bea: ` Isn't the truth of the future, the truth that you will create yourself, far more important...?!!"`
+char_en2: `"My life is trash.`
+char_en2: ` My whole family died, leaving just me behind.`
+char_en2: ` That's why I'm going back to them once I've gotten my Single Truth."`
+char_bea: `"If you learn the truth, you'll just have to accept your family's deaths...!`
+char_bea: ` Haven't you ever thought about living on, hoping that by some miracle, one of them might have survived? And that someday, you might get a chance to see them again...?!"`
+char_en2: `"Don't worry.`
+char_en2: ` Even the Witch of Miracles couldn't find a fragment like that."`
+char_non: `Almost none of the family's remains were recovered from the Great Rokkenjima Explosion.`
+char_non: `Some days, ......I hoped that this might be a sign that they had escaped the explosion and survived......and that hope gave me the strength to live on.`
+char_non: `However, that hope wasn't strong enough to support me for twelve long years.`
+char_en2: `"So, even though I wanted to know the truth, I was unconsciously averting my eyes.`
+char_en2: ` ......I felt that learning of my family's deaths for certain would force me to deny any possibility of someone miraculously surviving."`
+char_en2: `".........But I'm tired of living on and on, with nothing but that impossible hope of a miracle to keep me going."`
+char_en2: `"That's why I decided to accept my family's deaths.`
+char_en2: ` I decided to accept the truth, no matter what it is.`
+char_en2: ` That's why I became a Witch of Truth...!!"`
+char_bea: `"......How foolish, to be blinded by the truth of the past and unable to see one's own future......!`
+char_bea: ` Forgive me, Battler.`
+char_bea: ` ......I was not strong enough to guide your sister to a proper future..."`
+char_non: `A blazing blue wedge appeared in Ange's hand.`
+char_non: `{n}It was long, thick, and shaped like a spear.`
+char_en2: `"This is the end, witch of 1986.`
+char_en2: ` ......{p:2:This locked room is perfect!!`
+char_en2: ` Therefore, I can't get out, and you can't lay a finger on me from the outside!`
+char_en2: ` However, you {i:locked me into} this room!`
+char_en2: ` And there's just one trick that makes that the same as you "killing" me...!!`
+char_en2: ` You shut me in this perfect locked room and made me starve to death...!!`
+char_en2: ` Since you intentionally did this, there's no problem saying that this was a locked room murder with you as the killer}!!"`
+char_en2: `"It looks like being overly vague with the cause of death backfired on you.`
+char_en2: ` .........So long, witch of illusions.`
+char_en2: ` <See you in hell>."`
+char_non: `With the stained glass window behind her, Beato spread her arms and let the spear of the blue truth pierce her.`
+char_non: `The blue spear seemed to crucify Beato against the window.`
+char_bea: `".........Nng.........gah............"`
+char_en2: `"Game set.`
+char_en2: ` ...So, this is Aunt Eva's diary, ......the Book of the Single Truth."`
+char_non: `Ange picked the book up from where it lay on the altar, sealed in crystal.`
+char_bea: `"......If you read that, then by your contract with {f:5:Bernkastel}, you will die...`
+char_bea: ` .........Learning the truth just to die?`
+char_bea: ` Ridiculous...!!"`
+char_en2: `"That's right.`
+char_en2: ` I'm looking for the truth so I can die.`
+char_en2: ` ......At least let me choose how I go.`
+char_en2: ` .........I'm not an idiot.`
+char_en2: ` ......I know the real me is still.........floating in that starry sky."`
+char_non: `{f:5:Bernkastel} acknowledged me as the final {f:5:Beatrice} and invited me on a journey to learn the truth of 1986.`
+char_non: `There would be no coming back from that journey.`
+char_non: `When {f:5:Bernkastel} told me that and walked off the roof into the black sky, ......I followed her into the empty air.`
+char_non: `That was the contract.`
+char_non: ` I wanted two things from {f:5:Bernkastel}.`
+char_non: `One was for someone from my family to come back.`
+char_non: `{n}The other......was revenge.`
+char_non: `To destroy the witch illusions concealing the events of that day.`
+char_non: ` In other words, to reach the truth.`
+char_non: `However, the first of my wishes couldn't come true.`
+char_non: `After all, even the Witch of Miracles couldn't find a fragment where my family came home.`
+char_non: `So, she wordlessly questioned me.`
+char_non: `She told me that I couldn't reach the truth unless I had the courage to end this worthless life, living like a ghost and hoping someone might come back.`
+char_non: `So, she walked out into the open air, and I followed her.`
+char_non: `Yes, now I can understand.`
+char_non: `When I offered to trade away my life that day, ......I made one wish and gave up on another.`
+char_non: `I wished for revenge against the illusion that hid the truth.`
+char_non: `And now, I have succeeded in that revenge, defeating the master of that illusion and obtaining the Book of the Single Truth.`
+char_non: `What I gave up was my naivety, my continuing belief that someone from my family might come back.`
+char_non: `And now, I can accept that my entire family is dead.`
+char_en2: `"......How can you say someone's alive just because you don't know?`
+char_en2: ` This cat box of yours is just a naive illusion, the idea that hiding a corpse means you can pretend it might still be alive!`
+char_en2: ` But even if you hide a corpse, it's still dead...!!"`
+char_en2: `"You really think you can heal my wounds by saying they'll always be watching over me from the clouds, like some kind of fairy tale?!`
+char_en2: ` I'm {f:5:Ange Beatrice}, Witch of Truth!!`
+char_en2: ` I'll free myself from that life as a ghost, waiting for a miracle that'll never happen! I'll end my life as a noble martyr who's reached the truth...!!"`
+char_bea: `"......Didn't you come to understand the power of magic through Maria's grimoire......?"`
+char_en2: `"Yeah,`
+char_en2: ` I understood it.`
+char_en2: ` And then I despaired when I realized how powerless it was.`
+char_en2: ` ......And that's what Onii‐chan is trying to force me to use now, isn't it?`
+char_en2: ` ......If I believe, if I use magic, ......then my family will always be by my side."`
+char_en2: `".........Don't take me for a fool!!!`
+char_en2: ` You think that kind of magic, that illusion, that daydream......can heal those twelve years?!`
+char_en2: ` And how am I supposed to go on for decades and decades into the future?!"`
+char_en2: `"Someone, come back to me, someone!!`
+char_en2: ` But no one's coming back!!`
+char_en2: ` So, at least tell me what happened that day!!`
+char_en2: ` {f:5:Bernkastel} said she'd tell me...!!"`
+char_en2: `"Yes, my master, I have the Book of the Single Truth...!`
+char_en2: ` I'll bring it back to you, so let me have the truth!!`
+char_en2: ` For a long time now, I've been prepared to abandon my naive hope in the miracle that my family might be alive!!`
+char_en2: ` So now, tell me the truth of that daa{-}a{-}a{-}a{-}a{-}a{-}a{-}a{-}a{-}aay!!!"`
+char_non: `A blinding light poured out of the chapel.`
+char_non: `It seeped from the windows and the cracks of the door, even reaching as far as Battler's and Erika's eyes.`
+char_but: `".........What...?!"`
+char_eri: `"It would seem that comrade Ange has completed her task.`
+char_eri: ` It looks like you've used some useless seal, but to my master, that'll be easier than thawing frozen saury fish."`
+char_but: `"......D‐damn......!!"`
+char_eri: `"Master said I could play with you until Ange finished her task.`
+char_eri: ` I've had enough fun from this reunion, so I think it's time for me to leave."`
+char_non: `Erika gave an elegant curtsey.`
+char_but: `"Why did you talk Ange into looking for the Single Truth?!`
+char_but: ` Your master must know...!`
+char_but: ` That truth doesn't mean anything for Ange!"`
+char_eri: `"Yes.`
+char_eri: ` All truths in this world are meaningless.`
+char_eri: ` In the end, "meaning" comes from the mind of each individual human.`
+char_eri: ` ......Even when there is a Single Truth, it can mean different things to different people!`
+char_eri: ` The truth has no meaning in itself!`
+char_eri: ` There's just one reason why I insist upon the truth despite it all!"`
+char_but: `"Because you're a detective!"`
+char_eri: `"<Good>!!`
+char_eri: ` But Ange‐san isn't a detective.`
+char_eri: ` To her, the truth itself is the finish line.`
+char_eri: ` ......A way to mark the end of her unhappy life."`
+char_eri: `"Now, she's finally finished the last purification ceremony...!!`
+char_eri: ` She's a one‐night Witch of Truth, focused on learning just one truth in order to die!`
+char_eri: ` A temporary witch for the short time until she slams against the ground!!"`
+char_but: `"I won't let Ange die!!`
+char_but: ` No matter how tough it gets, she has to live!!`
+char_but: ` That's the only thing all of us want...!!`
+char_but: ` If she lives, all sorts of magic and miracles would be possible...!!"`
+char_eri: `"If only you'd put your arm around her shoulder and told her that directly, you might not have lost.`
+char_eri: ` ......Your thoughts?`
+char_eri: ` All it takes is to hear you howl, and a deduction like this becomes trivial for Furudo Erika."`
+char_but: `"Live! Angee{-}e{-}e{-}e{-}e{-}e{-}e{-}e{-}e{-}e{-}e{-}e{-}e{-}e{-}e{-}e{-}e{-}e{-}e{-}e{-}e{-}e{-}e{-}e{-}eee!!!"`
+char_but: `He yelled towards the chapel, but Ange probably wasn't even there anymore.`
+char_but: `Battler's yell was swallowed by the empty pitch‐black sky and the sea of rampaging goats...`
+char_eri: `"Comrade {f:5:Eva}.`
+char_eri: ` Our mission is complete. Let's withdraw."`
+char_ev2: `"Oh, are we done already?`
+char_ev2: ` And I was just about to tear the island apart with my own Eva culprit theory...!"`
+char_non: `{f:5:Eva} appeared in midair and cackled.`
+char_ev2: `"Sorry, Battler‐kun.`
+char_ev2: ` I wasn't strong enough.`
+char_ev2: ` ......For twelve years, I protected that kid my own way."`
+char_but: `".........I'm grateful."`
+char_ev2: `"However, she's decided this for herself.`
+char_ev2: ` She's eighteen years old now.`
+char_ev2: ` Don't you think people should decide how they live their own lives?"`
+char_but: `"......Sorry.`
+char_but: ` For being an overprotective big brother."`
+char_ev2: `"Later.`
+char_ev2: ` I'm Lady {f:5:Bernkastel}'s piece at the moment.`
+char_ev2: ` It's time for me to leave."`
+char_eri: `"I'll see you later, comrade {f:5:Eva}."`
+char_non: `{f:5:Eva} held her palm open...and a small, pointy, blue fragment appeared there.`
+char_non: `The fragment burst, and with a blinding flash of light, {f:5:Eva} vanished.`
+char_non: `It was the same light that had seeped out of the chapel earlier.`
+char_non: `......Pieces cannot leave the game board.`
+char_non: ` However, the Voyager witches alone could come and go.`
+char_non: `This was probably some sort of magic that {f:5:Bernkastel} had given them.`
+char_non: `Erika opened her palm as well, and the same sort of fragment appeared there.`
+char_eri: `"Well then, I bid you farewell.`
+char_eri: ` In fact, this might be the last time we see each other."`
+char_but: `"......Wait.`
+char_but: ` We haven't settled our fight yet."`
+char_but: `If he could steal the fragment in Erika's hand, ......he would be able to go to where {f:5:Bernkastel} was.`
+char_but: `The seal surrounding the Book of the Single Truth would probably be broken easily with {f:5:Bernkastel}'s power.`
+char_but: `However, even so, it would take her some time.`
+char_but: `If he could steal that fragment, ......he would have a chance at bringing Ange back...`
+char_eri: `"What is there to settle?`
+char_eri: ` Time's up.`
+char_eri: ` ......However,`
+char_eri: ` ......if you feel like taking one last hit, I'd be happy to oblige."`
+char_non: `He had known that Erika couldn't resist the challenge.`
+char_non: `{n}......After all, Battler already knew what Erika's trick was.`
+char_non: `He'd figured it out just a second ago.`
+char_non: ` Even while he spoke with Erika, he had been thinking about it inside his mind.`
+char_non: `He could finish her with this last strike...and take the fragment......`
+char_but: `"Let's go, Erika.`
+char_but: ` ......This'll decide it...!!"`
+char_eri: `"This'll be the last one before I go,`
+char_eri: ` so go ahead and give me the craziest of your hilarious theories."`
+char_but: `"Your locked room definition claimed that the walls, windows, floor, ceiling, and chain were all unbeatable!!`
+char_but: ` However, there was one possibility that I didn't check because it was too ridiculous!"`
+char_but: `"And that was whether or not the chain could be set from the outside!!"`
+char_eri: `".........!"`
+char_but: `"Blue truth!!`
+char_but: ` This is the answer to your locked room!!`
+char_but: ` The length of the chain!!`
+char_but: ` {p:2:The chain for your locked room was extra long, so it was possible to set and unset it from outside the room}!!!"`
+char_non: `What a ridiculous answer.`
+char_non: `However, if you blindly assume that a lock made by an unbreakable chain makes a locked room unbeatable, then this truly would be a perfect locked room.`
+char_non: `The blue wedge flung from Battler's hand plunged straight into Erika's chest.`
+char_non: `As she winced in pain, her hand shook, ......and the fragment she held flew into the air.`
+char_eri: `".........Your locked room definition claimed that the walls, windows, floor, door, and chain were all unbeatable!!`
+char_eri: ` However, wasn't there one really ridiculous thing missing?!`
+char_eri: ` Blue truth!!`
+char_eri: ` {p:2:Your locked room had no ceiling, so it was possible to enter by climbing over the wall}!!!"`
+char_non: `Erika's blue scythe swung out from behind her back, catching Battler in the side as he stretched his hand out towards the fragment.`
+char_non: `Battler's hand......didn't reach it.`
+char_non: `{n}The fragment returned to Erika's hands once more.`
+char_eri: `"It looks like our tricks were equally ridiculous.`
+char_eri: ` ......The mystery nuts would've been furious, don't you think?"`
+char_eri: `"But I disagree!`
+char_eri: ` To me, the process of exposing that ridiculousness is ecstasy!!`
+char_eri: ` That's why I'm Furudo Erika, the detective!!"`
+char_but: `"......Dammit...... ......You figured out the answer a while back, didn't you......?"`
+char_eri: `"Not true.`
+char_eri: ` I thought it up in the instant between the time you let loose your blue truth and the time you stretched your hand out to grab the fragment.`
+char_eri: ` I've just been buying time since the beginning.`
+char_eri: ` I only started reasoning a second ago!"`
+char_non: `Erika broke the crystal barrier that surrounded them.`
+char_non: `Then, she flew high up into the sky, looking down on Battler and laughing at him as she gave a final bow.`
+char_eri: `"Good day, Battler‐san...!!`
+char_eri: ` Even if this has been my only time to shine!`
+char_eri: ` Even if I've outlived my usefulness and am about to be thrown back into the depths of oblivion!`
+char_eri: ` Even so, I have no regrets!!"`
+char_but: `"W‐wait!!!"`
+char_non: `No one would be foolish enough to wait on command.`
+char_non: `With a blinding flash, Erika vanished.`
+char_non: `Ange had gotten the Book of the Single Truth and returned to {f:5:Bernkastel}.`
+char_non: `......Battler and the others had no way to leave the game board.`
+char_non: `Everything...had come to an end......`
+char_non: `A gold butterfly flitted by, and Beato appeared.`
+char_bea: `"......My apologies, Battler...`
+char_bea: ` ......I let Ange get away......"`
+char_but: `"I'm sorry too.`
+char_but: ` ......I've let them get away. It's all over......"`
+char_non: `Battler had created this game for Ange.`
+char_non: `Now that Ange was gone, the game board no longer had any purpose.`
+char_non: `......And even if that weren't the case, even now, the game board was being chewed apart by the goats, like a single leaf floating on a sea of nothingness...`
+char_non: `Thanks to Gertrude and Cornelia's seals, the mansion was protected from the second floor up.`
+char_non: `The door to the Golden Land was now open wide enough for a child to slip through.`
+char_non: `The smaller people, including Maria and Sakutarou, slipped through it.`
+char_kin: `"......My friend.`
+char_kin: ` I believe the door is opening at a quicker pace."`
+char_gen: `"Indeed.`
+char_gen: ` To my eyes as well, it seems to be so."`
+char_eva: `"........................"`
+char_cla: `"F‐Father...!`
+char_cla: ` Is the door open yet...?!`
+char_cla: ` It looks like they're about to break in through the windows...!!"`
+char_ron: `"Krauss‐sama, there is no need for you to fear.`
+char_ron: ` An Eiserne Jungfrau barrier is not so easily broken."`
+char_wal: `"Very soon, it'll be big enough for adults to go through too.`
+char_wal: ` Don't worry. We'll make it in time."`
+char_kum: `"B‐but...there's knocking and banging everywhere, and—"`
+char_kin: `"Stay calm and wait.`
+char_kin: ` After all, there is nothing for us to do but wait."`
+char_non: `Even the outer walls of the mansion were covered with goats.`
+char_non: `And they were plunging their fangs and fists into the walls and windows, trying to break through them.`
+char_non: `So, there were goats stuck to all the windows in the hallway,`
+char_non: ` smashing their thick arms against the windows in a way that would terrify anyone, even if they knew about the barrier.`
+char_non: `However, anyone watching the group of goats gathered at the top of the big staircase from the safety of the other side of the barrier would probably feel a different emotion.`
+char_non: `Instead of terror, ......it was a sad, empty sort of emotion.`
+char_non: `The barrier was drawn across the landing at the top of the hall's great staircase.`
+char_non: `Beyond that barrier, ......everything had already been eaten away.`
+char_non: `Was it even possible for those who stood in the hallway of the upper floors to believe that this was the Rokkenjima mansion?`
+char_non: `By now, ......no one looking at this scene would be able to imagine such a thing.`
+char_non: `Forget the hall or even the whole first floor...... Even the ground itself was almost gone.`
+char_non: `The sea of goats had eaten everything apart long before this.`
+char_non: `They had eaten apart the hall, the pillars of the mansion, the floor, the ground, the sea, the very concept of the island......every part of the game board Battler had created.`
+char_non: `And now, the only leftover was the upper part of the mansion, which floated along in empty space.`
+char_dla: `"......How {f:5:pitiful}."`
+char_ger: `"To what do you refer?"`
+char_dla: `"......The goats, in their eagerness to chew this island apart,`
+char_dla: ` have eaten up even the ground they stood on, dropping themselves into {f:5:nothingness}."`
+char_non: `This had once been a huge entrance hall.`
+char_non: `Beyond it had been a vast rose garden.`
+char_non: ` ......There had been so many places to stand upon.`
+char_non: `However, now, ......holes had been dug everywhere, and nearly everything outside the mansion was completely gone.`
+char_non: `Some goats were clutching to the few remaining footholds and pillars, still eating away at them.`
+char_cor: `"......It should be known that to expose the truth is to kill."`
+char_dla: `"Why can't humans live without killing, I {f:5:wonder}.`
+char_dla: ` ......Throughout their long history, so many have prayed for miracles,`
+char_dla: ` ......but in the end, they eat up their own chances at receiving a miracle, eating up the very ground they stand on and falling into the {f:5:abyss}......"`
+char_non: `They saw a goat chewing the same pillar that was holding it up,`
+char_non: ` ......which, unsurprisingly, fell into empty blackness along with the goat...`
+char_rio: `"Humans are.........sad creatures, fated to live in order to learn."`
+char_dla: `"..........................."`
+char_rio: `"......If learning means eating away at the same hopes and dreams that keep you alive,`
+char_rio: ` .........that would mean humans are born just so they can die.`
+char_rio: ` ......We're taught that we have to live.`
+char_rio: ` However, almost everything that we accomplish in life ends up killing us..."`
+char_wil: `".........Don't think about it.`
+char_wil: ` You'll just get a headache."`
+char_rio: `"As a single human, I want to ask.`
+char_rio: ` ......Is learning a crime?!`
+char_rio: ` Is living in ignorance the only way we can have hopes and dreams...?!"`
+char_wil: `"......Both living with knowledge and living in ignorance have their benefits, as well as their shortcomings.`
+char_wil: ` You're even free to choose which path you take.`
+char_wil: ` .........That's what makes {y:0:Human}{n:0:human}s powerless."`
+char_ger: `"While people can learn, they cannot "unlearn"......"`
+char_cor: `"And so, the all‐knowing god has stepped in for the sake of the {y:0:Human}{n:0:human}s who cannot know all,`
+char_cor: ` marking out things that should be learned and things that should not be learned."`
+char_rio: `"............Too much curiosity...can kill.........your hopes and dreams."`
+char_dla: `"Humans are pitiable beings, who are unable to simply avoid those things which should not be {f:5:learned}.`
+char_dla: ` .........Lord {f:5:Battler} may have failed to teach this to Ange, but he can hardly be {f:5:blamed}."`
+char_wil: `"......And now Ange's gone.`
+char_wil: ` ......This game...is over."`
+char_non: `Struck dumb by Will's words, everyone fell silent.`
+char_non: `Only the sound of the goats eating everything away rang out hollowly...`
+char_non: `Even if they escaped to the Golden Land, these goats of emptiness would probably chew into that realm eventually as well.`
+char_non: `Even if they got away for the time being, nothing would be resolved.`
+char_non: `It was all set in stone now.`
+char_non: `They had no way to resist the future's violent attempts to tear the cat box of the past open.`
+char_rio: `"In that case, .........we must stay alive."`
+char_wil: `".............................."`
+char_rio: `"If a human's foolishness makes them throw away their own hopes and dreams in the end,`
+char_rio: ` ......then I want to believe in those things until the last second."`
+char_wil: `"............Your resolve is impressive."`
+char_rio: `"I'm the embodiment of the one hope held by the {f:5:Beatrice}s of a million worlds.`
+char_rio: ` ......So, even at times like this, I have to be everyone's hope.`
+char_rio: ` I'm not giving up on this game yet."`
+char_dla: `"......You're not giving {f:5:up}?"`
+char_rio: `"I'll keep waiting, believing in a miracle, until the last second."`
+char_wil: `"So, you'll keep struggling on and on until it's all over?"`
+char_rio: `"That's right.`
+char_rio: ` After all, last time, when we were surrounded by that pack of terrifying cats, we were prepared for death, weren't we...?!`
+char_rio: ` But {f:5:Lambdadelta}‐san saved us...!`
+char_rio: ` If we had given up, if we hadn't had the strength to believe in a miracle, then I'm sure we'd have been erased before help could come."`
+char_lam: `"Well, it's not like I really saved you. More like Bern just failed to kill you properly.`
+char_lam: ` Or, it might have been some whim of hers.`
+char_lam: ` A miraculous whim from the Witch of Miracles.`
+char_lam: ` *giggle*giggle*......"`
+char_lam: `How long had she been there?`
+char_lam: `{f:5:Lambdadelta} was leaning on the handrail of the staircase, eating popcorn.`
+char_lam: `She held the cup of popcorn out as if to say "Want some?", but Lion declined the offer.`
+char_rio: `".........Battler‐kun told us.`
+char_rio: ` ......He said Ange‐chan made a contract to learn the truth in exchange for her own life."`
+char_lam: `"Going by your conversation just now, that was no contract.`
+char_lam: ` ......After all, living and seeking the truth so they can die is what humans do anyway, right?"`
+char_lam: `"In other words, Ange has spent all of her life trying to learn the truth.`
+char_lam: ` ......All Bern did was shorten that time to a single instant."`
+char_rio: `"......When Ange‐chan lost her hopes and dreams, she stopped valuing her own life.`
+char_rio: ` .........How can she be given hopes and dreams again?`
+char_rio: ` ......What can be done to help her find a reason for living?"`
+char_lam: `"......Are you asking me?`
+char_lam: ` I'm stupid, remember?`
+char_lam: ` I'm super‐air‐headed super‐paper with a brain of confetti.`
+char_lam: ` I don't understand complicated stuff."`
+char_non: `After tossing the last bits of popcorn into her mouth, {f:5:Lambdadelta} threw the empty cup into the abyss of nothingness...`
+char_lam: `"......Bern wasn't really pushing that kid to do something she didn't want.`
+char_lam: ` She was giving Ange a chance.`
+char_lam: ` Or should I call it a choice?"`
+char_lam: `"Then, Ange made the choice she wanted, appeared on the game board, ......and now, in her game against Battler, she's making her own choices again.`
+char_lam: ` ......From start to finish, Ange's game has always belonged to Ange.`
+char_lam: ` Right now, I'm just a casual observer."`
+char_wil: `".........It doesn't exactly look like you're glued to the action."`
+char_lam: `"Maybe not.`
+char_lam: ` It's a play with an obvious ending.`
+char_lam: ` ......I was thinking I might sneak out in a moment."`
+char_rio: `"......So, you'd stop watching a play just because you think you know how it will end?`
+char_rio: ` Even though it might reach a climax you didn't expect?"`
+char_lam: `"...................................."`
+char_non: `{f:5:Lambdadelta} licked her salty fingers.`
+char_non: `{n}Then, she stared at Lion challengingly and grinned.`
+char_rio: `"I know......that Ange's game won't end this way.`
+char_rio: ` ......I know Battler‐kun's feelings will reach her.`
+char_rio: ` ......She'll understand that he wants her to live in a better future, ......and she'll choose that future of her own accord.`
+char_rio: ` .........I'm certain that's how this tale will end."`
+char_lam: `"......Huh...?`
+char_lam: ` Are you talking to me, the Witch of Certainty, and saying that the outcome is certain...?"`
+char_rio: `"That's right.`
+char_rio: ` I guarantee it.`
+char_rio: ` ......Ange‐chan's game won't end like this.`
+char_rio: ` So please, don't leave your seat.`
+char_rio: ` We won't leave either.`
+char_rio: ` There must be something we can do."`
+char_rio: `"And that......will surely lead her to a better future.`
+char_rio: ` ......This tale will definitely have a happy ending.`
+char_rio: ` So keep watching until the end.`
+char_rio: ` I beg you."`
+char_lam: `"..............................`
+char_lam: ` ......Even though I, the Witch of Certainty, have already announced that this tale won't have a happy ending...?"`
+char_rio: `"Who gets to decide what makes a happy ending?"`
+char_non: `For a while, there was a tense silence.`
+char_non: `With a confident gaze that seemed to be saying "are you serious?",`
+char_non: ` {f:5:Lambdadelta} stared at Lion.`
+char_non: `However, Lion's eyes didn't even twitch.`
+char_non: `For some time, they both stared into the other's eyes without flinching...`
+char_lam: `".........Hahh...!"`
+char_non: `Suddenly, {f:5:Lambdadelta} let out a large sigh and stretched.`
+char_lam: `"Well, I have nowhere better to be.`
+char_lam: ` ......Sure, I'll stick around a bit longer.`
+char_lam: ` If you get me some more popcorn, that is.`
+char_lam: ` I'm feeling like caramel flavor this time."`
+char_rio: `"If you come to the Golden Land, we'll serve you as much as you like."`
+char_non: `{f:5:Lambdadelta} waved at them with a thin smile.`
+char_non: `No one was quite sure what this meant, but it apparently signified her surrender in her own way.`
+char_lam: `"Okay.`
+char_lam: ` If you'll guarantee your own flavor of happy ending with certainty,`
+char_lam: ` ......then I, the great {f:5:Lambdadelta}, will stick around for a while longer.`
+char_lam: ` See how big my heart is!`
+char_lam: ` As wide as Lake Biwa!"`
+char_wil: `"...That's not very wide."`
+char_lam: `"And as gentle as the Sea of Japan!"`
+char_dla: `"That is a very rough {f:5:sea}."`
+char_ger: `"......For your attention."`
+char_cor: `"It would seem that you have mixed up your metaphors."`
+char_non: `There was some muffled laughter.`
+char_non: `{f:5:Lambdadelta} is the witch who gives strength to those who possess unshakable willpower.`
+char_non: `She might have given Lion a bit of magic for that absolute belief in a happy ending.`
+char_lam: `"You better not let me get bored, okay?`
+char_lam: ` If you do, I'll leave right away."`
+char_rio: `"Of course.`
+char_rio: ` I'm sure Battler‐kun will be glad to welcome you as well."`
+char_non: `Lion understood.`
+char_non: `In order to fight back against {f:5:Bernkastel}, who had taken Ange outside the board, they would need the power of another who was capable of leaving the board.`
+char_non: `Their last hope was to make sure {f:5:Lambdadelta} didn't abandon this game.`
+char_non: `However, judging by {f:5:Lambdadelta}'s expression as she hummed to herself cheerily,`
+char_non: ` actually asking her for help was probably going to be a problem......`
+char_fur: `"Look, Zepar!`
+char_fur: ` Everything from the first floor down is gone!"`
+char_zep: `"What a spectacle!`
+char_zep: ` Not a sight you see every day!"`
+char_dla: `".........How have matters progressed {f:5:upstairs}?"`
+char_fur: `"Ah, right, we came here to tell you that!"`
+char_zep: `"Hey, everyone, sorry to keep you waiting!"`
+char_non: `""They say the door to the Golden Land has opened...!!""`
+char_wil: `"......Finally."`
+char_dla: `"Let us {f:5:go}.`
+char_dla: ` This place will not be safe for {f:5:long}."`
+char_non: `Everyone who had been sitting on the staircase got up.`
+char_wil: `"I guess this is goodbye, Rokkenjima the beautiful."`
+char_rio: `"......True.`
+char_rio: ` ......It may be a shadow of its former self, but this is the last time we'll see it, isn't it?"`
+char_lam: `"Heheheh, what could you possibly do with an attitude like that?`
+char_lam: ` Isn't there something you've got to show me?!`
+char_lam: ` Let's see a happy ending!"`

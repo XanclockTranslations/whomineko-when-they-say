@@ -1,0 +1,1462 @@
+char_fur: `"Aah, Zepar!!`
+char_fur: ` What's this ‘important announcement’?!"`
+char_zep: `"Listen, Furfur!`
+char_zep: ` Our`
+char_zep: ` image song is getting released on CD!"`
+char_non: `"""Whaaaaaaaaaaat?!"""`
+char_non: `""Just kidding~!`
+char_non: ` Ahaha{0}ha{0}ha{0}ha{0}ha{0}ha{0}ha{0}ha{0}ha{0}haha.""`
+char_zep: `"We were just so bored of showing up the same way every time...!"`
+char_fur: `"We thought we'd change our style a bit!"`
+char_zep: `"We're entertainers!`
+char_zep: ` And the stage is alive!"`
+char_fur: `"You've got to ad lib every now and then...!"`
+char_jes: `"Y‐......yeah, we could've done without that, you jackasses..."`
+char_geo: `"......Thanks for helping remove the tension, you two.`
+char_geo: ` Sorry, but we're still talking about what to do in the second trial.`
+char_geo: ` We'd like a little more time.`
+char_geo: ` And if possible, some quiet."`
+char_zep: `"Sorry, George‐kun.`
+char_zep: ` Actually, we have a truly important announcement regarding the second trial."`
+char_fur: `"It is good news for some!`
+char_fur: ` And perhaps bad news for others?"`
+char_zep: `"Those for whom it is bad news...`
+char_zep: `have probably already figured it out!"`
+char_non: `""If you don't know what we're talking about, then it's good news for you!!""`
+char_sha: `"............{f:5:Beatrice}‐sama...?"`
+char_bea: `".........It's nothing."`
+char_kan: `"........................"`
+char_non: `Five people were there.`
+char_non: ` Only Battler was missing.`
+char_non: `{n}And Beato's expression was dark, her head hanging low.`
+char_non: `Everyone realized that something must have happened to Battler...`
+char_zep: `"We'd like to announce...`
+char_zep: `that Battler‐kun has retired before the second trial."`
+char_non: `Everyone murmured.`
+char_non: ` ......Just what had happened......?`
+char_fur: `"The witch's game will wait forever for him,`
+char_fur: ` but a pair of lovers cannot wait forever."`
+char_zep: `"Love is like ice cream!`
+char_zep: ` It's sweet and creamy, but if you don't eat it quickly, you'll lose it.`
+char_zep: ` Our game isn't so gracious that it'll wait for him to return."`
+char_kan: `"......So that's what you meant by good news."`
+char_jes: `"Heh.`
+char_jes: ` ......Well, I'm glad that our rivals have gone down in number,`
+char_jes: ` but if you thought I'd applaud another person's misfortune, you're totally wrong..."`
+char_geo: `"Battler‐kun, the one we thought of as our greatest enemy...`
+char_geo: ` .........I won't ask why.`
+char_geo: ` If the demons in charge say so, then that's how it is."`
+char_sha: `".........Then...what will happen to {f:5:Beatrice}‐sama...?"`
+char_bea: `"..................It seems I will lose the right to take this trial."`
+char_zep: `"After all, this is a trial to test the bonds between lovers!"`
+char_fur: `"Battler‐kun isn't currently capable of doing that.`
+char_fur: ` So, his pair is disqualified!`
+char_fur: ` How truly saddening...!"`
+char_zep: `"However, she is one of the participants in this three‐way trial of love.`
+char_zep: ` So, I think we should let her watch the trial as an observer!"`
+char_fur: `"A splendid idea!`
+char_fur: ` She does have the right to bless the pair that does overcome the trial!"`
+char_geo: `"......Are you okay with that?"`
+char_bea: `"Yes......`
+char_bea: ` I want to watch until the end.`
+char_bea: ` ......And,`
+char_bea: ` .........I still believe he will come back quickly, regain his eligibility,`
+char_bea: ` and continue this trial with me once again."`
+char_sha: `".........If you ask me,`
+char_sha: ` she has the right to be an observer."`
+char_jes: `"No objections here."`
+char_kan: `"......There's no need for us to be cruel."`
+char_geo: `"That may be, but as bad as it sounds, ......the loss of a powerful rival is our gain.`
+char_geo: ` ......Sorry to do this to you and Battler‐kun, but I'd like to settle this trial right away."`
+char_fur: `"Ah, that's George‐kun for you!`
+char_fur: ` I'm rooting for you the most on the inside!"`
+char_zep: `"The coldness with which he furnishes that love...`
+char_zep: `makes its heat stand out all the more...!"`
+char_geo: `"At any rate,`
+char_geo: ` ......we've now gone from three down to two, and the three‐way deadlock has been resolved.`
+char_geo: ` ......We weren't able to fight proactively because we were afraid of a one against two situation."`
+char_kan: `".........Now that it's one against one,`
+char_kan: ` ......it's just a good, clean duel."`
+char_sha: `"..........................."`
+char_jes: `"So in the end,`
+char_jes: ` ......we find that we should have just done this from the beginning..."`
+char_non: `The four people stood up as though responding to some invisible summons...and faced each other, glaring...`
+char_non: `Only Beato was off to the side,`
+char_non: ` ......watching the course of the young lovers' fight in suspense.`
+char_non: `......Each pair of lovers...`
+char_non: `has an unbreakably strong bond.`
+char_non: `Then, ......isn't that enough?`
+char_non: `Their love is already the real thing.`
+char_non: ` There's no need to test it.`
+char_non: `But if so, ......then why must they fight...?`
+char_non: `The victorious couple will be bound together by the magical miracle, ......and the defeated couple will fall apart.`
+char_non: `Why have the demons promised us that we will fall apart without a magical miracle...?`
+char_non: `.........Why is a demon's game like this necessary?`
+char_non: ` ......I don't understand.`
+char_non: `No, they aren't important right now...`
+char_non: `I have to think of an escape trick as soon as possible,`
+char_non: ` ......so that I can save Battler‐san from that locked room......`
+char_be3: `"............I heard about Battler.`
+char_be3: ` It seems things have gotten quite troublesome."`
+char_bea: `"Onee‐sama......"`
+char_be3: `"I would like to save you, as you are both my dear sister and a part of my full self.`
+char_be3: ` ......I am tackling Battler's locked room in my own way, .........but it is difficult.`
+char_be3: ` It feels almost as though an ordinary chain has been made to look like a wire puzzle..."`
+char_bea: `"I heard from {f:5:Lambdadelta}‐san.`
+char_bea: ` ......She said that the old {f:5:Beatrice} could definitely solve this trick.`
+char_bea: ` ......Don't you have any idea?"`
+char_be3: `"That old {f:5:Beatrice} is our completed form after we become one.`
+char_be3: ` ......Even I am naught but a part of her.`
+char_be3: ` It stands to reason that I cannot solve it..."`
+char_non: `By this,`
+char_non: ` ......she meant that we wouldn't be able to figure it out no matter how much thought we put into it in our incomplete forms.`
+char_non: `She was saying that neither the elder {i:nor} the younger sister...`
+char_non: `...could ever be expected to solve this riddle......`
+char_non: `Beato shook her head, chasing that thought from her mind.`
+char_bea: `"I won't give up...`
+char_bea: ` .........I'll set right to work on that locked room...!`
+char_bea: ` Unless I can save Battler‐san as soon as possible, .........his heart will be crushed."`
+char_be3: `"............Of course, I have no reservations about lending my own wisdom.`
+char_be3: ` ......However, even I cannot make anything out of this locked room..."`
+char_bea: `"If we put our heads together, I'm sure we'll find the same answer that we would if we were joined.`
+char_bea: ` ......Please lend me your wisdom and don't give up...!!"`
+char_be3: `".........I still cannot fathom why you are willing to go so for Battler,`
+char_be3: ` ......but I shall do as you ask.`
+char_be3: ` After all, it is a request made by myself.`
+char_be3: ` I will add my wisdom to yours......"`
+char_zep: `"Look, Furfur.`
+char_zep: ` The two Beatos are thinking together."`
+char_fur: `".........I wonder if those two can really save Battler."`
+char_zep: `"Oh, they can!`
+char_zep: ` If they have the miracle of love, that is...!!"`
+char_fur: `"That's right, Zepar!`
+char_fur: ` They can certainly do it if they have the miracle of love on their side!"`
+char_zep: `"......Say, Furfur.`
+char_zep: ` Do you think they'll realize that we're giving them a hint for solving that locked room......?"`
+char_fur: `"......................................."`
+char_non: `The two Beatos put their heads together,`
+char_non: ` ......and, straining their minds with all they had,`
+char_non: ` ......they searched for a plan to save Battler with.`
+char_non: `It was as though they couldn't even see the four people glaring at each other and solemnly discussing the manner of the duel......`
+char_fur: `"............They'll realize.`
+char_fur: ` If they have love, they certainly will."`
+char_non: `They were the demons of love.`
+char_non: `{n}Love is the single element.`
+char_non: ` The source of all miracles.`
+char_non: `......Could the miracle of love...provide an answer for a locked‐room trick......?`
+char_enj: `"There it is again. "Without love, it cannot be {y:1:‘seen’}{n:1:seen}".`
+char_enj: ` ......I understand how that catchphrase can describe a certain concept.`
+char_enj: ` But locked‐room tricks are pure, unfeeling mathematical puzzles, without a fragment of affection within them.`
+char_enj: ` .........Just what kind of hint could these demons be talking about...?"`
+char_fea: `"......I already have a certain answer.`
+char_fea: ` ......What these demons have said supports that even further..."`
+char_enj: `"Yeah, okay, you're incredible.`
+char_enj: ` You always know the right answer.`
+char_enj: ` And you'll never let me hear any of it.`
+char_enj: ` ......Going by the rule of observers, until you tell me about it,`
+char_enj: ` it's possible that you're just lying and pretending that you know."`
+char_fea: `"Pft, .........hha{0}ha{0}ha{0}ha{0}ha{0}ha{0}ha{0}ha{0}ha{0}haha.`
+char_fea: ` ......Yes, I believe I do prefer a bad‐mouthed miko.`
+char_fea: ` You please me, child of man.`
+char_fea: ` To me, a miko's sarcasm and abuse is like a ceremonial dance in my honor......"`
+char_enj: `"You're a real irritating master.`
+char_enj: ` .........Stupid Onii‐chan,`
+char_enj: ` ...why did you make a locked room like that......yourself......"`
+char_fea: `"Think, child of man.`
+char_fea: ` ......Thinking is not only a job for the characters within the tale.`
+char_fea: ` ......As a Reader, you too have the right to enjoy thinking.`
+char_fea: ` ......And I enjoy watching you as you do."`
+char_enj: `"......I'm willing to make a bet.`
+char_enj: ` Your last miko ran out of patience and ran away from you, didn't she?"`
+char_fea: `"You are free to enjoy yourself by scolding me.`
+char_fea: ` You are also free to consider the problem like the two Beatos.`
+char_fea: ` ......Unless you think, the tale will not continue."`
+char_enj: `"Why?`
+char_enj: ` I'm a Reader, right?`
+char_enj: ` Can't I just stay quiet and read?"`
+char_bu3: `".........No.`
+char_bu3: ` ......I want you to think.`
+char_bu3: ` Not just the characters—{i:you}, the reader."`
+char_enj: `".........!`
+char_enj: ` I see, ......you're a pretty unpleasant author, aren't you?"`
+char_non: `Ange was, of course, still only halfway through the tale.`
+char_non: ` ......However, there were only a few pages left in the manuscript she was reading from.`
+char_non: `Where was the manuscript for the rest of the tale?`
+char_non: ` It should continue much further than this.`
+char_non: `There should be many more pages remaining......`
+char_non: `Those were inside a different brown envelope, ......which was in Hachijo's hand.`
+char_non: `With a grin on her face, Hachijo waved the thick brown envelope about.`
+char_non: ` ......“If you want to read more, do what I tell you”.`
+char_ama: `"<Cool>......!`
+char_ama: ` Looks like she got you, missy!`
+char_ama: ` Haha{0}ha{0}ha{0}ha{0}ha{0}ha{0}ha{0}ha, ah{0}hah{0}hah{0}hah{0}hah{0}hah{0}ha...!"`
+char_non: `Letting you read only so far for free......and then stopping when it finally gets to the good part.`
+char_non: ` Amakusa couldn't stop laughing at this underhanded approach.`
+char_bu3: `"I want to hear your own opinions.`
+char_bu3: ` ......Your own theories.`
+char_bu3: ` ......If you tell me those now, ......I'll hand over the rest of the manuscript."`
+char_enj: `"Quit mocking me.`
+char_enj: ` You think I'll just do whatever you say after something like this...?"`
+char_ama: `"Come on now, missy, calm down.`
+char_ama: ` I want to read on too, so please just chill a bit."`
+char_ama: `"......About the rest of the manuscript, Hachijo.`
+char_ama: ` ......It contains the answer to the locked‐room trick......and the truths behind a bunch of mysteries, right?"`
+char_bu3: `"Of course.`
+char_bu3: ` .........However, I haven't written it in a way that will be understandable to those who fail to think or consider..."`
+char_enj: `"......One of these days, you're going to get stabbed by an obsessive reader of yours who's very upset with you."`
+char_bu3: `"I understand that, which is why I don't go out in the open.`
+char_bu3: ` Child of man."`
+char_ama: `"Anyway, this is what Hachijo's trying to say.`
+char_ama: ` ......First, tell me your answer.`
+char_ama: ` After that, I'll let you check it."`
+char_bu3: `"......Correct, young man.`
+char_bu3: ` .........I am not trying to be mean.`
+char_bu3: ` ...I am asking because I want you to truly understand the tale's conclusion."`
+char_enj: `"Amakusa, ......you're really enjoying this, aren't you?`
+char_enj: ` ......Yeah, come to think of it, you always take those TV quiz shows totally seriously.`
+char_enj: ` ......It looks like you enjoy life much more than I do."`
+char_bu3: `"So, ......what miraculous trick could get Battler out of the locked room?`
+char_bu3: ` ......Please give it some thought yourself.`
+char_bu3: ` I want to give the rest of the story especially to those—`
+char_bu3: `no, {i:only} to those who have thought..."`
+char_non: `In the witches' cathedral,`
+char_non: ` ......no, considering everything that's gone on in here, maybe it should be called a demon's abode...`
+char_non: `...Erika, who wanted to savor the memory of her perfect victory,`
+char_non: ` ......stood with the whole vast cathedral to herself as the flush slowly left her cheeks.`
+char_non: `Then,`
+char_non: ` ......on the balcony that she had thought empty, ...a shadow came into view.`
+char_non: `It was...{f:5:Lambdadelta}...`
+char_eri: `"......Oh, it's you, Lady {f:5:Lambdadelta}.`
+char_eri: ` It's not often one finds you alone in a place like this."`
+char_lam: `".........Oh, you.`
+char_lam: ` ......Congratulations on your big victory.`
+char_lam: ` .........Heheh, that's funny.`
+char_lam: ` I think I remember saying the same thing to you right here at the end of last game."`
+char_non: `She was probably trying to be sarcastic.`
+char_non: ` ......However, Erika was in such a good mood that even those words sounded like a compliment.`
+char_eri: `"I.....happened to hear what you said a short while back."`
+char_lam: `"......What?"`
+char_eri: `"I heard that you have also...`
+char_eri: `......had the experience of being toyed with as a piece on some Great Witch's game board,`
+char_eri: ` then sealed away in some awful hell..."`
+char_non: `Erika had an unpleasant, triumphant look on her face,`
+char_non: ` as though she had managed to pry into some embarrassing memory of another's past.`
+char_non: `However, {f:5:Lambdadelta} didn't look in the least bit flustered,`
+char_non: ` ......and instead looked down from the balcony in silence.`
+char_lam: `".........Yep.`
+char_lam: ` ......I wonder how many years I was shut up in there.`
+char_lam: ` ......Maybe I should've been like Bern and counted them...`
+char_lam: ` .........No, it's probably best that I didn't.`
+char_lam: ` Counting the years.........is what broke her."`
+char_eri: `"Are you saying...`
+char_eri: `......that my master also fell into the hell of a logic error at some point...?"`
+char_lam: `"She did.`
+char_lam: ` Though she wasn't the one responsible for that logic error."`
+char_eri: `"......Because she wasn't the Game Master...?"`
+char_lam: `"That's right.`
+char_lam: ` ......At that time, she was still a small piece that wasn't even self‐aware yet.`
+char_lam: ` It was her master, the Game Master, who committed the logic error."`
+char_eri: `"......My master was also...`
+char_eri: `...a witch's piece?"`
+char_lam: `"Yep.`
+char_lam: ` .........That kid's master......oh, yes, she was a bad one.`
+char_lam: ` ......Though she created the game herself, partway through, she lost sight of what her goal was.`
+char_lam: ` ......She created something like a broken game of backgammon,`
+char_lam: ` where the start and the goal were connected like a donut."`
+char_eri: `"What do you mean, she lost her goal......?"`
+char_lam: `"I'm talking about a logic error.`
+char_lam: ` ......She couldn't describe how to reach her desired goal,`
+char_lam: ` couldn't draw up the logic to her backgammon game.`
+char_lam: ` So, the game remained broken, with no goal at all."`
+char_lam: `"......She should have settled down and thought of an answer herself.`
+char_lam: ` ......But instead, she despicably left even the thinking entirely to her piece, Bern.`
+char_lam: ` .........Have you heard of the infinite monkey theorem?"`
+char_eri: `"......It's the theory that if a monkey hits random letters on a typewriter for an infinite amount of time,`
+char_eri: ` at some point, the string of letters might end up exactly the same as Hamlet by sheer coincidence.`
+char_eri: ` ......I'd rather call it an absurdity than a theorem."`
+char_lam: `".........Wouldn't that be a horrible hell?`
+char_lam: ` .........Bern was forced to type randomly on that typewriter for an eternal period of time, without even knowing the meaning of what she was doing.`
+char_lam: ` .........The goal eluded even the Game Master herself,`
+char_lam: ` so she tried to get Bern to create it for her."`
+char_non: `......Could Erika even imagine...`
+char_non: `...how horrible a hell that had been?`
+char_non: `A job that you have to do a hundred times and a job that you have to keep repeating until it succeeds with a 1/100 probability...`
+char_non: `......may look very similar probabilistically, ......but the difference in cruelty between them is great.`
+char_non: `When you have to do a job a hundred times, you steadily approach the end, get more efficient as you become more used to it,`
+char_non: ` and eventually, you can finish.`
+char_non: `However, when you have to do a job that succeeds with a 1/100 probability,`
+char_non: ` ......the hard work of the individual doesn't translate to even a slight gain in efficiency.`
+char_non: `Everything is left to luck.`
+char_non: `......If luck isn't on your side, even the task of flipping a coin until you get heads...`
+char_non: `...can last more than a hundred years......`
+char_lam: `"How many keys are there on a typewriter?`
+char_lam: ` About a hundred, maybe?`
+char_lam: ` ......What do you think the odds are of hitting those at random and getting Hamlet...?"`
+char_eri: `".........I can't......even imagine.`
+char_eri: ` ......They must be......truly astronomical."`
+char_lam: `"That's right.`
+char_lam: ` ......A virtually infinite amount of time.`
+char_lam: ` .........For that mind‐bending stretch of time,`
+char_lam: ` ......that child was made to keep pounding on that typewriter until she typed out a "miracle"."`
+char_eri: `"And that's why......she's the Witch of Miracles...?"`
+char_lam: `"If she wasn't a witch—no, if she hadn't been able to become a witch,`
+char_lam: ` ......she would probably still be a black cat strapped to that typewriter for eternity.`
+char_lam: ` ......That child was blessed by a miracle, ......succeeded in typing out a "miracle",`
+char_lam: ` ...became a witch, and returned from that hell alive."`
+char_lam: `"That hell was so long and harsh......that her mind and heart were completely broken.`
+char_lam: ` That's why she became such a mean and heartless witch.`
+char_lam: ` .........Given the choice, even you wouldn't have chosen a master like her, right?"`
+char_eri: `"Th‐that's not true...!`
+char_eri: ` I am honored to be my master's piece.`
+char_eri: ` My master is strong, an oppressor of {i:others}.`
+char_eri: ` Trampling over the weak is her natural right."`
+char_lam: `".........You mean she's a human on the bully's side of life...?`
+char_lam: ` Heheh.`
+char_lam: ` ......Do you know how to create the greatest bully ever?"`
+char_eri: `"......?`
+char_eri: ` No."`
+char_lam: `"It's easy.`
+char_lam: ` For just a short time, bully them horribly, ...then suddenly stop, and give them power instead.`
+char_lam: ` ......If you do that, then no matter who it is, they will be reborn as a {nobr:grade‐A} bully.`
+char_lam: ` And what's even more incredible is, even if that person was only bullied for about three days, they'll reign as a {nobr:grade‐A} bully for a billion times longer than that,`
+char_lam: ` believing themselves the victim all the while."`
+char_eri: `"............What does that have to do with my master?"`
+char_lam: `"......You don't understand anything about Bern.`
+char_lam: ` .........No matter what kind of ruthless, cruel, horrible pukespittle Bern may be,`
+char_lam: ` ......I want to be the one person who knows what she's truly like."`
+char_lam: `".........And it's the same for me.`
+char_lam: ` ...I think that kid, as a fellow survivor from hell, .........is the only one who can understand what I'm truly like.`
+char_lam: ` .........It sounds like you're jealous of the relationship we have, but give it up.`
+char_lam: ` The hell you think you've trudged through is nothing more than a blink compared to the one we crawled out of."`
+char_eri: `"...................................."`
+char_non: `{f:5:Lambdadelta} was probably......mocking Erika back.`
+char_non: `And the discouraged expression on Erika's face clearly showed that she couldn't accept {f:5:Lambdadelta}'s words.`
+char_eri: `".........If you'll pardon me for saying,`
+char_eri: ` ......I think it's the depth of the hell that's important, not the length of time spent there."`
+char_lam: `"Oh......?`
+char_lam: ` ......You're not afraid to talk back, are you? .........Witch of Truth, {f:5:Erika}."`
+char_eri: `"I don't know what kind of hell you were in, Lady {f:5:Lambdadelta}.`
+char_eri: ` ......And I'm sure the time I spent in hell was nothing more than a flash compared to yours.`
+char_eri: ` ......However, I don't think the depths of my hell were any shallower than yours."`
+char_lam: `".........In celebration of your victory, I'll hear you out without arguing back."`
+char_eri: `"From my point of view,`
+char_eri: ` ......both the hell my master fell into, which could only be escaped by a miracle,`
+char_eri: ` ......and the hell you fell into, which presumably could only be escaped with certain willpower,`
+char_eri: ` ......were "hells made to be escapable"."`
+char_lam: `"Really......`
+char_lam: ` ......That's a bold thing to say."`
+char_eri: `"I am the Witch of Truth.`
+char_eri: ` ......In the depths of my hell, there was nothing more or less than the truth.`
+char_eri: ` .........When faced with the harsh reality of truth, no sort of willpower or miracle matters.`
+char_eri: ` I reached this place by overcoming that truth.`
+char_eri: ` ......I don't believe my power to withstand the truth is in any way inferior to yours...`
+char_eri: `or my master's."`
+char_lam: `"And what is this "power to withstand the truth"?"`
+char_eri: `"......Those who don't know cannot understand.`
+char_eri: ` Perhaps your inability to look that in the face...`
+char_eri: `is the reason you two couldn't become Witches of Truth...?"`
+char_lam: `"........................`
+char_lam: ` ......Heh......heh{0}eh{0}eh{0}eh{0}eh{0}eh{0}eh{0}eheh.`
+char_lam: ` ......I'll forgive you for those impudent words.`
+char_lam: ` Letting them pass with a slight nod is my present to you for your recent victory."`
+char_eri: `"*giggle*.`
+char_eri: ` ......Thank you very much, Great Lady {f:5:Lambdadelta}{p:0:☆}"`
+char_ber: `"Oh, that's unusual.`
+char_ber: ` ......It's rare to spot you two getting along."`
+char_non: `At some point, {f:5:Bernkastel} had appeared on the opposite balcony of the cathedral.`
+char_non: `Erika, noticing her, cried "my master" happily and dashed over.`
+char_eri: `"Lady {f:5:Lambdadelta} was telling me old stories about you.`
+char_eri: ` ......A tale of miracles fitting for my master, the Witch of Miracles...!"`
+char_ber: `"............I'll forgive you just this once."`
+char_eri: `"Huh?"`
+char_ber: `"Never speak of my past again."`
+char_non: `A grimace rose to her face,`
+char_non: ` ......blasting Erika's good mood away.`
+char_non: `And so, Erika understood.`
+char_non: ` ......{f:5:Bernkastel} was also a witch running from boredom.`
+char_non: ` Because if it ever caught up with her, ......she would remember.`
+char_non: ` ......Those never‐ending days of hell......`
+char_non: `This is proof that even my master...`
+char_non: `...still hasn't gotten over the pain and fear of hell.`
+char_non: `It means that she lacks the power to withstand the truth.`
+char_non: `.........For the first time,`
+char_non: ` ......Erika felt just a little disdain for her master.`
+char_eri: `"......My apologies.`
+char_eri: ` ......More importantly, what brings you to a place like this?"`
+char_ber: `".........I was looking for you. I wanted to give you a reward."`
+char_eri: `"A reward!`
+char_eri: ` ......Really?!`
+char_eri: ` Th‐thank you very much, my master!!"`
+char_lam: `"Ooh?`
+char_lam: ` ......Wow, I'm jealous!`
+char_lam: ` What are you gonna give her?"`
+char_ber: `"First, I acknowledge your ascension as a true witch, not just a temporary one.`
+char_ber: ` .........I'll be your guardian.`
+char_ber: ` Witch of Truth, Furudo {f:5:Erika}."`
+char_eri: `"Th‐thank you very much!!"`
+char_lam: `"All you did was remove the temporary bit.`
+char_lam: ` That sort of reward can't be very pleasing.`
+char_lam: ` She really deserves something better, don't you thi~nk?"`
+char_eri: `"N‐no, that's not true, I'm very pleased."`
+char_non: `Of course, on the inside, Erika did want another present.`
+char_non: ` ......Taking a cue from {f:5:Lambdadelta}, she waited patiently to see if there would be any other rewards.`
+char_ber: `"I do have one other."`
+char_non: `{f:5:Bernkastel} snapped her fingers.`
+char_non: `......As she did, a cloud of gold butterflies gathered,`
+char_non: ` ......and summoned Battler sitting in a throne at the center of the cathedral.`
+char_non: `Of course, his eyes were blank.`
+char_non: ` ......He was still an invalid, his heart trapped in the locked room that he would never be allowed to escape from...`
+char_ber: `"That man is your reward."`
+char_eri: `"......My reward......is Battler......?"`
+char_lam: `"Ooh...`
+char_lam: ` ......I see.`
+char_lam: ` ......She's saying she'll make it so that you inherit all of this game board's territory."`
+char_ber: `"That's right.`
+char_ber: ` ......Look at Battler's finger.`
+char_ber: ` ......He's wearing the ring of the One‐winged Eagle, symbol of the territory lord.`
+char_ber: ` If that becomes yours, you'll become the official lord of this territory.`
+char_ber: ` ......I don't mean you'll be under my charge.`
+char_ber: ` ......In name and reality, this territory will be yours."`
+char_eri: `"So I need to take that ring off Battler's finger...?"`
+char_lam: `"......*giggle*.`
+char_lam: ` Don't be silly.`
+char_lam: ` ......There's only one ceremony where a woman gets a ring from a man's finger, right?"`
+char_ber: `"Erika.`
+char_ber: ` ......Take Battler as your husband and become the wife of the territory lord."`
+char_eri: `"M‐......marry......Battler......?!"`
+char_ber: `"Yes, that's right.`
+char_ber: ` ......If the territory lord is never to wake again, he'll need a partner to serve by his side and act as his proxy.`
+char_ber: ` ......In other words, you will control this territory."`
+char_lam: `"And we'll hold a wedding where you'll exchange rings.`
+char_lam: ` ......Battler's territory lord ring will become yours..."`
+char_ber: `"And in exchange, you will put a ring of servitude on Battler's finger.`
+char_ber: ` ......For eternity you will rule him, debase him,`
+char_ber: ` ...and use this territory and game board to weave whatever tale your heart desires."`
+char_lam: `"Furudo {f:5:Erika}, you will be the territory lord.`
+char_lam: ` ......Any tale you wish will come true.`
+char_lam: ` ......The territory lord is a god.`
+char_lam: ` ...Congrats, you'll be the god of this small but wonderful world."`
+char_eri: `"......Ha......ha{0}ha{0}ha{0}ha{0}ha...ha{0}ha{0}ha{0}ha{0}ha{0}ha{0}ha{0}ha{0}ha{0}ha{0}ha{0}ha{0}ha{0}ha...`
+char_eri: ` Is that......true, ...my......master......?!!`
+char_eri: ` Will I......become this world's......god......?"`
+char_ber: `"That is the final reward I will give to you.`
+char_ber: ` Take Battler's ring and create your own world.`
+char_ber: ` ......When that happens, you won't be my piece anymore.`
+char_ber: ` You'll be your own witch, and a splendid one at that."`
+char_ber: `".........Congratulations, Lady {f:5:Erika}.`
+char_ber: ` And, one day, you must welcome me when I come to visit, just like Beato once did."`
+char_eri: `"Y‐yes, my master...!!`
+char_eri: ` There could be no greater honor...!`
+char_eri: ` And I'm starting to like this marriage to Battler thing!`
+char_eri: ` ......*giggle*, if you think about it, there could be no greater disgrace to this game!"`
+char_eri: `"After all, that {f:5:Beatrice} was apparently born out of a desire to serve Battler and be liked by him.`
+char_eri: ` In the world that witch created, ......I will marry, defile, and humiliate Battler!!`
+char_eri: ` *giggle*giggle*, *cackle*cackle*cackle*cackle*!!`
+char_eri: ` Oh yes, I understand.`
+char_eri: ` I sooo understand how painful it feels to have the one you love stolen away from you!!`
+char_eri: ` And now, I'm finally the one dealing out the pain...!!`
+char_eri: ` Truly, there could be no greater honor!!"`
+char_ber: `"I'm glad you like it.`
+char_ber: ` I knew it was the one present you'd like most in the world."`
+char_eri: `"Thank you so much, thank you so much!!`
+char_eri: ` My......masterr{-}r{-}r{-}r{-}r{-}r{-}r{-}r{-}rr...!!!"`
+char_non: `Erika leapt down from the balcony and walked briskly towards Battler.`
+char_non: `Then, she peered down at the reward she had been given...`
+char_lam: `".........Now isn't that a wonderful finale.`
+char_lam: ` You'll hold a wedding ceremony?"`
+char_ber: `"Of course.`
+char_ber: ` A magnificent one.`
+char_ber: ` It's the perfect way to end Beato's game."`
+char_lam: `"Of course, you'll send Beato an invitation too, right?"`
+char_ber: `"I only hope she actually comes."`
+char_non: `""*giggle*giggle*, ehheh{0}eh{0}eh{0}eh{0}eh{0}eh{0}eh{0}eh{0}eh{0}eh{0}eheh!!""`
+char_ber: `"......Alright, things are going to get busy.`
+char_ber: ` We have to prepare for the ceremony, make programs, send invitations..."`
+char_lam: `"Don't forget the wedding dress and a cake!!`
+char_lam: ` And you need to get things ready for the reception!"`
+char_non: `The two witches disappeared, cackling.`
+char_non: `{n}Only the two who were to be wed remained in the cathedral.`
+char_eri: `".........Could you hear...?`
+char_eri: ` ......Battler‐san.`
+char_eri: ` .........Do you realize......what's about to happen to you......?"`
+char_but: `"...........................`
+char_but: ` .........Damn......it......"`
+char_non: `Battler's consciousness wasn't completely gone.`
+char_non: ` ......It was very distant......but he was slightly tethered to reality.`
+char_non: `......And that......was what made it cruel.`
+char_non: `It was as cruel as though the spider called Erika had wrapped Battler up...`
+char_non: `...and was eating him while he was still conscious.`
+char_non: `In fact, she might have been more like certain kinds of wasp,`
+char_non: ` paralyzing her prey and keeping it alive so that she could eat it later.`
+char_non: `In short,`
+char_non: ` her cruelty was very similar to that of a predator......`
+char_eri: `"You won't be able to get out of that locked room.`
+char_eri: ` After all, you used all that red truth to show that it was a locked room.`
+char_eri: ` So stop worrying, and just let yourself be trapped in there forever."`
+char_eri: `"......While you're spending time in there,`
+char_eri: ` ......I'll take my time defiling your body.`
+char_eri: ` .........I'll have our bedroom lined with mirrors.`
+char_eri: ` ......That way, you can see just how you're being humiliated,`
+char_eri: ` ......with your own eyes.`
+char_eri: ` ............`
+char_eri: `*giggle*giggle*giggle*giggle*!!"`
+char_eri: `"And then, let's have a bird cage hanging from the ceiling.`
+char_eri: ` We can stick your beloved witch {f:5:Beatrice} in there.`
+char_eri: ` What do you think......?`
+char_eri: ` ......Wonderful, isn't it......?`
+char_eri: ` Eheh{0}eh{0}eh{0}eh{0}eh{0}eh{0}ehe{0}eh{0}eh{0}eh{0}eh{0}eh{0}eh{0}eheh!!`
+char_eri: ` Aah, ......I can feel it.`
+char_eri: ` This is how sweet it is to be standing on the other side...`
+char_eri: ` ...Aha, aha{0}ha{0}ha{0}ha{0}ha{0}ha{0}ha{0}ha{0}ha{0}ha{0}ha{0}haha......"`
+char_non: `As he listened to this mad laugh, ......Battler couldn't even bring a distressed expression to his face.`
+char_non: `His heart was still trapped in the locked room he had created...`
+char_non: `{n}And his body and soul......would soon be trapped within a new locked room of Erika's.`
+char_non: `A locked room...`
+char_non: `......called marriage.`
+char_zep: `"Hey, did you hear, Furfur...?!"`
+char_fur: `"I sure did, Zepar...!`
+char_fur: ` Lord {f:5:Battler} and Lady {f:5:Erika} are having a wedding!"`
+char_non: `They said it with so much of their usual frivolity...`
+char_non: `that Beato had to ask them to repeat it again.`
+char_bea: `"Wh‐......what......is happening......?"`
+char_zep: `"As you know, the lord of this territory has had his heart sealed away and cannot speak."`
+char_fur: `"So the beautiful Lady {f:5:Erika} is going to become his wife and support him in his work!"`
+char_non: `The two demons explained the situation in a very simple,`
+char_non: ` yet dramatic way.`
+char_non: `......I know what's going on.`
+char_non: `They're planning to take advantage of the fact that Battler's heart is sealed away and use marriage to lock up his body as well,`
+char_non: ` so that they can steal everything from him...`
+char_non: `At this rate, ......Battler will have his position as Game Master...`
+char_non: `...and his territory lord's ring......stolen away...`
+char_be3: `"That damn homewrecker, she thinks she can do whatever she wants...!!`
+char_be3: ` Let's steal him back!`
+char_be3: ` He may be of little importance to me, but matters that affect you are my business also!"`
+char_zep: `"It's no use to just steal his body back!`
+char_zep: ` After all, the great Lady {f:5:Bernkastel} has already signed the marriage certificate as a witness!"`
+char_fur: `"With a Great Witch of the Senate serving as a witness, no one can dispel the union except for those who are a part of it...!"`
+char_bea: `"......Then it's as I thought...... Unless I can rescue Battler‐san's heart from that locked room,`
+char_bea: ` ......there's no way we can save him......"`
+char_zep: `"Then find a way to rescue him from that locked room!"`
+char_fur: `"You're going to steal away the bridegroom?!`
+char_fur: ` Ah!! How wonderful!!"`
+char_be3: `"......If you can do that, it would make for a tale beautiful enough for the opera.`
+char_be3: ` However, this locked room sealing Battler is quite difficult..."`
+char_bea: `"The only way out is the door.`
+char_bea: ` And if the chain is unset, his escape won't be accepted..."`
+char_zep: `"And on top of that, the chain can't be set from the outside!"`
+char_fur: `"And now there's no one left to switch places with him!"`
+char_be3: `"......No matter how you think about it, we're stuck!"`
+char_bea: `"If we give up, ......we won't be able to save him.`
+char_bea: ` ...The only thing we can do to save him now......is to keep at it and keep thinking."`
+char_non: `Though Beato looked as though she was about to burst into tears, ......she clenched her fists tightly.`
+char_non: `She was so frustrated with her inability to think up any brilliant plan...that her heart felt as though it would burst...`
+char_be3: `"......Zepar and Furfur, you two are known as being among the most powerful of demons.`
+char_be3: ` They say your magic can make the impossible possible.`
+char_be3: ` ......Could you not use your power and knowledge to work out a plan for crushing this impossible locked room...?!"`
+char_zep: `"Yes, love can accomplish any impossible thing!"`
+char_fur: `"If you can't accomplish something, it means you lack enough love!"`
+char_bea: `"..................Hearing that...`
+char_bea: `...hurts..."`
+char_zep: `"But we are moved by the strength of will that prevents you from giving up!"`
+char_fur: `"Because you have that, we're sure you can bring about a miracle!"`
+char_be3: `"......Can't you at least give us a hint about that miracle?!`
+char_be3: ` We have known each other for no short span of time.`
+char_be3: ` ......Will you not at least give my little sister a hint as a parting gift?"`
+char_non: `""A hint?`
+char_non: ` We are always giving out hints.""`
+char_zep: `"Without love—"`
+char_fur: `"They cannot be {y:1:‘seen’}{n:1:seen}!"`
+char_be3: `"......If we could {y:1:‘see’}{n:1:see} them, I would not have asked!`
+char_be3: ` ......These two are always like this.`
+char_be3: ` It staves off boredom, but they can become very irritating at times like this."`
+char_non: `Zepar and Furfur certainly were demons who possessed a great power.`
+char_non: `{n}The power of love that they bestowed had created several miracles in the past, miracles so great that they left a mark on human history.`
+char_non: `However, those miracles were never given easily.`
+char_non: `They would give trials, tell riddles, ......and sometimes help the truth be realized,`
+char_non: ` ......so that those who desired power could create that power themselves.`
+char_non: `No matter how pitiful the eyes that looked up at them, the two demons would never lend their power out of pity.`
+char_non: `As it is with God, it is with demons:`
+char_non: ` ......they help those who help themselves.`
+char_bea: `"I understand.`
+char_bea: ` ......I'll think about it myself...`
+char_bea: ` ......I swear......I will free him......"`
+char_be3: `"Look upon her, demons! When last did you see a girl so pure of heart...?!`
+char_be3: ` As the demons of love, don't your hearts ache even a little?!`
+char_be3: ` Come, let's have a hint...!`
+char_be3: ` Surely you could give us a hint to a hint, at least?"`
+char_non: `Zepar and Furfur looked at each other.`
+char_non: `......Of course, there was no pity on their faces.`
+char_non: ` However, it could be seen that, though they did find the problem amusing, they were considering what they should do next.`
+char_zep: `"What'll we do, Furfur?!"`
+char_fur: `"Maybe a hint to a hint would be okay?!"`
+char_be3: `"Yes, even that would be welcome, so let's have it!"`
+char_non: `""Oookay!`
+char_non: ` Here's a present from Zepar and Furfur!`
+char_non: ` A hint to a hint of love!!""`
+char_bea: `"P‐please...!!"`
+char_fur: `"You cannot {y:1:‘see’}{n:1:see} the answer—"`
+char_zep: `"Because you don't have enough love!"`
+char_be3: `"I—I told you, not a hint like that!"`
+char_fur: `"And if you don't have enough love...?!"`
+char_zep: `"Why not observe couples who have it in abundance?!"`
+char_fur: `"Yes, and as luck would have it,`
+char_fur: ` we have two loving couples right here!"`
+char_zep: `"Why not stay awhile and be a spectator to their fight for love?!"`
+char_non: `""You should watch our trial from the position of an outside observer!!""`
+char_be3: `"Will you listen?!!`
+char_be3: ` Not a hint like that, I said!"`
+char_non: `Beato the Elder yelled at them, asking for a more tangible hint.`
+char_non: `However, Zepar and Furfur just giggled...`
+char_non: `...and ran about like rats.`
+char_non: `......Beato, on the other hand,`
+char_non: ` ......took their hint to a hint...`
+char_non: `...seriously.`
+char_non: `Now that she was out of the running,`
+char_non: ` ......the second trial was between George and Shannon...and Jessica and Kanon.`
+char_non: `― Tear apart the two who are close.`
+char_non: `In other words, defeat one of the members of the opposing team.`
+char_non: `They were allowed to use any method they wanted.`
+char_non: ` It could be a duel, or it could be rock‐paper‐scissors.`
+char_non: `......After alternating many times between speaking as a group and discussing things as couples,`
+char_non: ` ......finally, the four of them seemed to have reached a decision.`
+char_geo: `".........Zepar, Furfur.`
+char_geo: ` Do you have a second?"`
+char_zep: `"Oh, they've finally called out to us!!"`
+char_fur: `"What is it, George?!`
+char_fur: ` Have you decided the format for the duel?!"`
+char_non: `No matter how much the two demons baited them with their facetious tone,`
+char_non: ` the couples' serious expressions did not waver...`
+char_sha: `"......Yes.`
+char_sha: ` We've decided to have it...as a single duel."`
+char_kan: `"It will be a duel between Shannon and me."`
+char_zep: `"That's surprising.`
+char_zep: ` For a one on one duel, we would have thought—"`
+char_fur: `"That George and Jessica would've fought."`
+char_jes: `"......These guys...`
+char_jes: `really wanted it to be them, and they wouldn't listen."`
+char_geo: `"As a man, I find it frustrating that all I can do is watch.`
+char_geo: ` ......However, Shannon's resolve is firm.`
+char_geo: ` So I—we—have no choice but to respect their decision and believe in them..."`
+char_jes: `".........Kanon‐kun..."`
+char_kan: `"Thank you so much......for believing in me.`
+char_kan: ` I've always thought that, if the day ever came when we had to fight each other directly,`
+char_kan: ` ......then we shouldn't shy away from it."`
+char_sha: `"And we've realized that...that day is today.`
+char_sha: ` ......Of course, we might have been able to avoid this day."`
+char_kan: `"However,`
+char_kan: ` ......now this day has come.`
+char_kan: ` So, we will not run from it."`
+char_jes: `"......That's right.`
+char_jes: ` ......I'll stay right here too."`
+char_geo: `"Me too.`
+char_geo: ` .........I believe in Shannon.`
+char_geo: ` So, I won't say anything more.`
+char_geo: ` ......And, even if Shannon is the one fighting in the duel,`
+char_geo: ` ...our power is one.`
+char_geo: ` So, we'll be fighting together."`
+char_sha: `".........Yes, that's right.`
+char_sha: ` ......I'm just speaking for the pair of us."`
+char_zep: `"If it is a decision made by those in love—"`
+char_fur: `"Even demons will not object."`
+char_zep: `"So, ......how would you like to settle this duel?"`
+char_fur: `"You don't mean...`
+char_fur: `that you want to have a real "duel", do you?"`
+char_non: `At once, both Shannon and Kanon nodded.`
+char_zep: `"......And the method?"`
+char_kan: `"That doesn't matter, as long as it is a fight to the death."`
+char_sha: `"If possible, ......we would like it to be peaceful and painless.`
+char_sha: ` And we would like to avoid wounding each other unnecessarily before one of us dies."`
+char_fur: `".........Zepar.`
+char_fur: ` We should be the ones to oversee this noble duel."`
+char_zep: `"True.`
+char_zep: ` ......Very well, you two.`
+char_zep: ` We propose a noble duel, one that will honor your noble spirits!"`
+char_non: `When Zepar clapped loudly, a case with an old design appeared in the air and landed between Shannon and Kanon.`
+char_non: `Furfur nodded at them, urging them to open it.`
+char_non: `Kanon crouched down and opened the case.`
+char_non: `......There were a pair of antiques inside.`
+char_non: ` They would have looked splendid hanging on the wall at some classy coffee shop.`
+char_non: `However, they were not mere decorations now.`
+char_jes: `"............Th‐these are......"`
+char_geo: `"I see.`
+char_geo: ` ......Just perfect for a duel..."`
+char_non: `Inside the case......was a pair of old‐fashioned dueling pistols,`
+char_non: ` like the kind used many centuries ago.`
+char_non: `Yes, this was a dueling pistol case,`
+char_non: ` ......which was only permitted to be opened by those who wished for a fight to the death.`
+char_zep: `"They have one bullet each.`
+char_zep: ` In accordance with your request, we have imbued the bullets with magic."`
+char_fur: `"No matter where on your body they hit you,`
+char_fur: ` these magic bullets will bring certain and painless death."`
+char_sha: `"......Thank you very much.`
+char_sha: ` You are...most merciful."`
+char_kan: `"And what if we both miss?"`
+char_zep: `"Normally, that would be a draw.`
+char_zep: ` ......However, such a thing is not allowed in our trial."`
+char_fur: `"If you both miss, you will come back, and we will give you new bullets.`
+char_fur: ` This will repeat until one of you is dead."`
+char_kan: `"......I have no objections."`
+char_sha: `"Me neither.`
+char_sha: ` ......I'm glad.`
+char_sha: ` This means we can finally—"`
+char_non: `""Settle this.""`
+char_zep: `"Ushiromiya George, I recognize you as the witness for Shannon—nay, Sayo."`
+char_geo: `"......Understood."`
+char_fur: `"Ushiromiya Jessica, I recognize you as the witness for Kanon—nay, Yoshiya."`
+char_jes: `"S‐......sure...!"`
+char_non: `""We are responsible for this duel!`
+char_non: ` It is our responsibility to see that this duel reaches a decision no matter what!!""`
+char_non: `When Zepar and Furfur cried these words out,`
+char_non: ` ......the whole area was blanketed in a gold‐colored light, ......and when it cleared,`
+char_non: ` ......it had become the rose garden where golden roses bloomed......`
+char_be3: `"A duel over love, is it......`
+char_be3: ` How old‐fashioned they are.`
+char_be3: ` ......I have seen many duels with pistols during my thousand years, ......but I have never seen one like this."`
+char_bea: `"......Because it's being overseen by demons...?"`
+char_be3: `"No.`
+char_be3: ` ......A duel over love is usually a fight between two people both in love with the same single person.`
+char_be3: ` However, here we have a pair of lovers fighting another pair of lovers.`
+char_be3: ` ......This is quite odd."`
+char_bea: `"I'm sure......that's because they want the miracle of magic.`
+char_bea: ` ......It seems we cannot succeed in love without that miracle..."`
+char_be3: `"........................`
+char_be3: ` ......Do you know the minimum number of people needed to create a universe?"`
+char_bea: `"......Huh?`
+char_bea: ` N‐no, ......I don't..."`
+char_non: `Shannon and Kanon each took a pistol out of the case,`
+char_non: ` returned to their respective witnesses, and checked the weapons over.`
+char_non: `Then, after they had both determined that there were no problems,`
+char_non: ` ......the two were asked one final time whether they were prepared to duel,`
+char_non: ` ......and both of them nodded.`
+char_zep: `"If there are no problems, the duelists shall stand back to back,`
+char_zep: ` ......then walk a predetermined number of steps away from each other."`
+char_fur: `"Then, the duel will begin on our signal.`
+char_fur: ` ......Zepar, how many steps should they walk?"`
+char_zep: `"...............Good question.`
+char_zep: ` ......Well, ......maybe we should choose a number that is closely bound to this duel."`
+char_fur: `"A number closely bound......?`
+char_fur: ` What number is that?"`
+char_zep: `"It's a number we know of well.`
+char_zep: ` ......It is that number which has been repeated over and over again since the time this tale began...!!"`
+char_non: `""That number is "19"!""`
+char_sha: `"...............That's an interesting number........."`
+char_kan: `"......I like it.`
+char_kan: ` ......It's a good number to settle everything with."`
+char_non: `19.`
+char_non: `It was the number used to refer to the witch each time the illusion of a 19th person had been seen on this supposedly 18‐person island.`
+char_non: `It was the length of time it had taken to create this tale.`
+char_non: `It was the length of time leading up to this inevitable day.`
+char_non: `And it was...`
+char_non: `...the age of the true territory lord of this world.`
+char_jes: `"They'll stand across from each other, then walk 19 steps...`
+char_jes: `...and shoot."`
+char_geo: `"......That's pretty far.`
+char_geo: ` ......At that distance, the first one to shoot won't necessarily be the winner."`
+char_sha: `"......If one of us shoots first and misses,`
+char_sha: ` ......that will probably be the end for them."`
+char_kan: `"And if it hits, this easy game can be won without even getting a scratch..."`
+char_non: `""Well then, duelers!`
+char_non: ` Stand with your backs together!!""`
+char_non: `Shannon and Kanon slowly walked towards each other, facing each other.`
+char_non: `Once they turned away,`
+char_non: ` ......the next time they would see the other's face would be the time that they killed them.`
+char_non: ` ......So, this was the last time they would face each other.`
+char_sha: `"Thanks for everything.`
+char_sha: ` .........Having a little brother like you made things fun."`
+char_kan: `"......Thank you for letting me be me.`
+char_kan: ` ......Thank you for showing me the color in the world of gray."`
+char_sha: `"Why......were we born, I wonder..."`
+char_kan: `"It would have been better if we had died at birth."`
+char_sha: `"......That is our father's sin, isn't it..."`
+char_kan: `"Yeah.`
+char_kan: ` So he can just die. Let them all die."`
+char_sha: `"Yeah. Everyone will die.`
+char_sha: ` It'll happen very soon.`
+char_sha: ` ......And right after, everyone will revive, and we'll be able to see them again.`
+char_sha: ` We won't be birds in a cage anymore."`
+char_kan: `"......We will finally leave our cage......and fly off to our separate worlds."`
+char_sha: `"I should have had this duel with you......long ago."`
+char_kan: `"......Surely, today is the day."`
+char_sha: `"Yeah.`
+char_sha: ` It's today."`
+char_kan: `"October 5th, 1986.`
+char_kan: ` ......The fated day."`
+char_sha: `"The day that one of us will die."`
+char_kan: `"......Or maybe we'll both shoot at the same time, and both die."`
+char_sha: `"Oh, that might happen too.`
+char_sha: ` .........In fact, that's not so unlikely at all."`
+char_kan: `"Right.`
+char_kan: ` Even if that happens, our loves will surely be made complete."`
+char_sha: `".........Do we really......need to duel?"`
+char_kan: `"We do.`
+char_kan: ` You said it yourself.`
+char_kan: ` ......We should have done this much sooner."`
+char_sha: `"Right.`
+char_sha: ` ......Because...to me, you are—"`
+char_kan: `"To me, you are—"`
+char_non: `{a:c:`
+char_non: `""Just in the way.""}`
+char_non: `For the first time, ......the intent to kill flashed through the eyes of both.`
+char_non: `Why...?`
+char_non: ` For what reason......?`
+char_non: `Why must this day come for this pair,`
+char_non: ` ......who are connected by a bond different from romantic love, as though they were real siblings...?`
+char_non: `It's a great mystery.`
+char_non: `And, also a great mystery is the question of how this can be the key...`
+char_non: `...towards unlocking Battler‐san's locked room.`
+char_non: `......If I watch over this duel instead of running away,`
+char_non: ` ......will I find the key towards solving that locked room...?`
+char_non: `I will, right?`
+char_non: ` Zepar‐san, Furfur‐san......!`
+char_non: `The cathedral was beautifully decorated to be the place of the wedding between the territory lord, Lord {f:5:Battler}, and his wife‐to‐be, Lady {f:5:Erika}...`
+char_non: `A crowd of guests wearing goat masks filled the cathedral, waiting for the arrival of the bride and groom...`
+char_non: `Fitting for a demon's wedding, it was not solemn or quiet,`
+char_non: ` ......but cheery and noisy, brimming with activity.`
+char_wal: `"......I wonder what Beato is doing."`
+char_ron: `"I hear she has gone to see Zepar and Furfur.`
+char_ron: ` ......With the power of love, that powerful pair could even force the demon king to retreat.`
+char_ron: ` ......They are bound to be of some use, or at least I would like to think so..."`
+char_gap: `"......I know a~ll about those two.`
+char_gap: ` ......I think you know as well as I that they won't hand over their power easily."`
+char_ron: `"True.`
+char_ron: ` ......However, ......that is why they are capable of granting a miraculous power."`
+char_wal: `".........At any rate, if we can just free Battler‐kun's heart from that locked room, we should be able to manage something here.`
+char_wal: ` ......Locked rooms are your favorite, aren't they, Gaap?`
+char_wal: ` Can't you think of any tricks...?!"`
+char_gap: `"This is a nasty one.`
+char_gap: ` Battler and Erika have locked it up tight with all kinds of red truths.`
+char_gap: ` ......I can say for certain that a solo escape from the inside is impossible."`
+char_ron: `"So, after all, the only way is to have someone else trade places with him and set the chain..."`
+char_gap: `"......If that "someone" does appear, it should be easy to save Battler.`
+char_gap: ` There are eleven people, right?"`
+char_wal: `"Those eleven are sealed on the second floor of the guesthouse...`
+char_wal: ` If we could somehow slip them out of there...!"`
+char_ron: `"......I see.`
+char_ron: ` ......Solving the problem of Battler‐sama's locked room is equivalent to solving the problem of either locked room on the guesthouse's second floor."`
+char_gap: `"Exactly.`
+char_gap: ` Limiting your thoughts to just Battler's guest room is like being trapped in a mental locked room.`
+char_gap: ` ......The locked room we need to break open to save Battler isn't the guest room.`
+char_gap: ` It's the locked rooms in the guesthouse...!"`
+char_dla: `".........Most unfortunately,`
+char_dla: ` we of Eiserne Jungfrau have been placed in charge of those two {f:5:rooms}."`
+char_gap: `"Tch.`
+char_gap: ` And you guys specialize in seals and barriers..."`
+char_dla: `"I must admit, I am impressed, Miss Gaap.`
+char_dla: ` It is quite an achievement to realize that the locked room you should destroy to save Battler is within the {f:5:guesthouse}.`
+char_dla: ` ......The ceremony will probably begin soon, but shall we reconstruct the scene as a way to kill time until {f:5:then}?"`
+char_wal: `"......A‐are you sure?`
+char_wal: ` Doesn't this violate the obligation of confidentiality you have as Lady {f:5:Erika}'s piece...?"`
+char_dla: `"That is no {f:5:problem}.`
+char_dla: ` ......I am sure that if you first confirm the seals around the scene and fall into despair,`
+char_dla: ` ......we will all be able to celebrate this ceremony more {f:5:sincerely}."`
+char_gap: `"How confident......`
+char_gap: ` ......I'll take that challenge.`
+char_gap: ` ...Lia, let's have ourselves a little snack before the ceremony."`
+char_ron: `"With that, dear ladies of Eiserne,`
+char_ron: ` we humbly ask that you reconstruct the scene for us."`
+char_non: `""For your attention: we hear and obey.""`
+char_wal: `"......This is......the cousins' room."`
+char_dla: `"The next room over has the exact same {f:5:layout}.`
+char_dla: ` Please investigate as thoroughly as you {f:5:like}."`
+char_ron: `"This room has......Genji, Gohda, Kanon...`
+char_ron: `plus Krauss, Rudolf, and Jessica, for a total of six people."`
+char_dla: `"The next room over has Hideyoshi, George, Shannon, Kumasawa, and Nanjo, for a total of five {f:5:people}."`
+char_gap: `"Come on, everyone, don't be stupid.`
+char_gap: ` It doesn't matter who's here.`
+char_gap: ` We need to find out how to escape from this room."`
+char_wal: `"Y‐you're right.`
+char_wal: ` ......The door and windows are sealed, so we must somehow escape from some other place......"`
+char_gap: `".........You know what?`
+char_gap: ` ...I know all about how you heaven people specialize in pressing ahead to hide inconvenient facts.`
+char_gap: ` ......It's not a locked room, is it?`
+char_gap: ` This room......"`
+char_cor: `"......For your attention: I beg to inform you of the following.`
+char_cor: ` The locked rooms in our charge are perfect...!"`
+char_gap: `"You were in charge of the window seal of Kinzo's room last game, right...?`
+char_gap: ` ......Just how did Battler get Kinzo out of that room again...?"`
+char_cor: `"..........................."`
+char_dla: `"......Cornelia was not at {f:5:fault}.`
+char_dla: ` The blame rests on me as her {f:5:superior}."`
+char_gap: `"This is exactly the same as Kinzo's study.`
+char_gap: ` It's the windows.`
+char_gap: ` This locked room can be broken by the windows.`
+char_gap: ` ......It's clear as day how you people operate."`
+char_wal: `"H‐how...?!`
+char_wal: ` Lady {f:5:Erika} sealed the entire room, right...?`
+char_wal: ` That means the entire room is sealed, including the windows...!"`
+char_ron: `"......I see.`
+char_ron: ` ......It would seem that we have been misinterpreting the definition of these seals.`
+char_ron: ` A locked room sealed by duct tape...`
+char_ron: `is not {i:impossible} to break out of.`
+char_ron: ` It forms no prison."`
+char_gap: `"That's it exactly.`
+char_gap: ` ......Yes, a seal proves that a room is a locked room.`
+char_gap: ` But it doesn't guarantee that the room will {i:remain} sealed.`
+char_gap: ` All it does is prove that the room is a locked room {i:as long as the duct tape isn't broken}."`
+char_dla: `"We are not trying to deceive you in any {f:5:way}.`
+char_dla: ` .........As long as the duct tape is intact, it is guaranteed to be a locked {f:5:room}.`
+char_dla: ` That is {f:5:all}."`
+char_wal: `"Th‐then why the windows...?!`
+char_wal: ` Why is it that we can break the locked room by the windows?!"`
+char_gap: `"It's simple.`
+char_gap: ` We just tear the duct tape apart and jump out.`
+char_gap: ` ......I don't know what the outside wall of the guesthouse is like,`
+char_gap: ` but that girl crawled up it and stuck duct tape on the outside without anyone noticing, so it must have at least enough footholds for that."`
+char_dla: `".........If you break the duct tape, we will immediately know that the seal has been {f:5:broken}.`
+char_dla: ` And we have already proven that the seals were intact at the time of Battler's logic {f:5:error}."`
+char_gap: `"True.`
+char_gap: ` It's true that, at that time, you proved that the seals weren't broken.`
+char_gap: ` ......That's how you tricked us into thinking that it was a locked room.`
+char_gap: ` ......A seal doesn't necessarily imply a locked room."`
+char_non: `Gaap was the demon who specialized in putting an end to locked‐room mysteries...`
+char_non: `......She drew herself up and looked down on the short Dlanor, as though a challenge such as this was like taking candy from a baby.`
+char_non: `Dlanor looked up at her with a bold expression, and sparks flew between them......`
+char_wal: `"A seal doesn't imply a locked room?!`
+char_wal: ` That can't be..."`
+char_gap: `"Remember, Lia.`
+char_gap: ` Which seals did Erika and the others show us at that time?`
+char_gap: ` Which seals did they show were still intact?!"`
+char_ron: `".........Pu ku ku ku.`
+char_ron: ` ...I see.`
+char_ron: ` ......This is the sort of falsification that the Great Court of Heaven likes to practice."`
+char_dla: `"I cannot let that remark {f:5:pass}.`
+char_dla: ` ......What is your {f:5:complaint}?"`
+char_gap: `"Come on, I've been saying it the whole time. It's the windows.`
+char_gap: ` ......It's true that you sealed everything with those seals.`
+char_gap: ` That included the windows, at that time.`
+char_gap: ` And you proved that at the time they were sealed.`
+char_gap: ` So far so good.`
+char_gap: ` But you know what?!"`
+char_gap: `"After that, any one of the people inside could have done it!`
+char_gap: ` Umm, who was here again?!`
+char_gap: ` Genji, Gohda, Kanon, Krauss, Rudolf, Jessica!`
+char_gap: ` Any one of them could do it!`
+char_gap: ` All they had to do was tear the duct tape on the window, slip out from there, and save Battler...!"`
+char_wal: `"But at the time of the logic error, it was proven that the seals were intact...!"`
+char_ron: `"Incorrect.`
+char_ron: ` ......At that time, Lady {f:5:Erika} only proved the status of {i:the seals on the doors}."`
+char_dla: `".........................................."`
+char_wal: `"C‐......come to think of it...!`
+char_wal: ` At that time, Lady {f:5:Erika} just showed the doors of the two rooms and claimed that the seals were intact for each...`
+char_wal: ` She never mentioned the seals on the windows...!!"`
+char_gap: `"That's correct.`
+char_gap: ` .........It's probably true that the seals on the doors and windows were perfect at first.`
+char_gap: ` ......However, at the time of the logic error, only the status of the seals on the doors was confirmed.`
+char_gap: ` In other words, since the time Erika left the guesthouse,`
+char_gap: ` it was not forbidden for them to break through the windows and leave whenever they wished!"`
+char_dla: `".............................."`
+char_gap: `"Well?`
+char_gap: ` I've got you now, haven't I?`
+char_gap: ` This is how you people do things."`
+char_dla: `"...............heh..............."`
+char_ger: `"......Supervisor Dlanor.`
+char_ger: ` ............It's nearly time..."`
+char_dla: `"............It seems the bride and groom have {f:5:arrived}.`
+char_dla: ` This ends our {f:5:chat}.`
+char_dla: ` .........We will meet again {f:5:later}."`
+char_non: `With an amused grin on her face, Dlanor turned around.`
+char_non: `{n}......But that had to have hit her where it hurt.`
+char_non: `Gaap had no intention of letting her get away.`
+char_non: ` She grabbed Dlanor's shoulder.`
+char_gap: `"......Wait there.`
+char_gap: ` Confirm whether or not the seals on the windows were preserved at the time of the logic error.`
+char_gap: ` If you don't, it's possible for anyone in that room to save Battler!!"`
+char_dla: `"And who......do you think such a rescue would be possible {f:5:for}?"`
+char_gap: `"It doesn't matter who!`
+char_gap: ` Then, just by personal preference, I'll name Kanon‐kun.`
+char_gap: ` He seems agile, and hiding his presence is his specialty.`
+char_gap: ` He's the perfect person to follow after Erika and quickly change places with Battler‐kun!"`
+char_dla: `"Kanon, you {f:5:say}...?`
+char_dla: ` Hehheh{0}eh{0}eh{0}eh{0}eh{0}eh{0}eh{0}eheh......`
+char_dla: ` That is {f:5:impossible}."`
+char_gap: `"Impossible?`
+char_gap: ` Come now, we can't trust what you say with normal words.`
+char_gap: ` ......Use the red truth.`
+char_gap: ` Swear upon that red longsword of yours."`
+char_dla: `"......Miss Gaap.`
+char_dla: ` A sacred ceremony is about to begin {f:5:here}.`
+char_dla: ` You ask me to draw my sword in a sacred place such as {f:5:this}?`
+char_dla: ` ......I believe that would be inelegant and rude in the {f:5:extreme}.`
+char_dla: ` Let us do this some other {f:5:time}.`
+char_dla: ` ......If you would excuse {f:5:me}."`
+char_gap: `"......{p:2:It is possible for Kanon to save Battler.`
+char_gap: ` After Erika sealed the room, he left by the window, switched places with Battler‐kun in the guest room, set the chain lock, and hid in the closet}."`
+char_dla: `"......`
+char_dla: `{p:1:That is {f:5:impossible}.`
+char_dla: ` The seals on the windows were also {f:5:intact}.`
+char_dla: ` Of course, this is at the time of the logic {f:5:error}}."`
+char_non: `Gaap's blue wedge and rapid reverse roundhouse......crossed with Dlanor's red longsword, and both pointed at the other's throat......`
+char_non: `The once peaceful mood of the wedding broke apart.`
+char_non: `......Several goat guests whispered to each other, wondering why those two seemed to be fighting.`
+char_gap: `"......Okay, ......so you can counter that......`
+char_gap: ` Why didn't you just say so in the first place?"`
+char_dla: `".........We thought that {f:5:Beatrice} might eventually reach that thought,`
+char_dla: ` ......then barge in on the wedding with that as the key to Battler's {f:5:escape}.`
+char_dla: ` .........I did not think that you would press us first......and force us to show our {f:5:hand}."`
+char_gap: `"Y‐......you do fight dirty, don't you...`
+char_gap: ` ......You were trying to lay a trap for Beato, ......making her suspect the windows, ......drawing her out, ......then turning the tables on her......"`
+char_dla: `"What else should a human who guards the bride be expected to {f:5:do}?`
+char_dla: ` ......Are you satisfied {f:5:now}?`
+char_dla: ` A hellish wedding truly is vulgar and {f:5:barbaric}.`
+char_dla: ` ......Now, excuse {f:5:me}."`
+char_gap: `"......Hold it right there, you haven't fooled me yet......`
+char_gap: ` {p:2:You were talking about the seals blocking {i:Kanon}, the ones on the windows of the cousins' room, right?`
+char_gap: ` Then what about the windows on the next room over?`
+char_gap: ` All you've done is shown that the rescue would have been impossible for Kanon.`
+char_gap: ` There's still a chance for the humans in the next room over}...!"`
+char_dla: `"........................How very {f:5:persistent}."`
+char_s00: `"We apologize for our rudeness!`
+char_s00: ` We are the Chiester Sisters Imperial Guards, in charge of security at this ceremony!`
+char_s00: ` I'm afraid I must ask you both for your stamped invitations!"`
+char_dla: `"Dlanor A. Knox.`
+char_dla: ` I am with the bride's {f:5:party}.`
+char_dla: ` Here is my stamped {f:5:invitation}.`
+char_dla: ` Also, here are my credentials as bodyguard to the {f:5:bride}."`
+char_s45: `"Confirmed as Chief Knox.`
+char_s45: ` Welcome to Lord {f:5:Battler}'s wedding!"`
+char_gap: `"I'm Gaap.`
+char_gap: ` I'm with the groom's party.`
+char_gap: ` Here's my invitation and...`
+char_gap: `...ah, oh no."`
+char_s41: `"You didn't get it stamped at the reception desk nyeh."`
+char_gap: `"I came here directly, so I didn't go by the reception desk.`
+char_gap: ` Tehe, haven't got a stamp yet."`
+char_wal: `"Wh‐why do you always have to mess something up at times like this...?!!"`
+char_s00: `"......Gaap‐sama.`
+char_s00: ` My apologies, but we'll have to ask you to come with us to a different room."`
+char_non: `Dlanor watched, shrugged, and turned away...`
+char_gap: `"Wait there, Dlanor!!`
+char_gap: ` Respond to my blue truth!!"`
+char_dla: `"If you want the opinion of the Great Court of Heaven, please fill out an application in accordance with court {f:5:procedures}."`
+char_ger: `"For your attention:`
+char_ger: ` know that the ticket window is open from 10:00 to 5:00 on weekdays.`
+char_ger: ` Lunch break runs from 12:00 to 1:15."`
+char_cor: `"For your attention:`
+char_cor: ` be advised that the use of white‐out or strikethroughs is not permitted when filling out forms."`
+char_s41: `"There's a rumor that a certain event I won't name refuses applications for the same thing nyeh."`
+char_s45: `"Th‐that's an urban legend.`
+char_s45: ` .........Probably."`
+char_dla: `"I will provisionally accept that blue truth {f:5:verbally}.`
+char_dla: ` ......It will be put on hold until the proper forms are received, and multiple submissions are not {f:5:allowed}."`
+char_gap: `"I don't understand!!`
+char_gap: ` Can you respond to my blue truth?! Or can't you?!"`
+char_dla: `"......If you fill out the application on Monday, we should be able to have an answer for you by the end of next {f:5:month}.`
+char_dla: ` Multiple submissions are forbidden, so the blue truth you just spoke will be unusable during this wedding {f:5:ceremony}.`
+char_dla: ` ......This is in accordance with the official Great Court Regulations, Article {nobr:214‐15}, "Prohibition of Multiple {f:5:Submissions}"!"`
+char_ger: `"For your attention: I beg to inform you of the following.`
+char_ger: ` {p:1:Know that it is forbidden for blue truth to be used if based on the argument that the window seals of the next room over were torn at the time of the logic error}."`
+char_cor: `"For your attention: I beg to inform you of the following.`
+char_cor: ` {p:1:Be advised that there can be no obligation to provide an answer to said blue truth}...!"`
+char_gap: `"C‐cowards!!`
+char_gap: ` Hey, let go of me, rabbit band!!"`
+char_non: `The Chiester Sisters led Gaap away...`
+char_non: `Just when she had thought that she'd reached the core......they had underhandedly refused to respond.`
+char_non: `However, this was a big clue.`
+char_non: ` There was a chance that the window seals on the next room over had been broken...!`
+char_non: `In other words, it might be possible for Hideyoshi, George, Kumasawa, Shannon, or Nanjo to save Battler.`
+char_non: `And yet, just now, that option had been sealed away...!`
+char_non: `The use of any blue truth based on "the window seals on the next room over might have been broken"...`
+char_non: `had been prevented...`
+char_non: `It was now impossible......to claim that the five who could have saved Battler were the ones who did it...!`
+char_enj: `"Wh‐what the hell...?!`
+char_enj: ` That's low! Isn't that the answer?!`
+char_enj: ` I also noticed that they hadn't proven that the windows' seals were intact.`
+char_enj: ` But if that can't be used for blue truth, what are they supposed to do?!`
+char_enj: ` Yeah, I know.`
+char_enj: ` You're gloating again because you alone have discovered the answer...!"`
+char_fea: `".........My apologies, child of man.`
+char_fea: ` ......I am stuck on this just like you are."`
+char_enj: `"Huh......? What are you saying...?"`
+char_fea: `"I also realized that the windows of the next room over were left available...`
+char_fea: ` ......However, I never imagined that the use of that argument would be prevented..."`
+char_enj: `"Doesn't this completely violate the rules?!`
+char_enj: ` I mean, how can a quiz be fair if you can't say the right answer?!`
+char_enj: ` Isn't this a logic error for the other side?!"`
+char_fea: `"........................`
+char_fea: ` ......We can also view the fact that the tale is continuing as proof that it wasn't a logic error..."`
+char_enj: `"In other words, there's some other answer completely unrelated to the windows of the next room over...?"`
+char_fea: `"......Or, ......it may be possible to explain, without discussing the windows, how one of the five in the next room over could have come to Battler's rescue."`
+char_enj: `"Not discussing the windows means getting out of the room without using the windows.`
+char_enj: ` That would make this next room over a locked room again...!"`
+char_fea: `"......Yes.`
+char_fea: ` ......That is why I am also stuck.`
+char_fea: ` ......Because of these strange seal proclamations, the two rooms have once again become locked rooms.`
+char_fea: ` ......Most likely—"`
+char_enj: `"Most likely what?`
+char_enj: ` If you're so vastly intelligent, what kind of answer have you found?!"`
+char_fea: `"...............There is no...answer."`
+char_enj: `"No answer?!`
+char_enj: ` What do you mean, no answer?!"`
+char_fea: `"There is no way out except for the windows of the next room over.`
+char_fea: ` ......And yet, we are not allowed to include those windows in our reasoning.`
+char_fea: ` ............There probably is no answer...for this locked room."`
+char_enj: `"Then what happens next?!"`
+char_fea: `"Since no answer exists, defeat is absolutely certain for whichever player is burdened with the responsibility of explaining."`
+char_enj: `"But then...they're out of moves to play...!`
+char_enj: ` In other words, that statement of Dlanor's was......in a way......the final blow!`
+char_enj: ` It means it's checkmate!!"`
+char_fea: `"........................`
+char_fea: ` ......No, one move does exist.`
+char_fea: ` ......However, that move is one.........that can never be used again.`
+char_fea: ` ......And it is also...a part of Beato's heart."`
+char_enj: `"You mean...one of the greatest mysteries of this tale...?"`
+char_fea: `"Precisely.`
+char_fea: ` .........If he uses that, ......there may be a chance......"`
+char_non: `{f:5:Featherine} sighed deeply.`
+char_non: `{n}......It was something she hadn't done at all before now.`
+char_non: `.........I see.`
+char_non: `......So it's finally time......for the curtain to close on this long, long tale...`
+char_non: `Revealing that mystery...`
+char_non: `...means finally...`
+char_non: `......killing Beato.`
+char_non: `.........Battler......is probably the only one qualified to do that.`
+char_non: `If he weaves that tale as the Game Master,`
+char_non: ` .........no one will be able to stop it now...`
+char_non: `Very soon,`
+char_non: ` .........the greatest mystery of this tale...`
+char_non: `......is likely to be...`
+char_non: `......revealed......`
+char_non: `A deep sound reverberated through the cathedral.`
+char_non: `It was the sound of dozens of heels being stamped in unison, originating from the honor guards—members of the Chiester Sisters Imperial Guard—who were lining the cathedral.`
+char_non: `......It brought about total silence even before the demons running the ceremony spoke.`
+char_zep: `"Let us have silence!!`
+char_zep: ` Ladies and gentlemen...!!"`
+char_fur: `"Welcome to the wedding of Lord {f:5:Battler}, territory lord and Golden Sorcerer, and Lady {f:5:Erika}, the Witch of Truth!!"`
+char_non: `Zepar and Furfur had appeared in the center of the cathedral.`
+char_non: `......It was a great status symbol to have these two demons invited to host the wedding.`
+char_non: `Though they had asked for silence, the attendees who packed the cathedral welcomed the two demons with enormous applause.`
+char_wal: `"......Oh, it's Zepar and Furfur.`
+char_wal: ` Then what about Beato...?"`
+char_ron: `"She may already have snuck in......"`
+char_non: `They searched for Beato in the crowd of several hundred people,`
+char_non: ` ......but they couldn't find her anywhere.`
+char_wal: `"I wonder......if Beato found a way to save Battler‐kun..."`
+char_ron: `"......If she managed to gain Zepar and Furfur's power, ......then I'm sure she has.`
+char_ron: ` ......There is no miracle that cannot be gained after receiving their power."`
+char_wal: `"And if she didn't......?"`
+char_ron: `"......Then that goat biting its handkerchief over there is probably her.`
+char_ron: ` Pu ku ku..."`
+char_zep: `"And now, let us welcome the bride and groom...!!"`
+char_fur: `"Please give them a grand welcome to celebrate this new chapter in their lives!!"`
+char_non: `""Come out, bride and groom!!`
+char_non: ` Walk the path of the shackles called marriage, which will bind you until the grave!!""`
+char_non: `The big doors in the back of the cathedral...`
+char_non: `...slowly opened......`
+char_non: `And then,`
+char_non: ` .........the territory lord...`
+char_non: `...and his beautiful bride...came into view......`
+char_non: `Arm in arm, the pair slowly......began to walk down the "path to the grave" lined with red carpet.`
+char_non: `The Chiester honor guards stood at attention along either side of that path,`
+char_non: ` raised their adorned bayonets with mechanical precision,`
+char_non: ` and made sure that no evil could block the path that the pair walked down.`
+char_non: `Chiester Sisters troops that weren't part of the honor guard were stationed all over the cathedral, hiding behind pillars and so on, and keeping an eye out for any intruders.`
+char_s00: `".........00 calling 45 and 410, any irregularities?"`
+char_s41: `"Ceiling snipers, no irregularities nyeh."`
+char_non: `410 and 45 could be seen on top of the massive chandelier hanging from the cathedral's ceiling.`
+char_non: `Several other sniper pairs could be seen stationed on top of the other chandeliers...`
+char_non: `This seemingly festive cathedral...`
+char_non: `was actually being heavily guarded in places that the attendees wouldn't notice......`
+char_s45: `"Currently, we are targeting 36 attendees suspected of being Lady {f:5:Beatrice},`
+char_s45: ` as well as 131 who are located in positions suitable for a surprise attack. Surveillance in progress."`
+char_s00: `"......Don't let your guard down.`
+char_s00: ` ......Lady {f:5:Beatrice} is certain to stage an attack on the wedding."`
+char_s41: `"That'd be so cool, breaking in to steal the bride nyeh."`
+char_s45: `"410, he's not the bride, he's the groom!"`
+char_s41: `"I said what I meant nyeh.`
+char_s41: ` Nihi{0}hi{0}hi{0}hi{0}hi......"`
+char_non: `The Chiester sniper teams on the chandeliers...`
+char_non: `were using extremely highly capable surveillance agents to track the movements of the several hundred attendees.`
+char_non: `If any one of them made any suspicious movements, ......the Chiesters would immediately be given permission to fire.`
+char_non: `...The one on that chandelier is Chiester127.`
+char_non: `{n}That overworking monster sniper could pulverize a human target from two kilometers away.`
+char_non: `...The one on the chandelier across from that is Chiester20.`
+char_non: `{n}Her firing rate is 6000 shots per minute.`
+char_non: ` However, she's using a portable magazine this time, so she'll use up her shots in about two seconds.`
+char_non: ` That lazy bum can barely do her job for just two seconds nyeh.`
+char_non: `Slowly, ......and making a show of it, the two walked down the red‐carpeted path.`
+char_non: `Battler's eyes were blank.`
+char_non: `......If you looked closely, you could tell that Erika was dragging him by the arm she held.`
+char_non: `In other words, they weren't walking together.`
+char_non: `......This was a ceremony for Erika to show off to everyone that this man belonged to her...`
+char_non: `Behind the bride and groom walked the Seven Sisters of Purgatory, who held long, ceremonial staffs in the shape of the One‐winged Eagle...`
+char_rg1: `"That moron Battler......what's he lazing about for...`
+char_rg1: ` This is why people call him incompetent."`
+char_rg2: `"......I can understand {f:5:Beatrice}‐sama's pain...better than anyone else."`
+char_rg3: `"It's all because that stupid Battler caused a logic error!`
+char_rg3: ` Stupid, stupid, stupid!"`
+char_rg4: `".........{f:5:Beatrice}‐sama will not fall to sloth and let this wedding go on."`
+char_rg5: `"Of course.`
+char_rg5: ` {f:5:Beatrice}‐sama is greedy.`
+char_rg5: ` She won't let someone else take away her favorite toy.`
+char_rg5: ` She'll definitely show up..."`
+char_rg6: `"*slobber* I hear the reception's gonna have tons of delicious food...!"`
+char_rg7: `"Aaah, I want to wear a wedding dress...noooooooooo~w!!"`
+char_non: `{f:5:Bernkastel} and {f:5:Lambdadelta} were in the nobles' seating on the balcony.`
+char_non: `They sipped questionable‐looking carbonated cocktails as they looked down upon the show...`
+char_lam: `".........What a splendid wedding dress.`
+char_lam: ` ......This sort of thing's not bad."`
+char_ber: `"This is just the opening performance."`
+char_lam: `"That's pretty cruel.`
+char_lam: ` What event are you expecting to be the headliner?`
+char_lam: ` ......Bern, you don't really believe Beato will come, do you?`
+char_lam: ` You know as well as I do that Battler's locked room is perfect.`
+char_lam: ` ......There's no way that Beato could win.`
+char_lam: ` Right......?"`
+char_ber: `"...............You must have heard too.`
+char_ber: ` There's a chance that the window seal on the next room over has been torn.`
+char_ber: ` ......It seems that Dlanor has managed to seal that off for now, but she just denied the concept instead of sealing the actual window.`
+char_ber: ` .........It'll fly out the window again.`
+char_ber: ` This One‐winged Eagle."`
+char_lam: `"Wanna make a bet?"`
+char_ber: `"On whether Beato will come?"`
+char_lam: `".........I bet she comes with certainty."`
+char_ber: `"......I bet she comes miraculously."`
+char_lam: `"Ah, this isn't going to work.`
+char_lam: ` ......*giggle*giggle*."`
+char_non: `The Witch of Certainty and the Witch of Miracles were both sure that Beato would come.`
+char_non: `However, they were very interested in exactly how she would break the locked room and take Battler back...`
+char_ber: `".........You had a look behind the scenes, so you already know, don't you?`
+char_ber: ` The trick."`
+char_lam: `"More or less.`
+char_lam: ` ......But Erika's done a hell of a job, so now even I'm stumped."`
+char_ber: `"......Liar."`
+char_lam: `"Oh...?"`
+char_ber: `"I'm sure you've found the answer already.`
+char_ber: ` .........There is one, isn't there? A trick that can save Battler."`
+char_lam: `"...........................`
+char_lam: ` ......There is.`
+char_lam: ` ......But it's tough."`
+char_ber: `"And if that move is used, ......part of Beato's heart will be exposed.`
+char_ber: ` ......Isn't that right?"`
+char_lam: `"......Oh, so you do know."`
+char_ber: `".........Hey, wanna change our bet?"`
+char_lam: `"To what?"`
+char_ber: `"To whether Beato or Erika wins."`
+char_lam: `"Sure, if you're willing to bet on Erika."`
+char_ber: `".........You're on."`
+char_lam: `"Oh? You're betting on Erika?`
+char_lam: ` What makes you think you can win?"`
+char_ber: `".........If this trick is a part of Beato's heart,`
+char_ber: ` .........then Battler, the Game Master, will hesitate to expose it.`
+char_ber: ` And so, they cannot win.`
+char_ber: ` It will probably be a draw.`
+char_ber: ` I'm sure they'll confuse matters and run away."`
+char_lam: `".........Battler's sworn to lay Beato to rest.`
+char_lam: ` ......Bern,`
+char_lam: ` ...you're being too naive......"`
+char_non: `The bet was made.`
+char_non: `Based on the assumption of that certain miracle...that Beato would come.`
+char_non: `{f:5:Virgilia}, who was standing in the front row, tried to call out as soon as Battler walked by.`
+char_non: `She tried to tell him that the window seal on the next room over hadn't been confirmed, hoping that this would give him a hint.`
+char_non: `However, she had been marked perfectly.`
+char_non: `The instant she tried to lean forward, two Chiester Sisters right behind her grabbed her arms.`
+char_non: `It was a powerful force preventing her from going forward.`
+char_non: `Unable to move, ......she was forced to stay there and watch as Battler walked past.`
+char_wal: `"Battler‐kun......"`
+char_ron: `"......Even now, ......he is fighting that locked room all by himself.`
+char_ron: ` .........However, he cannot get out of that locked room by his own power alone.`
+char_ron: ` ......Unless someone comes to save him, he cannot get out."`
+char_wal: `"Unless that child comes to save him, ......Battler‐kun will be trapped..."`
+char_ron: `"If there is a key to that locked room,`
+char_ron: ` ......I am certain...Milady will find it......"`
+char_ron: `.........Milady.`
+char_ron: ` ......I am sure you have gone through many trials in your life.`
+char_ron: `But please, this is one trial that you must overcome...`
+char_ron: `......I am certain that you can do it.`
+char_ron: `{n}`
+char_ron: `I do not doubt that in the slightest......`
+char_ron: `The bride and groom...slowly processed down the path to the grave.........and reached the altar.`
+char_ron: `Though walking slowly was ceremonious and proper etiquette, it was also tiring.`
+char_ron: `Erika glanced over at Battler.`
+char_ron: `{n}......Of course, his eyes were blank.`
+char_ron: `His heart was still inside that locked room.`
+char_ron: `Once more, the sound of the Chiester honor guard stamping their heels rang out loudly.`
+char_ron: `Silence returned to the cathedral.`
+char_ron: `......Now, the wedding ceremony would finally......begin.`
+char_zep: `"People live for the sake of love!`
+char_zep: ` Therefore, today, you have fulfilled the purpose of your lives."`
+char_fur: `"Oh, how great is the power to live, the power of love...!`
+char_fur: ` I pray that the brightness of this day blesses these two for all time!"`
+char_non: `""Come now, you who love one another!`
+char_non: ` Make the oath of love!!""`
+char_zep: `"In the place of the husband who cannot speak—"`
+char_fur: `"Let the wife deliver the vows on behalf of both...!"`
+char_eri: `"......Battler swears to Erika,`
+char_eri: ` and Erika swears to Battler...`
+char_eri: `to support each other, both in sickness and in health."`
+char_but: `"............ggh..................ghh......"`
+char_eri: `"......I didn't catch that, Battler‐san...`
+char_eri: ` If you have some objection, please say it a bit more clearly, in a loud voice."`
+char_but: `".........Da...mn...it........."`
+char_eri: `"If you have anything further to say,`
+char_eri: ` please get yourself out of that logic error locked room first.`
+char_eri: ` .........Don't worry.`
+char_eri: ` I'll support you forever until that day comes.`
+char_eri: ` ......*giggle*, ......*giggle*giggle*giggle*giggle*!!"`
+char_non: `""You have heard the couple's oath of love.`
+char_non: ` Oh, let this oath be eternal...!!""`
+char_non: `Thunderous applause celebrated their marriage of servitude......`
+char_non: `{n}After the oath, ......they would physically signify the bond.`
+char_non: `......It was the exchanging of the rings.`
+char_non: `......The territory lord's ring with the One‐winged Eagle engraved on it that sat on Battler's finger...would become Erika's.`
+char_non: `By this, she would become the ruler of this game board...`
+char_non: `And in exchange, ......Battler's finger would be given a diamond ring that Erika had prepared.`
+char_non: `......At a glance, it just looked like a ring adorned by a large diamond.`
+char_non: `......However, this cursed ring would force Battler into eternal subservience and brand him as another's property......`
+char_zep: `"Yes, let the pair exchange rings...!!"`
+char_fur: `"......Since the husband's fingers cannot move, let his wife support him...!"`
+char_non: `Erika respectfully took Battler's left hand......then slowly pulled off the territory lord's ring that had sat on his ring finger......`
+char_non: `That was the ring Beato had entrusted him with.`
+char_non: ` ......Erika...stole it away.`
+char_eri: `"This is the ring that woman left to you, right......?`
+char_eri: ` Heh...heheh...`
+char_eri: ` ......How does it feel to have it stolen away by a woman like me......?"`
+char_but: `".........to...he........."`
+char_eri: `"Huh?`
+char_eri: ` I can't hear you.`
+char_eri: ` Please say it one more time."`
+char_but: `"......Go......to hell......"`
+char_eri: `"Oh, is that all?`
+char_eri: ` Well, then there's no need to worry, Battler‐san."`
+char_non: `Erika pressed her lips up against Battler's earlobe as if biting it......and told him where they were.`
+char_eri: `"......We're already there.`
+char_eri: ` *giggle*........."`
+char_non: `Then, slowly,`
+char_non: ` ......she took Beato's ring, which she had stolen from Battler,`
+char_non: ` ......and slipped it onto her own left hand...`
+char_zep: `"And now, the bride...`
+char_zep: `...may put her ring on the groom."`
+char_fur: `"......This one's pretty incredible.`
+char_fur: ` .........It's the shackle that'll hold him in place for all time."`
+char_eri: `"*giggle*.`
+char_eri: ` ......Yes, ......it's custom made."`
+char_non: `Even Battler's blank eyes could see the diamond ring Erika held.`
+char_non: `{n}It was like Erika herself.`
+char_non: `On the outside, it shone beautifully, ......and possessed an absolute hardness that would bend to no one's will.`
+char_non: `And on the inside, ......to symbolize never letting go of the prey it had latched onto,`
+char_non: ` ......it had eight sharp thorns pointing inwards.`
+char_non: `If they had been growing out of the outer side, it would have looked like the collar of a hellhound.`
+char_non: `......However, who ever heard of putting those on the inside...?`
+char_non: `She turned the diamond until it clicked, and the thorns retracted.`
+char_non: `......In other words, if she twisted it after putting the ring on his finger, ......the inward‐facing thorns would bite down,`
+char_non: ` never releasing until the end of time.`
+char_non: `......Then, even his soul would be trapped, ......and his body, mind, and soul would be forced to serve Erika for all eternity.`
+char_but: `".........Are...you...kidding me......?`
+char_but: ` ..................Who the......"`
+char_non: `Who the hell would wear a ring like that?`
+char_non: `......He couldn't even finish speaking that simple phrase.`
+char_non: `And furthermore, those awkward words were the only way he could resist...`
+char_non: `She raised Battler's left hand......and stroked his ring finger hungrily.`
+char_non: `......Erika held the ring of servitude against the tip of his finger...`
+char_non: `A ring can hurt if it's made to fit too tightly, and it can even become impossible to take off.`
+char_non: `However, ......this ring was never intended to be removed for life anyway,`
+char_non: ` ......so its inner band had been mercilessly narrowed.`
+char_non: `Even without the thorns, forcing a small ring like this on would hurt......`
+char_eri: `"This ring will seal away your body, heart, and soul......for all eternity.`
+char_eri: ` ......And you'll become an eternal living puppet...`
+char_eri: ` .........I won't even let you die."`
+char_eri: `"......I'll defile and humiliate you endlessly,`
+char_eri: ` ......and every time I forget the heady taste of victory, ......I'll use your body to remind me.`
+char_eri: ` .........Over......and over again......`
+char_eri: ` ......If you're going to bite off your tongue, now's the time...`
+char_eri: ` ......Once this goes on your finger, ...you won't even be able to do that."`
+char_but: `".........ffg......ggg.........kk......"`
+char_non: `Battler didn't even possess the strength to bite his tongue.`
+char_non: `......And even if he had possessed it, ......he didn't want to give up before finding a way to escape the locked room.`
+char_non: ` So he could never bring himself to commit suicide.`
+char_non: `However, once this ring was forced upon him,`
+char_non: ` ......he would never be able to even think about escaping from the room, much less kill himself......`
+char_but: `"S‐...`
+char_but: `..st...`
+char_but: `...stop...`
+char_but: `......it...`
+char_but: `..............."`
+char_eri: `"No.`
+char_eri: ` ......Here we go,`
+char_eri: ` ......the finger's...`
+char_eri: `......going in now......"`
+char_but: `"Ghih...`
+char_but: `...gyaggh...`
+char_but: `...it...`
+char_but: `...it huurts...`
+char_but: `......gggghh...agh..."`
+char_non: `It wasn't just the pain of having his finger forced through the tight ring.`
+char_non: `......The curse of the ring......fiercely tormented Battler's body from the inside.`
+char_non: `That pain would always torment Battler.`
+char_non: `......But, fortunately for him...`
+char_non: `...the ring's power would also steal away the mind that could understand that pain......`
+char_non: `Erika kept screwing on the demonic ring that was far too small...`
+char_but: `"It hurts......`
+char_but: `......!`
+char_but: ` .........!!`
+char_but: ` ...It's...`
+char_but: `impossible...`
+char_but: ` ......There's no way...`
+char_but: `...it'll fit........."`
+char_eri: `"......Don't worry.`
+char_eri: ` ......It will fit... .........No problem..."`
+char_non: `With an obscene laugh, ......Erika let a silver thread drip from her mouth......and wet his finger and the ring.`
+char_eri: `"......Just relax.`
+char_eri: ` I'll stick it in......all at once...`
+char_eri: ` ...Please don't waste your energy resisting.`
+char_eri: ` ......It'll hurt less if you don't resist, okay...?`
+char_eri: ` .........Look, ......now it's sliding right on......"`
+char_but: `"Nooo...`
+char_but: `......oo...`
+char_but: `......oo......`
+char_but: `............!"`
+char_non: `Slowly, slowly, ......Battler's finger went deeper and deeper through the ring.`
+char_non: `He was pushed through the iron ring of pain and humiliation...which would never be removed again...`
+char_but: `"Ooh...`
+char_but: `......gah...`
+char_but: `.........`
+char_but: `...............gyhaah............"`
+char_eri: `"......Look, ......see...?`
+char_eri: ` ......It's in all the way to the base......"`
+char_but: `"...It...hurts, ......it...hurts, ......ghh... ......Take...it......off......"`
+char_non: `The demonic ring squeezed his finger so tightly......that it seemed the finger would snap off along with the bone.`
+char_non: `......Could Battler's hazy expression of anguish......really communicate how unbearable this sickening pain was......?`
+char_eri: `"......Okay.`
+char_eri: ` .........Now that it's on all the way, ......let's add the final touch, okay...?`
+char_eri: ` Now, ......you will be mine......forever......"`
+char_non: `Erika touched the ring's diamond knob.`
+char_non: `......If she twisted it,`
+char_non: ` ......the thorns would bite in...and never let go again...`
+char_but: `"N‐......`
+char_but: `......no......`
+char_but: ` ...Stop......it............"`
+char_eri: `"Sure.`
+char_eri: ` ......Just say "spare me, Erika‐sama", and I'll stop."`
+char_but: `"............R‐......really.........?"`
+char_eri: `"‘Spare me, Erika‐sama, please.`
+char_eri: ` I swear to spend the rest of my life as your dog, with a collar around my neck, so at least spare me that ring.’`
+char_eri: ` ......If you can say that, I won't make you wear the ring."`
+char_but: `"......S‐...`
+char_but: `......s...`
+char_but: `.........s....................."`
+char_eri: `"......Yeeeees...?`
+char_eri: ` ......I can't really hear you......?"`
+char_but: `{a:c:`
+char_but: `Screw......`
+char_but: `...you......}`
+char_but: `"......I'll never......forgive you......"`
+char_eri: `"For making you suffer like this...?"`
+char_but: `"No.`
+char_but: ` ...For...`
+char_but: `......defiling...Beato's...ring......`
+char_but: `I will...`
+char_but: `......never...forgive you........."`
+char_non: `Though Battler's eyes had supposedly been forced into a clouded state, they looked strong for just an instant.`
+char_non: `However, it really was only for an instant.`
+char_non: `Battler had used up the last of his fleeting resistance......just to say those words.`
+char_non: `In his dim consciousness, he had even bitten his own tongue to stay alert,`
+char_non: ` .........so that he could complete his words of resistance......`
+char_eri: `".........Of course.`
+char_eri: ` It seems you aren't the kind of dog that can be tamed.`
+char_eri: ` But that's what I like about you."`
+char_non: `Erika smiled.`
+char_non: ` ......Then, she turned the diamond.`
+char_non: `The instant she did, .........Battler let out a voiceless scream......and threw his head back......`
+char_but: `"Ggh.........gah......ahh..................aaaahh......!!!"`
+char_non: `His howl had no voice and could be heard by no one.`
+char_non: ` ......However, it still rang out throughout the cathedral......`

@@ -1,0 +1,737 @@
+char_non: `The true enemy of holding a fort probably isn't the fear of unseen enemies.`
+char_non: ` It's whether you can keep it going over a long period of time.`
+char_non: `Maria had gotten bored and had started making a ruckus because she wanted to watch TV.`
+char_non: ` Since there was no TV in the lobby, she decided to return to the cousins' room upstairs.`
+char_non: `The adults probably didn't want to leave Maria all on her own, among other reasons.`
+char_non: ` They told all the children to go to the cousins' room upstairs.`
+char_non: `George, his heart wounded by the loss of his fiancée, had no willpower to resist that, and led the cousins upstairs.`
+char_non: `At first, Nanjo had been reading a book in the lobby,`
+char_non: ` but when he noticed that the relatives looked like they wanted to talk about something shady,`
+char_non: ` he said "It seems I am in the way..." and returned to his room upstairs.`
+char_rud: `".........I'm starving.`
+char_rud: ` And if I keep just sitting around, my drowsiness will be even worse."`
+char_ros: `"It's only natural.`
+char_ros: ` Because we didn't sleep last night."`
+char_cla: `"...We will probably end up barricaded here for a full 24 hours.`
+char_cla: ` It may be wiser to take naps in turn instead of over‐stressing ourselves."`
+char_nat: `"I agree.`
+char_nat: ` My husband and I will be here, so anyone who finds this difficult should rest without overdoing it."`
+char_eva: `"They might be expecting that, you know?`
+char_eva: ` They may not be able to defeat this many people, but if that number was reduced by a certain amount, they may plan to use that to their advantage."`
+char_kir: `"There are seven of us here.`
+char_kir: ` Two of us could rest for three hours at a time.`
+char_kir: ` ......It's a long time until tomorrow morning.`
+char_kir: ` We still have some energy now, but tonight's going to be tough."`
+char_hid: `"Sure will be.`
+char_hid: ` Anyone sleepy?`
+char_hid: ` Don't overdo it, rest."`
+char_non: `Hideyoshi looked around at everyone to see who wanted to sleep first, but no one volunteered.`
+char_non: `...Everyone was just as tired, but no one was bold enough to be able to sleep now.`
+char_non: ` ......Their fear of the unknown culprit was just as strong as their sleepiness.`
+char_hid: `"......Nobody?`
+char_hid: ` Well, don't overdo it, everyone."`
+char_eva: `"If we get tired, we can think about it then.`
+char_eva: ` ......I certainly am tired, but I'm not in the mood now."`
+char_non: `Eva spoke sharply, and then read once more over the second letter from {f:5:Beatrice}, which had been found in the boiler room.`
+char_non: `{f:5:Beatrice} had sent them two letters, and had repeatedly told them to solve the riddle of the epitaph.`
+char_non: `And she had even provoked them by saying she would give up the inheritance, both assets and headship, if it could be solved...`
+char_non: `Eva took out a notebook and opened it to a page with the epitaph copied onto it.`
+char_kir: `"............Is that the epitaph?"`
+char_eva: `"Yes.`
+char_eva: ` ......Although it's annoying to do as the culprit says,`
+char_eva: ` after all, we do have time to waste.`
+char_eva: ` I think it's the perfect way to stave off boredom."`
+char_cla: `"...Not a bad way to kill time.`
+char_cla: ` Why don't we challenge it together as siblings?"`
+char_kir: `"......Can I borrow that?`
+char_kir: ` I'll rewrite it just a little larger.`
+char_kir: ` Natsuhi‐san, do you have a slightly larger piece of paper?"`
+char_nat: `"There should be paper in the servant room.`
+char_nat: ` I will bring some."`
+char_non: `Natsuhi immediately brought a B4 blank sheet of paper from the servant room.`
+char_non: `Kyrie borrowed Eva's notebook, wrote out the epitaph on the paper, and laid it out on the table.`
+char_non: `Straight away, everyone peered down at it.`
+char_non: `{n}...A fence of people naturally formed.`
+char_hid: `"I've heard about it, but...`
+char_hid: `...really, this is a tough riddle.`
+char_hid: ` I don't have a clue what it's talking about."`
+char_ros: `"At one point, I also did my best to challenge it, but I was just as clueless."`
+char_rud: `"If we did know, we wouldn't have come all the way out here with a plan to make money.`
+char_rud: ` After all, it's ten tons of gold."`
+char_kir: `"............This is the first time I've read it seriously, but...`
+char_kir: `...roughly speaking, couldn't it be split into three parts?"`
+char_cla: `"...I've been thinking this since last night, but you really do seem to be a good thinker, Kyrie‐san.`
+char_cla: ` It's possible that you could easily solve this riddle that we couldn't."`
+char_rud: `"Yeah.`
+char_rud: ` Kyrie's sharp.`
+char_rud: ` ......She might be able to tackle it in an interesting way if we don't give her any strange preconceptions."`
+char_eva: `".........Yes.`
+char_eva: ` Kyrie‐san.`
+char_eva: ` Will you let us hear your honest thoughts having read the epitaph?"`
+char_kir: `"I think it probably won't be very useful to all of you.`
+char_kir: ` You all give me too much credit."`
+char_rud: `"No way, anything that comes to mind would be helpful.`
+char_rud: ` Let us hear what you have to say.`
+char_rud: ` ......Because your hints always help me when I'm worried."`
+char_kir: `"Oh, so they were helpful?`
+char_kir: ` It's nice to finally hear about this now."`
+char_rud: `"Come ooon, don't I always thank you?"`
+char_ros: `"You two do get along well.`
+char_ros: ` I'm jealous."`
+char_eva: `"And the rest of us would also love to accept your hints.`
+char_eva: ` It's alright, we're just killing time anyway, so why not relax?"`
+char_non: `Kyrie was bewildered by all this praise she was suddenly receiving.`
+char_non: `...But they had plenty of time.`
+char_non: ` She realized that this was just a way to waste time, and she decided to accept that role...`
+char_kir: `"......I'm sure I'll say something off the mark, but...`
+char_kir: `well, I'll put forward my ideas."`
+char_cla: `"Mmhm.`
+char_cla: ` ......What did you mean in the beginning, about how, roughly speaking, it could be divided into three parts?"`
+char_kir: `"Well...I just mean what I said.`
+char_kir: `{n}`
+char_kir: ` I think that overall, the epitaph can be divided into three parts."`
+char_kir: `"First, there are the five lines up to and including "There the {loghint:kagi:key} to the {loghint:ougon:gold} sleeps".`
+char_kir: `{n}`
+char_kir: ` Up until this point is the first part, which points to the location of the key."`
+char_kir: `"And then there's the part formed by the eleven lines up until the tenth twilight, which refer to the location of the {loghint:ougonkyou:Golden Land} itself."`
+char_kir: `"And the remaining six lines make up the part after the Golden Land has been reached."`
+char_nat: `"I see.`
+char_nat: ` The key, the Golden Land,`
+char_nat: ` and the Golden Land's {loghint:takara:treasure}; it can be divided into these three parts."`
+char_cla: `"Even we have been able to grasp that much.`
+char_cla: ` The three sections that refer to the key, the door, and the treasure."`
+char_eva: `"...Nii‐san, don't butt in any more than you have to!`
+char_eva: ` Let Kyrie‐san speak her ideas freely."`
+char_rud: `"Kyrie.`
+char_rud: ` Please continue.`
+char_rud: ` ......We recognize the same thing regarding what you said.`
+char_rud: ` So then?"`
+char_kir: `"......I wonder what that thing in the beginning, the "{loghint:natsukashiki:beloved} {loghint:kokyou:home of old}", means.`
+char_kir: ` Thinking about it normally, would it refer to Grandfather's home?"`
+char_kir: `"Since he explicitly mentioned that it's {loghint:natsukashiki:beloved}, I can imagine that it's a home he thought about very deeply.`
+char_kir: ` ......Didn't Father come from Odawara?"`
+char_eva: `".........Odawara is definitely where he was born,`
+char_eva: ` but I don't think this home Father loved was Odawara.`
+char_eva: ` I believe all of us siblings are thinking of the same place."`
+char_ros: `"...Yes.`
+char_ros: ` This probably isn't Odawara.`
+char_ros: ` From what I've heard, he had a very fun time as a youth."`
+char_rud: `"Hahhaha.`
+char_rud: ` ...Dad's greatest misfortune in his life was probably being made the Ushiromiya family head."`
+char_cla: `"......Probably.`
+char_cla: ` Father really hadn't wanted to become the Ushiromiya family head."`
+char_kir: `"So where is it?`
+char_kir: ` And is there a {loghint:kawa:river} where {loghint:ayu:sweetfish} swim?"`
+char_eva: `"......Maybe there was at the time.`
+char_eva: ` I'm sure that there has been a lot of development there by now, so the sweetfish might have disappeared.`
+char_eva: ` It would be extremely difficult to investigate whether there were sweetfish there during the time Grandfather was a boy."`
+char_cla: `"There's not just one river, either.`
+char_cla: ` I believe we all investigated thoroughly in a geographical sense.`
+char_cla: ` ......You even went to the actual place to investigate directly, didn't you, Eva?"`
+char_eva: `"That was only as a vacation.`
+char_eva: ` ......But the townscape had changed completely from Father's time.`
+char_eva: ` After all, there was a war in between.`
+char_eva: ` It was impossible to even figure out where Father actually lived.`
+char_eva: ` ...Probably, even if Father dragged himself to the actual location,`
+char_eva: ` by now, even he wouldn't be able to determine where it was that he lived."`
+char_rud: `"They've had a remarkable revival over there, after all..."`
+char_kir: `"............Doesn't any place name come clearly to mind after hearing "{loghint:ayu no kawa:sweetfish river}"?"`
+char_rud: `"Not really.`
+char_rud: ` I mean, they're sweetfish, right?`
+char_rud: ` People say they live in rivers with {loghint:kirei:clean} {loghint:mizu:water}, so there are countless rivers we could guess at.`
+char_rud: ` Any {loghint:ogawa:stream} that Dad innocently went {loghint:ayuzuri:sweetfish‐fishing} in was probably buried by the development later.`
+char_rud: ` It would be different if we had a map from before the war, or a person who knew a lot about how the area was before the war, but..."`
+char_kir: `"......It probably isn't something like that."`
+char_cla: `"What do you mean...?"`
+char_kir: `".........Behold the sweetfish river, running through my beloved home of old.`
+char_kir: ` You who seek the Golden Land, follow its path downstream in search of the key.`
+char_kir: ` ...After these two lines, there is a single blank line."`
+char_kir: `"...Something is being presented with just these two lines.`
+char_kir: ` I would suppose the next three lines continue based upon that something."`
+char_hid: `"I wonder what it is that's being presented, then...?"`
+char_kir: `"......I don't know.`
+char_kir: ` In any case, after just these two lines, it's not something vague like you don't know which river it is...`
+char_kir: `you're able to narrow it down and say specifically what "{loghint:kawa:river}"."`
+char_kir: `"......It may be that this isn't a "river" with water flowing down it.`
+char_kir: ` ...The "sweetfish river" might be some kind of metaphor.`
+char_kir: ` ......What kind of image does the word sweetfish have?"`
+char_hid: `".........Sweetfish are like {loghint:shake:salmon}.`
+char_hid: ` They're {loghint:tansui‐gyo:freshwater fish}, but they go out into the {loghint:umi:ocean} right after they're born.`
+char_hid: ` And when they get big, they return to the river to live there,`
+char_hid: ` and then they {loghint:sanran:spawn} there and end their lives there."`
+char_hid: `"Well, they leave their home at one point, but the part about them getting big and returning there to lay {loghint:tamago:eggs},`
+char_hid: ` that might have a family prosperity type of image."`
+char_rud: `"Huh.`
+char_rud: ` They're freshwater fish, but they can live in the {loghint:kaisui:ocean}?`
+char_rud: ` I didn't know that.`
+char_rud: ` I thought they were {loghint:kawa‐zakana:river fish}, so they couldn't go out into the sea."`
+char_nat: `"And they are also called {ruby:kougyo:{p:0:香魚}} (aroma fish) because they have a pleasant smell.`
+char_nat: ` I have never eaten one, but I have heard that they are very delicious when {loghint:shioyaki:grilled with salt}."`
+char_hid: `"Whoa, Natsuhi‐san!`
+char_hid: ` You've never eaten salt‐grilled sweetfish?!`
+char_hid: ` They're delicious!`
+char_hid: ` I'll treat you sometime!"`
+char_cla: `"It is a food for commoners.`
+char_cla: ` It isn't appropriate for your mouth."`
+char_ros: `"......This is just my wild idea,`
+char_ros: ` ...but the image I get from a sweetfish river has made me suspect a {loghint:kakeizu:family tree} before.`
+char_ros: ` The sweetfish go out into the ocean for a time, but they return to the river where they were born to spawn, right?`
+char_ros: ` .........It makes me think about myself."`
+char_eva: `"......You're right.`
+char_eva: ` I can confess now...`
+char_eva: `that I have sometimes suspected that it refers to you and Maria‐chan."`
+char_cla: `"I see.`
+char_cla: ` ......As you travel down it, you will see a village.`
+char_cla: ` The only "village" ({ruby:sato:{p:0:里}}) you'll find by going down the family tree is the one in Maria's name ({p:0:真里亞})."`
+char_ros: `"Right?!`
+char_ros: ` ......But as you all know, Father has a dislike of Maria,`
+char_ros: ` and he has almost never spoken with her."`
+char_ros: `"Besides which, Father once told me to give Maria a completely different name.`
+char_ros: ` I just made it Maria on my own.`
+char_ros: ` Father was very mad about that."`
+char_ros: `"......If you think about the history there,`
+char_ros: ` I just really couldn't imagine that he'd reference Maria's name in his precious epitaph about who would inherit his wealth and the family headship."`
+char_kir: `"Have you ever let Maria‐chan read the epitaph?"`
+char_ros: `"Um, yes. Of course I have.`
+char_ros: ` But she didn't seem to have a clue.`
+char_ros: ` ......She didn't have a clue, and she kept going on about that same occult stuff, about how it was a {loghint:fukkatsu:resurrection} {loghint:gishiki:ceremony} for the witch."`
+char_cla: `"............A connection between Father and Maria.`
+char_cla: ` ...Certainly, they do share that occult hobby, but they never interacted.`
+char_cla: ` ...I can't imagine it refers to Maria either."`
+char_kir: `"......What interests me is the fact that he explicitly added the word "{loghint:natsukashiki:beloved}" at the beginning.`
+char_kir: ` ......Like you all said just now,`
+char_kir: ` if Father was reluctant about becoming the Ushiromiya family head,`
+char_kir: ` would he describe it that way?`
+char_kir: ` ...I don't think it is Odawara, which points back to the Ushiromiya {loghint:honke:main family}."`
+char_kir: `"......I believe that this word "beloved" here at the beginning...`
+char_kir: `definitely refers to a place full of very important memories to Father."`
+char_rud: `"...............Hmmmmmm.`
+char_rud: ` ...Well, that's fine.`
+char_rud: ` It'd be hard to pinpoint since we don't have a clue about a map from that time,`
+char_rud: ` but anyway, there were probably several rivers with sweetfish swimming in them near Dad's home during his youth."`
+char_eva: `"That's if it's a river with water flowing down it, right?`
+char_eva: ` And then?`
+char_eva: ` Go on, Kyrie‐san."`
+char_kir: `"......I don't really understand the three lines starting with "As you travel down it, you will see a village".`
+char_kir: ` ...These are probably coupled with the two lines about the sweetfish river."`
+char_kir: `"It's probably something that we would automatically understand if we knew what the sweetfish river really was.`
+char_kir: ` ...As long as we don't understand that, it's probably useless to try and solve those three lines any further."`
+char_rud: `"So we're screwed unless we know what the "sweetfish river" really is...`
+char_rud: ` And there's no guarantee it even means a literal river."`
+char_rud: `"...Seriously.`
+char_rud: ` The heck does it mean by sweetfish?`
+char_rud: ` Were they a {loghint:koubutsu:favorite dish} of Dad's?`
+char_rud: ` Or is there some special meaning?`
+char_rud: ` Is it pointless to read too deeply into it?"`
+char_eva: `"...If you don't have both a micro and a macro perspective, your field of vision grows narrow.`
+char_eva: ` ......Think not too deeply, about a river with {loghint:sakana:fish} swimming in it, or some kind of {loghint:nagare:flow},`
+char_eva: ` ...something you can {loghint:kudaru:go down} or {loghint:noboru:go up},`
+char_eva: ` keep those kinds of abstract images in mind, and we may be able to come up with more out‐of‐the‐box ideas."`
+char_ros: `"And via the three lines that follow, the answer for the "sweetfish river" ends up at the "key to the Golden Land"..."`
+char_kir: `"If you think about it this way, I wonder if it was a mistake to split it into three parts.`
+char_kir: ` There's actually four parts.`
+char_kir: ` ......‘Go down the sweetfish river’,`
+char_kir: ` "find the key to the Golden Land",`
+char_kir: ` "journey to the Golden Land",`
+char_kir: ` and "the treasure of the Golden Land"."`
+char_cla: `"Hmmm... ......Truly interesting.`
+char_cla: ` While we have this opportunity,`
+char_cla: ` would you mind continuing and telling us your opinion about the most central portion of the {loghint:hibun:epitaph},`
+char_cla: ` up until the {loghint:dai‐juu no ban:tenth twilight} where we arrive at the Golden Land?"`
+char_ros: `"......That's the most symbolic, ...and also the most disturbing part."`
+char_eva: `"Since it keeps mentioning the word {loghint:ikenie:sacrifice},`
+char_eva: ` I can't help but think it has something to do with Father's occult {loghint:gishiki:rituals}...`
+char_eva: ` .........How do you see it, Kyrie‐san?"`
+char_non: `Kyrie recrossed her arms several times,`
+char_non: ` peering into the paper with the epitaph copied onto it as though she was looking through it...`
+char_kir: `"...........................`
+char_kir: ` .........This is...very difficult.`
+char_kir: ` ...By starting with "You who laid {loghint:te:hand} upon the key",`
+char_kir: ` it probably means that you won't be able to continue without understanding the key.`
+char_kir: ` ...I'll have to give up, but I'll take a shot at it anyway."`
+char_eva: `"......Just like how the "sweetfish river" isn't necessarily a river with water flowing down it,`
+char_eva: ` it is also doubtful whether this "key" is actually something shaped like a key."`
+char_kir: `"Right.`
+char_kir: ` There's also the possibility that it's a code or a keyword.`
+char_kir: ` ......After all, this key isn't something to be stuck into a keyhole.`
+char_kir: ` It's something that selects the six people to be sacrifices for the first twilight."`
+char_kir: `"In that sense, we can state that this key isn't something to open the door to the Golden Land."`
+char_nat: `"......But what a disturbing key.`
+char_nat: ` A key that can select six people to be sacrifices..."`
+char_hid: `"How would a key {loghint:erabu:select} anything?`
+char_hid: ` ...Does it spin around like a roulette...?"`
+char_kir: `"This key points towards a certain specific group of {loghint:roku‐nin:six people}.`
+char_kir: ` ......No, we should say it points to a certain specific group of {loghint:muttsu:six things}.`
+char_kir: ` ......If this doesn't mean a literal command to offer sacrifices.`
+char_kir: ` ...For example, it could be an anagram."`
+char_cla: `"An anagram?`
+char_cla: ` Do you mean a word game...?"`
+char_kir: `"Yes.`
+char_kir: ` Ever since Rosa started talking about the family tree and how "village" was a part of Maria‐chan's name,`
+char_kir: ` this has constantly been going through my mind."`
+char_kir: `"......It seems as though Rudolf‐san, for example, has run with the words "beloved home of old",`
+char_kir: ` and is assuming that it has to something to do with {loghint:chikei:geography} or {loghint:zahyou:coordinates}, but that might not be true.`
+char_kir: ` This could be some kind of puzzle, ...or maybe playing with letters."`
+char_nat: `"......I'm sorry.`
+char_nat: ` What do you mean by playing with letters?"`
+char_rud: `"Oh yeah, it's like "sucker merry barrellers".`
+char_rud: ` What do you get when you take out the e's and r's?`
+char_rud: ` Like that.`
+char_rud: ` Well, you were raised well, Natsuhi‐san, so you probably haven't heard that one."`
+char_nat: `"Take out the e's and r's? Huh?`
+char_nat: ` ???"`
+char_cla: `"Don't.`
+char_cla: ` It is an undignified game, inappropriate for you."`
+char_non: `Only Natsuhi didn't get it and had a blank look on her face.`
+char_non: `It seemed that she had only guessed the answer had to be something undignified,`
+char_non: ` after hearing Rudolf and Eva's snickers.`
+char_ros: `"Ah, ...Natsuhi nee‐san, it's something like this.`
+char_ros: ` There was something like it in Maria's book of puzzles, okay?`
+char_ros: ` There's this thing called the Tanuki Notebook."`
+char_ros: `"There's a notebook written in some kind of code, with a lot of "ta"s mixed in,`
+char_ros: ` and if you "{ruby:nuki:remove}" all of the "ta"s, then the true sentences pop up.`
+char_ros: ` It's a game like that."`
+char_nat: `"Ah......oh, I see.`
+char_nat: ` .........??"`
+char_non: `Natsuhi finally realized the answer to the undignified riddle Rudolf had posed, and her face grew red as she hung her head in embarrassment.`
+char_eva: `"...............So maybe that "remove" part is actually represented by "{loghint:korosu:kill}"...?"`
+char_kir: `"Yes.`
+char_kir: ` I was just thinking that too.`
+char_kir: ` It's possible that the key to the Golden Land is a word with {loghint:roku‐moji:six characters}."`
+char_hid: `"In other words, ...the "ta" from the Tanuki Notebook...is actually six characters here...?`
+char_hid: ` Hmmm, ...this is gettin' complicated..."`
+char_cla: `"Playing with letters, is it...`
+char_cla: ` ......Hmmm.`
+char_cla: ` In Japan, it really feels like a child's game, but it seems that it is a stylish form of humor among intellectuals in the English‐speaking world.`
+char_cla: ` ...It is easy to imagine that Father showed interest in it."`
+char_kir: `"......But right here, I quickly lose my ability to understand it.`
+char_kir: ` Up until this point, while it was filled with mystery, it was extremely sequential."`
+char_kir: `"‘Sweetfish river’, "go down it", "then find the key" is all extremely sequential.`
+char_kir: ` And we can guess that we gain a six‐character key as a result,`
+char_kir: ` ......but in that case, we now don't know {i:what} we kill the six characters from."`
+char_rud: `"That's a point.`
+char_rud: ` What do we subtract the six characters from?`
+char_rud: ` It doesn't tell us."`
+char_kir: `"...On the second twilight, it says "{loghint:nokosareshi mono wa:those who remain}".`
+char_kir: ` ......Which means that, at the very least, that "something" has a finite number of characters.`
+char_kir: ` You could read it like it's telling you to continue with the {loghint:nokotta:remaining} characters after the six characters are removed."`
+char_kir: `".........And yet, we don't know what this "something" is, even though it should have been shown to us at the beginning.`
+char_kir: ` ...Were we wrong even to assume that this is playing with letters...?"`
+char_hid: `".....................hmmmmm..."`
+char_non: `Everyone crossed their arms and fell into silence.`
+char_non: `It felt like they were about to reach a novel understanding that they hadn't been able to before...but they stumbled just one step before it.`
+char_non: `At that time, Hideyoshi's stomach rumbled heartily.`
+char_non: `The silence up until then was broken by laughter.`
+char_hid: `"Sorry, sorry.`
+char_hid: ` By spinnin' the gears in my head for a change, my stomach's gone completely empty.`
+char_hid: ` Looks like skippin' breakfast really takes its toll on me...wahahahahaha."`
+char_cla: `"Natsuhi.`
+char_cla: ` Is there nothing here?"`
+char_nat: `"There should at least be enough set aside for breakfast.`
+char_nat: ` I will prepare it."`
+char_rud: `"I'm also starving.`
+char_rud: ` I'll bet those brats above us are starving too.`
+char_rud: ` ...But I doubt there's enough for 18 people here, and for three meals."`
+char_hid: `"You're right there.`
+char_hid: ` It'll be a marathon to tomorrow.`
+char_hid: ` It might be better if we took a trip back to the mansion and fished around for some canned food or something in the kitchen."`
+char_nat: `"There's nothing more than crackers and snacks, but if that is alright, I can prepare them.`
+char_nat: ` But with this many people, there might not be any left for lunch..."`
+char_cla: `"That will be fine for now.`
+char_cla: ` Sorry, but would you prepare it for us?"`
+char_non: `It looked like the men had been taken over with an appetite that stopped all thought.`
+char_non: `The atmosphere grew more peaceful, and the epitaph investigation meeting broke up for the time being.`
+char_non: `But Eva kept staring at the paper the epitaph was written on like she was going to burn a hole through it...`
+char_kir: `"............A word game was nothing more than my theory.`
+char_kir: ` There is a chance that it's mistaken.`
+char_kir: ` Eva‐san, don't take it too seriously, okay...?"`
+char_eva: `".........Thank you.`
+char_eva: ` This is something I've decided to do myself.`
+char_eva: ` Would you mind leaving me alone?"`
+char_non: `Eva spoke coldly.`
+char_non: `...Kyrie didn't bother her any more, and went to help Natsuhi prepare breakfast.`
+char_ros: `"Nee‐san.`
+char_ros: ` Shouldn't we also help prepare breakfast?"`
+char_eva: `"Then you go help.`
+char_eva: ` I'm busy solving this!"`
+char_ros: `"S‐sorry...`
+char_ros: ` Th‐then I'll go help..."`
+char_eva: `".........Come {i:on}.`
+char_eva: ` Why are you like this?"`
+char_ros: `"......Huh?"`
+char_eva: `"The Ushiromiya family inheritance will be given to the person who solves this epitaph.`
+char_eva: ` You seem to have given up from the beginning, as though it has nothing to do with you,`
+char_eva: ` but if you could solve it, even you have the opportunity to inherit the family headship."`
+char_eva: `"......This is a chance to steal everything from Nii‐san.`
+char_eva: ` Why aren't you seriously trying to solve it for that once‐in‐a‐lifetime chance?"`
+char_ros: `"...Um, .........umm, ......I......"`
+char_non: `Rosa hung her head, troubled over how she should answer.`
+char_non: `{n}...She regretted, for the first time in a while, carelessly speaking to her sister when she was in a bad mood.`
+char_eva: `"If you've noticed anything, say so.`
+char_eva: ` Even though Kyrie‐san and I were seriously reasoning, you just kept nodding your head, didn't you?`
+char_eva: ` Come on.`
+char_eva: ` Isn't there anything you've noticed?`
+char_eva: ` Come on!"`
+char_ros: `".........Uh,`
+char_ros: ` .........umm,`
+char_ros: ` .........`
+char_ros: ` ......Isn't...this strange?"`
+char_eva: `"...Strange?`
+char_eva: ` What is?"`
+char_ros: `"Umm, ......this word, {loghint:ougonkyou:Golden Land}.`
+char_ros: ` The word Golden Land comes up several times."`
+char_eva: `"So what?`
+char_eva: ` Do you get some keywords by splitting up the characters in "Golden Land"?"`
+char_ros: `"Um, umm, that's not it.`
+char_ros: ` ......Look, isn't just the tenth twilight strange?"`
+char_eva: `"...............Huh?`
+char_eva: ` ......ah."`
+char_ros: `"Even though they're all written the "Golden Land" ({ruby:ougonkyou:{p:0:黄金郷}}), for some reason, this one place has the "Home of the Gold" ({ruby:ougon no sato:{p:0:黄金の郷}}).`
+char_ros: ` He explicitly mixed in the character {ruby:no:{p:0:の}}, changing the phrasing.`
+char_ros: ` It vaguely bugged me that it's only said differently here..."`
+char_ros: `".........ah, umm, ...it's not like it means anything.`
+char_ros: ` This is Father we're talking about.`
+char_ros: ` It could just be a coincidental change in how he said the word."`
+char_eva: `".........................................."`
+char_bea: `".........Boring."`
+char_wal: `"Oh? What is boring...?"`
+char_bea: `".........Boring, boring."`
+char_wal: `"Well now.`
+char_wal: ` I don't have the foggiest idea what this child is grumbling about."`
+char_ron: `"She is probably dissatisfied that you gave Battler‐sama various hints, Madam."`
+char_bea: `"......Noooope?`
+char_bea: ` I'm not dissatisfied about that.`
+char_bea: ` I'm actually {i:more} satisfied now that that worthless Battler has finally reached the level where he can go along with me."`
+char_wal: `"Hoh‐hoh‐ho...`
+char_wal: ` Was I a little too friendly with Battler‐kun?`
+char_wal: ` Maybe it would be better if the old people went away and left everything to the young kids."`
+char_ron: `"Pu ku ku ku ku..."`
+char_non: `When {f:5:Virgilia} and Ronove giggled and cackled,`
+char_non: ` {f:5:Beatrice}'s irritation meter finally reached its limit.`
+char_bea: `"Ahhhh, the both of you joining forces and laughing at me!`
+char_bea: ` Ronove, hide yourself for a while!`
+char_bea: ` Go away, go awaaaay!"`
+char_ron: `"Certainly.`
+char_ron: ` Then, I will rest for a while.`
+char_ron: ` Pukkukukuku..."`
+char_non: `Ronove bowed his head, still laughing, and hid himself.`
+char_non: `After that, all that remained was the figure of {f:5:Beatrice}, who was grumpy and irritated,`
+char_non: ` and {f:5:Virgilia}, who was coolly enjoying her tea.`
+char_wal: `"...............When you said "{p:1:There are no more than 18 people on this island}", you actually cornered yourself."`
+char_bea: `".........I thought so...`
+char_bea: ` ............I thought it might have been a {i:little} too early, but...`
+char_bea: ` ......I guess it really was......"`
+char_wal: `"If you had led him further astray beforehand, things might have been different,`
+char_wal: ` but it really was a futile trump card.`
+char_wal: ` You stirred him up instead."`
+char_non: `In addition to his victory condition of denying the witch,`
+char_non: ` Battler had held onto a different victory condition, since he had wanted to explain things without suspecting any of the 18.`
+char_non: `Hadn't he been at his weakest when he was being tossed about by these two opposing goals?`
+char_non: `However, {f:5:Beatrice} had used the red carelessly, and had proclaimed that there were no more than 18 people.`
+char_non: `...Because of that, Battler had been forced to suspect one of the 18,`
+char_non: ` .........and he had finally begun to build up the readiness that he needed to accept that.`
+char_non: `Battler was stubborn,`
+char_non: ` but because of that, when he was struck where he was fragile, fissures would crack all over him, like breaking china.`
+char_non: `That itself should have been his greatest weak point...`
+char_bea: `".........Kuuuuuu.`
+char_bea: ` ......Maybe I got a bit too careless after my overwhelming victory last time......"`
+char_wal: `"Yes, you were too careless.`
+char_wal: ` ...The last game was a difficult one for Battler‐kun,`
+char_wal: ` but it seems...`
+char_wal: `this game will prove a difficult one {i:for you}."`
+char_bea: `"......A broken vase will definitely never return to its original form.`
+char_bea: ` ...So it would be more constructive to think of the next move, rather than regretfully picking up the pieces."`
+char_bea: `".........But now that Battler has all the right ideas in his head, how should I plot against him...?"`
+char_wal: `"Hoh‐hoh‐ho.`
+char_wal: ` Your troubled face is an even better treat than Ronove's cookies."`
+char_bea: `"......Uu.`
+char_bea: ` You and Battler and even Ronove keep treating me like a snack.`
+char_bea: ` ...Even though I'm not sweet at allll."`
+char_non: `With a shameful, childlike face that she would never have shown in front of Battler,`
+char_non: ` {f:5:Beatrice} rolled her head around on top of the table.`
+char_bea: `"............Masteeer.`
+char_bea: ` .........At least a hiiint."`
+char_wal: `"Oh?`
+char_wal: ` What kind of hint?"`
+char_bea: `"If you know a skillful move that will make Battler speechless, and make him want to accept me,`
+char_bea: ` I won't ask you to say it outright, so, umm,`
+char_bea: ` ...even if it's just a hint..."`
+char_wal: `"Hoh‐hoh‐ho, I can't.`
+char_wal: ` I am acting as Battler‐kun's ally right now,`
+char_wal: ` so I cannot teach you something that would give you an advantage."`
+char_bea: `"...You don't have to be so strict...`
+char_bea: ` Your disciple's in troubllle..."`
+char_wal: `"I believe you harshly boasted that you had surpassed your master, correct?"`
+char_bea: `".........Uu...`
+char_bea: ` Please act like the old person you are and give me just a bit of your cunning wisdom...`
+char_bea: ` Pleease...`
+char_bea: ` It's mean if you only help Battleeer..."`
+char_wal: `"My, my.`
+char_wal: ` You're still a spoiled child."`
+char_wal: `"......But, it's true that I may have given Battler‐kun a few too many hints.`
+char_wal: ` It did serve as a scolding to you,`
+char_wal: ` but perhaps it was a little too much support for a fair game."`
+char_bea: `"You see, you see...?`
+char_bea: ` Please, Masteeer, at least just a hint to help me on..."`
+char_wal: `"..................Just a hint.`
+char_wal: ` Think about what it means by yourself, alright?"`
+char_bea: `"Yeah, yeah!`
+char_bea: ` I'll think about it myself, so please!`
+char_bea: ` Please, give me one that'll leave Battler down in the dumps, Masterrrr."`
+char_non: `It was truly shameful how she behaved when Battler wasn't around, even though she acted utterly like a Great Witch in front of him.`
+char_non: `{f:5:Virgilia} sighed, lamenting under her breath that Beato never seemed to grow up.`
+char_wal: `"Then just a hint.`
+char_wal: ` ......Do you know of Aesop's fable, The North Wind and the Sun?"`
+char_bea: `"Of course.`
+char_bea: ` It's a story about how the north wind and the sun challenge each other to steal the cloak of a traveler, right?"`
+char_wal: `"That's right.`
+char_wal: ` The moral is that violent or impatient methods aren't always necessarily the best decisions."`
+char_bea: `"......You don't have to tell me that.`
+char_bea: ` I have already reflected on the fact that I rushed too fast towards victory."`
+char_wal: `"...............`
+char_wal: ` Think well about what this means.`
+char_wal: ` And furthermore,`
+char_wal: ` ......although it seems that Battler‐kun had a slight misunderstanding as well, you too seem to be under a misapprehension.`
+char_wal: ` Do you understand the victory conditions of this game?"`
+char_bea: `"...What else is there, other than making Battler submit to me?"`
+char_wal: `".........See?`
+char_wal: ` At that point, you are already mistaken."`
+char_bea: `"How am I mistaken?"`
+char_wal: `"Your victory isn't making Battler‐kun submit.`
+char_wal: ` ......It is to get Battler‐kun to accept your existence, is it not?"`
+char_bea: `"......What's this?`
+char_bea: ` You want me to butter up Battler, and ask him to "Accept me as a witch, pleease?"!`
+char_bea: ` How foolish!`
+char_bea: ` I will not sink so low!"`
+char_non: `Grrrrrrrrrrr..., Beato growled, like a dog in a bad mood.`
+char_non: `{f:5:Virgilia} shrugged her shoulders, snickering at her disciple, who was as short‐tempered as always...`
+char_wal: `"That is my hint.`
+char_wal: ` Now you should think deeply.`
+char_wal: ` .........In any event, your moves up until now will not work on Battler‐kun.`
+char_wal: ` A significant tactical conversion will probably be required."`
+char_bea: `"...I know that even without you telling me.`
+char_bea: ` ......I don't have a clue what you mean by the North Wind and the Sun,`
+char_bea: ` but anyway, I understand that I will have to change my direction.`
+char_bea: ` ......I'll showcase a clever scheme that will surprise even you, Master...!"`
+char_wal: `"Hoh‐hoh‐ho...`
+char_wal: ` I look forward to it.`
+char_wal: ` I wonder how Battler‐kun will tackle that.`
+char_wal: ` ......I will be wishing you good luck as well."`
+char_bea: `"After Battler, right?`
+char_bea: ` Hmph..."`
+char_non: `".........Are you going to give up and resign already?`
+char_non: ` If you're that tired, why not just go into a futon and sleep forever...?"`
+char_non: `...As my consciousness grew vague and I pretended to fight my drowsiness, sinking deeper and deeper into the sofa,`
+char_non: ` "I" scolded "myself".`
+char_non: `"......Don't you remember how much you dreamed about stealing the position of family head from Krauss...?"`
+char_non: `"Even though I gave you that chance with my magic, you're already throwing it away...?"`
+char_eva: `You say that, but...`
+char_eva: `{n}`
+char_eva: ` ............This riddle is really difficult.`
+char_eva: `{n}`
+char_eva: `Even a wire puzzle would be better.`
+char_eva: `{n}`
+char_eva: `...At least in that case, you're assured that it definitely is solvable.`
+char_eva: `But with this epitaph riddle, I don't know if I'm even assured that.`
+char_eva: `......I might just be fighting a useless battle.`
+char_non: `...Still hazy, I looked at the notebook which I had been holding the whole time.`
+char_non: `It was opened to the page with the epitaph, which I had stared at, almost burned a hole through, on so many hundreds of nights I had lost count.`
+char_non: `......That...is truly a door.`
+char_non: `On the other side...is the "Golden Land", that place which ever since I was a child I've wished to reach, I've spared no effort to reach,`
+char_non: ` ...and I've never been able to reach.`
+char_non: `Here I am with both hands upon the door,`
+char_non: ` ...and even though the book, no, the door is open, I still cannot reach the other side?`
+char_non: `"...That's right.`
+char_non: ` You already have your hands upon the door.`
+char_non: ` Come, open it with all of your strength.`
+char_non: ` And read the characters written on the door."`
+char_eva: `".........Open it...`
+char_eva: `with all my strength.`
+char_eva: ` ...Read the characters...`
+char_eva: `written on the door..."`
+char_non: `Strain your eyes.`
+char_non: ` ......See through to what lies further beyond the epitaph written in the notebook...`
+char_non: `"...The "beloved home of old" definitely won't betray our expectations.`
+char_non: ` ......The only past that Father held dear was his years as a boy."`
+char_eva: `That's right......`
+char_eva: ` Then what about the "sweetfish river"?`
+char_eva: `{n}`
+char_eva: `There are several rivers where they swim, and it's dubious whether there was one very near the place that Father lived.`
+char_eva: `...If we start wondering which river that's home to sweetfish is closest in a cartographical sense...`
+char_eva: `things will quickly get vague and we won't be able to pin it down...`
+char_non: `"......Didn't you say it yourself?`
+char_non: ` You said it didn't have to be a river with water flowing down it.`
+char_non: ` ......If the word sweetfish is too complicated, why not forget it forever...?"`
+char_non: `"Think of a river.`
+char_non: ` A river.`
+char_non: ` Linking it with a "family tree" wasn't a bad idea.`
+char_non: ` Try thinking about how to link a river with something else along those lines......"`
+char_eva: `......Not a river?`
+char_eva: ` Even though the sweetfish can't swim in it if it isn't a river?`
+char_eva: `Oh, but maybe "sweetfish can swim in it" means it joins up with the ocean......`
+char_eva: `My husband did say that, despite being river fish, they go out into the ocean... ...............`
+char_eva: `.......................................`
+char_eva: `{n}`
+char_eva: ` ...............With the ocean.`
+char_eva: `{n}`
+char_eva: `........................No,`
+char_eva: ` ...but,`
+char_eva: ` .........`
+char_eva: `{n}`
+char_eva: ` ......Huh...?`
+char_non: `"......Did you notice?`
+char_non: ` But that's just a faint memory.`
+char_non: ` There should be a book archive somewhere around here.`
+char_non: ` If you investigate, you can make sure."`
+char_eva: `......If that's the "sweetfish river".........`
+char_eva: `{n}`
+char_eva: ` .........And if the key might be a six‐character word...`
+char_eva: `.....................Is the key really resting in that river?`
+char_non: `I, I don't know, I don't know.`
+char_non: `{n}...Anyway, I have to search in an atlas...`
+char_non: `But, even if I know that, I don't know {i:from what} I should take the six characters...`
+char_non: `"......You really don't know?`
+char_non: ` Think deeply.`
+char_non: ` .........We're too smart for our own good, so our thoughts are inflexible."`
+char_non: `"Don't think of it like it's something as grandiose as "The Riddle of the Epitaph", but like it's a child's puzzle.`
+char_non: ` ......Men are always children, no matter how old they get.`
+char_non: ` Even if Father has advanced into old age,`
+char_non: ` that doesn't change the fact that he is essentially a child inside his heart."`
+char_non: `".........Throw away your awe of Father.`
+char_non: ` ...Think of this like it's a worthless, infantile puzzle game, like the ones Maria suddenly brings up on the boat."`
+char_eva: `......Puzzles.`
+char_eva: ` ......Worthless, infantile.`
+char_eva: `........................`
+char_eva: `{n}`
+char_eva: ` .....................Huh, .........ah.`
+char_eva: `.........I'm sure that was, ...what was it, ......umm, umm......`
+char_non: `...I'm sure, if my memory isn't wrong, ......that was probably, umm...`
+char_non: `No, I don't have to rely on my vague memory.`
+char_non: `{n}I should be able to figure that out immediately too by searching in the archive.`
+char_non: `".........We've probably already realized the answer.`
+char_non: ` ...All that's left is to research whether that's correct or not."`
+char_non: `"Come, Eva.`
+char_non: ` Let's go to the archive and make sure no one notices.`
+char_non: ` ......There, we should find a mountain of thick books that didn't fit in Father's study.`
+char_non: ` ...I'm sure that we'll find a book that answers our question.`
+char_non: ` .........Quickly.`
+char_non: ` This is our first and last chance in our life to have our dreams made true."`
+char_non: `When Natsuhi tried to lay a blanket over her, Eva suddenly jumped up.`
+char_nat: `"...I'm sorry.`
+char_nat: ` I seem to have woken you."`
+char_cla: `"......Eva.`
+char_cla: ` If you're sleepy, don't overdo it.`
+char_cla: ` You rest first."`
+char_eva: `"Th‐......thank you.`
+char_eva: ` I'm just going to the lavatory for a bit to wash my face."`
+char_hid: `"You should take it easy and rest.`
+char_hid: ` ...Your health'll take another bad turn, you know?"`
+char_eva: `"I said I'm fine, really!`
+char_eva: ` I'll be right back."`
+char_non: `Leaving only those words behind, I left the lobby at a brisk pace.`
+char_non: `The lobby was partitioned off by a door, so as soon as I went into the corridor, they could no longer see me.`
+char_non: `......The archive was next to the servant room.`
+char_non: `Father always owned a vast book collection,`
+char_non: ` but after he started to become engrossed with his occult hobby, his library of those kinds of books grew even larger,`
+char_non: ` so that the normal books suitable for a normal study had been forced out as his study overflowed.`
+char_non: `This archive was where those normal books were stored.`
+char_non: `They were all stiff books for intellectuals, like complete volume sets of encyclopedias,`
+char_non: ` but that was very convenient for me now that I was investigating something.`
+char_non: `I entered softly, ......and just in case, I checked the room with my gun readied, making sure that there were no suspicious people there.`
+char_non: `Then I locked it from the inside.`
+char_non: `I actually wasn't thinking that the murderer might be hiding somewhere.`
+char_non: `...What scared me was my fear that one of the siblings might hear what I was investigating.`
+char_non: `My heart had started jumping......`
+char_non: `{n}...I had been half‐asleep until a short time ago, so I hadn't been able to realize how significant this thing I had realized was.`
+char_non: `But as I started to become aware, ......my heart started feeling like it was about to explode.`
+char_eva: `".........I...wonder if any of the other siblings have realized this......"`
+char_non: `I don't think Krauss and Rudolf will realize.`
+char_non: `{n}`
+char_non: `......But I don't know about Kyrie.`
+char_non: `{n}`
+char_non: `She has extraordinarily good intuition.`
+char_non: `.........And I don't know about Rosa either.`
+char_eva: `"Rosa is as dim as the others.`
+char_eva: ` She always has been, and ridiculously so."`
+char_non: `Really...?`
+char_non: ` I think she was wise enough to make you think she was dim, so that she didn't earn herself unnecessary malice.`
+char_eva: `".........Here it is.`
+char_eva: ` ...I wonder if we'll find it in this one."`
+char_non: `I pulled the book out, and flipped through the pages......`
+char_eva: `"...............Oh.`
+char_eva: ` .........This is...`
+char_eva: `......`
+char_eva: `a "sweetfish river"...?"`
+char_non: `I see...`
+char_non: `This is what the sweetfish river means.`
+char_non: `{n}`
+char_non: `......Don't dawdle around, research further.`
+char_eva: `"Y‐yes, I know...`
+char_eva: ` As you travel down it, you will see a village ({ruby:sato:{p:0:里}})...`
+char_eva: ` {ruby:sato:{p:0:里}} is an older word for {loghint:machi:town} or {loghint:mura:village}, right?`
+char_eva: ` But it's a densely populated area... There's any number of those..."`
+char_non: `Why have you stopped thinking?!`
+char_non: `{n}`
+char_non: `If you don't like it, why not quit forever...?`
+char_non: `{n}`
+char_non: `Why not just hand over the Ushiromiya headship to Kyrie forever?!`
+char_eva: `"I, ...I don't want to...`
+char_eva: ` I will become the head.`
+char_eva: ` ...This is my first and last chance to do that...`
+char_eva: ` ......What is {i:village}?`
+char_eva: ` What does it mean?!`
+char_eva: ` Is there a village if you go down this "river"......?!`
+char_eva: ` ............ah, .........`
+char_eva: `aaaaaaaahhh......!!"`
+char_non: `......In {loghint:sono sato:that village}, look for the {loghint:kishi:shore} {loghint:futari:the two} {loghint:kuchi:speak} of.`
+char_non: `{n}`
+char_non: `......It's a "shore" ({ruby:kishi:{p:0:岸}}).`
+char_non: ` Understand?`
+char_eva: `"Uh, ...*gulp*...`
+char_eva: ` I, I, I understand...!`
+char_eva: ` Shore, ......shore.........!"`
+char_non: `All those pieces that I hadn't been able to understand at all were...`
+char_non: `...right before my eyes, starting to...`
+char_non: `...snap,`
+char_non: ` snap into place, all by themselves......`
+char_non: `I couldn't even remember to close my open mouth.`
+char_non: `{n}...My throat grew completely dry...`
+char_non: `Is it......really alright for this to be the answer?`
+char_non: `{n}R‐really?`
+char_non: ` Really...?!`
+char_eva: `"...But this isn't six characters at all.`
+char_eva: ` ......I'm absolutely sure that this is the answer, but this doesn't reach six characters at all...!"`
+char_non: `Did you stop thinking again?`
+char_non: ` In that case, think of a way you could read it with six characters.`
+char_non: `If you can't think of one, then research it.`
+char_non: `{n}`
+char_non: `......There has to be an answer.`
+char_non: ` You must not doubt that.`
+char_non: `If you can't believe that, why don't you cry yourself to sleep, and then just give up and die forever...?`
+char_eva: `"............One,`
+char_eva: ` two,`
+char_eva: ` three,`
+char_eva: ` four,`
+char_eva: ` five,`
+char_eva: ` six...`
+char_eva: ` ......Oooh,`
+char_eva: ` ...s‐`
+char_eva: `......`
+char_eva: `six characters...`
+char_eva: `"`
+char_eva: `"......I,`
+char_eva: ` ......I found it.`
+char_eva: ` ...This is...`
+char_eva: `......the Golden Land's...`
+char_eva: `k‐`
+char_eva: `......key.........!!"`
+char_non: `Yes.`
+char_non: ` That is...the key to the Golden Land.`
+char_non: `{n}`
+char_non: ` ......The key...to our childhood dreams.`
+char_non: `......The only keyhole to stick that key in...is that place.`
+char_non: `{n}`
+char_non: `That...is definitely what offers the sacrifices.`
+char_non: `{n}`
+char_non: `You get it now...right...............?`
+char_eva: `"Uuu, ............uuuuUUUgghhHAAaaaaa...!!!"`

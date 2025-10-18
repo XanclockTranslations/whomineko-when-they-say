@@ -1,0 +1,977 @@
+char_non: `After putting Ange to sleep in the parlor, Genji and the others returned.`
+char_but: `"Thanks.`
+char_but: ` Was she sleeping well...?"`
+char_gen: `"Yes.`
+char_gen: ` She is sleeping peacefully."`
+char_bea: `"The noise from here won't reach the parlor, right...?"`
+char_sha: `"That's right.`
+char_sha: ` The door is closed, so I don't think it will reach."`
+char_but: `"............Ange.`
+char_but: ` Sweet dreams."`
+char_bea: `"Well then!!`
+char_bea: ` That's enough solemn farewells!`
+char_bea: ` Let us begin the magnificent festivities we have planned for the after‐partyyyy!!"`
+char_non: `When Beato clapped her hands loudly above her head, a white flash filled the hall, and its entire appearance changed in an instant.`
+char_non: `The hall had transformed into a golden party chamber, with gold butterflies flitting about and gold leaf dancing everywhere.`
+char_kin: `"Yes, the true party shall begin now!"`
+char_but: `"You said it!`
+char_but: ` Okay, the anti‐magic toxin is totally gone!!`
+char_but: ` Everyone, come on in!`
+char_but: ` The party after the show is about to start!!"`
+char_non: `With a burst of applause and cheering, a tornado of gold butterflies rose up in the center of the room.`
+char_non: `By the time it passed, the number of faces had grown significantly.`
+char_wal: `"Let the witch of the future find happiness.`
+char_wal: ` And let us of the past be rewarded for our efforts, right?"`
+char_ron: `"Indeed.`
+char_ron: ` Let us enjoy ourselves as well."`
+char_bea: `"Come on, haven't we been enjoying ourselves the whole time?!"`
+char_ron: `"Pu ku ku ku.`
+char_ron: ` In this world, the one who enjoys the most is the true winner."`
+char_wal: `"Come, let's have the Seven Sisters over here too."`
+char_rg1: `"The Seven Sisters of Purgatory, right here!!"`
+char_rg2: `"I can't believe the game is finally over!`
+char_rg2: ` Waaah!"`
+char_rg3: `"What do you think you're doing, crying at the after‐party!`
+char_rg3: ` You little crybaby!"`
+char_rg4: `"Lord {f:5:Battler}, {f:5:Beatrice}‐sama, thank you for the invitation!"`
+char_rg5: `"I wanna see six‐year‐old Ange‐sama's sleeping face and have it all to myself!"`
+char_rg6: `"I wanna see the food and have it all to myself!!"`
+char_rg7: `"Then I wanna see a good man and have him all to myself!!"`
+char_bea: `"Why are you clinging to Battler when you say that?!`
+char_bea: ` Stop, thief!"`
+char_but: `"Glad to see you, Seven Sisters of Purgatory!`
+char_but: ` Enjoy yourselves!"`
+char_ron: `"Ah yes, things do get much noisier the moment they enter a room."`
+char_kin: `"And what makes that so terrible?!`
+char_kin: ` In fact, it still isn't nearly noisy enough!"`
+char_non: `Another gold cyclone rose up.`
+char_non: ` In its wake, three people with bunny ears came into view.`
+char_s00: `"Chiester Sisters Imperial Guards, right here!!"`
+char_s45: `"It's s‐such an honor to be summoned to a gathering such as this!"`
+char_s41: `"I haven't had nearly enough fun for it to end yet nyeh.`
+char_s41: ` Nihi{0}hi{0}hihi!"`
+char_bea: `"There, I agree with you.`
+char_bea: ` But fear not, for our game will continue much longer than this."`
+char_but: `"For eternity, inside the cat box.`
+char_but: ` Glad to have you here, Chiester Sisters."`
+char_s00: `"Lord {f:5:Battler}, allow me to express our deep gratitude for your invitation.`
+char_s00: ` In the future, we will endeavor to show even more—"`
+char_but: `"Come on, don't be so stiff and formal.`
+char_but: ` Tonight, we're all equal!"`
+char_s41: `"That's right nyeh!!`
+char_s41: ` Battler gets it nyeh, nihi{0}hi{0}hi{0}hi{0}hihi!!"`
+char_s45: `"S‐stop it, 410.`
+char_s45: ` You're getting carried away... We'll get in trouble!"`
+char_gap: `"Hey there, Riiche.`
+char_gap: ` Long time no see!`
+char_gap: ` Wow, how long's it been since we've had so many of us here?"`
+char_bea: `"Not since Natsuhi's trial, right?`
+char_bea: ` And you could hardly call that a party!"`
+char_zep: `"If you're talking about a party!"`
+char_fur: `"You'd better not try and leave us out of it!"`
+char_jes: `"......Dang, just how many of them are there?"`
+char_geo: `"If they keep coming like this, there'll be more of them than us humans..."`
+char_mar: `"You can come out now, Sakutaro!"`
+char_sak: `"Uryuu!!"`
+char_dla: `"Lord {f:5:Battler}.`
+char_dla: ` It was an honor to receive your {f:5:invitation}."`
+char_non: `""Let it be known that it is an honor.""`
+char_but: `"Hey!`
+char_but: ` Glad you came.`
+char_but: ` It's been a long time. How've you been?"`
+char_dla: `"Very well, thank {f:5:you}.`
+char_dla: ` Fighting with you all is always the most {f:5:fun}.`
+char_dla: ` I have had enough of stamping {f:5:documents}."`
+char_cor: `"For the attention of Supervisor Dlanor:`
+char_cor: ` Know that your to‐do box is piling up as we speak."`
+char_ger: `"For your attention: Please make haste with the approval of our vacation papers.`
+char_ger: ` We are anxious to see this matter resolved."`
+char_bea: `"Pft, wahahahaha!`
+char_bea: ` Sounds like life in the Great Court is as restrictive as ever!"`
+char_dla: `"......Lord {f:5:Battler}.`
+char_dla: ` I fear I must bring you some unfortunate {f:5:news}."`
+char_but: `"Hm, what is it?"`
+char_non: `Dlanor held out an envelope.`
+char_non: `It was one of the invitation cards that Battler had sent out for this night's party.`
+char_non: `The name on the card was......Furudo Erika.`
+char_dla: `".........We did all we {f:5:could}."`
+char_non: `The invitation was filled with stamps bearing the unreadable words of various foreign countries.`
+char_non: `Even without reading them, it was easy to guess that it had been returned to sender, destination unknown.`
+char_but: `"I see......`
+char_but: ` Thanks for trying so hard."`
+char_dla: `"The depths of oblivion are like an empty endless desert, or perhaps the bottom of the {f:5:sea}.`
+char_dla: ` ......Her location is unknowable to all but Lady {f:5:Bernkastel} {f:5:herself}..."`
+char_but: `"I did send invitations to those witches too.`
+char_but: ` ......We'll have to hope they have the kindness to bring her along..."`
+char_bea: `"......Lady {f:5:Bernkastel} is just like a cat.`
+char_bea: ` She'll show up whenever she feels like it, and when she doesn't feel in the mood, she'll never come no matter how often you call her."`
+char_lam: `"Ahhaha, yeah, that kid's totally like a cat.`
+char_lam: ` She'll come to get her food, but she won't let you pet her head."`
+char_but: `"{f:5:Lambdadelta}.`
+char_but: ` So, you came."`
+char_lam: `"Believe it or not, I'm a busy person, okay?`
+char_lam: ` Still, I am Beato's guardian.`
+char_lam: ` Wasn't I your guardian too?`
+char_lam: ` So, anyway, you know, I've got "responsibilities" and all that.`
+char_lam: ` And I happened to be in the neighborhood, so I stopped by!"`
+char_lam: `"Hey, you, Gohda!`
+char_lam: ` I've brought a bunch of stuff for everyone!`
+char_lam: ` Could you just put these wherever for me?"`
+char_non: `For someone who just dropped by because she was in the neighborhood, she had brought an awful lot of colorfully wrapped bottles and food boxes.`
+char_but: `"{f:5:Bernkastel} isn't here yet."`
+char_lam: `"You really think she'd come?`
+char_lam: ` She's not the kind of kid who'd just drop by to say "hi" at a game she's lost."`
+char_bea: `"......Probably.`
+char_bea: ` After all, she is very proud."`
+char_but: `"I seem to remember her putting us through hell,`
+char_but: ` but she's still one of the players in this game.`
+char_but: ` Might as well have her over to celebrate the final night of the final game."`
+char_lam: `"You're right.`
+char_lam: ` Without that kid, this game might not have reached its conclusion.`
+char_lam: ` Enemies and allies are the bare minimum needed to establish a game."`
+char_bea: `"True.`
+char_bea: ` Without a foe, there can be no game."`
+char_lam: `"At least I can enjoy defeat as just another part of the game.`
+char_lam: ` That kid can't.`
+char_lam: ` ......Too bad, but she's been through a lot.`
+char_lam: ` So please, don't blame her too harshly."`
+char_but: `"Actually, I was planning to thank her.`
+char_but: ` ......A lot of crazy stuff happened, but thanks to her, we were able to make it to where we are today."`
+char_lam: `"......Thanks.`
+char_lam: ` I don't know when I'll see her next,`
+char_lam: ` but if I'm lucky, I'll get my chance in a few hundred years.`
+char_lam: ` I'll let her know what you said then.`
+char_lam: ` Ah, that's right.`
+char_lam: ` They don't have invitations, but I've brought two guests with me."`
+char_but: `"Guests?`
+char_but: ` Who?`
+char_but: ` I'm pretty sure I sent invitations to all the usual suspects..."`
+char_lam: `"Come on over, you two!`
+char_lam: ` I'll introduce you."`
+char_non: `When Lambda snapped her fingers, the empty air exploded and two figures appeared.`
+char_dla: `".........Willard, if it isn't {f:5:you}!"`
+char_wil: `"Hey.`
+char_wil: ` I see you're as short as ever."`
+char_bea: `"......Now here are some unfamiliar guests.`
+char_bea: ` Who are they?"`
+char_wil: `"Owowow... Quit...pinching...my ass!"`
+char_rio: `"Shouldn't we be introducing ourselves first?`
+char_rio: ` I'm fairly certain that Battler‐kun and the others in this world don't know about us."`
+char_but: `"You have the mark of the One‐winged Eagle on your clothes.`
+char_but: ` Are you an Ushiromiya...?"`
+char_rio: `"My name is Ushiromiya Lion.`
+char_rio: ` In my world, we're cousins."`
+char_lam: `"Let me introduce Lion!`
+char_lam: ` This is the successor to the Ushiromiya family headship, who only appears in a world of extremely low probability.`
+char_lam: ` In that world, Jessica isn't an only child.`
+char_lam: ` She's Lion's little sister."`
+char_but: `"Now there's a surprise...`
+char_but: ` There's really a world like that......?"`
+char_bea: `"........................`
+char_bea: ` Wait, you couldn't be......"`
+char_rio: `"Pleased to meet you, {f:5:Beatrice}.`
+char_rio: ` I know quite a lot about you."`
+char_bea: `".............................."`
+char_rio: `"Seeing you smiling happily is the greatest joy I can imagine.`
+char_rio: ` ......I'm more glad than anyone that you've made it to this point."`
+char_bea: `"......I see.`
+char_bea: ` ......So, it's you......`
+char_bea: ` ......I'm glad you're here......"`
+char_non: `Beato realized who and what Lion was.`
+char_non: `The two of them stared at each other's faces, as though looking at their own face in a mirror.`
+char_wil: `"Willard's the name.`
+char_wil: ` I'm just a passing stranger who got caught up in a game you know nothing about."`
+char_dla: `"He is an Inquisitor of the Great Court, like {f:5:myself}.`
+char_dla: ` A truly great one, though he is now {f:5:retired}."`
+char_but: `"I see. If you're Dlanor's friend, you can't be anyone bad.`
+char_but: ` Please, make yourself at home."`
+char_bea: `"Just where did these two come from?"`
+char_lam: `"Bern brought them in and made them pieces.`
+char_lam: ` ......When she was done with them and about to crush them, I picked them up.`
+char_lam: ` Auau said she didn't want to be left with a bad aftertaste."`
+char_bea: `"Is that okay?`
+char_bea: ` If, by chance, Lady {f:5:Bernkastel} does drop by here..."`
+char_lam: `"On this game board, they're my pieces, okay?`
+char_lam: ` And I'd love to see the look on that kid's face if she bumps into them in a place like this.`
+char_lam: ` *giggle*giggle*giggle*!"`
+char_but: `"......I don't really get it, but you obviously brought them here for some shady reason."`
+char_lam: `"That's all for my gifts.`
+char_lam: ` And now I'll just kick back and enjoy the party.`
+char_lam: ` So, you're the host... Over to you."`
+char_zep: `"Come, Lord {f:5:Battler}!"`
+char_fur: `"If you don't announce it, we can't start!"`
+char_non: `""The start of tonight's party at the end of this long, long game!!""`
+char_bea: `"Ladies and gentlemen, your silence please!!`
+char_bea: ` Our territory lord, Lord {f:5:Battler}, has a message he wishes to convey to you all...!"`
+char_but: `"Enough of that.`
+char_but: ` It's embarrassing."`
+char_bea: `"Come on, it's a wife's responsibility.`
+char_bea: ` I'm not letting anyone else take it!"`
+char_non: `Beato sulked and handed Battler a glass of champagne.`
+char_non: `In fact, everyone had a glass in their hands now.`
+char_ros: `"Maria, you're a kid, so drink some juice instead!"`
+char_mar: `"Uu!!`
+char_mar: ` I want champagne too!"`
+char_geo: `"Hey, Maria‐chan, why don't we drink some juice together?"`
+char_jes: `"Battler, our drinks are getting warm!"`
+char_kin: `"Agreed.`
+char_kin: ` Begin, Battler."`
+char_ron: `"No objections, I see.`
+char_ron: ` This way please, Lord {f:5:Battler}."`
+char_non: `Ronove motioned towards the center of the room.`
+char_non: `When Battler stepped forward, everyone silently awaited his words.`
+char_but: `"Glad you could all make it!!`
+char_but: ` This marks the end of my long game with Beato...!`
+char_but: ` I've invited everyone who has been a part of this game as a piece, a player, or a Game Master!`
+char_but: ` I hope you'll enjoy this unending night to the fullest!!"`
+char_non: `Cheers.`
+char_non: `""Cheeeeeeeeeeers!!""`
+char_non: `Everyone raised their glasses to the heavens as they cheered, and afterward, the soft sound of glasses clinking together rang out across the room......`
+char_non: `.........Only I......was apart from all the fun noise.`
+char_non: `Maybe that was what did it.`
+char_non: `Before I realized it, my cheeks were wet with tears.`
+char_non: `I was lying on a sofa, covered by a blanket.`
+char_non: `......I can just barely remember getting sleepy and falling asleep in a chair.`
+char_non: `Someone probably carried me here.`
+char_non: `I can't actually hear them, ......but I get the feeling that everyone's still in the hall, having a good time.`
+char_non: `......I...want to go there too.`
+char_non: `No.`
+char_non: `I will go.`
+char_non: ` Over there.`
+char_non: `......It's what I've wanted the whole time, ......but I've never tried to take the first step.`
+char_non: `I'll go to where everyone is.`
+char_non: `My head still feels hazy, ......so there aren't any complicated thoughts in my mind.`
+char_non: `But that's okay.`
+char_non: ` It's okay if my head's empty.`
+char_non: `I'll be together with everyone.`
+char_non: ` I'll go to where they are.`
+char_non: ` ......That's all that matters.`
+char_non: `I got up from the sofa and put on my shoes, which had been placed neatly for me to find.`
+char_non: `Let's go.`
+char_non: ` To where everyone is.`
+char_non: `The parlor door was shut.`
+char_non: `......I tried to open it, but maybe because of my clumsiness, I couldn't get it open.`
+char_non: `It was a bit creepy, as though the bad dream I'd just had was continuing.`
+char_enj: `".........It won't open.`
+char_enj: ` Why?`
+char_enj: ` It isn't even locked..."`
+char_non: `This was beginning to irritate me.`
+char_non: `The knob that locks and unlocks the door is on this side.`
+char_non: `{n}I should be able to lock or unlock the door by twisting it.`
+char_non: `I turned it.`
+char_non: ` Click.`
+char_non: `The door won't open.`
+char_non: `......Did I accidentally lock it just now?`
+char_non: `I turned it.`
+char_non: ` Click.`
+char_non: `The door won't open.`
+char_non: `......It didn't open the last time, so it should have opened this time, ......but it didn't.`
+char_non: `{n}Now I have no idea which way is unlocked.`
+char_non: `I kept on alternating between turning the lock and roughly twisting the doorknob.`
+char_non: `I started to become genuinely annoyed, wondering why they'd locked me away behind such an inconvenient door.`
+char_non: `Eventually, I ran out of patience and pounded hard on the door, but that noise didn't bring anyone over.`
+char_non: `Why am I locked up in a place like this, all alone?!`
+char_non: `And everyone else is having a fun party, right there in the hall...!`
+char_non: `Let me out of here...!!`
+char_non: `At that moment, .........a cold wind blew past me.`
+char_non: `The wind rippled through my hair.`
+char_non: `Wind? Inside......?`
+char_non: `I turned around......to find the window curtain waving about.`
+char_non: `There was a high‐pitched squeal.`
+char_non: `......At some point, the double window had opened outwards toward the darkness.`
+char_non: `The icy wind that came through it......told me that this window was the only exit from this room.`
+char_non: `Huh?`
+char_non: `I suddenly realized that the darkness beyond the open window was glaring at me, and my tiny heart leapt.`
+char_non: `......A cute jingling sound rang out.`
+char_non: `I finally understood.`
+char_non: ` That sound was a cat's bell.`
+char_non: `The glaring emerald eyes in the darkness......were those of a cat standing in the open window.`
+char_non: `Its pitch‐black, luxuriant fur blended in with the darkness easily, leaving only the eyes visible.`
+char_non: `......Did the Ushiromiya family own a cat?`
+char_non: `{n}It has a bell on it, so it can't be a stray.`
+char_non: ` It's a cat someone owns.`
+char_non: `At any rate, the cat was standing by the window......and staring straight at me.`
+char_enj: `".........Who...are you......?"`
+char_non: `Of course, the cat didn't answer my question.`
+char_non: `I didn't think it was a cute cat, ......but I thought it might be trying to tell me something, ......so I approached it slowly.`
+char_non: `Then, the cat did an about face, turning its back to me.`
+char_non: `It then turned its head to look at me, almost as though it was telling me to follow it, and it leapt down into the darkness, leaving the jingle of its bell behind.`
+char_non: `When I peeked out the window, I saw the cat waiting for me under the pounding rain.`
+char_non: `......I finally realized.`
+char_non: `This window was the only exit out of this locked‐room parlor.`
+char_non: `{n}That cat had surely come to tell me that.`
+char_non: `The longer I keep standing around here, the longer the cat will have to wait in the rain.`
+char_non: `That's no good.`
+char_non: ` It'll catch cold.`
+char_non: `I climbed up onto the windowsill and went out the window.`
+char_non: `The wind was strong, and the rain was cold, but I didn't get as wet as I'd thought I would.`
+char_non: `{n}I might have been in the mansion's shadow.`
+char_non: `When the cat saw that I was outside, it walked along the wall of the mansion as if guiding me.`
+char_non: `It quickly disappeared into the blackness, but every now and then, it would turn around and set the bell jingling to let me know it was there.`
+char_non: `Eventually, a window with light seeping out came into view.`
+char_non: `It was the window to the hall.`
+char_non: `When I peeked inside, I saw everyone having a good time.`
+char_non: `{n}I couldn't hear their voices, but they were all right there.`
+char_enj: `"Open up...!`
+char_enj: ` Open up!!"`
+char_non: `I pounded on the window, but no one heard.`
+char_non: `......Maybe the window was really thick, or maybe it was just noisy inside.`
+char_non: ` ......Or, it might have been so dark outside that even I blended in with the darkness.`
+char_non: `In any event, no matter how much I hit the window, it didn't look as though anyone noticed.`
+char_non: `By this point, my loneliness was giving way to anger.`
+char_non: ` Why don't you notice me? Why did you lock me up in that room all alone?`
+char_non: `I've had enough.`
+char_non: `{n}I'll just get inside somehow and yell at everyone.`
+char_non: `When the cat realized that I had given up knocking on the window, it led me onwards with another jingle.`
+char_non: `......But just where is this cat going?`
+char_non: `I know it's following the wall of the mansion.`
+char_non: `{n}But that's not the way to the front door.`
+char_non: `The front door might be locked.`
+char_non: `I'm sure the cat knows a place that I can get into the mansion from...and is leading me there.`
+char_non: `Away from the light seeping from the hall,`
+char_non: ` ......and towards the blackness lit only dimly by the lights in the garden, ......the cat and I continued to walk.`
+char_non: `Then, .........I found it.`
+char_non: `An open...window.`
+char_non: `The cat stood below it and looked between me and the window, as though telling me to go inside.`
+char_enj: `"Thanks, kitty‐cat.`
+char_enj: ` I want to give you some milk to thank you.`
+char_enj: ` Won't you come with me?"`
+char_non: `When I walked closer to pick the cat up, it slipped away from my hands and flew into the bushes in a nearby flower bed.`
+char_non: `Then, as though it really had melted away into the darkness inside the bush, all traces of it vanished.`
+char_non: `No matter how much I strained my ears, I couldn't hear the sound of that bell......`
+char_non: `Suddenly, the wind changed directions, and the rain started to hit me fiercely.`
+char_non: `{n}I can't stay in a place like this forever.`
+char_enj: `".........I'll go inside.`
+char_enj: ` ......What room is this, I wonder..."`
+char_non: `I climbed up onto the windowsill and entered the room.`
+char_non: ` Then, the window silently shut and locked itself.`
+char_non: `......Good. That saves me the trouble of doing it myself.`
+char_non: `The room was completely dark.`
+char_non: ` However, as my eyes got used to the darkness, I was able to make out a few things.`
+char_non: `It was a large room.`
+char_non: ` There was a long table, and many chairs.`
+char_non: `{n}......It was...the dining hall.`
+char_non: `Perhaps because I realized this and was relieved, I was suddenly unable to see again.`
+char_non: `I searched blindly along the wall for the light switch.`
+char_non: `Then, finally, I felt a familiar shape.`
+char_non: `......Wouldn't it be annoying if I pushed this, and the light didn't come on?`
+char_non: `Click.`
+char_non: `In fact, ......it was nearly the opposite, and an annoyingly bright light filled the dining hall and made my eyes hurt.`
+char_non: `I slowly opened my tightly shut eyes.`
+char_non: `...............And then,`
+char_non: `......I saw the state the room was in.`
+char_non: `The dining hall was covered with blood......and there were people......many people......lying on the floor......`
+char_non: `Then, .........I realized that two of them were my own parents.`
+char_zep: `"Hey, are you having a great time, people?!!"`
+char_fur: `"Any kids who aren't having a good time'll get eaten!"`
+char_non: `""Yell and sing the praises of tonight's banquet!!`
+char_non: ` Ahha{0}ha{0}ha{0}ha{0}ha{0}ha{0}ha{0}haha!!""`
+char_non: `The hall was alive with a mingling of {y:0:Human}{n:0:human}s and residents of magical fantasy.`
+char_non: `At first, everyone stayed with their own groups, too nervous to mingle.`
+char_non: `However, as time passed, people started to move around, and both halves began to chat happily together.`
+char_rg1: `"Anyway, they never listen, do they?!"`
+char_hid: `"Leadership's important.`
+char_hid: ` You've gotta lead by example if you want anyone to follow you!"`
+char_s00: `"Maybe some subordinates are like that, but I've never had any success with ordinary methods..."`
+char_ros: `"All I know is, if your subordinates don't take you seriously, you're done for!`
+char_ros: ` It's important to scold people loudly for some small mistake every once in a while, in front of everyone else."`
+char_sak: `"You can't do that! It'll just make everyone scared...!`
+char_sak: ` A leader has to be an example for everyone to follow.`
+char_sak: ` I'll tell you what makes a leader!`
+char_sak: ` Yadda yadda yadda..."`
+char_non: `The vegeta‐lion expounded his views on leadership to the attentive ears of those around him.`
+char_non: `Everyone was now pleasantly drunk and unusually animated in conversation.`
+char_rg2: `"Kyrie!!`
+char_rg2: ` Why do you get stronger the more jealous you are?!"`
+char_kir: `"Don't make it sound so bad.`
+char_kir: ` If I want something, I won't let it slip away.`
+char_kir: ` I always put that theory into practice. Nothing more to it."`
+char_ron: `"Thanks for waiting, everyone.`
+char_ron: ` Even more food is on the way."`
+char_goh: `"......Nnngaahhh...!`
+char_goh: ` Butting in on the running of the family party like this...`
+char_goh: ` ...And yet, while I hate to admit it, every movement of his is flawless.`
+char_goh: ` Just what sort of hotel did he train at......"`
+char_rg6: `"It's no use trying to compete with Ronove‐sama, he's totally perfect.`
+char_rg6: ` But I still love you more, Gohda.`
+char_rg6: ` This one's been cooked juuust right{p:0:♪}"`
+char_non: `The Seven Sisters had blended into the party perfectly, and were making things interesting.`
+char_nan: `"And yet, there are a great many mysteries that are called masterpieces, and which are also discredited by Van Dine's Twenty Rules."`
+char_wil: `"It's not like I'm discrediting anything.`
+char_wil: ` ......The purpose of a mystery novel is your own amusement.`
+char_wil: ` If you have fun, that's all that matters."`
+char_ger: `"Know that even the great Wizard‐hunting Wright has gone quite soft."`
+char_gen: `"......Both literature and forms of amusement change their guidelines with the times.`
+char_gen: ` Surely, mystery novels are no different."`
+char_non: `After Will explained his stance on mystery novels, everyone had a comment to make.`
+char_non: ` The conversation showed no sign of running dry.`
+char_cla: `"Yes, that is a fitting attitude for a beginner.`
+char_cla: ` However, at that rate, you'll never become a key player in your organization."`
+char_cor: `"But...know that rules exist to be followed..."`
+char_rg4: `"Just let the new beginners do that.`
+char_rg4: ` Don't forget that rules are more like instructional guidelines for the new guys to learn from."`
+char_rud: `"You said it.`
+char_rud: ` You can't really call yourself qualified until you learn how to move outside the rules.`
+char_rud: ` You've still got a long way to go if you're letting the rules hold you back."`
+char_rg5: `"I can't stand letting other people do the work!`
+char_rg5: ` I'm Mammon the Covetous!`
+char_rg5: ` I'll do all the jobs myself!"`
+char_eva: `"That's some spirit you've got there.`
+char_eva: ` How much are they paying you for being a Sister of Purgatory?`
+char_eva: ` Come and get a job at my husband's business. I'll recommend you personally."`
+char_non: `The {y:0:Human}{n:0:human}s and the residents of fantasy were now completely on casual terms.`
+char_nat: `"I, I see...... So this is how it's done in the world of witches......"`
+char_s41: `"Yeah nyeh, you've got it nyeh!`
+char_s41: ` Where we come from, you pour the tea onto the saucer, press your palms on the table, and slurp it up like a dog nyeh!"`
+char_rg3: `"Wh‐what the hell are you teaching her?! Who does things like that?!`
+char_rg3: ` And Natsuhi, what do you think you're doing, getting tricked like that, and at your age!!"`
+char_wal: `"Satan...!`
+char_wal: ` How can you be so rude to Natsuhi‐san...!!`
+char_wal: ` .........Huh?`
+char_wal: ` Wh‐why are you crying, Satan?`
+char_wal: ` D‐...did I scold you too hard...?!"`
+char_rio: `"Chiester410‐san, make sure you never give my pure and trusting mother such a crazy idea again.`
+char_rio: ` Don't worry, I made sure it wouldn't leave a mark."`
+char_non: `410 started yelling about animal abuse, jumping around in circles and holding her butt.`
+char_rg7: `"I wonder if there's a prince out there for me~!`
+char_rg7: ` I wanna have some hot, passionate love!"`
+char_mar: `"If I fell in love, could I be a beautiful princess too?"`
+char_bea: `"Of course!`
+char_bea: ` Love is a miracle, power, a mineral!!`
+char_bea: ` It grants you invincible strength!"`
+char_gap: `"......*giggle*.`
+char_gap: ` The person who once claimed love equals lust seems to be saying something."`
+char_kin: `"Indeed.`
+char_kin: ` It would seem she's getting her fill every night, heheheh!"`
+char_bea: `"Sh‐shut up, you perverts!!"`
+char_non: `The circle surrounding Beato was always a lively one.`
+char_kan: `"I know how you feel.`
+char_kan: ` It's only when we're given orders that we find meaning in our lives."`
+char_s45: `"I get nervous when I don't have any orders!`
+char_s45: ` Someone order me to do something, or I'll die!"`
+char_jes: `"You can't have that attitude!`
+char_jes: ` You've got to find your own meaning for your life, cut your own path!"`
+char_lam: `"That's right.`
+char_lam: ` Your resolve has to be certain and absolute, you know?`
+char_lam: ` Back when I was {y:0:Human}{n:0:human}, I lived like a daredevil all the time...!"`
+char_non: `A bit shakily, {f:5:Lambdadelta} started talking about her theory of life.`
+char_non: ` Apparently, she'd also had her fair share of champagne.`
+char_dla: `"What a bizarre {f:5:scene}."`
+char_sha: `"*giggle*. It is, isn't it?`
+char_sha: ` Dlanor‐sama, would you like some more to drink?"`
+char_dla: `"Something non‐{f:5:alcoholic}.`
+char_dla: ` I am a kid, after {f:5:all}."`
+char_but: `"Ah, Shannon‐chan, you'll do.`
+char_but: ` ......Do you have a second?"`
+char_non: `Battler came back into the hall.`
+char_non: ` He was searching for a servant, and the first one his eyes met was Shannon.`
+char_sha: `"Of course, Battler‐sama.`
+char_sha: ` Do you need something?"`
+char_but: `"Sorry, but would you mind lending me the key to the parlor?"`
+char_sha: `"The...parlor...?`
+char_sha: ` The master keys can open that, ......but why?"`
+char_but: `"Well, I was just wondering if Ange was asleep, so I went over there.`
+char_but: ` The door was locked."`
+char_sha: `"Locked...?`
+char_sha: ` After we carried Ange‐sama to the sofa, we shut the door, but we didn't lock it."`
+char_but: `".........Ah, don't tell me Ange...`
+char_but: ` She must have felt like she was being left out of the fun, and locked the door from the inside in a huff.`
+char_but: ` Silly kid."`
+char_sha: `"*giggle*.`
+char_sha: ` Shall we unlock it, then?"`
+char_but: `"Yeah, sorry about the trouble,`
+char_but: ` but that would be good."`
+char_non: `Battler and Shannon left the hall together.`
+char_non: `In the hall, {f:5:Lambdadelta} started suggesting that they all have another quiz tournament together.`
+char_non: `Apparently, the Witch of Certainty would be handing out prizes.`
+char_non: ` Everyone seemed enthusiastic about the idea.`
+char_non: `Smiling contently at the ensuing uproar, Battler headed towards the parlor.`
+char_sha: `".........It really is locked.`
+char_sha: ` Shall I open it?"`
+char_but: `"Hmmm......`
+char_but: ` I didn't knock on the door in case she was asleep, but if she locked it, that proves she was awake.`
+char_but: ` ......Let's try knocking once."`
+char_non: `Battler knocked on the door and called Ange's name.`
+char_non: `{n}However, there was no response from the other side.`
+char_non: `He pressed his ear against the door, listening carefully, but there was no hint of Ange unhappily throwing a cushion at it.`
+char_but: `"She might have fallen asleep after having her little tantrum.`
+char_but: ` ......Could you open it for me?"`
+char_sha: `"As you wish."`
+char_non: `Shannon took out her master key and unlocked the door.`
+char_non: `{n}Then, she stepped back to let Battler go through.`
+char_but: `"......Ange...`
+char_but: ` I'm coming in......"`
+char_non: `Speaking a quiet voice to avoid waking Ange if she was asleep, Battler opened the door.`
+char_non: `Then, just as the door was opened, a chilly breeze drifted by.`
+char_non: `The breeze, which felt like outside air, immediately caught the attention of the pair, and they looked at each other.`
+char_non: `......It could be seen at a glance that Ange wasn't in the parlor.`
+char_non: `The curtains to the wide‐open window fluttered about.`
+char_but: `"Ange......? ......Ange......?"`
+char_non: `A blanket lay crumpled up on the sofa.`
+char_non: `{n}It sat there just as Ange had left it after waking up.`
+char_non: `The blanket was slightly warm.`
+char_non: `Clearly, she had been here until a short while ago.`
+char_sha: `"Ange‐sama......?`
+char_sha: ` ......Are you there......?"`
+char_non: `She obviously wasn't playing hide‐and‐seek.`
+char_non: ` ......Ange was nowhere to be seen in the parlor.`
+char_non: `Battler peered out the open window into the rainy blackness.`
+char_non: `......So, she slipped out the window in this rain and went......where?`
+char_sha: `"Do you think Ange‐sama might have gone out the window......?"`
+char_but: `"......That'd make her one hell of a sleepwalker."`
+char_non: `Since she didn't leave via the main entrance, she probably doesn't even have an umbrella.`
+char_non: `It was very hard to imagine any reason Ange could have for going outside in this weather.`
+char_non: `............I have a bad feeling about this.`
+char_non: `This shouldn't be happening.`
+char_non: `{n}I'm the Game Master of this game board.`
+char_non: `So why are we in a situation that the Game Master can't understand...?`
+char_non: `A large bolt of lightning lit up my surroundings for an instant, but I was unable to see any trace of Ange......`
+char_lam: `"Okay, okay, now it's my turn to think of a question!`
+char_lam: ` Umm, okay, so you have a third of a whole cake, a quarter of a cake, and a fifth of a cake all on a plate!`
+char_lam: ` It takes thirty minutes to eat one whole cake, so how much is left on the plate when you've finished eating?!"`
+char_non: `At that moment, there was a roar of thunder and the lights flickered.`
+char_non: `The cheery voices vanished in an instant, like candles being blown out.`
+char_non: `"......None.`
+char_non: ` That's a riddle you were tricked with once, isn't it?"`
+char_non: `Amidst the silence, one voice rang out and answered Lambda's riddle.`
+char_non: `The crowd parted, .........and the form of a girl, a thousand‐year‐old witch, came into view.`
+char_non: `She had been invited.`
+char_non: `She was an official guest, holding an invitation to this party......`
+char_ber: `"......Sorry I'm late.`
+char_ber: ` I was just so caught up working out some festivities to liven up the party."`
+char_non: `As {f:5:Bernkastel} spoke, she looked around at everyone...`
+char_rio: `".............................."`
+char_ber: `"Oh.`
+char_ber: ` And I thought you'd wasted away in the sea of fragments."`
+char_lam: `"They're my pieces now.`
+char_lam: ` Pretty cool, right?"`
+char_ber: `"......Hmph."`
+char_non: `She stared at Lion and Will with an unnerving smile on her face, but she apparently lost interest quickly.`
+char_ber: `"Where's Battler? And Beato?`
+char_ber: ` I'm a guest, aren't I?`
+char_ber: ` Isn't there anyone to welcome me?"`
+char_but: `".........I'm here."`
+char_bea: `"We did invite you,`
+char_bea: ` but I didn't expect you to actually come.`
+char_bea: ` ......I see, so this must be a miracle."`
+char_ber: `"Now there's an interesting thing to say.`
+char_ber: ` *giggle*......`
+char_ber: ` ............Why's everyone gotten so quiet?`
+char_ber: ` This is a party, right?`
+char_ber: ` Go ahead and be noisy just for the hell of it.`
+char_ber: ` Or is welcoming me with silence supposed to be some kind of joke...?"`
+char_but: `"Now it's your turn."`
+char_ber: `"......My turn for what?"`
+char_but: `"You asked where I was.`
+char_but: ` So I told you.`
+char_but: ` Now it's your turn."`
+char_bea: `"What are you talking about?`
+char_bea: ` Did something happen...?"`
+char_but: `"Ange's gone.`
+char_but: ` Even I, the Game Master, don't know where she went."`
+char_bea: `"That's insane...!`
+char_bea: ` Isn't this your game?!`
+char_bea: ` That doesn't make sense...!"`
+char_lam: `".........If Ange disappearing isn't a scenario created by Battler,`
+char_lam: ` .........that means there must be another Game Master."`
+char_bea: `"Is that even possible...?!"`
+char_ber: `"Oh, yes,`
+char_ber: ` I was surprised myself.`
+char_ber: ` ......Just when I opened the game board to start a delightful game of my own,`
+char_ber: ` I found that Battler had started up this bizarre game at the same time.`
+char_ber: ` ......Two Game Masters at once... It's a crazy world we live in, don't you think...?"`
+char_but: `"In other words, ......you're admitting that you hid Ange away somewhere."`
+char_bea: `".....................`
+char_bea: `......It would seem so.`
+char_bea: ` After all, no one could create a scenario not invented by the Game Master...except for another Game Master."`
+char_lam: `"Would this be......those festivities to liven up the party that you mentioned?"`
+char_ber: `"......All of you looked like you were having a blast with that quiz tournament.`
+char_ber: ` So, I decided I wanted to join in."`
+char_bea: `"And you decided to hold Ange hostage to do that?"`
+char_ber: `"You've got it.`
+char_ber: ` ......Battler, Beato.`
+char_ber: ` I want to challenge you to a game.`
+char_ber: ` You cannot refuse.`
+char_ber: ` Not if you treasure Ange as a little sister, that is."`
+char_but: `"............What do you want?"`
+char_ber: `"Lambda and I made a bet about the game between you and Beato.`
+char_ber: ` ......I must acknowledge that I've lost.`
+char_ber: ` At least, that I've lost to Lambda."`
+char_lam: `"*giggle*giggle*.`
+char_lam: ` ......You try to act all dry, but you can really hold a grudge.`
+char_lam: ` It's like this, right?`
+char_lam: ` You're saying you lost to me, but not to Battler and Beato."`
+char_non: `It seemed as though {f:5:Bernkastel} might smile.`
+char_non: `{n}However, she didn't.`
+char_non: `{n}Those cold eyes spoke without words.`
+char_non: `Battler understood.`
+char_non: `He had played so many games against Beato.`
+char_non: `Those games had been a wordless message from Beato.`
+char_non: `So he knew.`
+char_non: ` He understood.`
+char_but: `"She wants to fight us.`
+char_but: ` ......Is that it?"`
+char_bea: `".........She will be a fearsome opponent."`
+char_but: `"But we can't back out."`
+char_bea: `"I know that.`
+char_bea: ` ......We mustn't let Ange become Lady {f:5:Bernkastel}'s plaything."`
+char_non: `Beato understood as well.`
+char_non: `She understood {f:5:Bernkastel}'s desire for one final battle...`
+char_lam: `".........I never thought I'd see you up front asking for a fair fight."`
+char_ber: `"Go on, laugh."`
+char_lam: `"Why?"`
+char_ber: `"Thanks."`
+char_lam: `".................."`
+char_non: `{f:5:Lambdadelta} understood as well.`
+char_non: `In these final moments before the end of Battler and Beato's tale, before everything was locked away in the cat box...`
+char_non: `...{f:5:Bernkastel} had finally moved from the audience to the stage.`
+char_non: `That witch who had hidden in the wings, unwilling to come out into the light, ......had shown the courage to step out onto the stage.`
+char_non: `As a friend, {f:5:Lambdadelta} showed that she understood {f:5:Bernkastel}'s human emotions, which had given her this courage...`
+char_lam: `"Is there anything I can do?"`
+char_ber: `"Please act as an observer for my game."`
+char_lam: `"......Sure.`
+char_lam: ` If you can promise you'll release Ange if we take part in your game."`
+char_bea: `"Of course.`
+char_bea: ` Without such a promise, we are not obligated to go along with your farce...!"`
+char_ber: `"You might not be obligated, but that won't change the fact that Ange's not coming back..."`
+char_bea: `"In that case, you can enjoy being branded as a loser for the next few centuries."`
+char_but: `"Beato, don't provoke her.`
+char_but: ` ......This isn't a fight we can back down from."`
+char_bea: `"......Y‐......yes."`
+char_non: `From the moment a hostage was taken, their ability to negotiate had disappeared.`
+char_non: `However, {f:5:Lambdadelta} was making {f:5:Bernkastel} promise to release Ange, in exchange for her agreeing to become an observer.`
+char_non: `Without that promise, {f:5:Bernkastel} would have nothing to lose.`
+char_non: `To make this final fight Bern wanted a proper one,`
+char_non: ` ......{f:5:Lambdadelta} made her agree to that promise.`
+char_ber: `".........Of course, Lambda.`
+char_ber: ` I promise.`
+char_ber: ` When the game ends, I'll release Ange."`
+char_lam: `"Don't make a fool of me, okay...?`
+char_lam: ` When I get shamed, I never let go of the one who did it until they regret it......"`
+char_non: `{f:5:Lambdadelta} spoke in a soft, threatening tone.`
+char_non: `However, {f:5:Bernkastel} laughed lightly as though she found the look on {f:5:Lambdadelta}'s face adorable.`
+char_ber: `"I swear it.`
+char_ber: ` ......I swear it on our friendship."`
+char_lam: `"......Whew."`
+char_non: `{f:5:Lambdadelta} whistled and grinned.`
+char_non: `Apparently, this was the most reliable oath {f:5:Bernkastel} could utter.`
+char_lam: `"Okay."`
+char_non: `{f:5:Lambdadelta} nodded, looked between Battler and {f:5:Bernkastel}, and spoke.`
+char_lam: `"By the name of {f:5:Lambdadelta}, Witch of Certainty, I accept the role of observer for your fight.`
+char_lam: ` ......Battler, Beato, you have no objections, right?"`
+char_non: `After Battler and Beato nodded at each other, they nodded at {f:5:Lambdadelta} to show their determination.`
+char_ber: `".........I'm so glad.`
+char_ber: ` We finally get to fight each other."`
+char_but: `"I had a feeling I'd end up fighting you sooner or later."`
+char_ber: `"Since when?"`
+char_but: `"...........................`
+char_but: `......I'm not sure.`
+char_but: ` It might have been before I even learned your name."`
+char_non: `Battler vaguely remembered her speaking to him, somewhere in an unconscious world he couldn't remember.`
+char_non: `At the time, it had sounded like she was giving him advice for his fight with Beato.`
+char_non: `But thinking back on it, it was a little different.`
+char_non: `......She might have been a cat fighting from the sidelines, too scared to go out into the bright sunlight.`
+char_non: `So, I had a vague premonition that, eventually, we would stand opposed to each other on the game board in some way......`
+char_but: `"......She was always one of us players.`
+char_but: ` ......Now, at the very end, as the game board is being put away, she's finally found the courage to step up onto the stage.`
+char_but: ` ......I want to accept that brave challenge of yours.`
+char_but: ` ............By the name of that courageous girl who once was your piece."`
+char_ber: `"I forced Erika to fight a duel.`
+char_ber: ` .........I wanted to win.`
+char_ber: ` And, even more strongly, I didn't want to lose.`
+char_ber: ` The fear of possibly tasting defeat tormented me.`
+char_ber: ` .........And, thinking back on it, I envied you two back then."`
+char_lam: `"................................."`
+char_but: `".........Erika was a great piece of yours...and my rival.`
+char_but: ` I won't forgive you for refusing to witness her last stand and laying her to rest in the depths of oblivion."`
+char_ber: `"Just what do you want me to do...?`
+char_ber: ` Apologize to her?"`
+char_but: `"Rescue her from the depths of oblivion.`
+char_but: ` And invite her to this party."`
+char_ber: `".........Erika...?`
+char_ber: ` Rescue Erika.........?"`
+char_bea: `"I feel the same as Battler.`
+char_bea: ` She may have been a piece who stood in opposition towards us, but she was only faithfully fulfilling her role.`
+char_bea: ` There can be no game without an adversary.`
+char_bea: ` ......She remains our enemy, but she's also an important friend to us."`
+char_ber: `"............Even though she made you suffer so much...?"`
+char_but: `"We fought a fair fight.`
+char_but: ` The outcome may have changed our fates, ......but now that we've dueled each other, we'll always be friends."`
+char_ber: `"......................................."`
+char_lam: `"You want to be their friend too, don't you, Bern?`
+char_lam: ` That's why you want a fair fight with them now, isn't it?"`
+char_ber: `"......Are you laughing at me?"`
+char_bea: `"We aren't."`
+char_but: `"On the contrary, we welcome it."`
+char_ber: `".........Even though I've taken a hostage?"`
+char_but: `"You probably wouldn't have come up onto the stage otherwise."`
+char_non: `There had been no need to take a hostage.`
+char_non: `Battler and Beato would have gladly accepted a final duel if {f:5:Bernkastel} had expressed a desire for one.`
+char_non: `......It was hard to make out anything from {f:5:Bernkastel}'s silent expression.`
+char_ber: `"Okay."`
+char_lam: `".........What's okay?"`
+char_ber: `"......I'll release Erika from the depths."`
+char_but: `"That must have taken a lot of resolve."`
+char_non: `For someone as proud as {f:5:Bernkastel}, forgiving the piece who had caused her defeat should have been nearly unbearable.`
+char_non: `Battler knew this, ......so he realized how much this bit of compassion had cost {f:5:Bernkastel}...`
+char_non: `{f:5:Bernkastel} snapped her fingers, and a black cat slipped out of her shadow.`
+char_ber: `"I tossed her all the way into the deepest parts of oblivion.`
+char_ber: ` .....She might be late in arriving."`
+char_bea: `"It matters not.`
+char_bea: ` There's no danger of the food and drink running out."`
+char_ber: `"......Go, kitty.`
+char_ber: ` ......Guide that kid here."`
+char_non: `When she gave this order, the cat melted into the darkness, its bell jingling.`
+char_lam: `"I can hardly believe that you'd forgive Erika."`
+char_ber: `".........I don't plan on forgiving her.`
+char_ber: ` So, she's not my piece anymore.`
+char_ber: ` ......Anyone feel like picking her up?`
+char_ber: ` After all, you already picked up Lion and Will."`
+char_but: `"............{f:5:Bernkastel}.`
+char_but: ` You have my thanks."`
+char_ber: `"Then can we stop with the sentimentality?`
+char_ber: ` I've already had as much as I can bear."`
+char_but: `"Sure.`
+char_but: ` ......Where will we have the game?`
+char_but: ` I'm happy to have it here, with all the noise, or in the usual quiet spot, or wherever you like."`
+char_bea: `"......Lady {f:5:Bernkastel} has shown the courage to stand before a great many people already.`
+char_bea: ` ......I see no point in making her suffer further."`
+char_but: `"Good point.`
+char_but: ` .........Then let's make it the usual place."`
+char_lam: `"Any objections, Bern?"`
+char_ber: `"......None."`
+char_lam: `"Sorry, partygoers...!`
+char_lam: ` We'll be heading out for a bit, but please continue to enjoy yourselves!`
+char_lam: ` Zepar, Furfur!`
+char_lam: ` Liven this place up!`
+char_lam: ` When Erika gets here, let's have everyone give her a warm welcome."`
+char_non: `""Yes, Lady {f:5:Lambdadelta}!!`
+char_non: ` Your wish is our command!!""`
+char_bea: `"Now then, let us take her to the usual room, a fitting place for our battle of wits...!"`
+char_non: `When Battler snapped his fingers, space shattered.`
+char_non: `They were now in the place where witches had once exhaustively debated, schemed, and reasoned: the witches' smoking room.`
+char_non: `{f:5:Bernkastel} had been invited there once again, and a final game would now begin......`
+char_but: `"......Do you have a game prepared?"`
+char_ber: `"Of course.`
+char_ber: ` ......I worked hard on this game, and I'm pretty proud of it."`
+char_lam: `"So, Bern will be the Game Master, and Battler and Beato will be the players?`
+char_lam: ` The usual game, where Bern creates a murder tale, and the two players have to reconstruct it with {y:0:Human}{n:0:human} tricks?"`
+char_bea: `"I'm interested to see what sort of scenario Lady {f:5:Bernkastel} develops."`
+char_but: `"......We'll explain things with the blue truth, and you'll knock those down with the red truth.`
+char_but: ` Are we alright with those rules?"`
+char_ber: `".........My game will be a simpler one.`
+char_ber: ` It's just a quiz of guessing the culprit.`
+char_ber: ` ......I don't feel like trading red and blue with you."`
+char_lam: `"Oh...?`
+char_lam: ` What kind of game will that be...?`
+char_lam: ` Would you mind letting me have a look at it first?"`
+char_non: `{f:5:Bernkastel} held her palm upwards...and a fragment glowing pale blue appeared there.`
+char_non: `{f:5:Lambdadelta} held a hand over it and shut her eyes......`
+char_ber: `"......See?`
+char_ber: ` It's a simple game, isn't it?"`
+char_lam: `"You're right......`
+char_lam: ` It's much more straightforward than the mind games these two played in the past.`
+char_lam: ` This isn't even a game about witches and {y:0:Human}{n:0:human}s anymore."`
+char_ber: `"That's right.`
+char_ber: ` This is a {y:0:Human}{n:0:human} game."`
+char_lam: `".........This is surprising.`
+char_lam: ` To take on the fantasy that is Beato...you've created a genuine mystery."`
+char_but: `"Please explain."`
+char_lam: `"It's extremely simple.`
+char_lam: ` ......You'll watch the tale Bern has prepared for you.`
+char_lam: ` There are several rules to it, but if you follow them as you read it through, it'll lead you to a Single Truth—in other words, an answer."`
+char_but: `"So, ......it's an ordinary mystery novel?"`
+char_bea: `"I see...`
+char_bea: ` In that case, there's no need for combat between red and blue truth."`
+char_non: `In Beato's games, the argument was about whether it was a mystery or not.`
+char_non: `However, {f:5:Bernkastel}'s game was a mystery.`
+char_non: ` There was no need to argue that from the start.`
+char_ber: `"I've even cut out the motive and the tricks.`
+char_ber: ` ......There's only one question I'm asking you."`
+char_but: `"Whodunit."`
+char_bea: `"......What a simple, yet fitting game to conclude our fight."`
+char_but: `"Yeah.`
+char_but: ` ......No cheap tricks.`
+char_but: ` Just a stoically simple game."`
+char_bea: `"This is a genuine duel......"`
+char_lam: `"As the observer, I'll say this.`
+char_lam: ` ......This game is "made to be solvable".`
+char_lam: ` In other words, I guarantee that it's a suitable setting for your duel."`
+char_lam: `".........Bern, I know I keep on saying this,`
+char_lam: ` .........but are you really sure?`
+char_lam: ` ......Battler and Beato's relationship started because they both loved mystery.`
+char_lam: ` ......I agree it's a pretty tricky scenario, ......but I'm not sure it'll be enough to stop these two......"`
+char_ber: `".........If my best tale can't stop them, then what comes will come."`
+char_bea: `"The important thing is that Lady {f:5:Bernkastel} put everything she had into this game."`
+char_but: `"You're right.`
+char_but: ` Will that be enough to stump us?`
+char_but: ` That's all this simple game is about.`
+char_but: ` .........Thanks, Lambda.`
+char_but: ` Thanks to you, we know that this duel will be a fair fight."`
+char_lam: `"You're welcome.`
+char_lam: ` I'm happy too.`
+char_lam: ` ......It's very rare for Bern to bring a fight herself, and I'm honored to be here to see it."`
+char_bea: `"I am also honored to have you as an opponent."`
+char_ber: `"......Same here.`
+char_ber: ` ......I underestimated you.`
+char_ber: ` And I did it without even stepping into the battlefield.`
+char_ber: ` Just thinking about it makes me want to vomit.`
+char_ber: ` .........So let me fight."`
+char_bea: `"Mm.`
+char_bea: ` Show us what you've got."`
+char_ber: `"If I win, I'll be able to look down on you for real this time.`
+char_ber: ` ......And if I lose,`
+char_ber: ` ......I'll surely be reminded of that emotion I know I've forgotten."`
+char_bea: `"Indeed."`
+char_but: `"......{f:5:Bernkastel}.`
+char_but: ` Whether you win or lose, I'll promise you one thing."`
+char_ber: `"............What's that?"`
+char_but: `"When this duel is over,`
+char_but: ` ......we'll be friends."`
+char_ber: `".........Hmph.`
+char_ber: ` ..................Enough of that, please.`
+char_ber: ` The sentimentality is killing me."`
+char_non: `Lambda clapped her hands.`
+char_non: `{n}`
+char_non: ` A pleasant sound rang out.`
+char_lam: `"Will you be the Reader, Bern?`
+char_lam: ` Or shall I take on the role...?"`
+char_ber: `".........I don't need a Reader."`
+char_lam: `"Huh?"`
+char_ber: `"......A Reader miko can use her own voice to embellish or distort the tale.`
+char_ber: ` ......Even if there was no cheap trickery in my game, by having a Reader, any amount of trickery could be added."`
+char_bea: `"Yes, that is true.`
+char_bea: ` ......That's another of the Game Master's privileges."`
+char_ber: `"I want to have a straightforward duel with you.`
+char_ber: ` .........So, I don't need a Reader.`
+char_ber: ` You can read this tale with your own eyes and ears."`
+char_lam: `"Are you sure...?!`
+char_lam: ` That means you've lost almost all of your advantages...!"`
+char_but: `"............Got it.`
+char_but: ` You don't need a Reader.`
+char_but: ` We'll read the tale ourselves."`
+char_bea: `"If there is no Reader, .........doesn't that mean there will be absolutely no falsehoods in the narrated text?"`
+char_but: `"We're ready, {f:5:Bernkastel}."`
+char_ber: `".............................."`
+char_but: `"A showdown over a genuine mystery, without any cheap tricks.`
+char_but: ` .........If you're going to play fair and square, we'll challenge you head on too."`
+char_ber: `".........Thank you.`
+char_ber: ` ......And I don't plan on losing either."`
+char_bea: `"Tsk, tsk, tsk.`
+char_bea: ` That's no good, Lady Bern."`
+char_ber: `"......?"`
+char_but: `"She's right.`
+char_but: ` If you're a witch challenging us with a mystery, it's no good having an attitude like that. Yeah, it's no goddamn good at all...!"`
+char_non: `{f:5:Bernkastel}, realizing what Battler and Beato were asking for, snorted.`
+char_non: ` {f:5:Lambdadelta} nodded at her, telling her to enjoy this final duel to the fullest.`
+char_ber: `"Heheheheh....... Ahahahahahahahah......`
+char_ber: ` A {y:0:Human}{n:0:human} and a witch discussing a mystery side by side?!`
+char_ber: ` It's ridiculous! Ludicrous!`
+char_ber: ` Let's see if your cheery take on mysteries can handle mine!`
+char_ber: ` I challenge you to solve my mystery!!"`
+char_bea: `"That is more like it!`
+char_bea: ` We'll take your challenge, Lady {f:5:Bernkastel}, Witch of Miracles!"`
+char_but: `"Alright, time to start!!`
+char_but: ` I, Game Master Ushiromiya Battler,`
+char_but: ` and {f:5:Beatrice}, the Endless Witch, will be your opponents!`
+char_but: ` Don't start crying when we wipe the floor with you!!"`
+char_ber: `"Take this! Behold a mystery from {f:5:Bernkastel}!!!"`
+char_non: `{f:5:Bernkastel} took the fragment holding the game and smashed it against the table, shattering it with a brilliant light as the game's scenario laid itself out.`
+char_non: `The curtain rose.........on the mystery {f:5:Bernkastel} had created......`
+char_non: `No sound but that of the falling rain filled the room.`
+char_non: `It covered the tragic scene in the bloody dining hall......`
+char_enj: `".............................."`
+char_non: `At some point, Ange had fainted and fallen to the floor.`
+char_non: `Now, her consciousness was slowly returning, ......forcing her to remember what had happened in this room.`
+char_non: `So, she reflexively averted her gaze even before the memory overtook her.`
+char_non: `Six bodies lay in the blood‐stained dining hall.`
+char_non: `Strangely enough, as her consciousness returned bit by bit, the terrifying scene before her seemed somehow less intense.`
+char_non: `So, this time, Ange was able to look at the six corpses well enough to make out who they were.`
+char_non: `First, ......there were her own parents.`
+char_non: ` ......They were a pitiful sight, colored bright red by a bloody makeup.`
+char_non: `Next to them, that's Uncle Hideyoshi......and Auntie Eva.`
+char_non: `Both Uncle Hideyoshi, the uncle who always said something funny and made me laugh......and Auntie Eva, the aunt who seemed to be so fond of me,`
+char_non: ` ......are lying there dead...`
+char_non: `Genji‐san, the servant, is lying over there.`
+char_non: `And, the one lying right here......is Auntie Rosa.`
+char_non: `Six people.`
+char_non: `A full six people......had their lives taken from them...and are lying in this room......`
+char_non: `Maybe I had cried myself out before I fell unconscious.`
+char_non: ` ......The scene before me was still terribly painful, ......but I was somehow able to look at it without losing my head.`
+char_non: `So, I'd already felt all the sadness I could at my parents' deaths.`
+char_non: `The next emotion that rose up inside me......was a desire to check and see that everyone else was okay.`
+char_non: `In that instant, ......Ange heard a scraping sound.`
+char_non: `Thinking she must have imagined it, she was about to relax when she heard the sound once more.`
+char_non: `It was probably coming from the door.`
+char_non: `{n}Someone was clawing at the door from the outside.`
+char_non: `Of course, she had no way of knowing who it was.`
+char_non: `However, for some reason, she was sure that it was that black cat scratching at the door.`
+char_non: `......The black cat was telling her to leave this room.`
+char_non: `Ange understood and put her hand on the doorknob.`
+char_non: `............?`
+char_non: `I immediately noticed something odd.`
+char_non: ` The door was locked.`
+char_non: `The same bad feeling I'd felt after being locked in the parlor crawled up my spine.`
+char_non: `......However, unlike the time in the parlor, this door unlocked itself easily when I turned the knob.`
+char_non: `I unlocked it...and slowly opened the door......`
+char_non: `Beyond the door, .........I could see the dimly‐lit hallway, and a cat dashing down it away from me.`
+char_non: `Then, it stopped, its emerald eyes glittering in the darkness, ......as though it was waiting for me to follow.`
+char_enj: `"...................................."`
+char_non: `The hallway was dark......and dominated by an eerie silence.`
+char_non: `When the black cat saw that I was coming, it walked forward as if guiding me.`
+char_non: `I could hear nothing except the creaking of the floor, the jingling of the cat's bell,`
+char_non: ` ......and the howling of the storm outside.`
+char_non: `......The party is being held in the hall.`
+char_non: `I should be able to hear at least a little of the noise from this hallway......`
+char_enj: `".........Maybe it got really late......while I was passed out in the dining hall..."`
+char_non: `It was a reasonable conclusion.`
+char_non: ` Then, we finally reached the main hall.`
+char_non: `......The hall was frigid, and no trace of that party atmosphere remained.`
+char_non: `Could all of that fun have been......just an illusion......?`
+char_non: `The black cat's bell rang out.`
+char_non: `When I looked up, I saw it had its feet on the stairway to the second floor, urging me to follow it.`
+char_enj: `".........Are we going up to the second floor...?"`
+char_non: `The black cat seemed to nod, then silently ascended the stairs.`
+char_non: `......Guests were allowed to go wherever they wanted on the first floor,`
+char_non: ` but the second floor was Uncle Krauss's family's house, and I remembered getting in trouble for trying to go up there.`
+char_non: `However, at that moment, I couldn't think of any options...other than following that cat......`
+char_non: `I walked along the dark hallway with the black cat.`
+char_non: `{n}Eventually, we reached one of the doors.`
+char_non: `The black cat scratched at the door, then turned to look at me.`
+char_non: `{n}......It must have been telling me to open it.`
+char_enj: `"Okay......`
+char_enj: ` ......I'll open it for you......"`
+char_non: `I put my hand on the doorknob......and felt the resistance of a lock again.`
+char_non: `This door is locked.`
+char_non: ` ......I turned around to tell the cat this, ......but...inexplicably...`
+char_non: `a single key lay right in front of the cat.`
+char_non: `Ange picked it up and stuck it in the keyhole.`
+char_non: `......It was then that she finally noticed a strange sensation on her fingertips.`
+char_non: `Blood.`
+char_non: `Somehow, Ange's fingertips were stained red with blood.`
+char_non: `She let out a short cry and dropped the key that she had just removed from the keyhole.`
+char_non: `She finally realized.`
+char_non: ` In the darkness, she hadn't noticed before.`
+char_non: `{n}The black cat's key......was covered with blood......`
+char_non: `......The emotions that had gone numb in Ange sprang back.`
+char_non: `A terrified scream rang out through the dark hallway......`
+char_non: `Even so, Ange would eventually open that door.`
+char_non: `That door......led to Natsuhi's room.`
+char_non: `Natsuhi's room was a terrible mess.`
+char_non: `Blankets and sheets were torn.`
+char_non: `Cosmetics and books lay all over the place, as though a typhoon had just ripped through it.`
+char_non: `And......there were the corpses.`
+char_non: `Krauss and Natsuhi's corpses lay sprawled on the floor......`
+char_non: `Very shortly, Ange will step into this room.`
+char_non: `{n}She will then scream in terror once more......`
+char_non: `And it isn't just the dining hall and Natsuhi's room.`
+char_non: `In the stormy rose garden, .........Shannon's corpse lies exposed to the rain.`
+char_non: `......Partway down the path to the rose garden...is Jessica's corpse.`
+char_non: `When Ange finds that, she'll probably dash crying and screaming into the guesthouse.`
+char_non: `And......death awaits her inside the guesthouse as well.`
+char_non: `Just inside the front door...is Nanjo's corpse.`
+char_non: `In the servant room nearby, even Gohda and Kumasawa lie dead.`
+char_non: `......The total number of corpses...is thirteen.`
+char_non: `A full thirteen corpses are waiting for Ange.`
+char_non: `They wait in the mansion and the guesthouse on this desolate Rokkenjima...`
+char_non: `...for Ange, exposed to the wind and rain and tormented by thunder, to find them......`

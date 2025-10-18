@@ -1,0 +1,893 @@
+char_non: `The tragedy of the first twilight was discovered at 6:00 in the morning on the following day.`
+char_non: `Gohda, who had woken up to get breakfast ready, went to check on the adult siblings, who had remained in the dining hall since the previous night because of the family conference.`
+char_but: `"Talk about when you discovered the crime."`
+char_goh: `"{p:42:The dining hall was locked up}.`
+char_goh: ` Of course, there is a lock on the doors to the dining hall, but they usually remained unlocked.`
+char_goh: ` I knocked, but there was no answer..."`
+char_kum: `"{p:42:That's when I arrived}.`
+char_kum: ` I recommended that he try unlocking the door, just in case."`
+char_goh: `"When {p:42:I unlocked the door with a master key}, a terrifying sight awaited me inside......"`
+char_kum: `"{p:42:Eva‐sama, Hideyoshi‐sama, Rudolf‐sama, Kyrie‐sama, Rosa‐sama, and Genji‐san,`
+char_kum: ` six people in all, were lying there, covered in blood......}"`
+char_cla: `"A great tumult followed.`
+char_cla: ` {p:42:Everyone gathered in the dining hall}."`
+char_nat: `"I don't want to remember it...`
+char_nat: ` The sight of all the sobbing children crouched over the corpses of their own parents..."`
+char_jes: `"There was a chance they might've been alive still.`
+char_jes: ` ......Everyone was shaking them desperately."`
+char_sha: `"But it was no use...`
+char_sha: ` {p:42:The death of each parent was confirmed by their own child}..."`
+char_kan: `"{p:42:Doctor Nanjo and I confirmed that Genji‐sama was dead}."`
+char_nan: `"It was such a terrible way to be killed......`
+char_nan: ` {p:42:Doctor or not, no one examining a body will reach the wrong conclusion}."`
+char_mar: `"Looks like {p:42:all of the victims died instantly}.`
+char_mar: ` ......Kihi{0}hi{0}hihi."`
+char_cla: `"{p:42:After inspecting the interior of the dining hall, we determined that all of the doors and windows had been locked, making it a locked room}."`
+char_but: `"And {p:42:nothing suspicious was found inside the dining hall}."`
+char_geo: `"Of course, {p:42:there was no one hiding in the dining hall either}."`
+char_cla: `"Naturally.`
+char_cla: ` All of us are here right now.`
+char_cla: ` {p:42:It's clear that no one is hiding}."`
+char_jes: `"But Dad, if that's true, it doesn't make sense...`
+char_jes: ` Six people were killed, and the dining hall's a locked room!`
+char_jes: ` How could someone have killed them and escaped?!"`
+char_nat: `"......I'd rather not think of it,`
+char_nat: ` but perhaps the servants with their master keys are the most suspicious."`
+char_cla: `"They killed the six, then left and locked the door with their master keys.`
+char_cla: ` ......It is a logical theory."`
+char_goh: `"E‐eeek!`
+char_goh: ` Th‐that's absurd!"`
+char_non: `Since there was no chance of the culprit hiding inside the dining hall,`
+char_non: ` it made sense to assume that the culprit had locked the door after committing the murder and exiting the room.`
+char_non: `It was only natural that the servants, with their master keys, would fall under suspicion.`
+char_non: `And, sadly enough, none of the servants had an alibi.`
+char_non: `Then again, it wasn't only the servants. Everyone else lacked an alibi as well.`
+char_but: `"Is there any way to lock up from the outside without a master key?"`
+char_ber: `"No, there isn't.`
+char_ber: ` .........Hmm, that's not enough.`
+char_ber: ` I'll say it with the red truth."`
+char_ber: `{p:1:All doors can only be locked or unlocked with a master key}.`
+char_ber: ` {p:1:Of course, it is possible to lock or unlock the doors from inside the room even without a master key}.`
+char_lam: `"There you have it.`
+char_lam: ` Any other questions?"`
+char_bea: `"Shouldn't there be keys to each individual room in addition to the master keys?"`
+char_ber: `"......Normally, those would exist.`
+char_ber: ` However, they'd make the game more complicated, so I've eliminated them.`
+char_ber: ` Red truth.`
+char_ber: ` {p:1:In this game, we'll consider master keys to be the only keys that exist}."`
+char_but: `"In other words,`
+char_but: ` all of the locks that appear in this game can only be locked or unlocked by master keys."`
+char_lam: `"That's how it is.`
+char_lam: ` It really is a simple game."`
+char_bea: `"In that case, we should now check the number of master keys and who holds them."`
+char_ber: `"{p:1:There are five master keys total.`
+char_ber: ` One is held by each of the five servants}.`
+char_ber: ` The keys'll be managed by a particular method.`
+char_ber: ` {p:1:The servants keep the master keys on their person at all times, so it is impossible for them to be stolen, handed over, or used by any human other than themselves}."`
+char_but: `"What the heck.`
+char_but: ` Now they're sounding less like keys and more like a fingerprinting system."`
+char_bea: `"That's an interesting metaphor.`
+char_bea: ` ......In other words, in the world of this game, it isn't the master keys, but the five servants themselves that can lock or unlock doors."`
+char_cla: `"We tried to retrieve Genji‐san's master key, but had no luck."`
+char_nat: `"To prevent trouble later on, {p:42:we destroyed Genji's master key}."`
+char_non: `This was the crime of the first twilight.`
+char_non: `{n}The scene was the fully locked room of the dining hall.`
+char_non: `None of the servants holding master keys have alibis.`
+char_non: `{n}Then again, no one else has an alibi either......`
+char_non: `Everyone returned to the parlor to discuss what should be done next.`
+char_non: `The phones were out, so they couldn't contact the police.`
+char_non: `Was the mysterious culprit hiding away somewhere, planning to attack their next victim at this very moment?`
+char_non: `Or was the culprit in here with them, mentally sticking out their tongue and tasting their next prey?`
+char_non: `None of them had alibis, and it was possible for any one of them to be a culprit...`
+char_non: `However, that tense feeling didn't last long.`
+char_non: `By midday, everyone got tired of arguing, and they decided to take a break.`
+char_non: `Krauss and Natsuhi announced that they wanted to talk with each other alone and went up to the second floor.`
+char_non: `That paved the way for everyone else to start going their separate ways, some breaking away to head to the bathroom, others to gaze at the endless rain.`
+char_non: `However, no matter how much time passed, Krauss and Natsuhi were the only ones who didn't return.`
+char_non: `Calls were sent to both Krauss and Natsuhi's rooms using the extension phone line, but there was no answer.`
+char_non: `Something might have happened.`
+char_non: `Everyone headed to Krauss's and Natsuhi's rooms together, ......and in Natsuhi's room, they found Krauss and Natsuhi lying sprawled on the floor.`
+char_goh: `"{p:42:Madam's room was locked}!`
+char_goh: ` It's just like the dining hall!"`
+char_sha: `"After getting everyone's permission, {p:42:I unlocked the door}..."`
+char_kan: `"{p:42:Krauss‐sama and Natsuhi‐sama lay sprawled on the floor inside the room}."`
+char_but: `"{p:42:Doctor Nanjo checked their pulse.`
+char_but: ` Then, he announced that the two of them had died instantly}."`
+char_nan: `"Correct.`
+char_nan: ` {p:42:I confirmed both of their deaths.`
+char_nan: ` There can be no doubt that they died instantly}."`
+char_jes: `"I searched all over the room, looking for a clue...!`
+char_jes: ` In the end, {p:42:I found that the windows and doors were all locked, making it a locked room}."`
+char_kum: `"Another locked room!`
+char_kum: ` And yet again, we servants who have master keys will be suspected...!"`
+char_goh: `"B‐but have no fear...!`
+char_goh: ` After Madam began to suspect us, we started keeping an eye on each other!"`
+char_sha: `"{p:42:All of us servants were together the whole time}."`
+char_kan: `"{p:42:All of us servants can prove an alibi for all of the other servants}."`
+char_but: `"Now that's interesting.`
+char_but: ` So, you're saying that this locked room is even more perfect."`
+char_ber: `".........In the case of the first locked room, no one had an alibi.`
+char_ber: ` So, for this locked room, all of them have alibis."`
+char_bea: `"In this world, the servants themselves are living master keys.`
+char_bea: ` As long as those servants have perfect alibis, locking Natsuhi's room is impossible..."`
+char_geo: `"We decided to preserve the crime scene as it was."`
+char_mar: `"{p:42:We put duct tape all over the outside of the doors and windows, sealing them}!"`
+char_jes: `"I'm sure the culprit left some sort of clue in this room!`
+char_jes: ` {p:42:We made sure that no one would be able to enter or leave until the police arrived}!"`
+char_but: `"Then, we did the same to the dining hall.`
+char_but: ` {p:42:We also sealed the dining hall in the same way}."`
+char_nan: `"We reached the conclusion that the entire mansion itself should be preserved.`
+char_nan: ` {p:42:We also sealed the mansion itself, and all of us took refuge in the guesthouse}."`
+char_but: `"They sealed the whole mansion?`
+char_but: ` Duct tape on all the windows?`
+char_but: ` They even used a ladder for the windows on the third floor?"`
+char_ber: `"......The game would get complicated otherwise, so I've simplified it.`
+char_ber: ` {p:1:All of the windows have steel bars on them, so it is impossible to enter or leave by them}.`
+char_ber: ` Therefore,`
+char_ber: ` {p:1:we'll say that they can seal the whole mansion by sealing the two doors, the front one and the back one}."`
+char_but: `"Got it. That makes it easy."`
+char_bea: `"What do you think?"`
+char_but: `"Actually killing the two people in Aunt Natsuhi's room would be easy.`
+char_but: ` Someone just had to knock and get them to open the door.`
+char_but: ` However, they couldn't lock it afterwards."`
+char_bea: `"Only the servants can lock doors,`
+char_bea: ` but all of the servants have alibis."`
+char_but: `"Unless the servants are all in it together.`
+char_but: ` More importantly, the first twilight has me suspicious."`
+char_bea: `"You think that one of the six who died in the dining hall was actually alive and committed the crime?"`
+char_but: `"It's because of Erika.`
+char_but: ` I can't help but be suspicious when people are examining corpses."`
+char_bea: `"So, you think that one of the first six victims was alive?"`
+char_but: `"Yeah.`
+char_but: ` And afterwards, they killed Krauss and Natsuhi.`
+char_but: ` Then, they locked the door from the inside, hid inside the room, and found a good chance to escape."`
+char_bea: `"Hmm, that theory does make logical sense."`
+char_ber: `"......I'll say it in red.`
+char_ber: ` {p:1:The culprit of the first twilight has definitely killed six people}."`
+char_bea: `"Then I'll take a shot with the blue truth.`
+char_bea: ` Here is the true nature of this locked room.`
+char_bea: ` {p:2:The culprit locked the door from the inside, then hid in Natsuhi's room.`
+char_bea: ` Then, after everyone left, they found an opportunity to escape}."`
+char_ber: `".........Sure, I'll deny that in red.`
+char_ber: ` {p:1:The group sealed the room at the same time they left.`
+char_ber: ` No culprit joined the group as they left.`
+char_ber: ` Also, all of the seals on Natsuhi's room, the dining hall, and the mansion itself will never be broken}."`
+char_lam: `"Heheheheheh.`
+char_lam: ` In other words, you can't use that trick where they hide under the bed and slip out later."`
+char_but: `"......Interesting.`
+char_but: ` Nice going, {f:5:Bernkastel}."`
+char_ber: `"Thanks."`
+char_non: `This was the crime of the second twilight.`
+char_non: `{n}The scene was Natsuhi's fully locked room.`
+char_non: `This time, all of the servants with master keys have alibis.`
+char_non: `The whole group, realizing the dangers of being inside the mansion, took shelter in the guesthouse......`
+char_non: `All those who took refuge in the guesthouse decided to hole up in there until the typhoon passed.`
+char_non: `There, if everyone watched everyone else, they should be able to prevent further crimes both from inside and outside.`
+char_non: `However, they couldn't do that without any breaks until the typhoon passed.`
+char_non: `Once again, their actions left a weak point open, and they were faced with yet another tragedy.`
+char_but: `"Shannon‐chan and Kanon‐kun, who went outside on an errand, still haven't come back...!"`
+char_jes: `"George nii‐san got upset, so {p:42:we all went outside to look for them}."`
+char_kum: `"We found Shannon‐san lying there in the rose garden.`
+char_kum: ` Oh, poor, poor Shannon‐san......"`
+char_geo: `"I prayed she was still alive.`
+char_geo: ` However, {p:42:I was forced to acknowledge that she was dead}..."`
+char_nan: `"Of course, {p:42:I also examined her and confirmed her death}."`
+char_goh: `"When the two of them left, we were busy checking the locks around the guesthouse.`
+char_goh: ` So, {p:42:not one of us has an alibi}...!"`
+char_geo: `"Me, kill her?!`
+char_geo: ` How could I have killed her?!!"`
+char_mar: `"Yeah.`
+char_mar: ` George onii‐chan couldn't kill her, uu."`
+char_jes: `"Later on, we learned that George nii‐san alone had an alibi.`
+char_jes: ` {p:42:At least regarding Shannon's death, it was impossible for George nii‐san to be the murderer}."`
+char_but: `"To turn it around,`
+char_but: ` {p:42:......anyone could have killed her besides George‐aniki}."`
+char_goh: `"To prevent the culprit from using it for any mischief,`
+char_goh: ` {p:42:we destroyed the master key Shannon‐san had held on the spot}."`
+char_ber: `"......At the time Shannon is killed, Kanon goes missing forever.`
+char_ber: ` .........{p:1:From now on, Kanon is treated as having been killed.`
+char_ber: ` Also, Kanon's master key is treated as having been destroyed}."`
+char_lam: `"Well, it'd be tasteless to go into it, so I won't, but...`
+char_lam: `...given that Shannon's dead, I wouldn't really expect anything else."`
+char_bea: `"In other words,`
+char_bea: ` we can say that Shannon and Kanon were killed at the same time, even though we're missing a corpse?"`
+char_ber: `"That's right."`
+char_but: `"......Hmm.`
+char_but: ` Looks like the crimes are moving along."`
+char_non: `This was the crime of the fourth twilight.`
+char_non: `The scene was the rose garden.`
+char_non: `There are no locks or doors.`
+char_non: ` It isn't a locked room.`
+char_non: `{n}So, the master keys no longer have anything to do with this.`
+char_non: `Then, the pace of the crimes began to accelerate......`
+char_non: `The group took shelter in the guesthouse.`
+char_non: `They carefully sealed all doors and windows, sealing themselves in a locked room.`
+char_non: `However, several locked‐room murders had already occurred.`
+char_non: `Could locking themselves in a locked room do anything more than invite another tragedy?`
+char_non: `After arguing fiercely in the cousins' room about finding the culprit, they decided to go to the servant room to double‐check the testimonies of Nanjo, Kumasawa, and Gohda.`
+char_non: `And there, ......they learned that a tragedy had occurred once more.`
+char_nan: `"{p:42:Judging by these wounds, Gohda‐san and Kumasawa‐san died instantly}, I believe.`
+char_nan: ` Such a gruesome way to die..."`
+char_jes: `"Like hell they could survive after this...!`
+char_jes: ` {p:42:Gohda‐san and Kumasawa‐san are both dead}!"`
+char_but: `"Well, we have been busy, keeping a lookout and locking up and all that.`
+char_but: ` Once again, {p:42:none of us has an alibi}."`
+char_geo: `"That's not true.`
+char_geo: ` Look.`
+char_geo: ` ......Considering the way they were killed, the culprit would definitely get blood spatter on themselves."`
+char_mar: `"But Doctor Nanjo and all of the cousins have no blood on them."`
+char_jes: `"All of us...in other words, {p:42:the four cousins and Doctor Nanjo couldn't have killed Gohda‐san and Kumasawa‐san}."`
+char_but: `"In that case, it's clear that the culprit is someone other than us."`
+char_geo: `"I guessed that someone might have snuck in, so I checked around, {p:42:but the guesthouse was still completely locked up}."`
+char_nan: `"Perhaps the culprit has a master key after all..."`
+char_but: `"That's impossible.`
+char_but: ` {p:42:No master keys exist anymore except the two keys on the two people who lie dead here}."`
+char_jes: `"Since the two master keys that exist are here inside the guesthouse,`
+char_jes: ` ......that makes this guesthouse a perfect locked room...!"`
+char_mar: `"Well, since someone's dead, it obviously wasn't perfect.`
+char_mar: ` Kihi{0}hi{0}hi{0}hi{0}hi{0}hi{0}hihi......"`
+char_non: `This was the crime of the fifth and sixth twilights.`
+char_non: `{n}The scene was the locked room known as the guesthouse.`
+char_non: `Gohda's and Kumasawa's master keys were also destroyed, meaning that all master keys had now been lost.`
+char_non: `Now, no one could break into this locked room guesthouse.`
+char_non: `At least, that should have been true......`
+char_non: `This time, Doctor Nanjo was the one who was killed.`
+char_non: `He was killed in the entrance hall of the guesthouse.`
+char_non: `It was far too foolish of him to come here alone to check that everything was locked.`
+char_jes: `"{p:42:H‐he's dead...`
+char_jes: ` He's been killed......}!"`
+char_geo: `"Even I...can say for sure that {p:42:this was an instant death}..."`
+char_mar: `"{p:42:Everything is locked up perfectly}.`
+char_mar: ` How did it happen, if this is a locked room?"`
+char_but: `"Then that means the culprit is one of us...!"`
+char_jes: `"Impossible!`
+char_jes: ` Judging by the circumstances, {p:42:Maria, Battler, George nii‐san and I all couldn't have killed Doctor Nanjo}!"`
+char_geo: `"In the first place, {p:42:no one could kill Doctor Nanjo inside the guesthouse}!"`
+char_but: `"And look at this.`
+char_but: ` Simply put, {p:42:this is proof that Doctor Nanjo didn't leave the guesthouse}...!"`
+char_mar: `"Then that means no one could kill Doctor Nanjo, right?`
+char_mar: ` So why was he killed?"`
+char_non: `No one could answer that innocent question.`
+char_non: `This was the seventh twilight.`
+char_non: `Once again, the crime scene was the locked room known as the guesthouse.`
+char_non: `Various bits of evidence made this crime seem even more impossible.`
+char_non: `Then, the tragedy reached the eighth twilight, the final one.`
+char_non: `By now, it was clear that holing up wouldn't keep them safe.`
+char_non: `Jessica might have chosen anger as a way to numb her fear.`
+char_non: `She flew out of the guesthouse in a rage, searching for the murderer that she was sure hid somewhere outside.`
+char_non: `George, Battler, and Maria hurriedly chased after her.`
+char_non: `Then, outside the building, they found Jessica lying on the ground.`
+char_non: `It was, as anyone could tell by looking, a gruesome corpse......`
+char_geo: `"Poor......Jessica‐chan.`
+char_geo: ` {p:42:She probably died instantly}."`
+char_mar: `"{p:42:There's no way she could live through this}.`
+char_mar: ` Kihihihihi."`
+char_but: `"The three of us were together the whole time!`
+char_but: ` {p:42:George‐aniki, Maria and I couldn't have killed Jessica}!"`
+char_mar: `"Yeah.`
+char_mar: ` {p:42:The three of us couldn't have killed Jessica}."`
+char_geo: `"As if Maria‐chan could kill someone.`
+char_geo: ` {p:42:Maria‐chan couldn't kill anyone}."`
+char_mar: `"Kihihi, thanks.`
+char_mar: ` {p:42:George onii‐chan couldn't kill an adult.`
+char_mar: ` He could kill a kid though}.`
+char_mar: ` Kihihihihihi."`
+char_but: `"Ah, I don't understand it at all...!!`
+char_but: ` What the hell is going on here...?!!"`
+char_non: `This was the eighth twilight.`
+char_non: ` The crime scene was...outside.`
+char_non: `However, the three who chased after Jessica have alibis.`
+char_non: `{n}George, Battler, and Maria couldn't have killed Jessica.`
+char_non: `So, is there really someone hiding on this island apart from the Ushiromiya family......?`
+char_non: `The curtain is lowered on this tale, for now......`
+char_ber: `"......That's all for my tale."`
+char_lam: `"It's pretty well made.`
+char_lam: ` If you had a full‐on Reader, it'd stand up well against Beato's games."`
+char_but: `"I agree there.`
+char_but: ` You did a good job."`
+char_bea: `"Well, the real work comes from taking this, "reading" it, and making it worthy of proper theatergoing."`
+char_but: `"Still, I'm stumped.`
+char_but: ` On the face of it, the culprit has to be some mysterious person outside the Ushiromiya family."`
+char_bea: `"And that would be the same as acknowledging the existence of a witch.`
+char_bea: ` ......We can also suspect the existence of some accomplices aiding the culprit."`
+char_but: `"In the first place, what was that purple text all about?`
+char_but: ` A new rule?"`
+char_ber: `"......I call them "purple statements".`
+char_ber: ` It's a rule I made to make the story a bit easier to follow.`
+char_ber: ` ......Just think of the purple statements as important spoken statements.`
+char_ber: ` ......In other words, you might be able to ignore the spoken statements that aren't purple."`
+char_but: `"Oho......`
+char_but: ` Well, that's nice of you."`
+char_bea: `"Then, are the purple statements as reliable as red truth?"`
+char_ber: `"Yes.`
+char_ber: ` You can think of the purple statements as having the same power as red truth.`
+char_ber: ` .........However, there's one exception.`
+char_ber: ` The culprit can tell lies with purple statements."`
+char_but: `"......I see.`
+char_but: ` To turn it around, anyone who isn't a culprit can't tell lies."`
+char_bea: `"Purple statements.`
+char_bea: ` ......These seem to be the key to Lady {f:5:Bernkastel}'s game."`
+char_ber: `"Yeah, that's right.`
+char_ber: ` ......I'll explain the rules for my game."`
+char_non: `{e:100:`
+char_non: `• The definition of "culprit" is "one who murders".`
+char_non: `{n}`
+char_non: `• It is possible for a culprit to lie.`
+char_non: `{n}`
+char_non: `• It is possible for a culprit to lie even before committing murder.`
+char_non: `{n}`
+char_non: `• Characters who are not culprits only speak the truth.`
+char_non: `{n}`
+char_non: `• Characters who are not culprits cannot cooperate with a culprit.`
+char_non: `{n}`
+char_non: `• A culprit must carry out all murders directly, by their own hands.`
+char_non: `{n}`
+char_non: `• A culprit must not die.`
+char_non: `{n}`
+char_non: `• A culprit must be among the characters appearing in the story.`
+char_non: `{n}`
+char_non: `• Purple statements are as absolute as red truths.`
+char_non: ` However, a culprit can lie with purple statements.}`
+char_ber: `"That's all."`
+char_but: `"The definition of "culprit" is "one who murders"...`
+char_but: ` Makes sense."`
+char_bea: `"It is possible for a culprit to lie.`
+char_bea: ` That seems reasonable enough too."`
+char_but: `"It is possible for a culprit to lie even before committing murder.`
+char_but: ` Well, no surprises there."`
+char_bea: `"Characters who are not culprits only speak the truth.`
+char_bea: ` That is one we should be grateful for!"`
+char_lam: `"Characters who are not culprits cannot cooperate with a culprit, right?"`
+char_bea: `"So, the culprit can't use any accomplices to create an alibi."`
+char_but: `"Damn.`
+char_but: ` My guess was that someone had manufactured an alibi to cover for the culprit, but..."`
+char_ber: `"......Too bad for you."`
+char_bea: `"A culprit must carry out all murders directly, by their own hands.`
+char_bea: ` ......In other words, there are no remote or indirect methods of murder, like traps."`
+char_but: `"A culprit must not die.`
+char_but: ` In other words, no one can commit murder, set up a locked room, then commit suicide inside it."`
+char_lam: `"And doesn't it also mean that dead people can't be culprits?"`
+char_bea: `"......Hmm.`
+char_bea: ` This is a fairly vital piece of information."`
+char_but: `"A culprit must be among the characters appearing in the story.`
+char_but: ` ......So, no mysterious strangers sneaking onto the island."`
+char_ber: `"The appearing characters are the same old seventeen people after Kinzo is removed.`
+char_ber: ` No one else appears in the story, so no one else matters."`
+char_bea: `"Purple statements are as absolute as red truths.`
+char_bea: ` However, a culprit can lie with purple statements.`
+char_bea: ` ......Now here's a troublesome one."`
+char_but: `"This could be the heart of this game.`
+char_but: ` Is that all for the game's premises?"`
+char_ber: `".........Besides that, I guess there's only "the Reader will tell no lies".`
+char_ber: ` In other words, {p:1:there are no lies in the non‐dialogue narrative text}.`
+char_ber: ` ......I could've done that if I wanted, but it'd be a pain and make things complicated."`
+char_bea: `"So, you willingly abandon a witch's privileges.`
+char_bea: ` You seem quite confident."`
+char_but: `"She probably plans to win despite that."`
+char_ber: `"That's all from me.`
+char_ber: ` ......I don't intend to give you any more hints or answer any more questions."`
+char_lam: `"As the observer, I'll proclaim this once again.`
+char_lam: ` {p:1:I guarantee that it's possible to identify the culprit with this information}."`
+char_but: `"Okay.`
+char_but: ` .........Got it."`
+char_bea: `"I can't wait to get started.`
+char_bea: ` I can't believe the two of us are going to take on the same mystery together once more...!"`
+char_but: `"Yeah.`
+char_but: ` Let's make the most of it...!"`
+char_non: `......This is a real game between you and me.`
+char_non: `{n}I recommend finding some paper and something to write with.`
+char_non: `{n}That is, if you really intend to fight me.`
+char_non: `If you do get completely stuck, maybe you should listen in on Battler and Beato's reasoning.`
+char_non: `{n}We'll have those be "hints", for when you get absolutely stumped and can't move forward.`
+char_non: `Still, I'd rather fight you one‐on‐one.`
+char_non: `{n}If you plan to enjoy our little duel...`
+char_non: `{n}Then try defeating me by your own power alone, without relying on hints.`
+char_non: `So, ......let's enjoy ourselves, shall we?`
+char_non: `{n}Enjoy this game that I've created...just for you......`
+char_bea: `"These purple statement things are quite a problem..."`
+char_but: `"We know that they're statements important enough to be on par with red truth.`
+char_but: ` But they also contain the culprit's lies."`
+char_lam: `"Even the dumbest idiot wouldn't try swallowing a bread roll whole if there might be a needle inside."`
+char_bea: `"True.`
+char_bea: ` If we accept the purple blindly, there's no chance the truth will come to light."`
+char_but: `"A roll with a needle in it... I like that analogy.`
+char_but: ` This precious, vital information might all be wasted thanks to one, tiny lie."`
+char_bea: `"Just which ones of this vast collection of purple have lies in them?`
+char_bea: ` ......Just thinking about it makes my head hurt."`
+char_but: `"Then why don't we try turning the chessboard over?"`
+char_bea: `"Hoh?`
+char_bea: ` What do you mean?"`
+char_but: `"It's simple.`
+char_but: ` Forget which ones are lies.`
+char_but: ` Let's concentrate on finding out which ones must be true."`
+char_bea: `"Are there any purple statements that we know must be true?"`
+char_but: `"That's what we're looking for.`
+char_but: ` We'll look for people who couldn't possibly be the culprit.`
+char_but: ` If we can do that, then all of their purple statements are the same as red truth."`
+char_bea: `"I see.`
+char_bea: ` Instead of searching for the culprit, we'll start by searching for those who couldn't be the culprit!`
+char_bea: ` Hmm, quite a fundamental strategy!"`
+char_but: `"That's it.`
+char_but: ` There's got to be someone, so let's look through it carefully."`
+char_lam: `"Well, that's a start, I guess?"`
+char_ber: `".........Let's see what they can do from here."`
+char_bea: `"How can we know for sure that someone isn't the culprit?"`
+char_but: `"One of the rules is that the culprit can't die.`
+char_but: ` In other words, though it might sound cruel, we can trust anyone who's dead."`
+char_bea: `"Hoh, that makes it easy!`
+char_bea: ` Almost all of the characters were killed.`
+char_bea: ` So, we can trust the purple of all those people!"`
+char_but: `"But it isn't quite that simple.`
+char_but: ` There's the issue of people playing dead, which popped up so often even in our games."`
+char_bea: `"The bodies of all victims were examined, were they not?`
+char_bea: ` Nanjo even said with the purple that no one would reach a wrong conclusion when examining a body."`
+char_but: `"If Doctor Nanjo is the culprit, then we can't even rely on that.`
+char_but: ` At a glance, it may look as though all the victims were examined, but all confirmations of their deaths are in purple statements.`
+char_but: ` We can't be 100% sure."`
+char_bea: `"......Then whose death can we be sure about?"`
+char_but: `"At any rate, let's check all the examinations over again.`
+char_but: ` Let's look for someone who we can be absolutely certain is dead, in some way more reliable than these purple statements."`
+char_bea: `"Yes, I've got it!`
+char_bea: ` Battler, it's the narration!`
+char_bea: ` We've been told that there are no lies in the narrative text outside the dialogue!"`
+char_but: `"Ah, I just realized that too.`
+char_but: ` {f:5:Bernkastel} announced with the red truth that there are no lies in the narration."`
+char_lam: `"Oh, looks like they figured it out..."`
+char_ber: `"......They wouldn't get anywhere if they didn't."`
+char_bea: `"Are there any deaths confirmed by the narration?!`
+char_bea: ` That would mean we can say for sure that the person in question is dead!"`
+char_but: `"And that automatically means they aren't the culprit."`
+char_bea: `"And on top of that, it means we can trust their purple!"`
+char_but: `"Let's look for deaths that are mentioned in the narration.`
+char_but: ` Ones that aren't vague about whether the person is alive or dead, like "X was lying on the ground"."`
+char_bea: `"Yes, let's read through it once more from the start!"`
+char_bea: `"Battler, look!`
+char_bea: ` The narration clearly says that Nanjo was killed on the seventh twilight...!"`
+char_but: `"I found one too!`
+char_but: ` On the eighth twilight, the narration clearly mentions Jessica's gruesome corpse."`
+char_bea: `"So, in other words......"`
+char_but: `"Doctor Nanjo and Jessica.`
+char_but: ` Those two are definitely dead.`
+char_but: ` And that means—"`
+char_bea: `"We've proven that Nanjo and Jessica aren't culprits...!`
+char_bea: ` And that means—"`
+char_but: `"All of their purple statements are the same as red truth!"`
+char_bea: `"Yes!! That's right!"`
+char_non: `The pair gave each other a high five.`
+char_non: `Finally, they had found their first big clue.`
+char_non: `{n}A safe slice on the roll with a needle in it.`
+char_non: `{n}They had discovered some purple statements they could trust.`
+char_bea: `"Let's try writing out Nanjo's and Jessica's purple statements!`
+char_bea: ` These are the same as red truth.`
+char_bea: ` We're finally getting somewhere...!"`
+char_but: `"If we're sure that Doctor Nanjo isn't the culprit, then his purple statement for the first twilight,`
+char_but: ` "doctor or not, no one examining a body will reach the wrong conclusion", becomes very important."`
+char_bea: `"In other words, no one will make any mistakes when confirming deaths...!"`
+char_but: `"So, any time Doctor Nanjo or Jessica confirms a death, we can be absolutely sure that it's true."`
+char_bea: `"So, anyone whose death was confirmed by Nanjo or Jessica cannot be the culprit...!"`
+char_lam: `".........Uh‐oh.`
+char_lam: ` Looks like they're moving along."`
+char_ber: `"......It's strange.`
+char_ber: ` I find it annoying that they're moving along, ......but if they did get stuck, that would just be boring."`
+char_but: `"Okay, let's check their examinations and find some more characters who can't be the culprit!"`
+char_bea: `"Yes!!"`
+char_bea: `"Battler, I've finished checking Nanjo's and Jessica's purple statements...!"`
+char_but: `"People whose deaths were confirmed by those two are definitely dead.`
+char_but: ` And that means they can't be the culprit."`
+char_bea: `"Which in turn increases the number of purple statements we can trust!"`
+char_but: `"Let's start with Doctor Nanjo.`
+char_but: ` He confirmed the deaths of the victims of the second twilight, Uncle Krauss and Aunt Natsuhi."`
+char_bea: `"Then, on the fourth twilight, he also confirmed Shannon's death."`
+char_but: `"On the fifth and sixth twilights, he even confirmed Gohda‐san and Kumasawa‐san's deaths."`
+char_bea: `"The number of innocent people has skyrocketed!`
+char_bea: ` In addition to Nanjo and Jessica, we now know that Krauss, Natsuhi, Shannon, Gohda, and Kumasawa cannot be the culprit...!"`
+char_but: `"That's not all.`
+char_but: ` On the fourth twilight, {f:5:Bernkastel} announced Kanon‐kun's death with the red truth.`
+char_but: ` The culprit can't die, so Kanon‐kun isn't the culprit either!"`
+char_bea: `"Nanjo, Jessica, Krauss,`
+char_bea: ` Natsuhi, Shannon, Kanon,`
+char_bea: ` Gohda, and Kumasawa.`
+char_bea: ` All eight of them are not the culprit!"`
+char_lam: `"Oooh......`
+char_lam: ` All of a sudden, they now have eight suspects less."`
+char_ber: `"......It's only natural that they'd make it this far.`
+char_ber: ` This is where it really begins."`
+char_bea: `"Now, the number of purple statements we can trust has grown tremendously.`
+char_bea: ` We're really getting into the thick of it...!"`
+char_but: `"Yeah!`
+char_but: ` Let's check through the purple statements of the characters we've just proven innocent...!"`
+char_bea: `"Krauss, Natsuhi, Shannon,`
+char_bea: ` Kanon, Gohda, Kumasawa.`
+char_bea: ` I've looked through the purple statements for all the people we just proved innocent!"`
+char_but: `"Yeah.`
+char_but: ` And as a result, we've proven that Genji‐san isn't the culprit."`
+char_bea: `"For the first twilight, Kanon announces in a purple statement that he confirmed Genji's death.`
+char_bea: ` That clears Genji of suspicion as well...!"`
+char_but: `"So now, a total of nine people have been proven innocent.`
+char_but: ` Things are going pretty well."`
+char_bea: `"Ah, right. It looks like Shannon's and Kumasawa's purple statements confirm that the six people of the first twilight all died."`
+char_but: `".........We shouldn't accept that so easily."`
+char_bea: `"Why not?`
+char_bea: ` We can trust Shannon's and Kumasawa's statements, can we not?"`
+char_lam: `"Yeah, right?`
+char_lam: ` If you're sure they aren't culprits, why can't you trust their purple statements?"`
+char_but: `"Kumasawa‐san, for example, only said they were "lying there, covered in blood".`
+char_but: ` So, it's not clear whether they were alive or dead.`
+char_but: ` We can't call this a perfect examination of the six dining hall victims."`
+char_bea: `"Shannon speaks of those six in a different way.`
+char_bea: ` She says "the death of each parent was confirmed by their own child"."`
+char_but: `"That means George‐aniki, Maria, and I each examined our own parents in the dining hall.`
+char_but: ` However, we haven't proven yet that any of those three are innocent."`
+char_lam: `"Oh, I get it.`
+char_lam: ` .........Shannon's words prove that the children confirmed each of the six deaths in the dining hall,`
+char_lam: ` but they don't prove that the examinations those kids performed were legitimate."`
+char_but: `"That's it.`
+char_but: ` Since we can't deny the possibility that the kids are lying, we still can't remove any of the six in the dining hall from suspicion."`
+char_bea: `"How troublesome......`
+char_bea: ` All three of those are survivors who live until the end.`
+char_bea: ` Since they are alive, that makes it impossible to prove that they aren't culprits..."`
+char_but: `"Battler, George, Maria.`
+char_but: ` .....These survivors are not only likely to be culprits, they are also probably the hardest people to prove innocent."`
+char_bea: `"At any rate,`
+char_bea: ` it looks like those nine are the only ones we can say are definitely dead and therefore definitely innocent."`
+char_but: `"From here on out, it'll just be pure reasoning based off the purple statements of the nine we can trust."`
+char_bea: `"Nanjo, Jessica, Krauss,`
+char_bea: ` Natsuhi, Shannon, Kanon,`
+char_bea: ` Gohda, Kumasawa, Genji.`
+char_bea: ` We can only read through their purple statements once more..."`
+char_but: `"Things are going to get hard starting now.`
+char_but: ` Let's steel ourselves and take a shot at it...!"`
+char_bea: `"Mm.`
+char_bea: ` It's finally starting to feel like a real mystery...!"`
+char_but: `"Hey, Beato.`
+char_but: ` I've found out something interesting.`
+char_but: ` In this series of crimes, master keys can never be used."`
+char_bea: `"Come to think of it, the group of nine innocent people includes all five servants, doesn't it?"`
+char_but: `"Only the servants can use master keys.`
+char_but: ` They can't hand them over to someone else.`
+char_but: ` And, since people who aren't culprits themselves can't assist culprits, the master keys cannot be used for crimes."`
+char_non: `Since it's been guaranteed that all five servants are innocent,`
+char_non: ` we know that the master keys have nothing to do with the crimes.`
+char_bea: `"Yes, that's right...!`
+char_bea: ` And that makes this even more troublesome, correct?`
+char_bea: ` All of these locked room murders!`
+char_bea: ` Every one of them must be constructed without any master keys...!"`
+char_but: `"No.`
+char_but: ` Turn the chessboard over.`
+char_but: ` This just means that none of the tricks need master keys to construct."`
+char_bea: `"I see...!`
+char_bea: ` First twilight, the locked room of the dining hall.`
+char_bea: ` Second twilight, Natsuhi's locked room.`
+char_bea: ` Starting with the fifth twilight, the locked room of the guesthouse.`
+char_bea: ` It seems we must look closely through those again..."`
+char_but: `"Let's read it through once more carefully.`
+char_but: ` ......All of the servants are innocent.`
+char_but: ` Master keys can't be used.`
+char_but: ` Let's think through it again with that in mind."`
+char_bea: `"I think I have a theory about the dining hall locked room of the first twilight."`
+char_but: `"Let's hear it."`
+char_bea: `"The corpse examinations of the victims in the first twilight still aren't certain.`
+char_bea: ` In other words, what if one of them was really the culprit?!`
+char_bea: ` They killed the other five, locked the dining hall from the inside, then played dead...!"`
+char_but: `"True, they could create a locked room without using master keys that way.`
+char_but: ` That leaves us with a problem though."`
+char_bea: `"What problem?"`
+char_but: `"Remember?`
+char_but: ` When we were talking about the second twilight, {f:5:Bernkastel} said this with the red truth:`
+char_but: ` "The culprit of the first twilight has definitely killed six people.""`
+char_bea: `"Yes, now that you mention it...`
+char_bea: ` .........Mgh......"`
+char_but: `"Because of that red truth, it seems all six people in the dining hall were dead after all.`
+char_but: ` So, how did someone lock the dining hall from the outside?`
+char_but: ` Without using a key......"`
+char_bea: `"Hey, Battler.`
+char_bea: ` Does that red truth really confirm the deaths of all six people in the dining hall?"`
+char_but: `"......Hmm, ......well, ......it does, doesn't it...?"`
+char_bea: `"In that case, the six in the dining hall are all innocent, and excluding Genji, whose innocence has already been confirmed, that gives us five more people we can remove from the list of suspects, does it not?`
+char_bea: ` In other words, 9+5=14 people have been proved innocent...!`
+char_bea: ` There are only three left!`
+char_bea: ` Either Battler, George, or Maria must be the culprit...!"`
+char_but: `"Wait a second!`
+char_but: ` ......That doesn't seem right for some reason.`
+char_but: ` That red truth did say that the culprit killed six people.`
+char_but: ` However, she didn't say that red during the first twilight."`
+char_bea: `"I believe she said it back when we were talking about the second twilight, yes...?"`
+char_but: `"I'd like to read through that bit again.`
+char_but: ` Let's search.`
+char_but: ` It feels like that was a strange time for her to say it..."`
+char_ber: `"............Not bad."`
+char_lam: `"Can't underestimate these two.`
+char_lam: ` Even their instincts are sharp."`
+char_bea: `"I've been thinking about the second twilight's locked room, but no matter how many times I try, I keep ending up with the same theory..."`
+char_but: `"You mean someone killing the pair of them, then locking the door from the inside and hiding?"`
+char_bea: `"Mm.`
+char_bea: ` ......Since the master keys can't be used, the door must have been locked from the inside.`
+char_bea: ` So, it only makes sense if the culprit was hiding somewhere in Natsuhi's room."`
+char_but: `"Right.`
+char_but: ` That is weird.`
+char_but: ` It says this in the narration:`
+char_but: ` "no matter how much time passed, Krauss and Natsuhi were the only ones who didn't return."`
+char_but: ` And then it continues:`
+char_but: ` "everyone headed to Krauss's and Natsuhi's rooms together.""`
+char_bea: `"If Krauss and Natsuhi were the only ones who didn't return, .........that implies that everyone else did return to the parlor."`
+char_but: `"That's right.`
+char_but: ` If the culprit locked themselves in Natsuhi's room after committing the crime, they shouldn't have been able to return.`
+char_but: ` And yet, everyone except the victims did return."`
+char_bea: `"That would make this crime impossible for all the survivors......`
+char_bea: ` ......So, maybe we really should follow your theory of someone in the dining hall surviving and committing crimes later..."`
+char_but: `"......Come to think of it,`
+char_but: ` ......when I mentioned that theory, I was hit with a red truth."`
+char_non: `My theory was that someone in the dining hall was alive and killed Krauss and Natsuhi.`
+char_non: `That theory was countered by this red truth: "The culprit of the first twilight has definitely killed six people"......`
+char_bea: `"Well, that's is hardly surprising.`
+char_bea: ` After all, the culprit went on to kill Krauss and Natsuhi, so they've killed a total of not just six, but eight people."`
+char_but: `"........................`
+char_but: ` ......Huh......?`
+char_but: ` Hold on......`
+char_but: ` ............They went on to kill Krauss and Natsuhi......`
+char_but: ` .........So......the culprit has definitely killed......six........."`
+char_but: `"I've got it!!`
+char_but: ` We've been fooled.`
+char_but: ` I know what she meant by saying the culprit killed six people...!!"`
+char_bea: `"What do you mean "you know what she meant"?`
+char_bea: ` Explain yourself...!"`
+char_but: `"‘The culprit of the first twilight has definitely killed six people.’`
+char_but: ` If she had said that at the time of the first twilight, I might've accepted it as it seemed.`
+char_but: ` However, if we remember that she said it after the second twilight, a new possibility shows itself...!"`
+char_bea: `"You don't mean.........that the murders of the second twilight...`
+char_bea: `...are included in the "six people" who were definitely killed...?!"`
+char_but: `"That's it!`
+char_but: ` The culprit really was hiding among the six in the dining hall!`
+char_but: ` Later on, they snuck out of the dining hall, killed the two people in Aunt Natsuhi's room, locked the door from the inside, and hid somewhere in the room...!"`
+char_non: `The culprit could only have killed five people at most in the dining hall.`
+char_non: `However, if we add on the victims of the second twilight, they would definitely have killed at least six times...!`
+char_bea: `"I see, now it all adds up...!`
+char_bea: ` You can construct the locked rooms of both the first and second twilights without using master keys...!!"`
+char_but: `"Well, ......you'd think so, but that reminds me of something else.`
+char_but: ` ......Aunt Natsuhi's room was sealed immediately afterwards..."`
+char_bea: `"Yes, come to think of it...`
+char_bea: ` Lady {f:5:Bernkastel} used the red truth to say this: ‘The group sealed the room at the same time they left.`
+char_bea: ` No culprit joined the group as they left.’"`
+char_but: `"And she also said this:`
+char_but: ` ‘All of the seals will never be broken.’"`
+char_bea: `"In other words, ......the culprit is trapped in a locked room again."`
+char_but: `"That theory might explain the first and second twilights.`
+char_but: ` ......However, the culprit would be sealed inside Aunt Natsuhi's room, unable to leave."`
+char_bea: `"And that means they wouldn't be able to carry out the fourth twilight and onwards!`
+char_bea: ` ......Gyah, I thought it was such a nice theory, ......but I guess it's wrong......"`
+char_but: `"I don't think we're wrong about this theory, but......`
+char_but: ` ......Maybe it just needs some more tweaking........."`
+char_but: `"No, it does work.`
+char_but: ` There's no problem if the culprit gets sealed up.`
+char_but: ` ......Not as long as there's a second culprit!"`
+char_bea: `"A multiple culprit theory...!`
+char_bea: ` Yes, that does seem to be the only way.`
+char_bea: ` That way, even if one culprit is sealed up, the other can continue murdering..."`
+char_but: `"If you think about it,`
+char_but: ` our theory has needed an accomplice from the very beginning.`
+char_but: ` Excluding Genji‐san, who we already know to be innocent, the other five of the first twilight's six victims—Auntie Eva, Uncle Hideyoshi, my old bastard, Kyrie‐san, and Auntie Rosa—`
+char_but: `all had their deaths confirmed by people who {i:also} haven't been confirmed innocent.`
+char_but: ` Unless those people were accomplices—fellow culprits—no one would've been able to play dead."`
+char_bea: `"You're right...!`
+char_bea: ` After all, the rules say that only culprits can cooperate with other culprits...!"`
+char_but: `"Culprits are capable of lying even before they commit murder.`
+char_but: ` ......So, we have ourselves a theory."`
+char_bea: `"The culprit who carried out the first twilight murders also carried out the second twilight, then locked themselves up in Natsuhi's room."`
+char_but: `"Then, the other culprit, who lied about the first culprit's death, carried on with the murders starting at the fourth twilight...!"`
+char_bea: `"Yes, it all matches up that way...!!`
+char_bea: ` So, which of them was it?!"`
+char_but: `"Unfortunately, so far, any one of them could be a culprit.`
+char_but: ` However, we can say for sure that the crime wasn't committed by a single person.`
+char_but: ` And, we know that the culprit locked up in Natsuhi's room was one of those five victims in the dining hall.`
+char_but: ` And we also know that the person who continued with the crimes was one of those who inspected the five suspicious corpses on the first twilight...!"`
+char_bea: `"One of those who inspected the five suspicious corpses in the dining hall...?`
+char_bea: ` That would be......"`
+char_but: `"Battler, George, and Maria.`
+char_but: ` We know that one of those three committed the murders later on!"`
+char_bea: `"Excellent......`
+char_bea: ` Let's focus on those three and find the truth about those later crimes...!"`
+char_but: `"The next crime is the fourth twilight.`
+char_but: ` Shannon‐chan was the one killed.`
+char_but: ` No one has an alibi, with one exception."`
+char_bea: `"George.`
+char_bea: ` Jessica, who has been confirmed innocent, used the purple text to say that it was impossible for George to kill Shannon.`
+char_bea: ` So, doesn't that mean either Battler or Maria must have killed her?"`
+char_but: `"I'd like to think that, but it's too soon to be sure.`
+char_but: ` Battler, Maria, and every other person except George lacks an alibi.`
+char_but: ` I've managed to prove the crime wasn't committed by a single person, but I didn't prove that there were exactly two culprits.`
+char_but: ` At this point in time, it's still too soon to be sure."`
+char_bea: `"I see.`
+char_bea: ` In addition to the culprit of the first and second twilights and the culprit who lied about the first culprit's death,`
+char_bea: ` ......there might be yet another completely separate culprit as well.`
+char_bea: ` ......Yes, it was a mistake to overlook that..."`
+char_but: `"The murder of Shannon‐chan was possible for anyone, with only one single exception.`
+char_but: ` Also, that fact alone isn't enough to prove that George‐aniki is innocent overall."`
+char_bea: `"......I thought this would be an easy one since there's no locked room,`
+char_bea: ` but on the contrary, we have no suspicious circumstances and no information to lead us to the culprit..."`
+char_but: `"The pace of the crimes starts picking up here.`
+char_but: ` Instead of getting stuck on this one part, we should take a look at the fifth twilight too."`
+char_bea: `"It seems we have a problem with the fifth and sixth twilights...!`
+char_bea: ` We can trust Jessica's purple statements, and she said this:`
+char_bea: ` "The four cousins and Nanjo couldn't have killed Gohda and Kumasawa"...!"`
+char_but: `"The four cousins and Doctor Nanjo.`
+char_but: ` In other words, all of the survivors at this point in time.`
+char_but: ` Thinking about it on normal lines, that would make this an impossible crime."`
+char_bea: `"However, that's where we can turn the chessboard over, correct?"`
+char_but: `"You've got it.`
+char_but: ` This actually gives us a simple answer.`
+char_but: ` This crime proves that there's a culprit who isn't Doctor Nanjo or one of the cousins."`
+char_bea: `"Other than these survivors, everyone is supposed to be dead.`
+char_bea: ` And yet, it was impossible for the survivors to commit the crime......"`
+char_but: `"It's absolute proof that one of the culprits faked their death."`
+char_bea: `"And, since there exists a culprit who faked his or her death, that's absolute proof that there were multiple culprits.`
+char_bea: ` Only a culprit can fake an examination and lie...!"`
+char_but: `"The fifth and sixth twilights may seem to be a perfect impossible crime,`
+char_but: ` but this one incident alone tells us so much."`
+char_bea: `"Impossible crimes are a double‐edged sword—they have the power to break your opponents, but they also make it possible for theories to break deep into your lines of defense.`
+char_bea: ` ......Long ago, you would surely have surrendered.`
+char_bea: ` How far you've come."`
+char_but: `"Heheh.`
+char_but: ` It's all because you've trained me so well."`
+char_non: `The pair grinned at each other.`
+char_non: `They had been to the brink of death and back in their many intellectual games before now.`
+char_non: `{n}They wouldn't be discouraged by a riddle like this.`
+char_but: `"Now let's move on to the crimes of the seventh and eighth twilights.`
+char_but: ` I think we're getting pretty close to the core of things."`
+char_bea: `"Yeah, let's keep our wits about us!"`
+char_but: `"The situation's exactly the same on the seventh twilight.`
+char_but: ` Jessica's purple statement, which we can trust, shows that the four cousins, which means all of the survivors, couldn't have committed the crime."`
+char_bea: `"And yet, ......there's something I don't quite get.`
+char_bea: ` The culprit of the first and second twilights was one of those five victims from the first twilight.`
+char_bea: ` That person was sealed in Natsuhi's room, but we know their child was a culprit too, who lied when examining the death of their parent.`
+char_bea: ` ......However, the only kids who can be a culprit are Battler, George, and Maria."`
+char_but: `"That's right.`
+char_but: ` And we've proven that they couldn't have committed murder for the fifth, sixth, and seventh twilights."`
+char_bea: `"In other words,`
+char_bea: ` .........this shows us that yet another culprit exists."`
+char_but: `"Interesting.`
+char_but: ` It also happens to be a theory that makes sense.`
+char_but: ` Plus, it would mean that the third culprit was also one of those who played dead.`
+char_but: ` ......It might even be possible to have four or five culprits this way."`
+char_bea: `"*cackle*, I'm not sure about that.`
+char_bea: ` At any rate, Gohda, Kumasawa, and Nanjo couldn't have been killed if there were only two culprits.`
+char_bea: ` There can be no doubt of that...!"`
+char_but: `"This is getting complicated.`
+char_but: ` Was it a group of three culprits?`
+char_but: ` Or was it a pair working together and someone else on their own?`
+char_but: ` ......Ah, right, we can't forget the possibility that there are more than three culprits."`
+char_bea: `"Of the seventeen people who appear in the story, nine have been confirmed innocent.`
+char_bea: ` Eight are left, and let's put Battler, George, and Maria to the side since they survived.`
+char_bea: ` That leaves five people who were supposedly dead, but have not been proved innocent:`
+char_bea: ` Eva, Hideyoshi, Rudolf, Kyrie, and Rosa.`
+char_bea: ` All were victims of the first twilight."`
+char_but: `"Now, the question is which of those five victims in the dining hall was faking death.`
+char_but: ` ......We're getting close.`
+char_but: ` I'm starting to like this...!"`
+char_but: `"As for the eighth twilight in the end,`
+char_but: ` the layout's exactly the same."`
+char_bea: `"Indeed.`
+char_bea: ` The narration says that George, Battler, and Maria could not have killed Jessica.`
+char_bea: ` The three survivors couldn't have done it."`
+char_but: `"The purple statements here sound like they have a lot of hints for us."`
+char_bea: `"George's and Maria's purple statements are particularly interesting.`
+char_bea: ` If only we could trust them, they would be quite a powerful clue......"`
+char_but: `"If George‐aniki is innocent, then his purple statement about Maria being unable to kill anyone would be true, and Maria would be confirmed innocent.`
+char_but: ` In the same way, if Maria is innocent, then her statement about George being unable to kill an adult would be true, and that would consequently prove George‐aniki innocent as well."`
+char_bea: `"It would, but we cannot confirm that either of them is innocent..."`
+char_but: `"If either George‐aniki or Maria could prove that the other was innocent, they would be innocent too.`
+char_but: ` It's like a chicken and egg dilemma.`
+char_but: ` It almost feels like a useful hint, but not quite.`
+char_but: ` Pretty annoying."`
+char_bea: `"Proving innocence for either of them probably won't be easy.`
+char_bea: ` At least we've gotten the suspects down to a small number.`
+char_bea: ` From here on out, there's probably nothing left to do except check each one to see if they could have been a culprit."`
+char_but: `"You're right.`
+char_but: ` Feels like we're getting to the final stretch!"`
+char_lam: `"So, looks like they've almost made it, doesn't it......?"`
+char_ber: `"............I feel like a plucked fish."`
+char_but: `"First, let's test the theory that Maria could have been a culprit.`
+char_but: ` If she's guilty, then Rosa could've been playing dead.`
+char_but: ` She could've carried out the crimes on the first and second twilights.`
+char_but: ` Then, she gets locked in Aunt Natsuhi's room, and Maria takes over for the following murders."`
+char_bea: `"It was impossible for Maria to commit any of the murders in the guesthouse.`
+char_bea: ` So, the most Maria could do was kill Shannon."`
+char_but: `"Which means a third culprit would be needed for the guesthouse murders."`
+char_bea: `"The third one would have to be Eva, Hideyoshi, Rudolf, or Kyrie.`
+char_bea: ` And that would mean we'd need a fourth culprit too, right?"`
+char_but: `"......You're right.`
+char_but: ` In order for one of those four adults to play dead, the child who checked them would have to be a culprit too.`
+char_but: ` In other words, if Maria is a culprit, we'll need to have at least four culprits total."`
+char_bea: `"If there are four culprits, then each one of them must kill at least one person."`
+char_non: `The definition of "culprit" is a murderer.`
+char_but: `"......In which case,`
+char_but: ` ......things don't quite seem to add up."`
+char_bea: `"The four culprits would then be two adults and two children.`
+char_bea: ` One adult is in charge of the murders on the first and second twilights.`
+char_bea: ` The other adult handles the murders from the guesthouse onwards.`
+char_bea: ` Yes, this is where we get a contradiction."`
+char_but: `"A culprit is defined as "one who murders".`
+char_but: ` ......That means anyone who's a culprit must commit murder at least once."`
+char_bea: `"Simply put, there are very few people that a child culprit could murder.`
+char_bea: ` The children could not have killed on the first and second twilights.`
+char_bea: ` They also can't commit murder after the first deaths in the guesthouse take place.`
+char_bea: ` The only one they can possibly commit is Shannon's murder on the fourth twilight."`
+char_but: `"......A child culprit can only kill Shannon.`
+char_but: ` A second child culprit couldn't kill anyone, so they couldn't be a culprit at all.`
+char_but: ` ......It means there can be only one child culprit."`
+char_bea: `"As soon as we pick Maria as a culprit, we need another adult culprit besides Rosa.`
+char_bea: ` However, it's impossible for there to be a second child culprit to lie about their parent's death.`
+char_bea: ` ......In other words, it's impossible for Maria to be a culprit...!"`
+char_but: `"Next, let's try a theory with George as a culprit.`
+char_but: ` Only one child culprit can exist.`
+char_but: ` So, if George‐aniki is a culprit, that means Auntie Eva and Uncle Hideyoshi are the only adults who could've been playing dead."`
+char_lam: `"So, a three person group, with two adults and one kid?`
+char_lam: ` I see, that sounds like it'd explain all the crimes so far, doesn't it?"`
+char_but: `"But hold it!`
+char_but: ` That's actually impossible too."`
+char_bea: `"Indeed.`
+char_bea: ` It's clearly shown that George cannot be a culprit."`
+char_lam: `"*giggle*.`
+char_lam: ` ......Pretty sharp.`
+char_lam: ` The only one the kids can kill is Shannon on the fourth twilight."`
+char_bea: `"A trustworthy purple statement has already proven that George couldn't have been the culprit in Shannon's murder...!"`
+char_but: `"That's it.`
+char_but: ` Just one tiny alibi that only works for Shannon‐chan's murder.`
+char_but: ` That's what proves George‐aniki innocent for all of the crimes...!"`
+char_bea: `"So, we need not suspect George...!`
+char_bea: ` Which means all of his purple statements can be relied upon...!"`
+char_bea: `"Once we're sure that George is innocent,`
+char_bea: ` that automatically makes Maria innocent too."`
+char_but: `"Yeah.`
+char_but: ` It confirms George‐aniki's purple statement saying "Maria couldn't kill anyone".`
+char_but: ` Since she couldn't kill anyone, she can't be a culprit.`
+char_but: ` So, Maria is also confirmed innocent."`
+char_bea: `"Since George and Maria are innocent,`
+char_bea: ` that also proves that their examinations of their parents' deaths were also trustworthy."`
+char_but: `"That's right.`
+char_but: ` No one will reach a wrong conclusion when examining a body,`
+char_but: ` and people who aren't culprits can't lie.`
+char_but: ` So, the deaths of their parents have been confirmed, and those parents are also innocent."`
+char_bea: `"We've gotten rid of almost everyone......`
+char_bea: ` ......The answer is already clear, is it not...?"`
+char_but: `"First off, there are multiple culprits.`
+char_but: ` That's confirmed.`
+char_but: ` These crimes would be impossible for a single person."`
+char_bea: `"To start, one of the adult culprits...`
+char_bea: `carried out the first twilight, then played dead."`
+char_but: `"Since we know that all of the servants with master keys are innocent,`
+char_but: ` there's no way for the culprit to lock the door to the dining hall from the outside.`
+char_but: ` So, we know that the one who locked it did so from inside the room and must have been playing dead."`
+char_bea: `"And, in order for them to play dead,`
+char_bea: ` they needed another culprit to lie when examining their death."`
+char_but: `"Since Genji‐san is innocent, there are only five suspicious victims, each examined by their respective children.`
+char_but: ` So that gives us our second culprit: the child of the first culprit."`
+char_bea: `"And the child culprit can't carry out the crimes once they start occurring in the guesthouse.`
+char_bea: ` Plus, the adult culprit is sealed up in Natsuhi's room.`
+char_bea: ` So, a second adult culprit is needed."`
+char_but: `"Two adults, one kid.`
+char_but: ` That's what our culprit group looks like."`
+char_bea: `"It should be obvious by now.`
+char_bea: ` The name of the child culprit in this culprit group is clear."`
+char_but: `"Pretty much.`
+char_but: ` All of the kids have been proven innocent, with one exception."`
+char_bea: `"And the only corpse inspections that a child culprit could lie about were the inspections of that child's own parents.`
+char_bea: ` So, the culprit group was a family of two adults and one child."`
+char_but: `"Murder with the family.`
+char_but: ` How sweet."`
+char_bea: `"So, who are the three culprits?`
+char_bea: ` There's hardly any point in stretching this out further, is there?"`
+char_but: `"Aw, come on.`
+char_but: ` What a messed up answer.`
+char_but: ` Looks like I was the child culprit."`
+char_bea: `"Hmph.`
+char_bea: ` Even in my games, Battler culprit theories were some of the most popular, weren't they?"`
+char_but: `"It seems so.`
+char_but: ` Sheesh, why does everyone think I did it...?!"`
+char_bea: `"If you're a culprit, that automatically makes your parents culprits too.`
+char_bea: ` There's no need to think this over anymore.`
+char_bea: ` We've already won."`
+char_but: `"There's no need for any more discussions or hints.`
+char_but: ` Let's move ahead with the answer...!"`
+char_lam: `"Is it over?"`
+char_ber: `"......Well done.`
+char_ber: ` ......It seems a mystery of this level wasn't enough to beat those two after all."`

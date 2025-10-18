@@ -1,0 +1,568 @@
+char_non: `A desolate wind blew through the golden rose garden......`
+char_non: `Shannon and Kanon had already finished walking 19 steps, and their backs still faced each other.`
+char_non: `......At the signal of the demons responsible for this trial, they would both turn.........and settle this.`
+char_non: `Each of them held one of the dueling pistols that the demons had prepared.`
+char_non: `The bullets......promised certain death no matter where on the body they hit.`
+char_non: `This duel would not end...`
+char_non: `...until one of them died......`
+char_geo: `".............................."`
+char_jes: `"..........................."`
+char_non: `George and Jessica......just quietly watched the ones they loved...`
+char_non: `They had already entrusted all of their thoughts to them...and their fates.`
+char_non: `Just watching over their partners...was now the only way they could show their trust.`
+char_sha: `"..........................."`
+char_kan: `"..........................."`
+char_non: `Shannon and Kanon......stood quietly, with their backs turned.`
+char_non: `They had already put the emotions of the many days they had spent together behind them.`
+char_non: `The next time they laid eyes on each other,`
+char_non: ` ......nothing would be asked of them except pulling that trigger.`
+char_non: `The only one who still had no determination or resolution with regard to this duel...`
+char_non: `...was Beato.`
+char_non: `The closer that moment came, ......the less she understood.`
+char_non: `The love between George and Shannon wasn't standing in the way of the love between Jessica and Kanon or vice versa.`
+char_non: `......Why, when both sides could find happiness, ......were they forced to kill each other...?`
+char_bea: `"......I don't understand.`
+char_bea: ` ......I just can't.........understand...!"`
+char_be3: `".........Little sister...`
+char_be3: ` We are not permitted to do anything but watch..."`
+char_bea: `"Zepar‐san, Furfur‐san...!`
+char_bea: ` Why......why this duel?!`
+char_bea: ` This is no trial of love!`
+char_bea: ` You really are demons!`
+char_bea: ` You just want to enjoy watching one of the pairs fall apart...!!"`
+char_zep: `"Quiet."`
+char_fur: `"You'll get in the way of the lovers."`
+char_bea: `"You're the ones getting in their way!!`
+char_bea: ` One will fall!`
+char_bea: ` The one who loves that person will grieve!!`
+char_bea: ` If only you two weren't around, no one would be sad!!"`
+char_non: `""That is not true.""`
+char_zep: `"If we hadn't set up this duel—"`
+char_fur: `"Then both pairs would have fallen apart.`
+char_fur: ` This duel is necessary."`
+char_bea: `"I......haven't been able to accept that since the beginning...!!`
+char_bea: ` Do you think love can't succeed without a miracle of magic?!`
+char_bea: ` The only thing needed for love......is two who love each other, isn't it?!`
+char_bea: ` This duel is meaningless!!"`
+char_bea: `"So stop it, you two!!`
+char_bea: ` Shannon and Kanon both!!`
+char_bea: ` Why do you have to fight each other to the death, when you were once as close as true siblings?!`
+char_bea: ` I just can't.........understand!!!"`
+char_non: `Everyone should have been able to hear Beato's yell.`
+char_non: `{n}......However, no one's expression changed.`
+char_zep: `"......That's right.`
+char_zep: ` I'm impressed that you noticed."`
+char_fur: `"That is the truth of love."`
+char_bea: `".........What is...?!!"`
+char_zep: `"Love needs nothing more than two people who love one another."`
+char_fur: `"Therefore, when there are not "two people",`
+char_fur: ` ......we must use a duel to make that number become "two"."`
+char_bea: `"I could understand if it were a duel between two people fighting over one woman!`
+char_bea: ` If it were a duel to reduce the awkward shape of a love triangle down to a pair...!!`
+char_bea: ` But they are two and two!!`
+char_bea: ` The world formed by each pair is complete, isn't it?!!`
+char_bea: ` There's nothing compelling them to fight!!"`
+char_zep: `"The minimum number of people that can create a world is two."`
+char_fur: `"Only when two people are together can a world be born and love fulfilled."`
+char_zep: `"That is why this duel is necessary."`
+char_fur: `"So that they can reach that number of people."`
+char_bea: `"A‐......are you saying that furniture is less than {y:0:Human}{n:0:human}, and doesn't count as a whole person...?!"`
+char_non: `""Correct.`
+char_non: ` Furniture is less than {y:0:Human}{n:0:human}.`
+char_non: ` So furniture and {y:0:Human}{n:0:human} cannot add up to two.""`
+char_bea: `"That's insane!`
+char_bea: ` If two people love each other, their circumstances don't matter!!"`
+char_non: `""Oh, yes they do!!""`
+char_zep: `"Do you really think that the circumstances of two in love don't matter?!"`
+char_fur: `"Is it permissible to fall in love with a man who has a wife?`
+char_fur: ` Is it permissible to fall in love with a woman who has a husband?"`
+char_zep: `"Is it permissible to fall in love with your parents?`
+char_zep: ` Is it permissible to fall in love with your children?`
+char_zep: ` There are many situations where circumstances forbid romantic love!!"`
+char_bea: `"Th‐then just what is furniture?!!`
+char_bea: ` Why mustn't furniture fall in love?!!!"`
+char_non: `""Because their soul amounts to less than a full person!""`
+char_zep: `"Shannon, Kanon, and the piece that you are as well!!"`
+char_fur: `"All of you are furniture!`
+char_fur: ` Subhuman beings who do not possess a full person's soul!!"`
+char_zep: `"There is only one thing necessary to love a human!`
+char_zep: ` That is the possession of a full person's soul!!`
+char_zep: ` That's why a pair in love can create a world!!"`
+char_fur: `"For example, do you think a man with a wife has the right to love another woman?"`
+char_be3: `".........Of course not.`
+char_be3: ` If he loved two women, neither would get a full person's worth of love.`
+char_be3: ` ......A man such as that would not be qualified to love."`
+char_fur: `"See?`
+char_fur: ` There are plenty of people in plenty of circumstances who have no right to love another!!`
+char_fur: ` As long as both people feel love, nothing else matters?`
+char_fur: ` That is a comforting lie of naive love!!"`
+char_zep: `"We cannot forgive humans who falsely pretend that they have the right to love!!`
+char_zep: ` We cannot permit the love of sub{y:0:-Human}{n:0:human} beings, of those who do not make up the minimum number of people to create a world!!"`
+char_non: `""That is the purpose of our trial...!!`
+char_non: ` To allow sinful souls to regain the soul of a whole person and become capable of true love!!""`
+char_sha: `"......Zepar‐sama, Furfur‐sama."`
+char_kan: `"Our hearts......are ready."`
+char_non: `""Please, give the signal to start the duel.""`
+char_non: `The pair bidding farewell quietly asked for the signal to be given.`
+char_non: `Zepar nodded silently, then walked to a place that could be seen by both of them.`
+char_non: `Furfur spoke in a voice quiet enough to avoid distracting the two duelists.`
+char_fur: `".........Watch."`
+char_bea: `"Watch the duel to see which of the lovers will fall apart...?!"`
+char_fur: `"No, this isn't a duel to see who falls apart.`
+char_fur: ` ......This is a duel to make true love succeed."`
+char_bea: `"......I......don't understand......what you two are saying...!"`
+char_fur: `"No, you must understand.`
+char_fur: ` This moment.........marks the birth of a {y:0:Human}{n:0:human} who is truly capable of loving another person."`
+char_bea: `"I don't......understand.........!!!"`
+char_fur: `"No matter which of them wins, ......please congratulate them.`
+char_fur: ` ......This is the moment......when their days as furniture......come to an end."`
+char_zep: `"The signal is simple.`
+char_zep: ` ......I will count to three.`
+char_zep: ` When I reach three, the duel will commence."`
+char_kan: `"Understood."`
+char_sha: `"......Same here."`
+char_zep: `"If both of you miss, the duel will be temporarily suspended.`
+char_zep: ` You will be given bullets again and will start over from the beginning, with your backs to each other."`
+char_jes: `".........I guess it'll repeat until it's all settled..."`
+char_geo: `"Zepar.`
+char_geo: ` Have you seen this sort of duel......many times before?"`
+char_zep: `"Of course.`
+char_zep: ` I have seen it many times."`
+char_geo: `"......Usually, how many times do they need to face off before it's over?"`
+char_zep: `"In almost all cases, it is decided in the first round."`
+char_jes: `"Everyone must be really good shots..."`
+char_geo: `"That's not it.`
+char_geo: ` ......If one side misses, the other can corner them at their leisure and shoot.`
+char_geo: ` ......Miss with that first bullet, ......and there's almost no chance of winning."`
+char_kan: `"However, if you take too long, you'll lose before you can even pull the trigger."`
+char_sha: `".........If you're going to lose anyway, you'd at least want to have pulled the trigger first."`
+char_zep: `"That is a good mindset, you two.`
+char_zep: ` .........Now, ............here we go."`
+char_zep: `"One."`
+char_fur: `"Two."`
+char_non: `""Three.""`
+char_non: `In the golden rose garden,`
+char_non: ` ...when the number three was yelled,`
+char_non: ` ......the sound of gunfire rang out once......`
+char_non: `Even the people watching couldn't tell whether that was a single gun firing...`
+char_non: `...or the sound of both going off at the same time......`
+char_non: `In the midst of the stench of gunpowder and white smoke,`
+char_non: ` .........there, with gun raised and smoke trailing from the barrel...`
+char_non: `...was Kanon.`
+char_non: ` ...............Shannon...`
+char_non: `...was lying on the earth face down......`
+char_bea: `"......Sh‐`
+char_bea: `......Shannon...`
+char_bea: `...san.................."`
+char_be3: `"......No.`
+char_be3: ` ......Shannon dropped before the gunshot......"`
+char_jes: `"Nn.....................gah............"`
+char_non: `Jessica's distressed expression...was enough to explain what had happened......`
+char_non: `......Slowly,`
+char_non: ` ......Shannon...`
+char_non: `...stood up.`
+char_non: `There was no bullet wound anywhere on her body.`
+char_non: `.........At the time of the signal, Shannon had thrown herself to the ground......dodging the bullet.`
+char_non: `It had been a gamble.`
+char_non: `If Kanon had turned around and taken the time to aim carefully before shooting,`
+char_non: ` ......then he would have shot her as she lay there.`
+char_non: `However, ......if Kanon shot as soon as he turned around, ......she would be able to dodge it.`
+char_non: `Kanon had also gambled.`
+char_non: `He did not underestimate Shannon's skill with a firearm.`
+char_non: `He was fully aware that hoping Shannon would be timid enough to let him shoot first...`
+char_non: `...could result in him losing before even pulling the trigger.`
+char_non: `So, he had decided to shoot right away.`
+char_non: `And, he had predicted that when he shot, Shannon would reflexively pull the trigger too.`
+char_non: `Since he was already planning to shoot right away, he was sure that his readiness would allow him to shoot with greater accuracy than her.`
+char_non: `If Kanon had cautiously turned around,`
+char_non: ` and Shannon had shot instantly with the strength of her will, then Kanon wouldn't even have been able to pull the trigger.`
+char_non: `So, it wasn't that Kanon had acted hastily.`
+char_non: `.........The two had simply given it their all, left their fates to the heavens,`
+char_non: ` ......and reached this result.`
+char_sha: `"...................................."`
+char_kan: `".........I didn't imagine...`
+char_kan: `......that my quick‐tempered sister...`
+char_kan: `...wouldn't shoot at all..."`
+char_sha: `"I'm surprised too.`
+char_sha: ` ......I didn't think that old, prudent Kanon‐kun......would shoot as soon as he turned."`
+char_non: `As Shannon quietly pointed the barrel at him, she slowly walked forward.`
+char_non: `{n}She planned on cautiously closing the gap until she reached a distance from which she could hit with even more certain accuracy.`
+char_non: `And Kanon.........had already lost any means of fighting back.`
+char_non: `He could only try to dodge Shannon's bullet......and place his bet on the second round.`
+char_non: `.........They both had that same view of the situation,`
+char_non: ` .........which meant one could be taken by surprise.`
+char_sha: `".....................!!"`
+char_kan: `"This isn't......over yet!!!"`
+char_non: `Kanon dashed forward like a tornado, bent over so low that he was almost crawling over his shadow...`
+char_non: `This duel could only be settled by a bullet,`
+char_non: ` ......but he wasn't the only one who had a bullet.`
+char_non: `If he could steal Shannon's gun away from her, he could turn this all around...!`
+char_non: `And if Shannon could calmly shoot through Kanon, it would all be over!`
+char_non: `The odds that Shannon would miss, or that he could get close enough to her before she fired.`
+char_non: `{n}Kanon bet all the chips he had on these.`
+char_non: `Shannon could draw Kanon in until the last second, then shoot him from a closer distance.`
+char_non: `She could also pull the trigger just before he reached her, and they would start over from the beginning even if she missed.`
+char_non: `......Shannon kept her gun pointing at Kanon's forehead as she compared these options until the final moment.`
+char_non: `She led her shot, calculating the distance he had already moved and the time it would take to pull the trigger.`
+char_non: `.........Lady Luck smiled......impartially.`
+char_kan: `"......Rrrrrraa{0}a{0}a{0}a{0}a{0}a{0}a{0}a{0}a{0}a{0}a{0}a{0}a{0}a{0}a{0}a{0}a{0}a{0}a{0}a{0}a{0}ahhh!!!"`
+char_sha: `"D‐damn it!!!"`
+char_non: `In a flash, Kanon leapt to within striking distance of Shannon as she missed the final moment to pull the trigger.`
+char_non: `He swung his hand up and smashed the gun she held upwards.`
+char_non: `That strike sent her gun flying into the sky.`
+char_non: `At the same time, Kanon's gun also flew from his hand and soared into the air.`
+char_non: `The two guns danced a rondo through the sky, reached their peak, ......and began to fall.`
+char_non: `By that time, neither one of them knew which gun was theirs.`
+char_non: `The two guns were exactly the same.`
+char_non: ` Everything about them was identical.`
+char_non: `{n}There was no way to tell them apart.`
+char_non: `However, there was one difference.`
+char_non: `.........Only one of them had a bullet inside.`
+char_non: `The pair raised their hands to the sky,`
+char_non: ` trying to grasp their fate,`
+char_non: ` ......their miracle.`
+char_non: `It was as though...`
+char_non: `...they were trying to grasp the wings of a descending angel of miracles.`
+char_non: `The pair looked up at the brilliant sky...`
+char_non: `.........and entrusted everything to Lady Luck.`
+char_non: `Then, they each grabbed one of the guns out of the air,`
+char_non: ` and after dancing a momentary rondo, ............their arms crossed each other.`
+char_non: `Even that was like a dance.`
+char_non: `And the barrels of each of their guns came to a dead stop against each other's forehead.`
+char_sha: `"...................................."`
+char_kan: `"...................................."`
+char_non: `Even they could not know......which gun held the bullet.`
+char_non: `When they both pulled the triggers, ......one would die, and one would remain alive.`
+char_non: `The match would end.`
+char_non: `George and Jessica had no way of knowing how it would turn out until that moment came.`
+char_non: `......However, was it really impossible for the two holding the guns to know...?`
+char_non: `The barrel of Kanon's gun, which had already been fired, must have been warm.`
+char_non: `{n}And the barrel of the other gun, which Shannon hadn't fired, should have been ice‐cold.`
+char_non: `So, perhaps the pair of them...`
+char_non: `...did realize which gun was which.`
+char_non: `......And yet, .........both expressions were as solemn as could be,`
+char_non: ` ............showing that they would hold total belief and zero doubt in their own fates until the moment the trigger was pulled.`
+char_sha: `"......................................."`
+char_kan: `"......................................."`
+char_sha: `"Don't be sad.`
+char_sha: ` We'll meet again soon...in the Golden Land."`
+char_kan: `"We should have done this much sooner."`
+char_sha: `"And that way, ......we wouldn't have to see each other again."`
+char_kan: `"It's alright.`
+char_kan: ` Considering what day this is, even this duel is just a farce."`
+char_sha: `"You're right...`
+char_sha: ` If we're just going to revive in the Golden Land anyway, it really is just a farce."`
+char_sha: `"Then I'll see you later."`
+char_kan: `"Yeah. You too."`
+char_sha: `"So long."`
+char_jes: `"Kanon‐kun?!?!"`
+char_rud: `"Hey, what's going on?!`
+char_rud: ` Hang in there!!"`
+char_non: `Suddenly,`
+char_non: ` .........Kanon fell to the floor as if he'd had an attack of anemia.`
+char_non: `It happened without any prior warning, so everyone rushed up to him in alarm.`
+char_non: `What they saw surprised them.`
+char_non: ` There was a single strand of blood across his forehead, making it look as though it had cracked open...`
+char_goh: `"H‐......huh?`
+char_goh: ` H‐how......"`
+char_cla: `"What happened?`
+char_cla: ` ......Wh‐......what's going on......?"`
+char_non: `Trying to get a look at the wound, Gohda wiped Kanon's forehead with a handkerchief.`
+char_non: `.....However, his forehead was perfectly smooth, without any trace of a wound.`
+char_non: `And yet, ......almost as though it was seeping through his skin, blood was pouring out......`
+char_rud: `"Wh‐what are you doing?!`
+char_rud: ` Stop the bleeding already!!"`
+char_goh: `"I, I would, but...!!`
+char_goh: ` Th‐there's no wound,`
+char_goh: ` ......but the blood,`
+char_goh: ` ......the blood won't stop coming...!"`
+char_jes: `"Hang in there, Kanon‐kun!!`
+char_jes: ` Kanon‐kun!!`
+char_jes: ` ......Y‐......Yoshiya‐kuu{-}u{-}u{-}u{-}u{-}u{-}u{-}uun!!!"`
+char_gen: `"...................................."`
+char_non: `Kanon's face was pale, ......and though his eyes were open, they had lost the light of the living.`
+char_non: `......Just as though...`
+char_non: `...he was a puppet whose strings had been cut,`
+char_non: ` .........he passed away......`
+char_jes: `"Yoshiya‐kun, Yoshiya‐kun!!`
+char_jes: ` Uwaaa{0}a{0}a{0}a{0}a{0}a{0}a{0}a{0}a{0}a{0}a{0}a{0}aahhh, uwaa{0}a{0}a{0}a{0}a{0}a{0}a{0}a{0}a{0}a{0}a{0}aahhh!!!"`
+char_sha: `".........So long, Kanon‐kun.`
+char_sha: ` .........And......thank you."`
+char_non: `Jessica dashed up to Kanon's corpse,`
+char_non: ` .........held it,`
+char_non: ` ......pressed her forehead against his,`
+char_non: ` and as her own forehead grew wet with Kanon's still warm blood,`
+char_non: ` ......she wailed......`
+char_geo: `"...............Shannon......"`
+char_sha: `"......George‐san.`
+char_sha: ` ......I......won.`
+char_sha: ` ......And now,`
+char_sha: ` ......I have...`
+char_sha: `......the right to love you...`
+char_sha: `.........at last........"`
+char_non: `Shannon......leaned against George's chest......as though the strings holding her up had been cut.`
+char_non: `George held her in silence......`
+char_jes: `"Yoshiya‐kun, Yoshiya‐kun!!`
+char_jes: ` Waa{0}a{0}a{0}a{0}a{0}a{0}a{0}a{0}a{0}a{0}a{0}a{0}a{0}a{0}a{0}a{0}a{0}a{0}a{0}a{0}aahhhh.........!!!`
+char_jes: ` Uwaa{0}a{0}a{0}a{0}a{0}a{0}a{0}a{0}a{0}a{0}a{0}aaahhh...aaahh...aahh......"`
+char_non: `There was nothing in the golden rose garden except the wind that carried golden flower petals...`
+char_non: `...and the sound of Jessica's heartbroken wails......`
+char_geo: `"......Is your trial for us finished now?"`
+char_zep: `"It is.`
+char_zep: ` ......Congratulations.`
+char_zep: ` You two were the ones who remained."`
+char_fur: `"We will give you our blessing.`
+char_fur: ` But please, don't forget.`
+char_fur: ` You are now responsible for nurturing your love."`
+char_zep: `"......Please, take good care of the seed of love that this miracle has created."`
+char_geo: `"............Of course.`
+char_geo: ` ......I swear it to her and both of you."`
+char_fur: `"And now, let Shannon have the miracle of magic."`
+char_zep: `"Now, your soul will become {y:0:Human}{n:0:human}.`
+char_zep: ` You will become a full person."`
+char_non: `""Come together, incomplete souls...!!`
+char_non: ` Become one and know love...!!""`
+char_non: `When Zepar and Furfur faced the heavens and yelled,`
+char_non: ` ......the miracle of love...`
+char_non: `...gathered the souls around Shannon.`
+char_non: `They came from the losers of the trial.`
+char_non: `{n}From Kanon, who had been defeated.`
+char_non: `{n}And from Beato, who had dropped out.`
+char_non: `Slowly, .........the bodies of the two began to break down into flecks of gold dust...`
+char_bea: `"......What is........."`
+char_be3: `"Wh‐what's going on here...?!`
+char_be3: ` No one ever said that the losers would disappear!!"`
+char_non: `As she yelled, Beato the Elder supported the body of her fading little sister.`
+char_non: `{n}However, the two demons were smiling quietly.`
+char_zep: `"Kanon disappears because he died.`
+char_zep: ` Beato was born to love Battler, so without that right, she too will vanish."`
+char_fur: `"......It is very fair.`
+char_fur: ` If you had survived, the other two would have vanished instead."`
+char_be3: `"Hang in there, little sister, hang in there!!`
+char_be3: ` Weren't you going to solve Battler's locked room and save him?!`
+char_be3: ` What are you doing, biting the dust in a place like this?!!`
+char_be3: ` You call yourself a part of our complete form?!!"`
+char_bea: `".........Why...`
+char_bea: `......was I born for the sole purpose...`
+char_bea: `...of loving Battler‐san......?`
+char_bea: ` ......Why...`
+char_bea: `...do I like him...?`
+char_bea: ` The truth is,`
+char_bea: ` ......I don't know...`
+char_bea: `...why I fell in love with him."`
+char_be3: `"Wh‐...what?!`
+char_be3: ` You want to talk about that now...?!!"`
+char_bea: `"......After all,`
+char_bea: ` ......when I was born,`
+char_bea: ` .........I was told to love Battler‐san and be loved by him...`
+char_bea: ` That was the purpose of my birth.`
+char_bea: ` .........So,`
+char_bea: ` ......I don't really know...`
+char_bea: `...{i:why} I like him......"`
+char_be3: `"P‐people don't need a reason to fall in love!!`
+char_be3: ` Don't disappear!!`
+char_be3: ` If you disappear, who will save Battler?!`
+char_be3: ` Little sister, Beato!`
+char_be3: ` {f:5:Beatricee{-}e{-}e{-}e{-}e{-}e{-}e{-}e{-}ee}!!"`
+char_bea: `............Why...`
+char_bea: `...is it...`
+char_bea: `...that I like Battler‐san...?`
+char_bea: `{a:c:`
+char_bea: `......“Mother”?}`
+char_bea: `"Well, you know,`
+char_bea: ` I'm not really a big fan of the domestic type of girl.`
+char_bea: ` You know me, I'm a rough‐around‐the‐edges kind of guy, right?`
+char_bea: ` ......I just can't handle acting politely in front of girls, ladies first and all that stuff.`
+char_bea: ` ......So, if I had to say what type I liked......"`
+char_bea: `"......You know, maybe a Jessica‐type girl could be just my thing.`
+char_bea: ` If I'm crude, why shouldn't she be too?`
+char_bea: ` ......A rough, relaxed relationship with someone who can cuss and joke around with me, so we're not always thinking about how I'm a guy and she's a girl—that could be just perfect!"`
+char_bea: `"So if I ever get a girlfriend,`
+char_bea: ` ......I'd like someone I could joke around with all the time like I do with Jessica...!"`
+char_bea: `"Huh?`
+char_bea: ` What would she look like?`
+char_bea: ` I'm not too picky about that.`
+char_bea: ` But if she {i:did} happen to be one of those blue‐eyed blondes with big boobs you see in Western films,`
+char_bea: ` ihhi{0}hi{0}hi{0}hi{0}hihi, that'd be awesome.`
+char_bea: ` I'd love to rub those boobs!`
+char_bea: ` Waha{0}ha{0}ha{0}ha{0}haha...!"`
+char_bea: `{a:c:{m:-5:―}―{f:5:Beatrice}.`
+char_bea: `{n}Listen to me.`
+char_bea: `{n}I am giving you my love for Ushiromiya Battler.`
+char_bea: `{n}You are to become the kind of woman Ushiromiya Battler desires.}`
+char_bea: `{a:c:You will have the golden hair he likes.`
+char_bea: `{n}You will have the blue eyes he likes.`
+char_bea: `{n}You will have a personality that matches his.`
+char_bea: `{n}And then, ......you are to love him in my place,`
+char_bea: `{n}and if fate allows it, be loved by him.}`
+char_bea: `{a:c:I.........can no longer love him.`
+char_bea: `{n}Please, take these desires I couldn't bring to fruition,`
+char_bea: `{n}......these feelings too great for me to bear,`
+char_bea: `{n}......and see them through yourself.}`
+char_bea: `{a:c:From this day forward,{n}you are no longer the Rokkenjima ghost that lives only to play pranks.}`
+char_bea: `{a:c:From this day forward,{n}you will be the master of this island,{n}waiting for the day that he comes to fulfill his promise.}`
+char_bea: `{a:c:From this day forward, you will do this in my place.`
+char_bea: `{n}So, from this day forward, you will no longer be me.}`
+char_bea: `{a:c:Please forgive me for pushing all of my troubles onto you,{n}...while I alone try to find happiness.}`
+char_bea: `{a:c:From this day forward, you have the right to hate everything.`
+char_bea: `{n}From this day forward, you are the Golden Witch, {f:5:Beatrice}.}`
+char_bea: `{a:c:And, one day,`
+char_bea: `{n}you will destroy everything, revive everything,`
+char_bea: `{n}......and bring blessings to all lovers.}`
+char_bea: `{a:c:When that day comes,`
+char_bea: `{n}......I pray that you and I will both have found happiness.}`
+char_bea: `{a:c:From this day forward, you will no longer be me.`
+char_bea: `{n}From this day forward, I will no longer be you.`
+char_bea: `{n}The two of us will split a single soul and share it.`
+char_bea: `{n}And though, of course, that won't amount to a complete soul...`
+char_bea: `{n}I'm sure our dreams will be more numerous than most.}`
+char_bea: `{a:c:Let us be blessed.........`
+char_bea: `{n}My darling...{f:5:Beatrice}.........}`
+char_bea: `{a:c:No one else can see your form.`
+char_bea: `{n}But I can.`
+char_bea: `{n}And if you're loved by a lot of people,`
+char_bea: `{n}I'm sure they'll all start seeing you too.}`
+char_bea: `{a:c:We can all {y:1:‘see’}{n:1:see}...if we have love......}`
+char_jes: `".........Yoshiya......kun.................."`
+char_cla: `"...A‐`
+char_cla: `......are we...`
+char_cla: `...dre‐...`
+char_cla: `...dreaming......?"`
+char_rud: `"I‐......insane...`
+char_rud: ` What kind of joke is this...?? Well?!"`
+char_goh: `"D‐D‐Doctor Nanjo!!`
+char_goh: ` I'll go call Doctor Nanjo...!!"`
+char_gen: `"............Gohda.`
+char_gen: ` ......That is enough."`
+char_non: `Genji, who had been calm and silent through the whole thing, finally spoke.`
+char_non: `And those......were the most reasonable words spoken.`
+char_non: `......If he called Nanjo here,`
+char_non: ` ............then what...?`
+char_non: `Not only was there no arm to take the pulse of,`
+char_non: ` .........there wasn't even a forehead to feel the heat of.`
+char_non: `......Like the last unmelted snow greeting the warm sun of spring,`
+char_non: ` ...Kanon's form...`
+char_non: `......There was no longer...`
+char_non: `......even a trace.`
+char_non: `His form...`
+char_non: `...had sparkled with a spray of gold...`
+char_non: `...and vanished completely......`
+char_jes: `"......Where...?`
+char_jes: ` Where did he go?!`
+char_jes: ` Where's Yoshiya‐kun?!`
+char_jes: ` Yoshiya‐kun, Yoshiya‐kuu{-}u{-}u{-}u{-}u{-}u{-}u{-}u{-}uun!!!!"`
+char_kan: `".........So long,`
+char_kan: ` Milady.`
+char_kan: ` ......No, ............Jessica."`
+char_bea: `"......Kanon‐san........."`
+char_kan: `"No one's eyes can see us any longer.`
+char_kan: ` ......That means that we are no longer in their world.`
+char_kan: ` ......However, we are right here."`
+char_bea: `"............You're right.`
+char_bea: ` ......We......are here."`
+char_kan: `"For us, a body is nothing more than a cage made of flesh.`
+char_kan: ` .........There's no need to be sad."`
+char_bea: `"......But, .........I do feel sad for her.`
+char_bea: ` ......Jessica‐san..."`
+char_kan: `"This is all......my sin.`
+char_kan: ` ......This is why furniture isn't supposed to love."`
+char_bea: `"..................What will you do now?"`
+char_kan: `"Though I have lost my form,`
+char_kan: ` ......though I can no longer talk to her,`
+char_kan: ` ......and even though if Jessica ever talks to me...`
+char_kan: `...I can do nothing except nod behind her back,`
+char_kan: ` .........I will be by her side."`
+char_bea: `"...........................`
+char_bea: ` ......I think that's wonderful."`
+char_kan: `"What will you do...?"`
+char_bea: `"......I want to save Battler‐san...from a locked room......"`
+char_kan: `"A locked room...?`
+char_kan: ` Ha......haha{0}ha{0}ha{0}ha{0}ha{0}haha."`
+char_non: `After looking a bit taken aback, Kanon laughed gently.`
+char_non: `{n}Beato, who hadn't expected to be laughed at, looked a little sour.`
+char_bea: `"Wh‐why are you laughing...?`
+char_bea: ` This is very important to me..."`
+char_kan: `"But it's a locked room.`
+char_kan: ` .........That's only a problem for humans who have bodies."`
+char_bea: `"......Huh?`
+char_bea: ` ............Ah..."`
+char_kan: `"We have already been released from our cage of flesh.`
+char_kan: ` ......How could a locked room hinder us?"`
+char_bea: `"......A‐are you sure about that...?`
+char_bea: ` I mean, there's a chain lock, and duct tape seals, and red truth...!"`
+char_kan: `"I see.`
+char_kan: ` ......So, you weren't from the world of pieces, ......but a being from a higher‐level world.`
+char_kan: ` ......That's probably why your limitations are different from ours.`
+char_kan: ` ......Ah, well."`
+char_non: `Kanon stretched.`
+char_non: `{n}......It looked as though he was about to head out somewhere.`
+char_bea: `"......Kanon‐san......"`
+char_kan: `"Seeing as you're a fellow loser,`
+char_kan: ` .........okay.`
+char_kan: ` I'll go for you.`
+char_kan: ` I'll go to the guest room in the mansion, let Battler‐sama out,`
+char_kan: ` set the chain behind me, and hide in the closet in his place.`
+char_kan: ` ......How about that?"`
+char_bea: `"I, I'm glad for the sentiment...`
+char_bea: ` But even if you wanted to leave the cousins' room, ......Erika‐san's seals mean..."`
+char_non: `Unlike the next room over, the cousins' room where Kanon was had been guaranteed to be a complete locked room, even counting the windows.`
+char_non: `Not only did he have no way to save Battler, but he couldn't even escape himself......`
+char_kan: `".........In that case, use your magic to give me power."`
+char_bea: `"My......magic.........?"`
+char_kan: `"Yeah.`
+char_kan: ` Use your magic on me."`
+char_bea: `"W‐wait......`
+char_bea: ` I don't even know how......"`
+char_kan: `"Aren't you {f:5:Beatrice}, the Golden Witch...?"`
+char_bea: `"I am a witch, but.........ummm...`
+char_bea: ` I don't even know about locked room tricks, much less magic......"`
+char_kan: `"Good grief......`
+char_kan: ` Okay, listen up, {f:5:Beatrice}.`
+char_kan: ` .........I'll only tell you this once.`
+char_kan: ` This is what a witch is."`
+char_bea: `"What a witch is.........?"`
+char_kan: `{a:c:`
+char_kan: `A witch is...}`
+char_kan: `"Not the one who solves puzzles."`
+char_bea: `"......Not the one......who solves puzzles......?"`
+char_kan: `"Yeah, that's right.`
+char_kan: ` If you're a witch, why are you clutching at your head because of someone else's puzzles?`
+char_kan: ` ......That's not a witch's job, right?"`
+char_bea: `"Th‐......then, ......what is......a witch's job......?"`
+char_kan: `"The Golden Witch I know...`
+char_kan: `...used insane magic to create puzzles that baffled everyone and sneered at their confusion.`
+char_kan: ` ......Create a horrible riddle that no one can get, spin everyone around, and bad‐mouth them.`
+char_kan: ` You aren't supposed to clutch your head agonizing over your opponents' puzzles. That's {i:their} job."`
+char_bea: `"Agonizing......is my opponents' job......"`
+char_kan: `"Don't worry about how to get Ushiromiya Battler out of the locked room.`
+char_kan: ` ......A room locked by a chain?`
+char_kan: ` What a joke.`
+char_kan: ` ......You need to create a much more spectacular, ultimate locked room...`
+char_kan: `and make it so that they're the ones agonizing.`
+char_kan: ` .........I'll even lend a hand."`
+char_bea: `"I'm......not the one who agonizes......"`
+char_kan: `"That's for them to do.`
+char_kan: ` It's about time they recalled the true terror...`
+char_kan: `...of {f:5:Beatrice} the Endless Witch, the one who can create endless locked‐room tricks of the most horrific kind,`
+char_kan: ` tricks that can make even the demons of hell prostrate themselves in shock...!"`
+char_bea: `".........A locked room.........even more horrific than Battler‐san's..."`
+char_kan: `"We've already gotten our hands on one, haven't we?"`
+char_bea: `"A...horrific.........locked...room......"`
+char_bea: `{a:c:`
+char_bea: `.........ah...}`
+char_bea: `In the back of Beato's mind,`
+char_bea: ` ......images she remembered began to flit by, one after another—`
+char_bea: `the layout of the mansion, the guesthouse, the rose garden......`
+char_bea: `Trick. Mistake. Mislead.`
+char_bea: `Taunt.`
+char_bea: ` Trap.`
+char_bea: ` Laugh together.`
+char_bea: `......Do you know about this trick...?`
+char_bea: `{n}It was in a book I read once......`
+char_bea: `Beato's eyes opened wider and wider......`
+char_bea: `Countless lights circled around her, swallowing her up.`
+char_kan: `"And one more thing."`
+char_bea: `"......Wh‐what...?"`
+char_kan: `"That's no way for the witch of locked rooms to talk."`
+char_bea: `"Then, you think I should......"`
+char_kan: `"Go for "warawa"."`

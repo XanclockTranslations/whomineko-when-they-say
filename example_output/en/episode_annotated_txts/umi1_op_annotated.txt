@@ -1,0 +1,657 @@
+char_nan: `"............You've...`
+char_nan: `been indulging in alcohol again, haven't you?"`
+char_non: `The old physician let out a sigh as he removed the stethoscope.`
+char_non: `Two elderly men could be seen in the dimly lit study, which was filled with dust and a sickly sweet stench.`
+char_non: `In the corner of this room, which was much larger than what most people would call a study,`
+char_non: ` there was an expensive‐looking bed, a man undergoing a medical examination, and the physician conducting it.`
+char_non: `{n}There was also what appeared to be a servant watching over the whole scene.`
+char_kin: `"The bottle is my friend.`
+char_kin: ` It is no less of a friend than you, and it has stood by my side even longer than you have."`
+char_non: `The man who had bared his chest for the stethoscope spoke unapologetically as he straightened out his clothes.`
+char_nan: `"............Kinzo‐{c:86EF9C:san}.`
+char_nan: ` ...Your body only appears to be well thanks to the effects of the medicine.`
+char_nan: ` However, if you continue to drink such strong spirits, the treatment will become meaningless.`
+char_nan: ` ...Trust my judgment.`
+char_nan: ` Temper your drinking."`
+char_kin: `"I thank you, though only for the sentiment,`
+char_kin: ` my friend.`
+char_kin: ` .........Genji.`
+char_kin: ` Another glass.`
+char_kin: ` Water it down slightly.`
+char_kin: ` That way Nanjo can save face."`
+char_gen: `".........Are you quite sure?"`
+char_non: `After eyeing both the master who demanded the alcohol and his doctor who forbade it,`
+char_non: ` Genji, the old butler, silently gave a slight nod and carried out his master's orders faithfully.`
+char_non: `Nanjo, the man's personal doctor, let out a deep sigh once again as he watched the butler busy himself alongside the liquor cabinet...`
+char_non: `There was a smell filling up the room.`
+char_non: `...This sweet, poisonous aroma felt as though it melted the heart, if not the soul itself.`
+char_non: ` It was the smell of that venomous green drink that the man couldn't bring himself to part from.`
+char_kin: `"......Nanjo.`
+char_kin: ` You are my close friend of many years.`
+char_kin: ` I am deeply grateful for all that you have done to keep me alive this long."`
+char_nan: `"I have done nothing.`
+char_nan: ` ......After all, you never listen to my advice as your physician."`
+char_kin: `"Hahahaha...`
+char_kin: ` And you never listen when I warn you about a mistaken chess move you're about to make.`
+char_kin: ` It seems we are even."`
+char_gen: `"......My lord."`
+char_kin: `"Thank you.`
+char_kin: ` ......I wouldn't die if I ran out of your medicine, but I would if I ran out of this."`
+char_non: `With one eye on Nanjo, who had his face set in a resigned expression, Kinzo took the glass that Genji was holding out to him.`
+char_non: `...There are probably very few people who would associate the venomous color which filled the glass with an alcoholic beverage.`
+char_kin: `".........Nanjo.`
+char_kin: ` Be honest with me.`
+char_kin: ` How much time do I have left?"`
+char_nan: `"Well now...`
+char_nan: ` How short must I make it to get you to stop drinking?"`
+char_non: `Nanjo once again let out a sigh of resignation.`
+char_non: `{n}As he watched Kinzo down the glass regardless, he spoke.`
+char_nan: `".........You don't have much time."`
+char_kin: `"...What precisely do you mean by that?"`
+char_nan: `"......Let us illustrate it with the chess game here.`
+char_nan: ` You are closing out the game quite well, but I do not ultimately see you cornering my king."`
+char_non: `Nanjo's gaze was directed at a side table with a stately chess set placed on top of it.`
+char_non: `Judging by the positioning of the pieces, the match was well into the endgame.`
+char_non: `{n}The black rook and bishop were cutting deeply into the enemy lines.`
+char_non: `The white king had already been castled and cornered, so that even an amateur could see that the match would reach its conclusion before too long.`
+char_non: `Every time Nanjo came to give a medical examination, both of them would make a few moves.`
+char_non: `Nanjo was stating with confidence that Kinzo would most likely fall into his eternal sleep before this game could be concluded.`
+char_non: `...These were less the words of a physician than they were the words of an old friend.`
+char_nan: `"............Were you a normal patient,`
+char_nan: ` I would recommend that you write a will at this point."`
+char_kin: `"......And what is a will, Nanjo?`
+char_kin: ` Handwritten instructions to the vultures on how to devour and scatter my corpse?"`
+char_nan: `"No, not at all.`
+char_nan: ` ......As the word suggests, it is a way for you to record your will for later generations.`
+char_nan: ` It is far more than just a means to divide up your inheritance."`
+char_kin: `"Hoh.`
+char_kin: ` ......And apart from the division of the inheritance, what might I write of?"`
+char_nan: `"............Oh, there's your regrets...`
+char_nan: `and matters you have left unfinished.`
+char_nan: ` Things you want to be passed down...`
+char_nan: `...and things you want to tell.`
+char_nan: ` ......Anything you want."`
+char_kin: `"......Hmph.`
+char_kin: ` .........Things I want to be passed down and things I want to tell?`
+char_kin: ` Ridiculous.`
+char_kin: ` I, Ushiromiya Kinzo, have not one thing I want to tell or leave behind!!"`
+char_kin: `"I was born with nothing.`
+char_kin: ` I will die with nothing!`
+char_kin: ` There is nothing I wish to leave to my foolish children!!`
+char_kin: ` Even if the end were to come today—even if it were to come right now!`
+char_kin: ` I shall accept this fate of death without a trace of fear!!"`
+char_nan: `"......Kinzo‐san."`
+char_kin: `"I created everything.`
+char_kin: ` My fortune!`
+char_kin: ` My prestige!`
+char_kin: ` Everything!!`
+char_kin: ` Those were built up by me, and they will be lost along with me.`
+char_kin: ` There is nothing I wish to leave behind!!"`
+char_kin: `"Nothing!!`
+char_kin: ` After I'm gone, I care not if it all goes to waste!`
+char_kin: ` I desire no tomb, no coffin!!`
+char_kin: ` Those were the terms of the contract I made with the witch!`
+char_kin: ` When I die, everything will be lost!`
+char_kin: ` That has been part of the promise since the beginning, and that's why nothing will be left behind.`
+char_kin: ` There is nothing I can leave behind!!"`
+char_non: `After reaching a furious crescendo, Kinzo suddenly slumped over.`
+char_non: `...His expression was limp and feeble, as though an evil spirit had possessed him and then left.`
+char_kin: `"..................`
+char_kin: ` However, I do have one regret.`
+char_kin: ` I have nothing to leave behind, but there is one thing I cannot leave undone..."`
+char_nan: `".........You would do well to write it down.`
+char_nan: ` Of course, it would be best if you could finish it before your time comes.`
+char_nan: ` However, even if the worst happens, those who come after you will carry it to completion.`
+char_nan: ` You must leave behind your regrets so that they can be resolved even if you are unable to do so yourself.`
+char_nan: ` ......That is the purpose of a will."`
+char_non: `When Nanjo tried to gently pat Kinzo's shoulder, the dying man flew into a sudden rage and batted away Nanjo's hand.`
+char_kin: `"That is no good, no good, no good!!"`
+char_kin: `"It must be done while I still live! At the moment of my death, my soul will be devoured by the demons of the contract and wiped out of existence!`
+char_kin: ` For me, there will be no peace or another world after death!`
+char_kin: ` That's why everything must be done before I go!!`
+char_kin: ` That's why a will has no meaning for me!!"`
+char_kin: `"And if I had the time to write such a thing...`
+char_kin: ` ...If I had such time to spare!!`
+char_kin: ` ...I'd want to see it.`
+char_kin: ` I'd want to see it one more time!`
+char_kin: ` I want to see {f:5:Beatrice}'s smiling face one last time!!"`
+char_kin: `"Oh, {f:5:Beatrice}, why do you resist me so?!`
+char_kin: ` I would return everything you have given me right this very moment—I am prepared to lose everything!!`
+char_kin: ` So please, show me your smile just one more time..."`
+char_kin: `"{f:5:Beatrice}, I beg of you—you must be able to hear this final plea—that's the kind of woman you are!`
+char_kin: ` I beg of you, show yourself to me!!`
+char_kin: ` You're here, aren't you?!`
+char_kin: ` You're standing there invisible, listening to every word I say, and even now you're mocking me from somewhere in this room, aren't you?!"`
+char_kin: `"Please, appear before me one more time and smile!!`
+char_kin: ` Feel free to scold me, even snatch away my life by your own hands if you wish!!`
+char_kin: ` I don't want to die alone like this!!`
+char_kin: ` I cannot let myself die until I've seen your smile just one more time!!"`
+char_kin: `"Aah, {f:5:Beatrice}, {f:5:Beatrice}!!`
+char_kin: ` I offer up this life of mine, I offer it up to you!!`
+char_kin: ` I'm begging you, {f:5:Beatriceeeeee}!!!"`
+char_but: `"Whoa...`
+char_but: ` Things sure move with the times...`
+char_but: ` I can't believe we'll be able to make the trip in just twenty minutes..."`
+char_non: `I couldn't help but scratch my head and marvel at how far things have come in recent years.`
+char_non: `{n}We used to go by boat.`
+char_non: `Back then, we were all forced to endure nearly half a day of swaying back and forth over the sea before we reached Niijima.`
+char_non: ` Things have gotten so much more convenient these days.`
+char_non: `Still, I've never been on a plane this small.`
+char_non: `{n}I've flown in a huge jumbo jet before, but this will be my first experience in such a tiny one.`
+char_non: `...It's going to shake, isn't it...`
+char_non: ` They say that smaller boats shake more, so I guess the same rule probably applies to planes.`
+char_non: `...Aaah, just spare me.`
+char_geo: `"Haahahaha, don't worry, Battler‐kun.`
+char_geo: ` It'll shake much less than that boat did."`
+char_but: `"Gyah?! ...I‐is that you, George‐{c:86EF9C:aniki}?!"`
+char_but: `"Heheh, don't scare me like that... You just shaved three years off my life.`
+char_but: ` Anyway, what's shaking got to do with anything?"`
+char_but: `"Ihihihi, you don't think I'm actually scared of the plane shaking or maybe falling out of the sky or something, ri~ght?"`
+char_geo: `"Oh, of course not, my mistake.`
+char_geo: ` I'm sure that you've changed a lot since we last saw you.`
+char_geo: ` After all, it's been six years since then.`
+char_geo: ` You're not a kid anymore.`
+char_geo: ` Hahahahaha."`
+char_but: `"Sheesh, and here you are, old enough to smoke and drink.`
+char_but: ` I've got no interest in smoking, but I've always wanted to try some booze, heheheh!`
+char_but: ` Well, if you've got your dad's genes, I'll bet you can hold your own when it comes to drinking, right?"`
+char_geo: `"Well, I usually drink for business rather than pleasure.`
+char_geo: ` It's pretty hard to do business in Japan without it."`
+char_but: `"Ihihihi!`
+char_but: ` That's exactly right!`
+char_but: ` So I was thinking I'd take my first shot at it tonight at dinner!"`
+char_geo: `"Th‐that's no good, Battler‐kun, you're still a minor!`
+char_geo: ` Drinking alcohol is known to stunt the growth of minors and...`
+char_geo: `...um, never mind."`
+char_but: `"Come on, I'm tall enough already!`
+char_but: ` In fact, it'd be easier to find clothes if I shrunk a little!"`
+char_non: `I puffed my chest out proudly.`
+char_non: `Until I hit my growth spurt, my height was below average in my class.`
+char_non: `But then, I grew and grew, and before I knew it, I was over 180 cm.`
+char_non: `I guess I have all that muscle training and those shady mail‐order performance‐enhancing drugs to thank for that.`
+char_non: `Before then, I'd never dreamed that I'd shoot ten centimeters above George‐aniki, who'd reached his peak height early on.`
+char_non: `......Damn, I'll bet my relatives all say "look how big you've grown, Battler‐chan!" or something.`
+char_non: `...That kind of thing is really embarrassing, so I hope they cut me a break.`
+char_non: `Anyway, my name, "Battler"...`
+char_non: `...well, it's pretty damn weird, don't you think?`
+char_non: `I've got to wonder what my parents were thinking when they gave me that name.`
+char_non: `{n}I've never met anyone who could read it right the first time.`
+char_non: `I usually get called "{c:86EF9C:Sento‐kun}".`
+char_non: `{n}Too bad, swing and a miss.`
+char_non: `My name is written {p:0:右代宮 戦人}.`
+char_non: `{n}Can you read it?`
+char_non: ` The first part is my family name, "Ushiromiya".`
+char_non: ` That's a fairly plausible Japanese pronunciation so far.`
+char_non: `The problem is my own name.`
+char_non: `{n}.........{p:0:戦人} is made up of the characters for "fight" and "person", and it's pronounced "Battler".`
+char_non: `Put it all together, and you've got Ushiromiya Battler.`
+char_non: `Pretty crazy, right?`
+char_non: ` It's crazy enough that my parents decided to call me that, but it's even more crazy that some government worker let them make it official.`
+char_non: ` ...Both groups are at the top of my must‐kill list.`
+char_non: `Anyway, this is one of my cousins.`
+char_non: `His name is {p:0:右代宮 譲治}, pronounced Ushiromiya George.`
+char_non: `He's five years older than me, so he's probably turning 23 this year.`
+char_non: `{n}Since the Ushiromiya cousins consist of two boys and three girls, I ended up playing with George all the time.`
+char_non: `And because I've always thought of him as a big brother, I still call him "Aniki" today.`
+char_hid: `"Whoo, Battler‐kun, look how big you've gotten.`
+char_hid: ` You know what they say, "leave a boy for three days and you'll hardly recognize him"!"`
+char_eva: `"It must be in his blood, I suppose.`
+char_eva: ` Rudolf wasn't that tall either until around his high school years.`
+char_eva: ` Perhaps people end up taller if their growth spurt comes late."`
+char_but: `"Nah, it's nothing special.`
+char_but: ` A real man needs to be tough on the inside too!"`
+char_hid: `"Exactly!`
+char_hid: ` Battler‐kun here knows how it works!`
+char_hid: ` Real men win or lose based on what they've got on the inside!`
+char_hid: ` Can't ever forget to keep up your trainin' and discipline.`
+char_hid: ` You do that, wait verrry alertly for the perfect moment...and strike!"`
+char_hid: `"Now, even I never imagined that I'd become the company president I am today, master of my own domain...`
+char_hid: ` Yep, to think I've come this far after starting out penniless and ruined...!"`
+char_non: `This portly and slightly chubby man...`
+char_non: `is George‐aniki's dad, Uncle Hideyoshi ({p:0:秀吉}).`
+char_non: `He's the husband of Dad's older sister.`
+char_non: `{n}In other words, we're not blood‐related.`
+char_non: `He's nice to children, sociable all the time, even quick to give out some spending money to us kids—simply put, he's an awesome uncle.`
+char_non: `He speaks in an odd and very noticeable Kansai‐style dialect seemingly of his own creation, but he's actually a natural‐born Kanto man.`
+char_non: `Apparently, leaving an impression is everything in the business world,`
+char_non: ` so speaking in a different style than other people is an act that makes him stick out more.`
+char_non: `......However, I hear that he gets embarrassed when talking within earshot of a real Kansai person, so he switches back to standard Japanese.`
+char_non: `...I don't really get it, but he's definitely an interesting person.`
+char_eva: `"If only you weren't so quick to brag about your life's story.`
+char_eva: ` That's enough for now, I think.`
+char_eva: ` I'm sure Battler‐kun's getting tired of it.`
+char_eva: ` Aren't you?"`
+char_but: `"Nope, not at all, hihihi!`
+char_but: ` Nothing wrong with that.`
+char_but: ` I think it's pretty cool for a man to have some stories he can brag about.`
+char_but: ` I don't have anything like that at all."`
+char_eva: `"Oh, really?`
+char_eva: ` I'd imagine a man with your looks would leave girls crying left and right, so I have trouble believing that you have nothing at all to brag about..."`
+char_but: `"Nonononono!`
+char_but: ` Y‐y‐`
+char_but: `you're joking, right?!`
+char_but: ` Of course nothing weird like that's ever happened to me!`
+char_but: ` In fact, if you know anyone, I'm all ears!"`
+char_eva: `"Oh, I'm sure you do have some stories!`
+char_eva: ` ...*giggle* You must tell your aunt all about it later.`
+char_eva: ` After all, George never comes to me with anything of the sort.`
+char_eva: ` Heheheh..."`
+char_non: `This is my aunt and George‐aniki's mother, Auntie Eva ({p:0:絵羽}).`
+char_non: `She's my dad's older sister.`
+char_non: `{n}She and Uncle Hideyoshi are a pair of jokers, and they've always teased me back as far as I can remember.`
+char_non: `This sometimes made them a bit hard to get along with when I was small.`
+char_non: `{n}...That said, I'm currently in the process of discovering that they still are hard to get along with.`
+char_non: `Even so, George‐aniki's family is interesting and fun, and they seem to get along just fine.`
+char_non: `......Sheesh, that's pretty much the total opposite of my family.`
+char_kir: `"Battler‐kun,`
+char_kir: ` have you seen Rudolf‐san?"`
+char_but: `"Huh?`
+char_but: ` He headed off to the bathroom a while ago.`
+char_but: ` Is he {i:still} not back?`
+char_but: ` Heh, maybe the poor geezer dropped dead... {c:86EF9C:Namunamunamu}."`
+char_kir: `"That's no way to talk about your own father.`
+char_kir: ` Still, this isn't the first time he's taken so long in the bathroom."`
+char_but: `"Yeah, the guy's always been that way.`
+char_but: ` Does he really have to take a magazine with him every time he needs to take a dump?`
+char_but: ` Oh, what on Earth might he be doing with those?!`
+char_but: ` Ihihi!"`
+char_kir: `"Oh, you don't need to worry about that at all.`
+char_kir: ` As long as we're together, I won't be letting him do that on his own."`
+char_but: `"Hihihi!`
+char_but: ` Oooh, I'll have to get the juicy details later!`
+char_but: ` Sounds like Dad's got his balls in an iron grip."`
+char_kir: `"You know exactly what would happen with that man if I didn't keep a tight grip, don't you?"`
+char_but: `"Oh, no kidding.`
+char_but: ` You're the only one capable of reigning in that old bastard.`
+char_but: ` As his son, I'm more than happy to let you take over."`
+char_kir: `"Yes, leave it all to me.`
+char_kir: ` After all, that's my specialty."`
+char_non: `This woman is my dad's wife.`
+char_non: `Her name is Ushiromiya Kyrie ({p:0:霧江}).`
+char_non: `As you can probably tell from our conversation, she's not my real mother.`
+char_non: `{n}She's basically my stepmother.`
+char_non: `My real mom died six years ago.`
+char_non: `{n}Kyrie‐san is the woman Dad married afterwards.`
+char_non: `I mean, I'm not a kid anymore.`
+char_non: `{n}It's way too late now for me to start calling his second wife "Mom".`
+char_non: `And I doubt she feels like using the word "son" on this massive kid who's no relation to her at all.`
+char_non: `We aren't little kids.`
+char_non: `{n}We know there's nothing to be gained by fighting.`
+char_non: `So, we decided that we wouldn't force ourselves to pretend that we were family.`
+char_non: `{n}I've decided to act a bit more frank with her, as though she's a friendly neighbor instead.`
+char_non: `It's much easier to just keep a little distance, instead of forcing ourselves to act all close and making each other uncomfortable.`
+char_non: `Kyrie‐san has been very open about all this, and thanks to that, we've been able to get along pretty well.`
+char_non: `As we were capitalizing on Dad being away in the bathroom to badmouth him,`
+char_non: ` the man himself came back, wiping his hands with a handkerchief.`
+char_rud: `"Hmm?`
+char_rud: ` Battler."`
+char_but: `"Hey, what's up, Dad?"`
+char_but: `"...Owowowowww!`
+char_but: ` Don't pinch my ear, gaah!"`
+char_rud: `"So, you've been talking trash about me with Mom again, haven't you?`
+char_rud: ` What makes it so hard to show a little respect for your father, hmm?"`
+char_but: `"Owowow, owowowowow!`
+char_but: ` Dammit, that hurts, you old bastard!`
+char_but: ` Stretch my ear all you want, I'm still not gonna be able to fly—owwwww!!"`
+char_rud: `"C'mon now.`
+char_rud: ` Upwards,`
+char_rud: ` upwards,`
+char_rud: ` sideways,`
+char_rud: ` sideways,`
+char_rud: ` round in a circle,`
+char_rud: ` back the other way,`
+char_rud: ` multiplier maxed out,`
+char_rud: ` with an extra x2 on top!`
+char_rud: ` Now say "Father, please forgive me for being so rude"."`
+char_but: `"Like hell I will, go find yourself some members‐only store if you want it that much!`
+char_but: ` Gyaah, let goooo!!"`
+char_non: `......This old bastard is my dad.`
+char_non: `{n}I think I'm pretty tall, but Dad's about the same height.`
+char_non: `It's probably no surprise that Auntie Eva started talking about Dad's blood when she saw my height.`
+char_non: `By the way, my height isn't the only thing I got from him.`
+char_non: `{n}It seems having weird names runs in the family.`
+char_non: `Dad's full name is written {p:0:右代宮 留弗夫}.`
+char_non: `......Can you read it?`
+char_non: ` Not many could, I'll tell you that.`
+char_non: `{n}That mess of characters is pronounced "Rudolf".`
+char_non: `Haha...he must hate Grandfather for giving him that name.`
+char_non: `Still, that's no reason to pass that weird naming tradition onto me.`
+char_non: `As the old bastard twisted my ear all over the place, Auntie Eva snuck up behind him and grabbed his ear.`
+char_eva: `"Hey, Rudolf?`
+char_eva: ` Don't take your frustrations out on your kid."`
+char_rud: `"Gyaah, that hurts, Aneki..."`
+char_non: `The scene before me was a perfect realization of the trope of the older sister who deals out punishment to her prankster younger brother despite his size.`
+char_kir: `"I think that's good enough for now, Eva nee‐san.`
+char_kir: ` I'll make sure to stretch out his other ear later on."`
+char_eva: `"Oh, my apologies.`
+char_eva: ` I must leave some pulling for you to do, Kyrie‐san."`
+char_eva: `"Rudolf?`
+char_eva: ` Make sure Kyrie‐san gives you lots and lots of punishment later on, alright?"`
+char_rud: `"You're one to talk, Aneki, bullying your little brother like that."`
+char_rud: `"Hideyoshi nii‐san, I'd like to thank you very much for picking her up.`
+char_rud: ` If you hadn't been so generous, she'd still be unsold in the store.`
+char_rud: ` You have my gratitude and apologies."`
+char_eva: `"...Hmm~?!`
+char_eva: ` Who are you calling "unsold"?"`
+char_non: `After taking two or three steps back,`
+char_non: ` Auntie Eva unleashed one of her beautiful high reverse roundhouse kicks, which stopped just a centimeter away from the tip of Dad's nose.`
+char_non: `After starting out with Tai‐chi‐chuan for her figure, Auntie Eva had then developed an interest in the Chinese martial arts.`
+char_non: ` After that, she went through karate, taekwondo, capoeira, ...and what is it she's learning now, again?`
+char_non: `...Well, anyway, they say a woman's weapons are in her lower body, and that's literally true for Auntie Eva.`
+char_eva: `"Rudo~lf?`
+char_eva: ` Did you know that a single direct blow to the side of the head like that would knock you unconscious?`
+char_eva: ` Not so long ago, I accidentally connected in a practice match, and my opponent was out cold."`
+char_rud: `"...Sheesh, what a pain.`
+char_rud: ` Guess I have to apologize for her tendency to lash out with her feet, too."`
+char_non: `Dad, completely unfazed, shrugged and smiled ironically at Uncle Hideyoshi.`
+char_hid: `"Wahahaha, never had a brother or sister myself.`
+char_hid: ` So, when I see you two bickerin' with each other, it makes me feel all warm and fuzzy inside.`
+char_hid: ` It sure is nice to have a big family and siblings."`
+char_kir: `"Oh, then why not consider making a little brother for George‐kun?`
+char_kir: ` He's already a fine adult who's about to go off on his own, so it might be a good time to have another child."`
+char_rud: `"Hey, have a little sympathy for the new kid and all the pain and suffering he'd have to live through.`
+char_rud: ` I'm surprised even George‐kun turned out as well as he did after being born from this sinister sister of mine."`
+char_rud: `"And what an awesome kid he is.`
+char_rud: ` Please share some of that with our blockhead of a son someday, will you?"`
+char_kir: `"That's not how it worked.`
+char_kir: ` It's thanks to Eva nee‐san's proper rearing that George‐kun became the good, gentle kid he is now.`
+char_kir: ` Isn't that right, Nee‐san?"`
+char_eva: `"Oh, come now...heheh, you think so...?`
+char_eva: ` Our George still has a long way to go."`
+char_eva: `"Ah, by the way, how's your little Ange‐chan doing?`
+char_eva: ` I heard she was vomiting?"`
+char_hid: `"Oh, that's right!`
+char_hid: ` And I was hopin' to finally see her face after such a long time.`
+char_hid: ` Is she alright?"`
+char_kir: `"She often catches a cold when the seasons change.`
+char_kir: ` She's very frail...`
+char_kir: ` I did want to bring her along, but we decided to have my family look after her this time."`
+char_eva: `"I think that's a wise move.`
+char_eva: ` She'll be on the mend faster if she's not exposed to that toxic head house.`
+char_eva: ` A child's health is always more important than an adult's convenience, don't you think?"`
+char_hid: `"I know of some great medicine for vomitin' colds like that!`
+char_hid: ` When we get back home, I'll send it over right away, so be sure to give her some!"`
+char_kir: `"Thank you very much, Hideyoshi nii‐san.`
+char_kir: ` I'm always in your debt..."`
+char_non: `...And once the conversation suddenly veered off in that direction, we kids didn't have any chance of butting in.`
+char_non: `For now, I'm just happy that Auntie Eva gave Dad his just deserts for tugging on my ear.`
+char_geo: `"Looks like we're still waiting for the weather report."`
+char_non: `George‐aniki pointed at the counter.`
+char_non: `{n}The "Pending Weather Clearance" sign was still stuck next to the scheduled departure time for the flight we were scheduled to board.`
+char_non: `According to Aniki, smaller planes are more subject to winds and other effects of the weather,`
+char_non: ` and it's not at all uncommon for flights to be delayed because of that.`
+char_non: `......Wait a sec, it isn't really going to shake...is it...?`
+char_non: `From down here on the ground, it just looks cloudy, not windy.`
+char_non: `...Well, I guess it's different up where the planes fly.`
+char_eva: `"The weather's a bit uncertain today."`
+char_non: `Auntie Eva was looking at a TV in the lounge.`
+char_non: `{n}The weather forecast was being broadcast, informing us that a typhoon was approaching the Kanto region.`
+char_rud: `"A typhoon again?`
+char_rud: ` ......I guess we're doomed to these, with the family conference being in October every year.`
+char_rud: ` Couldn't he choose a better season?"`
+char_eva: `"I agree.`
+char_eva: ` I've always hoped we could have it sometime around the Obon festival in mid‐August.`
+char_eva: ` In that case, why don't you suggest that to Father and Nii‐san during the conference?"`
+char_rud: `"...Very funny.`
+char_rud: ` Why don't you do it yourself?`
+char_rud: ` Our brother would never listen to anything I suggested."`
+char_eva: `"No way.`
+char_eva: ` It doesn't really bother me that much to have it in October.`
+char_eva: ` You were the one who complained about the typhoon, so I said "ask them to change it then",`
+char_eva: ` that's all."`
+char_rud: `"I only said that typhoons always come around this time of year.`
+char_rud: ` You're the one who said you wanted to move it nearer to Obon."`
+char_eva: `"Well, you said it too last year!`
+char_eva: ` Didn't you say that it would be easier to fit into your schedule if we had it nearer Obon?!"`
+char_rud: `"I've never said anything like that."`
+char_eva: `"Oh yes, you did.`
+char_eva: ` I certainly wouldn't forget something like that!"`
+char_rud: `"No, I didn't... You're the one saying that all the time!"`
+char_eva: `"Are you aware?`
+char_eva: ` Stopping a kick just a hair's breadth away is a very high‐level technique."`
+char_rud: `"Sheesh, women your age should be more proper than that!"`
+char_non: `Dad and Auntie Eva's argument looks no different from a couple of brats bickering...`
+char_geo: `"I expect that's because, although they normally act as mothers and fathers,`
+char_geo: ` they turn right back into kids again when they meet their old siblings at these family conferences."`
+char_but: `"You're the one who looks like a real adult, analyzing it all calmly.`
+char_but: ` ......I hope I never turn out like that old bastard.`
+char_but: ` I'd much rather end up as an intellectual adult like you, Aniki."`
+char_geo: `"Like me?`
+char_geo: ` Oh, I still have a long way to go.`
+char_geo: ` I still have very little experience out there in the real world, and I need to work on becoming more bold and sociable.`
+char_geo: ` ...I think you've far surpassed me on all of those counts, Battler‐kun.`
+char_geo: ` I'm sure you'll outstrip me fast enough when you become an adult."`
+char_non: `George‐aniki scratched his head and laughed, as though trying to hide his embarrassment.`
+char_non: `{n}Of course, he was just being humble.`
+char_non: `Aniki entered a university and became an apprentice at Uncle Hideyoshi's company at the same time, studying both academics and how to become a business emperor in parallel.`
+char_non: `Then, right after graduating, he got into Uncle Hideyoshi's company as his father's aide, piling up a lot of real‐life experience as he devoted himself zealously to his work.`
+char_non: `He even has grand dreams, of one day standing on his own and becoming lord of his own domain.`
+char_non: `Aniki is a real paragon of a man, sparing no effort as he strives towards his goal.`
+char_non: ` It's no exaggeration to say that I really respect him.`
+char_non: `And then there's me.`
+char_non: ` I'm nothing at all like Aniki.`
+char_non: `I'm living my happy‐go‐lucky idle high‐school life to the max.`
+char_non: `I've got no dreams for the future!`
+char_non: `{n}I'd like to just sit back, stay cool, and let the money flow in, but of course that could never happen.`
+char_non: `...When Aniki was my age, he had already formed an impressive objective and had started devoting himself towards studying for that goal, so I guess I can't compare at all.`
+char_non: `My dad just says "sure you can study at my company, if you like cleaning toilets".`
+char_non: `Dammit, I'm not gonna be in the debt of that old bastard.`
+char_non: `{n}I'll find my way myself!`
+char_non: `{n}.........I guess that intensity is my one qualification towards adulthood.`
+char_non: `Should I go on one of those self‐searching journeys that are all the rage these days?`
+char_non: `{n}......Well, it's not like I could mooch off my parents for that kind of money...`
+char_hid: `"......hm?! Ohh~!"`
+char_non: `Right then, Uncle Hideyoshi shouted out loudly.`
+char_non: `{n}Uncle's a really nice person on the whole, but he does have a problem controlling the volume of his voice.`
+char_non: `When I looked over, I saw that he was greeting Auntie Rosa, who had come late.`
+char_hid: `"Ohoooooooooh!!!`
+char_hid: ` If it isn't Rosa‐san!`
+char_hid: ` Maria‐chan, long time no see!!"`
+char_mar: `"Long time no seee!`
+char_mar: ` Uu!"`
+char_ros: `"Maria!`
+char_ros: ` Shouldn't that be "It's good to see you again"?`
+char_ros: ` Greet your uncle properly."`
+char_mar: `"Uu.`
+char_mar: ` It's...good to see you again..."`
+char_hid: `"There you go!`
+char_hid: ` Well said!`
+char_hid: ` How about some candy as a reward?!`
+char_hid: ` ......Oh, huh?`
+char_hid: ` Where'd I put 'em..."`
+char_kir: `"Rosa‐san, it's good to see you again.`
+char_kir: ` It's good to see you too, Maria‐chan."`
+char_ros: `"It's been too long, Kyrie nee‐san, Hideyoshi nii‐san."`
+char_ros: `"...And...`
+char_ros: `...oh my, Battler‐kun?!`
+char_ros: ` Look how big you've gotten...!"`
+char_but: `"Ah, come on, hahaha...`
+char_but: ` It's embarrassing hearing that from every person I meet...!"`
+char_rud: `"Hey, Rosa.`
+char_rud: ` You're late.`
+char_rud: ` If the plane was on time, you'd barely have made it..."`
+char_ros: `"I'm sorry.`
+char_ros: ` We had some trouble making our train connection.`
+char_ros: ` So we're waiting on the weather yet again?"`
+char_eva: `"Oh, don't complain.`
+char_eva: ` I much prefer the thirty‐minute plane trip to spending six hours bouncing about on a boat.`
+char_eva: ` Even if we're kept waiting here for an hour, it's still much faster overall."`
+char_hid: `"Maria‐chan's gotten huge too!!`
+char_hid: ` So, how tall are you now?"`
+char_mar: `"Uu!`
+char_mar: ` So, how tall am I now?!"`
+char_non: `Maria parroted Uncle Hideyoshi's question, looking up at her mother.`
+char_non: `I guess she doesn't remember her own height.`
+char_non: `{n}She's probably right in the middle of a growth spurt, so her height must change every month.`
+char_non: `In just a few more years, she'll probably start looking very feminine.`
+char_ros: `"Umm, ...how tall were you the last time you got measured...?`
+char_ros: ` She just keeps getting bigger and bigger.`
+char_ros: ` Don't you?"`
+char_mar: `"Uu!"`
+char_kir: `"I think she's grown a lot since last year.`
+char_kir: ` Let's see, she turned nine years old this year, didn't she?"`
+char_mar: `"Nine years old.`
+char_mar: ` Uu."`
+char_geo: `"That's right, you're nine years old now.`
+char_geo: ` Glad to see you're doing well too, Maria‐chan!"`
+char_geo: `"Up you...`
+char_geo: `...nng...`
+char_geo: ` I guess you've gotten a bit too heavy to play airplane with..."`
+char_but: `"George‐aniki, what a rude thing to say to a lady.`
+char_but: ` Here, I'll do it... Up ya go~..."`
+char_mar: `"......Uu."`
+char_non: `When I went to lift her up in Aniki's place, Maria stiffened defensively, staring suspiciously at my face.`
+char_non: `...Ah, that's right.`
+char_non: ` The last time I met Maria, it was six years ago, and she was only three years old.`
+char_non: `Of course she doesn't remember my face.`
+char_kir: `"Maria‐chan, don't you remember?`
+char_kir: ` It's Battler‐kun.`
+char_kir: ` You used to play together, remember?"`
+char_mar: `".........Uu."`
+char_rud: `"I doubt you'll have any luck.`
+char_rud: ` The last time she met Battler, she was only three.`
+char_rud: ` You don't keep memories at that age."`
+char_non: `She must know everyone's face apart from mine because she meets them every year, but I haven't had contact with the Ushiromiya family for about six years now.`
+char_non: `So, it's no surprise that this nine‐year‐old girl doesn't have any memories of me.`
+char_non: `Even I can only just barely remember her being a three‐year‐old crybaby.`
+char_ros: `"Maria.`
+char_ros: ` This is Battler onii‐chan.`
+char_ros: ` Uncle Rudolf's son.`
+char_ros: ` ...Understand?"`
+char_mar: `"............Uncle's son is...`
+char_mar: ` Uncle's the son...`
+char_mar: ` ............??`
+char_mar: ` ......Uuuu!!"`
+char_non: `That "uu" was probably the sound of her brain breaking, unable to understand the complicated explanation.`
+char_non: `I guess it was a bit too confusing for her.`
+char_geo: `"Maria‐chan.`
+char_geo: ` This is Battler‐kun.`
+char_geo: ` He's your cousin, like me."`
+char_mar: `"......Like George onii‐chan?`
+char_mar: ` ...........................Battler?`
+char_mar: ` Cousin?`
+char_mar: ` ......Uu."`
+char_geo: `"That's right.`
+char_geo: ` You got it."`
+char_non: `This part of Aniki is what makes me really look up to him.`
+char_non: `For someone who isn't married, he's just great at dealing with kids.`
+char_non: `{n}I'm sure that he'll be an indulgent father in the future.`
+char_mar: `"...Battler onii‐chan?"`
+char_non: `Maria looked straight at me with a questioning expression, as though asking whether it was alright to call me that.`
+char_but: `"Yep, that's me, Battler.`
+char_but: ` Nice to meet you, Maria!"`
+char_mar: `"Uu!`
+char_mar: ` Battler!"`
+char_ros: `"Maria!`
+char_ros: ` You mustn't address him without honorifics—call him Battler onii‐chan...!"`
+char_but: `"It's cool, Auntie Rosa.`
+char_but: ` I don't sweat the small stuff.`
+char_but: ` Right, Maria?!`
+char_but: ` We're buddies on a first‐name basis, us two, aren't we?!"`
+char_mar: `"Battler, Battler, Battleeerrr!`
+char_mar: ` Uu‐uu!"`
+char_but: `"That's right, Maria, Maria, Mariaaa!`
+char_but: ` Uu‐uu!!"`
+char_non: `We horsed around for a while to make up for the six‐year gap in our friendship.`
+char_non: `She probably still thinks of me as nothing more than a big new friend, but things'll probably work out as we get to know each other again.`
+char_non: `But I'm surprised.`
+char_non: ` She's just the way I remembered her being six years ago.`
+char_non: `Seems that people just don't change that much after all.`
+char_non: `{n}I'm a bit happy that she's still the pure, innocent girl I remember.`
+char_non: `Her name is written {p:0:真里亞}.`
+char_non: `{n}...That one's not so difficult to read.`
+char_non: ` Of course, it says "Maria".`
+char_non: `{n}The third character looks like a cross, which is pretty cool.`
+char_non: `Her feelings don't usually show up on her face, so it can be difficult to know just what she's thinking, but that's just how she looks on the outside.`
+char_non: `{n}On the inside, she's just a sweet, normal girl.`
+char_non: `Then there's Maria's mother, Auntie Rosa.`
+char_non: `{n}She's my dad's younger sister.`
+char_non: `Rosa is written {p:0:楼座}.`
+char_non: ` ...Here's a name that's totally not Japanese.`
+char_non: `Sorry to say it, but her name's almost as ridiculous as Dad's...`
+char_non: ` I've got to respect her for not ending up as screwed up as he is.`
+char_non: `...When I think about it, all the names in my family sound foreign.`
+char_non: `{n}Just why is Grandfather so obsessed with this?`
+char_non: `Because of him, even us grandchildren have to put up with this weird naming sense.`
+char_non: `{n}It's even more annoying since Grandfather's own name is perfectly normal.`
+char_non: `Anyway, there's one thing about Auntie Rosa that's a relief compared to the other family members.`
+char_non: `The old bastard and Auntie Eva have this annoying urge to tease and mock people all the time,`
+char_non: ` but even though she shares their blood, Auntie Rosa isn't like that at all.`
+char_non: `She has the most common sense among all the siblings.`
+char_non: `Like Uncle Hideyoshi, she's a kind aunt who'll always be on the kids' side.`
+char_non: `......However, possibly because she's more strict as a parent, she's not liberal with handing out spending money like Uncle Hideyoshi is.`
+char_non: `Alright.`
+char_non: ` Now we have the entire group of family members who are going to board the plane.`
+char_non: `As though it had waited for us all to gather, an announcement rang out through the lobby.`
+char_non: `"Our apologies for the wait.`
+char_non: ` Boarding will now commence for flight 201 to Niijima.`
+char_non: ` We ask that the passengers please form two lines in front of the counter, behind the white line."`
+char_rud: `"Rosa, you still haven't gone through boarding procedures, right? Hurry up."`
+char_ros: `"Oh no...!`
+char_ros: ` Maria, come on!"`
+char_mar: `"Uu!"`
+char_non: `We had to go through a metal detector before going out on the runway.`
+char_non: `Our small plane wasn't as massive as an international flight, but it was still a plane.`
+char_non: ` A staff member holding a metal detector checked us all.`
+char_non: `Once all of us cleared the check, we followed the staff member out onto the runway.`
+char_non: `Come to think of it, everyone here is in the Ushiromiya family.`
+char_non: `It's like this is a reserved charter flight or something.`
+char_non: `Our group stopped in front of the entrance to the airplane.`
+char_non: `{n}Then, our guide turned around and spoke, looking down at the passenger list as she did.`
+char_non: `"Boarding will now commence.`
+char_non: ` As I call out the names on the passenger list,`
+char_non: ` please take your seats in order, starting from the front row on the right side and going right to left, then onto the next row.`
+char_non: ` I will now begin reading the passenger list.`
+char_non: ` Ushiromiya Hideyoshi‐sama!"`
+char_hid: `"Oh, I'm first!`
+char_hid: ` Right here!`
+char_hid: ` ...By the way, do you have the candies, Eva?`
+char_hid: ` I've been lookin' all over for 'em, but I can't find 'em."`
+char_non: `"Ushiromiya Eva‐sama."`
+char_eva: `"They're in my handbag.`
+char_eva: ` I'll get them once we're inside the plane."`
+char_non: `I've heard that candies are a good way to protect your ears from hurting due to variations in atmospheric pressure when landing or taking off.`
+char_non: ` That's probably what they're talking about.`
+char_but: `"...Hope I get a window seat!"`
+char_geo: `"Hahaha, don't worry.`
+char_geo: ` There aren't any other kinds of seats."`
+char_non: `According to George‐aniki, there are apparently only two lines of seats.`
+char_non: `Yep, it's a small plane alright...`
+char_non: ` .........It isn't really going to shake...is it...?`
+char_non: `"Ushiromiya George‐sama."`
+char_geo: `"Right here.`
+char_geo: ` Don't worry, Battler‐kun.`
+char_geo: ` It won't shake too much."`
+char_non: `"Ushiromiya Battler‐sama."`
+char_but: `"A‐Aniki, how much is "not too much"?!`
+char_but: ` You can just swim if you fall from a boat, but if a plane crashes you're screwed, right?!`
+char_but: ` We all get our own parachutes in our seats, don't we?`
+char_but: ` Wait, we don't?!"`
+char_non: `"Ushiromiya Rudolf‐sama."`
+char_rud: `"Come on, Battler, quit being a wuss and get in."`
+char_but: `"Ow! Dad!`
+char_but: ` Don't push me!`
+char_but: ` We don't get parachutes!"`
+char_non: `"Ushiromiya Kyrie‐sama."`
+char_kir: `"Alright, stop fooling around.`
+char_kir: ` Let's move along."`
+char_rud: `"Ow! Kyrie!`
+char_rud: ` Don't push me!`
+char_rud: ` This blockhead isn't moving forward!"`
+char_non: `"Ushiromiya Maria‐sama."`
+char_mar: `"Uu!`
+char_mar: ` Forward, forward!"`
+char_non: `"Ushiromiya Rosa‐sama."`
+char_ros: `"Maria!`
+char_ros: ` Keep quiet..."`
+char_non: `"This is your pilot, Kawabata.`
+char_non: ` We'd like to thank you for taking New Tokyo Aviation's flight 201 today.`
+char_non: ` We estimate that the flight to Niijima Airport will take about twenty minutes."`
+char_non: `"We are receiving reports of atmospheric turbulence.`
+char_non: ` There might be some shaking of the aircraft, so we ask that you do not unfasten your seat belts after takeoff."`
+char_but: `"A‐Aniki, did that guy just say we needed to wear seatbelts?!`
+char_but: ` In a jumbo jet, they let you undo them after takeoff!`
+char_but: ` So it's gonna shake so much we can't take them off?!"`
+char_but: `"Dammit, you tricked me, it is going to shake after all!`
+char_but: ` Where are the parachutes?!`
+char_but: ` I knew I should've taken the boooooaaaaat!!"`

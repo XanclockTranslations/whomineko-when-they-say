@@ -1,0 +1,856 @@
+char_geo: `"............Unbelievable.`
+char_geo: ` ......Are you...saying that's the truth?"`
+char_sha: `"......Yes.`
+char_sha: ` ......We described everything as we saw it."`
+char_non: `George folded his arms and started humming again.`
+char_non: `{n}...And the kitchen was once again absorbed by a long silence.`
+char_goh: `"George‐sama, I understand well why you aren't able to believe it so suddenly.`
+char_goh: ` ...After all, ...even though I'm sure I saw it with my own eyes, I still don't know what it was I saw..."`
+char_goh: `"I'm sure I saw it.`
+char_goh: ` And I'm sure I even got into a scuffle with it!`
+char_goh: ` And yet, ......I almost feel like it was all an illusion..."`
+char_geo: `"...I see.`
+char_geo: ` ......So that's why you couldn't go into the details in front of Auntie Rosa."`
+char_geo: `"......If you had actually told her what you just told me, then it would have created even bigger problems.`
+char_geo: ` ...Yes, I now understand that Genji‐san handled it all in a remarkably composed fashion."`
+char_gen: `"...............If only I had the power to explain it."`
+char_non: `George had not actually seen it, so even when pressed to believe, he just couldn't imagine it.`
+char_non: `......It was only natural.`
+char_non: ` Because even the people who had actually seen it had ended up questioning themselves as to what it was...`
+char_geo: `"...Let me back up a bit.`
+char_geo: ` ......Shannon, you said that when you thought Kanon‐kun was an impostor, you went to pick up some spider webs, right?`
+char_geo: ` Why did you do that?"`
+char_goh: `"......That's right, I was thinking about that as well.`
+char_goh: ` Why spider webs?"`
+char_sha: `"I heard it once from Kumasawa‐san.`
+char_sha: ` ......A long time ago, evil spirits lived in Rokkenjima, and they, umm, feared spider webs.`
+char_sha: ` And they say there's a legend that people treasured spider webs as wards against magic."`
+char_sha: `"......So I, umm, ......just went with it.`
+char_sha: ` I, I think I was also a bit confused..."`
+char_gen: `"............Interesting story.`
+char_gen: ` ...Kumasawa was very knowledgeable about those kinds of tales."`
+char_geo: `"Spiders are useful, after all.`
+char_geo: ` ......Certainly, the existence of such a creed isn't strange at all."`
+char_sha: `"............I'm sure...`
+char_sha: `...that torii shrine was entrapping the power of those evil spirits.`
+char_sha: ` ...And since the spirit mirror was broken, that power revived...`
+char_sha: ` ......I have no doubt that it became the power to make {f:5:Beatrice}‐sama revive..."`
+char_sha: `"............If I,`
+char_sha: ` ......while I was in that weak‐hearted state,`
+char_sha: ` .........hadn't done such an outrageous thing.........`
+char_sha: ` Uuuuughh...!!"`
+char_geo: `"...Shannon.`
+char_geo: ` You don't have to worry about that anymore.`
+char_geo: ` ......I don't blame you for that."`
+char_non: `Since long ago, Shannon had often hinted at a certain occult aspect regarding how she had met George.`
+char_non: `While he did lend an ear to her tales, George had always thought that this was typical of a girl, associating love with fate, chance, and miracles.`
+char_non: `......George had thought that breaking the spirit mirror offered to the torii shrine was going a little too far,`
+char_non: ` but he had forgiven her, laughing it off as just a little prank she had done because she had seriously desired a relationship with him.`
+char_non: `......Just breaking a mirror in some musty shrine wouldn't change the fate of our meeting.`
+char_non: `And that would never cause any curse.`
+char_non: `{n}I remembered cheering her up, saying it was only a musty mirror covered in dust.`
+char_goh: `"...After I started working on this island, many of my coworkers told me of the existence of a spirit called {f:5:Beatrice}‐sama."`
+char_goh: `"In the beginning, I thought it was ridiculous,`
+char_goh: ` but since it appeared indiscreet to comment on that,`
+char_goh: ` ...outwardly, I conducted myself as if I also believed it.`
+char_goh: ` ......But, it's astonishing, she really—"`
+char_sha: `"Existed.`
+char_sha: ` ...{f:5:Beatrice}‐sama was in this mansion all along.`
+char_sha: ` ......But {f:5:Beatrice}‐sama had lost her powers, ...and could not appear before us.`
+char_sha: ` She did "exist" all along.`
+char_sha: ` ...It's just that we couldn't {y:1:‘see’}{n:1:see} her."`
+char_geo: `"............I'd like to hear Genji‐san's opinion."`
+char_gen: `".........I do not have any opinion.`
+char_gen: ` .........All that I would like to say is......that when it happened......there were five of us here."`
+char_gen: `"......And I thought that Kanon had returned through the back door.`
+char_gen: ` Then, we carried him to the servant room,`
+char_gen: ` .........something happened, and Doctor Nanjo and Kumasawa passed on."`
+char_gen: `"......That is all.`
+char_gen: ` ......We have already explained everything we saw.`
+char_gen: ` ...I understand that it would be very unreasonable to try to force you to believe it when you did not see it yourself."`
+char_goh: `"How could he believe it?`
+char_goh: ` .........I thought that it was undoubtedly Kanon‐san."`
+char_goh: `"......But when that thing got up from the bed,`
+char_goh: ` ...and, that's right,`
+char_goh: ` started to grope about that wound in its chest like this,`
+char_goh: ` ......I felt that it wasn't Kanon‐san, but some different being."`
+char_goh: `".........You probably can't understand, George‐sama.`
+char_goh: ` ...The terror of that moment when a person you thought you knew well exposes that he is in fact someone else...`
+char_goh: ` .........I can't explain.`
+char_goh: ` ...I can't explain it at all..."`
+char_geo: `"I understand.`
+char_geo: ` ......I can tell just how dreadful a thing must have happened to cause you such a shock."`
+char_goh: `"......Thank you very much,`
+char_goh: ` ...George‐sama."`
+char_non: `And they all went silent again.`
+char_non: `No matter how many times she was consoled, Shannon kept on crying, weeping that listening to the witch's sweet whispers and breaking the spirit mirror on that day had been where this had all gone wrong...`
+char_geo: `"..................The witch that whispered to you...loses her powers if that mirror exists?"`
+char_sha: `"...I think she explained it to me a little, but I don't really remember.`
+char_sha: ` ......I think she said something about how she couldn't release her power if that mirror existed."`
+char_geo: `"......What happened to this mirror that you broke?"`
+char_sha: `"I don't remember.`
+char_sha: ` I suppose, ...since I left it broken, ...it would just have been lying there the way I left it."`
+char_geo: `"......So when, as they say, the reef was struck by lightning and disappeared, it would have gone to the bottom of the ocean...`
+char_geo: ` Well, I'll bet picking it up and taping it together wouldn't have made it effective again anyway.`
+char_geo: ` Hahahahaha."`
+char_sha: `".........Truly, .........what.........have I done........."`
+char_geo: `"......Sorry.`
+char_geo: ` I shouldn't have said that."`
+char_non: `He didn't know whether Shannon breaking the mirror had really been what had started everything off.`
+char_non: `The servants didn't go so far as to blame Shannon, but it seemed that they believed that it had been the trigger.`
+char_non: `...But even now, there was no way George could believe that much.`
+char_non: `......Even if he was told a story about witches and evil spirits, it just sounded fake to him.`
+char_non: `Even so, he listened seriously to Shannon's story, trying to find a hint that might relieve at least a little of the pain in her heart.`
+char_goh: `"Come to think of it, .........I think it is different from the one in that torii,`
+char_goh: ` ...but I have heard that Madam keeps a spirit mirror as a charm."`
+char_geo: `"......Oh?`
+char_geo: ` Aunt Natsuhi does?"`
+char_goh: `"Yes.`
+char_goh: ` I believe she received it as one of the mementos of her grandfather or something, and that it held a very strong magic repelling power, a "historically rich"(?)`
+char_goh: ` spirit mirror or something..."`
+char_gen: `"............I have also heard the same story.`
+char_gen: ` ......Something about the mirror having the power to reflect that which is not good and send it back."`
+char_geo: `"If we had that spirit mirror, ......could we resist the witch, {f:5:Beatrice}?"`
+char_sha: `"Huh......"`
+char_non: `When George proposed this, the servants looked up.`
+char_geo: `"......The shrine and the torii where it was enshrined are gone now, but the important thing is that there is still another spirit mirror."`
+char_geo: `".........I've heard that Aunt Natsuhi's family is descended from Shinto priests.`
+char_geo: ` Maybe that isn't just a simple mirror."`
+char_goh: `"I, I believe I have heard Madam say that she keeps it safe in a treasure box.`
+char_goh: ` ...It might not be very large."`
+char_sha: `".........I don't think its size is a problem.`
+char_sha: ` Even the mirror I broke looked small and insignificant at a glance."`
+char_geo: `"............If our opponent is occult, then we too must resist by using occult measures.`
+char_geo: ` ...If we just sit around here, nothing will be resolved.`
+char_geo: ` It's worth trying, if only for some peace of mind."`
+char_non: `Of course, this didn't mean that George had accepted the witch.`
+char_non: `{n}......However, he thought it would be necessary to have some kind of purification ceremony to heal the wounds in Shannon's heart.`
+char_non: `...So this story about Natsuhi's spirit mirror was just what the doctor ordered.`
+char_geo: `"Let's go.`
+char_geo: ` ...I won't suggest going to finish off the witch or something so outrageous.`
+char_geo: ` ...However, I think it would be nice if we had something that repels magic to protect us from the witch."`
+char_geo: `"......Maria‐chan told me about this earlier, but the door to Grandfather's room is supposed to be able to repel magic, right?`
+char_geo: ` ......As expected of Grandfather.`
+char_geo: ` He had sufficient defense against the occult as well.`
+char_geo: ` .........Let's go.`
+char_geo: ` To Aunt Natsuhi's room!"`
+char_goh: `"Bu‐but, I think Madam's room is locked...!`
+char_goh: ` We returned the master keys to Rosa‐sama,`
+char_goh: ` ...and even the servant room, which contains the key box, has been locked up..."`
+char_geo: `"......In that case, Aunt Natsuhi should have been walking around with that key.`
+char_geo: ` ...Aunt Natsuhi's body should still be in the chapel.`
+char_geo: ` It will be bad to disturb it ourselves before the police come, but we can fully explain that."`
+char_goh: `"However...the entrance to the chapel is also locked..."`
+char_geo: `"Hahaha, Gohda‐san, are you not strong enough to break a single glass window?`
+char_geo: ` You could smash it with a rock from around there."`
+char_sha: `"W‐would it, ...umm, be okay to break the window of that important chapel...?"`
+char_geo: `"When Grandfather gets mad at us, I'll take responsibility.`
+char_geo: ` ......From the beginning, I was planning on fighting with the whole Ushiromiya family today.`
+char_geo: ` So that they would permit my engagement with you.`
+char_geo: ` ...So I am already prepared."`
+char_geo: `"Let's break the glass.`
+char_geo: ` Then, let's borrow the key from Aunt Natsuhi's body."`
+char_non: `It seemed that George's claim that he would take responsibility had given the servants a great amount of courage.`
+char_non: `...Shannon and Gohda glanced at each other, and then looked at George's face again.`
+char_geo: `"Grandfather knows everything about the occult.`
+char_geo: ` I'm sure he'll understand if it's about the power of Aunt Natsuhi's spirit mirror.`
+char_geo: ` Don't worry, he won't get mad at you."`
+char_sha: `".........I wonder if Madam's mirror...`
+char_sha: `...can really seal {f:5:Beatrice}‐sama...`
+char_sha: `...once again."`
+char_geo: `"I don't know.`
+char_geo: ` But I think it's worth trying.`
+char_geo: ` ...So let's go.`
+char_geo: ` It's getting darker and darker outside.`
+char_geo: ` Let's hurry!"`
+char_geo: `"Shannon, get a flashlight!`
+char_geo: ` Gohda‐san, find something that looks like it can break the glass!`
+char_geo: ` Genji‐san, sorry, but could you get us some umbrellas?"`
+char_non: `"""Yes!"""`
+char_non: `The servants, who had been rejected by Rosa, started to move once again, having gained a new master.`
+char_non: `{n}George, who was normally calm and gentle, was now exuding a commanding presence.`
+char_non: `Shannon checked the emergency flashlight.`
+char_non: `{n}Just in case, she changed the batteries.`
+char_non: `Gohda was examining several heavy‐looking cooking tools.`
+char_non: `{n}...Normally, a self‐respecting chef like himself wouldn't want to use them for anything other than their intended purpose.`
+char_non: `But now he was frantic to fulfill the orders of the one he accepted as his master.`
+char_non: `After some deliberation, he took a large, weighty frying pan.`
+char_non: `Genji removed several umbrellas from the umbrella stand set in the corner near the back door of the kitchen.`
+char_non: ` ...He took three of them.`
+char_geo: `"Genji‐san...?"`
+char_gen: `".........I cannot go with you.`
+char_gen: ` ......It would be embarrassing for me, as the head servant of the Ushiromiya family, if we were all absent when an order was to be given."`
+char_goh: `"Wh‐...what in the world, Genji‐san?!`
+char_goh: ` Even you should understand how dangerous it would be to be alone in this mansion now...!"`
+char_gen: `"......I can't go.`
+char_gen: ` ......I must stay here so the Master can call me at any time."`
+char_sha: `"Genji‐sama......"`
+char_gen: `"......Go, and serve George‐sama.`
+char_gen: ` Don't make any blunders.`
+char_gen: ` Gohda, I'm counting on you to be an example."`
+char_goh: `"Ye‐.........yes.`
+char_goh: ` ...Leave it to me."`
+char_sha: `"I will surely fulfill my duty..."`
+char_geo: `"Is this really alright, ...Genji‐san?"`
+char_gen: `"Yes.`
+char_gen: ` .........I am already at this age.`
+char_gen: ` All the days of my life until now have been in repayment for the Master's favor."`
+char_gen: `"...Whatever happens to a senile old man like myself will be decided by the roulette.`
+char_gen: ` I think I would like to sit here and see what the result will be with my own eyes."`
+char_non: `As Genji said that, he sat down.`
+char_non: `As though saying that he didn't intend to discuss this anymore, ...his gaze fell to the chessboard that he had played on with Nanjo.`
+char_non: `When George saw this, he decided to leave Genji there.`
+char_geo: `"Let's go, everyone.`
+char_geo: ` It looks like the wind is a little softer right now!"`
+char_non: `George took an umbrella and dashed out into the hallway, and Shannon and Gohda chased after him, each holding a tool.`
+char_non: `......After they flew out of the room, Genji quietly extended his hand to the side of the chessboard.`
+char_non: `.........He softly pulled something that was there towards himself, and hid it by covering it with his palm.`
+char_non: `Genji killed his breathing even more than before.`
+char_non: `{n}.........As he did, .........something flashed gold.`
+char_non: `From inside an ice pail set on the counter, ...a small gold butterfly appeared, softly and silently.`
+char_non: `It was almost as though it had watched George and the rest leave, and was trying to secretly follow them......`
+char_non: `It happened in an instant.`
+char_non: `...The gold butterfly, elegantly flapping its wings, was pinned against the wall by the knife Genji had thrown, just like a butterfly in a bug collection.`
+char_non: `After the gold butterfly beat its wings several times, looking like it was in pain, it accepted the fact that it couldn't break free, became fine gold powder and smoke, and disappeared as though dissolving into water...`
+char_non: `Genji's gaze was still lowered at the chessboard, as though nothing had happened.`
+char_non: `......Maybe he would think up a brilliant move very soon.`
+char_non: `But no matter what move he made, his opponent would not be able to respond for all eternity.`
+char_non: `Even though he knew that, Genji searched for a brilliant move.`
+char_non: `......It must have been the perfect way to kill time, during the short period before some fate would be given to him...`
+char_non: `......He didn't know what result the roulette would bring about.`
+char_non: `{n}But that decision would be made very soon.`
+char_non: `.........No one could interfere with the tumbling roulette ball...`
+char_non: `The door to the parlor was not only locked, but blocked with a barricade made of sofas and the like.`
+char_non: `So Auntie Rosa seemed to suspect that if a suspicious person appeared, it would be by breaking the window.`
+char_non: `Sitting on a one‐person sofa, her back to the door, she continued to hold onto her gun.`
+char_non: `I didn't know what was what anymore, and so, my body and mind worn out, I was just playing with Maria however she wanted.`
+char_non: `In Maria's words,`
+char_non: ` ...{f:5:Beatrice} was testing us to see whether we could solve the epitaph of the gold, so we had to challenge this riddle.`
+char_non: `In the beginning, I had been a little interested, and had tried to solve it, but I didn't have a clue what those weird paragraphs even meant in the first place.`
+char_non: `......I didn't doubt that there was some riddle hidden there, but I couldn't imagine that I would solve it by chance.`
+char_non: `In the middle part of the epitaph, there were lines saying to journey to the Golden Land, over the course of the first to the tenth twilight.`
+char_non: `On the first twilight, sacrifice the six chosen by the key.`
+char_non: `{n}On the second twilight, those who remain shall tear apart the two who are close.`
+char_non: `It was obvious that this hinted at the first six murders that had already occurred in the chapel, and Jessica and Kanon‐kun's murders.`
+char_non: `If this was being followed, we would have to be prepared for yet five more people to be killed.`
+char_non: `On the fourth twilight, gouge the head and kill.`
+char_non: `{n}On the fifth twilight, gouge the chest and kill.`
+char_non: `{n}On the sixth twilight, gouge the stomach and kill.`
+char_non: `{n}On the seventh twilight, gouge the knee and kill.`
+char_non: `{n}On the eighth twilight, gouge the leg and kill.`
+char_non: `The bodies of Doctor Nanjo and Kumasawa baa‐chan hadn't been found.`
+char_non: `...However, if we reasonably assumed that they were the sacrifices of the fourth and fifth twilights,`
+char_non: ` ......they would surely be found in a pitiful state, with their head and chest gouged.`
+char_non: `In which case, could we expect that three more would be gouged in the stomach, knee, and leg, and be killed?`
+char_non: `......Who would that be?`
+char_non: `{n}...I looked around the room, noticing that there were three people here, but, how should I say it, my emotions seemed paralyzed.`
+char_non: `...Strangely, I didn't find it terrifying.`
+char_non: `Maria noticed me, with my upper body entrusted to the sofa, gazing lazily up at the ceiling.`
+char_non: `...Apparently, she felt I was slacking off in my riddle‐solving.`
+char_non: `{n}She got mad at me, and told me I wasn't being serious enough.`
+char_but: `"......Hey, Maria."`
+char_mar: `"Uu...?"`
+char_but: `"What was it again, that {f:5:Beatrice} said she would do if we solved this?"`
+char_non: `I was sure that the witch had written in her letter that she would give up on collecting the interest, or something abstract like that.`
+char_non: `...I was optimistically taking that to mean that she would give up on killing the whole family,`
+char_non: ` ......but was it really written with that meaning?`
+char_non: `I didn't really feel that solving this riddle would actually save us.`
+char_non: `.........I thought that even if we did solve it, that would be doing just what the culprit wanted us to, and it would all be a wasted effort...`
+char_mar: `"No, that's not true.`
+char_mar: ` ......If you solve the epitaph, Beato's ritual will be over.`
+char_mar: ` So there won't be any need for more people to die."`
+char_but: `"......Really?`
+char_but: ` Isn't that rule just something she made up...?`
+char_but: ` If we solve this riddle, ...we'll probably know the location of Grandfather's hidden gold.`
+char_but: ` ...She'll surely go after that and—"`
+char_mar: `"Uu.`
+char_mar: ` Won't."`
+char_but: `"...How...can you be so sure?"`
+char_mar: `"The gold was Beato's from the start.`
+char_mar: ` She won't go after something that's hers."`
+char_but: `"......Then, ...then why is Beato giving us all these big hints?`
+char_but: ` ......Not just that, why did she even set up this game‐like thing?"`
+char_mar: `"Magic needs risk."`
+char_but: `"......Risk.`
+char_but: ` ...I don't really get what you mean."`
+char_mar: `"For example, in a marathon,`
+char_mar: ` ......do you think that a medal that anyone can get by running the whole thing is worth the same as the medal given only to the person who gets first...?"`
+char_but: `"No, I don't...`
+char_but: ` ......What are you trying to say? That in the end, she's just playing around?`
+char_but: ` Purposefully giving us a chance—"`
+char_mar: `"Noooooo.`
+char_mar: ` That's what magic {i:is}.`
+char_mar: ` No matter how great the magic, there are always risks and weak points.`
+char_mar: ` No, there has to be."`
+char_but: `"...I don't get it when you call it magic, ...but if I think about it as a gamble, I can understand a little.`
+char_but: ` If you aren't prepared to lose big, then you can't win big.`
+char_but: ` And the slimmer the chances of winning, the bigger the payoff."`
+char_mar: `"That's it, exactly.`
+char_mar: ` That's why Beato properly explained the risk of the ritual to everyone.`
+char_mar: ` That's why, if this riddle is solved, the ritual will be interrupted as promised.`
+char_mar: ` After all, if she breaks her promises, then there wouldn't be any risk."`
+char_but: `"If we solve this, ...will she really keep her promise?"`
+char_mar: `"Why are flowers beautiful even though they wither?`
+char_mar: ` Why is it that an artificial flower isn't beautiful, even if it's so elaborate you can't tell the difference by looking?"`
+char_mar: `"Humans can bring about miracles by gambling their death.`
+char_mar: ` If there were an undying human, that person would have no way of bringing about a miracle.`
+char_mar: ` .........It's the same for us, for life, for witches and for rituals.`
+char_mar: ` If we don't bear a risk, we can't achieve anything."`
+char_but: `"......What do we do if we solve the riddle?`
+char_but: ` Do we press our answer buzzers and put a hand in the air, tell the witch our answer and see what she says?"`
+char_mar: `"Uu.`
+char_mar: ` I don't know about that.`
+char_mar: ` But, if we solve it, the ritual will surely end automatically."`
+char_but: `"........................`
+char_but: ` ...You sure know a lot, Maria.`
+char_but: ` ...Did you learn all of that......from {f:5:Beatrice}?"`
+char_mar: `"Uu."`
+char_non: `So, ...if you don't bear a risk, nothing can be gained.`
+char_non: ` That is doubtlessly the way of the world, ......but it was in conflict with the chessboard theory style of thinking that I liked.`
+char_non: `A move in chess is always a search for the best play, that minimizes the risk, and promises an advantageous turn of events.`
+char_non: `You don't trust your plays to chance, like in gambling.`
+char_non: ` ......That's right, there's no room for gambling in an intellectual game.`
+char_non: `And yet, this person called {f:5:Beatrice} was carrying out such an outrageous crime,`
+char_non: ` ...or maybe a ritual,`
+char_non: ` ......while purposefully imposing conditions for her own loss and announcing them to us.`
+char_non: `In chess, you always play the best move.`
+char_non: `{n}So by standing in your opponent's position, you can predict their next move.`
+char_non: `...However, you couldn't say for sure that {f:5:Beatrice}'s moves were always the best moves.`
+char_non: `I thought she was probably making us focus on the epitaph as a smokescreen, to mislead us about something.`
+char_non: `......But Maria said that of all things was impossible.`
+char_non: `She said that this was a genuine risk that the witch had taken, and therefore proof that this was a formal magical ritual.`
+char_non: `.........I can't understand this witch called {f:5:Beatrice}.`
+char_non: `She must be committing this chain of murders with some goal in mind,`
+char_non: ` ......so why would she deliberately expose the conditions for her own defeat?`
+char_non: `......No matter how I flip over the chessboard and think from my opponent's perspective, ......I can't understand why she would give up if this riddle was solved.`
+char_non: `Isn't it almost as though {f:5:Beatrice}...doesn't care whether she wins or loses?`
+char_non: ` It's natural that chessboard reasoning wouldn't work if you played chess against an opponent like this...`
+char_non: `...I don't understand, I don't understand.`
+char_non: ` ......What is {f:5:Beatrice} after that's making her commit this crime?`
+char_non: `If she just wants to massacre us all, she could just do it secretly, without this whole crazy setup.`
+char_non: ` There was no need for that scrupulous advance notice, dramatic suggestions of locked rooms, or anything.`
+char_non: `...It's all over‐dramatized.`
+char_non: `{n}I don't get the point at all.`
+char_non: `As long as I continue to think of {f:5:Beatrice} as a greedy human culprit, will I be unable to understand anything?`
+char_non: `...If I don't accept her as a witch, will I be unable to even set the pieces on the chessboard at all......?`
+char_non: `......If she really is a witch, and everything Maria has said is true...`
+char_non: `...then there's only one thing we should have been doing.`
+char_non: `{n}...We shouldn't have bothered with any of the reasoning or the discord or the searching for the culprit.`
+char_non: `We should have all gathered in the dining hall, and pooled our knowledge to solve the riddle.`
+char_non: ` If we had pooled the knowledge of that many people, maybe we would have been able to at least grasp a thread of the answer...`
+char_non: `We greedy humans, desiring to gain something more than one another, ......never pooled our knowledge, and were being offered up as sacrifices one by one.`
+char_non: `.........In the end, were we humans getting what we deserved?`
+char_non: ` We thought we were thinking, ...but we were actually thinking only of our greedy selves.`
+char_non: `In the end, chessboard theory is a technique of thinking where you project yourself on your opponent.`
+char_non: ` ......So greedy people look inside their opponents and see their greedy selves...`
+char_non: `I looked vaguely at Auntie Rosa.`
+char_non: `She was probably tired from being under all this tension the whole time.`
+char_non: `{n}She wasn't sleeping, but she was continually staring vaguely at some point off in space.`
+char_non: `Auntie Rosa had proclaimed that she couldn't trust anyone who had not been killed.`
+char_non: `......Auntie Rosa's chessboard thinking......saw herself inside her opponent.`
+char_non: `...In other words, Auntie Rosa...`
+char_non: `...might be an isolated woman, unable to trust anyone and unable to let her guard down.`
+char_non: `...Long ago, I think I heard a bit about it from my dad.`
+char_non: `{n}Auntie Rosa had originally been a very obedient child.`
+char_non: `......But because her age was so far separated from her other siblings,`
+char_non: ` and because her confrontational siblings had often made conflicting demands of her,`
+char_non: ` she had been going through psychological hardship ever since she was young.`
+char_non: `Apparently, when she had taken the side of one sibling, often another gave her a hard time for it.`
+char_non: `Certainly Auntie Rosa had said many things today that could be taken as abusive language.`
+char_non: ` .........But those were words that had been engraved into her vocabulary because they had been showered upon her as well.`
+char_non: `The many abusive words that she had spoken......were also the same abuse that Auntie Rosa had been showered with in the past...`
+char_non: `...Now that I think about it, I have the feeling that her style of speech today has had occasional traces of Uncle Krauss and Auntie Eva in it.`
+char_non: `......I'd just assumed the similarity came from being siblings, ...but maybe that wasn't the case...`
+char_non: `For the first time, I was able to sympathize from my heart with Auntie Rosa, who I had come to think of as being only gentle...`
+char_non: `Then, what about Maria...?`
+char_non: `{n}Maria had been claiming something for a while.`
+char_non: `If we could solve the riddle that the witch had presented to us, the ritual would be halted and we would definitely be saved.`
+char_non: `And I think she also said that {f:5:Beatrice} would never break a promise she made.`
+char_non: `......So that describes Maria herself.`
+char_non: `{n}She's the one with the most innocent heart, who would never break a promise...`
+char_non: `So she believed that {f:5:Beatrice} wouldn't break a promise either.`
+char_non: `{n}She could believe that.`
+char_non: `But wasn't that just an image of {f:5:Beatrice} that Maria imagined...?`
+char_non: ` There's no proof that the real {f:5:Beatrice} definitely keeps her promises, right...?`
+char_bea: `"`
+char_bea: `{p:1:I keep my promises}.`
+char_bea: ` If you solve the riddle of the epitaph, you shall be able to reach the Golden Land.`
+char_bea: ` When that happens, the ritual will end.`
+char_bea: ` No more people will die."`
+char_but: `"......So you're saying a complete monster like you follows the rules?"`
+char_bea: `"I won't deny that I am brutal and unjust and a monster."`
+char_bea: `"......However, I am a witch.`
+char_bea: ` I use magic.`
+char_bea: ` In order to use magic, there are some rules that must be followed.`
+char_bea: ` ...It is precisely because I am a witch that I cannot neglect those.`
+char_bea: ` You should believe at least that much."`
+char_but: `".....................`
+char_but: ` ......Even after pulling all this shit, you're still telling me to trust in at least the rules?"`
+char_bea: `"......I do play tricks.`
+char_bea: ` Of course, I also deceive people.`
+char_bea: ` That's no different from humans.`
+char_bea: ` ......But not once have I disregarded something that I have said as a promise."`
+char_bea: `"What about you humans?`
+char_bea: ` Do you always keep your promises?"`
+char_but: `"............Given that we have catchphrases like "keep your promises",`
+char_but: ` ...it's doubtful that we always follow them as we should."`
+char_bea: `"From my perspective, humans are much more selfish monsters.`
+char_bea: ` ......There's nothing as doubtful as a human's promise.`
+char_bea: ` Even I sometimes make contracts with humans, but I doubt you can even imagine how strict an agreement must be made just to grant a single foolish wish."`
+char_bea: `"...If there's even a small loophole, they'll immediately say something like "increase the number of wishes to one hundred", or "try transforming into a tiny speck"."`
+char_but: `"......Dad often tells me something.`
+char_but: ` He says that there's nothing as scary as contracts.`
+char_but: ` ......He said it's only natural that people who agree without reading them thoroughly will be chewed to the bone.`
+char_but: ` ...He made a killing through vice."`
+char_bea: `"............Realize this.`
+char_bea: ` People do not know of fraud from birth.`
+char_bea: ` ...They suffer it somewhere.`
+char_bea: ` And so it is learned."`
+char_but: `"..........................."`
+char_bea: `"Yes, the sins of the human world, which must be forced on one another.`
+char_bea: ` ......Now who was the witch I heard that from...?`
+char_bea: ` Oh well.`
+char_bea: ` ......I'm not as heartless as you think, you see?`
+char_bea: ` *cackle*cackle*cackle*!"`
+char_but: `"Liar!!`
+char_but: ` All these people, and it's not even the first time!!`
+char_but: ` And you did it in such a horrible way too, how could you not be heartless?!!"`
+char_but: `"You say you keep your promises?!`
+char_but: ` Don't say stuff like that!!`
+char_but: ` I won't accept you.`
+char_but: ` Never.`
+char_but: ` I believe that not giving that up is the only way I can resist you!"`
+char_bea: `"............I see.`
+char_bea: ` So you're saying that this eternal torment will be the same for me.`
+char_bea: ` .........*cackle*cackle*cackle*cackle*."`
+char_bea: `"......Maybe so.`
+char_bea: ` One thousand years is a long time......`
+char_bea: ` Maybe a witch's true strength is decided not by their magical power, but by their endurance.`
+char_bea: ` ...Yes, it explains how terrifying Lady Bern is."`
+char_but: `"Damn you, babbling on and on about incomprehensible stuff.`
+char_but: ` .........Hurry up and continue that eternal torment or whatever.`
+char_but: ` I'm prepared to stick around for a thousand years, or even ten thousand."`
+char_bea: `"*cackle*cackle*!`
+char_bea: ` Good, good.`
+char_bea: ` It looks like you've regained some of your will to fight.`
+char_bea: ` It would be boring otherwise."`
+char_bea: `"Come now, don't you often see it in multiplayer games?`
+char_bea: ` You enter as a new challenger, but the opponent is so weak that it's a bit of an anticlimax, so you lose on purpose to extend the game until the last round,`
+char_bea: ` then get serious and beat them to a pulp, riiight?"`
+char_but: `"......I don't get the analogy."`
+char_bea: `"It's the same as wine.`
+char_bea: ` If you don't let it age well, it won't sparkle."`
+char_bea: `"......You are a wine that can withstand that process.`
+char_bea: ` I'll age you carefully.`
+char_bea: ` ......I'll raise you to be the best alcohol to color my elegant time..."`
+char_bea: `"So don't let this much break you.`
+char_bea: ` Keep on denying me.`
+char_bea: ` After all, as long as you don't accept me, I'm nothing more than a fleeting illusion.`
+char_bea: ` ......*cackle*cackle*cackle*cackle*cackle*cackle*cackle*cackle*cackle*cackle*...!"`
+char_geo: `"...............No matter how many times I see it, ......it's awful."`
+char_goh: `"......I sympathize with all my heart.`
+char_goh: ` ......Shannon‐san, please get the key.`
+char_goh: ` ......Even though she has passed away, Madam is a lady.`
+char_goh: ` I cannot touch her."`
+char_sha: `".........Yes."`
+char_non: `Shannon nodded sharply, her expression filled with a sense of duty.`
+char_non: `George, Gohda and Shannon had broken a suitable window, and were inside the chapel.`
+char_non: `{n}...Since they really hadn't wanted to break one, they had searched for another way in, just in case.`
+char_non: `...But, in the end, that only proved once again that there was nowhere that anyone could slip in through,`
+char_non: ` and emphasized further how inscrutable was the chapel's locked room...`
+char_non: `Inside the chapel, time had stopped since they had left it earlier.`
+char_non: `Of course, even George could not approach that horrible Halloween party again.`
+char_non: `It was only natural.`
+char_non: ` Because it made him remember again the sadness of losing both of his parents at once.`
+char_non: `......And Gohda, thinking of the possibility that their bodies might have changed in some horrible way now that a half of a day had passed, didn't want to let George approach.`
+char_non: `Shannon followed Gohda's instructions, and approached the party table...`
+char_non: `...Normally, Shannon might have resented having another dirty job forced on her.`
+char_non: ` ......But now, she could truly understand Gohda's mental state.`
+char_non: `Despite Gohda's prodigious skill, he had gotten into trouble, lost his job, and been left out in the streets, and then Natsuhi had given him a new life.`
+char_non: `......Even though it had just been a casual employment for Natsuhi, Gohda must have felt that it was a turning point in his fate.`
+char_non: `...Those around Gohda could see that he felt a special kind of loyalty to Natsuhi.`
+char_non: ` ......So he probably didn't want to lose that feeling, even though she was dead.`
+char_non: `......Now that half a day had passed, the bodies of Natsuhi and the rest had changed completely.`
+char_non: `{n}Small bugs that had sniffed out the smell of death had started to gather.`
+char_non: `{n}...It really wasn't something you could look at directly...`
+char_sha: `"......Madam, ............excuse me......"`
+char_non: `Because of her long experience as a servant, Shannon had an idea of which pocket Natsuhi had kept the key to her room in.`
+char_non: `.........Probably, in this pocket...`
+char_non: `Her guess didn't fail her.`
+char_non: ` Just by touching the outside of the pocket, she was immediately able to feel it...`
+char_sha: `"It's here.`
+char_sha: ` ......The key to Madam's room."`
+char_non: `Shannon held the key up high, showing the others that it had been found.`
+char_non: `As George and Gohda watched her, their eyes opened wide...`
+char_non: `{n}That wasn't the expression Shannon was expecting, so it startled her.`
+char_non: `Because Shannon hadn't noticed.`
+char_non: `{n}George and Gohda, watching from afar, had been able to notice it first.`
+char_non: `Because when Shannon had held the key up high, ......a blizzard of gold leaf had billowed up from around the table.`
+char_non: `They were...countless gold butterflies.`
+char_non: `Because it was the first time George had seen them, to him, they might have looked fantastical.`
+char_non: `......But Gohda already knew.`
+char_non: `{n}...He knew that those gold butterflies, far from being beautiful, held sway over something disastrous.`
+char_non: `And that gold swelled, trying to suck Shannon in.........`
+char_goh: `"Sh‐Shannon‐san!!`
+char_goh: ` Run!!"`
+char_sha: `"Huh?!`
+char_sha: ` Kyaa!!!"`
+char_non: `Shannon also realized that she was about to be swallowed up by gold butterflies.`
+char_non: `She ran unsteadily, her expression still shocked.`
+char_non: `{n}As she did, the gold butterflies danced around Shannon in unison.`
+char_non: `{n}They grouped together.`
+char_non: ` They tried to swallow her up!`
+char_geo: `"Shannonnnnn!!`
+char_geo: ` Damn it, what is this?!`
+char_geo: ` Are these...the gold butterflies you guys were talking about?!"`
+char_goh: `"Outside, quickly!!`
+char_goh: ` You bastards!`
+char_goh: ` Damn it, damn it!!"`
+char_non: `George and Gohda rushed up to Shannon, driving off the group of butterflies.`
+char_non: `{n}And while the butterflies were scattered, they ran towards the broken window!`
+char_non: `However, they needed good footing to get out of the window, which was surrounded with shards of broken glass.`
+char_non: `When they had entered, there had been enough time to prepare for that, but now there was none.`
+char_geo: `"Let's go out through the door!!`
+char_geo: ` There's no time to look for footing!"`
+char_sha: `"......I‐`
+char_sha: `...it won't open...!`
+char_sha: ` It's stuck...!"`
+char_geo: `"Give it to me!!`
+char_geo: ` Damn this ancient piece of crap—`
+char_geo: `nnnnnnnn!!"`
+char_goh: `"George‐sama, quickly!!`
+char_goh: ` Damn it, you want a piece of me?! Uooooooooooooooohhh!!"`
+char_non: `Gohda took off his jacket, swinging it around and scattering the group of butterflies.`
+char_non: `{n}But he was vastly outnumbered.`
+char_non: `{n}It was doubtful that it even bought them a short amount of time.`
+char_non: `George struggled with the virtually broken handle.`
+char_non: `{n}Its age showed, and it didn't turn well.`
+char_non: `Brute force alone won't do it, it needs the right angle or some trick......`
+char_goh: `"George‐sama!!`
+char_goh: ` Damn iiiiiiiiiiiit!!`
+char_goh: ` You monsteeers!!"`
+char_non: `......Just then, Gohda saw it.`
+char_non: `......He was seen by it.`
+char_non: ` In other words, their eyes met.`
+char_non: `On top of the party table,`
+char_non: ` ......no, floating above it, backed by a stained glass window, laughing: the figure of the witch.`
+char_non: `He saw the figure of the witch, laughing in the center of the golden whirlwind, allowing the gold butterflies to attend to her whims.`
+char_goh: `"...............`
+char_goh: `B‐`
+char_goh: `......{f:5:Beatrice}........."`
+char_non: `It should have been Gohda's first meeting with her.`
+char_non: `{n}...But he knew her at a glance.`
+char_non: `Just like the other servants had said, this was certainly, certainly...the witch of the portrait herself...!`
+char_bea: `"*cackle*cackle*cackle*cackle*, hahahahahahahahahahahaha!!`
+char_bea: ` It is almost time for dinner, is it not?`
+char_bea: ` ......I am already the host of this mansion.`
+char_bea: ` So I must give you a warm reception with a wonderful dinner.`
+char_bea: ` ......And how perfectly ideal, there are {i:three} of you!`
+char_bea: ` ......My, my, how truly, truly convenient!!"`
+char_goh: `"U‐...uwaaaaaaaaaaaaaaaaaa!!"`
+char_geo: `"I‐it opened!!"`
+char_sha: `"Gohda‐san, quickly...!!`
+char_sha: ` ............!`
+char_sha: ` {f:5:Beatrice}......sama..."`
+char_geo: `"Huh?!`
+char_geo: ` ...............?!?!"`
+char_bea: `"Are you sure you want to just stand there...?`
+char_bea: ` If you think this place is suitable for your cemetery, then very well.`
+char_bea: ` *cackle*cackle*!!`
+char_bea: ` I'll praise your spirit for wanting to stay by your former masters' side, serving them even after death!"`
+char_non: `The golden whirlwind enshrouding the witch burst.`
+char_non: `It was like...an evil hand had literally spread its fingers and was trying to attack them!`
+char_non: `The group of gold butterflies attacked with a "whoosh" sound.`
+char_geo: `"Hurry!!`
+char_geo: ` We can't stand here!!"`
+char_non: `George's voice brought Shannon and Gohda back to themselves.`
+char_non: `{n}Standing here now would be the same as a frog being stared down by a snake.`
+char_non: `They had to resist.`
+char_non: `{n}......They had to fight this incarnation of the new, brutal, and frightening order that had enveloped Rokkenjima...!`
+char_non: `There was no time to take out their umbrellas.`
+char_non: `{n}The three of them dashed out into the pouring rain.`
+char_non: `They never realized because they didn't turn around,`
+char_non: ` but the gold butterflies apparently couldn't handle the rain too well, and this hampered their ability to chase after the three.`
+char_non: `The three people ran from their golden pursuers and flew into the mansion...`
+char_bea: `"............*cackle*cackle*cackle*cackle*.`
+char_bea: ` How nice, how nice.`
+char_bea: ` If it wasn't like this, it wouldn't be interesting!"`
+char_non: `They unlocked the door, and flew into the room.`
+char_non: `A bit of the scent from Natsuhi's favorite gentle incense remained in the room.`
+char_non: `...However, there was no time to let that calm them now.`
+char_geo: `"Where is it?!`
+char_geo: ` You said it was in a treasure box, right...?!"`
+char_goh: `"It's just something I heard...!`
+char_goh: ` I never knew where it actually...!"`
+char_sha: `".........I, I think it's probably in her dresser, or in the corner by the bed!"`
+char_non: `Shannon claimed that because of her woman's sense.`
+char_non: ` But in the corner by the bed, there was only an incense burner, a half‐read novel, and a pair of glasses.`
+char_non: `But the dresser was elegant and had many drawers, and it would be understandable if she had kept some of her valuables there.`
+char_geo: `"Auntie Natsuhi, I'm sorry...!!"`
+char_non: `He began to violently open each one of the drawers.`
+char_non: `{n}He had to hurry.`
+char_non: `He couldn't actually hear footsteps, ...but he had the feeling that the witch was approaching...`
+char_non: `He had the feeling that her laugh was approaching...!!`
+char_non: `He pulled out the drawers one by one and examined their contents.`
+char_non: `......Every small box for makeup looked like a treasure box,`
+char_non: ` and the amount of effort it would take to inspect all of them made him feel a little dizzy.`
+char_sha: `"May‐......maybe it's this box...`
+char_sha: ` It's locked, and I can't open it...!"`
+char_non: `At a glance, it looked slightly larger than a music box.`
+char_non: `{n}When shaken, it rustled, as though various small objects were inside.`
+char_non: `{n}But it was locked and wouldn't open!`
+char_sha: `"N‐normally, you'd hide the key somewhere nearby.`
+char_sha: ` ...But maybe some people always take it with them......`
+char_sha: ` I don't know, ...I don't know...!!"`
+char_geo: `"There's no choice—let's break it!`
+char_geo: ` But we can't do it recklessly, right, we might break the mirror inside.`
+char_geo: ` Isn't there some tool we could pry it open with...?!`
+char_geo: ` Damn it...!!"`
+char_non: `Gohda looked all over the room, trying to see if there was some tool that they could use.`
+char_non: `{n}And he noticed the door, which had been left open ever since they had entered.`
+char_non: `He approached the door to close it, ......and noticed the abominable shadows of people approaching from beyond the darkness in the hall...`
+char_non: `No, the phrase "shadows of people" wasn't right.`
+char_non: `{n}Because that referred to {y:0:Human}{n:0:human} shadows.`
+char_non: `......You can't call the shadows of beings that aren't {y:0:Human}{n:0:human} "shadows of people"!!`
+char_goh: `"...............G‐`
+char_goh: `......George‐sama!!!`
+char_goh: ` H‐`
+char_goh: `......hurry......"`
+char_non: `Gohda's voice trailed off...`
+char_non: `{n}It was the shock from seeing a procession of those not of this world.`
+char_non: `He was a servant.`
+char_non: `{n}So he knew all of the servants that worked for the Ushiromiya family.`
+char_non: `...But he didn't know about these.`
+char_non: `{n}However, they were definitely servants...!!`
+char_non: `They weren't servants working for Ushiromiya Kinzo or Ushiromiya Krauss.`
+char_non: `...They were new servants, who worked for the new master of the mansion, the Golden Witch {f:5:Beatrice},`
+char_non: ` and who had goats' heads and bright‐red, boiled eyes of lava!!`
+char_non: `As the new master laughed loudly and trimly directed six of the new servants,`
+char_non: ` he saw her pierce the darkness as she came.`
+char_non: `...Of course, she was clad in the gold butterflies that were her symbol.`
+char_non: `Gohda hurriedly closed the door and locked it!`
+char_non: `However, the instant he locked it, it returned to normal, just as though it had been knocked back by a spring or something!`
+char_non: `It almost gave the illusion that some prankster on the other side of the door was opening it every time he closed it.`
+char_non: `......Distance‐wise, they shouldn't have reached the other side of the door yet!!`
+char_non: `Then who, how...?!`
+char_non: `It felt just like playing with a broken toy.`
+char_non: `Click, boing.`
+char_non: `{n}Click, boing!!`
+char_goh: `"U‐uwaaaaaaaaaaaaaaa!!`
+char_goh: ` I‐it won't close!!`
+char_goh: ` It opens even if I close it!`
+char_goh: ` What's going on, damnitdamnitdamnitdamnit!!"`
+char_bea: `"Ku‐hah‐hah‐hah‐hah‐hah‐hah‐hah‐ha...!!`
+char_bea: ` Did you think a lock would stop me?`
+char_bea: ` Did you think the door to that room would inhibit the room's new master?!"`
+char_non: `It was like the witch could see Gohda's frantic effort through the door.`
+char_non: `Even as he struggled, their footsteps continued to approach.`
+char_non: `And when not just footsteps, but their breath too could be heard,`
+char_non: ` Gohda gave up on the lock and rammed the door with his shoulder, making the lock his own large body.`
+char_goh: `"......George‐sama, quickly quickly quickly!!!"`
+char_sha: `"George‐sama, what about this?!"`
+char_geo: `"A letter opener!`
+char_geo: ` That's better, let me have it!`
+char_geo: ` The fountain pen isn't working!"`
+char_non: `George took it, and once again dug into the crack under the lid of the treasure box.`
+char_non: `{n}...It looks like it's working...!`
+char_goh: `"Quickly quickly!!`
+char_goh: ` HiiIIiii,`
+char_goh: ` UOOOOOOOOOAAAAAAAAAAAAAAHHH!!"`
+char_non: `The pressure from across the door grew even stronger.`
+char_non: `......Gohda screamed.`
+char_non: ` It wasn't a war cry for this test of strength.`
+char_non: `{n}......He was terrified.`
+char_non: `He was simply terrified that, except for a single wooden door, he would be touching something not of this world.`
+char_non: `But he was still lucky.`
+char_non: `{n}He wasn't touching them directly.`
+char_non: `{n}Because they were on the other side of the door.`
+char_non: `So it was natural that if he did touch them directly, ...Gohda's cry would turn from something brave into a shameful,`
+char_non: ` ...and yet very real scream that would make glass shatter.`
+char_non: `Gohda couldn't believe what was right before his eyes.`
+char_non: `...Going through the door,`
+char_non: ` ...an arm,`
+char_non: ` ......an arm,`
+char_non: ` ......almost as though it was sticking through the surface of water,`
+char_non: ` slipped through, as though it was perfectly natural, and stroked the back of Gohda's hand as he tried desperately to hold the door closed.`
+char_non: `.........It...`
+char_non: `traced slowly up his arm,`
+char_non: ` ...to his chest,`
+char_non: ` ...and then...`
+char_non: `......his chin.`
+char_non: `By now, Gohda's scream was not even vocalized.`
+char_non: `{n}He could hear a sweet whispering voice from across the door.`
+char_non: `......It wasn't coming from the witch, but judging by the sound of the voice, it was a young woman.`
+char_non: `...But there was no difference in the fact that it was a voice from one not of this world.`
+char_rg6: `"......*giggle*giggle*.`
+char_rg6: ` How cuuute.`
+char_rg6: ` ......Hey. You see it, right? Your life flashing before your eyes.`
+char_rg6: ` ......Tell me. When it's over."`
+char_goh: `"HIIIIIIIIIiiiiiIIIIIIIIIIIiiiiIIIIiii!!"`
+char_rg6: `"Thanks.`
+char_rg6: ` Over already, huh?`
+char_rg6: ` ......*giggle*giggle*!"`
+char_non: `That obscene arm burst apart.`
+char_non: ` And they heard the sound of something jumping around the room at an incredible speed.`
+char_non: `They didn't know what it was.`
+char_non: `{n}Incredibly fast, small, like steel or maybe a beetle...!`
+char_non: `When it buried itself right in the center of Gohda's chest and stopped,`
+char_non: ` .........for the first time,`
+char_non: ` ...they realized that its true form...`
+char_non: `...was something like a stake with a strange design on it......`
+char_non: `Gohda's large body shook, ...`
+char_non: `...bent backwards,`
+char_non: ` ......and fell over.`
+char_non: `As it did, the door opened softly, even though no one was pushing it,`
+char_non: ` ......and the new masters of this room were welcomed in.`
+char_non: `It looked almost as though the door itself had accepted them.`
+char_non: `The goat attendants entered one after another, six of them...!!`
+char_non: `Then that witch entered, and the gold butterflies entered!!`
+char_non: `The room was wrapped in a blizzard of gold leaf, which fell and piled up, turning it into a world of gold...!!`
+char_bea: `".........Shannon.`
+char_bea: ` The roulette has chosen you and George.`
+char_bea: ` Thank me for your day of release.`
+char_bea: ` I assume you have no regrets?"`
+char_bea: `"None at all, riiight?`
+char_bea: ` Receiving an engagement ring from the man you fell for, and then being killed before spending a night together, that isn't a regret at all, riiiiiiiiiiiiight???`
+char_bea: ` You wanted him to teach you the happiness of being a woman, didn't yooouuu?`
+char_bea: ` Kuhihihyahya{0}hya{0}hya{0}hya{0}hya{0}hyahya!!"`
+char_bea: `"Ahh, no, no, Shannon, it's hanging! Your regret. From your mouth.`
+char_bea: ` I can see it dribbling from your moooooooouth, Shannonnnnnnnnnnnnnnnnn???`
+char_bea: ` Hiiihya{0}hya{0}ha{0}ha{0}ha{0}ha{0}ha{0}ha{0}ha{0}ha{0}ha`
+char_bea: ` kyaaa{0}kya{0}kkya{0}kkya{0}kkya{0}kkya{0}kkya!!!"`
+char_non: `Crack.`
+char_non: ` It was the sound of the lid to the treasure box breaking and opening.`
+char_non: `When George turned it over, out fell accessories, charms,`
+char_non: ` ......various small objects that Natsuhi had treasured when she was a girl.`
+char_non: `...Mixed in with those was a pouch that stood out from the rest.`
+char_non: `He picked it up, and checked it immediately.`
+char_non: ` .........This was it.`
+char_geo: `"I found it—this is it........."`
+char_bea: `"One move short.`
+char_bea: ` *cackle*cackle*cackle*cackle*cackle*!!"`
+char_bea: `"Die!"`
+char_geo: `"......Da‐damn it!!"`
+char_non: `All at once, the gold butterflies attacked George, who was painfully slowly trying to remove the contents of the pouch.`
+char_non: `Just then, it seemed like, for just an instant, a bright red flash lit up the room...`
+char_non: `That red flash seemed to wipe out the gold butterflies that were raging around the room, ......within a circle drawn with Shannon at the center...`
+char_non: `......Therefore, it was a very divine scene.`
+char_non: ` ...Almost as though a single streak of light had cut through the clouds in the ceiling, in this world of gold...`
+char_non: `George, who was curled in a ball trying to protect himself from the group of butterflies, didn't have a clue what had occurred.`
+char_non: `......Then he noticed that Shannon was blocking the way to him, shielding him,`
+char_non: ` with a serious face that she had never shown him before, as she glared at the witch and the rest...`
+char_bea: `".........I'd forgotten.`
+char_bea: ` You were also Kinzo's excellent furniture.`
+char_bea: ` And you've matured much more than Kanon, ......"`
+char_sha: `"..................How dare you...do that to Kanon‐kun.`
+char_sha: ` .........Not the fact that you killed him.`
+char_sha: ` ...How dare you...erase his remains,`
+char_sha: ` ...and even try to disgrace his honor......"`
+char_bea: `"Come now, Shannonnnnn, is that what's making you maaad?`
+char_bea: ` If you're lonely because you can't meet Kanon, just ask meee, I'll bring you together anytiiiiime!!"`
+char_non: `When the witch snapped her fingers, ......one of the six goat attendants......glittered gold and changed into Kanon.`
+char_non: `It was definitely a sight to make one doubt their eyes.`
+char_non: `{n}...It was definitely Kanon's face.`
+char_non: `......However, in those eyes, there was none of that sincere glint of Kanon's.`
+char_non: `...They were only the clouded eyes of furniture that did nothing but obey the orders of the witch.`
+char_non: `...George couldn't understand the scene right before his eyes.`
+char_non: `{n}......And he finally understood why Gohda and the rest had been unable to talk about what they had seen in the servant room.`
+char_sha: `".........Is it fun?"`
+char_bea: `"Oh yeah, it's fun.`
+char_bea: ` It's always fun to reunite two that have been torn apart by death.`
+char_bea: ` Because I get to enjoy it thrice—once tearing the two apart by death, once reuniting them, and once tearing them apart again."`
+char_bea: `"So, Kanonnn, play with your sister.`
+char_bea: ` If she knocks you about, show her a face with as much anguish as you can manage.`
+char_bea: ` *cackle*cackle*cackle*cackle*cackle*cackle*!!"`
+char_non: `......From the impostor Kanon's arm, ...a strangely shining trail extended.`
+char_non: `{n}.........It planned to tear Shannon apart with that.`
+char_non: `......Shannon, who still hadn't prepared her heart, apart with a single stroke...`
+char_sha: `"......I won't forgive you.`
+char_sha: ` ......For dishonoring the dead not once, ...but twice, ...I won't forgive you."`
+char_bea: `"Stop babbling, get killed by your brother, Shannonnnnn,`
+char_bea: ` I'm sure you'll be able to have a good dreeeeeeeeeeeaaaaaaam!!!"`
+char_non: `As the impostor Kanon drew several purple trails, he definitely had attacked Shannon...`
+char_non: `But when he flew at Shannon, ......it felt like some kind of invisible wall had been set up in front of her.`
+char_non: `A bright red ripple trail was left on the wall, ......and it repelled the impostor.`
+char_non: `......No, it didn't repel him, it smashed him.`
+char_non: ` ......It knocked him back, turning him into golden dust, into pieces, scattering him...!`
+char_non: `The figure of the foolish furniture, who had mocked Kanon's form and even disgraced his honor after his death, broke into countless gold butterflies,`
+char_non: ` and then those butterflies themselves broke into pieces, and those pieces were broken into pieces,`
+char_non: ` until they were no longer butterflies, but a spray of gold, and disappeared.`
+char_geo: `"......Sha‐...............Shannon..............."`
+char_sha: `"............George‐san, please don't move from there.`
+char_sha: ` I don't want to shift the central axis."`
+char_bea: `"This is.........a surprise!!`
+char_bea: ` Even though you make a face like you wouldn't hurt a fly, .........you can display such power?!!"`
+char_bea: `"I see, so the spirit mirror is lending you power...`
+char_bea: ` But you don't have the preparations or the time to draw out the true power of that spirit mirror."`
+char_bea: `"I won't give you either one.`
+char_bea: ` *cackle*cackle*cackle*cackle*!"`
+char_non: `The spirit mirror George gripped was letting out a divine radiance, and displaying its strength not to submit to wicked power.`
+char_non: `But that radiance was no match for the witch's sinister nature...`
+char_bea: `"This is why furniture is frightening!`
+char_bea: ` That feeling, like unexpectedly hitting the corner of a cabinet with your little toe."`
+char_bea: `"...This is why furniture is frightening!!`
+char_bea: ` You furniture, furniture furnituuuuuuuuuuuuuuuuuuuure!!"`
+char_sha: `"............I am not furniture.`
+char_sha: ` ...And I think you are very pitiful right now."`
+char_bea: `"Whaat...?`
+char_bea: ` Hohh.`
+char_bea: ` ......I wonder, what did this furniture, who hasn't lived even a hundred years, just say to a witch of one thousand......?"`
+char_sha: `"......You are a very pitiful person.`
+char_sha: ` .........Of course there will be lingering regrets between two people who love each other.`
+char_sha: ` But there isn't even a scrap of the kind of regrets you're hoping for."`
+char_bea: `"You dare speak, furniture...!!`
+char_bea: ` When you say that, have you forgotten the days that you wanted to be tied to George so much that you licked my shoes?!!"`
+char_sha: `"Living with love, and crawling in muck is what humans do.`
+char_sha: ` For sneering at that and thinking you can look down on it, you are far inferior to them."`
+char_sha: `"Especially now, I think you are pitiful.`
+char_sha: ` ......How much does it mean for a loving couple to consummate their love?"`
+char_sha: `"......It does mean something, it definitely does.`
+char_sha: ` ...But it's completely different from what you're saying.`
+char_sha: ` It means something more sacred, so sacred that one such as you has no right to speak of it wickedly."`
+char_sha: `"So I no longer have any regrets.`
+char_sha: ` George‐san and I have sworn our love to each other.`
+char_sha: ` As proof, I accepted the ring."`
+char_sha: `"......With that, our eternal vows were completed!`
+char_sha: ` No matter how you torture us with your wicked magic and your malice, you cannot disgrace that for all eternity!!"`
+char_bea: `"......Ha!`
+char_bea: ` Don't speak as a poet like it's so neat and clean!!`
+char_bea: ` Love is lust it can't be talked about with only pretty words like in a shoujo manga.`
+char_bea: ` Men are flies and maggots that get caught in your scent and gather around you.`
+char_bea: ` Do you still not understand that at your aaa{-}a{-}a{-}a{-}a{-}a{-}a{-}a{-}a{-}aage?"`
+char_bea: `"You'll despair, when you get even one glimpse of the black‐as‐tar lust of that glasses man behind you,`
+char_bea: ` you'll be devastated speechless no words no reaction no expression no goddamn good at all Shannoo{-}o{-}o{-}o{-}o{-}oonnn{-}n{-}n{-}n{-}n{-}n{-}n{-}n{-}n{-}n{-}n{-}n{-}nnnnn???`
+char_bea: ` Hiiiihaaaaa{0}aa{0}ha{0}ha{0}ha{0}ha{0}haaa{0}haaa!!"`
+char_bea: `"That's enough stop talking furniture you furniture furniture furniture,`
+char_bea: ` who the hell do you think you are talking like that, love is just a fraud how to pretty up something that's ultimately filthy as all hell,"`
+char_bea: `"Don't people become adults when they realize thaaaaaaaaaat, die you trash, furniture furniture scrap,`
+char_bea: ` I'll turn you into a filthy maggot then we'll see whether that glasses guy still loves you,"`
+char_bea: `"I'll show you the goddamn filthy reality of his looooooooooooove,`
+char_bea: ` die you piece of craaaaaaaaaaaaap don't you tell me about looooooooooooooooooove!!"`
+char_non: `The invisible column of light with Shannon at the center started to have bright red ripples drawn all over it at once.`
+char_non: `...The wall did its best to withstand the invisible malice that was trying to corrode it from all directions.`
+char_bea: `"What is this you call that resiiiisssting?!"`
+char_bea: `"You're insignificant you're frail, just like the pretty picture you try to paint, just a frail pretense,`
+char_bea: ` you're just hiding what you don't want to see by covering it with a veil do you stiiill not understand that's why you're furniture you fuuuuuurniture,"`
+char_bea: `"see see see see see it's chipping awaaaaaaaaay crackcrunchsmacksnap how thin how shameful,`
+char_bea: ` compared to your frail resistance Parmigiano‐Reggiano would take muuch more effort to shaaaaaaaaaaaaaave`
+char_bea: ` hiiyahhaaahahaah!!"`
+char_non: `The golden windstorm that covered the room gradually shaved away the walls of the column that protected Shannon and George.`
+char_non: `The bright‐red ripples frantically drew a pattern of resistance, but the wall was beginning to envelop the two, becoming instead a red wall of despair...`
+char_sha: `"............George‐san, I'm sorry......`
+char_sha: ` .........It was impossible...`
+char_sha: `......for me,`
+char_sha: ` ...after all........."`
+char_geo: `"......Yes... Thank you.`
+char_geo: ` ...You fought for my sake.`
+char_geo: ` ...That alone makes me happy."`
+char_non: `...As the column that had once protected them was assaulted and covered with a trail of bloodcurdling red ripples, it contracted,`
+char_non: ` ...and began to suck the two of them up instead.`
+char_sha: `"George‐san, can I ask a favor?"`
+char_non: `Shannon grasped George's hand behind her.`
+char_non: `{n}So George hugged her shoulders just as strongly.`
+char_geo: `"What is it?"`
+char_sha: `"Before the end, ......please let me hear you say you love me."`
+char_geo: `"Sure.`
+char_geo: ` ...Sayo, I will forever"`

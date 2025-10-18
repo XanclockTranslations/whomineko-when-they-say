@@ -1,0 +1,534 @@
+char_rio: `"I've brought Willard‐san."`
+char_wil: `"........................"`
+char_non: `Kinzo and Genji could be seen in the VIP room.`
+char_non: `Kinzo was sitting back in a chair, his eyes closed as though in a troubled sleep.`
+char_gen: `"......My lord.`
+char_gen: ` The guest has come to see you."`
+char_kin: `"..............................nn."`
+char_non: `Kinzo slowly opened his eyes.`
+char_non: `{n}......Those eyes were red from crying.`
+char_non: `They regained their focus and slowly fell on Will.`
+char_kin: `"......I am...Ushiromiya Kinzo."`
+char_rio: `"......Will."`
+char_wil: `"I'm Willard.`
+char_wil: ` Allow me to express my condolences."`
+char_kin: `"......So, you've come to visit Beatrice's funeral.`
+char_kin: ` ......Just who are you?"`
+char_wil: `"I'm no one. I have no connections with anyone.`
+char_wil: ` Don't think too deeply about it.`
+char_wil: ` You'll just get a headache.`
+char_wil: ` .........Ow."`
+char_rio: `"I ask that you choose your words a little more carefully."`
+char_kin: `"......Hmph, what a strange guest.`
+char_kin: ` So?`
+char_kin: ` What business do you have with me?"`
+char_wil: `"I want to ask about Beatrice."`
+char_kin: `"What..................?"`
+char_non: `Kinzo's gaze grew sharp.`
+char_non: `Lion felt a bit lightheaded and wondered why this guy had to be so direct.`
+char_kin: `"Why do you ask?`
+char_kin: ` I thought you were no one.`
+char_kin: ` Why do you want to know about Beatrice?`
+char_kin: ` What purpose could it serve?"`
+char_wil: `"Because I am no one,`
+char_wil: ` I can listen to your tale without bias and record it.`
+char_wil: ` You will probably leave this world before too long.`
+char_wil: ` If you die without telling anything about Beatrice,`
+char_wil: ` your children will adorn her with their own fanciful tales and write them into history."`
+char_kin: `"Pft, hahahahahahahahahaha!`
+char_kin: ` You entertain me, boy.`
+char_kin: ` You think yourself a testament taker?!"`
+char_kin: `"But that is wholly unnecessary.`
+char_kin: ` Beatrice is mine alone.`
+char_kin: ` No matter what anyone says,`
+char_kin: ` no one can defile our story. What they say is of no consequence!`
+char_kin: ` No matter how Krauss and the others misconstrue it, it matters nothing to me!"`
+char_gen: `"......Willard‐sama.`
+char_gen: ` The Master does not like wills.`
+char_gen: ` He is not one to abandon anything while he still lives."`
+char_wil: `"......Probably true.`
+char_wil: ` I thought it sounded a bit unlike him."`
+char_kin: `"The spirit to struggle onward to our dying breaths is what makes us human!`
+char_kin: ` The idea that I would give up before my time and leave behind a will is laughably absurd!"`
+char_wil: `"Yes, that does sound a bit more like you.`
+char_wil: ` ......It's not your style to ask someone to write about the past just because you feel you might die soon."`
+char_rio: `"......We know how deeply you loved Beatrice‐sama.`
+char_rio: ` You are the model most worthy of respect that any of us know, and an example for us to follow in every aspect of our lives."`
+char_rio: `"Please, for the sake of us wandering souls,`
+char_rio: ` may we learn of how you loved her to the last, how your love for her guided you through life,`
+char_rio: ` ......and the strength of your love for her, so that your story might guide us through our own lives...?"`
+char_wil: `"You're pretty good at this."`
+char_rio: `"It's your fault for being so tactless."`
+char_kin: `"Boy.`
+char_kin: ` What do you know of Beatrice?`
+char_kin: ` A truly ignorant person would not hold any interest at all.`
+char_kin: ` The mere fact that you know her name shows that you are neither ignorant nor unconnected."`
+char_wil: `"Good point.`
+char_wil: ` ......The Beatrice I know of...`
+char_wil: `is the woman you loved, the one you met before the mansion on Rokkenjima was even built.`
+char_wil: ` However, she probably departed from this world, leaving behind a daughter.`
+char_wil: ` That is the girl who was raised in Kuwadorian."`
+char_kin: `".........Oho."`
+char_gen: `"Willard‐sama.`
+char_gen: ` There is no building known as Kuwadorian on Rokkenjima."`
+char_rio: `"......That name, Kuwadorian...`
+char_rio: ` ...You mentioned it when we were talking with Aunt Rosa too.`
+char_rio: ` ......What in the world does it mean?"`
+char_wil: `"You should have an idea by now.`
+char_wil: ` It's the name of the hidden mansion deep in the forest where his mistress's daughter lived."`
+char_kin: `"Interesting.`
+char_kin: ` ......So, you actually know the name of Kuwadorian.`
+char_kin: ` ......Continue. You have sparked my interest."`
+char_non: `Kinzo shrugged and grinned......`
+char_wil: `"The one living in Kuwadorian was probably Beatrice's daughter.`
+char_wil: ` However, it seems that you didn't think of her that way."`
+char_kin: `"Oho.`
+char_kin: ` ......Then how did I think of her?"`
+char_wil: `"When Ushiromiya Rosa went to Kuwadorian, Beatrice told her a little about herself.`
+char_wil: ` ......In that conversation, she referred to you as Kinzo.`
+char_wil: ` It was the same when she spoke to you directly."`
+char_wil: `"Though she said that she thought of you as a father, she didn't call you Father.`
+char_wil: ` ......She either didn't call you that, or she wasn't allowed to call you that.`
+char_wil: ` That can only mean one thing."`
+char_kin: `"And what might that be......?"`
+char_wil: `"Reincarnation.`
+char_wil: ` You didn't think of your daughter as a child Beatrice left behind.`
+char_wil: ` You believed that the dead Beatrice had revived into a new body.`
+char_wil: ` ......Genji.`
+char_wil: ` Once in the past, you spoke in front of Natsuhi and several other family members,`
+char_wil: ` stating that there had never been a child between Kinzo and Beatrice."`
+char_gen: `".........I have no memory of saying this."`
+char_non: `Of course, "this game's" Genji probably wouldn't remember that.`
+char_non: `However, near the end of the first game, when the survivors all gathered in Kinzo's study...`
+char_non: `...Genji was asked whether Kinzo and Beatrice ever had a child together,`
+char_non: ` and he denied it, saying "I have not heard of anything like that".`
+char_wil: `"‘I have not heard that’... In a way, it was a perfect sort of answer for one of Kinzo's confidants.`
+char_wil: ` ......After all, in Kinzo's eyes, she wasn't a daughter,`
+char_wil: ` but {i:Beatrice} reborn."`
+char_rio: `"Will...!`
+char_rio: ` I don't know what you're talking about, but I will not let you slander the family head!"`
+char_wil: `"This isn't slander.`
+char_wil: ` It's reasoning.`
+char_wil: ` ......However, I understand the heart.`
+char_wil: ` Beatrice was the woman you loved most.`
+char_wil: ` She remained that way even after death, for all eternity, and without fading in the slightest."`
+char_wil: `"However, given the child's blue eyes, beautiful blonde hair, and facial features which resembled Beatrice from a young age,`
+char_wil: ` if you had gradually begun to think that she might actually be Beatrice reborn,`
+char_wil: ` that wouldn't be surprising."`
+char_gen: `"...............My lord.`
+char_gen: ` Shall I...?"`
+char_non: `Shall I throw this insolent man out?`
+char_non: ` Genji asked Kinzo.`
+char_non: `For a while, Kinzo hung his head in silence, as though remembering something from his own past.`
+char_wil: `"Your daughter grew to be beautiful and nearly identical to her mother.`
+char_wil: ` You must have been ecstatic.`
+char_wil: ` However, it's doubtful that you were fully satisfied by this.`
+char_wil: ` ......After all, though she was Beatrice reborn to you,`
+char_wil: ` she didn't feel that way herself."`
+char_kin: `"......How can you know that?"`
+char_wil: `"She couldn't shake the feeling that there was something out of place about her being called Beatrice.`
+char_wil: ` ......People never feel anything out of place about the name they were given at the time of their birth.`
+char_wil: ` However, she did have that feeling.`
+char_wil: ` That must mean that she was aware that the name "Beatrice" was not hers."`
+char_non: `In Kuwadorian, she asked both Kinzo and Rosa about who she was.`
+char_bea: `— Who am I?`
+char_bea: ` ......Everyone calls me {f:5:Beatrice}.`
+char_bea: ` ...And that does certainly seem to be the name of a great witch, as you say.`
+char_bea: `— ......But that is not me.`
+char_bea: ` I cannot use any magic.`
+char_bea: ` ......I simply have the soul of that witch sealed inside my body.`
+char_kin: `"........................Her memory...`
+char_kin: `would have returned.`
+char_kin: ` ......She was without a doubt Beatrice reborn.`
+char_kin: ` ......Her memory was coming back bit by bit.`
+char_kin: ` My magical rituals were helping her regain her memories one little bit at a time......"`
+char_rio: `"G‐......Grandfather......"`
+char_wil: `"There's no need to be surprised.`
+char_wil: ` If you line up the information in all the games so far, this is the answer it leads you to.`
+char_wil: ` ......The {f:5:Beatrice} on the higher plane talked about this in metaphor, saying that Kinzo refused to let the witch's soul escape even after death, and instead caught it and locked it up in a body of flesh.`
+char_wil: ` She also said that her power and memory had been sealed.`
+char_wil: ` If you match that interpretation of hers to this theory, it all makes sense."`
+char_gen: `"............Willard‐sama.`
+char_gen: ` Thanks to a powerful magical ritual, the Master gained a reborn child of the late Beatrice‐sama.`
+char_gen: ` That cannot be denied."`
+char_wil: `"I won't contradict the stork.`
+char_wil: ` And I don't intend to doubt the depths of Kinzo's love for this woman called Beatrice.`
+char_wil: ` .........It's no one's business how a person chooses to show their affection towards their only living reminder of the departed.`
+char_wil: ` If she grew to look more and more like Beatrice, and Kinzo's love gave rise to a new, special emotion,`
+char_wil: ` I find that a very human reaction."`
+char_kin: `".........You think...`
+char_kin: `...you can understand my love.........?"`
+char_wil: `"I'm not qualified to understand it.`
+char_wil: ` However, I'm also not qualified to deny it."`
+char_kin: `"..................Oooh,`
+char_kin: ` ......Beatrice......`
+char_kin: ` ......Please,`
+char_kin: ` .........forgive me........."`
+char_non: `Kinzo sobbed quietly for a while, wiping away his tears...`
+char_non: `Because of love,`
+char_non: ` he believed she was Beatrice reborn,`
+char_non: ` and raised her that way.`
+char_non: `However, somewhere in his heart,`
+char_non: ` ......he might have felt...`
+char_non: `...pangs of conscience,`
+char_non: ` telling him that he might be forcing his emotions on someone who wasn't really Beatrice.`
+char_non: `Then, the Beatrice of Kuwadorian had an unexpected guest, Rosa.`
+char_non: `Unable to believe that she was the Beatrice that Kinzo desired,`
+char_non: ` and suffering from her inability to understand who she was, she expressed a desire to escape to the outside world.`
+char_non: `Then, ............she fell from the cliff...and died.`
+char_wil: `"Genji handled that death, which couldn't become public knowledge, very quietly."`
+char_gen: `"...................................."`
+char_wil: `"Funerals aren't for the dead.`
+char_wil: ` ......They exist so that those who are alive can sever their ties with the dead.`
+char_wil: ` ......You could never do that.`
+char_wil: ` That's why it festered within you."`
+char_kin: `"......Beatrice......`
+char_kin: `...ooooooooohhhh......"`
+char_rio: `"G‐......Grandfather........."`
+char_wil: `"You lost your mistress's—`
+char_wil: `no, you lost Beatrice twice.`
+char_wil: ` Unable to let that sorrow show on the outside, you kept it locked up in your heart,`
+char_wil: ` ......and it eventually festered and turned to madness.`
+char_wil: ` That's what spurred on your abnormally strong interest in the occult in your later years."`
+char_kin: `"Oooooooooohhhh!!`
+char_kin: ` Beatriceeeeee, Beatriceeeeee!!`
+char_kin: ` Why?!!`
+char_kin: ` Why did you leave me twice?!`
+char_kin: ` Your smile,`
+char_kin: ` that beautiful hair,`
+char_kin: ` those eyes...`
+char_kin: ` ......Why did you die in my arms not once,`
+char_kin: ` ......but twice?!"`
+char_kin: `"Is that how much...`
+char_kin: `...how much you...`
+char_kin: `......ooo{-}o{-}o{-}o{-}ohhhh,`
+char_kin: ` oo{-}o{-}o{-}o{-}o{-}o{-}o{-}o{-}o{-}o{-}o{-}o{-}o{-}o{-}o{-}o{-}o{-}o{-}o{-}o{-}o{-}oohhhh...oohhh..."`
+char_non: `By now, Kinzo wasn't even trying to suppress his sobs.`
+char_non: `Sometimes, he scratched at his head in anguish;`
+char_non: ` other times, he faced the heavens like an opera singer.`
+char_non: `Kinzo yelled over and over again, repeating Beatrice's name......`
+char_non: `At that moment, there was a quiet sound of a door closing.`
+char_non: `......When they turned around, she was already there.`
+char_non: `{n}Kumasawa had appeared.`
+char_kum: `".........If they already know that much,`
+char_kum: ` perhaps we can tell them the rest...?"`
+char_gen: `"......Though, if they know that much,`
+char_gen: ` I don't believe there is anything more to tell..."`
+char_kum: `"No, we should tell them.`
+char_kum: ` As a woman,`
+char_kum: ` ......I've always thought that the heart of Kuwadorian's Beatrice is a story that should be told.`
+char_kum: ` And now, someone has appeared who is worthy to hear it.`
+char_kum: ` I believe that now is the time to tell all, without holding back."`
+char_gen: `".............................."`
+char_rio: `"Kumasawa‐san, do you know something?`
+char_rio: ` About Beatrice......?"`
+char_wil: `"Of course she does.`
+char_wil: ` ......In the fourth game, we have testimony from the ferryboat captain saying that Kumasawa went in and out of Kuwadorian.`
+char_wil: ` I'd be willing to bet that Kumasawa had different work shifts at the mansion and Kuwadorian.`
+char_wil: ` There was a young girl to be taken care of.`
+char_wil: ` Kumasawa, with her long experience in taking care of children, must have been of immense value."`
+char_kum: `".........That is correct.`
+char_kum: ` You might even call me her wet nurse."`
+char_rio: `"No way......`
+char_rio: ` ......I can't believe it.`
+char_rio: ` ......So, ......everything Will‐san is saying is the truth."`
+char_kum: `".........Yes.`
+char_kum: ` It is a fact.`
+char_kum: ` ......There was a secret mansion constructed on the opposite side of the island for Beatrice‐sama.`
+char_kum: ` The existence of Kuwadorian is the truth."`
+char_wil: `"I don't know when Kinzo married his official wife,`
+char_wil: ` but back when Kinzo already had an enormous store of wealth and had bought Rokkenjima whole,`
+char_wil: ` he built two mansions and set up two separate lives."`
+char_non: `Kinzo's children had also been aware of Kinzo's clandestine eccentricities at the time.`
+char_non: `It probably hadn't been easy to set up two lives.`
+char_non: `{n}Moreover, Kinzo's wife had been suspicious and had sniffed around all the time...`
+char_kum: `"The Master stayed in Kuwadorian as much as time allowed.`
+char_kum: ` He would sometimes pretend to go on a business trip and stay there for several days,`
+char_kum: ` treasuring the time he spent with Beatrice‐sama.`
+char_kum: ` ......It was not simply a father‐daughter relationship.`
+char_kum: ` You could sometimes catch a glimpse of his great love for the late Beatrice‐sama, and it was a heart‐warming thing."`
+char_wil: `"The way you say it makes it sound like he sometimes treated her...`
+char_wil: `...as a substitute for Beatrice."`
+char_kum: `"Oho.`
+char_kum: ` If it sounded that way, my apologies.`
+char_kum: ` ......Beatrice‐sama probably accepted her father's love.`
+char_kum: ` However, I will not deny...`
+char_kum: `that she was sometimes forced to bear a love she didn't understand."`
+char_non: `Kumasawa's tone made it sound as though she was scolding Kinzo.`
+char_non: `As a mother who had raised many kids, Kumasawa had probably spotted that Kinzo's love was often of a mistaken sort.`
+char_non: `However, the more the girl grew to look like her mother,`
+char_non: ` the more distorted and twisted Kinzo's heart became......`
+char_non: `Because of his deep love,`
+char_non: ` it grew very,`
+char_non: ` very...`
+char_non: `...twisted......`
+char_kin: `".........You are right to scold me, my friend.`
+char_kin: ` ............I understand.`
+char_kin: ` My love is eternal and undying.`
+char_kin: ` ......However, there were times when I directed it at the wrong person, and...`
+char_kin: `...I...`
+char_kin: `...must acknowledge that......"`
+char_rio: `"......Grandfather...`
+char_rio: ` .........Wait, ......you don't mean......"`
+char_kum: `"Lion‐sama.`
+char_kum: ` All humans in this world are tied to each other.`
+char_kum: ` Even if they do not notice, there is always some sort of tie.`
+char_kum: ` Those ties......wrap themselves around people and bring them together."`
+char_rio: `"No way...............`
+char_rio: ` ............Grandfather..............."`
+char_non: `Just as Kinzo had done, Lion also wiped away tears and stared down at the floor.`
+char_non: `Apparently, the truth had been too much of a shock for the young successor to handle...`
+char_kum: `"......My lord.`
+char_kum: ` Perhaps the time has come to speak of it."`
+char_kin: `"..............................`
+char_kin: ` ......I see.`
+char_kin: ` So, that time has come, ......my friend."`
+char_wil: `"Unless you tell us,`
+char_wil: ` none of the truth will become clear."`
+char_gen: `".........My lord.`
+char_gen: ` ......I believe they may have the qualifications and the right to know."`
+char_kin: `"I know.`
+char_kin: ` Perhaps on this day of my fickle funeral, Beatrice in heaven has given me a chance to atone...`
+char_kin: ` .........Forgive me for not telling you this before now."`
+char_non: `After taking a deep breath, Kinzo finally lowered the hands that had been covering his face,`
+char_non: ` ......and looked at Will and Lion with those red eyes.`
+char_kin: `"..........................."`
+char_rio: `"..................Grandfather..."`
+char_kin: `"You listen too, Lion.`
+char_kin: ` ......Guest.`
+char_kin: ` Willard, was it?"`
+char_wil: `"Yeah."`
+char_kin: `".........I thank you for giving me a chance to speak of the truth while I still am able.`
+char_kin: ` ......You must surely be a messenger from heaven sent by Beatrice...`
+char_kin: ` ......You have my gratitude........."`
+char_wil: `"Beatrice isn't the one you have to thank.`
+char_wil: ` It was some witch.`
+char_wil: ` ......Well, I guess they're both witches..."`
+char_kin: `"Hmph, ......I do not care who it was.`
+char_kin: ` I have been given a chance.`
+char_kin: ` That is enough.`
+char_kin: ` ......Thank you, Willard."`
+char_non: `Kinzo slowly stood up and held out his right hand.`
+char_non: `{n}He was offering to shake hands.`
+char_non: `It must have been Kinzo's way of expressing his gratitude...`
+char_non: `Will responded.`
+char_non: `{n}Then, the two hands gripped each other tightly in silence.`
+char_non: `When they did, ......a bright light poured out from the gap between the two hands.`
+char_wil: `"..................nn—"`
+char_non: `Will felt as though something the size of a grain had burned itself into his palm.`
+char_non: `......It was that power that {f:5:Bernkastel} had given him.`
+char_non: `The light grew brighter and brighter.`
+char_non: `However, it seemed that Kinzo and the others could not see it.`
+char_kin: `"......Now, I will speak.`
+char_kin: ` I met Beatrice—`
+char_kin: `Beatrice Castiglioni—just before the end of the war.`
+char_kin: ` She came from across the sea......"`
+char_non: `"................................."`
+char_wil: `"......So, are you Kinzo?"`
+char_rio: `"It's how Grandfather looked in the past.`
+char_rio: ` I've seen photos.`
+char_rio: ` ......Just what on Earth......"`
+char_wil: `"It's the theatergoing power that {f:5:Bernkastel} gave me.`
+char_wil: ` ......Don't try to understand."`
+char_rio: `"I'll just get a headache?"`
+char_wil: `"You're getting the hang of this."`
+char_non: `At one time, Genji told Battler that he looked like Kinzo in his youth.`
+char_non: `Sure enough, though the young Kinzo wasn't exactly the same as Battler, they looked very similar.`
+char_non: `".........Allow me to introduce myself again.`
+char_non: ` ......I am Ushiromiya Kinzo."`
+char_rio: `"Grandfather........."`
+char_non: `Even the voice seemed to resemble Battler's somehow.`
+char_non: `Clearly, Battler had inherited Kinzo's blood more thickly than any other...`
+char_kin: `"I did not want to succeed the Ushiromiya family headship.`
+char_kin: ` ......My being chosen as the head was nothing more than a prank of fate."`
+char_wil: `"......In the Great Kanto Earthquake, those in charge passed away, and you were selected from the branch families."`
+char_rio: `"That's correct.`
+char_rio: ` After all, Grandfather was wise despite his youth, and he already possessed a dignity fitting for the headship."`
+char_kin: `"Fuhahahahahahahaha......`
+char_kin: ` Ridiculous.`
+char_kin: ` ......Those greedy elders were so intent on looking out for their own personal interests that they couldn't even decide on a new head.`
+char_kin: ` They were like fools arguing about who the new captain should be on a sinking ship."`
+char_wil: `"So, since you had no connections with anyone in the main family, you were selected right out of the blue."`
+char_kin: `"It's all because of my toes.`
+char_kin: ` If only I'd had one fewer toe on each foot, my life may have turned out quite differently......"`
+char_non: `In the Ushiromiya family, polydactyly was seen as a sign of good fortune.`
+char_non: `{n}This was because it was a common factor among many of the greats in the family's history.`
+char_kin: `"It was all very pathetic.`
+char_kin: ` The elders didn't care whom they dragged in as long as it wouldn't favor any of them over the others."`
+char_wil: `"So, they just happened to hear that someone in one of the branch families had six toes,`
+char_wil: ` and decided that would do well enough."`
+char_kin: `"Precisely.`
+char_kin: ` The elders didn't care what sort of novice became the head,`
+char_kin: ` as long as they could make him their puppet.`
+char_kin: ` In fact, the more ignorant this person was of how to lead, the better it would be for them."`
+char_rio: `"......Grandfather......"`
+char_kin: `"Lion.`
+char_kin: ` It is quite different in your case.`
+char_kin: ` ......You will be the one who inherits everything I have.`
+char_kin: ` That is the fate you were granted on the day of your birth.`
+char_kin: ` That is why I gave you that silver ring and raised you so strictly.`
+char_kin: ` ......You are quite different from me.`
+char_kin: ` You are already a splendid successor, of whom no one could be ashamed......"`
+char_rio: `"...Y‐......yes, sir......"`
+char_wil: `"A puppet heir, huh...`
+char_wil: ` ...I doubt that could've been easy."`
+char_kin: `".........Heh,`
+char_kin: ` ......hehahahahahahahahaha..."`
+char_non: `As he pondered about where to begin, Kinzo laughed bitterly.`
+char_non: `It would probably bring back nothing but painful memories no matter where he started from...`
+char_kin: `"It......lasted for so long, that span of gray days.`
+char_kin: ` That mind‐numbing stretch of time I spent dead passed like moss growing on a rock......"`
+char_non: `I became the rope in the tug of war between the elders, who thought of nothing but their own profit,`
+char_non: ` .....and I probably could have snapped at any moment.`
+char_non: `However, people are far more resilient than one would think.`
+char_non: `Though I spent so many days like a dead man, ......I was not killed.`
+char_non: `So, I would have to search for death on my own......`
+char_non: `The next thing I knew, I had reached the age when I could no longer refer to myself as "young" without drawing laughter from those who were.`
+char_non: `They were long, dreary, gray days without any substance.`
+char_non: `And they lasted for a full twenty years.`
+char_non: `In twenty years, a person can be born, find a purpose, and even become their own man with their own place in the world.`
+char_non: `In short, .....if one truly becomes a human only when they have become a working adult...`
+char_non: `...then I spent an amount of time long enough to create a human...`
+char_non: `...doing nothing except playing the part of puppet to those greedy old men.`
+char_non: `Ironically, though that time aged my body, it did not age my mind.`
+char_non: `In my heart, I was still young,`
+char_non: ` and I looked back fondly on the fulfilling days before I was summoned to Odawara.`
+char_non: `Only my body continued to age, and at some point, the gulf between the two had widened to the point that it was hard to comprehend.`
+char_non: `So, I could hardly believe that the worn‐out man in the mirror was really me.`
+char_non: `No, it really wasn't me.`
+char_non: `I was the "head of the Ushiromiya family" in name only.`
+char_non: `I had no rights,`
+char_non: ` no autonomy.`
+char_non: ` There was no need for me to do anything other than what was asked of me.`
+char_non: `I was just a doll sitting there on the shelf, gathering dust.`
+char_non: `I remember nothing but lazily flipping through Western books I liked, locking myself in my own world,`
+char_non: ` ......doing nothing but playing with roses and drinking terrible drinks.`
+char_non: `And it lasted a full twenty years.`
+char_non: `Before I knew it...`
+char_non: `...I had a stranger for a wife.`
+char_non: ` ......It wasn't any wife I had chosen.`
+char_non: `She was someone that the elders had chosen and forced on me for their own reasons, the daughter of some noble family or something,`
+char_non: ` ......but that hardly mattered to me.`
+char_non: `I did not love my wife, but neither did I dislike her.`
+char_non: `......I just didn't care.`
+char_non: `I fathered a few children, but that wasn't out of love for my wife.`
+char_non: `They were just born before I knew it.`
+char_non: ` ......That's all there was to it.`
+char_non: `None of it mattered.`
+char_non: ` No, that's not quite right.`
+char_non: `......Everything was decided by someone other than me, and I simply obeyed.`
+char_non: `That was the job...`
+char_non: `......of the "Ushiromiya family head"......`
+char_kin: `"On some level, I felt as though my life was being slowly and quietly snuffed out."`
+char_rio: `"I can't believe it.`
+char_rio: ` You have always been praised for being such a bold and wise ruler, and yet you lived like that for so long......"`
+char_kin: `"......Lion.`
+char_kin: ` There is nothing so long and insubstantial as a life you do not live for yourself.`
+char_kin: ` And yet, it passes in a blink.`
+char_kin: ` ......Take this to heart."`
+char_rio: `"A life...you live for yourself......"`
+char_wil: `"Living means having your own will.`
+char_wil: ` ......You probably {i:were} dead during that time."`
+char_kin: `"Precisely.`
+char_kin: ` I wanted to live.`
+char_kin: ` No, I wanted to die.`
+char_kin: ` ......What must a puppet do to die?"`
+char_rio: `".....................`
+char_rio: ` ......Cut...the strings."`
+char_kin: `"Correct.`
+char_kin: ` That would be death, it would be life, and it would be...`
+char_kin: `...release."`
+char_non: `Before I realized it, the world had grown troubled.`
+char_non: `World War II.`
+char_non: ` The Pacific War.`
+char_non: `Japan had extended their war fronts too far to the East and West, and the tide of war was changing.`
+char_non: `Thanks to the influence of the elders, I was able to avoid conscription.`
+char_non: `......Of course, this was not out of compassion for me.`
+char_non: ` It was because I was their precious puppet.`
+char_non: `So, the war never really felt that close to me.`
+char_non: `{n}However, when I personally decided to abandon their protection, it was very easy.`
+char_non: `At that time, the Ushiromiya family had almost completely collapsed,`
+char_non: ` and since the elders had apparently pilfered enough of the scraps to last them the rest of their lives,`
+char_non: ` they seemed to care little for what I did, now that they no longer had any use for me.`
+char_non: `So, I realized that I had finally found my time to die.`
+char_non: `One by one,`
+char_non: ` I cut the threads I was hanging from,`
+char_non: ` ......and began to search...`
+char_non: `...for a place to end my life.`
+char_wil: `"So, you searched for death on the battlefield?"`
+char_kin: `"......I thought that if I was going to die anyway, I should try to be of some use to someone.`
+char_kin: ` ......No, that's a lie.`
+char_kin: ` I probably just lacked the willpower to end my own life.`
+char_kin: ` War was a suitable excuse for death."`
+char_rio: `"I heard that your knowledge in public works and construction...`
+char_rio: `led to you being tasked with setting up facilities for the Navy construction team."`
+char_kin: `"Hmph, and what a miscalculation that was.`
+char_kin: ` If I had just said that I had no useful skills, I would have been sent to the front lines where I could die at a moment's notice..."`
+char_wil: `"So, you ended up not having to go to the front lines?"`
+char_kin: `"Some of the others were overjoyed at their luck.`
+char_kin: ` It was the opposite for me.`
+char_kin: ` My only desire was to get my hands on the intoxicating liquor of battle and drink myself to death.`
+char_kin: ` ......The US planes did nothing but cut across the skies of that forsaken island.`
+char_kin: ` ......They didn't have even a bullet to spare for me, much less a bomb."`
+char_rio: `"Is this the time you met Beatrice, Grandfather......?"`
+char_kin: `"Correct.`
+char_kin: ` She came to me from the sea......"`
+char_wil: `"Where did you meet her?`
+char_wil: ` You mentioned an island."`
+char_kin: `"It was here.`
+char_kin: ` She came to this island."`
+char_wil: `"......So, you met here, on Rokkenjima?"`
+char_rio: `"What's going on...?`
+char_rio: ` ......I heard that Rokkenjima was uninhabited until you bought it, Grandfather.`
+char_rio: ` I never knew there was a Japanese military base here."`
+char_kin: `"Pft, hahahahahahahaha......`
+char_kin: ` Ah, yes, you could hardly call that a military base.`
+char_kin: ` It was just a cave.`
+char_kin: ` I was one of the guards of that cave."`
+char_non: `{a:c:1944.}`
+char_non: `Due to the honorable defeats at Saipan and Guam, Japan's Absolute National Defense Zone strategy was in shambles.`
+char_non: `Where had the gallantry of the start of the war gone?`
+char_non: `{n}The old attackers were now the ones on the defensive.`
+char_non: `At that time, it was said that the final trump cards for the Japanese military were the so‐called "special attack weapons".`
+char_non: `It was said that these ultimate weapons were packed with 1.55 tons of explosives...`
+char_non: `and capable of sinking any kind of warship with a single blast.`
+char_non: `To strengthen homeland defense,`
+char_non: ` the Navy drafted a plan to build a string of hidden bases from Hachijojima to Yokosuka, all to house submarines loaded with special attack weapons.`
+char_rio: `"I knew that there was a base constructed on Hachijojima.`
+char_rio: ` To think there was one on Rokkenjima too......"`
+char_kin: `"Just what sort of fool decided it would be a good idea to plant a base on this desolate island, I have no idea.`
+char_kin: ` ......To better preserve its secrecy?`
+char_kin: ` Hmph, ridiculous.`
+char_kin: ` ......I could never understand what the higher‐ups were thinking, and I didn't particularly care."`
+char_non: `These truly were ultimate weapons, able to take down large warships in a single strike.`
+char_non: `It was hoped that the presence of submarines capable of loading these weapons in the waters just off of Japan would allow for a powerful sea ambush as a final line of defense.`
+char_non: `So, to aid in the establishment of a base with absolute secrecy, the uninhabited island Rokkenjima was raised as a possible candidate.`
+char_non: `An investigation of the island resulted in the discovery of a large cave in the cliffs,`
+char_non: ` and this was apparently deemed to be a suitable location for a submarine base.`
+char_wil: `"So, you were tasked with aiding in the establishment of that base?"`
+char_kin: `"Establishment?`
+char_kin: ` Certainly, if you can call digging out a cave "establishment".`
+char_kin: ` Not only that, the base was abandoned before its completion."`
+char_rio: `"Why?"`
+char_kin: `"Wahahahahaha!`
+char_kin: ` Because at that time, Japan no longer had any submarines large enough to carry one of those weapons.`
+char_kin: ` How truly laughable.`
+char_kin: ` What's the point in having a submarine base if there aren't any submarines left?`
+char_kin: ` If there's one thing that never changes, it's politicians and their meaningless projects."`
+char_non: `The base on Hachijojima was actually outfitted with those weapons and became a base for direct attacks,`
+char_non: ` but Rokkenjima was never supplied with any.`
+char_non: `Not only that, they cancelled the construction work entirely,`
+char_non: ` leaving only a crew of minimal size stationed on the island, waiting for orders from above that never came.`
+char_non: `Could it be the fact that it was a hidden base sealed our fate?`
+char_non: `The higher‐ups had already completely forgotten about this useless and pointless cavern.`
+char_non: `We were nothing more than guards for a mere cave.`
+char_non: `We spent our days farming, fishing, and playing with the dirt,`
+char_non: ` all the while gazing up at the American formations flying past.`
+char_non: `......Some of our group were relieved at the prospect of the war ending before anyone remembered we were here...`
+char_non: `and before any of us had to face a real battle.`
+char_non: `Of course, it was the opposite for me.`
+char_non: `I hoped beyond hope for the American troops to advance and kill me as soon as possible.`
+char_non: `And then, on one of those hollow days...`
+char_non: `Let us go back there now.`
+char_non: `......Back to the turning point in my life and my fate,`
+char_non: ` ......when Ushiromiya Kinzo finally became alive......`

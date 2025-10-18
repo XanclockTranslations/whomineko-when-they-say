@@ -1,0 +1,761 @@
+char_but: `......Battler did nothing but gaze lazily out the window.`
+char_but: `The fighting between the relatives continued without end......`
+char_but: `At first, the relatives had crowded around the study.`
+char_but: `However, no matter how much they knocked, the master of the study did not answer even once.`
+char_but: `Eva and several others said that they should open the door with the second key, the one Genji held.`
+char_but: `However, in a flash of brilliance, Natsuhi said that Kinzo had been in a particularly bad mood and had taken back the key he'd previously given Genji,`
+char_but: ` meaning that he now had both keys himself.`
+char_but: ` She claimed that it was therefore impossible for them to open the door.`
+char_but: `After she promised to let them meet Kinzo tomorrow morning no matter what, they finally returned to the dining hall.`
+char_but: `But, of course, the argument continued on even after they returned there.`
+char_but: `Eva's group wanted a lot of cash very soon, and they were trying to threaten Krauss somehow and make him pay up.`
+char_but: `......Apparently, Battler's solving of the epitaph, which threatened Krauss's position as the next head,`
+char_but: ` had given the others a huge tailwind.`
+char_but: `On the other side, Krauss and Natsuhi denied the very basis of their argument,`
+char_but: ` claiming that it had never been specified that ownership of the gold would be handed over to the person who solved the epitaph.`
+char_but: `They asserted that it hadn't been hidden gold, but just Kinzo's stockpile,`
+char_but: ` and it was still Kinzo's property, which meant it was only natural for it to be distributed after Kinzo's death with the rest of the inheritance.`
+char_but: `After hearing this, Eva's group once again started demanding that they be allowed to see Kinzo.`
+char_but: `......It had probably been clear as day from the beginning.`
+char_but: `{n}This sibling fight could only be settled by Kinzo...`
+char_but: `It was obvious that this confrontation was between Eva's group, which wanted cash fast,`
+char_but: ` and Krauss, who was hiding his lack of funds but still didn't need money right away.`
+char_but: `As Battler listened vaguely to this exchange,`
+char_but: ` ......he marveled at how, despite their usual affluent airs, they were all surprisingly deep in debt...`
+char_cla: `"Didn't you already say that a short while ago?`
+char_cla: ` That's enough, let's take a break.`
+char_cla: ` We're all repeating the same things over and over again."`
+char_non: `According to the clock, it was almost midnight.`
+char_non: `It certainly was a perfect time for a break.`
+char_non: `The atmosphere relaxed just a bit...`
+char_hid: `"I agree.`
+char_hid: ` It'd do both sides some good to take a breather.`
+char_hid: ` ...Listen, why don't we take a record down for the rest.`
+char_hid: ` I've had enough of fighting over what was or wasn't said."`
+char_eva: `"Seriously.`
+char_eva: ` We really can't do without a record of proceedings, not when Nii‐san can so easily deny something he's said before the words stop bouncing off the walls."`
+char_kir: `"With a written record, just writing it would be a pain, and it'd be open to forgery."`
+char_rud: `"Right.`
+char_rud: ` ......Aniki, does this thing work?"`
+char_cla: `"The tape set?`
+char_cla: ` ...I see.`
+char_cla: ` This way, we can keep a record without bothering to write it down, and forgery will be impossible.`
+char_cla: ` It's fair for both sides."`
+char_nat: `"Make sure you don't mess anything up...!`
+char_nat: ` Those are Father's precious music tapes!"`
+char_non: `The dignified tape set had a sense of weight to it which matched this majestic dining hall perfectly.`
+char_non: `On pleasant Sunday mornings, it would sometimes be used to play famous tapes or records.`
+char_non: `However, right now, it was the most neutral and impartial conference record keeper around...`
+char_non: `Rudolf fished randomly around the cassette rack, searching for a blank tape.`
+char_non: `And every time he found some tape with "sophisticated" music, he would chuckle at how pompous it was.`
+char_gen: `"Excuse me.`
+char_gen: ` ......You called?"`
+char_ros: `"We're taking a break.`
+char_ros: ` Sorry, but could you make us something to drink?`
+char_ros: ` And maybe some biscuits would be nice too."`
+char_gen: `"Certainly.`
+char_gen: ` I will prepare it right away......"`
+char_ros: `"Also, ......sorry.`
+char_ros: ` Do you have any cold medicine?`
+char_ros: ` I've been feeling a bit feverish."`
+char_cla: `"Then don't overstrain yourself.`
+char_cla: ` Get some sleep."`
+char_eva: `"If you really feel like it, why not get some sleep, Rosa?`
+char_eva: ` Though I wouldn't step out of such an important conference because of a simple cold."`
+char_cla: `"Really?`
+char_cla: ` I would excuse myself without hesitation.`
+char_cla: ` Natsuhi, why don't we take a short rest too?"`
+char_nat: `"............Yes, dear."`
+char_non: `Sensing that he meant to have a strategy meeting, Natsuhi stood up.`
+char_non: `......Even if that wasn't the case, she was so desperate to get out of the room even for a moment that she'd have taken any excuse.`
+char_non: `Krauss and Natsuhi left the dining hall, ......and the tension in the room truly relaxed.`
+char_but: `"............Phew."`
+char_kir: `"You've been doing great, Battler‐kun.`
+char_kir: ` ......I imagine you feel just horrible.`
+char_kir: ` Think of this as part of growing up and just accept it."`
+char_but: `"Just how long am I going to have to sit around doing nothing here?"`
+char_kir: `"......Who knows.`
+char_kir: ` After all, you're like our personal donation box.`
+char_kir: ` ......Sleepy?"`
+char_but: `"About the same as Japanese Lit class."`
+char_kir: `"I'm pretty sure Father won't show up tonight anyway.`
+char_kir: ` When Krauss nii‐san and the rest come back, I'll propose that we might as well let you go."`
+char_but: `"......I'd appreciate that."`
+char_non: `Tap‐tap.`
+char_non: `A light knock and the faint sound of china clinking together could be heard.`
+char_sha: `"Excuse us......"`
+char_kan: `"We have brought tea."`
+char_non: `Shannon and Kanon had come by with a serving cart.`
+char_non: `The pleasant smell of black tea relieved their tension all the more.`
+char_rud: `"......Hey.`
+char_rud: ` Did you hear?"`
+char_sha: `"What are you talking about......?"`
+char_kan: `"............We didn't hear anything."`
+char_eva: `"Stop it, Rudolf.`
+char_eva: ` There's no reason to tell them."`
+char_kan: `"......We are furniture,`
+char_kan: ` so we have no interest in the family conference."`
+char_eva: `"I see.`
+char_eva: ` That's a wise answer."`
+char_ros: `"......You have the midnight shift?`
+char_ros: ` That must be tough."`
+char_sha: `"That is our job.`
+char_sha: ` ......We would be happy to receive your orders."`
+char_hid: `"You could be right there.`
+char_hid: ` It'd probably be even more tiresome to sit around awake doing nothing.`
+char_hid: ` When I was still down in the bottom rungs, I once worked as a warehouse keeper.`
+char_hid: ` Even if you're just staying awake, it's still pretty tough...!`
+char_hid: ` Right after the war, you had robbers all over the place.`
+char_hid: ` Plus you couldn't rely on the police back then, so it was a pretty dangerous time...!"`
+char_non: `Hideyoshi was particularly proud of how he had started with nothing and built up assets by diverting goods from the American army.`
+char_non: `Once the subject came up, Hideyoshi tended to get pretty talkative.`
+char_non: `The relatives knew this and were greatly relieved to see that a perfect sacrifice had come up.`
+char_hid: `"If you got found out, you were in for it big time!`
+char_hid: ` Those Yanks are scary!`
+char_hid: ` Their strength's in another league 'cause of all that beef they eat.`
+char_hid: ` Get caught and that'd be the end of ya! Firin' squad or <death by hanging>!"`
+char_hid: `"You know that one? <Death by hanging>!`
+char_hid: ` Oh yeah, and then, I figured it out.`
+char_hid: ` It's all about the meat! The meat!`
+char_hid: ` Japanese people've gotta eat more meat!`
+char_hid: ` And that's when I had the revelation—I had to start up a business to capture people's stomachs!"`
+char_sha: `"I, ...I see...`
+char_sha: ` That m‐must have been quite a difficult task......"`
+char_eva: `"Stop it, darling.`
+char_eva: ` No matter how much you tell people born after the war, they'll never understand how hard it was back then."`
+char_hid: `"Oops, looks like my bad habit's jumped out again...!`
+char_hid: ` Sorry, sorry!`
+char_hid: ` Waha{0}ha{0}ha{0}haha!"`
+char_ros: `"You two should have some tea as well.`
+char_ros: ` I think it might help you if once in a while you used your own mouths to learn more about the tea you're brewing."`
+char_kan: `".........No, we'll be fine.`
+char_kan: ` There's no need to be concerned for our sakes..."`
+char_but: `"Hang out with us for a bit.`
+char_but: ` Being surrounded by only adults makes me feel like I'm gonna suffocate."`
+char_rud: `"Hear that? That's an order from Battler‐sama, successor to the head!`
+char_rud: ` Sit over there and have some tea with us.`
+char_rud: ` And tell us about what's been going on recently, your hobbies, TV shows you're watching, and whatever it is that's popular with young folks these days.`
+char_rud: ` There's a lot we could learn."`
+char_kir: `"*giggle*.`
+char_kir: ` That's a brilliant idea.`
+char_kir: ` Come on, sit down, both of you.`
+char_kir: ` And become our sacrifices now that we're starved of things to talk about."`
+char_hid: `"Wahahahahahaha.`
+char_hid: ` That's right.`
+char_hid: ` The only way I'm gettin' to talk to young folk at this age is goin' to a cabaret club."`
+char_eva: `"......How long are you planning on standing around there?`
+char_eva: ` Rudolf told you to sit.`
+char_eva: ` Go on, sit down.`
+char_eva: ` ......I give you permission as well."`
+char_non: `After getting Eva's permission, Shannon and Kanon looked at each other and finally obeyed, nervously.`
+char_non: `For a while, the two were pounded by questions and became the relatives' playthings......`
+char_non: `Tap‐tap.`
+char_non: ` Another reserved knock could be heard.`
+char_non: `All of the servants tended to knock in a similar manner,`
+char_non: ` so no one noticed anything strange.`
+char_non: `However, Shannon and Kanon turned around with surprised looks on their faces.`
+char_non: `......The servants here today included the two of them, Genji, Kumasawa, and Gohda.`
+char_non: `Gohda had the midnight shift at the guesthouse.`
+char_non: `{n}Kumasawa had gone to bed in the servants' quarters in the guesthouse.`
+char_non: `And they were in here, ......so Genji was the only person left,`
+char_non: ` ...but they knew very well that Genji wouldn't knock like that......`
+char_rud: `"......Who is it?`
+char_rud: ` It's not locked. Just come in."`
+char_non: `Rudolf didn't recognize the knock either.`
+char_non: `And when he asked "Who is it?", everyone came to the same realization that they too had no idea who would knock like that......`
+char_non: `After that, the same knock repeated just once more.`
+char_non: `......Could it be that someone had their hands full...and was asking that the door be opened for them...?`
+char_non: `As a slightly odd feeling began to encompass the room, the sound of the large clock in the hall could be heard.`
+char_non: `It was the sign that October 4th had ended and October 5th had begun......`
+char_non: `A short while earlier—`
+char_non: `Krauss and Natsuhi were well away from the dining hall, in a deserted corridor on the second floor......`
+char_cla: `".........So, we no longer have any other options."`
+char_nat: `"Yes...`
+char_nat: ` ......I do not think the same trick will work again tomorrow.`
+char_nat: ` ...If we hesitate any longer, there's a chance that Eva‐san and the others will claim that we have Father locked up and call the police.`
+char_nat: ` This is......as far as we can go."`
+char_cla: `"................................."`
+char_nat: `"......Battler‐kun finding the gold......was completely unexpected.`
+char_nat: ` If only that hadn't happened, I'd thought of a plan which might have managed to get us through this somehow......"`
+char_cla: `"......Hmph.`
+char_cla: ` Just like every other bet I've made.`
+char_cla: ` ...Something unexpected always arises, and the "guaranteed" outcome is thrown off course."`
+char_nat: `".........We'll have Father's room be empty starting tomorrow morning.`
+char_nat: ` Let's plan it out with Genji and have him say that he saw Father heading out into the forest early in the morning."`
+char_cla: `"I doubt Eva and the others will swallow that story of his disappearance..."`
+char_nat: `"I'm fully aware of that.`
+char_nat: ` However, we have no other options...!"`
+char_cla: `"If we do such a thing, ......Eva and the others will doubtless make a fuss about it being suspicious.`
+char_cla: ` They aren't worried about appearances as long as they can squeeze some money out of us.`
+char_cla: ` ...They might strike a deal with some odd magazine and cause serious damage to the confidence placed in me."`
+char_nat: `"We can live with {i:damage}...!`
+char_nat: ` If by any chance Father's secret is discovered, it won't be a matter of mere damage...!!"`
+char_cla: `"There's nothing wrong with persisting until the last second tomorrow.`
+char_cla: ` If we're able to make it through safely, we won't have to lose anything.`
+char_cla: ` There's no need to get impatient and use up our trump card...!"`
+char_nat: `"You want to wait until after they start accusing us of locking Father up, and {i:then} reply that he's gone missing?`
+char_nat: ` That is far more likely to draw suspicion...!!"`
+char_cla: `"........................nnnn......"`
+char_nat: `"......Let's just...`
+char_nat: `put Father to rest now...`
+char_nat: ` To go any further...`
+char_nat: `......would be impossible......"`
+char_cla: `"Calm yourself.`
+char_cla: ` You've just had too much exposure to the toxin from Eva and the others and have lost your composure.`
+char_cla: ` ......Only two keys exist which can let anyone into that study!`
+char_cla: ` And you have both of them right here.`
+char_cla: ` That means no one can go inside.`
+char_cla: ` That door is of a very special make.`
+char_cla: ` No matter what kind of tools they bring out of the storehouse, it won't even budge."`
+char_nat: `"It isn't a physical problem like that...!"`
+char_cla: `"Look, stop panicking, settle down.`
+char_cla: ` If you like, you can pretend to have gotten a fever and stay in bed.`
+char_cla: ` In the meantime, I will overcome all of this."`
+char_nat: `"......I can't leave everything to you...!`
+char_nat: ` I'll fight until the end too...!"`
+char_non: `When Natsuhi could no longer hold back the tears brought on by her fierce emotions, ......Krauss held her gently.`
+char_non: `......Just how long had it been since she'd last felt warmth from her husband's embrace......`
+char_cla: `"Your headache.........is killing you, isn't it?`
+char_cla: ` Whenever you get those creases between your eyebrows, I can tell."`
+char_nat: `"............Dear......"`
+char_non: `She had come to think that her husband could never understand the way she felt.`
+char_non: `But, ......when it came to times like this.........`
+char_cla: `"......Let's wait for the very last moment before using our disappearance trump card.`
+char_cla: ` It's like a last‐resort treasured sword:`
+char_cla: ` it's best when it remains in its sheath.`
+char_cla: ` The important thing is being ready to pull it out at any time, wouldn't you agree...?"`
+char_nat: `"I......understand that..."`
+char_cla: `"Why don't you leave that trump card with me?`
+char_cla: ` .........Of course, at the final moment, I will take all of the responsibility.`
+char_cla: ` ......I won't get you and Jessica involved."`
+char_nat: `"What...do you mean by that...?!"`
+char_cla: `"If the Ushiromiya family is destroyed, it is enough that I alone am crushed under the rubble.`
+char_cla: ` .........After the typhoon passes, I will prepare divorce forms.`
+char_cla: ` I will sign the papers for you to keep and use when you please.`
+char_cla: ` ......I have some assets hidden away in your name.`
+char_cla: ` Add on the settlement, and it should be enough for you and Jessica to live in comfort."`
+char_nat: `"No!!`
+char_nat: ` Ushiromiya Natsuhi is the name that should be engraved on my tombstone...!`
+char_nat: ` Please let me be with you until the last moment...!`
+char_nat: ` Even if it turns out that you are the last head of the Ushiromiya family,`
+char_nat: ` ......please let Natsuhi...`
+char_nat: `...be the name of his wife...`
+char_nat: `...your wife......"`
+char_non: `......Krauss's existence was based solely upon the power of his assets and his trustworthiness as a financial fixer.`
+char_non: `If those were both undermined, nothing would remain.`
+char_non: `Using the trump card of Kinzo's disappearance would mean losing one of these two essential supports.`
+char_non: `......It was like offering your right arm to save your head from being cut off.`
+char_non: `It was probably better than losing your head, but you still might die from the blood loss,`
+char_non: ` and even on the off‐chance that you did survive, you would have to bear a heavy wound that wouldn't heal for the rest of your life......`
+char_non: `Krauss was prepared even for death......`
+char_non: `Natsuhi understood this,`
+char_non: ` ......buried her face in Krauss's chest,`
+char_non: ` ...and cried...`
+char_gen: `"............My apologies for interrupting."`
+char_non: `Genji's sudden voice made Natsuhi jump back and hurriedly wipe the tears from her eyes.`
+char_non: `Krauss stood in front of Natsuhi, shielding her.`
+char_cla: `"Ah, Genji‐san.`
+char_cla: ` Please don't sneak up on us.`
+char_cla: ` ......Do you have some business?"`
+char_gen: `".........Yes.`
+char_gen: ` My apologies, but I have something to report to Madam."`
+char_nat: `"To......me......?`
+char_nat: ` Dear......"`
+char_cla: `"I don't mind."`
+char_non: `Krauss left Natsuhi's side, went to a window a short way off,`
+char_non: ` and gazed at the windy and rainy rose garden......`
+char_non: `Natsuhi went with Genji to a place a short distance away.`
+char_nat: `"......What is it?"`
+char_gen: `".........Well...`
+char_gen: ` The truth is, another phone call has come for you, Madam."`
+char_non: `At that moment, she was surprised by a sudden, eerie sound.`
+char_non: `{n}It was the large clock in the hall announcing midnight...`
+char_nat: `"You don't mean............that man......again...?"`
+char_gen: `".........Yes.`
+char_gen: ` ......What is to be done?"`
+char_nat: `"D‐......did he say what business he had with me?"`
+char_gen: `".........He would not answer.`
+char_gen: ` He kept insisting that he wanted to speak to you directly."`
+char_nat: `".............................."`
+char_non: `Again, ...a phone call......from the man who claimed to be taking revenge for what had happened 19 years ago.`
+char_non: `19 years ago.`
+char_non: `......That was just one year before Jessica and Battler were born.`
+char_non: `In Natsuhi's eyes, the gap between 19 years ago and 18 years ago was immense.`
+char_non: `......For a long time, she was unable to fulfill her role of creating a successor for the Ushiromiya family...and was treated very coldly.`
+char_non: `But then, she finally gave birth to Jessica...`
+char_non: `and became able to call herself the wife to the Ushiromiya successor with her head held high.`
+char_non: `......So in her eyes, "Ushiromiya Natsuhi" began 18 years ago.`
+char_non: `......So everything before that, including 19 years ago......contained nothing but hateful memories.`
+char_non: `The last year of that hateful period.........was whispering of revenge...from the other end of the phone......`
+char_non: `.........Once again......she heard the roar of the sea......`
+char_non: `....................................`
+char_gen: `".........What is to be done?"`
+char_nat: `"Transfer it......to my room.`
+char_nat: ` ......Don't let my husband know."`
+char_gen: `"......As you wish."`
+char_non: `From the very beginning, Genji had understood that she wouldn't want Krauss hearing about this phone call.`
+char_non: `That was why he had told Natsuhi covertly......`
+char_non: `Natsuhi ordered that he transfer the call, told Krauss that she would turn in for the night, and left at a quick pace......`
+char_non: `She returned to her room and locked the door.`
+char_non: `...There's nothing peculiar about that.`
+char_non: `{n}......In the Ushiromiya family, hallways are like public roads.`
+char_non: `{n}There's no special meaning in locking the door when you enter your own room...`
+char_non: `...This is what she told herself.`
+char_non: `Then, as though it had been waiting for her, the telephone rang.`
+char_non: `{n}...Genji must have transferred the call.`
+char_non: `She took a deep breath, readied herself, ............and picked up the receiver.`
+char_nat: `"............Hello........."`
+char_non: `".............................."`
+char_non: `Again, ......it started with silence.`
+char_non: `She realized that the person at the other end was trying to keep her in suspense and make her feel uncomfortable, and she got angry...`
+char_nat: `"Why are you silent...?!`
+char_nat: ` I'm hanging up...!"`
+char_non: `"...Hahahahahahaha...`
+char_non: ` ......Don't hang up, Mother.`
+char_non: ` I want to hear your voice a little longer......"`
+char_non: `Again......that unpleasant voice......`
+char_nat: `"Are you trying to mock me...?!`
+char_nat: ` State your business...!"`
+char_non: `"I want to play with you, Mother."`
+char_nat: `"...Wh‐......what?`
+char_nat: ` What are you talking about?!`
+char_nat: ` I have no desire to play with you...!!"`
+char_non: `"......You're tired from the family conference, right?`
+char_non: ` I'll bet that chronic headache of yours is giving you a bad time."`
+char_nat: `"Th‐that's none of your business...!"`
+char_non: `Just the fact that he knew her headache was troubling her made a shiver run up her spine...`
+char_non: `"You get headaches because your head's all stiff.`
+char_non: ` You won't have pleasant dreams if you go straight to bed like that."`
+char_nat: `"Haven't I told you that's none of your business?!!`
+char_nat: ` I'm hanging up!!"`
+char_non: `Natsuhi forcefully yelled that she was hanging up, but in actuality, she couldn't...`
+char_non: `After all, this person was choosing to call her, and that was much better than the alternative.`
+char_non: `......If she hung up violently,`
+char_non: ` ...this person might choose to call someone else...`
+char_non: `"Let's play a bit to help you relax.`
+char_non: ` Don't worry, I won't take up much of your time."`
+char_nat: `"I, ...I have no intention of playing with you......!"`
+char_non: `"......Your name is Natsuhi, Mother.`
+char_non: ` It has the kanji for a season in it.`
+char_non: ` Pretty nice name.`
+char_non: ` .........However, just because your name is Natsuhi, that doesn't necessarily mean that you like summer.`
+char_non: ` ...Which season is your real favorite, Mother......?"`
+char_nat: `"You think I'll tell you?"`
+char_non: `"If you don't, ......I'll hang up.`
+char_non: ` .........Are you sure you want that?"`
+char_nat: `"...kh.................."`
+char_non: `It was clearly a threat.`
+char_non: `......It meant that if she forced him to hang up the phone,`
+char_non: ` anything might happen......`
+char_non: `Humiliated that she was forced to give in to a threat made by a man whose name she didn't even know, she gave him the answer he wanted......`
+char_nat: `".........I‐.........it's autumn."`
+char_non: `"Why......?"`
+char_nat: `"B‐because it's an easy season to pass the time in...!`
+char_nat: ` There's no other reason in particular.`
+char_nat: ` Are you satisfied now?!"`
+char_non: `"Yeah, I'm satisfied.`
+char_non: ` ......It looks like your favorite season really is the same as mine.`
+char_non: ` ......I like the fall too.`
+char_non: ` .........Heheh{0}eh{0}eh{0}eh{0}eh{0}eh{0}eh{0}eh{0}eheheh..."`
+char_nat: `"......Liar!`
+char_nat: ` You just made that up...!"`
+char_non: `This man would no doubt have done the same thing no matter which season I said I liked.`
+char_non: `......What is he after?!`
+char_non: `What's so fun about making me uncomfortable like this...?!`
+char_non: `"It's not nice to call someone a liar.`
+char_non: ` ......I didn't make it up.`
+char_non: ` I was already certain that you liked the fall, Mother.`
+char_non: ` .........I can even show you proof."`
+char_nat: `"Proof.........?"`
+char_non: `"Yeah.`
+char_non: ` ......Is there a clock in your room, Mother...?"`
+char_nat: `"...A clock......?`
+char_nat: ` Y‐......yes, there is, but what's your point......?"`
+char_non: `In Natsuhi's room, there was a beautiful antique clock with an intricate design.`
+char_non: `......Krauss had bought it for her as a birthday present long ago.`
+char_nat: `".........It's seven minutes past midnight right now.`
+char_nat: ` I'm tired, so please get this farce over with quickly...!"`
+char_non: `"Try lifting the clock up."`
+char_nat: `"Wh‐why?"`
+char_non: `".........You just don't know when to shut up.`
+char_non: ` Stop resisting every single time I say something.`
+char_non: ` Just shut up and do what I say."`
+char_non: `The tone of the man's voice suddenly went low, turning into a threat.`
+char_non: `{n}It indicated clear displeasure.`
+char_non: `Outwardly, this man had a calm manner of speaking, but on the inside, things were completely different.`
+char_non: `If she angered this man even the slightest bit further, he would surely show his true nature right away...`
+char_non: `"......Are you really that eager to make me hang up?`
+char_non: ` You'd better start realizing how lucky you are that I'm talking on the phone with you right now......`
+char_non: ` ...I can tell your husband and daughter about what happened 19 years ago any time I want to..."`
+char_nat: `"I, I don't know what you're talking about, but please don't get my husband and daughter involved...!`
+char_nat: ` I'm listening to everything you say...!"`
+char_non: `"Then do what you're goddamn told......"`
+char_non: `Once again, the man threatened me in a low voice, as though warning me never to talk back to him again...`
+char_non: `My head was filled with the pain from my headache, the sound of my beating heart, ......and the roar of the sea...`
+char_non: `......I couldn't disobey him anymore.`
+char_non: `.........As the man had ordered, I lifted up the antique clock...`
+char_nat: `".................................?"`
+char_non: `There lay something that resembled a single playing card.`
+char_non: `{n}............?`
+char_non: `Perhaps it was the warranty for the clock.........?`
+char_non: `{n}Thinking this, she took it and turned it over............`
+char_non: `"Are you.........wide awake now?"`
+char_nat: `"Eek, ah,`
+char_nat: ` ......aaaaaaaahhhhh......`
+char_nat: ` Wh‐`
+char_nat: `wh‐wh‐`
+char_nat: `why...`
+char_nat: ` ...Why is...`
+char_nat: `...this...?!?!"`
+char_non: `"Well, I'll be happy if your headache's gone down a bit.`
+char_non: ` ......Tell me you're happy, Mother."`
+char_nat: `"How did you...?!`
+char_nat: ` Why?!`
+char_nat: ` How?!"`
+char_non: `"I want you to tell me you're happy, you murderer.`
+char_non: ` How dare you act like a normal, neat‐freak mother. You make me want to vomit.`
+char_non: ` Do you want some of it to land on your husband and daughter as well?`
+char_non: ` You don't, do you?`
+char_non: ` You want me to keep quiet, don't you?`
+char_non: ` Yeah, I'll keep quiet. See, aren't you happy?`
+char_non: ` Aren't you happy?!"`
+char_nat: `"Ah, .........aaaah, I'm happy... I'm happy...!!`
+char_nat: ` So please...stop...`
+char_nat: ` Don't burden my husband and daughter...!`
+char_nat: ` What is it you want?`
+char_nat: ` Money?`
+char_nat: ` How much?!"`
+char_non: `"I don't want money.`
+char_non: ` ......My wounds couldn't be healed with any amount of money.`
+char_non: ` But there is a medicine.`
+char_non: ` ......Yes,`
+char_non: ` it's like a kind of ointment.`
+char_non: ` ......Thick, syrupy and dribbling."`
+char_non: `"............And that is...`
+char_non: `my hatred,`
+char_non: ` ......my resentment towards you.`
+char_non: ` ...Slathering myself with that...`
+char_non: `is the only way to hold back the pain..."`
+char_non: `Natsuhi had never had anything so hateful said to her in her entire life.`
+char_non: `So she suspected many times that she must be having some sort of bad dream.`
+char_non: `However, ......this definitely wasn't a dream...`
+char_nat: `"......Y‐`
+char_nat: `...you couldn't possibly be...`
+char_nat: `...on this island right now, could you...?"`
+char_non: `"I am.`
+char_non: ` Didn't I promise you?`
+char_non: ` I said I'd be at the family conference."`
+char_nat: `"That's impossible...!`
+char_nat: ` There's no way you could have come during this typhoon...!!"`
+char_non: `"That's no problem if I came before the typhoon reached here.`
+char_non: ` ......And I'm pretty sure this guest called Erika or whatever arrived even during the typhoon."`
+char_non: `Her blood froze......`
+char_non: `{n}Furudo Erika had been brought here by coincidence...`
+char_non: `{n}If he knew that name, he would have to be very close by......`
+char_nat: `"Wh‐`
+char_nat: `......where...`
+char_nat: `...a‐`
+char_nat: `......are you.........?"`
+char_non: `"......I won't appear in front of anyone until you introduce me.`
+char_non: ` Don't worry.`
+char_non: ` .........Oh yeah, it's useless to try and search for me.`
+char_non: ` Your mansion is huge.`
+char_non: ` And you have phones all over the place.`
+char_non: ` Besides, I'm sure you don't want to see me either, do you?"`
+char_non: `"......Or are you offering to find me and introduce me to everyone...?`
+char_non: ` Introduce me to Jessica too.`
+char_non: ` ......Tell her I'm her older brother by one year.`
+char_non: ` Heheh{0}eh{0}eh{0}eh{0}eh{0}eh{0}eh{0}eh{0}eh{0}eh{0}eheheh!!"`
+char_nat: `"S‐stop it...... Stay away from Jessica......"`
+char_non: `"I guess I've scared you a bit too much.`
+char_non: ` That's all from me...for tonight.`
+char_non: ` ......But don't forget.`
+char_non: ` You cannot disobey me.`
+char_non: ` Understand,`
+char_non: ` ......Mother?"`
+char_nat: `"......Y‐.........yes......"`
+char_non: `"I'm going to hang up for the night, ......but I have an order to be followed up until tomorrow morning."`
+char_nat: `"Wh‐......what is that.........?"`
+char_non: `"You may no longer leave that room tonight, and you may not make any phone calls.`
+char_non: ` If the phone rings, you aren't allowed to pick it up, either.`
+char_non: ` And you will turn the lights off right now, get in bed, and sleep.`
+char_non: ` Then you will wake up at your ordinary time.`
+char_non: ` ............Heheheheheh.`
+char_non: ` It sure is nice to live a healthy life.`
+char_non: ` I really am such a good son, working so hard for the sake of my Mother's body......"`
+char_nat: `"I, ......I understand.`
+char_nat: ` I'll sleep right now.`
+char_nat: ` I won't leave my room, and I won't pick up the phone...!`
+char_nat: ` So please, don't tell my husband and daughter......!"`
+char_non: `"As long as you follow my orders, I'll keep your secret, Mother.`
+char_non: ` ......Don't disobey me.`
+char_non: ` ......I'm already very close by.`
+char_non: ` I can easily tell whether you've turned your lights off and whether you're on the phone.`
+char_non: ` ...If I wished to, I could even kiss your sleeping face."`
+char_nat: `"I'll keep it!`
+char_nat: ` I'll keep my promise!!`
+char_nat: ` So stop it, just stop it!`
+char_nat: ` Stop iiii{-}i{-}i{-}i{-}i{-}i{-}i{-}i{-}i{-}i{-}iittt!!"`
+char_non: `......As she screamed, Natsuhi crushed the card she had found under the clock into a little ball.`
+char_non: `It had a pattern on it like a tarot card,`
+char_non: ` along with one single word:`
+char_non: ` "Autumn".........`
+char_non: `We go back in time once again.`
+char_non: `The large clock in the hall was right in the middle of striking midnight.`
+char_non: `Wondering who the person who had now knocked twice was,`
+char_non: ` ......the relatives in the dining hall stared at the door.`
+char_non: `Rudolf told them to come in.`
+char_non: ` ......But there was no answer.`
+char_non: `Until the end of that long tone marking the coming of midnight, which had come from the large clock in the hall shortly after the knock,`
+char_non: ` they were unable to move in the slightest......`
+char_but: `"......Maybe their hands are full and they can't open it......"`
+char_rud: `"Maybe.`
+char_rud: ` ......But it's a little creepy that they won't say their name."`
+char_kan: `"......Should I open it?"`
+char_eva: `"Do it."`
+char_non: `Kanon nodded back, then slowly opened the door......`
+char_ros: `"Ah, ......what's that...?!"`
+char_rud: `"......It's......one of Dad's envelopes?"`
+char_non: `Right behind the opened door, on the floor of the hallway,`
+char_non: ` ......lay the envelope.`
+char_kan: `"There's no one in the hallway.`
+char_kan: ` Perhaps they placed this here and left..."`
+char_non: `The adults flew out into the corridor as well,`
+char_non: ` but they could find no trace of anyone who might have knocked on the door......`
+char_non: `Barely an hour ago, Shannon and Kanon had come in to serve tea.`
+char_non: `At that time, everyone had seen that nothing lay in that spot.`
+char_non: `Someone came, knocked, left an envelope with the mark of the One‐winged Eagle on it, and left...`
+char_sha: `"C‐......could it have been...the Master......?!"`
+char_ros: `"......It's not unthinkable.`
+char_ros: ` ......Father's pretty much the only person in this mansion who would refuse to answer when asked who he was."`
+char_eva: `"That's not possible.`
+char_eva: ` If that's so, then why didn't Father come in here openly?"`
+char_hid: `"......That's right.`
+char_hid: ` Father would probably just come in here all of a sudden without knockin'...`
+char_hid: ` The doors and windows of this mansion are locked now, right...?`
+char_hid: ` In that case, the only people who could've left the letter there are Krauss‐san, Natsuhi‐san, and Genji‐san."`
+char_non: `By this point, the mansion had been completely locked up.`
+char_non: `Therefore, those in the guesthouse—the cousins, Nanjo, Gohda, Kumasawa, and Erika—could not have come here.`
+char_non: `Furthermore, since Krauss, Natsuhi, and Genji were the only three who weren't in this room,`
+char_non: ` one of those three had to have been the one who set that letter down in the corridor.`
+char_non: `In that case, it was very likely that Krauss and the others had placed the letter there to make it seem like a message from Kinzo...`
+char_eva: `"I see...`
+char_eva: ` It'll have something written on it which is supposedly in Father's name, saying that he won't accept Battler‐kun as the next head, or something of the sort.`
+char_eva: ` Ridiculous.`
+char_eva: ` I can't believe you'd try to pull such a childish trick, Nii‐san...!"`
+char_but: `"It's not like I have any interest in being the next head..."`
+char_rud: `"Give up.`
+char_rud: ` This is just your fate.`
+char_rud: ` ......Anyway, why don't we read what's inside?"`
+char_non: `Rudolf set the letter on the dining hall table and showed everyone the front and back,`
+char_non: ` almost like a magician does before performing his act to show that there are no tricks or hidden mechanisms.`
+char_kir: `"......This envelope is without a doubt Father's?"`
+char_ros: `"Y‐...yes, there's no doubt.`
+char_ros: ` Father liked to use these envelopes for handwritten letters...`
+char_ros: ` What do you think, Shannon‐chan?"`
+char_sha: `"Y‐yes......`
+char_sha: ` ......To my eyes as well, ......it looks like the type of envelope that the Master uses..."`
+char_eva: `"That doesn't mean Father was the one who wrote it.`
+char_eva: ` It would be pitifully easy for Nii‐san to snatch one of these from a drawer in Father's study...!"`
+char_kan: `"Even Krauss‐sama cannot easily enter the study...`
+char_kan: ` It might be hard for him to steal an envelope......"`
+char_rud: `"Let's try opening it.`
+char_rud: ` We can think about this later.`
+char_rud: ` ......There's something in it.`
+char_rud: ` I wonder what."`
+char_non: `Rudolf opened the envelope a bit roughly.`
+char_non: `Then, a folded letter...`
+char_non: `...and a glittering object fell out.`
+char_non: `......It was a ring.`
+char_eva: `"Huh?`
+char_eva: ` ............Wait a second, ...that ring is......!"`
+char_non: `Eva noticed it immediately and grabbed it...`
+char_eva: `"Th‐`
+char_eva: `......this is...`
+char_eva: `...Father's ring...!`
+char_eva: ` I‐it's the Head's Ring!!"`
+char_hid: `"......Wh‐...what in the...!!`
+char_hid: ` Seriously?!"`
+char_kir: `"Are you sure it's Father's ring...?`
+char_kir: ` Could it be a replica...?"`
+char_eva: `"No, this is the real thing!`
+char_eva: ` I've always dreamed about wearing this ring on my finger someday.`
+char_eva: ` Even though Father wore this on his finger, I know more about it than anyone else.`
+char_eva: ` ......This is Father's ring, no doubt about it!`
+char_eva: ` Why is it here?!"`
+char_ros: `"Then it really {i:was} Father who wrote this letter...?!"`
+char_rud: `"......Heh, heheheheh.`
+char_rud: ` The sender isn't Dad.`
+char_rud: ` ...It's someone much more interesting."`
+char_but: `"Then, ......who is the letter from?"`
+char_rud: `"It's from the Ushiromiya family alchemist!`
+char_rud: ` .........The Golden Witch, {f:5:Beatrice}‐sama......!!"`
+char_non: `Rudolf showed everyone the part of the letter where that was written.`
+char_non: `{n}It really did say that......`
+char_ros: `"I‐......it's from {f:5:Beatrice}......?!"`
+char_kir: `"What's it say......?"`
+char_rud: `"I'll read it.`
+char_rud: ` .........<Congratulations>...`
+char_rud: ` I acknowledge that Battler‐sama has spectacularly solved the riddle of the epitaph and reached the Golden Land.`
+char_rud: ` .........The gold belongs to him in its entirety.`
+char_rud: ` Furthermore, he is also the new head of the Ushiromiya family.`
+char_rud: ` ......As proof, ............I send the Head's Ring, which Kinzo‐sama left in my charge...`
+char_rud: ` ......Battler‐sama, I beg that you put on this ring, become the new master of the gold, and lead the Ushiromiya family into the future.`
+char_rud: ` ......I pray with utmost sincerity that you flourish as the new head............"`
+char_rud: `"......Hah, ......hahah!`
+char_rud: ` What the hell...!`
+char_rud: ` I see, Dad just won't come out of his study, so {f:5:Beatrice}, the witch of the forest, has acknowledged Battler directly...!`
+char_rud: ` Hahaha, haha{0}ha{0}ha{0}ha{0}ha{0}ha{0}haha!"`
+char_eva: `"......Battler‐kun.`
+char_eva: ` You should hold onto this ring.`
+char_eva: ` ......This is a special ring to be worn by the family head.`
+char_eva: ` .........I don't know who this {f:5:Beatrice} is,`
+char_eva: ` but she's watched the whole thing and sent you this ring after acknowledging you as the true successor."`
+char_but: `"I‐......is that alright...?`
+char_but: ` It's such an important ring......"`
+char_rud: `"Yeah, it's fine.`
+char_rud: ` You should wear it proudly on your finger.`
+char_rud: ` ......Got it? Even if Aniki and Natsuhi‐san tell you to take it off, you better not do it no matter what...!"`
+char_non: `With creepy smiles on their faces, all of the relatives urged Battler to put the ring on his finger...`
+char_non: `It looked like things would get pretty nasty if he refused, so Battler reluctantly decided to put it on the middle finger of his left hand......`
+char_non: `The ring was heavy and stiff......`
+char_non: `At that moment, Krauss returned.`
+char_non: `......Genji came back as well immediately afterwards.`
+char_cla: `"My apologies.`
+char_cla: ` It looks like my wife isn't feeling so well, so she's gone to bed early.`
+char_cla: ` ............Did something happen?`
+char_cla: ` You all seem incredibly flustered."`
+char_gen: `"..................Battler‐sama, ......that........."`
+char_non: `Immediately, Genji keenly spotted the thing that Battler had just put on his finger...`
+char_hid: `"Your eyesight's pretty good, Genji‐san!`
+char_hid: ` ......Looks like you know whose ring this is."`
+char_cla: `"What...?`
+char_cla: ` What are you talking about......?"`
+char_non: `From Krauss's questioning look, it was very difficult to imagine that he could have been the one who set that letter there......`
+char_non: `Furthermore, his expression quickly changed into one of shock.`
+char_eva: `"Eheheheheh!!`
+char_eva: ` That's right, it's the ring of the Ushiromiya family head!!"`
+char_non: `The family conference took up this new topic,`
+char_non: ` ......and the storm came once again.........`
+char_non: `The rain was still pouring down as hard as ever.`
+char_non: `......This weather was supposed to continue all day tomorrow as well, which was making me feel a bit depressed.`
+char_non: `......Oh wait...given the time, that's today, not tomorrow...`
+char_non: `{n}But that doesn't really matter now.`
+char_non: `.........I'm sleepy...`
+char_non: `With half‐asleep eyes, I opened my umbrella.`
+char_non: `{n}The large drops of rain pounded against it mercilessly.........`
+char_non: `Technically, they had called an end to the family conference at {nobr:1 a.m.},`
+char_non: ` but the post‐match scuffles were still dragging on.`
+char_non: `I was really jealous of Auntie Rosa, who managed to slip out of there at that time.`
+char_non: `She cleverly got away by saying that she'd check on Maria, who might have been staying up too late.`
+char_non: `Thanks to Dad constantly involving me, I missed my chance to escape,`
+char_non: ` ...and they made me stick around until now, ......{nobr:3 a.m.}...`
+char_non: `What on Earth did they spend all that time deciding...?`
+char_non: `Nothing got decided at all.`
+char_non: `......They just kept on arguing about who said what, like elementary school kids.`
+char_non: `......They must be tired too.`
+char_non: `I'm sure that's why they keep dragging on with the same pointless questions.`
+char_non: `I no longer felt any shock or anger towards them.`
+char_non: `{n}I guess no painkiller works better than drowsiness...`
+char_non: `......I left them behind and finally returned to the guesthouse.`
+char_non: `When I returned to the guesthouse, the lights were on in the lounge downstairs.`
+char_non: `Not only that, I could even hear people chatting inside......`
+char_non: `{n}Apparently, some people were still awake even at this time of night.`
+char_non: `Despite the late hour, Gohda‐san and Doctor Nanjo were still awake and chatting.`
+char_non: `Plates and cups were lined up on the counter,`
+char_non: ` and it looked almost like a bar with Gohda‐san as the bartender.`
+char_non: `After noticing I'd come back, it looked as though Doctor Nanjo finally realized how late it was.`
+char_non: `As Gohda‐san made to top off his glass, he declined with an exaggerated gesture.`
+char_nan: `"No, that's enough, that's enough.`
+char_nan: ` ......It's already too late to be up."`
+char_goh: `"Look how late it's gotten...`
+char_goh: ` You were such a good person to chat with, I hardly noticed."`
+char_nan: `"No, no, it was your skill at entertaining that made the difference.`
+char_nan: ` We'll have to do this again sometime."`
+char_goh: `"Yes, gladly!`
+char_goh: ` Battler‐sama, welcome back.`
+char_goh: ` Is the discussion with Krauss‐sama and the others still continuing?"`
+char_but: `"......The way things were going, they'll probably drag it all the way out until dawn.`
+char_but: ` None of my business..."`
+char_non: `I spoke carelessly, with a big yawn.`
+char_eri: `".........You all have more stamina than I expected.`
+char_eri: ` It's quite a surprise."`
+char_but: `"Oh, ......so you're here too..."`
+char_eri: `"......Yes, a humble little night gathering had begun to form quite naturally here,`
+char_eri: ` so I took it upon myself to join.`
+char_eri: ` .........Don't worry, I haven't said a word about you‐know‐what."`
+char_but: `"..........................."`
+char_non: `Erika could be seen on the sofa.`
+char_non: `She had taken her shoes off and was lounging around as though she owned the place.`
+char_goh: `"And you too, Erika‐sama—you are very knowledgeable on a variety of subjects.`
+char_goh: ` I enjoyed listening to you immensely."`
+char_nan: `"Your knowledge truly is extensive.`
+char_nan: ` Very impressive for one so young..."`
+char_eri: `".........You're very welcome.`
+char_eri: ` It's merely the trivial knowledge of Furudo Erika."`
+char_non: `Erika posed by picking up the hem of her skirt.`
+char_non: `She was lounging on the sofa with her feet up, so it didn't look remotely elegant.`
+char_but: `"......Where's Auntie Rosa?"`
+char_goh: `"She returned around 1 a.m., but she went straight upstairs to sleep."`
+char_non: `That was probably the right choice...`
+char_non: `{n}She'd been going along with that conference for so long.`
+char_non: ` I feel like flopping down in bed right away myself.`
+char_non: `......I've had it.`
+char_non: `{n}I'm tired enough that I might flop over right here...`
+char_nan: `".........Well then, let's call it a night.`
+char_nan: ` Don't you have to get up early tomorrow morning to make breakfast, Gohda‐san?"`
+char_goh: `"Preparations for breakfast have already been made.`
+char_goh: ` As always, I have full confidence that you will enjoy it greatly, so please look forward to it."`
+char_non: `In Gohda‐san's eyes, the family conference is an open stage on which to display his culinary skills.`
+char_non: `{n}He's probably so pumped up he won't even get sleepy.`
+char_non: `As she laughed at how youthful Gohda was, Erika stood up.`
+char_non: `{n}This acted as the sign that it was time to disperse.`
+char_goh: `"I will clean up here.`
+char_goh: ` Please enjoy your sleep, everyone."`
+char_non: `Leaving the clean‐up to Gohda‐san, I went to the bathroom and then climbed the stairs to the second floor.`
+char_nan: `"Goodnight, everyone.`
+char_nan: ` These old bones have stayed up a little too late."`
+char_eri: `".........Good night, Doctor Nanjo.`
+char_eri: ` Good night, Battler‐san."`
+char_but: `"Yeah.`
+char_but: ` .........Night..."`
+char_non: `Then, in the upstairs hallway, we split up.`
+char_non: `Doctor Nanjo went to his own room.`
+char_non: `Erika went to her room.`
+char_non: `And I returned to the cousins' room.`
+char_non: `I couldn't hear any sounds of playing coming from the cousins' room.`
+char_non: `......Could they have already gone to sleep?`
+char_non: `{n}No surprise, at this time of night.`
+char_non: `{n}If they were still playing, they would have been staying up way too late...`
+char_non: `When I opened the door quietly,`
+char_non: ` as expected, the room was already pitch black except for a small nightlight.`
+char_non: `Everyone was already sleeping in their beds.`
+char_non: `I bet they all had a great time horsing around.`
+char_non: `......They probably had a ton of fun staying up late and talking about their youth.`
+char_non: `......If only I hadn't found the gold, I could have had fun spending time with them...`
+char_non: `I'm already...`
+char_non: `tired...`
+char_non: `...so tired.`
+char_non: `Forgetting even to change my clothes or brush my teeth,`
+char_non: ` I crawled into bed,`
+char_non: ` .........and immediately started to sink into the marshes of sleep.........`
+char_non: `Aaah, ......today's been so insane......`
+char_non: `I wonder if that old bastard is still in that family conference now......`
+char_non: `......How does he not get tired............?`
+char_non: `Come to think of it......`
+char_non: `......what was it that old bastard said when we parted company......?`
+char_rud: `— Tomorrow, there's something important I want to talk about, as a family.`
+char_rud: ` It's about you.`
+char_non: `......I'm sure it's more stuff about being the successor.`
+char_non: `{n}...I don't even want to hear about it......`
+char_rud: `— If I tell you about this,`
+char_rud: ` ......I'm probably gonna get murdered.`
+char_non: `I'll murder you whenever you want, you old bastard......`
+char_non: `And then, ......what was it he said next......?`
+char_rud: `— It's about your birth.`
+char_non: `My...`
+char_non: `............birth......?`
+char_non: `......Probably just something about the noble Ushiromiya lineage......`
+char_non: `Not interested......`
+char_non: `.........Just let me`
+char_non: `......sleep.........`

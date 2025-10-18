@@ -1,0 +1,746 @@
+char_but: `"So...on the tenth twilight, the journey shall end,`
+char_but: ` and you shall reach the Golden Land.`
+char_but: ` You really are diligent, Maria.`
+char_but: ` You did a good job taking notes on all of this."`
+char_mar: `"Uu!`
+char_mar: ` I forget a lot so I write things down!`
+char_mar: ` Write things down like Mama said!"`
+char_non: `There was a notebook inside the handbag Maria was always carrying around,`
+char_non: ` and {f:5:Beatrice}'s epitaph was copied onto it.`
+char_non: `Thanks to that,`
+char_non: ` we were all able to challenge the puzzle of the epitaph while here on this beach.`
+char_non: `For Jessica and the others,`
+char_non: ` this was a puzzle that they had already tried to solve several times,`
+char_non: ` and had already gotten bored with.`
+char_non: `But it was a first for me,`
+char_non: ` and I was so excited that I couldn't stop.`
+char_non: ` It really tickled my male sense of romance!`
+char_but: `"Let's start with the first line.`
+char_but: ` Behold the sweetfish river, running through my beloved home of old.`
+char_but: ` Where was Grandfather's old home again?"`
+char_jes: `"I heard that, before the war, the Ushiromiya family had a mansion near Odawara.`
+char_jes: ` So, that said, you'd want to know about a sweetfish river that flows through Odawara, right?"`
+char_but: `"Yeah, because that river's the starting point.`
+char_but: ` And then it's got, you who seek the Golden Land, follow its path downstream in search of the key.`
+char_but: ` What rivers are in Odawara?`
+char_but: ` It's got to be one with sweetfish swimming in it."`
+char_geo: `"For sweetfish in Odawara, it'd be the Hayakawa.`
+char_geo: ` It's famous for its mountain stream fishing."`
+char_mar: `"Uu.`
+char_mar: ` I haaate fish."`
+char_but: `"Ihihi, Maria, you'll understand when you get o~lder!`
+char_but: ` You'll be all, licklickli~ck, salty roasted sweetfish!`
+char_but: ` Yummy~!`
+char_but: ` Even though we just ate, I'm getting hungry again."`
+char_sha: `"......Umm, shall I bring you some biscuits?"`
+char_but: `"Huh?`
+char_but: ` Oh, sorry—that's not what I meant, don't mind me!"`
+char_non: `Shannon‐chan, who didn't have any afternoon chores for a while, was faithfully keeping us company.`
+char_non: `I would have thought that, as a servant, accompanying us would force her to take care of us and tire her out, but it seemed that it wasn't so in her case.`
+char_non: `...To the contrary, it seemed she was having fun joining in on the conversation with people of a similar age.`
+char_non: `When I asked, she told me she was a live‐in worker.`
+char_non: `{n}So normally, the only person close in age to her was Jessica.`
+char_non: `I get it, that must be pretty wearisome.`
+char_but: `"Alright, so I get that the sweetfish‐filled river near Odawara is the Hayakawa.`
+char_but: ` In that case, we have to go down it!`
+char_but: ` Don't you find anything if you head down the Hayakawa?"`
+char_sha: `"Ummm,`
+char_sha: ` ............if you follow it downstream, you'll arrive in the ocean."`
+char_but: `"Of course, you'd reach the mouth of the river!`
+char_but: ` And then the third line of the epitaph was "As you travel down it, you will see a village."`
+char_but: ` By the way, since long ago, the mouths of rivers have generally been key points for transportation, and large cities tend to be built there.`
+char_but: ` That'd be the next checkpoint."`
+char_geo: `"Hmmmmmm.`
+char_geo: ` That's a pretty good theory.`
+char_geo: ` Just like you imagined, in ancient times, there was a very prosperous old city there.`
+char_geo: ` That's where Odawara Castle is."`
+char_sha: `"Ah, I think I might have gone to Odawara Castle on a field trip once.`
+char_sha: ` It really was a wonderful castle."`
+char_jes: `"Yeah, I went to Odawara Castle too.`
+char_jes: ` Even though I live in a Western‐style house, it sure is true that Japanese people feel calmer with Japanese style!"`
+char_mar: `"Uu.`
+char_mar: ` I think castles are boorring.`
+char_mar: ` Theme parks are better.`
+char_mar: ` Uu!"`
+char_but: `"I see, I see. Alright, alright!`
+char_but: ` If we find the gold, the great Battler‐sama will generously reserve a whole theme park for a day and let you play a~ll you want!"`
+char_but: `".........Still, Odawara Castle.`
+char_but: ` The hidden gold of Odawara Castle...`
+char_but: ` Oho?!`
+char_but: ` Kind of has the right ring to it, don't you think?!"`
+char_jes: `"Hahahahaha!`
+char_jes: ` Well, we figured out that much when we tried this two years ago.`
+char_jes: ` The village down the river where the sweetfish swim in Odawara.`
+char_jes: ` We figured that it was probably somewhere near Odawara Castle."`
+char_jes: `"The problem is the next line.`
+char_jes: ` Alright, let's see where your strange reasoning can take you."`
+char_non: `Jessica grinned broadly.`
+char_non: `{n}It was like she was saying that, if the puzzle could be solved so easily, she would have found it long ago.`
+char_non: `...Damn it,`
+char_non: ` I'll definitely find it and keep it all for myself!`
+char_but: `"The fourth line.`
+char_but: ` ...In that village, look for the shore the two speak of.`
+char_but: ` .........I don't know what it means by "the two", but anyway, the shore.`
+char_but: ` .........What does it mean by the shore?!`
+char_but: ` Hmmmm...`
+char_but: `is there any place near there with {ruby:shore:{p:0:岸}} in its name?"`
+char_sha: `"Ummm,`
+char_sha: ` ......I have heard that there is a place called {ruby:Sogakishi:{p:0:曽我岸}} in Odawara."`
+char_but: `"Huh?!`
+char_but: ` Wow,`
+char_but: ` you sure know a lot!"`
+char_but: `"So~, what does that mean?`
+char_but: ` Shannon‐chan, are you also after the gold, and trying to solve the riddle~?`
+char_but: ` That makes us rivals!"`
+char_sha: `"It, it's not like I'm interested in gold...`
+char_sha: ` It's just that...George‐sama told me about it before..."`
+char_jes: `"That's because we reached the same conclusion two years ago.`
+char_jes: ` We even went and laid out a map and looked it up!"`
+char_geo: `"It was about five kilometers to the north of Odawara Castle.`
+char_geo: ` There certainly was a place called Sogakishi there."`
+char_geo: `"......But after that, we get stuck.`
+char_geo: ` The fifth line doesn't say where the key is hidden in that place.`
+char_geo: ` Maria‐chan, could you read it for us?"`
+char_mar: `"...Uu.`
+char_mar: ` ......There the key to the...`
+char_mar: `Golden Land...`
+char_mar: `sleeps."`
+char_mar: `"Uu!`
+char_mar: ` I read it!"`
+char_jes: `"Sogakishi is probably large, and there wasn't ever any house built there by the Ushiromiya family.`
+char_jes: ` With no hint to where the key is hidden in that huge area, we pretty much have to throw in the towel."`
+char_but: `"You're right.`
+char_but: ` ...And without the key, we can't advance to the next line.`
+char_but: ` George‐aniki, what kind of place is Sogakishi?"`
+char_geo: `"I'm not sure...`
+char_geo: ` I've never been there, so I don't really know, but according to the map, it's in the mountains.`
+char_geo: ` I'm pretty sure it was at the base of Mount Asama."`
+char_but: `"......Hmmmm.`
+char_but: ` Something doesn't sit right with me here.`
+char_but: ` Aren't puzzles for the hiding place of treasure meant to be a bit more exact than this?`
+char_but: ` I get the feeling we're barking up the wrong tree with Sogakishi."`
+char_jes: `"I dunno about that, Sogakishi looks suspicious to me!`
+char_jes: ` There might be some house there that we just don't know about, that Grandfather lived in when he was a kid.`
+char_jes: ` I mean, the first line did go on about his beloved home of old."`
+char_jes: `"...Shannon, Grandfather has you pouring drinks and stuff for him a lot, right?`
+char_jes: ` Haven't you ever been made to listen to stories from his past?"`
+char_sha: `"......The Master almost never speaks of his past.`
+char_sha: ` ...However, I've heard him speak of the Great Kanto Earthquake that almost destroyed the Ushiromiya family as though it had nothing to do with him,`
+char_sha: ` so he may have been living far away from the Kanto area."`
+char_geo: `"The Ushiromiya main family may have been living in Odawara, but the branch families probably weren't limited to that.`
+char_geo: ` Grandfather often called himself a branch of a branch family, and the least connected to the succession,`
+char_geo: ` after all."`
+char_but: `"So, in other words!`
+char_but: ` The beloved home of old might not even be Odawara at all..."`
+char_jes: `"I've never even asked about Grandfather's old home.`
+char_jes: ` And he probably wouldn't give it away if I did."`
+char_geo: `"If the so‐called beloved home of old isn't referring to the Ushiromiya family's roots, then the Odawara theory is wrong from the beginning.`
+char_geo: ` Of course, this doesn't remove all possibility that it was Sogakishi.`
+char_geo: ` For example, he could have lived in Odawara when he was very young, but then moved far away later."`
+char_mar: `"Uu...`
+char_mar: ` I don't get what you're talking about.`
+char_mar: ` Uu."`
+char_non: `Maria had been completely left out of the conversation, and she now sat puffing out her cheeks in boredom.`
+char_but: `"Well, basically,`
+char_but: ` if we can't decide where the start is for our golden game of Chutes and Ladders, we can't even begin to play."`
+char_but: `"...............But wait...?`
+char_but: ` In the first five lines the thing we're searching for is a key, right?`
+char_but: ` You can enter a door even without a key, just by busting right through it.`
+char_but: ` Can't we just throw away the first five lines and start figuring out the rest?"`
+char_jes: `"Ooh...`
+char_jes: ` I hadn't thought of that."`
+char_jes: `"Oh well, we're just killing time anyway.`
+char_jes: ` Let's hear the rest of your reasoning!"`
+char_sha: `"......But in the next part it quickly becomes disturbing..."`
+char_non: `Shannon‐chan frowned slightly.`
+char_non: `After looking back at Maria's notebook to recall what was written there,`
+char_non: ` ...alright, I agree.`
+char_but: `"On the first twilight, sacrifice the six chosen by the key...`
+char_but: ` It sure does get horrible quickly."`
+char_jes: `"On the second twilight, it says to tear apart the two who are close.`
+char_jes: ` Does that mean to make them break off their romance?`
+char_jes: ` Or literally tear them apart?`
+char_jes: ` I don't know, but either way, it's pretty disgusting."`
+char_geo: `"Even if we ignore the meaning of that second line, on the first twilight it's six people,`
+char_geo: ` and on the fourth through eighth twilights it's five people,`
+char_geo: ` so at least eleven people must become sacrifices."`
+char_mar: `"Uu.`
+char_mar: ` Sacrifices to revive {f:5:Beatrice}!"`
+char_but: `"...I see, sacrifices to bring back the witch...`
+char_but: ` I guess you can take it that way.`
+char_but: ` As a result, the witch revives on the ninth twilight......`
+char_but: ` ...This last part is glorious."`
+char_sha: `"............On the ninth twilight, the witch revives, and none shall be left alive.`
+char_sha: ` ......So everyone dies in the end anyway."`
+char_jes: `"And then it's got the goal finally being reached on the tenth twilight that follows.`
+char_jes: ` Not sure how anyone "shall reach the Golden Land" if everyone's dead."`
+char_geo: `"...It seems to allow for different interpretations as to whether or not the traveler who holds the key would be included in the "none shall be left alive" part."`
+char_but: `"But there's something pretty interesting written at the end.`
+char_but: ` The lines about how, after reaching the goal,`
+char_but: ` four treasures will be given by the witch.`
+char_but: ` One shall be all the gold.`
+char_but: ` The problem is the next one.`
+char_but: ` It says she'll resurrect all the dead people's souls, right?`
+char_but: ` Doesn't it seem like this refers to everyone that died in the earlier lines?"`
+char_sha: `".........If you put it like that, the next one, the part about even reviving the love they possessed,`
+char_sha: ` might be referring to the pair torn apart on the second twilight."`
+char_geo: `"That's right.`
+char_geo: ` And the fourth one refers to the ninth twilight.`
+char_geo: ` The fourth treasure is putting the witch, revived on the ninth twilight, back to sleep again."`
+char_jes: `"...If we interpret it favorably,`
+char_jes: ` it's hectic with people dying and being broken up, but it's all made well in the end.`
+char_jes: ` The awakened witch once again sleeps, and all that's left is plenty of gold."`
+char_but: `"The witch must have her hands full with all this killing, reviving, breaking up, and reuniting people."`
+char_jes: `"Not to mention waking up and sleeping.`
+char_jes: ` Hahahahaha."`
+char_but: `"Oh well, just when the tale of the hidden gold was getting interesting, as soon as the witch's story is tied in, it quickly gets pretty shady."`
+char_jes: `"No kidding, ahahahahahaha!"`
+char_non: `I laughed along with Jessica.`
+char_non: `{n}After all, a witch was just ridiculous.`
+char_non: `...Of course, once we started laughing like that, Maria, who believed in witches, got angry.`
+char_mar: `"Uu!`
+char_mar: ` Witches are awesome!`
+char_mar: ` They can do anything with magic!`
+char_mar: ` Even kill.`
+char_mar: ` Even bring back to life.`
+char_mar: ` Even give love, even take it."`
+char_mar: `"Can fly in the sky, can become invisible, can even make gold and bread out of nothing!`
+char_mar: ` Uu!`
+char_mar: ` Uu!!`
+char_mar: ` Uu‐uu‐uu!!"`
+char_jes: `"Erk, oh no...`
+char_jes: ` My bad...it's just a joke!"`
+char_non: `Jessica apologized, sticking out her tongue, but Maria didn't accept it.`
+char_non: `She grabbed her notebook back out of my hands, and, opening to the other pages, tried to prove that witches existed.`
+char_non: `Those pages had colored illustrations of witches drawn on them,`
+char_non: ` and conveyed the fantastical image Maria had of witches well.`
+char_non: `They were not depicted as the normal sinister crooked‐nosed hags flying around on brooms,`
+char_non: ` but as dreamlike people with mysterious powers, who could do anything and wore beautiful dresses—`
+char_non: `just what you would expect from an imaginative young girl.`
+char_non: `Dancing through the sky, crossing a rainbow,`
+char_non: ` dancing around all night with magical teacups and teapots that would never get empty no matter how much you poured out of them.`
+char_non: `With a flourish of their wands, the stars in the sky would become candy and pour down,`
+char_non: ` and flowers that produced sweets would bud by the roadside.`
+char_non: `......To Maria, witches were the sole thing that could give form to the magical dreams that so captivated her.`
+char_non: `The last thing enriching her reality, which revealed more and more of its bland nature to her with every inch she grew.`
+char_non: `That was why Maria believed in witches.`
+char_non: `She didn't want that dream to be insulted.`
+char_non: `{n}And for that very reason, nor did she want the epitaph, which affirmed the existence of witches, to be insulted.`
+char_non: `Because the witch {f:5:Beatrice} {i:is} Maria's dream...`
+char_geo: `"To Maria‐chan, this is not something that points to the hiding place of the gold,`
+char_geo: ` but magic to revive the witch."`
+char_non: `So, it was the single bridge...`
+char_non: `between Maria and the witch.`
+char_non: `Maria was very angry and clung onto George‐aniki.`
+char_non: `Jessica and I scratched our heads and apologized.`
+char_non: `...It might not be possible to smooth things over again like the time she got mad in front of the portrait.`
+char_non: `Maria didn't want to be easily consoled.`
+char_non: `{n}As Jessica and I hung our heads, wondering what we could do, Shannon‐chan timidly opened her mouth in our place.`
+char_sha: `"Umm,`
+char_sha: ` .........Maria‐sama, did you know...?`
+char_sha: ` There is a ghost story about {f:5:Beatrice}‐sama that has been passed down amongst the servants."`
+char_mar: `"......Uu?"`
+char_jes: `"Ah, ahh, yeah, that's right!`
+char_jes: ` Shannon, tell us about it.`
+char_jes: ` I don't really know, but it's apparently pretty famous amongst the servants."`
+char_but: `"What's this?`
+char_but: ` A ghost story?"`
+char_geo: `"Yes.`
+char_geo: ` It seems it's a story from before we were born.`
+char_geo: ` I've also heard it from my mother."`
+char_sha: `"......Yes.`
+char_sha: ` It has been passed down since the mansion was built on this island.`
+char_sha: ` ......The servants of that time whispered that the mansion had two masters, one of the day and one of the night."`
+char_non: `The tale that Shannon told...`
+char_non: `was just like a typical campfire ghost story.`
+char_non: `If there was a forest with a witch living inside it,`
+char_non: ` ...then, inevitably, the witch was going to pay the mansion a visit.`
+char_non: `At some point, this ghost story naturally sprouted up between the servants.`
+char_sha: `"Doors and windows they were sure they'd shut or locked would be open when they came around to double‐check.`
+char_sha: ` Lights they'd definitely turned off would be on,`
+char_sha: ` and lights they'd definitely turned on would be off.`
+char_sha: ` Things would disappear from where they had been placed,`
+char_sha: ` and things would appear when no one had any memory of putting them there."`
+char_sha: `"......When any of these things happened, the old servants would say that the witch had visited the mansion, invisible, and had played pranks."`
+char_mar: `"Uu!`
+char_mar: ` See, she exists!`
+char_mar: ` {f:5:Beatrice} exists!!"`
+char_jes: `"Yeah, she exists.`
+char_jes: ` I remember often being unable to find my bag before heading to school..."`
+char_non: `Maria puffed out her chest with an "uu‐uu" as though this was the final proof that the witch existed.`
+char_non: `If I said it out loud, Maria would probably be hurt again, so I didn't, but...`
+char_non: `...I mean, you hear that kind of story everywhere.`
+char_non: `Depending on the place, it might be blamed on fairies or something.`
+char_non: `{n}It's just that, on this island, they call it the witch.`
+char_non: `Of course, you would expect that walking around a vast, elegant mansion at night would be a little unsettling.`
+char_non: `It's an island devoid of people.`
+char_non: ` Since the mansion is so drafty, walking around on the night of a thunderstorm would certainly be eerie.`
+char_sha: `"In addition, some servants have also seen will‐o'‐the‐wisps and glittering butterflies dancing around.`
+char_sha: ` ......Kanon‐kun also said he saw something like that when he went patrolling one night."`
+char_sha: `"And recently, the servants have been talking about strange footsteps inside the mansion near midnight.`
+char_sha: ` We have whispered together that {f:5:Beatrice}‐sama from the portrait sometimes makes herself invisible and walks through the mansion."`
+char_sha: `"...It happened a long time ago,`
+char_sha: ` but I have also heard those kinds of footsteps while patrolling at night."`
+char_but: `"......Whew.`
+char_but: ` That's scary..."`
+char_sha: `"Ah, ...but,`
+char_sha: ` there's nothing to be afraid of, you know?`
+char_sha: ` {f:5:Beatrice}‐sama is another ruler of this mansion separate from the Master.`
+char_sha: ` So, she won't do anything bad, as long as you respect her and don't act oddly afraid."`
+char_geo: `"However, she's fearsome if you don't respect her, right?"`
+char_sha: `"...Yes.`
+char_sha: ` I heard that someone who quit just before I began working, after falling down the stairs and receiving a large injury to their back,`
+char_sha: ` had been speaking badly of {f:5:Beatrice}‐sama.`
+char_sha: ` Because of that, there was a rumor between the servants that {f:5:Beatrice}‐sama's anger had been brought down upon this person..."`
+char_mar: `"Uu...`
+char_mar: ` Anger will definitely be brought down on Battler and Jessica...`
+char_mar: ` Uu..."`
+char_but: `"I, I, I'm sorry!`
+char_but: ` I don't want her anger brought down upon me!`
+char_but: ` I apologize, Maria.`
+char_but: ` Of course, I also apologize to the witch.`
+char_but: ` I'm sorry, {f:5:Beatrice}‐sama, please forgive an outsider's nonsense."`
+char_jes: `"I'll apologize as well.`
+char_jes: ` I'm sorry, {f:5:Beatrice}‐sama.`
+char_jes: ` .........Will the witch be able to forgive us now?"`
+char_mar: `"...Uu.`
+char_mar: ` Don't know.`
+char_mar: ` Witches are fickle, so they forgive when they forgive, and don't when they don't.`
+char_mar: ` Uu!"`
+char_geo: `"That's no good...`
+char_geo: ` Maria‐chan, isn't there some kind of charm that could prevent Battler‐kun and Jessica‐chan from having {f:5:Beatrice}‐sama's anger brought down upon them?`
+char_geo: ` Maybe something to ward off magic?"`
+char_non: `By relying on Maria, who was proud of knowing the most about witches, George was trying to revive her self‐esteem.`
+char_non: `......I was once again forced to admire his ability to comfort children.`
+char_non: `After crossing her arms and pondering seriously as to whether there was some charm capable of protecting Jessica and myself from the witch's wrath,`
+char_non: ` Maria began flipping through the pages of her handbook.`
+char_non: `I had thought it was just a simple scribbled diary,`
+char_non: ` ......but it turned out that there were also many pages that looked like they had come from a book on black magic.`
+char_non: `She was intently comparing several such pages, onto which had been copied what looked like magic circles.`
+char_non: `.........It looks like that black magic hobby wasn't limited to Grandfather alone.`
+char_non: `Perhaps she had finished her research;`
+char_non: ` she vigorously closed the notebook with a snap, threw it into her handbag, and began fishing through that bag's contents.`
+char_non: `It seemed that various jumbled up things were in there.`
+char_non: `For a while, she continued to take out various pieces of junk—although they were probably important magical items to her—`
+char_non: `and repeatedly throw them back in, saying they were wrong.`
+char_non: `She looked a little humorous, almost like Santa Claus deliberating over which present to give.`
+char_non: `Finally, it seemed that she had excavated what she was looking for.`
+char_non: `With a face unimaginably brighter than the difficult expression she had worn until now, she stuck "them" out to Jessica and me.`
+char_mar: `"Uu!"`
+char_non: `As I reached out to grab it, I noticed that it was a very cheap‐looking charm.`
+char_non: `It looked like a bracelet made from a plastic rosary,`
+char_non: ` with a scorpion‐motif medal attached.`
+char_non: `I mean, you often find cheap accessories that correspond to the constellations.`
+char_non: `It felt like a gift that you might win in the crane game at an arcade.`
+char_non: ` It really looked like something like that.`
+char_non: `There were two.`
+char_non: ` Probably one for me and one for Jessica.`
+char_non: `......However, considering the odd fact that there were two of them, they looked like cheap manufactured goods,`
+char_non: ` and it was quite hard to think of them as magical items.`
+char_jes: `"You're giving these to me and Battler?"`
+char_mar: `"Uu!`
+char_mar: ` With these charms, even {f:5:Beatrice} is no problem!`
+char_mar: ` Because the scorpion has the power to block magic!"`
+char_but: `"Huh, really?`
+char_but: ` Didn't think scorpions could do that."`
+char_mar: `"Uu, Battler doesn't believe!`
+char_mar: ` Uu‐uu‐uu!"`
+char_non: `I had inflamed Maria again because I said too much...`
+char_non: `Maria took out her notebook again, and turned and pointed to page after page,`
+char_non: ` going on and on about how the scorpion had holy power, and had been drawn on magic‐repelling magic circles since ancient times.`
+char_sha: `"......Ah, I've heard about that from some of the other young servants.`
+char_sha: ` Something about how the scorpion is drawn as a magic‐repelling symbol in sorcery..."`
+char_jes: `"Huh, really...!"`
+char_mar: `"Uu!`
+char_mar: ` The scorpion protects against bad magic and disasters.`
+char_mar: ` And emerald brings peace to the heart.`
+char_mar: ` So it has double the effect!`
+char_mar: ` Uu!"`
+char_geo: `"It's true.`
+char_geo: ` The scorpion is wrapping around an emerald, protecting it.`
+char_geo: ` I see, that seems very useful."`
+char_non: `I really wanted to make fun of this worthless‐looking charm,`
+char_non: ` but as I watched Maria explaining the charm with all of her heart, and realized that she had prepared them out of consideration for us,`
+char_non: ` it felt as though, even if it were just a prize from a game center, it would still be beneficial.`
+char_non: `Material quality isn't what's important about charms.`
+char_non: ` It's the strength of the feelings behind them.`
+char_non: `{n}I'd like to think I have enough respect for myself not to make fun of those.`
+char_but: `"Okay, thank you.`
+char_but: ` I apologized to {f:5:Beatrice}‐sama, but, even in the worst case where I'm cursed, I'll be safe now thanks to your charm.`
+char_but: ` Right, Jessica?"`
+char_jes: `"Yeah, that's right!`
+char_jes: ` Thank you, Maria."`
+char_mar: `"Uu!`
+char_mar: ` Wear it on your arm when you want a peaceful heart.`
+char_mar: ` If you put it in your wallet, your money won't go down!`
+char_mar: ` If you hang it from a doorknob, bad things can't get in!`
+char_mar: ` A really useful charm!"`
+char_sha: `"What an incredible effect.`
+char_sha: ` If it is a charm that Maria‐sama can recommend with confidence, I am sure it will be reliable."`
+char_non: `As Shannon‐chan tapped her hands together lightly, Maria stuck out her chest.`
+char_non: `She was completely cheered up again.`
+char_non: `If it would keep her in this good of a mood, it would probably be worth it to let Maria lead the discussion for a while longer.`
+char_non: `When you think about it, she hadn't shared in our excitement when we talked about the gold's hidden location, so I think she had gotten a little bored.`
+char_non: `While eating the cookies Kumasawa‐san had baked, Jessica and I asked Maria this and that about black magic.`
+char_non: `Maria happily chatted away in response to our questions.`
+char_non: `For each one, George‐aniki and Shannon‐chan would act surprised and agree with everything she said.`
+char_non: `The color of the clouds in the sky grew progressively heavier, but the cousins really enjoyed communicating freely after one year of separation...`
+char_geo: `"......Hm.`
+char_geo: ` Did I just feel a drop on my forehead?"`
+char_but: `"Huh?`
+char_but: ` You might have."`
+char_non: `As George‐aniki rubbed his forehead, he looked up at the sky.`
+char_non: `Considering the color of the sky and the dampness of the air, raindrops could easily have started falling down at any moment.`
+char_non: `It also seemed like the wind had gotten a little stronger.`
+char_mar: `"Uu?`
+char_mar: ` I didn't feel a drop.`
+char_mar: ` I'm the only one.`
+char_mar: ` Uu!"`
+char_but: `"Calm down, neither did I.`
+char_but: ` Anyway, I'm sure that it'll rain so much tonight that everyone will get the same amount of raindrops."`
+char_geo: `"That's right.`
+char_geo: ` Maybe we should head back soon...?"`
+char_non: `Shannon‐chan looked down at her watch.`
+char_non: `{n}It may already be well into the evening.`
+char_jes: `"Time to get back to work already?"`
+char_sha: `"Yes.`
+char_sha: ` ...I enjoyed this time I spent together with you all.`
+char_sha: ` Thank you very much."`
+char_geo: `"Tell Kumasawa‐san thanks for the cookies.`
+char_geo: ` Alright everyone, help out with the cleanup."`
+char_non: `Shannon‐chan declined our help, saying that this was a servant's job,`
+char_non: ` but picking up a dropped fork before the waitress has to is like my purpose in life.`
+char_non: `We folded up the blanket, gathered up the trash, and helped clean everything up.`
+char_mar: `"Uu!`
+char_mar: ` The trash is getting awayyy!`
+char_mar: ` Uu‐uu!!"`
+char_but: `"Oh no it isn't, I'll grab it before you!"`
+char_mar: `"Uu!!`
+char_mar: ` I'm going to get it!`
+char_mar: ` Uu‐uu‐uu!"`
+char_jes: `"Mariaa!`
+char_jes: ` Don't get your shoes wet, you'll get in trouble!"`
+char_non: `To Maria, chasing after some trash that the strong winds had sent flying was just like an extension of our playtime.`
+char_non: `By the time we finished cleaning up, the wind had started blowing very strongly.`
+char_non: `It looked like a good chance to head back.`
+char_sha: `"You all really helped me out.`
+char_sha: ` Thank you very much."`
+char_geo: `"...It really looks like you're out of time.`
+char_geo: ` It's alright if you head back first."`
+char_non: `George‐aniki perceived from her hurried appearance that very little of her free time was left.`
+char_jes: `"Genji‐san is very rigorous about time.`
+char_jes: ` If you aren't at the right place at the right time, he can be very strict."`
+char_geo: `"We'll see you later.`
+char_geo: ` Do your best with your work."`
+char_sha: `"Ye‐yes!`
+char_sha: ` ......Then if you will excuse me."`
+char_non: `After making a respectful bow, Shannon‐chan hurried off in the direction of the rose garden.`
+char_but: `"Okay, let's head back to the guesthouse.`
+char_but: ` We can watch TV or something and relax a little."`
+char_mar: `"Uu!`
+char_mar: ` Watch TV!`
+char_mar: ` Watch TV, uu!"`
+char_jes: `"Then it's decided.`
+char_jes: ` Let's all head back and watch TV together."`
+char_non: `Even Maria, who was still not tired of playing, agreed when she thought about watching TV.`
+char_non: `We headed up the gentle stairs and returned to the rose garden.`
+char_non: `The wind had become very strong, and roses shook throughout the garden like ripples on water.`
+char_non: `This might be our last chance to see these beautiful roses.`
+char_non: `{n}Tonight's typhoon is sure to ruin them...`
+char_but: `"These roses might be done in by tonight's winds."`
+char_jes: `"Yeah.`
+char_jes: ` I'd say they were lucky, though.`
+char_jes: ` After all, they got to welcome all of you before the typhoon."`
+char_geo: `"A flower will always lose its petals at some point.`
+char_geo: ` However, because of that, we can admire them even more when they are in bloom."`
+char_but: `"That's right.`
+char_but: ` ...Maria, burn this image into your eyes.`
+char_but: ` At this moment, they are the best roses of the year."`
+char_mar: `"Uu.`
+char_mar: ` Burned into eyes."`
+char_non: `Right then, Maria suddenly clapped her hands.`
+char_non: `{n}It looked like she had remembered something.`
+char_mar: `"......My rose...`
+char_mar: ` The typhoon will send it flying.`
+char_mar: ` ......Uu!"`
+char_but: `"Oh, you mean that unhealthy rose George‐aniki marked with a ribbon?"`
+char_non: `It seemed that Maria remembered where the rose was.`
+char_non: `She ran at full speed.`
+char_non: ` The rest of us followed her.`
+char_mar: `"............Uu?`
+char_mar: ` Uu."`
+char_jes: `"Where was that again...?`
+char_jes: ` I'm sure it was somewhere around here."`
+char_non: `We searched everywhere around that area, but, after all, it was only a single flower amongst all of these roses.`
+char_non: `Even though we knew it was somewhere close by, it wasn't proving easy to find.`
+char_non: `The winds that made up the front lines of the typhoon were making the roses throughout the garden undulate.`
+char_non: ` It was almost like it was teasing us by making the location of Maria's rose impossible to find...`
+char_geo: `"Maybe it wasn't here...`
+char_geo: ` Let's try spreading out a bit in our search."`
+char_but: `"Sounds good.`
+char_but: ` Let's go for strength in numbers."`
+char_but: `".........Hm?`
+char_but: ` What's up, Maria?"`
+char_non: `As we made to split up and search, Maria tugged on my jacket with an unhappy face.`
+char_non: `......It felt like her intention was to stop us from going to another place.`
+char_but: `"What is it, what happened?"`
+char_mar: `"......Uu.`
+char_mar: ` My rose is here.`
+char_mar: ` It's here...!"`
+char_jes: `"But it's actually not, is it...?`
+char_jes: ` Maybe it was on the other side of the flower bed.`
+char_jes: ` If we all look, we'll find it fast, right?"`
+char_mar: `"Uu!!`
+char_mar: ` It's here!`
+char_mar: ` My rose is here!!`
+char_mar: ` Look for it!`
+char_mar: ` Look—for—it!!`
+char_mar: ` Uuu!!"`
+char_non: `Maria stomped her feet in irritation.`
+char_non: `......She was pointing at the spot, saying it was definitely there, yet it actually wasn't.`
+char_non: `And yet, if we went to go search elsewhere, she got mad.`
+char_non: `...We were at a loss for what to do.`
+char_non: `For a while, we would have to stay with Maria,`
+char_non: ` and pretend to search through this rose thicket.`
+char_mar: `"......Uu.`
+char_mar: ` Uu...!`
+char_mar: ` Not here.`
+char_mar: ` ......Not here!`
+char_mar: ` Not here!`
+char_mar: ` Uuu!!"`
+char_non: `Maybe she's saying that it should be here but isn't.`
+char_non: `{n}Maria became increasingly ill‐tempered...`
+char_but: `"...Oh man,`
+char_but: ` Maria is really losing her temper."`
+char_jes: `"Maria sometimes starts to really care about really pointless things.`
+char_jes: ` If she gets what she wants, that's alright, but..."`
+char_geo: `"You can't find something that isn't there...`
+char_geo: ` That's not good..."`
+char_non: `Just as we were starting to despair for a way out of the situation,`
+char_non: ` Maria shouted out loudly.`
+char_mar: `"Mamaa!!`
+char_mar: ` Uu‐uu!!"`
+char_non: `In the direction she was waving her hand, Auntie Rosa's figure was visible.`
+char_non: `Maybe she wanted to look at the garden one more time before the typhoon came,`
+char_non: ` or maybe she had some business at the guesthouse.`
+char_non: `Auntie Rosa was coming from the mansion.`
+char_non: `{n}She quickly noticed her daughter's voice and came over.`
+char_ros: `"Oh my, what happened, everyone?`
+char_ros: ` Are you looking for something?"`
+char_mar: `"Look for iiit!`
+char_mar: ` Mama, you look for my rose too!`
+char_mar: ` Uu‐uu‐uu!!"`
+char_ros: `"Your rose?"`
+char_geo: `"We found an unhealthy rose around here and marked it."`
+char_but: `"We tied a candy wrapper or something around it, tight.`
+char_but: ` ...But Maria, if I remember correctly, it was growing right in front and really stood out, didn't it?`
+char_but: ` Unless it grew legs and ran off somewhere, it must've been somewhere else.`
+char_but: ` Aren't you just remembering it wrong?"`
+char_mar: `"Uu!!`
+char_mar: ` It is here!!`
+char_mar: ` It—is—here!!`
+char_mar: ` Battler doesn't believe!`
+char_mar: ` Uu‐uu!!"`
+char_ros: `"For the umpteenth time, will you please stop that "uu‐uu" nonsense?!`
+char_ros: ` Mama will look for it, so stay quiet!!"`
+char_non: `I was a little surprised to see Auntie Rosa, who I had only ever seen as gentle, get angry.`
+char_non: `Auntie Rosa began searching as well, so we went along with her for the time being,`
+char_non: ` but we were already more than sure that it wasn't around here.`
+char_non: `...And so, Auntie Rosa also realized, very quickly, that it wasn't here.`
+char_ros: `"The rose isn't here.`
+char_ros: ` Did you mistake this place for somewhere else?`
+char_ros: ` There are so many roses around—"`
+char_mar: `"Uu!!`
+char_mar: ` Uuuu!!!`
+char_mar: ` That's wrong!!`
+char_mar: ` It is here!!`
+char_mar: ` Mama doesn't believe!`
+char_mar: ` Uu‐uu‐uu!!!"`
+char_ros: `"I do believe you, that's why I'm searching!`
+char_ros: ` But it isn't here!"`
+char_mar: `"Uu‐uu!!`
+char_mar: ` But it is here!!`
+char_mar: ` It is here but it isn't!!`
+char_mar: ` Uu‐uu‐uu!!"`
+char_ros: `"Then someone must have ripped it out!`
+char_ros: ` Just stop whining like that!!"`
+char_mar: `"Uu‐uu‐uu!!`
+char_mar: ` Who ripped out my rose, who?!!`
+char_mar: ` Give it back, give it back!!`
+char_mar: ` Uu‐uu!!`
+char_mar: ` Uu‐uu‐uu‐uu!!!"`
+char_ros: `"How should I know!!`
+char_ros: ` Stop it, stop that whining!!"`
+char_non: `Auntie Rosa slapped Maria's left cheek with her palm.`
+char_non: `{n}For that instant, Maria was shocked into silence.`
+char_non: `Of course, it was only for an instant.`
+char_non: `{n}When Maria realized that her wish was being rejected before it could be fulfilled, she started yelling with an increasingly louder voice.`
+char_mar: `"Uu‐uu!!`
+char_mar: ` Uu‐uu‐uu!!`
+char_mar: ` My rose!`
+char_mar: ` My rose!!`
+char_mar: ` Uu‐uu‐uu‐uu‐uu‐uu‐uu!!!"`
+char_ros: `"Didn't I tell you to stop that weird habit!!`
+char_ros: ` That's why all of the kids in your class make fun of you!!`
+char_ros: ` Cut it out!!"`
+char_non: `Once again, her palm slapped Maria's cheek.`
+char_non: `This time she didn't go silent.`
+char_non: `{n}She choked as she started crying, and began to bawl in an increasingly louder voice...`
+char_non: `Auntie Rosa was clearly irritated, and lifted her hand once more to try and shut her daughter up...`
+char_but: `"A‐Auntie Rosa...`
+char_but: ` Now, now...she's just a little kid...there's no reason to get so serious...ihihi."`
+char_non: `I attempted to intervene with a forced smile and my hands clasped together,`
+char_non: ` ...but the deadly serious look I was thrown by Auntie Rosa taught me quickly that I shouldn't butt in.`
+char_ros: `"I'm sorry, would you all return to your room for a little while?`
+char_ros: ` Your auntie needs to have a little talk with Maria."`
+char_mar: `"Uu‐uu‐uu!!`
+char_mar: ` Nobody believes in my rose!!`
+char_mar: ` Even though it was here!!`
+char_mar: ` Uu‐uu!!`
+char_mar: ` Look for it!!`
+char_mar: ` Look—for—it!!`
+char_mar: ` Here, it was here!!`
+char_mar: ` Uu‐uu‐uu‐uu!!!"`
+char_ros: `"But it's not here!!`
+char_ros: ` Then you must be confusing it with somewhere else, mustn't you?!"`
+char_mar: `"Uu‐uu‐uu‐uu!!`
+char_mar: ` It is here!!`
+char_mar: ` It is definitely here!!`
+char_mar: ` Uu‐uu‐uu!!"`
+char_ros: `"Then it has disappeared!!`
+char_ros: ` Give it up!!"`
+char_mar: `"Why?!`
+char_mar: ` Why did my rose disappear?`
+char_mar: ` Why, why?!`
+char_mar: ` Uu‐uu‐uu!!!"`
+char_ros: `"I don't know that!!`
+char_ros: ` So stop saying "uu‐uu"!!"`
+char_non: `Auntie Rosa once again raised her hand and, overrun by emotions, slapped Maria's cheek.`
+char_non: `{n}It was so strong, it knocked Maria over.`
+char_but: `"H‐hey...Auntie Rosa,`
+char_but: ` even if she is your daughter, you shouldn't be violent like that..."`
+char_non: `I stepped between them to protect Maria, who was still on the ground, crying "uu‐uu".`
+char_non: `......I know that problems between parent and child are none of my business as an outsider.`
+char_non: `{n}But I wasn't brought up to just silently observe something like this...`
+char_ros: `"Don't you think it's weird, Battler‐kun?`
+char_ros: ` Do you have any girls at your school that mutter "uu‐uu"?"`
+char_but: `"Well, I am in high school...`
+char_but: ` But for an elementary schooler, I think saying "uu‐uu" is pretty cute..."`
+char_ros: `"Cute?`
+char_ros: ` Saying "uu‐uu" is cute?`
+char_ros: ` Cute?!"`
+char_non: `It seemed that my reckless words had brought Auntie Rosa's wrath down upon me.`
+char_non: `{n}She grabbed my collar with a terrifying expression...`
+char_ros: `"Don't say such nonsense!!`
+char_ros: ` Do you know how old Maria is?`
+char_ros: ` She's nine years old!`
+char_ros: ` She's a fourth grader, you know?!`
+char_ros: ` She's not a kindergartner!`
+char_ros: ` And even so, she still says "uu‐uu" during class!!"`
+char_ros: `"Do you understand?!`
+char_ros: ` This kid, do you know what they say about her when they bully her?!`
+char_ros: ` Thanks to this weird habit, she still hasn't made even a single friend!`
+char_ros: ` Don't turn your eyes from reality and recklessly call Maria cute!!`
+char_ros: ` Think much, much more seriously about this kid's future!!!"`
+char_mar: `"Uu‐uu‐uu‐uu‐uu!!!`
+char_mar: ` Uu‐uu‐uu‐uu‐uu‐uu!!!"`
+char_ros: `"I told you, stop saying "uu‐uu"!!!`
+char_ros: ` Didn't I tell you to stop it!!"`
+char_non: `Auntie Rosa struck Maria's quivering head from which an increasingly unsatisfied voice was rising.`
+char_non: `I tried to stop her, but she thrust me away...`
+char_non: `My back collided with George‐aniki.`
+char_geo: `"......A long time ago, Auntie Rosa also thought of it as nothing more than one of Maria‐chan's baby words...`
+char_geo: `but she is now midway through elementary school, so the fact that it hasn't been fixed has bothered her a lot recently..."`
+char_but: `"It's not like it matters what kind of words she uses..."`
+char_geo: `"You can't become a proper member of society like that.`
+char_geo: ` ...So, even though it's not a pleasant scene to watch,`
+char_geo: ` ......this is a problem between mother and child."`
+char_jes: `".........Well,`
+char_jes: ` my mom's always giving me hell about how I speak, too."`
+char_non: `If you look at it that way, maybe an outsider shouldn't interfere with this, even though it's painful to watch...`
+char_geo: `"Battler‐kun, didn't you ever have any bad habits as a kid that you couldn't fix and got you in trouble?"`
+char_but: `"......Well, one or two.`
+char_but: ` On Parents' Day, I got a huge telling‐off in front of everyone, and it was so embarrassing, I couldn't stand it."`
+char_geo: `"Well then, you can understand Maria‐chan's feelings right now.`
+char_geo: ` ......I'm sure she doesn't want us to be here now.`
+char_geo: ` ......Do you understand as well, Jessica‐chan?"`
+char_jes: `"............I don't think anyone likes to be seen when they're being punished."`
+char_geo: `"Let's go.`
+char_geo: ` Let's return to the guesthouse.`
+char_geo: ` Then, after Maria‐chan comes back,`
+char_geo: ` let's welcome her as if nothing happened.`
+char_geo: ` ...That's...probably for the best, isn't it?"`
+char_non: `We thought that George‐aniki's point was probably correct,`
+char_non: ` ...and if we could use that correct‐sounding reason to justify our retreat from this painful scene, that was probably enough for us.`
+char_non: `Jessica and I nodded at George‐aniki, and we all left.`
+char_non: `We called towards Maria that we were going to head to the guesthouse,`
+char_non: ` but since it didn't seem to reach her ears, we felt guilty and shameless even saying it...`
+char_ros: `"In that case, look by yourself as much as you want!`
+char_ros: ` Mama doesn't care!!"`
+char_mar: `"Uu!!!`
+char_mar: ` Look for it!`
+char_mar: ` I'll look for it by myself!!`
+char_mar: ` Look for it even if Mama doesn't care!`
+char_mar: ` Uu‐uu‐uu‐uu‐uu!!"`
+char_ros: `"Have it your way!!"`
+char_non: `After blasting her with those last few words, Rosa spun on her heels and quickly returned to the mansion.`
+char_non: `Maria probably viewed that as a cold, hurtful gesture.`
+char_non: `But from Rosa's perspective, that was not her intention.`
+char_non: `...It was because the hand which she had so emotionally struck Maria's cheek with was still numb.`
+char_non: `...It was because, if she stayed there screaming, she might again be taken over by her emotions, and continue slapping her daughter's cheek over and over.`
+char_non: `After Rosa left, only Maria was left in the rose garden, all alone.`
+char_non: `The wind began to blow stronger and stronger, and every once in a while, a raindrop would fall on her forehead.`
+char_non: `...However, Maria couldn't leave that place.`
+char_non: `{n}Not until she found that poor, withering rose.`
+char_non: `It had definitely been there.`
+char_non: ` ......And yet,`
+char_non: ` it wasn't there.`
+char_non: `{n}Even though she knew the place, and even though this was it,`
+char_non: ` it wasn't there.`
+char_non: `Maria, while bitterly staring at the place it was supposed to be, thought frantically.`
+char_non: `Maybe the angle I'm looking from is wrong.`
+char_non: `{n}Maybe the height I'm looking from is wrong.`
+char_non: `......While gazing at a single point,`
+char_non: ` Maria repeatedly changed her position and continued to stare.`
+char_non: `The wind was getting increasingly stronger......`
+char_non: `But Maria kept on looking for that rose in front of the flower bed...`
+char_non: `.........Kinzo noticed the sound of the raindrops beating on the window.`
+char_non: `{n}It had finally started to rain.`
+char_non: `{n}It had begun later than the weather report had predicted.`
+char_non: `Kinzo, as if being summoned by the sound of the rain, approached the window.`
+char_non: `{n}The sound of the rain is a sound of silence.`
+char_non: `That sound feels quieter than any silence,`
+char_non: ` and makes humans remember that, in the end, they are alone from when they are born to when they die.`
+char_kin: `"......You're late, {f:5:Beatrice}."`
+char_non: `Were those words directed at the rainy sky...?`
+char_non: `{n}No one could be seen in the direction of Kinzo's gaze.`
+char_kin: `"......So, shall we begin?`
+char_kin: ` Our banquet of miracles.`
+char_kin: ` ......In this very moment, this island has been cut off from the world.`
+char_kin: ` Now there are none who can interrupt my ritual."`
+char_kin: `"There are many fitting sacrifices for you.`
+char_kin: ` Four of my children.`
+char_kin: ` Three of their companions.`
+char_kin: ` Four of my grandchildren.`
+char_kin: ` Me and my guests and my servants!`
+char_kin: ` You may eat up as many as you please."`
+char_kin: `"The key of fate will select the sacrifices in accordance with the Demons' Roulette.`
+char_kin: ` If that roulette chooses me, even I will become your sacrifice.`
+char_kin: ` ......However, because of that...`
+char_kin: `because I will bet on that madness,`
+char_kin: ` ......I will definitely create a grand miracle."`
+char_kin: `"...Come, devour as much as you wish...!!`
+char_kin: ` I will overcome that roulette.`
+char_kin: ` Yes, I'll put everything on the line.`
+char_kin: ` First, I will return the headship of the Ushiromiya family.`
+char_kin: ` Take it!!"`
+char_non: `As Kinzo violently opened the window, he ripped the golden ring from his finger, and forcefully threw it away.`
+char_non: `......At that moment, thunder resounded, giving the illusion that the lightning had accepted the ring.`
+char_kin: `"And.........when you are resurrected,`
+char_kin: ` it will be me who stands there.`
+char_kin: ` I will live until the end and watch over you as you awaken."`
+char_kin: `".........Now come, {f:5:Beatrice}...`
+char_kin: ` Welcome to my banquet...!`
+char_kin: ` In exchange for all that I have created, show me a miracle one final time.`
+char_kin: ` ......Oooooohh,`
+char_kin: ` ...{f:5:BeatriceeEee}............"`

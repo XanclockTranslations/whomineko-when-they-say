@@ -1,0 +1,782 @@
+char_but: `"Hey, everyone, good job finishing "Umineko no Naku Koro ni"!`
+char_but: ` Man, I still didn't have a clue what was going on when the story ended!"`
+char_jes: `"So just what happened?`
+char_jes: ` Was that basically the "bad ending", where time runs out before the culprit can be exposed?"`
+char_mar: `"Uu.`
+char_mar: ` Definitely a bad ending.`
+char_mar: ` Uu."`
+char_geo: `"I think so too.`
+char_geo: ` {f:5:Beatrice}'s letter, which Maria‐chan read on the first day, did tell us in advance to solve the riddle of the epitaph.`
+char_geo: ` We were all so busy trying to protect ourselves and look for the culprit that we didn't even take a shot at it."`
+char_sha: `".........Yes, that's true.`
+char_sha: ` If we had actually tried to solve the riddle, I'm sure things would have ended differently."`
+char_but: `"I wonder about that.`
+char_but: ` Shannon‐chan, you did a good job too!"`
+char_but: `"You don't have to be our waitress and serve tea.`
+char_but: ` After all, this is a wrap party.`
+char_but: ` As a group of people who met a horrible fate, let's all get along and lick each other's wou~~nds!`
+char_but: ` Licklickli~ck!!"`
+char_jes: `"Speaking of a horrible fate, Shannon beats the rest of us hands down, doesn't she?`
+char_jes: ` She was such a beautiful character, so I thought she'd definitely survive until the very end,`
+char_jes: ` but she was killed right in the beginning, and on top of that...what was it?`
+char_jes: ` Half of her face was smashed, right?`
+char_jes: ` That's the worst!"`
+char_sha: `"............That was my role, so, umm......there was no way around it..."`
+char_kan: `"...Nee‐san, it's nothing for you to worry about.`
+char_kan: ` Judging by the final epilogue, even Milady and the others met with a considerably tragic end."`
+char_geo: `"Ahahaha... It seems that way.`
+char_geo: ` I think I remember seeing this horrible picture, kind of like my entire body had been eaten apart and dismembered."`
+char_but: `"Speaking of which, don't you think Kanon‐kun's last moments were the coolest?`
+char_but: ` Even though he had the tables turned on him, it was a showdown with the culprit, right?`
+char_but: ` It's a whole bunch better than our confusing last moments!"`
+char_kan: `".........Though, in the end, I was no match for her."`
+char_sha: `"Still, ...I think that Kanon‐kun's death was a big hint.`
+char_sha: ` I mean, because of that, it became clear that a 19th person existed."`
+char_geo: `"Yes.`
+char_geo: ` At that time, everyone's location was obvious.`
+char_geo: ` So it was impossible for anyone other than some unknown 19th person to kill Kanon‐kun."`
+char_mar: `"Uu!`
+char_mar: ` I did say it was {f:5:Beatrice} from the beginning, over and oooover.`
+char_mar: ` Uu!"`
+char_jes: `"......I don't wanna believe it, but that does prove the culprit was a witch calling herself {f:5:Beatrice}."`
+char_sha: `"That's right...`
+char_sha: ` There were many strange things that happened which a human couldn't do..."`
+char_mar: `"Uu. Only a witch could do things like Auntie Eva's locked‐room murder.`
+char_mar: ` A human couldn't do that!`
+char_mar: ` Uu!"`
+char_kan: `"............Not only is it clear that a 19th person exists, but it is also obvious that this person holds a power that humans can't even imagine."`
+char_jes: `"In that case, I don't think there's anything wrong with calling this person {f:5:Beatrice}."`
+char_geo: `"...We probably met at the very end.`
+char_geo: ` ...Met with the Golden Witch."`
+char_mar: `"That's why I kept telling you {f:5:Beatrice} exists.`
+char_mar: ` It all went bad because no one ever believed.`
+char_mar: ` Uu!`
+char_mar: ` Even one of my witch friends says miracles won't happen if you don't believe!`
+char_mar: ` Uu!"`
+char_sha: `"That's right.`
+char_sha: ` {f:5:Beatrice}‐sama is generous to those who respect her."`
+char_kan: `"......I feel as if, despite the fact that horrible incidents kept occurring one after the other, Maria‐sama wasn't in danger from {f:5:Beatrice}‐sama until the end."`
+char_jes: `"Maria did believe in {f:5:Beatrice} from the very beginning.`
+char_jes: ` ...But then, so did Kanon‐kun and the others, so how do you explain why they were all killed?"`
+char_kan: `"......{f:5:Beatrice}‐sama probably had her reasons."`
+char_sha: `"If the epitaph poem represented {f:5:Beatrice}‐sama's resurrection ritual, then she needed many sacrifices.`
+char_sha: ` ......He must simply have been designated to be one of those."`
+char_geo: `"...Shannon‐chan, you met a horrible end...`
+char_geo: ` At the very least, I wish your death could have been more peaceful and pretty."`
+char_sha: `".........Umm, well, ...it's not like it hurt...`
+char_sha: ` Besides,`
+char_sha: ` as you can see, right now, I'm perfectly fine, so don't worry."`
+char_non: `Shannon proved this by stroking her cheek which had been crushed during the story, and everyone laughed out loud, smiling.`
+char_geo: `"Well, it feels a bit weird saying this, ...but I was sure this story would be in the standard mystery genre.`
+char_geo: ` I'm a little surprised to find out that it's fantasy.`
+char_geo: ` After all, a story revolving around an inheritance, set on a Western‐style mansion shut away on an isolated island, ...I thought that was the classic formula for mysteries."`
+char_mar: `"......Uu.`
+char_mar: ` It's not fantasyyyy!`
+char_mar: ` {f:5:Beatrice} "exiiists"!`
+char_mar: ` Uu."`
+char_kan: `".........Yes, we know.`
+char_kan: ` {f:5:Beatrice}‐sama does "exist"."`
+char_sha: `"That's right.`
+char_sha: ` ......{f:5:Beatrice}‐sama does "exist"."`
+char_jes: `"...I hate to admit it, but I've got no choice.`
+char_jes: ` Because it's obvious that a 19th person, a witch, was involved...!"`
+char_geo: `"She pulled off many things that would be impossible for humans.`
+char_geo: ` During the story, we thought of all kinds of things, trying to deny that."`
+char_geo: `"...But now I can say it clearly.`
+char_geo: ` Each one of them, all of them, were crimes impossible for a human.`
+char_geo: ` ......Those crimes would be impossible to carry out unless it was the witch {f:5:Beatrice} using all of the power magic could provide."`
+char_jes: `"The culprit was a witch.`
+char_jes: ` That point is perfectly clear.`
+char_jes: ` Long live {f:5:Beatrice}‐sama.`
+char_jes: ` Hahahahahaha."`
+char_mar: `"Uu.`
+char_mar: ` Everyone believed.`
+char_mar: ` I'm happy.`
+char_mar: ` Uu!"`
+char_sha: `"......Gods and witches might seem terrifying to people who are frightened of them,`
+char_sha: ` but I think they must have affection for those who believe in and respect them."`
+char_kan: `"............I think it's just as you say."`
+char_jes: `"So, now we're all done with playing with murder cases.`
+char_jes: ` Now's the time to pull ourselves together and try hard to solve the riddle of the epitaph, just like {f:5:Beatrice} said, right?"`
+char_mar: `"Uu!`
+char_mar: ` Agreed!`
+char_mar: ` {f:5:Beatrice} will definitely be happy."`
+char_geo: `"Hahahahaha...`
+char_geo: ` We all ignored that letter during the story, after all."`
+char_sha: `"......Even though it was thrust right in front of us, we almost completely ignored it.`
+char_sha: ` I kind of feel sorry for {f:5:Beatrice}‐sama."`
+char_mar: `"I have a memo with the epitaph on it!`
+char_mar: ` Let's all solve the puzzle, let's all solve the puzzle...!"`
+char_geo: `"This story probably went wrong ever since that time."`
+char_sha: `".........That may be so.`
+char_sha: ` Maybe we should have tried solving the epitaph's riddle from the beginning, like {f:5:Beatrice}‐sama said."`
+char_jes: `"Well, it's a little late now.`
+char_jes: ` Even so, let's try solving it now and see if the witch forgives us.`
+char_jes: ` Let's go, let's try to solve the riddle of the epitaph.`
+char_jes: ` ......Here we are, "Behold the sweetfish river, running through my beloved home of old"..."`
+char_non: `As Maria put her notebook on the table, and opened to the page where the epitaph was written,`
+char_non: ` everyone peered closely at it, and had fun and lively discussion as they started guessing this and that about the riddle.`
+char_non: `Surrounded by the smell of the black tea and the freshly baked vanilla cookies, they spent the time comfortably and happily......`
+char_but: `"..................Wait a second, you guys."`
+char_non: `Battler said, in a tone that ruined the mood.`
+char_non: `His expression looked a little unhappy.`
+char_non: `{n}What could he not like about all of this fun?`
+char_but: `"...I've been listening to you guys, and—why did you all stop thinking?`
+char_but: ` Why are you so sure that the witch was behind all of this?`
+char_but: ` ...Don't you realize that stuff like that doesn't exist?"`
+char_non: `With just those words, ...the happy atmosphere of the tea party disappeared in no time at all.`
+char_non: `George and Jessica.`
+char_non: ` And Shannon and Kanon.`
+char_non: ` And Maria.`
+char_non: `......All of them stared blankly, wondering why Battler was saying such weird things.`
+char_non: `Even the foolish and arrogant Battler noticed he had said the wrong thing.`
+char_geo: `"...W‐.........well, come on.`
+char_geo: ` Isn't it clear that these crimes were impossible for a human?"`
+char_jes: `"Y‐yeah, yeah!`
+char_jes: ` ...None of the cases would have been possible for a human."`
+char_sha: `"That's right...`
+char_sha: ` After all, wasn't it full of things that you couldn't explain using humans...?"`
+char_kan: `"...I don't understand what you're saying, Battler‐sama."`
+char_but: `"I, I'm the one who doesn't have a clue what {i:you guys} are talking about!`
+char_but: ` Isn't it obvious that humans committed these crimes?`
+char_but: ` There's obviously no such thing as witches, right...?"`
+char_sha: `"Th‐...then...`
+char_sha: ` ...What about when I was killed in the storehouse, and something horrible was done to half of my face?`
+char_sha: ` ......If the culprit was human, how could they have accomplished it...?"`
+char_but: `"...Well...`
+char_but: ` ......I mean...`
+char_but: ` It's hard to imagine how they could've done something that awful."`
+char_but: `"But that was the rose garden storehouse, right?`
+char_but: ` I'm sure there were plenty of weird tools in there.`
+char_but: ` Don't ask me, but...they could've used some electrical tool like a grinder or an electric saw, couldn't they?"`
+char_sha: `"...............Th‐`
+char_sha: `.........that's......`
+char_sha: `...umm..."`
+char_jes: `"Okay, Battler...`
+char_jes: ` Then how do you explain Grandfather's disappearance from the locked room of his study...?`
+char_jes: ` Grandfather disappeared all of a sudden even though the door was sealed, remember...?"`
+char_but: `"We talked about that during the story, too.`
+char_but: ` It's not impossible that Grandfather used some trick to fool the receipt.`
+char_but: ` It's also possible that he went out the window, or fell out the window, and Aunt Natsuhi locked it from the inside.`
+char_but: ` I could think of a bunch of tricks you could use without relying on magic...you see?"`
+char_jes: `"............Th‐`
+char_jes: `......that makes sense, but........."`
+char_geo: `"In that case, Battler‐kun,`
+char_geo: ` how do you explain the way my parents were killed in the guest room?`
+char_geo: ` The door was sealed by the lock and the chain.`
+char_geo: ` Naturally, the windows were sealed too.`
+char_geo: ` How would you suggest a human could have killed my parents?"`
+char_but: `"...Well,`
+char_but: ` ......you're right, we did have to leave that trick alone during the story.`
+char_but: ` Anyways, there's a good chance that the culprit had the key at least.`
+char_but: ` And it was possible to look in through the crack of the door that the chain allowed."`
+char_but: `"......This is extremely far‐fetched, but it is possible that some device was used through that crack.`
+char_but: ` ...Or maybe they brought something out through the crack...?"`
+char_but: `"......Hmmmm, well, even though chains are incredibly simple, they're a big factor in constructing a locked room...`
+char_but: ` .........But authors have done almost every possible locked‐room trick there is to do by now.`
+char_but: ` If you bought just a few locked‐room mysteries from some bookstore or other, you could probably find some trick that would fit perfectly."`
+char_but: `"......Anyways, I can't think of one now...but I can state for certain that a human could manage it somehow if they tried hard enough."`
+char_geo: `"Isn't that argument horribly irrational...?`
+char_geo: ` It's just ridiculous to claim that it's possible for a human to do something, even though you can't explain how..."`
+char_but: `"......Why is that ridiculous?`
+char_but: ` Why did all of you stop thinking?`
+char_but: ` Even if it looks impossible, it has to be doable.`
+char_but: ` Doesn't it always work like that?"`
+char_jes: `"Battler, you're the one being ridiculous.`
+char_jes: ` ......If you think a human could've done it, try explaining how.`
+char_jes: ` You can't, can you?"`
+char_but: `"And just because I can't explain it, that immediately makes the culprit a witch?`
+char_but: ` With that argument, all of the unsolved crimes in the world could be resolved by saying a witch is the culprit!"`
+char_mar: `"......Battler, you're sidestepping the issue, and you aren't explaining anything.`
+char_mar: ` ...We are saying "A human can't do it.`
+char_mar: ` Therefore the culprit is something that isn't human.`
+char_mar: ` And that something is a witch."`
+char_mar: ` And yet you keep arbitrarily deciding that witches are impossible even though you can't explain anything."`
+char_mar: `"......Kihihihihihihihihihihihi, it's almost like humanity was during the dark ages.`
+char_mar: ` Like those fools who claimed that the Earth couldn't possibly be spinning,`
+char_mar: ` that the heavens had to be spinning around the Earth, even though they couldn't say how."`
+char_but: `"...............Th‐...that kind of argument kinda pisses me off.`
+char_but: ` So this is basically what you're trying to say.`
+char_but: ` ...If I can't explain how a human could do it,`
+char_but: ` ...then I must accept that the culprit is the witch, {f:5:Beatrice}?"`
+char_kan: `"............It's not like we're forcing you.`
+char_kan: ` We were just wondering on what basis you can say such nonsense."`
+char_but: `"N‐...nonsense...`
+char_but: `......`
+char_but: ` ......H‐...hey, is what I've been saying really that weird?!"`
+char_but: `"Am I the one who's crazy?!`
+char_but: ` You guys are really starting to freak me out!"`
+char_kan: `"......Battler‐sama.`
+char_kan: ` When I died in the boiler room, I was killed by a 19th person who shouldn't exist."`
+char_kan: `"...Can you explain how a human could have done that?`
+char_kan: ` At that time, the locations of the 18 were well known.`
+char_kan: ` Even so, I was killed."`
+char_but: `"We talked about that in the story as well...!`
+char_but: ` Kumasawa baa‐chan, for example.`
+char_but: ` She said that she followed right after you'd headed down into the boiler room, but for all we know, that might've been a lie."`
+char_but: `"She might've entered the boiler room with you and caught you by surprise!`
+char_but: ` Or maybe, when you stepped into the boiler room, you activated some kind of trap, one that might have been set up to hit you with one of those icepicks."`
+char_but: `"After all, the stink of Grandfather's body was coming from the incinerator.`
+char_but: ` Someone was bound to come, so all the culprit had to do was set up a trap, and it would be more than possible for them to stay away from that place and create an alibi for the time of your death...!"`
+char_sha: `"......You talk about a trap in the boiler room...but what kind of trap?"`
+char_geo: `"That's right.`
+char_geo: ` After that happened, we all immediately ran over to the boiler room.`
+char_geo: ` But we didn't find any kind of weird device like that!"`
+char_kan: `"......That is correct.`
+char_kan: ` Battler‐sama, what kind of trap do you claim I was killed with...?"`
+char_but: `"Well,`
+char_but: ` .........I don't know that.`
+char_but: ` ...But anyway, they must have pulled off some kind of trap, or maybe someone is lying, or...`
+char_but: `or what about this?!"`
+char_but: `"Kanon‐kun, what if the whole thing was just you playacting?!`
+char_but: ` Th‐that's it, you were playacting!!`
+char_but: ` Auntie Eva and Uncle Hideyoshi were also playacting.`
+char_but: ` They made the locked room themselves, and were only pretending to be dead!"`
+char_jes: `".........Battler...`
+char_jes: ` .........Has your...`
+char_jes: `head been...`
+char_jes: `feeling alright......?"`
+char_sha: `"......Umm, .........should I bring some cold drinks...?"`
+char_but: `"D‐don't look at me with those pitying eyes, I'm not saying something that crazy...`
+char_but: ` I'm just pointing out possibilities that could have been used as tricks, alright?"`
+char_but: `"Look, isn't one of the clichés in mystery stories that the victims aren't really dead?!"`
+char_geo: `"Clichés...?"`
+char_but: `"O‐okay, so.`
+char_but: ` When Kanon‐kun was killed, we really did know for sure where the rest of us were.`
+char_but: ` And let's assume that Kumasawa baa‐chan wasn't lying."`
+char_but: `"But that only holds true for the survivors.`
+char_but: ` ......If the culprit pretended to be dead, placed themselves together with the real victims to hide themselves, and then acted on their own later, then everything would be explained!"`
+char_jes: `"............I guess...`
+char_jes: ` Are you trying to say that Auntie Eva or one of the rest of them was the culprit...?`
+char_jes: ` But Doctor Nanjo confirmed everyone's death as a doctor, remember?"`
+char_kan: `"......That's right.`
+char_kan: ` Doctor Nanjo checked all of the victims.`
+char_kan: ` ...Battler‐sama, for your theory to work, wouldn't Doctor Nanjo have to be one of the culprits too?"`
+char_but: `"Uh, yeah, that's right!!`
+char_but: ` Once you consider that Doctor Nanjo might have been one of the culprits and faked the proclamation of death, the whole story changes...!`
+char_but: ` See, that's also a cliché in mystery novels, isn't it?!!"`
+char_mar: `"......But Doctor Nanjo was also killed..."`
+char_but: `"Umm, .........about that...`
+char_but: ` ...That's right, Doctor Nanjo faked his death!"`
+char_but: `"I mean, there wasn't anyone except Doctor Nanjo who could examine corpses properly, and everyone was really confused then anyway.`
+char_but: ` We didn't have any spare time to check and see if he still had a pulse!`
+char_but: ` With this theory, any one of the dead people could have been walking around!"`
+char_sha: `".........I think that it would have been hard for the six of us who died in the beginning to do that...`
+char_sha: ` ......After all, the shutter was closed, ...and there was a padlock that couldn't have been opened from the inside..."`
+char_jes: `"Yeah.`
+char_jes: ` Mom was holding onto that key.`
+char_jes: ` So was Mom one of the culprits too?"`
+char_but: `"...Aaaaaaah, wait a sec, ...`
+char_but: `maybe it was impossible for the first six, but in the case of Aniki's parents, the door was only locked on the outside.`
+char_but: ` So they could have opened it from the inside...`
+char_but: ` ...That's right, after we left the room, maybe they jumped out the window and got to the boiler room first!"`
+char_but: `"Is, ......is that too much...?!`
+char_but: ` Or maybe Doctor Nanjo made a mistake when examining the corpses?!"`
+char_but: `"Look, he said it himself, right?`
+char_but: ` He said that there's a very high probability of making a mistake when examining corpses!`
+char_but: ` They disguised it well, or prepared a substitute corpse or something, and faked their own death!!`
+char_but: ` Let's leave the method or trick they used for later...and...you see, it's not that hard to deny a 19th person existed!"`
+char_but: `"Much less a {i:witch}!`
+char_but: ` At least that much is completely impossible!!"`
+char_mar: `"............I don't know why you've been trying so stubbornly to say that one of us is the culprit.`
+char_mar: ` Kihihi{0}hi{0}hi{0}hi{0}hi{0}hi{0}hihi, in other words, you want to suspect one of your relatives...?"`
+char_but: `"That's not it...`
+char_but: ` It's just, uh, I can't easily accept that a 19th person existed...and even if one did, I think we should construct our argument from the point of view that the culprit was a human—`
+char_but: `witches are something you only start talking about in desperation, at the very end, after everything else has been disproved, that's what I'm trying to say."`
+char_but: `"I mean, come on, there's no way witches exist, right?!`
+char_but: ` Why have you all just been casually accepting that the culprit was a witch?"`
+char_but: `"I think it's great how your family love makes you hate the thought that someone close to you is a murderer.`
+char_but: ` But is it alright to just brush things over like that?!`
+char_but: ` Don't you want to find the detestable culprit who killed so many people?!"`
+char_but: `"Aniki, you want to avenge your parents, don't you?!`
+char_but: ` Jessica, you want to avenge Kanon‐kun, and Kanon‐kun, you want to avenge Shannon‐chan, right?!`
+char_but: ` Shannon‐chan, you should at least want to know who it was that killed you."`
+char_but: `"Why have you all totally surrendered and decided that the culprit was a witch?!`
+char_but: ` What's wrong with all of you?!"`
+char_non: `The foolish and short‐tempered Battler tried to force his ignorance on the others by yelling at them.`
+char_non: `...However, everyone just looked at him pityingly, silently watching over him.`
+char_non: `Then, the wise Maria laughed, and pointed out Battler's mistake for him.`
+char_mar: `"...............Kihihihihihihihihi.`
+char_mar: ` ...We're just astounded.`
+char_mar: ` ......All you've been doing is repeating this nonsense, thinking you've figured something out, Battler."`
+char_mar: `"......So what?`
+char_mar: ` And?`
+char_mar: ` How would a human do it?`
+char_mar: ` Concretely?`
+char_mar: ` Whenever we ask you those questions, all you say is "I just can't think of anything now" or "with some kind of device" or something, using abstract words to run away and evade the topic."`
+char_mar: `"......In fact, I want to ask {i:you}, Battler.`
+char_mar: ` Why don't {i:you} believe in {f:5:Beatrice}?`
+char_mar: ` She "exists", so why don't you believe?"`
+char_but: `"Because she doesn't "exist"!`
+char_but: ` Witches don't "exist"!!`
+char_but: ` There's no way!!"`
+char_non: `......He was almost like a stubborn child refusing for no reason.`
+char_non: `The pitying gazes quietly blanketed Battler, but they didn't reach his stubborn heart.`
+char_jes: `"............You're acting just totally like a kid who can't have his way..."`
+char_sha: `"......Battler‐sama.`
+char_sha: ` I understand your feelings, but..."`
+char_kan: `".........{f:5:Beatrice}‐sama does "exist"."`
+char_geo: `"Battler‐kun... Why don't you believe?`
+char_geo: ` Look at how much circumstantial evidence there is."`
+char_but: `"I don't accept the argument that if I can't explain it it's all the witch.`
+char_but: ` If you don't know how a light bulb shines, if you don't know the principle, does that mean it's all magic?"`
+char_but: `"It doesn't, does it!`
+char_but: ` There's nothing that can't be explained without magic!!`
+char_but: ` All of this about witches and magic is just abdication of thought!`
+char_but: ` You just surrendered and gave up because you don't understand what happened!`
+char_but: ` I'm right, aren't I!"`
+char_mar: `".....................Ki‐hihihihihihihihihihihi.`
+char_mar: ` ...Well, I'm not surprised,`
+char_mar: ` ......but it looks like you're the only one who's not going to believe no matter what."`
+char_mar: `"......If even a single person doesn't believe, the "miracle" won't occur.`
+char_mar: ` ......So, if you don't rethink your ignorant theories, the miracle, ......the magic won't be completed."`
+char_but: `"Heheh...`
+char_but: ` Nowww I see.`
+char_but: ` ......I finally figured it out.`
+char_but: ` ...So in other words, you guys want to get me to say that the witch exists, don't you?`
+char_but: ` If everyone accepts this lie, it will become "the truth".`
+char_but: ` ......That's what this is all about, isn't it?!"`
+char_but: `"......Well, too bad.`
+char_but: ` This is the one place I'm going to have to say too bad, that's no goddamn good at all. I refuse.`
+char_but: ` ......{i:You guys are all pressing me, and that is exactly why it's no goddamn good.}"`
+char_mar: `".....................Why?"`
+char_but: `"Sorry, but why don't you let me flip over the chessboard one last time...?`
+char_but: ` If you want to force me to accept that there's a witch, there's a really easy way."`
+char_but: `"......And it's not the roundabout way of saying "humans can't do it so it must be a witch"!`
+char_but: ` All you have to do is actually show it to me, the way a witch did it with magic."`
+char_but: `"Furthermore, what Maria said earlier is what will really dig her grave.`
+char_but: ` ......You said that if even one person doesn't believe, a "miracle" won't occur."`
+char_but: `"But real miracles happen whether people believe in them or not!`
+char_but: ` Even if I alone don't believe!!`
+char_but: ` So any miracles or magic or witches that exist only because I believe in them are downright lies!!"`
+char_mar: `"................................."`
+char_non: `The uneasy mood following Battler's ignorant rant...`
+char_non: `was thoughtfully blown away by a very refreshing and light laugh.`
+char_non: `Whose laugh...?`
+char_non: ` Battler was surprised by that voice which he had never heard before.`
+char_non: `When he looked at George and Jessica, at Shannon and Kanon and Maria, he noticed that they had suddenly gone respectfully silent.`
+char_mar: `"..................{f:5:Beatrice}."`
+char_bea: `".........Wonderful.`
+char_bea: ` ...I haven't been able to meet such a charming human for quite some time."`
+char_but: `"Wh‐`
+char_but: `..................who...`
+char_but: `......are you..."`
+char_bea: `"......So you don't even know the host of the tea party to which you were invited.`
+char_bea: ` ......Simply wonderful.`
+char_bea: ` *cackle*cackle*...!"`
+char_kan: `"...You are graced by the presence of the Golden Witch who has lived for a thousand years, {f:5:Beatrice}‐sama."`
+char_sha: `"I am most honored to see you, {f:5:Beatrice}‐sama..."`
+char_geo: `"......Please forgive Battler‐kun's ranting."`
+char_jes: `"Th‐this guy's just stubborn, and, umm, he still doesn't understand the situation he's in......!"`
+char_bea: `"*cackle*cackle*cackle*...`
+char_bea: ` It is fine.`
+char_bea: ` ......After a thousand years, most witches get tired of living.`
+char_bea: ` Once in a while, it is nice to meet a man with backbone such as yourself."`
+char_mar: `"...............It is quite an honor to be present when {f:5:Beatrice} shows herself, Battler."`
+char_but: `"......Heh,`
+char_but: ` .........heh‐heh‐heh‐heh...!!`
+char_but: ` Now this...`
+char_but: ` ......This is some shit.`
+char_but: ` ...Are you really that desperate to make me believe that a witch,`
+char_but: ` ...that a 19th person is the culprit...?"`
+char_but: `"This is starting to get interesting...!`
+char_but: ` And it's no goddamn good...!!`
+char_but: ` You must be an illusion of the witch {f:5:Beatrice} who's asserted by Maria and the others."`
+char_but: `".........And only when everyone believes in your existence will you finally be allowed to exist.`
+char_but: ` ...You're that kind of a fictional being, right?`
+char_but: ` That's why you want to make me believe too.`
+char_but: ` {i:You can't exist, because I alone don't believe in you}.`
+char_but: ` .........Isn't that right?!"`
+char_bea: `".........Your power of understanding isn't bad for a common mortal who knows nothing of magic.`
+char_bea: ` .........I see, it seems that you were born with a strong magic‐resisting power."`
+char_bea: `"......The natural enemy of us witches.`
+char_bea: ` ...No matter how much we tip you upside down and shake you,`
+char_bea: ` {i:you will never believe in us}.`
+char_bea: ` {i:Therefore, magic will fall short against you}.`
+char_bea: ` ...That attitude of yours makes a great deal of sense.`
+char_bea: ` *cackle*cackle*...!"`
+char_but: `"I've got no clue what you're saying, ihihi!`
+char_but: ` It's very kind of you to go to all of the trouble of showing yourself to us,`
+char_but: ` but I don't believe you exist in the slightest."`
+char_but: `"It's true that many strange things happened during those two days.`
+char_but: ` Like Maria said earlier, even though I think that all of the tricks could be explained, I still can't lay out the practical details of each one.`
+char_but: ` But that doesn't mean I'll surrender."`
+char_but: `"I'm different from the rest of them, see?`
+char_but: ` I'll never argue that it was the work of a witch just because I can't explain it."`
+char_bea: `".........My interest in you grows deeper.`
+char_bea: ` It will be worth my time to break you..."`
+char_bea: `"......You're just the kind of man I'd love to force into praising my name......`
+char_bea: ` You're just the kind of man I'd love to force into kissing my toes.`
+char_bea: ` ...*cackle*cackle*cackle*!"`
+char_but: `"Talk all the nonsense you want...!`
+char_but: ` I deny you exist.`
+char_but: ` All of the events can be explained with "human tricks"...!!`
+char_but: ` There's no room for even a speck of magic or witches!!"`
+char_bea: `"Wonderful!`
+char_bea: ` ......This is the perfect form of diversion from a thousand years of boredom."`
+char_bea: `"Then let me ask you.`
+char_bea: ` A short while ago, you said that using the crack in the door would be sufficient to kill Eva and Hideyoshi, right...?`
+char_bea: ` Explain how you would do that using your human tricks."`
+char_but: `"......Heh.`
+char_but: ` Suddenly jumping right into the toughest part, are you?`
+char_but: ` ...Does that mean that this is the trick you're proudest of?`
+char_but: ` Miss {i:Real Culprit}?"`
+char_non: `{f:5:Beatrice} shook her golden pipe,`
+char_non: ` and seven colors of gentle smoke trailed out of the end.`
+char_non: `...The smoke quickly obscured the surroundings,`
+char_non: ` ......and they were suddenly in the hallway of the mansion.`
+char_non: `In front of their eyes, a slightly opened door, secured by a chain...`
+char_non: `Yes, it was the entrance to the room where Eva and Hideyoshi had been killed.`
+char_but: `"......N‐nice trick..."`
+char_bea: `"Now then.`
+char_bea: ` Show me what you would do through this small crack, "Battler"."`
+char_but: `"Erk............`
+char_but: ` ......Th‐they probably had some device to shoot those "icepicks".`
+char_but: ` If they used that......"`
+char_bea: `"How would you aim at Eva over on the bed when you can't see that far through this crack?`
+char_bea: ` ......And how would you reach Hideyoshi, in the bathroom with the door shut...?"`
+char_but: `".................................Dammit.........`
+char_but: ` ...There is a crack...`
+char_but: ` There should be some way......"`
+char_bea: `"*cackle*cackle*.`
+char_bea: ` If you can't think of one, allow me."`
+char_but: `"......Oh?`
+char_but: ` Go on, how would a great witch do it, then...`
+char_but: ` C'mon, let's see your little trick..."`
+char_mar: `"............Battler, you're being rude to {f:5:Beatrice}..."`
+char_bea: `"It is fine, quite fine.`
+char_bea: ` What a charming man.`
+char_bea: ` ...It will make it all the more enjoyable to break him."`
+char_but: `"......Heh!`
+char_but: ` You really want to make me kiss your toes that much...?!`
+char_but: ` Only if I surrender!`
+char_but: ` But watch... I'll definitely expose this trick, and then I'll make you kiss my ass instead!"`
+char_bea: `"...............*cackle*.`
+char_bea: ` What a charming man.`
+char_bea: ` I shall remember that promise.`
+char_bea: ` ...Weak witches kiss the behinds of demons to gain power.`
+char_bea: ` Because there is no greater oath of total submission.`
+char_bea: ` It is words like those that give me the desire to subjugate you.`
+char_bea: ` .........*cackle*cackle*...!"`
+char_non: `Paying no mind to Battler's crude ranting, {f:5:Beatrice} once again waved her golden pipe.`
+char_non: `......Yes, for that golden pipe was her precious magic wand.`
+char_bea: `"Come, arise, children.`
+char_bea: ` I am the guide of Purgatory.`
+char_bea: ` Wield the seven stakes, which forgave the deadly sins."`
+char_non: `Guided by those magic words, which sounded like a psalm, seven stakes gathered.`
+char_non: `{n}...They were the stakes of the seven demons symbolizing the deadly sins of sinful people.`
+char_bea: `"Beelzebub and Asmodeus.`
+char_bea: ` Come, forgive their sins.`
+char_bea: ` Release the spirits of the sinners...!"`
+char_but: `"Wha...?!"`
+char_non: `The stakes of Beelzebub and Asmodeus responded to {f:5:Beatrice}'s call.`
+char_non: `The two demonic stakes burst into motion like billiard balls struck by a cue, and were sucked in through the crack of the door.`
+char_non: `Then came the sound of them deflecting repeatedly off the walls of the room, making a sound like a woodpecker.`
+char_non: `And finally, a pleasant sound could be heard.`
+char_non: `......It was a small, satisfying sound, like the one heard when someone is chopping firewood and the falling ax neatly and easily slices through the wood.`
+char_non: `It was the sound of the two stakes burying themselves deep into Eva and Hideyoshi's foreheads.`
+char_bea: `"............Right through the middle.`
+char_bea: ` Want to see...?"`
+char_non: `They had definitely heard two sounds like someone's forehead being split open.`
+char_non: `Battler wasn't permitted to see it, since he was on the other side of the door,`
+char_non: ` but those two had died again, and this second time, they lay not an inch apart from where they had lain the last time, with the exact same blood spray as before.`
+char_but: `"Y‐............you must be crazy...`
+char_but: ` Th‐......this is insane......!`
+char_but: ` Y‐you can't kill people with this insanity!!!"`
+char_bea: `"I most certainly can.`
+char_bea: ` ......I can kill them just like this...!`
+char_bea: ` *cackle*cackle*cackle*!"`
+char_non: `Suddenly, they were no longer in the hall, but seated at the tea party they had started from.`
+char_non: `......Everyone but Battler was sitting meekly, ......but Kanon was moaning, fresh blood dangling from his mouth.`
+char_non: `{n}Such bad manners for a tea party.`
+char_non: `Satan's stake was buried deep into Kanon's chest.`
+char_kan: `"..................u...`
+char_kan: `...............gah...`
+char_kan: `......"`
+char_but: `"Ka‐......Kanon‐kun......`
+char_but: `Kanon‐kun!!`
+char_but: ` Daa......damn iiiiiiiiiit!!"`
+char_non: `Battler was the only one getting agitated.`
+char_non: `George, Jessica, Shannon—everyone else was meekly hanging their heads like students being told off by their teacher.`
+char_bea: `"...Kanon, you were captivated by a trifling anger and tried to disturb my banquet.`
+char_bea: ` ......Your deadly sin is being easily captivated by anger.`
+char_bea: ` Cleanse yourself, regret, and do it over."`
+char_kan: `"......{f:5:at}`
+char_kan: `......{f:5:rice}......`
+char_kan: `......sa...ma..............."`
+char_sha: `"B‐...{f:5:Beatrice}‐sama...`
+char_sha: ` Please, forgive him...`
+char_sha: ` I think Kanon‐kun has repented enough......!"`
+char_bea: `"Wonderful.`
+char_bea: ` I am generous to those who respect me.`
+char_bea: ` ......*cackle*cackle*...!"`
+char_but: `"Cut the crap!!!`
+char_but: ` Don't think for a second that this piss‐poor show of theatrics will convince me of your sorry existence!`
+char_but: ` Like hell you're a thousand‐year‐old witch!`
+char_but: ` Your tricks aren't a thousand years old, at best they're the accumulation of a hundred years of clichés that the mystery world created!"`
+char_but: `"They're not magic!!`
+char_but: ` No way are they magic!!`
+char_but: ` All of these crimes can be explained with "human tricks"!!"`
+char_bea: `"*cackle*cackle*!`
+char_bea: ` You would explain my thousand years with a hundred years by humans...?`
+char_bea: ` Good, good, that's why I like you...!"`
+char_mar: `"...............Foolish Battler...`
+char_mar: ` Kihhihihihihihihihi{0}hi{0}hi{0}hi{0}hi{0}hi{0}hihihi...!"`
+char_geo: `"......Stop yourself, Battler‐kun...`
+char_geo: ` {f:5:Beatrice}‐sama is someone you can't...`
+char_geo: `go...against......"`
+char_sha: `"............nn...`
+char_sha: `......u...`
+char_sha: `............u..."`
+char_non: `Shannon started moaning, holding her cheek.`
+char_non: `{n}...Maybe she had a toothache.`
+char_non: `But it didn't look anything like a toothache.`
+char_non: `{n}......A slight redness spread across the cheek Shannon was holding.`
+char_non: `It looked like that redness was causing Shannon unbearable pain...`
+char_non: `She started to press her nails into her cheek, and drops of sweat appeared all over her body...`
+char_geo: `"...Shannon...`
+char_geo: `Shannon...!!`
+char_geo: ` Hang in there...hang in there!"`
+char_but: `"What's going on?!`
+char_but: ` Damn it, what the hell is that red stuff...?!"`
+char_non: `It expanded rapidly, covering half of Shannon's face...`
+char_non: `...Then, the stupid dunce Battler finally realized...`
+char_geo: `"Ple‐please, Battler‐kun...!`
+char_geo: ` Please believe in {f:5:Beatrice}‐sama...!`
+char_geo: ` I beg you...!!`
+char_geo: ` Aaaaaaah, because you won't believe,`
+char_geo: ` because you won't believe, aaaaaaaaaah...`
+char_geo: `the magic is,`
+char_geo: ` ......the magic is wearing off!!!!!!!!"`
+char_non: `For the first time in his life, ......Battler heard that sound, like a pomegranate splitting.`
+char_non: `The red spray even landed on Battler's face...`
+char_non: `How sad—Shannon's face had been split in half, ...and her last horrible moments in that storehouse had been repeated once again.`
+char_geo: `"U...uwaaaaaaaaaaaaaaaaaaaaaaaaa, Shannon, Shannon!!`
+char_geo: ` Uwaaaaaaaaaaaaaaaaaaa!!!"`
+char_but: `"G...ghhhkkk, damn you, damn youuuuuuu!`
+char_but: ` Stop it, stop it, stop it!!`
+char_but: ` Don't humiliate the dead, don't humiliate the deeeeeaaaaad!!"`
+char_geo: `"Uuuu......gah.........eeeggh!!"`
+char_non: ` This time, red patterns began to spread across George's entire body...`
+char_non: ` It was like the beautiful cloud drawn by milk when it is poured into black tea.`
+char_non: ` They slowly spread out and extended across his entire body.`
+char_non: `......As they grew more saturated in color, they seemed to give George increasingly greater pain.`
+char_non: `Looking at those bizarre patterns, ......Battler was petrified as he frantically thought with his pitifully clumsy imagination...`
+char_non: `about the nature of the strange deaths that George and the others had experienced...`
+char_non: `Before long, ......that redness reached the nearby Jessica as well......`
+char_jes: `"Gah,`
+char_jes: ` .........ee...`
+char_jes: `......ack...`
+char_jes: `.........hh!!"`
+char_but: `"St‐stop stop stop!!!`
+char_but: ` What did Aniki do,`
+char_but: ` what did Jessica do,`
+char_but: ` just STOOOOOOP!!!"`
+char_jes: `"Ba‐`
+char_jes: `......Battler......`
+char_jes: ` ......Don‐`
+char_jes: `...don't let the witch...`
+char_jes: `break your spirit......!`
+char_jes: ` ......Deny her,`
+char_jes: ` erase her...`
+char_jes: ` As, ......as long as at least one person denies her,`
+char_jes: ` she's an illusion that can't exist......!`
+char_jes: ` Uuuuughhh, gghhh!!"`
+char_but: `"A‐are you OK, Jessica?!!`
+char_but: ` Whah, A‐Aniki?!?!"`
+char_non: `George was no longer shaped like a person.`
+char_non: ` ...He looked like the pile of leftover meat after the good, delicious meat has been scraped off to be cooked.`
+char_non: `...The only traces left of his time as a human were the shape of his lower jaw and rib cage.`
+char_non: `And it was clear that Jessica, who was covered with a steadily strengthening redness, was approaching the same fate.`
+char_mar: `"............Uu.`
+char_mar: ` ...Battler.`
+char_mar: ` ......Quick, believe in {f:5:Beatrice}...`
+char_mar: ` .........If you don't,`
+char_mar: ` .........everyone's magic...`
+char_mar: `......will wear off..."`
+char_but: `"Ma‐Maria, it's all over your body, too......!!!"`
+char_bea: `"I resurrect all the dead with my magic.`
+char_bea: ` ......But as long as you don't believe, that magic will hold no true power.`
+char_bea: ` *cackle*cackle*cackle*!`
+char_bea: ` But I'm sure that a man of your caliber won't be broken by something like this, right...?"`
+char_jes: `"Ba‐`
+char_jes: `...Battler......!`
+char_jes: ` We...`
+char_jes: `...didn't want to doubt our friends...`
+char_jes: ` We refused to face reality,`
+char_jes: ` ...and gave in to the witch......!`
+char_jes: ` But...`
+char_jes: `I know you...`
+char_jes: ` ......I know you won't...`
+char_jes: `...give in to that witch......!`
+char_jes: ` Geh...`
+char_jes: `ggghh...`
+char_jes: `......gggggghhkkkkkkk!!!"`
+char_but: `"Jessica, JESSICAAAAA, waaaaAAAAAAAaaaAAAahh!!"`
+char_non: `How sad—Jessica met the same end.`
+char_non: `{n}...Just like George, she ended up like a butcher's leftovers.`
+char_non: `Broken apart, melted, and all mixed up, so you couldn't tell which was George and which was Jessica anymore.`
+char_mar: `"...............Battler.`
+char_mar: ` Don't cry.`
+char_mar: ` ...{f:5:Beatrice} will resurrect the dead over and over.`
+char_mar: ` So there's nothing to be sad about...`
+char_mar: ` ......So,`
+char_mar: ` ............even if we die, we're still...`
+char_mar: `......just......`
+char_mar: `fine—"`
+char_non: `The redness began eating into the whole of Maria's body...`
+char_non: ` When he saw this, the foolish Battler screamed out loud.`
+char_but: `"You bitch, you won't get away with this, I'll never forgive you!!`
+char_but: ` You call yourself a witch?! You call this magic?!`
+char_but: ` I'll deny you with every last fiber of my being...!!`
+char_but: ` I don't care what happens, there's not a chance in hell I'm ever gonna accept you!!`
+char_but: ` If you want me as an enemy that bad, I'm gonna make sure you get what's coming to you!!"`
+char_but: `"I'll get you for this, you're gonna pay for this, you're going to fucking pay!!!!`
+char_but: ` You're gonna regret making Ushiromiya Battler your enemy!!`
+char_but: ` I'll deny you no matter what!!`
+char_but: ` Every last impossible thing, I'll explain it all with "humans"!!!`
+char_but: ` I'll erase every cell of you from this world!!!"`
+char_bea: `"You! You speak well, "Battler"...!`
+char_bea: ` That's the kind of thing that can divert me from my thousand years of boredom!"`
+char_bea: `"Come, explain.`
+char_bea: ` Try explaining it all with your so‐called "human tricks"!`
+char_bea: ` And learn how lowly humans are!!`
+char_bea: ` Let's see you try to use what humanity has built up in a hundred years to oppose my thousand!!`
+char_bea: ` It will make forcing you to submit all the more enjoyable...!!"`
+char_bea: `"So tell me, "Battler"!`
+char_bea: ` What about Maria's letter?`
+char_bea: ` How the six were killed?`
+char_bea: ` The shutter?`
+char_bea: ` The receipt seal?`
+char_bea: ` The locked room with the chain?`
+char_bea: ` Kanon in the boiler room?`
+char_bea: ` Genji and the others in the parlor?!`
+char_bea: ` Natsuhi's suicide?!`
+char_bea: ` The riddle of the epitaph?!`
+char_bea: ` The location of the hidden gold?!"`
+char_bea: `"Come, Battler, why don't you show me the power of "humans"?!`
+char_bea: ` Fuhahahahaha{0}ha{0}ha{0}ha{0}ha{0}ha{0}ha{0}ha{0}ha{0}ha{0}ha{0}hahaha!!!"`
+char_but: `"OoooooOOOOOOooooooooooOOOOOOOOohh!!!"`
+char_bea: `"...What sort of tea should I prepare next?`
+char_bea: ` You have free choice of any brand that ever was throughout the ages."`
+char_non: `"......Dried plum tea.`
+char_non: ` ......Those dried plums that go for 200 yen a pack."`
+char_bea: `"*cackle*cackle*...!`
+char_bea: ` ...For a thousand years I have been fond of black tea, but I did not know of such a thing.`
+char_bea: ` ...I will never tire of living in this world."`
+char_non: `"...............Beato.`
+char_non: ` You don't have to display such hostility.`
+char_non: ` ...I am just a wandering witch.`
+char_non: ` I didn't come with the intention of violating the rules of your territory."`
+char_bea: `"...*cackle*cackle*, there is not even a sliver of hostility.`
+char_bea: ` ...I am just terribly concerned about seeing that the legendary witch, Lady {f:5:Bernkastel}, is well attended to."`
+char_ber: `".........You misunderstand.`
+char_ber: ` I am powerless.`
+char_ber: ` Before a witch such as you, with the dreadful power to kill a person a hundred times over, I am completely powerless."`
+char_bea: `"That a "powerless" witch like you possesses a power that none can approach is what is truly terrifying.`
+char_bea: ` After all, you fended off that Great Witch, Lady {f:5:Lambdadelta}, as a lone piece."`
+char_ber: `"......I only won an endurance contest.`
+char_ber: ` She simply got tired."`
+char_bea: `"That is not what Lady {f:5:Lambdadelta} said, though.`
+char_bea: ` ...*cackle*cackle*cackle*, too much humility can be unseemly, Lady {f:5:Bernkastel}."`
+char_ber: `"......That girl has a dreadful power.`
+char_ber: ` ............The power to kill a person "without fail".`
+char_ber: ` However, there is no such thing as "without fail" in this world.`
+char_ber: ` Just as, no matter how many times you divide 1, you can never make it 0."`
+char_ber: `"That girl has the power to bring that closer and closer to "virtually zero", and give rise to a "virtually absolute certainty".`
+char_ber: ` ......I hope I never have to fight such a terrifying witch again."`
+char_bea: `"However, you have a power that manifests without fail "except for zero".`
+char_bea: ` ......Although you say there is no such thing as "without fail" in this world, you possess an infallible power yourself.`
+char_bea: ` ......How very terrifying, *cackle*cackle*cackle*...!"`
+char_ber: `"......The power to kill a person "endlessly"...`
+char_ber: ` ...I think you're the more terrifying one."`
+char_bea: `"Such jests.`
+char_bea: ` ......From your point of view, mine is but a trifling power.`
+char_bea: ` The phrase "flattery will get you nowhere" was made for this situation."`
+char_ber: `"......Call it payment for my stay here.`
+char_ber: ` ...I am a fleeing traveler who crosses the {ruby:kakera:fragments}, continually running from boredom.`
+char_ber: ` ......I simply came around because I'd heard that you'd started something interesting.`
+char_ber: ` Rest assured, I will leave of my own accord as soon as you start to bore me."`
+char_bea: `"*cackle*cackle*...!`
+char_bea: ` I am deeply and humbly delighted to have the great Lady {f:5:Bernkastel} as an observer.`
+char_bea: ` *cackle*cackle*!`
+char_bea: ` And so, your impression?"`
+char_ber: `"............{f:5:Lambdadelta} is terrifying because of her cruelty; however, she was a girl I could understand.`
+char_ber: ` ...You do seem to possess affection, but I can't understand you at all.`
+char_ber: ` That's why you're much more terrifying than her."`
+char_bea: `"*cackle*cackle*cackle*...!`
+char_bea: ` I am fickle by nature.`
+char_bea: ` Do forgive me.`
+char_bea: ` ...Besides, I believe you also enjoy trusting your fate to the roll of fickle dice—is that not so, Lady {f:5:Bernkastel}?"`
+char_ber: `"......When I roll the dice, I have a roll I clearly want to get.`
+char_ber: ` Unlike you.`
+char_ber: ` You, on the other hand, anticipate all outcomes."`
+char_ber: `"And, whatever the roll might be, you're never disappointed.`
+char_ber: ` Whatever roll the dice show you, you are satisfied "without fail".`
+char_ber: ` .........In that sense, you far surpass me."`
+char_ber: `".........You're one I really don't want to fight with.`
+char_ber: ` Inside of you, there's nothing but zero.`
+char_ber: ` That's why I can't win against you with my power.`
+char_ber: ` ...The worst matchup.`
+char_ber: ` ......Perhaps {f:5:Lambdadelta}, on the other hand, has a good matchup against you.`
+char_ber: ` Since she would likely be able to kill your "endlessness"."`
+char_bea: `"*cackle*cackle*, *cackle*cackle*cackle*!`
+char_bea: ` ......Truly, tea is best drunk in the company of a witch.`
+char_bea: ` It's never boring.`
+char_bea: ` *cackle*cackle*!"`
+char_ber: `"......Good to hear.`
+char_ber: ` Boredom is the sole poison that can kill me.`
+char_ber: ` ......So, don't kill me, alright?`
+char_ber: ` Lady {f:5:Beatrice}, Endless Witch."`
+char_bea: `"If such is your wish, I shall show you an even better time."`
+char_bea: `"......In that case, wouldn't it be best if I brought the next chessboard in right away?`
+char_bea: ` It seems that the next tale would do more for you than a refill of tea."`
+char_ber: `"................................."`
+char_bea: `"Just wait for a moment.`
+char_bea: ` ......*cackle*cackle*!"`
+char_ber: `............Something troublesome seems to have taken a liking to you.`
+char_ber: `I'd really like to lend you my power, but as you just heard, that girl's power and mine have a very bad matchup.`
+char_ber: ` Unfortunately for you.`
+char_ber: `But you really are pitiful, so I'll help you out just a bit.`
+char_ber: `First of all, about that girl.`
+char_ber: `She does have an existence that goes by the name of {f:5:Beatrice}, but that doesn't necessarily mean that she is "a woman with an individual body".`
+char_ber: `Do you understand what I mean?`
+char_ber: ` In other words, she's not some {y:0:Human}{n:0:human}.`
+char_ber: ` Her existence is a personification of the rules of this world.`
+char_ber: `To beat her, you have to expose the rules of this world and unravel them.`
+char_ber: `This can be likened to learning the rules of chess by watching a few games.`
+char_ber: `First, take a good look over the chessboard.`
+char_ber: `{n}`
+char_ber: `And notice the movements and roles of the pieces.`
+char_ber: `{n}`
+char_ber: `Then, look for the conditions required to win at her game.`
+char_ber: `When you've managed to reveal all of these things, her heart will be exposed.`
+char_ber: `{n}`
+char_ber: `After that, you can rip it apart or crush it as you please.`
+char_ber: `......I am being quite generous.`
+char_ber: ` Back when I was once human, it took me a hundred years to realize even this much.`
+char_ber: `This is my meager farewell gift to you, the pitiful one captured by Beato. It is like a single spoon.`
+char_ber: `A spoon can be used for more than just drinking soup.`
+char_ber: `{n}`
+char_ber: `You can use it to dig through the prison you're locked in, or as a weapon to gouge the witch's eyes out.`
+char_ber: `......Of course, you can also use the spoon to continually sip the watery soup inside your eternal prison.`
+char_ber: `......Don't get the wrong idea—I have no intention of becoming your ally.`
+char_ber: `I do feel empathy for you, but I won't help you.`
+char_ber: `{n}`
+char_ber: `...It's like how someone sitting in front of a television cannot reach the characters on screen no matter how much they yell at them.`
+char_ber: `{a:c:`
+char_ber: `THAT'S HOW YOU CAN TELL I AM A WITCH, YOU SEE?}`
+char_ber: `I intend to enjoy the endless tales that Beato is going to weave until I tire of them.`
+char_ber: ` But I'm sure that alone won't hold my interest.`
+char_ber: `......That's why I'll lend you my power.`
+char_ber: ` It's all so that I don't get tired of this.`
+char_ber: `I am the cruelest witch in the world.`
+char_ber: `{n}`
+char_ber: `No matter who the opponent may be, I'll absolutely make them surrender.`
+char_ber: `...Even if that's {f:5:Beatrice}, the Endless Witch...`
+char_ber: `You are my game piece.`
+char_ber: ` Give it your best shot.`
+char_ber: `{n}`
+char_ber: `I'll give you advice sometimes, out of her sight.`
+char_ber: `Don't bore me, okay......?`
+char_ber: `*giggle*giggle*giggle*......`

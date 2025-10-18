@@ -1,0 +1,894 @@
+char_non: `Con thuyền rung lên dữ dội.`
+char_non: `Có vẻ như chúng tôi đã cập bến rồi.`
+char_non: `{n}Người lái thuyền bước ra và nhảy lên bến với sợi dây buộc thuyền.`
+char_non: `Một người đàn ông to lớn mặc tuxedo đang đợi chúng tôi với một khuôn mặt ấm áp và nở nụ cười thân thiện.`
+char_non: `......Tôi không quen ông ta, nhưng dựa vào quần áo, tôi đoán ông ấy là gia nhân của nhà chính Ushiromiya.`
+char_goh: `"Chào mừng tiểu thư trở về nhà.`
+char_goh: ` Cô về trễ quá, làm tôi lo lắng rồi đó."`
+char_jes: `"Ưm, cảm ơn vì đã lo cho tôi nhé!`
+char_jes: ` Chiếc thuyền làm Battler sợ vãi cả linh hồn ra.`
+char_jes: ` Cho nên tụi tôi phải đi chậm lại vì em ấy đó.`
+char_jes: ` Thật là phiền phức chết đi được!"`
+char_but: `"I‐im đi... Em sẽ nhớ chuyện này nếu lần sau chị gặp chuyện gì đó tương tự đấy... ugghh."`
+char_non: `Với cái đà này, cả gia đình sẽ đồn ầm lên mất. Tôi sẽ trở thành chủ đề nóng hổi để mọi người bàn khi ăn tối cho mà xem.`
+char_non: `Chỉ riêng việc vắng mặt sáu năm đã đủ khiến họ xì xào rồi... mà nay tôi còn tự vẽ ra thêm cái chuyện "hấp dẫn" như vậy nữa...!`
+char_non: `Chết tiệt, tại sao nhánh chính của gia tộc Ushiromiya lại phải sống trên cái hòn đảo hẻo lánh này chứ!`
+char_non: `Trong lúc đó, con thuyền đã được buộc dây xong.`
+char_non: `{n}Một tấm ván nhỏ được hạ xuống để chúng tôi bước xuống.`
+char_non: `Cha mẹ chúng tôi bước ra khỏi thuyền, từng người một.`
+char_goh: `"Các vị hẳn đã rất mệt sau chuyến đi dài.`
+char_goh: ` Thưa phu nhân, xin hãy để tôi giúp bà."`
+char_eva: `"Cảm ơn nhé.`
+char_eva: ` Lâu rồi không gặp, anh Gohda. Dạo này anh thế nào rồi?"`
+char_goh: `"Cảm ơn vì đã hỏi thăm.`
+char_goh: ` Tôi luôn rất vinh hạnh được phục vụ các vị."`
+char_kir: `"Battler à, đây là lần đầu cháu gặp chú Gohda có phải không?`
+char_kir: ` Nếu cô nhớ không nhầm thì sáu năm trước chú ấy chưa làm ở đây, đúng chứ?"`
+char_goh: `"Quả thật vậy.`
+char_goh: ` Vậy nên, xin phép cho tôi được giới thiệu với cậu.`
+char_goh: ` Rất hân hạnh được gặp cậu, thưa cậu Battler."`
+char_but: `"......Tôi khá tự tin về chiều cao của mình, nhưng anh thật sự to lớn đấy.`
+char_but: ` ...Chắc chắn đây là lần đầu ta gặp mặt.`
+char_but: ` Nếu từng gặp người cao lớn thế này, thì tôi chắc chắn không thể quên được đâu...!"`
+char_but: `"Rất hân hạnh.`
+char_but: ` Tôi là Battler."`
+char_goh: `"Mọi người đã rất mong ngài trở về, thưa ngài.`
+char_goh: ` Tôi đã phục vụ cho nhà chính của gia tộc Ushiromiya từ năm kia. Tôi tên là Gohda ({p:0:郷田}), gia nhân của cậu."`
+char_goh: `"Rất hân hạnh được làm quen.`
+char_goh: ` Nếu có bất kỳ điều gì cậu cần, xin hãy cứ nhờ tôi nhé."`
+char_geo: `"Chú Gohda à, lâu rồi không gặp."`
+char_goh: `"Quả thật đã quá lâu, thưa cậu George.`
+char_goh: ` Xin để tôi được giúp cậu."`
+char_hid: `"Anh đúng là chuyên gia đón tiếp như mọi khi...`
+char_hid: ` Nếu anh cần công việc gì thì cứ gọi cho tôi nhé?`
+char_hid: ` Tôi sẽ thuê anh ngay lập tức!"`
+char_goh: `"Ngài khen quá lời rồi ạ.`
+char_goh: ` Xin để tôi được giúp đỡ, thưa ngài Hideyoshi."`
+char_non: `Chú Gohda sau đó giúp từng người xuống thuyền, chào hỏi họ khi họ đi qua.`
+char_non: `Cách nói năng và thái độ của chú ấy có sự trau chuốt và tinh tế theo một cách rất chuyên nghiệp.`
+char_non: `Chú Gohda rất thanh lịch, trái ngược hoàn toàn với vẻ ngoài có phần thô kệch ban đầu.`
+char_non: `Vóc dáng to lớn khiến chú có vẻ hơi đáng sợ lúc đầu, nhưng chú ấy lại lịch sự hơn nhiều so với ấn tượng đầu tiên của tôi.`
+char_non: `Chú Gohda nói đã phục vụ trên đảo được hai năm, nhưng chắc chắn đã từng làm công việc tương tự ở đâu đó trước đó.`
+char_non: `Sau khi mọi người đã lên bờ, dây neo được tháo ra, và con thuyền bắt đầu rời khỏi bến.`
+char_non: `Có lẽ nó đang trở về cảng chính ở Niijima.`
+char_non: `Thuyền trưởng vẫy tay chào tạm biệt.`
+char_non: `{n}Maria nhiệt tình vẫy tay đáp lại.`
+char_but: `"............Hmm, em vừa nhận ra vì sao em thấy có gì đó lạ lạ.`
+char_but: ` Em không nghe thấy tiếng hải âu."`
+char_jes: `"Hải âu á?`
+char_jes: ` Mấy con chim ấy à?"`
+char_non: `Tôi nhớ rằng mỗi khi đến hòn đảo này, bầy hải âu luôn chào đón chúng tôi bằng những tiếng kêu "nyaa nyaa" rộn ràng.`
+char_non: `Vì vậy, mỗi khi nghe tiếng hải âu ở nơi khác, tôi lại có cảm giác như mình đang ở buổi họp mặt gia đình mình.`
+char_non: `Ngoại trừ phần nhỏ của đảo nơi nhà chính của gia tộc Ushiromiya sinh sống, Rokkenjima gần như bị bỏ hoang, trở thành thiên đường cho những loài chim hoang dã.`
+char_non: `Hình như có vách đá nào đó đã trở thành nhà của cả một đại gia đình hải âu, vì vậy hòn đảo này lúc nào cũng đầy ắp tiếng chim.`
+char_non: `Vì lũ hải âu không ra chào đón, nên tôi cảm thấy có đôi chút cô đơn.`
+char_ros: `"Có chuyện gì vậy, Battler?"`
+char_but: `"Ồ, cô Rosa à.`
+char_but: ` ...Không có gì đâu ạ, chỉ là cháu đang bảo là vì không nghe thấy tiếng hải âu nên cháu cảm thấy hơi trống vắng một chút."`
+char_ros: `"Ồ, cháu nói đúng.`
+char_ros: ` Bình thường chúng ồn ào lắm, mà hôm nay chẳng thấy bóng dáng con nào cả."`
+char_mar: `"......Uu?`
+char_mar: ` Sao không có hải âu?"`
+char_ros: `"Hmm, có lẽ là lũ hải âu cũng đang họp mặt đâu đó?`
+char_ros: ` Maria, con có muốn thấy hải âu không?"`
+char_mar: `"Uu, muốn thấy."`
+char_but: `"Có chuyện gì mà tụi nó biến mất hết vậy?`
+char_but: ` Chắc chị Jessica đã đem hếtttt tụi nó để làm thịt xiên nướng rồi ăn sạch rồi!"`
+char_mar: `"......Uu?!"`
+char_jes: `"Cái quái gì thế hả, đừng nói mấy chuyện ghê rợn như vậy chứ!`
+char_jes: ` Em làm Maria rối tung lên rồi kìa!!"`
+char_mar: `"Uu‐uu‐uu!`
+char_mar: ` Chị Jessica xiên tụi nó, xiên tụi nó làm thịt xiên!`
+char_mar: ` Uu!!"`
+char_jes: `"Không có nha, chị không có làm vậy!`
+char_jes: ` Tại sao chị lại làm chuyện đó chứ?!"`
+char_but: `"Đúng rồi, đúng roài~, chị Jessica xiên tụi nó hết rồi!`
+char_but: ` Xiên da, xiên thịt, xiên gan với hành tây~!"`
+char_mar: `"Xiên dan viên thịt!`
+char_mar: ` Gan với hành tây!!`
+char_mar: ` Uu‐uu‐uu!`
+char_mar: ` Ahaha, ahaha!`
+char_mar: ` *cười khúc khích*!"`
+char_non: `Khi tôi trêu Jessica, Maria cũng nhập cuộc với vẻ mặt thích thú như thể đang rất vui.`
+char_non: `Ồ, con bé đúng là biết cách hòa chung không khí đấy!`
+char_non: `{n}Được rồi, từ hôm nay anh sẽ coi em là fan số một của anh nhé!`
+char_non: `Khi tôi mỉm cười với Maria, em ấy cũng đáp lại bằng một nụ cười rạng rỡ, có lẽ cũng rất vui vì cảm giác thân thiết nhỏ bé này.`
+char_geo: `"Không phải vậy đâu, Maria à.`
+char_geo: ` Anh nghe nói rằng những loài chim hoang dã rất nhạy cảm với những thay đổi của thời tiết và áp suất không khí.`
+char_geo: ` Và có vẻ như thời tiết sẽ xấu đi vào tối nay.`
+char_geo: ` Có thể chúng đã vội vàng trở về tổ rồi."`
+char_mar: `"............Uu.`
+char_mar: ` Không phải thịt xiên?`
+char_mar: ` Chị Jessica không làm thịt xiên chim?"`
+char_jes: `"Không có, không có!!`
+char_jes: ` Chị đã nói rồi, chị không làm mấy chuyện đó mà!`
+char_jes: ` Này, Battler, em mau nhận ngay rằng em đã nói dối đi!"`
+char_geo: `"Battler à.`
+char_geo: ` bé Maria còn ngây thơ lắm, nên là em ấy tin tưởng vào cả mấy câu đùa đấy.`
+char_geo: ` Em nên lựa chọn những câu đùa cẩn thận hơn."`
+char_non: `...Anh George nhẹ nhàng trách tôi.`
+char_non: `...Dù tôi có cao hơn anh ấy đi chăng nữa, thì anh ấy vẫn khiến tôi phải tôn trọng như một người anh của mình.`
+char_non: ` Không còn lựa chọn nào khác ngoài ngoan ngoãn xin lỗi vậy.`
+char_but: `"N-này,`
+char_but: ` anh xin nhận lỗi nhé...`
+char_but: ` Maria à, ban nãy anh chỉ đùa thôi.`
+char_but: ` Hôm nay bầy hải âu chỉ đang yên lặng bên trong tổ của chúng thôi."`
+char_mar: `"......Battler nói dối?`
+char_mar: ` Anh George nói thật?"`
+char_non: `{i:"Em đã rất vui mà, hóa ra anh đã lừa em sao..."?}`
+char_non: `{n}Đôi mắt ngây thơ của em ấy như thể đang chất vấn tôi.`
+char_non: `{n}......Có lẽ tôi đã hơi quá đà khi đùa giỡn với em ấy rồi.`
+char_but: `"Ừ ừ, đúng đó, đúng đó.`
+char_but: ` Những gì anh George nói đều là sự thật.`
+char_but: ` Thời tiết xấu nên có thể chúng đã về nhà rồi.`
+char_but: ` Điều đó không có nghĩa là chúng đã biến mất, phải không nè?`
+char_but: ` Đúng không, cô nhỉ?!"`
+char_ros: `"Đúng vậy.`
+char_ros: ` Ngày mai, khi thời tiết tốt hơn, mẹ chắc chắn bầy chim sẽ quay lại và cho con nghe tiếng kêu "myaa myaa" thôi."`
+char_mar: `"Uu.`
+char_mar: ` Con sẽ đợi thời tiết tốt hơn để bầy chim quay lại.`
+char_mar: ` Chờ đến ngày mai.`
+char_mar: ` Chờ thời tiết tốt hơn.`
+char_mar: ` Uu‐uu!"`
+char_non: `Tâm trạng của Maria đã phấn chấn trở lại, và con bé bắt đầu háo hức chờ đến ngày mai, khi mà bầy hải âu quay lại và dang rộng đôi cánh, lấp đầy bầu trời.`
+char_non: `Dù vậy, anh George đúng là giỏi chăm sóc trẻ con thật.`
+char_non: `...Tôi nhớ là anh cũng từng chăm sóc tôi rất tốt, khi tôi còn là một thằng nhóc hồi sáu năm trước.`
+char_non: `......Anh ấy chắc hẳn có năng khiếu với mấy chuyện thế này.`
+char_ros: `"George à, cháu thật sự rất giỏi trong việc chăm sóc trẻ con đấy.`
+char_ros: ` Cô nghĩ cháu có thể làm trong ngành giáo dục mầm non luôn cơ!"`
+char_jes: `"Đúng đó, cứ như là anh sinh ra để làm việc đó vậy.`
+char_jes: ` Với em thì công việc đó hợp với anh hơn là làm giám đốc ở công ty nào đó đấy."`
+char_geo: `"Ồ không.`
+char_geo: ` Chăm trẻ con là một {i:công việc} rất đáng kính trọng.`
+char_geo: ` Không thể chỉ cần mình thích trẻ con là có thể làm được đâu."`
+char_ros: `"Cháu thật sự khiêm tốn quá, George ạ.`
+char_ros: ` Nhưng mà Battler này, cháu cũng giỏi chơi với trẻ con phết nhé!`
+char_ros: ` Khi nãy thôi, dù chỉ được một lúc, nhưng mà Maria trông rất vui đó.`
+char_ros: ` Hãy tiếp tục chơi với con bé như lúc nãy nhé.`
+char_ros: ` Chỉ là, hãy đùa sao cho phù hợp hơn, được chứ?`
+char_ros: ` *cười khúc khích*."`
+char_non: `Cô Rosa nháy mắt với tôi, khúc khích cười.`
+char_non: `Tôi thầm nghĩ, cô đúng là một người mẹ thật sự, chỉ cần thấy con mình vui là đã thấy hạnh phúc rồi.`
+char_rud: `"{i:Thôi đi}, Rosa.`
+char_rud: ` Còn mấy đứa này nữa, tụi bây còn đứng đó làm gì, nhanh cái chân lên nào!"`
+char_ros: `"Rồi rồi, tụi em tới liền."`
+char_non: `Lão già nhà tôi đang ra hiệu bảo chúng tôi nhanh lên.`
+char_non: `{n}Tốt hơn là nên đi tiếp thôi.`
+char_non: `Mang hết hành lý về phòng rồi nói những chuyện như vừa rồi thì vẫn chưa muộn mà.`
+char_goh: `"Vậy thì, xin mời các vị. Tôi sẽ dẫn các vị đến nhà khách, nơi các vị sẽ lưu trú.`
+char_goh: ` Xin mời đi lối này."`
+char_non: `Chú Gohda gọi mọi người và bắt đầu dẫn đường.`
+char_non: `{n}Bà Kumasawa thì đi ở phía sau cùng.`
+char_non: `Một con đường quanh co, uốn lượn dẫn xuyên qua khu rừng mờ tối.`
+char_non: `{n}Nó hơi dốc lên một chút.`
+char_non: `Tôi đoán họ làm đường vòng để người đi không cảm thấy dốc quá,`
+char_non: ` nhưng cá nhân tôi thì thích kiểu đường thẳng tắp và có bậc cầu thang hơn.`
+char_non: `......Chắc chắn họ cố tình làm cho đường đi quanh co, để cho có vẻ xa xôi và trang trọng...`
+char_non: `Chẳng mấy chốc, chúng tôi thấy những bậc thang đá mang phong cách của một khu vườn.`
+char_non: `...Ahhh, đúng rồi, tôi nhớ đoạn này rồi.`
+char_non: `{n}Đi lên mấy bậc này, và...`
+char_non: `Trên đỉnh bậc thang đá, một nhà khách tuyệt đẹp hiện ra.`
+char_non: `Mặt tiền thì dĩ nhiên là rất trang nhã, nhưng hơn cả điều đó thì`
+char_non: ` ......chúng tôi không thể không bị mê hoặc bởi vẻ tráng lệ của vườn hồng trải rộng phía trước.`
+char_hid: `"Haah~!`
+char_hid: ` Năm nay vẫn đẹp như mọi khi nhỉ...`
+char_hid: ` Nhìn đã mắt thật đó..."`
+char_non: `Khi đã bước lên đoạn trên cùng của bậc thang đá, những người được chào đón bởi vườn hồng đều hết lòng khen ngợi vẻ đẹp diệu kỳ của khung cảnh này.`
+char_eva: `"Không phải hoa năm nay kém rực rỡ hơn sao?`
+char_eva: ` Có khi do mùa hè vừa rồi không đủ nóng nhỉ."`
+char_goh: `"Tôi cũng tin là vậy ạ.`
+char_goh: ` So với hoa nở năm ngoái, thì hoa năm nay lại có phần kém hơn. Thật đáng tiếc."`
+char_non: `Dù vậy thì, đây vẫn là một vườn hồng tuyệt đẹp.`
+char_non: `{n}Tôi nhớ, đã từ rất lâu rồi, lúc nào tôi cũng được chào đón bởi một rừng hoa hồng như thế này; hơn cả sáu năm về trước luôn.`
+char_non: `...Khu vườn này luôn là thứ đầu tiên chào đón những người đến Rokkenjima.`
+char_non: ` Ngay cả cha mẹ chúng tôi, những người đến đây hằng năm, cũng không thể kìm được mà buông lời thán phục.`
+char_non: `Và hơn nữa, lần này nó trông như một phiên bản "nâng cấp" của khu vườn trong ký ức tôi từ sáu năm trước.`
+char_kir: `"Chỗ này lúc nào cũng tuyệt vời nhỉ.`
+char_kir: ` Nếu có một vườn hoa hồng như này ở nhà thì hay biết mấy."`
+char_rud: `"Thôi đi, em nghĩ ai sẽ chăm sóc nó chứ?`
+char_rud: ` Hoa hồng rắc rối lắm đấy, nào là sâu bệnh đủ thứ."`
+char_ros: `"Đúng vậy nhỉ.`
+char_ros: ` Em còn nghe nói là chị Kyrie ngày nào cũng chăm sóc "bông hồng" của mình đấy, để đảm bảo rằng không có con côn trùng nào cắn trộm mà chị lại không biết cả."`
+char_rud: `"Hả?`
+char_rud: ` Anh chưa từng nghe chuyện đó luôn, em đang nói gì thế?"`
+char_kir: `"Vâng, đúng là như vậy.`
+char_kir: ` Tuy nhiên, bông hồng nhà chị lại là kiểu thích ve vãn bọn côn trùng cơ, như thể nó là một thứ cây ăn thịt gớm ghiếc ấy."`
+char_rud: `"...Ồ, hóa ra ý em là vậy sao.`
+char_rud: ` Thôi mà Rosa, hôm nay em không tha cho anh được hử?`
+char_rud: ` Bây giờ anh đã khác xưa rồi mà."`
+char_ros: `"Em chẳng biết đâu á.`
+char_ros: ` Sau cùng thì anh vẫn là cái loại trăng hoa từ trong máu rồi mà...!"`
+char_kir: `"Không phải lo nhé cô Rosa.`
+char_kir: ` Nếu có bông hồng nào làm phiền chị quá, thì chị chỉ cần chặt nó đi ngay phần gốc là được."`
+char_kum: `"Hoh‐hoh‐hoh‐ho... cuộc trò chuyện này đáng sợ ghê."`
+char_hid: `"Đàn ông được phụ nữ mê, sinh thời sẽ gặp trăm bề nguy nan."`
+char_hid: ` Anh chỉ mong kiếp sau mình đẹp trai hơn thôi!"`
+char_rud: `"Anh Hideyoshi à, em đã nói không biết bao nhiêu lần rồi, mọi chuyện không như anh nghĩ đâu.`
+char_rud: ` ...Còn em nữa, Kyrie... đủ rồi đấy, em làm anh nổi da gà luôn đó.`
+char_rud: ` Em làm cho bông hồng của anh héo queo luôn rồi."`
+char_geo: `"Này, Maria ơi, em nhìn chỗ này đi.`
+char_geo: ` Mấy bông hoa hồng này đẹp lắm nè."`
+char_mar: `"...Hoa hồng đẹp.`
+char_mar: ` ...Uu!"`
+char_but: `"Hmmm~~, hương hoa thơm ngát luôn á.`
+char_but: ` Nhìn nè, đúng là hợp với vẻ thanh tao của anh lắm đó~."`
+char_jes: `"Này, đừng làm vậy!`
+char_jes: ` Maria mà bắt chước em thì sẽ bị gai đâm đó!"`
+char_non: `Chị ấy quát khi thấy tôi cúi xuống, làm bộ ngửi hoa một cách quá lố.`
+char_non: `...Tôi tưởng chị ấy phản ứng thái quá cơ, nhưng khi quay lại, tôi thấy Maria đang bắt chước từng cử chỉ của mình, làm anh George nở một nụ cười thật tươi.`
+char_geo: `"Này này, Maria ơi, cẩn thận nhé.`
+char_geo: ` Gai hoa hồng nhọn lắm đấy."`
+char_mar: `"......Uu?`
+char_mar: ` ............anh George ơi.`
+char_mar: ` Bông hồng này lạ quá.`
+char_mar: ` Uu."`
+char_jes: `"Lạ à?`
+char_jes: ` Có chuyện gì thế?"`
+char_non: `Maria chỉ vào một bông hồng duy nhất.`
+char_non: `{n}Tôi lập tức hiểu ngay vì sao con bé thấy nó lạ.`
+char_non: `Giữa một rừng hoa hồng rực rỡ, chỉ có duy nhất một bông đang héo tàn.`
+char_non: `Cũng không có lý do đặc biệt gì cả.`
+char_non: `{n}Có hoa nở, thì cũng có hoa tàn.`
+char_non: `Chỉ đơn giản là vậy thôi, nhưng Maria có vẻ rất bận tâm vì có duy nhất một bông hồng "ốm yếu" giữa muôn vàn bông đang khoe sắc đua hương.`
+char_non: `...Có lẽ con bé cảm thấy như bông hoa ấy đang bị bỏ rơi.`
+char_geo: `"Vậy là em buồn vì bông hoa này là bông duy nhất không khỏe...?"`
+char_mar: `"......Uu.`
+char_mar: ` Mấy bông khác đều khỏe mạnh, nhưng bông này thì buồn thiu."`
+char_jes: `"Thật ra thì mỗi bông có thời điểm nở và tàn khác nhau.`
+char_jes: ` Chị đoán bông này chỉ là đã nở sớm hơn các bông khác thôi, cho nên nó mới tàn trước."`
+char_but: `"Ừ, đúng đó.`
+char_but: ` Có lẽ nó đã từng nở rộ rực rỡ, rồi hoàn thành vai trò của mình, và giờ thì đến lúc nó nghỉ ngơi rồi.`
+char_but: ` Em không cần buồn vì điều đó đâu nhé."`
+char_mar: `".........Uu."`
+char_non: `Có vẻ như bản tính trong sáng và nhạy cảm của Maria khiến con bé cảm thấy buồn bã vì bông hồng đơn độc đang tàn úa kia.`
+char_non: `Dù lý trí có hiểu, nhưng em ấy vẫn cảm thấy cô đơn thay cho nó.`
+char_geo: `"Vậy thì, bé Maria này,`
+char_geo: ` sao em không chăm sóc cho bông hồng này đến lúc chúng ta rời đi nhỉ?"`
+char_mar: `"Uu?"`
+char_non: `Anh George đứng thẳng lên và lục lọi trong túi áo.`
+char_non: `{n}Anh lấy ra vỏ kẹo mà anh đã ăn trên máy bay.`
+char_non: `Sau đó, anh xoắn nó thành một sợi dây nhỏ, rồi nhẹ nhàng buộc vào bông hồng như để ghi dấu.`
+char_jes: `"Oaaa, đáng yêu quá!"`
+char_geo: `"Chúng ta đánh dấu nó bằng cái này nhé.`
+char_geo: ` Lát nữa em có thể quay lại tưới nước cho nó đấy.`
+char_geo: ` Chắc chắn "anh Hồng" sẽ vui lắm đấy."`
+char_mar: `"......Uu!`
+char_mar: ` Quay lại tưới nước cho nó!"`
+char_geo: `"Anh nghĩ em nên đặt tên cho "anh Hồng" này nữa.`
+char_geo: ` Như vậy chắc nó sẽ vui hơn, và em cũng sẽ thân thiết hơn với nó đấy."`
+char_mar: `"Tên...?`
+char_mar: ` Tên...`
+char_mar: ` ......Uu...uu..."`
+char_non: `Dù vẫn giữ vẻ mặt buồn rầu quen thuộc, Maria khoanh tay lại và bắt đầu suy nghĩ một cách nghiêm túc.`
+char_non: `Ít nhất thì con bé đã hoàn toàn thoát khỏi tâm trạng ủ dột ban nãy.`
+char_non: ` Tốt lắm, anh George ạ.`
+char_jes: `"Anh George quả thật là lúc nào cũng rất tinh tế nha.`
+char_jes: ` Không thể không nể phục anh ấy được."`
+char_but: `"Ừ.`
+char_but: ` Chắc đó là tài năng thiên phú của anh ấy rồi.`
+char_but: ` Chị em mình còn phải học hỏi thêm nhiều!"`
+char_hid: `"Lúc em còn nhỏ, khu vườn này đã đẹp như vậy chưa?"`
+char_eva: `"Có mà đến khi em rời khỏi nhà thì nó mới thành ra lộng lẫy thế này ấy.`
+char_eva: ` Em lại thích cái vườn cũ đơn sơ ngày xưa hơn.`
+char_eva: ` Anh cả cứ thích vọc vạch sửa sang hơi quá đà với cái gu thẩm mỹ đáng ngờ của mình rồi.`
+char_eva: ` Hồi trước nó đẹp hơn nhiều."`
+char_hid: `"Eva, em phải suy nghĩ tích cực lên chứ!`
+char_hid: ` Dù trông như thế nào, thì vẻ đẹp hiện tại vẫn rất đáng để ngắm nhìn mà.`
+char_hid: ` Nghĩ như vậy sẽ giúp em thư thái hơn nhiều đó."`
+char_eva: `"Em không có ý đó...`
+char_eva: ` Em chỉ muốn nói là, em cũng muốn mọi người được thấy cái khu vườn cổ kính, tuyệt vời ngày xưa thôi."`
+char_goh: `"Vậy thì, xin mời mọi người.`
+char_goh: ` Tôi sẽ hướng dẫn các vị đến phòng nghỉ ngay bây giờ."`
+char_non: `Chú Gohda gọi mọi người để hỏi xem chúng tôi đã sẵn sàng chưa,`
+char_non: ` nhưng trái tim chúng tôi đã hoàn toàn bị mê hoặc bởi khu vườn hồng sau một năm xa cách, và chẳng ai để ý đến lời gọi ấy.`
+char_non: `Vì đây không phải là một tour du lịch, nên chúng tôi đâu cần tuân theo lịch trình nghiêm ngặt nào.`
+char_non: `Vả lại, với cha mẹ chúng tôi, đây chính là ngôi nhà trong ký ức tuổi thơ mà họ được trở về, cho nên không một ai thấy cần phải vội vã theo lời ai cả.`
+char_non: `Hiểu được điều đó, chú Gohda tiếp tục đứng chờ với một nụ cười rộng mở, cho đến khi cha mẹ chúng tôi chán ngắm hoa và bảo chú dẫn về phòng nghỉ...`
+char_hid: `"Ôi chà...!`
+char_hid: ` Ô kìaaaaa!`
+char_hid: ` Có phải là Kanon đó không?!`
+char_hid: ` Lâu quá rồi, cháu khỏe không?!"`
+char_non: `Chú Hideyoshi đột nhiên hét lên.`
+char_non: `Hướng mà chú đang vẫy tay về,`
+char_non: ` .........là một cậu bé gầy gò.`
+char_non: `Gặp ngay sau một người khổng lồ như Gohda có lẽ càng làm dáng người nhỏ nhắn của cậu ta nổi bật hơn.`
+char_non: `Cậu ấy đang đẩy một chiếc xe rùa chất đầy dụng cụ làm vườn các loại.`
+char_non: `Khi nhận ra có người gọi mình, cậu đặt xe rùa xuống, tháo mũ và cúi đầu chào.`
+char_kan: `"..................`
+char_kan: ` .........Chào buổi chiều ạ."`
+char_non: `...Tôi đoán cậu ấy có lẽ trẻ hơn tôi.`
+char_non: `{n}Tôi nhận ra qua bầu không khí xung quanh cậu ấy, rằng cậu cũng là một gia nhân.`
+char_non: `Mặc dù cậu ấy có chào lại chú Hideyoshi, nhưng bản thân cậu ấy có vẻ hơi khó gần.`
+char_non: `Đó là một lời chào thiếu cảm xúc.`
+char_non: `Khi chú Gohda nhận thấy sự quan tâm của chúng tôi đã chuyển sang cậu bé, chú đã đến bên cậu và giới thiệu cậu với chúng tôi.`
+char_goh: `"Thưa cậu Battler, tôi xin được giới thiệu.`
+char_goh: ` Cậu ta là một trong những gia nhân phục vụ tại nhà chính của gia tộc Ushiromiya.`
+char_goh: ` ...Kanon này, hãy chào các vị khác của chúng ta nào."`
+char_kan: `"..................Rất vui được gặp các vị.`
+char_kan: ` Tôi là gia nhân............`
+char_kan: `Kanon ({p:0:嘉音})."`
+char_non: `Ừm, ấn tượng đầu tiên của quả là không sai. Cậu ta có vẻ không mấy thân thiện, hoặc có lẽ là kiểu người nói năng vụng về.`
+char_non: `Trái ngược với chú Gohda, người có phong thái vô cùng chuẩn mực của một gia nhân,`
+char_non: ` thật khó để không cảm nhận được sự non nớt thường thấy ở một người ở độ tuổi như cậu.`
+char_non: `Khi chú Gohda thì thầm nhắc nhở cậu nên giới thiệu kỹ hơn, cậu bé tên Kanon chỉ đưa mắt nhìn xuống.`
+char_goh: `"Kanon à.`
+char_goh: ` Cậu hãy chào hỏi mọi người cho phải phép hơn được không...?"`
+char_kan: `"............Không được ạ.`
+char_kan: ` ............Bởi vì chúng ta...`
+char_kan: `...chỉ là thứ đồ vật mà thôi."`
+char_non: `Có vẻ như không phải cậu ấy từ chối chào hỏi vì thiếu lễ độ,`
+char_non: ` mà là vì cậu không biết phải nói gì thêm nên đành im lặng.`
+char_jes: `"À, ừm, Kanon là người ít nói lắm.`
+char_jes: ` Cậu ấy có thể không thân thiện lắm, nhưng thật ra cậu ấy là người tốt đó!`
+char_jes: ` Mọi người đừng hiểu lầm nha...!"`
+char_jes: `"Cậu làm vậy ở đây được ba năm rồi nhỉ?`
+char_jes: ` Vậy là lâu hơn chú Gohda một năm đúng không nè, Kanon?"`
+char_non: `Dù ấn tượng về cậu ấy không quá đỗi tệ, Jessica vẫn vội vàng đỡ lời.`
+char_non: `...Ra vậy, có vẻ chuyện Kanon ít nói luôn khiến cậu ta bị hiểu lầm.`
+char_but: `"Tốt quá, rất vui được gặp cậu.`
+char_but: ` Tôi là Battler!`
+char_but: ` Tôi 18 tuổi, còn cậu bao nhiêu?"`
+char_kan: `"..........................."`
+char_non: `Một khoảng lặng, như thể đang cân nhắc xem có bắt buộc phải trả lời hay không.`
+char_non: `{n}...Nhưng một lần nữa, Jessica lại chen vào.`
+char_jes: `"À, ừm...!`
+char_jes: ` Nếu chị nhớ không lầm thì cậu ấy nhỏ hơn tụi mình hai tuổi... tức là 16, đúng không?"`
+char_kan: `"............Vâng, ...đúng vậy."`
+char_non: `Có vẻ như nếu có thể chọn, cậu ấy sẽ không muốn nói ra tuổi của mình.`
+char_non: `Chắc cậu ấy sợ bị đánh giá thấp vì điều đó.`
+char_non: `...Tôi nhớ là hồi tuổi đó, tôi cũng ghét bị người lớn hỏi tuổi lắm.`
+char_non: `...Ra là 16 tuổi hả?`
+char_non: `{n}Đúng là tuổi nhạy cảm.`
+char_non: `{n}...Trong trường hợp đó, thì chắc tôi đã hỏi điều không nên hỏi rồi.`
+char_but: `"Heh heh~, vậy là chúng ta gần tuổi nhau nhỉ!`
+char_but: ` Gọi tôi là Battler được rồi!`
+char_but: ` Tôi cũng sẽ gọi cậu là Kanon nhé!"`
+char_kan: `".........Cảm ơn cậu rất nhiều.`
+char_kan: ` Nhưng như vậy là được rồi ạ, ...thưa cậu Battler."`
+char_non: `Jessica trông có vẻ hơi bối rối.`
+char_non: `{n}Chị ấy có vẻ đang nghĩ rằng ấn tượng của tôi về Kanon đã xấu đi vì sự từ chối đó.`
+char_non: `Nhưng tôi đoán một cô gái như chị ấy chắc chẳng hiểu được nỗi lòng rối bời của một cậu con trai ở tuổi đó đâu.`
+char_non: `Là người lớn hơn – dù chỉ hai tuổi – và là người sẽ dẫn dắt cậu ta qua tuổi mới lớn, tôi tự nhủ rằng mình nên thông cảm vậy.`
+char_goh: `"Kanon à, cậu có thể cư xử lễ độ hơn một chút không?`
+char_goh: ` Nở nụ cười cũng là một phần bổn phận của gia nhân đấy."`
+char_kan: `"...............Tôi xin lỗi.`
+char_kan: ` ...Tôi sẽ cố gắng."`
+char_kum: `"Hoh‐hoh‐ho...`
+char_kum: ` Gohda à, Kanon đã cố hết sức rồi chứ, nhỉ?"`
+char_non: `Có vẻ như cậu ấy thường xuyên bị nhắc nhở về chuyện thiếu lễ phép.`
+char_non: `{n}Và rõ ràng là cậu vẫn chưa tiến bộ được bao nhiêu.`
+char_non: `Chú Gohda vẫn giữ nụ cười "nghề nghiệp", nhưng không giấu nổi tiếng thở dài cam chịu.`
+char_kan: `"......Tôi vẫn còn công việc phải làm.`
+char_kan: `.........Xin phép được đi trước."`
+char_non: `Có vẻ như bản thân Kanon cũng không muốn tiếp tục đứng yên ở đây trong im lặng nữa.`
+char_non: `Sau một cái cúi đầu qua loa, cậu quay người và tiếp tục đẩy chiếc xe rùa.`
+char_non: `Đúng lúc đó, chiếc xe rùa bỗng loạng choạng và ngã xuống, làm đổ hết mọi thứ bên trong.`
+char_non: `Chắc là bánh xe lỡ bị vấp vào một viên sỏi nên bị mất thăng bằng.`
+char_goh: `"Cái gì vậy chứ... nhanh lên, mau dọn dẹp đi...!"`
+char_non: `Chú Gohda thúc giục bằng một tông giọng trầm, như đang nhắc nhở rằng việc để lộ bộ dạng vụng về trước mặt khách là điều xấu hổ của gia nhân.`
+char_non: `Thể hiện rõ là mình hiểu điều đó mà chẳng cần ai nhắc, Kanon lặng lẽ nhặt lại những vật dụng rơi vãi và xếp lại lên xe.`
+char_non: `Mấy dụng cụ làm vườn nhẹ như xẻng thì không sao, nhưng trông cậu ta có vẻ chật vật khi cố ôm lấy mấy bao phân bón.`
+char_jes: `"Ổn chứ? Cậu bất cẩn quá đấy.`
+char_jes: ` Nè."`
+char_goh: `"Tiểu thư à, y phục của cô sẽ bị bẩn mất.`
+char_goh: ` Xin hãy để việc đó cho cậu ta."`
+char_non: `Với một cử chỉ đầy thanh lịch, Gohda nhận lấy cái xẻng mà Jessica vừa cúi xuống nhặt.`
+char_non: `Sau lưng ông là hình ảnh Kanon vẫn đang vất vả với mấy bao phân bón.`
+char_mar: `"......Uu.`
+char_mar: ` Y phục của anh sẽ bị bẩn mất?"`
+char_but: `"Em đừng lo, quần áo anh chẳng phải thứ gì sang trọng đâu."`
+char_but: `"Với lại, anh chúa ghét mấy kẻ mà chuyên bắt bồi bàn phải cúi xuống nhặt nĩa nếu họ lỡ làm rơi đấy."`
+char_non: `Tôi cúi xuống nhặt những bao phân còn lại.`
+char_non: `{n}Tất nhiên là chúng không nhẹ gì, nhưng với tôi thì chẳng nhằm nhò gì.`
+char_non: `Kanon‐kun ngẩng lên nhìn tôi, mắt đầy bất ngờ.`
+char_non: `{n}Đó là ánh mắt của một người không ngờ sẽ được khách giúp đỡ.`
+char_kan: `"............T-thưa cậu Battler...`
+char_kan: ` Không cần đâu ạ... Tôi sẽ tự làm được..."`
+char_but: `"Đừng lo!`
+char_but: ` Nhìn vậy chứ tôi khỏe lắm đấy!`
+char_but: ` Heheh!"`
+char_non: `Kanon trông như vẫn chưa qua giai đoạn dậy thì, với thân hình yếu ớt.`
+char_non: `Chắc mấy thứ nặng như vầy là quá sức với cậu ấy.`
+char_geo: `"Nặng phết mà,`
+char_geo: ` nên khó khăn với cậu cũng là điều dễ hiểu thôi.`
+char_geo: ` Kanon à, đừng để tâm quá."`
+char_but: `"OK, đến lúc em thể hiện rồi.`
+char_but: ` Xem như bù lại vụ trên thuyền hồi nãy, được không?"`
+char_jes: `"Ha!`
+char_jes: ` Mấy trò hề hồi nãy mà xem như xí xóa là xong á!`
+char_jes: ` Ah‐hah‐hah‐ha!`
+char_jes: ` Lát nữa tôi kể hết cho cậu nghe nha, Kanon à. Battler là cây hài chính hiệu luôn!"`
+char_mar: `"Rơi mất thuiii rơi mất thuiii!!`
+char_mar: ` Uu‐uu‐uu!!!"`
+char_non: `Vừa làm vừa nói khiến mọi thứ có vẻ diễn ra nhanh chóng, và trước khi tôi kịp nhận ra, mọi thứ đã được chất đầy trở lại lên xe rùa.`
+char_kan: `"............Vì đã để các vị chứng kiến cảnh tượng khó coi này, tôi xin phép được thứ lỗi."`
+char_goh: `"Tốt lắm, đủ rồi đấy.`
+char_goh: ` Giờ cậu đi đi."`
+char_non: `Việc để khách – những người lẽ ra phải được tiếp đón chu đáo – chứng kiến cảnh tượng xấu hổ như vậy... hẳn là một nỗi nhục lớn đối với một gia nhân.`
+char_non: `Bị Gohda thúc giục rời đi, Kanon‐kun đã cất bước.`
+char_eva: `"Anh hơi nặng lời với cậu ấy rồi đó, Gohda à.`
+char_eva: ` Sao không giúp một tay thay vì bắt nạt, nhỉ?"`
+char_goh: `"...Bà nói đúng rồi ạ.`
+char_goh: ` Tôi thật lòng, thật lòng xin thứ lỗi."`
+char_non: `Với miệng cười không chút thay đổi, chú Gohda tinh tế đưa ra lời xin lỗi.`
+char_hid: `"Kanon cũng có nhiều mặt tốt đấy.`
+char_hid: ` Chỉ là tại cậu ta còn trẻ quá thôi.`
+char_hid: ` Nghĩ mà tiếc thật."`
+char_rud: `"Đang ở tuổi nhạy cảm mà.`
+char_rud: ` Cứ đối xử nhẹ nhàng với cậu ấy đi.`
+char_rud: ` Biết im lặng như vậy lại là đức tính một gia nhân cần có đó.`
+char_rud: ` Phải vậy không thưa bà Kumasawa?"`
+char_kum: `"Hoh‐hoh‐hoh‐ho, ngài Rudolf ác quá nha!`
+char_kum: ` Không có gia nhân nào im lặng được bằng tôi đâu!"`
+char_non: `Ai nấy đều cười gượng với lời dối trắng trợn đó.`
+char_non: `{n}Ngay cả chính bà ấy cũng không tin được lời mình nói, dù chỉ là trong mơ.`
+char_non: `{n}Bà nói vậy chỉ để giúp mọi người thư giãn thôi.`
+char_non: `Đúng thế, đó là phong cách của bà Kumasawa mà.`
+char_non: `Bầu không khí có phần căng thẳng lập tức trở nên nhẹ nhàng hơn nhờ nụ cười rạng rỡ của bà.`
+char_kir: `"Tôi muốn cất hành lý sớm một chút.`
+char_kir: ` Anh Gohda, chúng tôi sẽ chia phòng thế nào?"`
+char_goh: `"Sẽ giống như năm ngoái, thưa bà.`
+char_goh: ` Tôi xin phép được dẫn đường.`
+char_goh: ` Xin mời đi lối này."`
+char_non: `Chúng tôi tiến về phía khu nhà khách trông gọn gàng và trang nhã.`
+char_non: `{n}Đây sẽ là nơi tạm trú của chúng tôi trong một đêm.`
+char_kan: `".........................................."`
+char_non: `Kanon đứng nhìn qua hàng rào khi các vị khách bước vào căn nhà khách.`
+char_non: `Thế rồi, cậu hướng mắt xuống mấy bao phân bón nặng trịch chất trên xe cút kít.`
+char_non: `Trong đầu, cậu không ngừng lặp lại những lỗi lầm vừa rồi.`
+char_non: `{n}Battler, to khỏe như vậy, đã nhấc những chiếc bao mà cậu không thể nâng nổi lên, như thể chúng nhẹ như lông hồng.`
+char_non: `Khó có ai đoán được cảm xúc gì đang dâng trào trong lòng Kanon khi chứng kiến điều đó.`
+char_non: `Nhưng chỉ cần nhìn từ sau lưng khi cậu cúi đầu xuống, cũng có thể thấy rằng trong lòng cậu vẫn còn điều gì đó đang vướng mắc.`
+char_non: `...Môi cậu thì thầm điều gì đó.`
+char_non: `{n}Nhưng những lời thì thầm ấy khẽ khàng đến mức chính bản thân cậu cũng không nghe rõ.`
+char_kan: `"...............Ngay cả mình cũng...`
+char_kan: `........................"`
+char_non: `Kanon cúi đầu, khẽ cắn môi dưới...`
+char_but: `"Em nhớ khu vườn hoa hồng, cơ mà...`
+char_but: `Em không nhớ gì về nhà khách này cả.`
+char_but: ` Nó mới được xây gần đây à?"`
+char_non: `Chữ "Toraian" (Nhà nghỉ cho khách) được viết trên trụ cổng, nhưng vì mọi người đều gọi là nhà khách nên tôi cũng gọi theo.`
+char_non: `Đây là nhà khách kiểu Tây hoàn toàn mới, có góc nhìn ra vườn hồng, và được thiết kế sao cho thật lộng lẫy để đạt được sự hài hòa tuyệt vời với khu vườn.`
+char_geo: `"Đúng vậy!`
+char_geo: ` Nó mới được xây vào năm kia.`
+char_geo: ` Từ đó đến nay, bọn anh vẫn hay được ngủ ở đây."`
+char_jes: `"Hehe, ừ, vì ai cũng thích chỗ này hơn cái biệt thự cũ kỹ mà nhà mình có từ đời nào rồi.`
+char_jes: ` Em ước gì phòng em cũng ở đây!"`
+char_mar: `"Uu!`
+char_mar: ` Em cũng muốn nữa!`
+char_mar: ` Muốn một cái nữa!"`
+char_non: `...Nhà tôi chắc cũng được xem là nhà giàu rồi, nhưng khi nhìn lại thì mới thấy nó bình thường biết bao so với nhà chính của gia tộc.`
+char_non: `Như một sự phô trương tài sản đầy sửng sốt, họ đã xây hẳn một căn nhà khách tuyệt vời như thế này, chỉ để tiếp đón những vị khách mỗi năm chỉ đến một lần dùng cơ mà.`
+char_goh: `"Thưa bà Eva, thưa ông Hideyoshi.`
+char_goh: ` Xin mời hai vị dùng phòng này.`
+char_goh: ` Thưa ông Rudolf, thưa bà Kyrie, xin mời dùng phòng bên đây."`
+char_eva: `"À vâng, tôi rất cảm kích vì nơi này đẹp đẽ và sang trọng quá.`
+char_eva: ` Phong cách phương Tây thật tuyệt vời nhỉ."`
+char_hid: `"Ở kiểu Tây vài ngày thì được, chứ lâu hơn là lại cần kiểu Nhật thôi!`
+char_hid: ` Người Nhật mình chỉ thấy thư giãn khi được ngồi chiếu tatami."`
+char_geo: `"...Haha, bố mẹ anh cứ cãi nhau về việc nhà mới nên theo kiểu Nhật hay Tây.`
+char_geo: ` Mẹ thì vẫn giận vụ bố bắt đầu xây theo kiểu Nhật, nên cãi nhau miết đó."`
+char_jes: `"Bố mẹ anh hợp nhau thật đó, anh George... Em ganh tị ghê.`
+char_jes: ` Còn bố mẹ em thì lạnh lùng với nhau lắm.`
+char_jes: ` Nhưng cứ nhắc tới điểm số của em là họ lại đồng lòng ngay."`
+char_non: `Tất cả các phòng dường như là phòng đôi.`
+char_non: `{n}Tôi thấy mừng vì sẽ không phải ngủ cùng phòng với lão già kia chỉ vì lý do "là người cùng một nhà" nữa.`
+char_non: `Vả lại, tôi đoán hai người đó cũng không thoải mái được nếu có tôi ở đó, ihihi.`
+char_kir: `"Sao cháu lại có nụ cười kỳ cục đó vậy?`
+char_kir: ` Đang nghĩ chuyện bậy bạ gì đúng không."`
+char_but: `"Ihihihi~!`
+char_but: ` Chuyện bậy bạ áááááá? Làm gìììììì có~!`
+char_but: ` Xin mời cô cứ... tận hưởng kỳ nghỉ nhéééé~!"`
+char_but: `"Ối, ốiốiốiốiốiii!`
+char_but: ` Lão già, đau thật đó nha!"`
+char_non: `Lại một lần nữa, bố kéo tai tôi từ phía sau.`
+char_rud: `"Thôi đi con.`
+char_rud: ` Bụng bố mày đang đau đây, không có hứng đùa đâu.`
+char_rud: ` Lần này mày là khách mời danh dự đó.`
+char_rud: ` Cố mà cư xử cho đàng hoàng với bố, với anh mày, và cả mấy người còn lại nữa."`
+char_rud: `"......Ít nhất thì, chú ý lời ăn tiếng nói trước mặt bố đi, nghe chưa?`
+char_rud: ` Vì bố cực ghét mấy câu đùa nhảm đấy."`
+char_rud: `......Jessica ơi, dạo này tâm trạng ông nội thế nào rồi?"`
+char_jes: `"...Hmm......`
+char_jes: `Cũng như năm ngoái thôi, chắc vậy.`
+char_jes: ` ......Mọi người cứ nói ông chỉ còn sống được ba tháng nữa, vậy mà ông vẫn còn khỏe,`
+char_jes: ` cáu kỉnh,`
+char_jes: ` và khó ở như thường."`
+char_ros: `"Tức là, năm nay tâm trạng bố vẫn còn tồi tệ như mọi khi.`
+char_ros: ` ......Và người duy nhất có thể chăm sóc bố là ông Genji?"`
+char_kum: `"Có vẻ như chủ nhân chỉ mở lòng với ông Genji thôi.`
+char_kum: ` Gần đây thì bọn tôi không có ai được diện kiến nữa mà..."`
+char_jes: `"Ông lại nhốt mình trong thư phòng rồi, chắc lại làm mấy cái trò ma thuật đen kỳ quặc như mọi khi á.`
+char_jes: ` Làm gì thì làm, nhưng khi mùi lạ bốc lên khắp nơi thì thật là phiền.`
+char_jes: ` ...Cháu thì mong ông cứ ở lì trong đó đi, khỏi ra luôn cho xong.`
+char_jes: ` Heheheh!"`
+char_geo: `"Em không nên nói vậy về người lớn tuổi nhé.`
+char_geo: ` Ai cũng mang ơn ông vì đã xây dựng lại gia tộc Ushiromiya mình mà, nên biết ơn một chút cũng không thừa."`
+char_jes: `"Ờm... thì...`
+char_jes: ` ......Em xin lỗi."`
+char_non: `Bị anh George trách mắng, Jessica không còn cách nào khác ngoài việc rút lại lời nói thiếu suy nghĩ của mình.`
+char_non: `Gia tộc Ushiromiya giàu có đến mức khó tin, nhưng tất nhiên, điều đó cũng đồng nghĩa với việc tất cả các thành viên đều là những con người lập dị, hoàn toàn lệch nhịp so với phần còn lại của xã hội.`
+char_non: `Tuy tôi đã thấy gia tộc chúng tôi nhìn chung là lập dị rồi, nhưng người đứng đầu gia tộc – tức là ông nội chúng tôi – dường như còn đặc biệt lập dị và đáng sợ hơn thế.`
+char_non: `Bố tôi vừa than đau bụng ban nãy, nhưng có lẽ đó cũng là cảm giác chung của tất cả người lớn khi đến đây hôm nay.`
+char_non: `Chắc chắn họ đang ghen tị với bọn tôi – lũ cháu của ông – những đứa trẻ chỉ biết chơi đùa vô tư.`
+char_non: `Theo những gì bố kể, người đứng đầu gia tộc là một gã đàn ông vũ phu, từng không xót tay mà đánh con trai, và thậm chí còn đập con gái không thương tiếc bằng kiếm gỗ.`
+char_non: `Nếu đã "truyền thống" đến mức đó với con cái, sao ông không để tên của tụi nó cũng "truyền thống" luôn đi?`
+char_non: `Vì thế này, thì đến cả các cháu như tụi tôi cũng phải gánh chịu cái phong cách đặt tên ấy.`
+char_non: `......Mà thôi, tôi hoàn toàn tin vào cái hình ảnh đáng sợ mà họ miêu tả về ông.`
+char_non: `Tôi không có nhiều ký ức về những lần gặp ông suốt những năm qua, nhưng tôi nhớ khuôn mặt ông lúc nào cũng như mây đen vần vũ, chỉ một ánh mắt cũng đủ khiến mọi người xung quanh co rúm lại.`
+char_non: `Tôi nhớ không khí trong phòng mỗi khi ông xuất hiện căng đến mức không thể thở nổi.`
+char_non: `Câu nói bố vừa nhắc về việc tôi là khách mời danh dự lần này, giờ nghe lại có vẻ mang nhiều "trọng lượng" hơn rồi đó.`
+char_but: `".........Sáu năm trước, em còn học tiểu học, còn giờ em đã là học sinh cấp ba rồi, không còn trốn tránh được nữa.`
+char_but: ` Nếu không thể hiện sự kính trọng, thì chắc sẽ có chuyện lớn đây.`
+char_but: ` ...Ooo, đáng sợ thật."`
+char_geo: `"Ông trông có vẻ đáng sợ đấy, nhưng thật ra cũng không hẳn đâu.`
+char_geo: ` Chắc chắn ông không bao giờ bất công.`
+char_geo: ` Chỉ là ông không giỏi ăn nói thôi."`
+char_jes: `"Nhưng anh George à, anh là cháu cưng trong nhà từ xưa đến giờ nhờ học giỏi mà đúng không?`
+char_jes: ` Ông nội đối xử với tụi em khác hẳn nha!"`
+char_jes: `"Như em nè, từng bị đánh kiếm gỗ.`
+char_jes: ` Đánh vào mông, đánh vào mông em luôn đó!`
+char_jes: ` Đánh vào cái mông trần trinh nguyên của em đó!"`
+char_geo: `"À thì, em là người thừa kế của nhà chính mà, Jessica.`
+char_geo: ` Ông nội chỉ đang chăm sóc em đặc biệt thôi.`
+char_geo: ` Phải hiểu là sự nghiêm khắc của ông thể hiện kỳ vọng rất lớn dành cho em."`
+char_jes: `"Ôi trời ơi.`
+char_jes: ` ...Thật lòng ấy, em muốn giao lại quyền thừa kế cho anh luôn đó, anh George à.`
+char_jes: ` Cái gánh nặng này thì quá sức với em rồi."`
+char_non: `Tôi nghĩ mình đã nói rồi, nhưng mà Jessica là con gái của người con trai cả, đồng nghĩa với việc chị ấy phải mang trọng trách thừa kế nhà chính.`
+char_non: `{n}Áp lực trên vai chị ấy chắc chắn khác hoàn toàn với tụi tôi – những đứa con của những người con thứ.`
+char_mar: `".........Uu?`
+char_mar: ` Chị Jessica ơi, nặng lắm à?`
+char_mar: ` Nếu em cầm giúp, nó sẽ nhẹ hơn không?"`
+char_jes: `"Hm?`
+char_jes: ` Ahahahaha, cảm ơn nha.`
+char_jes: ` Không sao đâu, chị không để em phải chịu nó đâu, bé Maria."`
+char_jes: `"......Chị phải tự mang nó cho đến lúc xuống mồ thôi.`
+char_jes: ` ...Đừng lo nhé."`
+char_non: `Dù trân trọng sự quan tâm ngây thơ của Maria, Jessica dường như không thể xua tan nỗi lo âu về tương lai vẫn hiện rõ trên gương mặt.`
+char_non: `...Tôi thì chắc cũng chẳng khác gì.`
+char_non: `Học sinh cấp ba nào mà không có những bài kiểm tra chờ phía trước chứ, và chúng đều đi liền với những nỗi bất an khó giấu nổi về tương lai.`
+char_ros: `"Maria, lại đây nào.`
+char_ros: ` Con sẽ ở phòng này với mẹ nhé."`
+char_geo: `"Battler à, có vẻ như em sẽ ở phòng này với anh đấy."`
+char_but: `"Oh?`
+char_but: ` Bất ngờ ghê!`
+char_but: ` Phòng này còn to hơn phòng của bố mẹ tụi mình nữa, wo~w!"`
+char_jes: `"Chị đoán là tụi mình đã là anh em họ với nhau thì chắc sẽ tụ tập chung một chỗ thôi.`
+char_jes: ` Nên là chị đã bảo họ làm ra một cái phòng to đùng như thế này luôn."`
+char_mar: `"Uu!`
+char_mar: ` Em cũng thích ở đây nhất!`
+char_mar: ` Ở đây thích hơn là ở cùng với Mama!`
+char_mar: ` Uu‐uu!"`
+char_but: `"Ok, Maria cũng thích ở đây hơn ha!`
+char_but: ` Vậy thì, phòng này là của anh George với anh, nhưng bọn anh sẽ cho em đặc quyền vào đây nha!`
+char_but: ` Đừng nói với mẹ em đấy!"`
+char_mar: `"Uu!`
+char_mar: ` Bí mật!"`
+char_non: `Mẹ cô bé – cô Rosa – đang đứng ngay phía sau, nhưng Maria vẫn cất tiếng đáp, tay nắm chặt đấm vào không khí.`
+char_non: `Sau khi bố mẹ tụi tôi để hành lý vào phòng, họ lại tụ họp ngoài hành lang.`
+char_rud: `"Này mấy nhóc, các con tính sao đây?`
+char_rud: ` Mấy anh em họ nhà này cứ định ngồi đây mà trò chuyện thôi hả?"`
+char_non: `Có vẻ họ đang chuẩn bị đến biệt thự để chào hỏi.`
+char_non: `...Bình thường, tụi tôi cũng sẽ phải đi theo và chào hỏi chung,`
+char_non: ` nhưng nếu vậy thì bố tôi chỉ đơn giản bảo "Các con đi cùng luôn đi!" là xong chuyện.`
+char_non: `Mà lần này thì tụi tôi không đi cũng chẳng sao... Vậy giờ làm gì đây?`
+char_hid: `"Cũng sắp tới giờ ăn trưa rồi.`
+char_hid: ` Cho các cháu thư giãn ở đây chút cũng tốt.`
+char_hid: ` Với lại, nếu mà xui lắm thì, có khi đây là lần cuối tụi nó được chơi ngoài trời."`
+char_mar: `"Uu!`
+char_mar: ` Con đi nữa!"`
+char_ros: `"Maria, con trông nhà giúp Mama nhé, được chứ?`
+char_ros: ` Ngoan và đợi mẹ ở đây nhé."`
+char_mar: `"......Uu."`
+char_non: `Giờ Maria bị bảo phải ở lại, thì tụi tôi cũng không thể bỏ lại cô bé một mình được.`
+char_non: `Anh George lập tức nhận ra điều đó và trả lời dứt khoát thay mặt cả bọn.`
+char_geo: `"Vậy thì tụi cháu xin nhận lời và ở lại trông nhà.`
+char_geo: ` Một năm không gặp, tụi cháu có nhiều chuyện để nói lắm."`
+char_kir: `"Vậy là tốt nhất.`
+char_kir: ` Với lại Battler còn có tận sáu năm chưa được nói gì với mọi người mà!"`
+char_but: `"Vâng vâng.`
+char_but: ` Cháu sẽ trông nhà như một cậu bé ngoan luôn."`
+char_jes: `"Bà Kumasawa, cháu cũng sẽ ở lại nhé!`
+char_jes: ` Mấy chuyện còn lại nhờ người lớn lo, tụi cháu sẽ tách đoàn một chút, heheheh!"`
+char_kum: `"Vậy thì là tốt nhất rồi, hoh‐hoh‐ho.`
+char_kum: ` Tôi sẽ báo lại với bà chủ..."`
+char_goh: `"Vậy thì, xin mời các vị, tôi sẽ dẫn đường đến biệt thự.`
+char_goh: ` Mời đi lối này."`
+char_eva: `"...Không tính mấy đứa nhỏ, chứ George giờ là người lớn rồi. Cho nó đi cùng tụi mình không tốt hơn sao?"`
+char_hid: `"Kêu nó đi theo thì tội nó lắm, vì có khi con mình sẽ cảm thấy không theo được mọi người đâu.`
+char_hid: ` Giao tiếp với mấy đứa em họ cũng quan trọng mà.`
+char_hid: ` Thôi, gặp sau nhé mấy đứa!"`
+char_non: `Những người lớn lần lượt rời đi.`
+char_non: `Giống như lúc dẫn tụi tôi từ bến tàu lên đây, chú Gohda đi trước dẫn đầu, còn bà Kumasawa lại bước theo sau cùng.`
+char_non: `Khi chúng tôi tụ tập trong căn phòng lớn được phân như ban nãy, anh George xin phép chạy ra ngoài một lát.`
+char_non: ` Anh vội đến chỗ bà Kumasawa, người đang theo sau hội người lớn đang khuất dần, và dường như hỏi bà điều gì đó.`
+char_non: `Chẳng mấy chốc, anh quay lại sau khi hoàn tất việc.`
+char_but: `"Sao vậy anh?"`
+char_geo: `"À, không sao đâu.`
+char_geo: ` Anh chỉ muốn hỏi vài thứ thôi."`
+char_mar: `"Uu!`
+char_mar: ` Hỏi em nữa đi!`
+char_mar: ` Hỏi em nữa điii!"`
+char_jes: `"......Hm~?`
+char_jes: ` Hmhuhuhuhu.`
+char_jes: ` Có chuyện gì mà anh George phải hỏi bà Kumasawa mà không hỏi em nhỉ~?`
+char_jes: ` Ah, em không biết được đâu á~!"`
+char_geo: `"Không, em hiểu lầm rồi...!`
+char_geo: ` Anh không biết em có hiểu lầm hay không nhưng mà...!"`
+char_non: `Anh George bắt đầu lắp bắp thấy rõ.`
+char_non: `Nhìn như thể anh ấy đang giấu chuyện gì đó, còn Jessica thì nắm được hết rồi.`
+char_non: `...Mà nếu có chuyện gì chỉ có Jessica biết mà tôi thì không, thì chán chết luôn!`
+char_but: `"Nè Maria, tụi mình bị ra rìa thì đâu có công bằng đúng không~?!`
+char_but: ` Tụi mình cũng muốn biết hai người ấy đang nói gì chứ, đúng không~?!"`
+char_mar: `"Uu!`
+char_mar: ` Battler với em cũng muốn biết!`
+char_mar: ` Battler với em cũng muốn biết!"`
+char_non: `""Uu‐uu‐uu‐uu!!!""`
+char_non: `Tôi bắt chước "uu‐uu" cùng với Maria và đùa giỡn.`
+char_geo: `"Không, anh nói thật mà... chẳng có gì to tát đâu, ahahaha..."`
+char_but: `"Xạo là rõ~!`
+char_but: ` Anh dở tệ khoản nói dối luôn đó, mau khai ra đi!`
+char_but: ` Maria, em cù bên phải, anh sẽ cù bên trái!"`
+char_mar: `"Uu!`
+char_mar: ` Em bên phải, Battler bên trái!`
+char_mar: ` Uu!"`
+char_geo: `"Khoan đã nào!!`
+char_geo: ` Khoan đã mấy đứa...!!`
+char_geo: ` Ahahaha, dừng lại,`
+char_geo: ` ahahahahahaha!!"`
+char_non: `George‐aniki lăn lộn trên giường cố né, còn tôi với Maria thì đuổi theo để trêu anh ấy.`
+char_non: `Trong đầu tôi có giọng nói nhắc rằng mình là học sinh cấp ba rồi đấy, không còn là con nít nữa đâu, nhưng dù vậy, tôi vẫn nhớ cảm giác vui vẻ kiểu này.`
+char_non: `Một niềm vui ấm áp.`
+char_jes: `"Haahahahaha, chuyện anh George hỏi bà Kumasawa đó, thì...`
+char_jes: ` Hmm~?`
+char_jes: ` À thì, em cũng biết mà.`
+char_jes: ` Một năm rồi anh ý mới quay lại nhà chính.`
+char_jes: ` Thì có vẻ là anh ý đang nóng lòng chào hỏi mấy gia nhân mới vào hay sắp nghỉ việc thôi mà."`
+char_mar: `"......Uu?`
+char_mar: ` Chào hỏi? Em cũng muốn chào hỏi!"`
+char_but: `"Cái quái gì chứ, chuyện đó thì có gì phải giấu đâu, anh George à.`
+char_but: ` ......Hmm~~m?`
+char_but: ` Không phải vậy đâu đúng không??`
+char_but: ` Maria, đừng để bị lừa, anh ấy vẫn còn giấu chuyện gì đó~!`
+char_but: ` Tiếp tục tra khảo!!`
+char_but: ` Uworyaaa!!"`
+char_geo: `"D‐dừng lại đi, nghiêm túc đó!`
+char_geo: ` Aahahahahaha!`
+char_geo: ` Bé Maria à, em cũng dừng lại đi!!"`
+char_mar: `"Aahahahahaha, aahahahahaha!`
+char_mar: ` *cười khúc khích*!!"`
+char_jes: `"Có lẽ họ đang bận dọn dẹp hoặc chuẩn bị bữa trưa.`
+char_jes: ` Không sao đâu, tụi mình sẽ chào hỏi đàng hoàng sau.`
+char_jes: ` Căn bản là, anh muốn Shannon ra chào mình chứ gì, chứ không phải bị chú Gohda chen ngang đúng không?!`
+char_jes: ` Heeheheh!"`
+char_but: `"Shannon hả?`
+char_but: ` ......Shannon.`
+char_but: ` ......Aaaaaaaaahh...`
+char_but: ` Nhớ rồi, cô gái đó!`
+char_but: ` Vẫn còn làm hầu gái à?`
+char_but: ` Giờ cô ấy thế nào rồi?!"`
+char_hid: `"Nhân tiện, chị Natsuhi à.`
+char_hid: ` Gần đây chị còn bị đau đầu nữa không?`
+char_hid: ` Hồi trước thấy có vẻ nghiêm trọng lắm."`
+char_nat: `"...Dạo này chị đã khá hơn nhiều rồi.`
+char_nat: ` Cảm ơn chú đã quan tâm."`
+char_ros: `"À, đúng rồi, đây.`
+char_ros: ` Em có chút quà gửi chị Natsuhi ạ."`
+char_nat: `"......Chị xin cảm ơn cô lần nữa nhé.`
+char_nat: ` Lúc nào chị cũng có quà từ cô mãi.`
+char_nat: ` ...Đây là trà đen à?"`
+char_ros: `"Là trà thảo mộc pha bạc hà và tía tô đất ạ.`
+char_ros: ` Đây là loại trà được pha chế đặc biệt từ một cửa hàng nổi tiếng, nghe nói là sẽ tốt cho những ai hay bị đau đầu.`
+char_ros: ` Em nghĩ có thể giúp ích cho chị ạ."`
+char_non: `Rosa lúc nào cũng là người chu đáo.`
+char_non: `...Có lẽ vì cô là con út trong bốn anh em, và cũng kém xa tuổi so với các anh chị,`
+char_non: ` nên cô đã lớn lên mà không mang lòng đố kỵ như các anh chị của mình.`
+char_non: `Sự quan tâm của cô khiến Natsuhi cảm thấy dịu lại một chút,`
+char_non: ` nhưng không đủ để cô xóa tan nét lo âu hằn trên gương mặt của mình, vốn đã bị bao năm căng thẳng hóa thành như vô cảm...`
+char_eva: `"Phải rồi, chị lúc nào cũng nói bị đau đầu mà.`
+char_eva: ` Thôi cố gắng lên.`
+char_eva: ` Jessica cũng sắp thi rồi đúng không?`
+char_eva: ` Đây chẳng phải là bước ngoặt lớn sao?`
+char_eva: ` Làm sao nó trông cậy vào mẹ mình nếu chị cứ thế này chứ?`
+char_eva: ` Hơn nữa, chị Natsuhi à, chị ít hơn tôi tận ba tuổi đó.`
+char_eva: ` Không thể cố gắng hơn được sao?"`
+char_nat: `"............`
+char_nat: ` .........Chị xin lỗi.`
+char_nat: ` Từ lúc sinh ra chị đã bị vậy rồi."`
+char_non: `Eva đôi khi không biết lựa lời, và dù vẫn cười, lời cô ấy dành cho Natsuhi chứa đầy ác ý rõ rệt.`
+char_non: `Tất nhiên, điều đó không thoát khỏi tai mắt của Natsuhi.`
+char_non: `Cô phải cố gắng lắm mới kìm được việc nhăn mặt, và giả vờ như không để ý đến Eva.`
+char_kir: `"Battler nhà mình cũng sắp thi rồi đúng không?`
+char_kir: ` Rudolf à, anh cũng nên lo lắng một chút chứ?`
+char_kir: ` Vì con trai mình, lo đến mức đau đầu như chị Natsuhi cũng được đấy."`
+char_rud: `"Anh mà nói gì thì nó tự động làm ngược lại ngay.`
+char_rud: ` Thế thì nên bảo nó làm cái gì? Có khi là bảo nó cứ chơi bời thoải mái lại hay nhỉ?`
+char_rud: ` Có lẽ đó là thứ duy nhất nó chịu nghe thôi."`
+char_rud: `"Còn gia đình anh Hideyoshi thì sao, hồi George còn đi học thì đều thi cử tốt chứ?`
+char_rud: ` Làm ơn chỉ em bí quyết dạy con với."`
+char_hid: `"Hmm, thì...`
+char_hid: ` Có lẽ vì anh đã giải thích cho nó hiểu được tại sao phải học!`
+char_hid: ` Việc học không có giá trị gì nếu chỉ là học cho có."`
+char_hid: `"Đúng rồi, mục đích thật sự của việc học là để rèn luyện khả năng tự nghiên cứu những điều mình chưa biết!`
+char_hid: ` Nếu không làm được điều đó, thì chẳng giúp được gì cho xã hội cả!`
+char_hid: ` Anh không nói đến toán hay văn gì đâu.`
+char_hid: ` Quan trọng là phải "học được cách học"!"`
+char_nat: `"...Tuyệt vời quá.`
+char_nat: ` Giá mà Jessica nhà chị cũng hiểu điều đó thì tốt biết mấy.`
+char_nat: ` Chị nói thế không phải để chỉ trích con bé đâu, nhưng với tư cách là người thừa kế của gia tộc Ushiromiya thì–"`
+char_eva: `"Chị thật sự cần phải ép buộc nó trở thành người thừa kế sao?`
+char_eva: ` Phụ nữ phải tự tìm thấy hạnh phúc cho riêng mình chứ.`
+char_eva: ` Cha mẹ không nên quyết định điều đó thay cho con cái, đúng không?"`
+char_hid: `"Bình tĩnh nào, Eva.`
+char_hid: ` Mỗi gia đình đều có cách dạy con riêng mà.`
+char_hid: ` Em đừng áp đặt quá."`
+char_eva: `"Xin lỗi nhé.`
+char_eva: ` Chị Natsuhi à, đừng hiểu lầm lời tôi nhé."`
+char_nat: `"..........................."`
+char_non: `Dù ánh sáng ngoài cửa sổ khá ấm áp trong khi trời đầy mây, không khí trong phòng lại mang một màu sắc u ám,`
+char_non: ` ...có lẽ điều đó khiến không chỉ mình Natsuhi cảm thấy nhức đầu.`
+char_non: `Như để xua đi bầu không khí ấy, Kyrie vui vẻ đưa ra một đề nghị với mọi người.`
+char_kir: `"Dù sao thì, trà đen này có mùi thơm tuyệt quá.`
+char_kir: ` Mời mọi người cùng uống ngay thôi.`
+char_kir: ` Chị nghe nói ở Nhật thì trà đen hiệu Leopold chỉ có thể mua ở Ginza, đúng không?"`
+char_ros: `"Chị biết nhiều quá, chị Kyrie à.`
+char_ros: ` Thứ trà này rất đáng mua đó."`
+char_non: `Kyrie và Rosa đứng dậy, như thể đang chuẩn bị rót trà.`
+char_non: `{n}Natsuhi đã ngăn họ lại.`
+char_nat: `"......Cảm ơn cả hai em.`
+char_nat: ` Lát nữa chúng ta hãy uống sau cũng được.`
+char_nat: ` Chuẩn bị có người mang trà tới đây rồi, vậy nên cứ ngồi yên mà thư giãn nhé."`
+char_rud: `"Hai em cứ để đó đi.`
+char_rud: ` Để gia chủ được đãi chúng ta một ly trà mời khách đã chứ."`
+char_non: `Rudolf kín đáo ra hiệu bằng ánh mắt để họ ngồi xuống lại.`
+char_non: `{n}...Kyrie và Rosa hiểu ý ngay và lặng lẽ trở về chỗ ngồi.`
+char_non: `Khách thì cũng đã chào rồi, vậy thì bây giờ là lúc trà nên được mang ra.`
+char_non: `...Nhưng đợi mãi mà gia nhân vẫn chưa thấy đâu cả, và để khách tự bàn về việc rót trà thì thật mất mặt cho chủ nhà.`
+char_non: `Natsuhi cắn môi dưới, giận dữ vì sự chậm trễ của đám người hầu.`
+char_non: `...Thấy biểu cảm đó, Eva không ngần ngại bật cười khúc khích.`
+char_non: `......Dĩ nhiên, Shannon hoàn toàn không biết chuyện gì đang xảy ra trong phòng khách.`
+char_non: `Khi cô đẩy xe trà chất đầy những chiếc tách vào phòng,`
+char_non: ` Natsuhi nhìn cô với một ánh mắt đau đớn mà không rõ lý do, khiến Shannon giật mình mà không hiểu mình làm gì sai.`
+char_sha: `"......X‐xin thứ lỗi.`
+char_sha: ` Tôi sẽ chuẩn bị trà ngay."`
+char_hid: `"Ô kìa, cô Shannon, đã lâu không gặp rồi!`
+char_hid: ` Mỗi lần gặp lại là tôi lại thấy cô xinh hơn hẳn đấy!"`
+char_sha: `".........Ô,`
+char_sha: ` ...ừm,`
+char_sha: ` .........dạ cảm ơn–"`
+char_nat: `"Chuyện trò thì để sau khi bày bàn xong đi.`
+char_nat: ` Trà sẽ nguội mất."`
+char_sha: `"......Con, ...con xin lỗi, thưa bà."`
+char_non: `Shannon xin lỗi như một con thú nhỏ sợ hãi, va vào xe trà làm rơi lẻng xẻng mấy cái thìa.`
+char_non: `Sự vụng về đó khiến nét mặt Natsuhi càng thêm nghiêm khắc, khiến cô lại càng sợ hãi hơn.`
+char_eva: `"Không sao đâu à, chị Natsuhi.`
+char_eva: ` Một câu chào hỏi thì có gì to tát chứ?`
+char_eva: ` Đằng nào tụi tôi cũng ngồi chờ quá lâu rồi, trà chắc cũng nguội hết rồi.`
+char_eva: ` Heheheh."`
+char_sha: `"Dạ, ...dạ không sao ạ...`
+char_sha: ` Trà vẫn chưa nguội, nên–"`
+char_nat: `".........Shannon, dọn cho xong cái bàn đi, nhanh lên."`
+char_sha: `"Dạ, con xin lỗi, thưa bà......"`
+char_non: `Rõ ràng là Natsuhi đang bực bội.`
+char_non: `...Từ sự chậm trễ trong việc mang trà ra, rồi sự vụng về của người hầu – tất cả đều phản ánh sự yếu kém trong việc quản lý của Natsuhi, khiến bà cảm thấy bị mất mặt.`
+char_non: `Với tư cách là người phụ trách nhà chính của gia tộc Ushiromiya, việc để xảy ra sơ suất như vậy vào đúng ngày hôm nay thật sự là một nỗi nhục.`
+char_rud: `"Bình tĩnh nào, chị Natsuhi.`
+char_rud: ` Có phải chị đang hơi quá đáng với cô Shannon, kể cả khi cô ấy đang cố gắng hết sức không?"`
+char_nat: `"Chị đâu có quá đáng đâu...!"`
+char_kir: `"Mùi thơm thật đấy.`
+char_kir: ` Cho tôi hỏi tên thương hiệu của trà này được không?"`
+char_sha: `"............Ưm...`
+char_sha: `......Con, ...con thật sự xin lỗi...`
+char_sha: ` Con sẽ tìm hiểu rồi báo lại sau ạ..."`
+char_non: `Kyrie cố gắng làm dịu không khí, định thân thiện với Shannon.`
+char_non: `...Thế nhưng, Shannon lại thể hiện một bộ mặt luống cuống đáng xấu hổ, khiến nét mặt Natsuhi và không khí trong phòng càng trở nên nặng nề.`
+char_non: `Tới lúc này, tiếng cười khúc khích của Eva đã đủ to để ai cũng nghe thấy.`
+char_eva: `"Cái gì đây hửửử?`
+char_eva: ` Shannon à, cô còn không biết mình đang rót cái gì cho tụi tôi sao?`
+char_eva: ` Này nhé, không được rót cái thứ đáng ngờ như vậy để đãi khách đâu đó.`
+char_eva: ` Đã thế thì phải có thìa bạc để kiểm tra trước nữa chứ."`
+char_sha: `".........Con, ...con xin lỗi......`
+char_sha: ` Con sẽ đi lấy ngay–"`
+char_eva: `"Cô Shannon này?`
+char_eva: ` Cô có biết thìa bạc dùng để làm gì không?`
+char_eva: ` Hoặc tại sao thìa phải làm bằng bạc không?`
+char_eva: ` Cô có biết không?"`
+char_sha: `"...............không...`
+char_sha: `.........ưm......"`
+char_non: `Eva nhìn Shannon đang dọn bàn, nụ cười ranh mãnh hiện trên khuôn mặt.`
+char_non: `...Nếu tách riêng ra, nụ cười đó có thể gọi là duyên dáng, tinh nghịch.`
+char_non: `Nhưng lời nói của cô ả lại sắc bén như dao cạo vậy.`
+char_non: `Shannon cố gắng tránh ánh mắt Eva đang nhìn chằm chằm vào mình.`
+char_non: `Nhận ra Shannon đang lúng túng, Rosa nhanh chóng cứu nguy.`
+char_ros: `"Người ta nói bạc sẽ xỉn màu nếu chạm phải độc đó.`
+char_ros: ` ...*cười khúc khích*, học được điều mới rồi nè, phải không cô Shannon?"`
+char_non: `Thứ trà đãi khách ấy đã bị xem là không thể uống được nếu chưa được thử độc.`
+char_non: `Trong mắt Natsuhi, đó là sự sỉ nhục đối với cả trà...và bản thân bà vì đã chịu trách nhiệm phục vụ nó.`
+char_non: `Rudolf bật cười rồi vỗ vai Eva.`
+char_rud: `"Haha, không cần đồ đạc bằng bạc gì đâu.`
+char_rud: ` Chỉ cần để cái miệng lưỡi rắn độc của chị liếm cho một phát là bạc nào cũng thành ra đen sì luôn rồi."`
+char_hid: `"Wahahahaha!`
+char_hid: ` Ngày nào anh cũng được nghe những lời nói từ cái miệng đó, nên chắc giờ anh cũng kháng độc luôn rồi!`
+char_hid: ` Eva à, em có nói nặng lời với anh thì cũng chẳng sao, nhưng hãy nhẹ tay với những người khác hơn chút!`
+char_hid: ` Wahahahaha!"`
+char_eva: `"Ôi, sao mà ác thế.`
+char_eva: ` Em chỉ cung cấp một chút kiến thức về trà cho cô Shannon thôi mà, đúng không?`
+char_eva: ` *cười khúc khích*."`
+char_non: `Mọi người đều cười theo tiếng cười lớn của Hideyoshi, dù hơi gượng gạo.`
+char_non: `Chỉ còn mỗi Natsuhi là không cười, nhưng ít nhất là, cuộc trò chuyện trong phòng khách lúc này có thể bị hiểu nhầm là thân thiện và vui vẻ.`
+char_non: `Khi Shannon cuối cùng cũng dọn xong bàn trà và chuẩn bị rời đi, Kyrie khẽ xin lỗi vì không thể giúp gì cho cô.`
+char_non: `...Shannon cúi đầu nhẹ rồi vội vã rút lui......`
+char_non: `Cô cúi mặt, đẩy xe trà dọc hành lang...`
+char_non: `Bầu không khí u sầu xung quanh cô cho thấy rõ ràng cô vừa bị bắt nạt.`
+char_kan: `"......Đừng buồn.`
+char_kan: ` Chị không làm gì sai cả, chị à."`
+char_sha: `"...............Em đã chứng kiến rồi à."`
+char_kan: `"Đó là bổn phận của em."`
+char_sha: `"........................"`
+char_kan: `"Phu nhân và bà Eva đều thật đáng bị đày xuống địa ngục.`
+char_kan: ` ......Nhưng tệ hơn nữa là cái gã hèn nhát đó."`
+char_non: `Kanon đưa ánh nhìn đầy căm ghét về phía đối diện với phòng khách.`
+char_non: `Trà bị chậm trễ là vì một vài sự cố trong bếp.`
+char_non: `Và sự cố ấy không phải lỗi của Shannon.`
+char_non: `{n}Thực tế là, mọi thứ đều do Gohda mà ra.`
+char_non: `Ngay từ đầu, một kẻ thích phô trương như Gohda thì sẽ không đời nào chịu giao lại một công việc hào nhoáng như mang trà ra đãi khách.`
+char_non: `Tuy nhiên, do hắn phải pha trà lại từ đầu, cho nên việc mang ra mới bị chậm trễ.`
+char_non: `Nhận ra nếu mình là người mang trà ra thì cũng chẳng được lợi lộc gì, hắn đã đẩy việc đó cho Shannon, lúc bấy giờ chỉ đang đi ngang qua bếp.`
+char_non: `......Có thể gọi đó là khôn ngoan, và cũng không lạ gì nếu gọi đó là hèn nhát.`
+char_sha: `"......Không sao đâu, Kanon à, cảm ơn em.`
+char_sha: ` ...Chị thật sự không giận đâu..."`
+char_kan: `"................................."`
+char_non: `Sự im lặng của Kanon cho thấy rõ ràng rằng những lời của Shannon không xuất phát từ trái tim cô.`
+char_sha: `"............Cảm ơn em.`
+char_sha: ` Chỉ cần em hiểu cho thì cũng đã giúp chị thấy dễ chịu hơn một chút rồi."`
+char_kan: `"......Chị giấu mọi thứ trong lòng nhiều quá.`
+char_kan: ` ......Hãy nhẹ nhàng với bản thân hơn đi."`
+char_sha: `"Ừ.`
+char_sha: ` ......Cảm ơn em."`
+char_non: `Bỗng cả hai cảm nhận được có người xuất hiện ở phía sau. Họ quay đầu lại.`
+char_non: `Một người đàn ông lớn tuổi đang đứng đó.`
+char_non: `{n}Đó là Genji, người quản gia.`
+char_gen: `"..................Các cô cậu đang làm gì ở đây thế?`
+char_gen: ` ...Shannon, mau quay lại bếp đi."`
+char_sha: `"V-vâng.`
+char_sha: ` ......Xin phép đi trước ạ......"`
+char_kan: `"................................."`
+char_non: `Shannon cúi đầu kính cẩn và đẩy xe rời đi.`
+char_non: `Tuy nhiên, Kanon lặng lẽ nhìn Genji, ánh mắt mang theo điều gì đó không thể nói ra bằng lời.`
+char_gen: `"...............Có chuyện gì sao?`
+char_gen: ` Có chuyện vừa gì xảy ra à...?"`
+char_kan: `"...Sha‐`
+char_kan: `......Shannon không làm gì sai,`
+char_kan: ` nhưng mấy người đó–"`
+char_sha: `"Dừng lại đi mà Kanon..."`
+char_sha: `"......Xin phép ạ.`
+char_sha: ` Tôi sẽ quay lại làm việc ngay.`
+char_sha: ` Kanon à, em cũng quay về làm việc đi.`
+char_sha: ` ......Nhé."`
+char_kan: `"............Nếu chị đã nói vậy..."`
+char_gen: `"..................`
+char_gen: ` ...Nếu không có gì nữa, thì đi đi."`
+char_kan: `"......Vâng.`
+char_kan: ` ......Xin phép."`
+char_non: `Từ trong bóng tối phía hành lang, một bà lão mặc tạp dề dõi theo bọn họ. Đó là bà Kumasawa...`
+char_kum: `......Thật đau lòng cho cô Shannon và cậu Kanon...`
+char_kum: `{n}`
+char_kum: `Không có lý do gì để hai người họ bị đối xử như vậy cả.`
+char_kum: `{n}`
+char_kum: ` ...Nhưng, thật không thể phủ nhận rằng họ đã bị anh Gohda ghét bỏ rồi...`
+char_kum: `Trước khi vào làm cho nhà chính Ushiromiya, mình nghe nói anh ta từng làm ở một khách sạn nổi tiếng nào đó.`
+char_kum: `Mình thầm nghĩ, tác phong làm việc ở đó thật đáng nể.`
+char_kum: `Chỉ có điều...anh Gohda là người hầu mới nhất ở đây.`
+char_kum: `{n}`
+char_kum: `...Chắc hẳn anh ấy có một thứ lòng kiêu hãnh được tích lũy từ công việc trước.`
+char_kum: `Vì tuy cô Shannon và cậu Kanon là "tiền bối" của anh ta trong dinh thự này, nhưng họ lại non nớt về kinh nghiệm và vốn sống, cho nên anh ta cứ bắt nạt họ bất cứ lúc nào có thể...`
+char_kum: `Và, ...dù thật đáng buồn, họ cũng bị phu nhân Natsuhi ghét bỏ nữa...`
+char_kum: `Dĩ nhiên, xét về kinh nghiệm, phu nhân đã là người nhà từ lâu.`
+char_kum: `Tuy nhiên.........tôi cũng phải đồng cảm với phu nhân trong chuyện này.`
+char_kum: `...Ngài chủ nhân thật là một người tàn nhẫn...`
+char_kum: `Tại sao ông ấy lại không nhận ra rằng một phút tùy hứng của mình đã gieo vào lòng phu nhân thứ mặc cảm như vậy...`
+char_kum: `......Tận đáy lòng, ngay cả phu nhân cũng biết mình không nên đối xử quá đáng với hai người họ...`
+char_kum: `...Nhưng con tim có lý lẽ riêng mà lý trí không hiểu được...`
+char_kum: `Chà, thật đau lòng quá...`
+char_kum: `Mình cũng chẳng thể làm gì ngoài dõi theo bọn họ trong bóng tối......`

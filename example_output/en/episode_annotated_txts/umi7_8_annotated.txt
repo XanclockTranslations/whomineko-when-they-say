@@ -1,0 +1,467 @@
+char_rio: `"So, did you figure out...`
+char_rio: `...who killed Beatrice?"`
+char_wil: `"Yeah.`
+char_wil: ` More or less."`
+char_rio: `"I hope you're not going to suggest...`
+char_rio: `...that the head killed her..."`
+char_wil: `"{f:5:Bernkastel} isn't asking about the two Beatrices involved with Kinzo.`
+char_wil: ` She's talking about who killed the 1986 {f:5:Beatrice}."`
+char_rio: `"......I'm not really sure what you mean by "this year's {f:5:Beatrice}".`
+char_rio: ` What's all this about a witch called {f:5:Beatrice}?`
+char_rio: ` You've mentioned a ghost story, you've mentioned an epitaph...`
+char_rio: ` Isn't it about time you explained all this to me?"`
+char_wil: `"Alright.`
+char_wil: ` No point stringing you along."`
+char_rio: `"Let's start from the beginning.`
+char_rio: ` ......Who is this witch {f:5:Beatrice}?"`
+char_wil: `"Strictly speaking, it isn't a person.`
+char_wil: ` "{f:5:Beatrice}, the Golden Witch" is the name of a concept."`
+char_rio: `"You mean the ghost stories themselves?"`
+char_wil: `"To be more specific, even the ghost stories are only one of the elements that create the concept."`
+char_rio: `"You've lost me."`
+char_wil: `"Ghost stories are normally told in the third person or second person.`
+char_wil: ` However, someone started telling those in the first person."`
+char_rio: `"You mean someone started saying that they were {f:5:Beatrice} themselves...?"`
+char_wil: `"The legend of Rokkenjima's evil spirits, and the made‐up story for keeping kids out of the forest...`
+char_wil: ` These were combined with Kinzo's constant cries of "Beatrice, Beatrice" and gradually became the legend of the witch.`
+char_wil: ` Ushiromiya Maria became entranced by that fictional witch and begged for a chance to meet her.`
+char_wil: ` And then, someone...`
+char_wil: `{i:granted her wish}."`
+char_rio: `".........I'm still not following, but I'll just nod and tell you to keep going.`
+char_rio: ` ......What do you mean by "granted her wish"?"`
+char_wil: `"Because of the unfortunate way in which Ushiromiya Maria was brought up, she became obsessed with the occult.`
+char_wil: ` ......Someone felt sympathy for her, acted the part of {f:5:Beatrice}, and played with her."`
+char_non: `Maria tends to recognize people by their behavior instead of their physical appearance.`
+char_non: `When Rosa becomes violent, Maria calls her "the black witch", and at these times, Maria views her as a different person, not her mother.`
+char_non: `So,`
+char_non: ` this means that she tends to think of the same person as different people depending on their behavior.`
+char_non: `We can use this to see the scene where Maria first met {f:5:Beatrice} in a new light.`
+char_non: `After being chased out of the mansion by the adults, Maria decided to drink some tea in the rose garden.`
+char_non: `At that time, someone probably started talking to Maria.`
+char_non: `Then, ......when they heard this occult‐loving girl talking happily about how she wanted to meet the witch {f:5:Beatrice},`
+char_non: ` .........this person acted as though {f:5:Beatrice} was possessing them.`
+char_non: `On the outside, they didn't look like {f:5:Beatrice}.`
+char_non: `However, when their manner of speech and behavior changed abruptly, Maria would recognize them as a different person.`
+char_non: `That's why "her" appearance was so sudden.`
+char_wil: `"We can probably view Maria's love of witches and the occult as a form of escapism.`
+char_wil: ` ......She believed the power of witches could change her unfulfilling and incomplete life.`
+char_wil: ` So, she {i:wanted} to believe in them.`
+char_wil: ` Because if she believed in witches, she could also believe in her own happiness."`
+char_rio: `"......It's true that Aunt Rosa is bringing up Maria by herself, and that she's always busy with work.`
+char_rio: ` I do feel sorry for Maria, but still..."`
+char_wil: `"Don't ignore the heart.`
+char_wil: ` ......So, Maria believed {i:for the sake of believing}.`
+char_wil: ` She believed in {f:5:Beatrice}'s simple conjuring trick from the bottom of her heart.`
+char_wil: ` That probably comforted her a lot.`
+char_wil: ` ......And at that moment, the witch {f:5:Beatrice} was born."`
+char_rio: `"Someone saw that Maria‐chan wanted to meet a witch, so they decided to play witches with her...?"`
+char_wil: `"That's right."`
+char_non: `This marks the birth of Beato the Elder.`
+char_non: `All of that about living a thousand years and being bound to Rokkenjima.`
+char_non: `That was all the result of mixing the legend of Rokkenjima's evil spirits with the story of a ghost wandering the mansion at night.`
+char_non: `As Furudo Erika guessed, the two ghost stories fused.`
+char_non: `Someone fused the two stories together and acted the part.`
+char_non: `So, {f:5:Beatrice} held traits from both ghost stories: she was the master of the mansion's night, while also fearing spiderwebs.`
+char_rio: `"So, when {f:5:Bernkastel} asks us who killed {f:5:Beatrice},`
+char_rio: ` she means who killed the kind person who pretended to be {f:5:Beatrice}?"`
+char_wil: `"That's close, but not quite.`
+char_wil: ` It's not the one who pretended.`
+char_wil: ` We're talking about two different people.`
+char_wil: ` ......In Maria's eyes, just like how her mother and the black witch are different people,`
+char_wil: ` {f:5:Beatrice} and the person who played that part are also different people."`
+char_non: `It's just like Mariage Sorcière.`
+char_non: `That was where one person would be the creator, and the other person would acknowledge those creations, thereby nurturing the illusion.`
+char_non: `The Golden Witch {f:5:Beatrice} was also created by one person, and then nurtured when Maria acknowledged her.`
+char_rio: `"You mean, even if you kill the acted character, that doesn't mean you've killed the kind person who was playing the part?"`
+char_wil: `"Even if {f:5:Beatrice}'s vessel is lost, that isn't the same as {f:5:Beatrice} being killed."`
+char_wil: `"......It's easier to understand if we use a telephone as an example.`
+char_wil: ` Let's say I call you on the phone.`
+char_wil: ` From my perspective during the call, the phone is you, in the sense that it is what I talk to."`
+char_wil: `"But what if I destroy the phone?"`
+char_rio: `"......I see.`
+char_rio: ` If you kill the phone, you won't be able to talk to me, but that doesn't mean you've killed me."`
+char_wil: `"We know Maria once offered to let {f:5:Beatrice} possess her, early on in their relationship.`
+char_wil: ` That clearly shows that {f:5:Beatrice} did not look like the portrait at that time."`
+char_rio: `"So, if the person acting the part and the witch character they play are different people, ......we're talking about killing just the witch character itself.`
+char_rio: ` ......Is that even possible?"`
+char_wil: `"Only the actor can kill the character.`
+char_wil: ` In other words, the person who killed {f:5:Beatrice} is the person who played the part of {f:5:Beatrice}."`
+char_rio: `"You mean that the person who played witches with Maria‐chan is the culprit {f:5:Bernkastel}'s talking about?"`
+char_wil: `"That's it.`
+char_wil: ` .........But, as if this wasn't confusing enough, this chapel is now a world inside a cat box.`
+char_wil: ` The culprit is the cat, and there are now two cats existing at the same time—one alive, and one dead."`
+char_rio: `"......Confusing is right.`
+char_rio: ` I'm still lost, but keep going.`
+char_rio: ` You're saying that there are two culprits?"`
+char_wil: `"Right.`
+char_wil: ` ......The person who can create and kill {f:5:Beatrice}...`
+char_wil: `...and the person who never gave birth to {f:5:Beatrice} in the first place, who can kill the entire concept of {f:5:Beatrice}.`
+char_wil: ` Both of those people are here."`
+char_rio: `"Then let me ask.`
+char_rio: ` In this {f:5:Beatrice} murder case,`
+char_rio: ` who are the two culprits?"`
+char_wil: `"Let's start with...`
+char_wil: `...the dead cat."`
+char_rio: `"Who is it?"`
+char_wil: `"You."`
+char_rio: `"Wha`
+char_rio: `......`
+char_rio: `......?"`
+char_wil: `"The logic is extremely simple.`
+char_wil: ` Your world is the only one where the witch {f:5:Beatrice} doesn't exist."`
+char_rio: `"I don't understand."`
+char_wil: `"Both Maria and Jessica told me stories about the witch {f:5:Beatrice}.`
+char_wil: ` However, when they talked about the ranking system at the dining table, you weren't there."`
+char_rio: `"I...wasn't there...?"`
+char_wil: `"Maria came to visit Rokkenjima with Rosa.`
+char_wil: ` And Rosa was sitting next to her.`
+char_wil: ` That's impossible.`
+char_wil: ` .........If you exist, then after Rosa comes you, then Jessica, then Maria."`
+char_non: `There should be two people between Rosa and Maria in rank.`
+char_non: `In that case, they should be across the table from each other and separated by one seat.`
+char_non: `......In other words, in the world where Lion exists, it's impossible for Maria to be sitting next to Rosa.`
+char_wil: `"It was the same in Jessica's story.`
+char_wil: ` If you're included in the ranking, then when looking down the table towards Kinzo's seat, you should be on the left side and Jessica should be on the right.`
+char_wil: ` After that comes George on the left side and Ange on the right.`
+char_wil: ` ......Jessica and Ange will be sitting next to each other whether you're there or not.`
+char_wil: ` However, which side of the table they're sitting on changes."`
+char_non: `In the world where Lion exists, Ange's seat is on Jessica's left.`
+char_non: `{n}However, if Lion doesn't exist, then Ange's seat is on Jessica's right.`
+char_wil: `"Every time someone talked about the witch {f:5:Beatrice} of 1986, they were all talking about a world where you don't exist.`
+char_wil: ` And, in your world, there are no ghost stories about a witch.`
+char_wil: ` To you, "Beatrice" is either Kinzo's mistress or his benefactor, not a wandering ghost."`
+char_rio: `"The head loved Beatrice deeply, did he not?`
+char_rio: ` I can't imagine why she would be made into a ghost story."`
+char_wil: `"Exactly.`
+char_wil: ` If you exist, the witch {f:5:Beatrice} doesn't.`
+char_wil: ` Your existence...`
+char_wil: `...{i:kills {f:7:Beatrice}}."`
+char_rio: `"Are you saying I'm the culprit who killed {f:5:Beatrice}......?`
+char_rio: ` That's......just crazy.`
+char_rio: ` How can I be the culprit if I don't even understand her and have never met her?"`
+char_wil: `"Flip it around.`
+char_wil: ` ......If you don't exist, {f:5:Beatrice} will be born."`
+char_rio: `"Flip it?`
+char_rio: ` Are you trying to say {f:5:Beatrice} and I are two sides of a coin?"`
+char_wil: `"That's a good way to put it.`
+char_wil: ` That's it exactly.`
+char_wil: ` You're a coin, and {f:5:Beatrice} is on the other side."`
+char_rio: `"I don't get it at all."`
+char_wil: `"At first, I didn't get your existence either.`
+char_wil: ` ......But, I have formed a theory about you, after hearing all this.`
+char_wil: ` The important fact is that you're 19 years old."`
+char_rio: `"......I don't remember telling you my age, but you got it right.`
+char_rio: ` ......How?"`
+char_wil: `"Jessica said you were already the student council vice‐president when she started, and that you became the president the next year.`
+char_wil: ` That means you're one year older than Jessica."`
+char_non: `Jessica is 18 years old, .........so Lion must be 19.`
+char_rio: `"I see...`
+char_rio: ` And what sort of theory can you make, now that you know I'm 19?"`
+char_wil: `"You aren't Ushiromiya Natsuhi's child, that's the theory."`
+char_rio: `"...........................`
+char_rio: ` ......How rude.`
+char_rio: ` I don't know what game you're playing, but I demand that you take back that slanderous insult to both me and my mother."`
+char_wil: `"Why are you the successor to the headship, instead of Krauss?"`
+char_rio: `"I will succeed the headship when I come of age.`
+char_rio: ` When I have a kid, I'll probably pass the title down to them when they come of age."`
+char_wil: `"Then why didn't Kinzo give the headship to Krauss when he came of age?"`
+char_rio: `".........You heard what our head said.`
+char_rio: ` He was used by the cunning elders of the Ushiromiya family and suffered much.`
+char_rio: ` That's why he decided that only young people should inherit the headship from now—"`
+char_wil: `"In the world without you in it, the silver ring for the successor to the headship doesn't even exist.`
+char_wil: ` ......That silver ring on your finger proves that Kinzo has a strong desire to see that you become the next head,`
+char_wil: ` a desire which does not manifest in any other world."`
+char_rio: `"......I can't deny that you may have a point there.`
+char_rio: ` The head always seemed to adore me particularly.`
+char_rio: ` I was told from a young age that I would succeed the headship at once when I became an adult, and that it was very important for me to keep up with my studies in preparation for that day."`
+char_rio: `"......But I don't think my father was any less talented.`
+char_rio: ` Why did Grandfather skip over him and make me the successor?`
+char_rio: ` .........I've thought it strange from time to time, but since it's always been that way, I never said so aloud."`
+char_wil: `"Do you know why Kinzo wanted you and not Krauss to become the next head?"`
+char_rio: `"How could I know?`
+char_rio: ` .........Are you trying to tell me to stop ignoring the heart again?`
+char_rio: ` Tell me, what deduction can you make about how the head's heart works?"`
+char_wil: `"It's because you're the child of Kinzo and Beatrice."`
+char_ber: `"......Well done.`
+char_ber: ` ...*giggle*giggle*giggle*giggle*."`
+char_non: `There was a crisp applause and a mocking laugh.`
+char_wil: `"{f:5:Bernkastel}."`
+char_ber: `"......That was faster than I expected.`
+char_ber: ` I thought you'd let me play a bit longer."`
+char_non: `{f:5:Bernkastel} appeared sitting on the altar,`
+char_non: ` ......almost as though it had become her own personal chair.`
+char_ber: `"When did you realize that Lion shared Beatrice's blood?"`
+char_wil: `"As soon as I realized that Lion was 19.`
+char_wil: ` ......It was the same number as "the baby from 19 years ago", that hint which appeared in the fifth game."`
+char_ber: `"......Didn't that baby fall off a cliff?"`
+char_wil: `"Lion is the baby who was accepted by Natsuhi and didn't fall off the cliff.`
+char_wil: ` In other words, if Natsuhi rejects the baby, Lion doesn't exist."`
+char_rio: `"You're saying......I'm not Mom's child...?!`
+char_rio: ` That's insane......`
+char_rio: ` ....................."`
+char_ber: `"You say that, but you don't look too sure.`
+char_ber: ` ......*giggle*.`
+char_ber: ` That's right.`
+char_ber: ` Ushiromiya Lion is not Natsuhi's child.`
+char_ber: ` This is the grown‐up version of the baby Kinzo got from somewhere 19 years ago."`
+char_wil: `"Not "somewhere".`
+char_wil: ` ......Lion clearly shares Beatrice's blood.`
+char_wil: ` The proof is the silver ring, which is only ever given to Lion across all of the many worlds."`
+char_rio: `"Why does the ring prove that I share Beatrice's blood?"`
+char_wil: `"In all of the many worlds, you are the only one who is given it.`
+char_wil: ` That means that, in all worlds, you are the most important person to Kinzo, second only to Beatrice.`
+char_wil: ` And his love for you is far greater than it is for his son, Krauss, or his granddaughter, Jessica.`
+char_wil: ` And you are 19 years old.`
+char_wil: ` ......In other words, if we look back to see what happened 19 years ago, we are led to one theory."`
+char_rio: `"19 years ago?`
+char_rio: ` What's supposed to have happened at the time I was born?"`
+char_ber: `".........You heard it too, didn't you?`
+char_ber: ` Today, even.`
+char_ber: ` Will was with you."`
+char_rio: `"........................`
+char_rio: ` ......You don't mean...Aunt Rosa's story?!"`
+char_wil: `"That's right.`
+char_wil: ` Rosa's story came out in the third game, and when the age of the baby in the fifth game matched that date, a certain theory became possible.`
+char_wil: ` The fact that Kinzo brought a baby from somewhere and tried to add it to his family...`
+char_wil: `proves that the baby was somehow important to him."`
+char_rio: `"I'm...`
+char_rio: `...the Kuwadorian Beatrice's...`
+char_rio: `...child......"`
+char_wil: `"The Kuwadorian Beatrice was the daughter of the Beatrice who came in the submarine.`
+char_wil: ` ......But Kinzo didn't think of her as a daughter.`
+char_wil: ` He believed she was the same person, Beatrice reborn.`
+char_wil: ` ......When that "reincarnation" reached the same age as the first Beatrice, and truly looked like Beatrice's double,`
+char_wil: ` ......Kinzo made a terrible mistake."`
+char_rio: `".........I...I don't want to hear it!"`
+char_ber: `"That's how it is.`
+char_ber: ` Kinzo got Beatrice pregnant with Beatrice,`
+char_ber: ` and then he got that Beatrice pregnant with you.`
+char_ber: ` ......So, you're both Kinzo's child and Beatrice's grandchild."`
+char_rio: `"...........................!"`
+char_wil: `"If we consider Kinzo's heart, this is the inevitable theory we reach for explaining why he treated you so specially.`
+char_wil: ` He regretted his mistake so badly that he attempted to have you formally accepted into the Ushiromiya family as a descendant."`
+char_ber: `"......In almost all cases, Natsuhi's pride is brutally hurt, and she refuses to raise you.`
+char_ber: ` Because of that, you almost always fall from the cliff and disappear."`
+char_rio: `".........I, I was told that after their marriage,`
+char_rio: ` ......I was born after much hardship,`
+char_rio: ` ......and Jessica was born the next year..."`
+char_wil: `"If you really never suspected that Natsuhi wasn't your mother,`
+char_wil: ` ......then you should thank her in this world.`
+char_wil: ` The reason you never realized the truth is because she's shown as much affection for you as she did for Jessica."`
+char_ber: `".........There's no need to thank her.`
+char_ber: ` ......After all, it took a staggering amount of effort just to find a fragment with you in it."`
+char_ber: `"Mathematically speaking,`
+char_ber: ` there's actually a {nobr:2,578,916/2,578,917} chance of her refusing to raise you.`
+char_ber: ` You should probably be thanking me for creating this miracle, not Natsuhi.`
+char_ber: ` ......*giggle*giggle*."`
+char_wil: `"Enough with your stupid probability games."`
+char_ber: `"Oh, I'm sorry."`
+char_rio: `"...................................."`
+char_wil: `"No matter whose blood you bear, that doesn't change the debt you owe to the family that raised you."`
+char_rio: `"I realize that.`
+char_rio: ` ......Still, I would like some time to calm down and think things through.`
+char_rio: ` ...That is, if you'll do me the kindness of not ignoring my heart."`
+char_wil: `".........Sure."`
+char_non: `Lion took a deep breath and looked upwards.`
+char_non: `......Anyone would be shocked...`
+char_non: `to find that their parents weren't who they believed them to be.`
+char_non: `But all the same, Lion, ...you're allowed to feel grateful.`
+char_non: ` Grateful to the family who raised you and met your every need...`
+char_wil: `"It is pretty interesting.`
+char_wil: ` ......Hard to believe that the Golden Witch {f:5:Beatrice} might've lived such an ordinary life,`
+char_wil: ` even at absurdly low probabilities."`
+char_ber: `"Isn't it?`
+char_ber: ` I think moments like this are hilarious......"`
+char_non: `Will had said it plainly.`
+char_non: `Ushiromiya Lion......is how the Golden Witch {f:5:Beatrice} appears in a different world.`
+char_non: `The baby Natsuhi rejected 19 years previous.`
+char_non: `If she accepts that child, this is the future that results...`
+char_non: `However, if she does not accept it, ......a witch is born.`
+char_non: `The baby whose birth was not celebrated becomes a witch...`
+char_wil: `"Lion is the dead cat.`
+char_wil: ` ......However, Lion's existence has nothing to do with what you're interested in, the Rokkenjima Serial Murders.`
+char_wil: ` ......In other words, Lion is the cat that disappears when you open the cat box."`
+char_ber: `".........*giggle*, exactly.`
+char_ber: ` Lion is just a disappearing cat.`
+char_ber: ` But this was a pretty entertaining diversion, don't you think?"`
+char_wil: `"You're the only one who finds it entertaining.`
+char_wil: ` ......If I wasn't trapped in here, I wouldn't have bothered to reason this out."`
+char_rio: `".....................`
+char_rio: ` ......I think I know why I was chosen to be your partner in this strange detective game.`
+char_rio: ` ......It seems this {f:5:Bernkastel} witch...`
+char_rio: `enjoys toying with people's fates and making a mockery of them."`
+char_ber: `"Wow, incredible.`
+char_ber: ` ......It's rare for someone to understand me the same day they meet me.`
+char_ber: ` ......*giggle*."`
+char_rio: `"Apparently, ......I become something that's called a witch in another world.`
+char_rio: ` And, apparently, I'm the cause of some sort of crime.`
+char_rio: ` Is that my sin to bear?"`
+char_wil: `"Of course it isn't.`
+char_wil: ` You are you.`
+char_wil: ` How things would be if the coin were flipped the other way shouldn't matter a bit."`
+char_rio: `"Thank you.`
+char_rio: ` Even so, to be told that I caused some sort of trouble in a world of a different fate...`
+char_rio: ` I don't think anyone would be pleased to hear that.`
+char_rio: ` ......Please, tell me.`
+char_rio: ` What do I do in that other world?"`
+char_wil: `"............{f:5:Bernkastel}?"`
+char_ber: `"You have the fragments... Why not show them?"`
+char_wil: `"..............."`
+char_non: `Will opened his hand...`
+char_non: `and something that looked like a pale‐blue, glowing shard of crystal appeared there.`
+char_non: `It contained the memories—no, the records—of all the games so far.`
+char_wil: `"......Touch this.`
+char_wil: ` You'll be able to see your fate in other worlds."`
+char_rio: `"...............I'll be happier not touching it,`
+char_rio: ` ...is what your face is telling me."`
+char_wil: `"Of course.`
+char_wil: ` ......I'm sure you guessed this, ...but it isn't pretty."`
+char_rio: `"Even so......`
+char_rio: ` ......Even if it is another world, ......it's still about me."`
+char_wil: `"......You have both the right to know and the right not to know.`
+char_wil: ` If you can convince yourself that what you're seeing is a person similar to yet different from you—that it is not you but someone else—then go ahead and touch it."`
+char_ber: `"You want to know, don't you...?`
+char_ber: ` About the path that fate could have chosen for you..."`
+char_rio: `"............I ask this as your partner.`
+char_rio: ` Would you show that to me?"`
+char_wil: `"As your partner, I'd say "look".`
+char_wil: ` ......But as a friend, I'd say "don't"."`
+char_rio: `"Unfortunately,`
+char_rio: ` I'm not your friend."`
+char_wil: `"Then, as a partner, I have one last question."`
+char_rio: `"What?"`
+char_wil: `"Are you............`
+char_wil: `.........a man or a woman?"`
+char_rio: `"..................Well, that came out of nowhere."`
+char_wil: `"I could see you as a fairly slender boy.`
+char_wil: ` But then again, I could also see you as a no‐nonsense sort of girl.`
+char_wil: ` ......Even {f:5:Bernkastel} has been intentionally keeping it a secret.`
+char_wil: ` She made Jessica call you "the future heir" all the time, instead of "big brother" or "big sister"."`
+char_ber: `"......*giggle*.`
+char_ber: ` You are quick."`
+char_rio: `"People often ask me about my gender.`
+char_rio: ` It's become quite frustrating, so I always give the same response.`
+char_rio: ` ......‘Which do you think I look like?’"`
+char_wil: `".........In the fifth game, you're treated as a man.`
+char_wil: ` But in countless other games, you're thought of as a woman."`
+char_wil: `"......In the sixth game, when Ushiromiya Battler was the Master, two demons of different sexes appeared, but we didn't know which was which, referencing this again.`
+char_wil: ` ......In fact, strictly speaking, it started all the way back in the very first game.`
+char_wil: ` .........Your gender is one of the hidden mysteries that exists outside the games themselves."`
+char_rio: `"Having to say it straight out frustrates me, so I won't give you an answer.`
+char_rio: ` We're partners, right?`
+char_rio: ` Does it really matter if I'm not the gender you'd prefer?"`
+char_wil: `"........................`
+char_wil: ` ......You're right.`
+char_wil: ` If we're working together on this, I don't care what your gender is."`
+char_rio: `"Thank you.`
+char_rio: ` ......I've formed a bit of a complex about it, so your words are very gratifying."`
+char_wil: `"I'm all for gender equality.`
+char_wil: ` .........If someone's a waste of space, I'll smack 'em no matter who they are."`
+char_rio: `"And of course, I'll pinch rude people no matter which gender they are."`
+char_non: `Slowly, ......Lion reached out and touched the fragment.`
+char_non: `A moment later, Lion seemed to undergo a violent bout of dizziness...and silently slumped over like a puppet with its strings cut.`
+char_non: `It was no surprise.`
+char_non: ` When people who don't understand parallel universes have many different fates jammed into their heads,`
+char_non: ` they tend to feel like their heads are swelling and their sense of self is melting away.`
+char_non: `......Lion seemed to have lost consciousness.`
+char_wil: `"So, ......Lion had what it took to learn everything."`
+char_ber: `"A perfect piece to be your partner, wouldn't you say?"`
+char_wil: `"I'll continue my reasoning.`
+char_wil: ` ......I've talked about the dead cat."`
+char_ber: `"Very true.`
+char_ber: ` Next up is the living cat."`
+char_wil: `"The only one who can kill the {f:5:Beatrice} of 1986 is the one who created her."`
+char_ber: `"There were tons of hints.`
+char_ber: ` If you think about it, they've been coming since back when {f:5:Beatrice} was running the games."`
+char_wil: `"That's true.`
+char_wil: ` ......In the fourth game between {f:5:Beatrice} and Battler, {f:5:Beatrice}'s origin became clear.`
+char_wil: ` And, at that point, I learned who {f:5:Beatrice} was, and I understood that person's heart."`
+char_ber: `"What do you mean by heart?"`
+char_wil: `"......The reason for committing the crime.`
+char_wil: ` ......The reason that {f:5:Beatrice} had to gamble her own fate in the commission of a game‐like crime on October 5th, 1986—`
+char_wil: `the motive."`
+char_ber: `"Impressive.`
+char_ber: ` So, you'd figured out the whodunit and the whydunit by the end of the fourth game.`
+char_ber: ` ......Then what about the howdunit?"`
+char_wil: `"Once you know who the culprit is, theorizing about the howdunit isn't impossible.`
+char_wil: ` ......Those linked locked rooms in the third game were so skillfully done, I felt like clapping."`
+char_ber: `"And what about the riddle at the end of the fourth game,`
+char_ber: ` "who am I"......?"`
+char_wil: `"The "culprit" who can kill you for certain at the stroke of midnight on October 5th no matter where you are.`
+char_wil: ` It was possible to form a certain kind of hypothesis at the moment the question was asked.`
+char_wil: ` ......You might call that the other treasure of the Golden Land."`
+char_ber: `"......Oh?`
+char_ber: ` So, you say that by the fourth game,`
+char_ber: ` ......in other words, with just {f:5:Beatrice}'s games, you managed to reach all of the answers?"`
+char_wil: `"It's possible.`
+char_wil: ` ......{f:5:Lambdadelta}'s and Battler's games after that were just an extra helping of hints.`
+char_wil: ` ......As is this game of yours."`
+char_ber: `"*giggle*giggle*......`
+char_ber: ` ......In that case, why don't you stop beating around the bush, and just tell me?`
+char_ber: ` .........Who is...`
+char_ber: `the culprit......?"`
+char_non: `At that moment, .........though there hadn't been anyone but them in the chapel, quiet footsteps rang out.`
+char_non: `That silhouetted figure slowly walked up to Will and {f:5:Bernkastel}...and gave a small bow.`
+char_wil: `".........So, you've come."`
+char_ber: `"Did you call this person here?"`
+char_wil: `"Yeah.`
+char_wil: ` ......Whodunit.`
+char_wil: ` Howdunit.`
+char_wil: ` And...whydunit.`
+char_wil: ` ......I understand this person's motive."`
+char_ber: `"......And {i:you}, are you going to give up just because he's found out your motive...?`
+char_ber: ` There's no concrete evidence, right?`
+char_ber: ` You could make a flashy fight of it, with red and blue."`
+char_wil: `"That's not what they want anymore."`
+char_non: `The person nodded slightly.`
+char_non: `Their wish......was for someone to realize.`
+char_non: `Now that this had happened, they had no intention of engaging in trivial excuses or pointless word games...`
+char_wil: `"I believe that I understand your motive,`
+char_wil: ` ......your heart.`
+char_wil: ` ......I am going to talk about it now.`
+char_wil: ` I called you here...`
+char_wil: `to listen...`
+char_wil: `...and correct me if I've gotten anything wrong."`
+char_wil: `"...................................."`
+char_non: `The two of them nodded to each other once more.`
+char_wil: `"I found the message you put into your four games.`
+char_wil: ` ......And through three games with different Masters, I pictured the strange sort of fate that must have toyed with your life.`
+char_wil: ` ......I was left speechless.`
+char_wil: ` ......In every game, you die without revealing that truth to anyone."`
+char_non: `Having you confess in this empty chapel might be pointless.`
+char_non: `However, even so, .........I believe it will bring you some measure of salvation.`
+char_non: `People are only saved when someone understands them.`
+char_non: `It's time someone forgave this pitiable witch, who went years after her death without being understood,`
+char_non: ` ............and whose life ended before the one man she wanted to understand her could do so.`
+char_non: `At the end of the fifth game, Battler finally understood.`
+char_non: `......However,`
+char_non: ` .........it took him so long...`
+char_non: `...that he didn't make it in time.`
+char_non: `So, even though she is alive here and now, Battler cannot save her.`
+char_non: `That's why he's absent from {f:5:Beatrice}'s funeral. He won't come.`
+char_non: ` ......He won't make it in time.`
+char_wil: `"......This is {f:5:Beatrice}'s funeral.`
+char_wil: ` You will confess,`
+char_wil: ` ......the divine Master will hear,`
+char_wil: ` .........and I will forgive you.`
+char_wil: ` .........That's supposed to be Battler's job, but he didn't make it in time.`
+char_wil: ` So, you'll have to settle for me."`
+char_ber: `"......Beato gave out so many hints, too.`
+char_ber: ` Lambda also gave that bonehead Battler a ton of hints.`
+char_ber: ` ......And his response, that game of repentance, that was hilarious as well.`
+char_ber: ` ......But I won't be making anyone laugh.`
+char_ber: ` I'll just indifferently carry out your funeral."`
+char_wil: `"No more talking from you.`
+char_wil: ` That's my job."`
+char_ber: `"............*giggle*."`
+char_wil: `"If you're ready, let's begin.`
+char_wil: ` ......No one will rush you.`
+char_wil: ` .........{f:5:Bernkastel} has closed off time for eternity until your funeral ends.`
+char_wil: ` You have endless time to prepare yourself emotionally..."`
+char_non: `The shadowy figure slowly shook its head.`
+char_non: `It had come here because it was already ready.`
+char_non: `Will nodded to show he understood.`
+char_non: `......Then, the two of them looked into {f:5:Bernkastel}'s eyes,`
+char_non: ` ......and Will spoke out clearly.`
+char_wil: `{a:c:`
+char_wil: `"Here's the culprit."}`

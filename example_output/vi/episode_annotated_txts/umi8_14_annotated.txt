@@ -1,0 +1,714 @@
+char_non: `I saw a figure, apparently the driver, open an umbrella and come towards me...`
+char_non: `".........Is this your garden?"`
+char_non: `The figure questioned me.`
+char_non: `{n}Of course, I couldn't answer it...`
+char_non: `"......If it is, then I must apologize.`
+char_non: ` Yes, on a day with such fine weather, anyone would want to take a nap in such a lovely garden as this.`
+char_non: ` ......And yet, unless my memory fails me..."`
+char_non: `The figure crouched down and looked into my face.`
+char_non: ` .........It was a woman.`
+char_non: `"This is a public highway you're sleeping on.`
+char_non: ` Do you want to become roadkill?`
+char_non: ` ......Or maybe you already are roadkill.`
+char_non: ` Well now, which one is it?"`
+char_non: `I......clenched my chest.`
+char_non: `I felt I needed to answer somehow and establish communication.`
+char_non: `So, after a lot of effort, ......I managed to let a short groan escape my lips.`
+char_non: `"......I see.`
+char_non: ` So you aren't roadkill yet."`
+char_non: `And that.........was how I met Ikuko.`
+char_non: `"......The body is in a very frail condition.`
+char_non: ` Also, it is probable that there will be memory defects.`
+char_non: ` We won't know for sure until the CT scan, but brain damage is also a possibility."`
+char_non: `"It's lucky that damage is all we have to deal with.`
+char_non: ` Spend much longer in a spot like that, and things would likely have been much worse."`
+char_non: `"......True.`
+char_non: ` In any event, I recommend getting this checked at a large hospital."`
+char_non: `"Thank you, Doctor.`
+char_non: ` .........Please keep this off the record.`
+char_non: ` It may not be much, but here's some money for your troubles."`
+char_non: `"I see no reason to speak of this needlessly, but...`
+char_non: ` ......No, no, I couldn't possibly accept that much..."`
+char_non: `In the end, the doctor took the money and swore to keep quiet about the matter.`
+char_non: `Eventually, Hachijo returned.`
+char_non: `"Oh, you've been awake.`
+char_non: ` How do you feel...?"`
+char_non: `I nodded weakly, letting her know that it wasn't so bad for now.`
+char_non: `......But...where is this place?`
+char_non: `{n}A room I have absolutely no memory of, ......in a house I don't remember at all.`
+char_non: `{n}And, first and foremost, here's a woman that I've never seen......`
+char_non: `"To start off, let me introduce myself.`
+char_non: ` I'm Hachijo Ikuko.`
+char_non: ` I don't mind if you address me in a friendly manner as Ikuko, or if you prefer to call me Hachijo‐san and keep things more formal."`
+char_non: `......Hachijo.........Ikuko.`
+char_fe2: `"The Hachijo family owns a lot of land and is well known in these parts.`
+char_fe2: ` ......Unlike my accomplished brothers, I'm what you might call a little eccentric.`
+char_fe2: ` After I got into a bit too much mischief than was good for me, my parents finally ran out of patience and kicked me out.`
+char_fe2: ` I'm now confined to this house."`
+char_fe2: `"......As a hobby, I like to read detective novels...and also to write them.`
+char_fe2: ` My age...is a single woman's secret.`
+char_fe2: ` My heart is that of a girl, but I'm approaching the point where calling myself one would be increasingly absurd.`
+char_fe2: ` Heheheheh."`
+char_non: `With the haze my mind was in, it was extremely hard to make out what she was talking about.`
+char_non: `However, ......I was able to pick up on the fact...that she was trying to talk to me cheerfully.`
+char_fe2: `"......So, what's your name?"`
+char_non: `..................My......name......`
+char_non: `..............................`
+char_non: `Logically, I know that, being a human, I must have a name.`
+char_non: `And, I do have the feeling that I did indeed have a name.`
+char_non: `......However, no matter how hard I tried to remember what it was, it just made my head hurt...`
+char_fe2: `"Is there anything you can remember besides your name...?"`
+char_non: `".........................................."`
+char_non: `Who......am I......?`
+char_non: `My head...`
+char_non: `...no, even my heart was a mess of torn flesh,`
+char_non: ` ......and I couldn't remember a thing, ......not even who or what I was...`
+char_non: `But I must remember.`
+char_non: `I had some kind of purpose......or maybe a mission.`
+char_non: `In order to remember that, .........I first have to remember who I am.`
+char_non: `Who am I......?`
+char_non: ` What is my name......?`
+char_non: ` Where was I born......and what was my birthday......?`
+char_non: `I need to remember something, anything............`
+char_non: `.......................................`
+char_non: `"...............Age......"`
+char_fe2: `"Age?`
+char_fe2: ` *giggle*.`
+char_fe2: ` That's my little secret."`
+char_non: `".........Eighteen..."`
+char_fe2: `"I look like I'm eighteen...?!"`
+char_non: `"......I'm............eighteen............"`
+char_fe2: `"O‐oh, so that was your age...!`
+char_fe2: ` Well now, I thought you were being a bit too flattering.`
+char_fe2: ` Hahahaha."`
+char_non: `When I asked myself how old I was, the number "eighteen" floated into my mind.`
+char_non: `To be honest, I didn't really feel eighteen.`
+char_non: `......My mind felt much younger than that, ......and my pathetic body felt much older.`
+char_fe2: `"I see.`
+char_fe2: ` So you're eighteen.`
+char_fe2: ` And that's all you can remember."`
+char_non: `I nodded weakly.`
+char_non: `I never knew that knowing nothing about yourself could make you feel so powerless.`
+char_fe2: `"In that case, until you remember your name,`
+char_fe2: ` let's give you the name "Tohya", written with the characters for "eighteen".`
+char_fe2: ` ......Hachijo Tohya.`
+char_fe2: ` What do you think?`
+char_fe2: ` Yeah, that sounds pretty cool.`
+char_fe2: ` Yes, I must say I've impressed myself very much with that one."`
+char_non: `Hachijo......Ikuko gave a satisfied laugh.`
+char_non: `From then on, I took the name Hachijo Tohya.`
+char_non: `My inability to move my body was apparently due to a traffic accident.`
+char_non: `On that day, I had been hit by a car, and Ikuko had picked me up from where I lay on the street.`
+char_non: `If she hadn't hit the brakes...`
+char_non: `She probably would've driven straight onwards, thinking she'd run over a dead dog or something.`
+char_non: `......Later on, I—perhaps rudely—suspected that the one who hit me might have been Ikuko herself,`
+char_non: ` but when I saw her completely undamaged front bumper, I gave up on that theory.`
+char_non: `Hachijo Ikuko lived in a small but lovely mansion on the top of a small hill, in a village with a view of the sea.`
+char_non: `She also owned the hill behind her and was more than capable of enjoying the four seasons in privacy.`
+char_non: `As time passed slowly, my rehabilitation continued, and my ability to move improved little by little.`
+char_non: `However, ......it seemed I really had suffered some form of brain damage.`
+char_non: `Finding out who I was.........looked like it would be a very difficult task.`
+char_non: `In the beginning, when I couldn't bear not knowing my identity, my head often hurt so much it felt as though it would explode.`
+char_non: `......However, as I slowly accepted the fact that I was a new person, with the new name of Hachijo Tohya,`
+char_non: ` ......the headaches became less frequent.`
+char_non: `The whole time, ......no memories returned to me except the fact that I had been eighteen.`
+char_non: `However, I was unable to remember any more, unable even to be sure that eighteen was my true age,`
+char_non: ` ......and eventually, I stopped trying to remember my former self.`
+char_fe2: `"Good morning, Tohya.`
+char_fe2: ` That was quite the storm last night. Were you able to sleep well?"`
+char_bu3: `".........I had some trouble falling asleep.`
+char_bu3: ` So, I decided to read your manuscript."`
+char_fe2: `"My, my.`
+char_fe2: ` How far did you manage to get?"`
+char_bu3: `"I finished it."`
+char_fe2: `"......Now there's a surprise.`
+char_fe2: ` You managed to read through all that in a single night?"`
+char_bu3: `"I was surprised too.`
+char_bu3: ` ......Once I got into it, I'd finished before I knew it.`
+char_bu3: ` ......It was like I was just skimming it, ......or maybe like I was reading each page in a glance......"`
+char_fe2: `"It sounds like you have some talent at speed reading.`
+char_fe2: ` ......So, how was it?`
+char_fe2: ` What did you think of it?"`
+char_bu3: `"I liked it a lot.`
+char_bu3: ` Still, if you don't explain that part about the ocean currents a bit more clearly, it might be a little unfair for the reader...`
+char_bu3: ` Oh, but I thought it was great that you had the foreshadowing with the ring right there at the beginning."`
+char_bu3: `".........After I finished, I had to go back to the beginning and slap myself for being so easily tricked.`
+char_bu3: ` I think that feeling's the best part of a detective novel."`
+char_fe2: `"...................................."`
+char_bu3: `"......Um, ......did I say something to offend you?`
+char_bu3: ` ......If I did, I apologize."`
+char_fe2: `"Of course not! Why are you apologizing...?!`
+char_fe2: ` I'm just shocked, that's all.`
+char_fe2: ` The pertinence of your remarks is commendable...`
+char_fe2: ` It seems you must also have some talent as a critic or a detective novel writer."`
+char_non: `...............A detective novel...writer.`
+char_non: ` ......A critic.`
+char_non: `{n}........................`
+char_non: `From across the fog of oblivion...`
+char_non: `...I seem to remember myself fighting and arguing about......mysteries, ......or something like that.`
+char_non: `That way of fighting, which I must have learned in the past.........sent a surge of excitement through me.`
+char_non: `......Mystery.`
+char_non: ` ......Fighting......`
+char_non: ` My head......hurt.........`
+char_non: `I accepted a painkiller and swallowed it with fresh water brought up from the well.`
+char_non: `Who am I......really.........?`
+char_non: `......But no matter how much I thought, I couldn't remember.`
+char_non: `I was told that the frequency of my headaches could be lessened by brain surgery, but also that there was no guarantee that it would do my memory any good.`
+char_non: `Ikuko said that she would let me have surgery if I wanted it.`
+char_non: `However, I refused.`
+char_non: `Even if I can't remember it, ......the real me is still there, sleeping inside my head.`
+char_non: `I was scared......that the surgery might harm that "me" somehow.`
+char_non: `By now, I've gotten used to dealing with headaches.`
+char_non: `......As long as I don't force myself to remember the past, the headaches don't torment me every day.`
+char_non: `So, ......bit by bit, I became free of the headaches...and got used to my new life as Hachijo Tohya......`
+char_non: `Gradually, my interest shifted from myself to Ikuko.`
+char_non: `Hachijo Ikuko.`
+char_non: `A very strange woman.`
+char_non: `First off, she was apparently the daughter of a very well‐off family, just as she had said.`
+char_non: `However, she was considerably eccentric,`
+char_non: ` and the "various mischievous incidents" she spoke of had apparently gotten her within an inch of being disowned.`
+char_non: `As a result, she had been given this house, and had been ordered to live here quietly and alone.`
+char_non: `She had never been a particularly social person, so she happily accepted this new state of affairs,`
+char_non: ` living however she pleased with servants to take care of her.`
+char_non: `She had no friends.`
+char_non: ` No one ever came to visit.`
+char_non: `Besides me, the only one she ever talked to was Bern, an old black cat she kept as a pet.`
+char_non: `I didn't know her real age.`
+char_non: `She didn't seem to be too old to marry yet, but she wasn't likely to meet anyone new leading an isolated life like this.`
+char_non: `Despite her insistence that she just hadn't met anyone worth the trouble, I felt as though she'd already given up on marriage.`
+char_non: `Her everyday life changed very little.`
+char_non: `She would either read through the many detective novels that were brought to her, or else write detective novels herself.`
+char_non: `At first, I thought she was some novelist at a private retreat, plugging away at a new book.`
+char_non: `However, the manuscripts she finished just ended up clipped together in a pile.`
+char_non: `With me as the sole exception, it didn't look like she gave them to anyone else to read.`
+char_non: `A novelist is someone who writes novels for other people to read.`
+char_non: `So, I figured you could hardly call her a novelist when she kept writing novels no one would ever read.`
+char_bu3: `"......Ikuko‐san, why don't you ever show these to anyone?"`
+char_fe2: `"I show them to you.`
+char_fe2: ` Only the better ones, of course."`
+char_bu3: `"Haven't you ever thought of sending one to some publishing company?`
+char_bu3: ` ......It's a shame for things to be this way, when your works are so interesting."`
+char_fe2: `"My works can't stand up against the pros.`
+char_fe2: ` I sent one in once, but it was absolutely no good.`
+char_fe2: ` I understand my position.`
+char_fe2: ` This is just an amateur's pastime."`
+char_bu3: `"I don't think "amateur" is a fitting word for someone who's so well‐versed in detective novels from all times and places across the world."`
+char_fe2: `"Being a big eater doesn't mean you'll make a good cook.`
+char_fe2: ` Reading every detective novel you can get your hands on provides no guarantee of being a good detective novelist.`
+char_fe2: ` That's how it is.`
+char_fe2: ` That's why this is nothing more than a pastime."`
+char_bu3: `"......Is it really fun to write novels that you won't show to anyone?"`
+char_fe2: `"It used to be.`
+char_fe2: ` ......Once."`
+char_bu3: `"What about now?"`
+char_fe2: `"I like getting to hear your opinions.`
+char_fe2: ` .........At any rate, I've finished writing the chapter.`
+char_fe2: ` I'll go make some tea, so would you mind reading it again and sharing your thoughts with me?"`
+char_non: `Saying this with a smile, Ikuko thrust a pile of manuscript paper at me.`
+char_non: `When it comes to detective novels, reading and writing are the same.`
+char_non: `{n}It's boring if you just do it by yourself.`
+char_non: `You only get something really precious when you share the world with someone else.`
+char_non: `........................Headache.`
+char_fe2: `"Tohya?`
+char_fe2: ` ......Are you okay?`
+char_fe2: ` I'll go get some headache medicine."`
+char_bu3: `"I'm fine.`
+char_bu3: ` I'm more interested in this manuscript.`
+char_bu3: ` I can't wait for the new chapter."`
+char_non: `The seasons passed.`
+char_non: `Together with Ikuko, in this town whose name I didn't even know,`
+char_non: ` I spent my days debating detective novels and talking about ideas for new plots.`
+char_non: `At a glance, they may have appeared to be stale and unproductive days.`
+char_non: `However, ......I found satisfaction with my new life as Hachijo Tohya.`
+char_fe2: `"......And so, the curtain closes on the strange tale of Kurokubi Island.`
+char_fe2: ` .........The End."`
+char_non: `With a dramatic flourish of her fountain pen, Ikuko signified that her manuscript was now complete.`
+char_fe2: `"What do you think...?!`
+char_fe2: ` I tried using your plot to make Tsujiko's tragic love scene at the end a bit more moving."`
+char_bu3: `"I think it's very good......`
+char_bu3: ` I think the last farewell is sad enough to make it moving as a story, not just a reasoning puzzle."`
+char_fe2: `"......That's thanks to your plot.`
+char_fe2: ` ......Compared to this work, everything I've written before now is worth little more than scrap paper.`
+char_fe2: ` ......Even as I was writing it, I was excited to be the first person in the world who got to read it.`
+char_fe2: ` ......I've never felt that before."`
+char_bu3: `"I just mentioned some ideas.`
+char_bu3: ` You're the one who turned them into such a fascinating story, Ikuko‐san."`
+char_non: `Before I knew it, she had roped me in as well, and I too had dipped my toe into the world of detective novel writing.`
+char_non: `......Apparently, the old me had possessed some knowledge of mysteries and detective novels and the like.`
+char_non: `And my talent seemed to be of a fairly unorthodox kind.`
+char_non: `I turned famous mysteries from across the world on their head, always looking to twist those ideas into something new.`
+char_non: `However, a few ideas aren't enough to make a book.`
+char_non: `No meal is complete if all you can do is chop up vegetables.`
+char_non: `It was thanks to Ikuko's writing, a skill she had built up over many years, that my ideas were transformed into a work of fiction.`
+char_non: `This first work that we had authored together, "The Strange Tale of Kurokubi Island", had brought out the best of our individual quirks,`
+char_non: ` ......and, though I hate to brag, it had turned into a masterpiece that we could show to anyone without shame.`
+char_fe2: `"Hello?`
+char_fe2: ` Please bring us some champagne.`
+char_fe2: ` ......Bring a glass for yourself as well.`
+char_fe2: ` This is the best work ever created within these walls.`
+char_fe2: ` Let's celebrate."`
+char_non: `Ikuko called for some champagne over the internal phone line.`
+char_non: `Joined by the servant who happened to be working that day and the cat Bern, we raised our glasses high and toasted our accomplishment.`
+char_bu3: `".........Ikuko‐san.`
+char_bu3: ` I have an idea, if you don't mind."`
+char_fe2: `"Let's hear it.`
+char_fe2: ` There is never a wrong time for your ideas, as long as I'm not in the shower or on the can...!"`
+char_bu3: `"Why don't we try submitting our book?`
+char_bu3: ` ......I've never read something this interesting before.`
+char_bu3: ` I'm sure lots of other people will want to read it."`
+char_fe2: `"......You think so?`
+char_fe2: ` I tried once in the past, thinking the same thing, but the result was......"`
+char_bu3: `"I believe in your talent, Ikuko‐san.`
+char_bu3: ` ......What about you?"`
+char_fe2: `"Of course, I believe in your talent."`
+char_bu3: `"Then it's decided.`
+char_bu3: ` ......To Ikuko‐san's big debut."`
+char_fe2: `"To Tohya's big debut!"`
+char_non: `We clinked our glasses once more.`
+char_non: `{n}The evening wore on.........`
+char_non: `We must've had way too much to drink.`
+char_non: `Before I knew it, I must have passed out on the sofa.`
+char_non: `There was a blanket covering me.`
+char_non: ` ......Ikuko‐san must've put it there.`
+char_non: `The lights were out in the study, but it wasn't dark.`
+char_non: `{n}The computer's monitor was glowing.`
+char_non: `Outside, it had started to rain.`
+char_non: `{n}......It reminded me of the day Ikuko‐san found me and took me in.`
+char_non: `Because of that, ......whenever it rains, I find myself wondering who I was, ......and I usually get headaches.`
+char_non: `So, I wasn't sure whether the pain was because of the rain or because I drank too much.`
+char_bu3: `"......Ikuko‐san.`
+char_bu3: ` Turn on the lights.`
+char_bu3: ` ......Using a computer in the dark is bad for your eyes."`
+char_fe2: `"Oh, did I wake you up?"`
+char_bu3: `"No, I slept well.`
+char_bu3: ` Thanks to that, I feel refreshed."`
+char_non: `I turned on the light and looked out through a gap in the curtains.`
+char_non: `{n}......As I'd thought, it was the sort of pouring rain that always reminded me of that day.`
+char_bu3: `"It's raining pretty hard out there.`
+char_bu3: ` The wind looks pretty strong too.`
+char_bu3: ` I hope the rain gutters don't get clogged with leaves again."`
+char_fe2: `"......I just had them cleaned the other day, so they should be fine for a while."`
+char_non: `Her answer sounded a little abstracted.`
+char_non: `{n}Apparently, her attention was absorbed by the computer.`
+char_bu3: `"You've been pretty hooked by that computer lately, Ikuko‐san.`
+char_bu3: ` Did you find an interesting article or something?"`
+char_fe2: `".........It may be a bit juvenile, but it's still pretty interesting.`
+char_fe2: ` ......You know, that Rokkenjima incident."`
+char_bu3: `"......Rokkenjima.........?"`
+char_fe2: `"I told you about the Rokkenjima mystery a few days ago, remember?`
+char_fe2: ` It's been really huge on the net lately.`
+char_fe2: ` The discussions, theories, and especially the Forgeries have been quite entertaining.`
+char_fe2: ` ......The "Forgeries" are stories with the premise that further message bottles signed by Ushiromiya Maria existed and washed up on one of the nearby islands......"`
+char_non: `Only too happy to share her knowledge of the subject, Ikuko continued her explanation at length.`
+char_non: `......However, ......a huge bell was clanging inside my head.`
+char_non: `The noise was so great that I thought my head would split open.`
+char_non: `Unable to tell what was the floor and what was the ceiling, ......I crumpled and clutched at my head...`
+char_fe2: `"Tohya......are you okay...?!"`
+char_bu3: `"......My head.........hurts....................."`
+char_non: `The Rokkenjima Explosion Accident.`
+char_non: `{n}The many disquieting rumors surrounding it.`
+char_non: `The scheming of the relatives after Ushiromiya Kinzo's vast wealth and the hidden gold......`
+char_non: `And the truth?`
+char_non: `Ushiromiya Eva, the sole survivor, said nothing.`
+char_non: `Eventually, the granddaughter, Ushiromiya Ange, who escaped harm because she was absent on that day, would inherit everything......`
+char_non: `Ange, ......Ange... ............Ushiromiya...Ange............`
+char_non: `......I am...Ushiromiya...............`
+char_non: ` Ggghh......`
+char_non: `No good...my head is......splitting......`
+char_non: `An incomprehensible scene pierced my eyelids from the inside like a blade of light.`
+char_non: `Just what......am I looking at......?`
+char_non: `Who......are these people......calling to me.........but not by the name Tohya...?`
+char_non: `......Who............am I.........?`
+char_non: ` Who are these people......?`
+char_non: ` What is............this memory.........?`
+char_non: `Help me, Ikuko.........`
+char_non: ` .........Someone else's memory............is hurting me.........`
+char_non: `My...head's......splitting.....................`
+char_non: `{a:c:......I can hear the sorrowful sound of wind......`
+char_non: `{n}And......that must be rain.`
+char_non: `{n}......Who......am I, again...?`
+char_non: `{n}I am......Ushiromiya......}`
+char_non: `{a:c:`
+char_non: `"Ange! ......Ange...!!"}`
+char_non: `{a:c:`
+char_non: `"Please, please say something...!!"}`
+char_non: `{a:c:Voices...`
+char_non: ` Voices calling to me}.`
+char_non: `{a:c:Dad......and Mom......}`
+char_non: `{a:c:......It can't be them......}`
+char_non: `{a:c:In 1986, ......on Rokkenjima,{n}......Mom and Dad......}`
+char_rud: `"......Ange, hang in there...!`
+char_rud: ` Can you hear Daddy's voice...?!"`
+char_kir: `"Please, say something!! Ange!!"`
+char_non: `......Mom, Dad......`
+char_non: `{n}I'll......say it out loud......`
+char_non: `.........Mom......Dad.........`
+char_rud: `"Ange...!!`
+char_rud: ` Ange, thank goodness......!!"`
+char_non: `I could feel my body being lifted up firmly......and hugged roughly.`
+char_non: `......Mom and Dad......were hugging me......`
+char_non: `My eyelids had been open for a while now.`
+char_non: `{n}I could feel the light slowly returning to my eyes.`
+char_non: `Just like your eyes get used to the dark, ......my eyes got used to the light, ......and bit by bit, the scene around me came into view.`
+char_non: `However, it was an unusual sight, which seemed to be very far away.`
+char_non: `My body......was being hugged by Mom and Dad.`
+char_non: `Dad was sniffling, his face covered with tears.`
+char_non: `There were tears in Mom's eyes too as she hugged me tight.`
+char_non: `It was......so strong that it hurt a bit.`
+char_non: `I was......the bad kid, who wasn't obedient, who always had an excuse, ......and who always tried to do the opposite of what her parents said.`
+char_non: ` .........That was why......they were holding me tight, .........to make sure I didn't head down the wrong path......`
+char_non: `As my eyes adjusted, I could see other people besides my parents.`
+char_non: `Everyone was there.`
+char_non: ` George onii‐chan, Jessica onee‐chan, Maria onee‐chan.`
+char_non: `My uncles and aunts.`
+char_non: `......Even Sakutarou.`
+char_non: ` ......And then, there was the witch {f:5:Virgilia}, and Ronove, and...............`
+char_enj: `"...............Where............"`
+char_bea: `"You were fortunate.`
+char_bea: ` ......By chance, we found you drifting in the waves of the sea of emptiness.`
+char_bea: ` ......You were in a terrible state.`
+char_bea: ` ......It took much time to make you remember your true form."`
+char_enj: `".........{f:5:Beatrice}...`
+char_enj: ` ............So, this is......"`
+char_rud: `"The Golden Land.`
+char_rud: ` ......Your whole family has been waiting here for you to return."`
+char_kir: `"......We knew you would come home."`
+char_non: `Did I.........come home because I was supposed to...?`
+char_non: `......Didn't I............return to the form I was meant to have, ......and then...............`
+char_rud: `"No, you did come home."`
+char_kir: `"That's right.`
+char_kir: ` You made it back here because you wanted to come home to us."`
+char_enj: `".........Dad, ......Mom...`
+char_enj: ` .........I..............."`
+char_kir: `"You don't need to say anything.`
+char_kir: ` .........You've been on a great and terrible journey, haven't you?`
+char_kir: ` ......You took that journey all by yourself..."`
+char_rud: `"You understand now, don't you?`
+char_rud: ` You won't forget again?"`
+char_non: `I understand, ......Dad...`
+char_rud: `"......This is...a place you can always call home..."`
+char_enj: `"............I know..."`
+char_non: `When I gave that answer, Mom and Dad hugged me again.`
+char_non: `Hot tears fell onto my face.`
+char_non: `They were Mom and Dad's tears......`
+char_eva: `"............‘All right’......might not be the best way to put it.`
+char_eva: ` ......But I'm so glad.`
+char_eva: ` Glad you came home."`
+char_enj: `"......Aunt.........Eva......"`
+char_eva: `"Feel free to hate me as much as you want.`
+char_eva: ` ......But give your Mom and Dad a million kisses.`
+char_eva: ` ......Give a kiss to everyone who cared about you so much."`
+char_enj: `"Aunt...... ............Eva............."`
+char_kir: `".........And say "I'm home" to your other mother."`
+char_non: `Mom gave me a push from behind, ............and I stumbled forwards.`
+char_non: `Towards my...other mother.`
+char_enj: `".........Eva...... ...............Mom............"`
+char_eva: `"......Ange‐chan..............."`
+char_enj: `"If only............I'd called you that on that day,`
+char_enj: ` .........I might never have messed up......`
+char_enj: ` ......We might have been able......to create a new world together......"`
+char_eva: `"It's in the past now.`
+char_eva: ` ......You've come home.`
+char_eva: ` .........You don't need to say anything else..."`
+char_enj: `"Mom......`
+char_enj: ` ............Mom.................."`
+char_eva: `"Welcome home, Ange‐chan...`
+char_eva: ` ............You're my precious daughter......"`
+char_enj: `"Mom......`
+char_enj: ` ............You were always, ......to the very end, .........the one looking out for me the most............"`
+char_non: `The two of them hugged each other quietly, ......burying their faces in the other's shoulders and sobbing.`
+char_non: `The truth...wasn't worth anything at all.`
+char_non: `In the first place, ......the truth is always in the past.`
+char_non: `The point of the future isn't to learn what happened in the past.`
+char_non: `What really matters...is whether I truly live and prosper in the truth that is "the now".`
+char_non: `How can there be any truth......in a life not truly lived?`
+char_non: `Back when I only ever tried to see the truth of the past, I was nothing more than a ghost trapped in that past.`
+char_non: `Since that time, I haven't lived a single day.`
+char_non: `......Now, I truly understand.`
+char_non: `This is what.........real truth is.........`
+char_enj: `"I will......live......`
+char_enj: ` ......And I've remembered how much everyone loved me......"`
+char_non: `Because I was young and selfish, I didn't even remember until now.`
+char_non: `The kind grandpa who always spoiled me.`
+char_non: `The entertaining aunts and uncles.`
+char_non: `All of the kind and gentle servants.`
+char_non: `......It was always...warm.`
+char_non: `And yet, because I was young and cruel, I never even tried to retain any of those memories.`
+char_non: `Everyone was distorted by my irresponsible imagination, ......and I completely forgot how things were......`
+char_non: `Now, I can remember clearly, and I understand.`
+char_non: `It's true that the Halloween quiz party itself was an illusion.`
+char_non: `We never did anything like that.`
+char_non: `......But there were all kinds of other fun things we {i:did} do when the relatives gathered,`
+char_non: ` .........things that were no more or less fun than that party.........`
+char_non: `Then, ......for the first time since the start of the game...`
+char_non: `...I went up to each and every one of them......to greet them, thank them, and apologize.`
+char_non: `To thank Grandpa for always pampering me.`
+char_non: `To thank my aunts and uncles.`
+char_non: `To thank the cousins for always playing with me even though I was so selfish.`
+char_non: `......And to thank the creatures of fantasy......and apologize to them.`
+char_non: `I think I said something horrible to Sakutarou once, in the past.`
+char_non: `And to Maria onee‐chan too.`
+char_enj: `"......Maria onee‐chan, you really were a witch, weren't you?"`
+char_mar: `"I've always been a witch.`
+char_mar: ` ......You approached that level yourself once, didn't you?"`
+char_enj: `"No.`
+char_enj: ` I never really understood.`
+char_enj: ` ......I felt sorry for you and your magic.`
+char_enj: ` ......I could {i:only} feel sorry for you...`
+char_enj: ` .........So, ......I couldn't pick up a fragment of happiness, couldn't even find one.`
+char_enj: ` .........You told me that yourself once, Onee‐chan......"`
+char_mar: `"......It can't be helped.`
+char_mar: ` It takes two to create a universe.`
+char_mar: ` ......I had Beato, but you were all alone."`
+char_enj: `"No.`
+char_enj: ` ......If only I could have called Aunt Eva "Mom", there would have been two of us.`
+char_enj: ` ......I'm sure I'd have been able to create a new world with the same magic you used, Maria onee‐chan."`
+char_bea: `".........All of it is my fault.`
+char_bea: ` The message bottles I threw into the sea for fun caused a distortion in your future and wore you down.`
+char_bea: ` ......I bear responsibility for that."`
+char_enj: `"......Yeah, seriously.`
+char_enj: ` It's all because of your message bottles.`
+char_enj: ` Because of those, people started copying you and making Forgeries, ......growing the story into something crazy."`
+char_non: `However, the message bottles thrown into the sea by Beato did not name a specific person as the culprit.`
+char_non: `......One of the Forgers wrote a plausible Forgery that had Ushiromiya Eva as the culprit, ......which spread like wildfire...`
+char_non: `I should've known better than anyone that it couldn't possibly be true, ......but even I accepted it in the end.`
+char_enj: `"............It isn't your fault, Beato.`
+char_enj: ` ......No matter how many people around me had their baseless suspicions,`
+char_enj: ` ......there should've been only one truth inside me.`
+char_enj: ` And yet, so easily, ......I abandoned my warm memories of all of you,`
+char_enj: ` ......and surrendered my heart to them."`
+char_bea: `"No, no.`
+char_bea: ` If I had not thrown the message bottles, future Rokkenjima would never have become a flourishing ground for such bizarre misconceptions.`
+char_bea: ` I bear responsibility for it all."`
+char_enj: `"......True.`
+char_enj: ` That's right, it really is your fault after all."`
+char_bea: `"Mgh.`
+char_bea: ` ......It's a little irritating to hear you say it so boldly.`
+char_bea: ` ......I changed my mind, you have your share of the blame as well!"`
+char_enj: `"........................`
+char_enj: ` ......Yeah, you're right.`
+char_enj: ` You were at fault, and so was I.`
+char_enj: ` ......Still, it'd be stupid for us to attack each other.`
+char_enj: ` ......After all, I'm a witch of the future.`
+char_enj: ` You're a witch of the past.`
+char_enj: ` ......I should be using that magic to build my future.`
+char_enj: ` ......We both bear responsibility in some way,`
+char_enj: ` but neither of us has the right to blame the other."`
+char_mar: `".........I knew you could do it, Ange.`
+char_mar: ` I knew you'd be able to understand Mariage Sorcière's teachings."`
+char_enj: `"You're right.`
+char_enj: ` ......As the final member of Mariage Sorcière, ......it's my responsibility to pass on your magic."`
+char_mar: `"My magic can make everyone happy."`
+char_bea: `"Indeed...!`
+char_bea: ` You have both pure magic and wicked magic at your fingertips...!"`
+char_enj: `".........That's true.`
+char_enj: ` Magic can change completely depending on your heart.`
+char_enj: ` ......You can't use magic properly without the proper guidance.`
+char_enj: ` ......And proper magic can guide people to happiness."`
+char_wal: `"It is a wonderful thing...`
+char_wal: ` .........Bringing people happiness is the sole reason that witches wield magic.`
+char_wal: ` ......I am very pleased that we were finally able to pass on this lesson to the last in the line of Endless Witches..."`
+char_bea: `"Sorry for failing to pass it down myself at all."`
+char_mar: `"Witch of the Future, {f:5:Ange Beatrice}.`
+char_mar: ` ......I hereby retract your expulsion from Mariage Sorcière."`
+char_sak: `"Uryuu!`
+char_sak: ` I knew Ange would come back...!"`
+char_rg5: `"Congratulations, Ange‐sama!"`
+char_enj: `"......Back in the days when I traveled together with you all, I remember thinking I understood all this...but I didn't.`
+char_enj: ` ......I'm sorry.`
+char_enj: ` I'm really sorry......"`
+char_bea: `"Witches cannot create a universe unless there are two.`
+char_bea: ` ......In the future, you will be alone. ......Will you really be okay...?"`
+char_enj: `"Yeah, I'll be okay.`
+char_enj: ` ......I'm not alone anymore.`
+char_enj: ` ......I'll...live.`
+char_enj: ` ......With everyone.`
+char_enj: ` And I'll live in the future.`
+char_enj: ` I swear to keep living, so that I can pass on the magic of Mariage Sorcière."`
+char_enj: `"Maria onee‐chan's magic has saved me too.`
+char_enj: ` .........There are a lot of people out there who need magic.`
+char_enj: ` Teaching it the right way and saving as many people as I can...`
+char_enj: `...is my mission as the final witch of Mariage Sorcière."`
+char_bea: `"Will you truly be able to do so...?"`
+char_enj: `"Of course. I have the power to do it.`
+char_enj: ` There's the golden magic that my predecessor, {f:5:Eva Beatrice}, spent so much time building.`
+char_enj: ` I've inherited all of that. Right?"`
+char_eva: `"*giggle*.`
+char_eva: ` ......If only my health had held out a little longer, I was planning to spend all of it on myself."`
+char_non: `*giggle*, ......aha{0}ha{0}ha{0}ha{0}ha{0}ha{0}ha{0}ha{0}haha.`
+char_non: `As Ange laughed, tears poured from her eyes again.`
+char_non: `Everyone surrounded Ange with their kind, warm smiles......`
+char_non: `Battler stood alone in the rose garden maze, letting the rain quietly fall on him......`
+char_non: `After searching for some time, Ange found him.`
+char_enj: `"............Onii‐chan........."`
+char_but: `".............................."`
+char_non: `Ange, who was feeling guilty, sensed anger in her brother's expression.`
+char_non: `So, ......she thought he was going to hit her.`
+char_non: `She shut her eyes tight.`
+char_non: `However, her brother touched her softly.`
+char_non: `He patted her head gently.`
+char_but: `".........See?"`
+char_enj: `".................."`
+char_but: `"The truth......wasn't anything important, was it?"`
+char_enj: `".........No, it wasn't.`
+char_enj: ` ......Even though you were here, ......waiting for me to come home in such a......warm world......`
+char_enj: ` .........I had my back turned......the whole time......"`
+char_but: `"You learned the truth."`
+char_enj: `"...............Yeah..."`
+char_but: `"So, any hopes you had of someone miraculously surviving and coming back......have been crushed.`
+char_but: ` ......However, you now have a new mission and a new hope to help you live in the future."`
+char_enj: `"......You kept those precious hopes safe for me.`
+char_enj: ` ......And I opened the box with my own hands and let them all escape.`
+char_enj: ` ......It turned out worse than Pandora's box.`
+char_enj: ` ......A truth I didn't need to know flew out of the box, along with all my hopes, ......leaving nothing inside but empty space..."`
+char_but: `"That's okay.`
+char_but: ` ......It's open now, and that's that.`
+char_but: ` An empty box isn't so bad—it's a clean slate, a fresh start.`
+char_but: ` And anyway, if you're harboring false hopes, sometimes it's better just to pull out the thorn."`
+char_non: `Battler laughed heartily.`
+char_non: `{n}Then, with that same smile on his face, he told her.`
+char_but: `"We're already dead."`
+char_enj: `"...............Yeah."`
+char_but: `"You've lived twelve years on the hope that we might still be alive.`
+char_but: ` Not anymore.`
+char_but: ` That's over and done with."`
+char_enj: `"Yeah.`
+char_enj: ` ......I know.`
+char_enj: ` Starting now, ......I'll step forward into a new life."`
+char_but: `"Beato put Rokkenjima in the cat box.`
+char_but: ` The next witch, Auntie Eva, guarded the lid of that cat box her whole life.`
+char_but: ` ......The witch after that was you, and you opened that lid, ......but so what?`
+char_but: ` Why does the truth of the past matter?"`
+char_enj: `".........Yeah.`
+char_enj: ` ......From now on, I'll truly live.`
+char_enj: ` And I'll make my own personal truth prosper."`
+char_but: `"Good luck,`
+char_but: ` final witch of Mariage Sorcière.`
+char_but: ` ......I've read Maria's grimoire.`
+char_but: ` It's a great book, with some really good stuff written in it."`
+char_but: `"Even the Bible needs a translator.`
+char_but: ` So, Maria's grimoire probably needs one too.`
+char_but: ` ......You will be that translator.`
+char_but: ` ......You've got to teach it to kids who are in the position you once were.`
+char_but: ` That's your mission as the new Witch of the Future."`
+char_enj: `"......Yeah."`
+char_but: `"I'm...gone.`
+char_but: ` But I'll always be behind you, watching over you."`
+char_enj: `"I know.`
+char_enj: ` ......And not just you.`
+char_enj: ` Everyone else too..."`
+char_but: `".........We all love you......and we'll love you forever and ever.`
+char_but: ` Don't forget that......"`
+char_enj: `"......I won't...`
+char_enj: ` .........Never......never ever..............."`
+char_non: `Ange leapt into Battler's chest......and sobbed.`
+char_non: `{y:0:Human}{n:0:Human}s are sad creatures, who can "learn" but not "unlearn".`
+char_non: `She had already learned.`
+char_non: `It was a cruel, terrifying, merciless thing, ......capable of destroying even the miracle called hope.`
+char_non: `......However, there was still one tiny fragment left gripped in her hand.`
+char_non: `Her family's...love.`
+char_non: `If Ange could just remember that love and hold on to it tightly.........then she could surely live on...`
+char_non: `She could stop herself from taking that single step into nothingness......`
+char_but: `"Besides... The Rokkenjima cat box hasn't yet been opened completely.`
+char_but: ` ......You've just taken a peek at what's inside.`
+char_but: ` So now...you must be the lid yourself."`
+char_but: `"And, this time, you'll be the one to protect everyone inside the cat box.`
+char_but: ` Me and Dad and Kyrie‐san, the cousins and the uncles and the aunts.`
+char_but: ` Grandfather and the servants.`
+char_but: ` ......And all of the fantasy people."`
+char_enj: `"...............Yeah.`
+char_enj: ` ......This time......I have to......protect everyone........."`
+char_non: `{a:c:`
+char_non: `"Then shouldn't you hurry up a bit?"}`
+char_non: `From the other side of a rose bush came the sound of popcorn being eaten.`
+char_non: `......It was {f:5:Lambdadelta}.`
+char_lam: `"I'm pretty sure you know this,`
+char_lam: ` ......but Bern is just about to hold a big party for the Book of the Single Truth.`
+char_lam: ` She's gathered beings from heaven and from hell, from the spirit world and from parallel worlds.`
+char_lam: ` If she announces what's in that book in a place like that, it'll all be too late, won't it?"`
+char_enj: `".........I'm...going.`
+char_enj: ` ......I gave {f:5:Bernkastel} that key.`
+char_enj: ` It's my responsibility.`
+char_enj: ` I'll go and bring it back."`
+char_but: `"The City of Books, is it?`
+char_but: ` But there's no way for us to get in.`
+char_but: ` There's a barrier around that place."`
+char_enj: `"......She gave me this.`
+char_enj: ` With it, I can come and go as I please.`
+char_enj: ` .........What an idiot.`
+char_enj: ` She forgot to collect it when she threw me away."`
+char_non: `Ange fished through her pocket, and there was a jingling sound.`
+char_non: `It was a bell with a blue ribbon tied to it.`
+char_lam: `".........That's it.`
+char_lam: ` One of those temporary entry passes that you get when you turn in your invitation.`
+char_lam: ` As long as you have that, at least one of you will be able to get into the City of Books.`
+char_lam: ` Well, as long as someone takes you across the sea of fragments first."`
+char_enj: `"{f:5:Lambdadelta}.`
+char_enj: ` Take me to the City of Books."`
+char_but: `"......Ange."`
+char_enj: `"This is my way of taking responsibility.`
+char_enj: ` .........I'll see that the Book of the Single Truth isn't made public."`
+char_lam: `".........Are you serious?`
+char_lam: ` That place is a den of monsters among monsters.`
+char_lam: ` Now that you've lost Bern's protection, you'll be weaker than a fly.`
+char_lam: ` You'll be smushed and that'll be the end of you."`
+char_enj: `"Ah—"`
+char_non: `The bell was stolen from Ange's hands.`
+char_but: `"{f:5:Lambdadelta}.`
+char_but: ` I'll go there.`
+char_but: ` ......I just need you to take me and send me on my way.`
+char_but: ` I'm an empty creature anyway, unable to exist outside the cat box.`
+char_but: ` Ange, on the other hand, has to live on into the future.`
+char_but: ` And you're also a person with a future.`
+char_but: ` ......So I'll go.`
+char_but: ` I have nothing to lose."`
+char_enj: `"No! This is my responsibility, my way of making up for what I did!`
+char_enj: ` If I don't do it myself, the future won't change at all, and I won't be able to save the cat box of the future...!"`
+char_non: `Ange tried to snatch the bell from Battler's hand, but Battler had no intention of giving it up.`
+char_non: `The two of them were grimly serious, but from the sidelines, it just looked like an ordinary squabble between two close siblings.`
+char_non: `{f:5:Lambdadelta} watched this conversation and shrugged.`
+char_non: `......If she just had to take either one of them to the City of Books, she wouldn't have to make any enemies, and there was no risk to her.`
+char_non: `All she cared about was which one would make the story more interesting.`
+char_non: ` Nothing else.`
+char_non: `But then, she finally noticed.`
+char_lam: `"Hold on.`
+char_lam: ` ......Hold on a sec, you two. Hold on!"`
+char_enj: `"What's your problem?! Save it for later!!"`
+char_but: `"We're having an important sibling discussion here!"`
+char_lam: `"Okay, first off,`
+char_lam: ` let go of each other.`
+char_lam: ` ......Battler's holding the bell now, right?`
+char_lam: ` Jump, Battler."`
+char_but: `"......Jump?`
+char_but: ` Like this?"`
+char_non: `Jingle jingle.`
+char_lam: `"You next, Ange.`
+char_lam: ` Try jumping."`
+char_enj: `"......Why me as well...?"`
+char_non: `Jingle jingle.`
+char_enj: `"Huh......?`
+char_enj: ` ......Why......?"`
+char_non: `If Battler was holding the bell, where did that sound come from......?`
+char_non: `Ange hurriedly searched through her pockets.`
+char_non: `When she did, ......another blue‐ribboned bell came out of a different pocket than the first one.`
+char_but: `"These are......the same, aren't they...?"`
+char_enj: `"......No way......`
+char_enj: ` Why are there two?`
+char_enj: ` I was only given one of them!"`
+char_lam: `"I don't know why.`
+char_lam: ` But the point is, you've got two bells that'll get you into the City of Books.`
+char_lam: ` Therefore, I don't have to sit here and watch the two of you play with each other anymore."`
+char_non: `The pair of them gripped their bells and looked at each other.`
+char_lam: `"From the very beginning,`
+char_lam: ` this game has belonged to the two of you.`
+char_lam: ` ......There's just been a slight change in who the opponent is."`
+char_lam: `"......This game isn't a competition between you two.`
+char_lam: ` It's a fight over the cat box, with you two who want to close the lid on one team, ......and Bern who wants it opened on the other.`
+char_lam: ` Ange has moved from Bern's team to Battler's team.`
+char_lam: ` That's all there is to it."`
+char_but: `"{f:5:Lambdadelta}.`
+char_but: ` Take us to the City of Books."`
+char_lam: `".........I hope you know I'm just taking you there!`
+char_lam: ` After that, I'm done being anything but a spectator!`
+char_lam: ` I'm just gonna be sitting nearby and watching, to see exactly how you fight, what you do, and how Bern is going to make mincemeat out of you both...!"`
+char_enj: `"{f:5:Lambdadelta}...... Thank you!"`

@@ -1,0 +1,630 @@
+char_rio: `"......I think...`
+char_rio: `I now understand just how much the woman called Beatrice influenced Grandfather's life."`
+char_wil: `"We haven't learned anything.`
+char_wil: ` "Who killed {f:5:Beatrice}?"`
+char_wil: ` That's what we've got to figure out, or we'll never be able to get out of here."`
+char_rio: `"......You're right.`
+char_rio: ` We need to finish this quickly.`
+char_rio: ` The funeral is already over, after all."`
+char_wil: `"...........................`
+char_wil: ` You've got it all wrong.`
+char_wil: ` ......This {i:is}...`
+char_wil: `...the funeral."`
+char_rio: `"You mean, what she's making us do...?"`
+char_wil: `"None of the Beatrices we've heard about so far were {i:killed}.`
+char_wil: ` ......We need to change that.`
+char_wil: ` That's the real funeral, as far as {f:5:Bernkastel}'s concerned."`
+char_rio: `"............No one knows about the "killed" factor.`
+char_rio: ` And that's the truth we're trying to expose?"`
+char_wil: `"Hmm, ......you are perceptive.`
+char_wil: ` It hardly feels like I'm talking to a piece from the lower plane.`
+char_wil: ` It must be because you were given to me as my Watson.`
+char_wil: ` ............Ouch!"`
+char_rio: `"Don't call your partner a piece.`
+char_rio: ` ......So, what next,`
+char_rio: ` Willard Holmes?"`
+char_wil: `"The basis of investigation is asking questions.`
+char_wil: ` There's still a {f:5:Beatrice} we need to ask about."`
+char_non: `To indicate who they should talk to next, Will nodded in the direction of George, Jessica, and Maria.`
+char_non: `Maria seemed to be lecturing the others about something.`
+char_geo: `"Wow.`
+char_geo: ` {f:5:Beatrice} sounds pretty incredible."`
+char_mar: `"Yeah!`
+char_mar: ` And then, inside the upside‐down cup,`
+char_mar: ` she made tons of candies appear out of nowhere!"`
+char_jes: `"Inside the overturned cup?`
+char_jes: ` That's wild.`
+char_jes: ` Sounds like magic to me."`
+char_rio: `"......Maria‐chan really does love witches and magic."`
+char_wil: `"Can't pass up the chance to talk to the authority on witches, can we?"`
+char_non: `If looking for someone to ask about {f:5:Beatrice}, Maria would rise to the top of the list.`
+char_non: `The {f:5:Beatrice} she spoke of wasn't the real Beatrice spoken of by Kinzo and the others.`
+char_non: `However, on the Rokkenjima of 1986, the being that the name {f:5:Beatrice} referred to was probably the {f:5:Beatrice} that Maria always talked about.`
+char_wil: `".........I don't see Battler anywhere."`
+char_non: `Ushiromiya Battler.`
+char_non: ` ......The one who was made to fight as {f:5:Beatrice}'s opponent in many games, and the most important person in this game and this tale.`
+char_non: `A Battler in this world would probably be the piece version, but even so, it should be possible to get some vital information out of him.`
+char_non: `......Will probably wanted to talk with Battler too, but he was nowhere to be seen in the cousins' group.`
+char_rio: `"Battler‐kun isn't present at the funeral today.`
+char_rio: ` It's a shame, seeing as he's the cousin closest in age to me."`
+char_wil: `"Are you two on good terms?"`
+char_rio: `"Yes, of course."`
+char_wil: `".........And you pinch his butt every time he says something perverted."`
+char_rio: `"Oh, how did you know?`
+char_rio: ` Did your detective instincts tell you that?"`
+char_wil: `"Poor guy."`
+char_non: `......{f:5:Bernkastel} said that everything was gathered here.`
+char_non: `Since Battler isn't here, that probably means it's possible to find out everything without asking for his side of the story.`
+char_non: `Or, maybe she's intentionally hiding the core elements and making us take the long way around, as part of some fickle witch's game.`
+char_wil: `"Since he isn't here, ......that probably means there's no need to hear his story for the time being.`
+char_wil: ` ......Let's talk to Maria and the others.`
+char_wil: ` ......I won't say anything perverted, so keep your hands off my ass."`
+char_rio: `"Then why not try choosing your words a bit more carefully?"`
+char_non: `With a roguish smile, Lion pinched the air, index finger against middle.`
+char_jes: `"Ah, it's the {i:future heir}.`
+char_jes: ` Are you done babysitting the old geezer?`
+char_jes: ` .........Gyaah!"`
+char_non: `At least Lion is impartial.`
+char_non: ` No mercy, even for Jessica.`
+char_non: ` Will felt a bit gratified.`
+char_wil: `"......I see.`
+char_wil: ` Since you're both the successor and Krauss's child, ......that makes Jessica your little sister."`
+char_non: `He was so used to Jessica being an only child that, though the scuffle between the two looked perfectly natural,`
+char_non: ` something didn't feel quite right about it.`
+char_rio: `"Jessica.`
+char_rio: ` Can't you talk a bit more like a little sister's supposed to?`
+char_rio: ` And while we're at it, why not try talking more like a girl your age.`
+char_rio: ` Also, how many times do I have to tell you to stop calling me "future heir"?"`
+char_jes: `"C‐cram it!`
+char_jes: ` I'll live the way I want to!`
+char_jes: ` I'd suffocate if I had to act all refined like you, {i:future heir}...!"`
+char_jes: `"Yeek!`
+char_jes: ` Ouch!`
+char_jes: ` Owowowowow!!`
+char_jes: ` Stop it, don't pinch me!`
+char_jes: ` This is sister bullying—`
+char_jes: `pervert—`
+char_jes: `stop it—`
+char_jes: `owow!"`
+char_rio: `"Jessica!`
+char_rio: ` Why are you talking like that in front of a guest...?!`
+char_rio: ` Do you want me to get Mother involved again?!"`
+char_wil: `".........Looks like those two are close, in their own special way."`
+char_geo: `"Well, Lion is a person of impeccable character, perfectly suited to being the next head.`
+char_geo: ` ......I guess I understand how Jessica‐chan feels... Lion might be a bit {i:too} perfect sometimes."`
+char_wil: `"She gets compared to Lion no matter what she does.`
+char_wil: ` So you think that made her rebel?"`
+char_geo: `"If Jessica‐chan had been born an only child, I'm sure she'd have become a composed, quiet young lady.`
+char_geo: ` ......Ahaha, that's an interesting thought."`
+char_wil: `"Don't worry.`
+char_wil: ` Only child or not, her personality wouldn't change a bit."`
+char_mar: `"George onii‐chan,`
+char_mar: ` ......who's this?"`
+char_geo: `"This is the first time I've met you, correct?`
+char_geo: ` But it sounds as though you know a lot about our family.`
+char_geo: ` I'm George,`
+char_geo: ` and this here is Maria.`
+char_geo: ` Pleased to meet you."`
+char_wil: `"Call me Will.`
+char_wil: ` I'm investigating {f:5:Beatrice}.`
+char_wil: ` I want you to tell me what you know."`
+char_mar: `"{f:5:Beatrice}?! Uu!!`
+char_mar: ` See?!`
+char_mar: ` {f:5:Beatrice} exists!`
+char_mar: ` Uu‐uu‐uu!!"`
+char_non: `Though Maria had looked hostile towards this unfamiliar man,`
+char_non: ` as soon as she heard the name of the witch she loved pass his lips, her eyes began to sparkle.`
+char_geo: `"Hey, Maria‐chan.`
+char_geo: ` You've got to greet our guest properly."`
+char_mar: `"Hello!`
+char_mar: ` My name is Ushiromiya Maria, uu!`
+char_mar: ` I'm glad to meet someone who knows {f:5:Beatrice}.`
+char_mar: ` Handshake, uu!"`
+char_wil: `"Nn."`
+char_non: `Maria suddenly stuck out her small hand, and Will reached out for it reflexively.`
+char_non: `As soon as he did, ......he felt a bright light seeping out from the gap between their hands.`
+char_non: `The theatergoing power that {f:5:Bernkastel} had given him had affected Maria.`
+char_mar: `"{f:5:Beatrice} is the witch of Rokkenjima...!`
+char_mar: ` She plays with me every time I come to Rokkenjima!`
+char_mar: ` She's my best friend, and a fellow member of Mariage Sorcière! Uu!!"`
+char_non: `The light grew brighter and brighter......`
+char_non: `This time, he could feel himself being drawn into Maria's world...`
+char_non: `I'm Ushiromiya Maria.`
+char_non: ` My mama is Rosa.`
+char_non: ` My papa......... I don't have a papa.`
+char_non: `I think I remember Mama showing me a picture long ago and saying "this is your papa".`
+char_non: `It was a picture of a man with a dark suntan, on a beach, wearing a swimsuit.`
+char_non: `......Later on, when I learned what "Papa" meant,`
+char_non: ` I asked Mama to show me that picture again, but she said there wasn't any photo like that.`
+char_non: `But there was.`
+char_non: ` I drew a picture of it and showed it to Mama.`
+char_non: ` When I did, she got really mad and said that photo didn't exist, or that, if it did, she had already thrown it away.`
+char_non: `Ever since then,`
+char_non: ` ......she kept saying that I didn't have a papa.`
+char_mar: `"......Did you know?`
+char_mar: ` People say you need a papa and a mama to have a baby, but that's a lie."`
+char_wil: `"The virgin birth..."`
+char_mar: `"‘Behold, a virgin shall be with child, and shall bring forth a son,`
+char_mar: ` and they shall call his name Emmanuel.’`
+char_mar: ` ......If I was a boy, that might have been my name."`
+char_wil: `"Book of Matthew, chapter 1, verse 20."`
+char_mar: `"No, verse 23.`
+char_mar: ` Verse 20 is "But while he thought on these things, behold, the angel of the Lord appeared unto him in a dream,`
+char_mar: ` saying, Joseph, thou son of David,`
+char_mar: ` fear not to take unto thee Mary thy wife:`
+char_mar: ` for that which is conceived in her is of the Holy Ghost.""`
+char_wil: `"......So you think your father is the Holy Ghost."`
+char_mar: `"Everyone said that everyone has a papa.`
+char_mar: ` They said it was strange to not have a papa, that I was weird, that they felt sorry for me."`
+char_mar: `"But when I asked Mama, she said I didn't have a papa, that he didn't exist.`
+char_mar: ` She got mad and hit me even though all I did was ask.`
+char_mar: ` So......I didn't really understand who gave birth to me."`
+char_mar: `"......I was...not right as a {y:0:Human}{n:0:human}, an immature and irregular creature.`
+char_mar: ` I realized I was a strange, pitiful girl, different from everyone else."`
+char_wil: `"It doesn't matter who your parents are or what other people say.`
+char_wil: ` You are who you are."`
+char_mar: `"It must have been hard to teach that to a young, immature girl.`
+char_mar: ` My kindergarten teacher might have said that to me when I cried after being bullied.`
+char_mar: ` ......But even those words of encouragement couldn't fill the blank space...`
+char_mar: `...no, the questions.`
+char_mar: ` Nothing anyone said could answer the questions in my mind."`
+char_wil: `"And the Book is what gave you the answers?"`
+char_mar: `"A priest came to see us."`
+char_non: `I think his sermon was part of a class to enrich our minds.`
+char_non: `To most of us kids, it was no different from an ordinary fairy tale a teacher could have told us.`
+char_non: ` ......No, it was harder to understand, and I think that made us bored.`
+char_non: `Then, at the end, the priest said something important.`
+char_wil: `"That God knows everything?"`
+char_mar: `"Yep.`
+char_mar: ` So I asked him.`
+char_mar: ` ......I only have a mama.`
+char_mar: ` I don't have a papa.`
+char_mar: ` Mama gave birth to me without a papa.`
+char_mar: ` Is that strange and sad? ...I asked."`
+char_non: `The priest taught me.`
+char_non: `{n}He said there was nothing strange about a child having no papa.`
+char_non: `After all, Jesus Christ was born of a virgin.`
+char_non: `And the one who gave birth to him...`
+char_non: `was the Blessed Virgin...{i:Maria}...?`
+char_non: `I was surprised!`
+char_non: `Maria, the name I was given, was the answer all along.`
+char_mar: `"I was so surprised, I asked the priest to say it again.`
+char_mar: ` ......He said that the Virgin Maria gave birth to a baby by herself!`
+char_mar: ` So, I asked him if that meant I could give birth to a baby all by myself too."`
+char_wil: `"And how'd he answer that?"`
+char_mar: `"He said the Virgin Maria was with child because of the Holy Ghost.`
+char_mar: ` Book of Matthew, chapter 1, verse 20, last part.`
+char_mar: ` "For that which is conceived in her is of the Holy Ghost".`
+char_mar: ` ......That surprised me again!`
+char_mar: ` What do you think that means?!"`
+char_wil: `"......You interpreted this to mean that...`
+char_wil: `Ushiromiya Maria had no {y:0:Human}{n:0:human} father.`
+char_wil: ` ......That your real father was the Holy Ghost."`
+char_non: `Regardless of what the Bible actually meant,`
+char_non: ` ......the young, sad girl, who had lost her sense of identity because of her lack of a father,`
+char_non: ` had finally created a way to understand herself.`
+char_mar: `"Once I realized that, I knew why I was different from all the other kids!`
+char_mar: ` The ones who made fun of me were all children of Joseph.`
+char_mar: ` But I alone was different!`
+char_mar: ` I wasn't worse than everyone else...!`
+char_mar: ` I was a child of God, a child of the Holy Ghost!!`
+char_mar: ` When I got back, I told Mama.`
+char_mar: ` I had no papa after all.`
+char_mar: ` Mama gave birth to me all on her own thanks to the power of God."`
+char_non: `It was probably painful for Rosa whenever Maria asked about her father.`
+char_non: `"Why do I have no papa, when everyone else has a papa and a mama?"`
+char_non: `Every time she was asked this, Rosa flew into a rage and changed the subject.`
+char_non: `......And now, somehow or other, Maria had independently found an explanation that satisfied her.`
+char_non: `She had no papa;`
+char_non: ` she was the child of Mama and God.`
+char_non: `It isn't too difficult to imagine that Rosa, after hearing the explanation the young girl had found in the Bible, might have gone along with it as though it were true......`
+char_mar: `"Beato said that the minimum number of people needed to create a world was two.`
+char_mar: ` I thought she meant that you need two parents to create a child.`
+char_mar: ` ......That was when I came to a new thought.`
+char_mar: ` Beato may be a witch, but she's a witch born of a {y:0:Human}{n:0:human}.`
+char_mar: ` Beato isn't a child of the Holy Ghost."`
+char_mar: `"But I'm different.`
+char_mar: ` I was born from Mama alone.`
+char_mar: ` I was born of the Holy Ghost!`
+char_mar: ` .........Beato can't create a universe without me.`
+char_mar: ` But I have...`
+char_mar: `‘{i:God with us}.’`
+char_mar: ` I can make a universe all by myself, along with the Holy Ghost!"`
+char_mar: `"Beato called me the Witch of Origins.`
+char_mar: ` And she also said that eventually, I might become a Creator, who can create anything alone.`
+char_mar: ` All by myself, I can create something out of nothing!`
+char_mar: ` Beato can take that and make it expand infinitely!`
+char_mar: ` Ange was the witches' apostle, who would spread the word far and wide!"`
+char_wil: `"And that was Mariage Sorcière."`
+char_mar: `"There's a huge difference between one and infinity.`
+char_mar: ` That's why Beato is so great.`
+char_mar: ` But compared to the difference between something and nothing, one and infinity are both just "something".`
+char_mar: ` I'm the child destined to become the best witch—no!`
+char_mar: ` The greatest Creator in the world...!"`
+char_mar: `"Mariage Sorcière was the nest to warm up my egg!`
+char_mar: ` I am Ushiromiya Maria!!`
+char_mar: ` Maria, who stands by God's side!!"`
+char_non: `......If we liken Maria's sense of identity to a universe,`
+char_non: ` ......then this endless stream of words coming from her might be like the Big Bang.`
+char_non: `She spent so long tormented over how to interpret her lack of a father.`
+char_non: ` ......Then, by chance, she saw a line in the Bible that seemed to affirm her existence, and she finally formed an understanding of herself.`
+char_non: `The sad girl, who had hated herself for being different from all of her classmates, finally found her own meaning.`
+char_non: `At that moment, Maria's universe, which had once been nothingness, was born as a clump of ultra‐hot, ultra‐high‐pressured energy.`
+char_non: `.........Then, later on, she went to Rokkenjima, met the Endless Witch who called herself {f:5:Beatrice},`
+char_non: ` ......and the clump of energy exploded in a Big Bang, giving birth to their joint system of magic.`
+char_non: `......That was the universe known as Mariage Sorcière.`
+char_wil: `"...........................`
+char_wil: ` ......We're jumping ahead a bit too fast.`
+char_wil: ` Let's take things one at a time."`
+char_mar: `"Sure.`
+char_mar: ` Where do you want to start?"`
+char_wil: `"After you decided that you were the child of the Holy Ghost, it's easy to imagine that you gradually became more and more interested in the occult.`
+char_wil: ` .........And then what?`
+char_wil: ` Once you reached that state, where did you meet {f:5:Beatrice}, and how did the two of you interact?"`
+char_mar: `"It really did happen all of a sudden, one day.`
+char_mar: ` .........I had wanted to meet the witch called {f:5:Beatrice}, who lived on Rokkenjima.`
+char_mar: ` As a fellow witch."`
+char_wil: `"At that time, you already thought that you were a witch?"`
+char_mar: `"I did.`
+char_mar: ` I already knew more about the Bible and the occult than most adults.`
+char_mar: ` So, even though I couldn't use magic, I believed that I was a witch.`
+char_mar: ` ......Kihihi, it's a bit funny, isn't it?`
+char_mar: ` That's why I'm only a witch apprentice."`
+char_wil: `"When did you meet {f:5:Beatrice}?"`
+char_mar: `"I don't really remember when.`
+char_mar: ` But I do remember what it was like.`
+char_mar: ` It was really, really sudden."`
+char_mar: `"............Huh?"`
+char_bea: `"So, you are.........Ushiromiya Maria, I presume?"`
+char_non: `It was such a very, very...`
+char_non: `...abrupt encounter.`
+char_non: `I had just been drinking some milk tea, all alone in the rose garden arbor.`
+char_non: ` Mama said that she had to talk about something important with Uncle Krauss,`
+char_non: ` ......so she told me to go outside and play.`
+char_non: `Suddenly, ......she was sitting right there.`
+char_non: `{n}I didn't know anyone who spoke that way.`
+char_non: `I quickly realized that she was someone I didn't know at all......`
+char_mar: `"......Who...are you?"`
+char_bea: `"You were the one who first said that you wished to see me.`
+char_bea: ` Here I am, welcoming the witch who came to visit my island, and yet you ask my name?`
+char_bea: ` *cackle*cackle*."`
+char_mar: `"..................`
+char_mar: ` {f:5:Beat}...`
+char_mar: `...{f:5:rice}...`
+char_mar: `...?"`
+char_bea: `"Precisely.`
+char_bea: ` I am {f:5:Beatrice}."`
+char_wil: `"Yeah, that is pretty sudden."`
+char_mar: `"Yep. Really, really sudden.`
+char_mar: ` .........Witches and spirits always exist right beside us.`
+char_mar: ` They just choose not to show themselves.`
+char_mar: ` And, when they do show themselves, ......it's always sudden, as though they've been there the whole time.`
+char_mar: ` ......That's what I learned that day."`
+char_wil: `"And then, you and {f:5:Beatrice} became friends?"`
+char_mar: `"Yeah.`
+char_mar: ` She stayed and chatted with me the whole time, until Mama was done with her business.`
+char_mar: ` We talked about magic...and witches.`
+char_mar: ` And about how I was a child of the Holy Ghost."`
+char_wil: `"......And what was your impression of {f:5:Beatrice} then?"`
+char_mar: `"I don't like saying it,`
+char_mar: ` but I knew more than she did back then.`
+char_mar: ` At first, I thought she wasn't a very good witch."`
+char_mar: `"......Well, that was just my conceit.`
+char_mar: ` There are many different systems of magic.`
+char_mar: ` Also, mine was based on self‐study.`
+char_mar: ` I probably only viewed Beato that way because her system of magic was different from mine.`
+char_mar: ` It wasn't long before I came to regret that and apologized."`
+char_wil: `"Apologized?`
+char_wil: ` .........Did {f:5:Beatrice} do something to win your respect?`
+char_wil: ` .........I see.`
+char_wil: ` So, she showed you magic."`
+char_non: `We moved to the beach and talked lots, sitting at a table under an umbrella.`
+char_bea: `"Very interesting.`
+char_bea: ` ......Maria.`
+char_bea: ` I see you have been quite diligent in your studies.`
+char_bea: ` At your age, to be capable of teaching a thousand year old witch such as myself is truly an accomplishment worthy of admiration.`
+char_bea: ` .........And what sort of magic can you use?"`
+char_mar: `"......Magic?"`
+char_bea: `"If you call yourself a witch, you must be able to show me some sort of magic, correct?"`
+char_non: `I was stunned for a second.`
+char_non: `{n}Of course, it should have been obvious.`
+char_non: `I was a child of the Holy Ghost, and since I'd studied so much of the occult, I was also a witch, not a {y:0:Human}{n:0:human}.`
+char_non: ` Until that day, I had been so sure of both of those things.`
+char_non: `So, when I was asked what sort of magic I could use, it left me in a daze...`
+char_bea: `"When one knows of magic and can speak of it, they finally reach the rank of apprentice.`
+char_bea: ` ......One is only a witch if they can put such knowledge into practice and use magic, correct?"`
+char_mar: `"......So, .........I'm not a witch yet......?"`
+char_bea: `"You have studied well.`
+char_bea: ` And I can sense a very rare talent within you.`
+char_bea: ` One day, you may become a witch so great that even I could not compare,`
+char_bea: ` ......or perhaps even a Creator as you have told me.`
+char_bea: ` However, you are still young and immature.`
+char_bea: ` .........You are...yes.`
+char_bea: ` You are an apprentice.`
+char_bea: ` A witch apprentice, you might call it."`
+char_mar: `"So, does that mean you can use magic, Beato?"`
+char_bea: `"Of course.`
+char_bea: ` I could not call myself a witch otherwise."`
+char_mar: `"Incredible......`
+char_mar: ` ......Show me!`
+char_mar: ` I wanna see your magic!!"`
+char_non: `Until this day, Maria had never doubted the magic‐related concept that she was the child of the Holy Ghost.`
+char_non: `......However, no one had ever proven to her that occult phenomena actually existed.`
+char_non: `Maria could create a universe all by herself.`
+char_non: ` ......However, she wanted to share it with a second person, so that she could believe in it even more strongly.`
+char_bea: `"In the past, I could have drawn a rainbow in the sky,`
+char_bea: ` transformed it into seven colors of candy, and eaten them at my leisure.`
+char_bea: ` However, my power has weakened so much that I cannot even preserve my form as well as I would like."`
+char_mar: `"I just heard about that.`
+char_mar: ` You can't use your full power because of the shrine."`
+char_bea: `"It will take quite some time before my power returns.`
+char_bea: ` At this moment, I cannot turn rainbows to candy.`
+char_bea: ` ......However, perhaps I can show you a bit of that power with some simpler magic."`
+char_mar: `"I wanna see...!`
+char_mar: ` I wanna see your magic...!!"`
+char_bea: `"Very well.`
+char_bea: ` However, I must ask you for your assistance.`
+char_bea: ` As I have already told you,`
+char_bea: ` no matter how pure your soul might be, all {y:0:Humans}{n:0:humans} are tainted and filled with the toxin that resists magic."`
+char_mar: `"Yeah, I remember.`
+char_mar: ` You told me about the anti‐magic toxin.`
+char_mar: ` It wasn't in any of the books I've read.`
+char_mar: ` You must really be incredible to know so much."`
+char_non: `{f:5:Beatrice} lifted up an empty teacup,`
+char_non: ` then turned it around in front of Maria to show that there weren't any tricks or strings.`
+char_wil: `"Right, the magic to make candy appear inside an overturned cup."`
+char_mar: `"How did you know?!`
+char_mar: ` You're incredible, Will! You even know about witch magic!"`
+char_wil: `"............That's because......it's one of the most basic types of magic a witch can use."`
+char_mar: `"It was just a normal cup, without any tricks in it.`
+char_mar: ` I wanted to see. I wanted to see true magic."`
+char_non: `Maria had a desire.`
+char_non: `She had a desire to discover the occult in others......to help her believe that there was an occult side to herself.`
+char_non: `That was why she agreed to help {f:5:Beatrice} with her magic.`
+char_non: `She didn't want her own toxin to ruin her chance of knowing the miracles of magic.`
+char_bea: `"Good.`
+char_bea: ` ......Now, try looking inside that cup."`
+char_mar: `"............Ah.`
+char_mar: ` ......There's candy.`
+char_mar: ` ......There's candy...!!"`
+char_bea: `"As a gift to mark my meeting with a new witch, and as a sign of our friendship, I offer this to you."`
+char_non: `This...was a true miracle of magic.`
+char_non: `{n}For the first time, I felt shame and embarrassment at my conceit.`
+char_non: `I could feel that sense of omnipotence disappear,`
+char_non: ` the idea that I was the child of the Holy Ghost and the most important and special person in the world.`
+char_non: `......Instead of a child of the Holy Ghost who can't do anything,`
+char_non: ` I'd rather be a witch who can use magic...!`
+char_non: `I, Ushiromiya Maria, wanted to become a witch...!!`
+char_non: `{n}Starting off as a witch apprentice!!`
+char_non: `Already, I was obsessed with Beato.`
+char_mar: `"I want to become a real witch too!`
+char_mar: ` I want to be your disciple!!"`
+char_bea: `"How modest.`
+char_bea: ` You already have an abundance of talent and diligence.`
+char_bea: ` Also, though it may have been different when I was at my full power, I cannot take on a disciple in my current state."`
+char_mar: `"......So I can't become a witch's disciple......?"`
+char_bea: `"Mm.`
+char_bea: ` You cannot become my disciple.`
+char_bea: ` ......However, you can become my friend."`
+char_mar: `"Really...?!"`
+char_bea: `"Yes.`
+char_bea: ` From this point forth, we shall be friends.`
+char_bea: ` Let us continue to talk of the deep and profound world of witches."`
+char_mar: `"Uu!!!`
+char_mar: ` Thank you, Beato!!`
+char_mar: ` Can I eat this candy?!"`
+char_bea: `"No, let that be a souvenir.`
+char_bea: ` Instead of eating it, keep it in that lovely bag of yours."`
+char_mar: `"Right.`
+char_mar: ` I'll eat it at home...!!`
+char_mar: ` Uu, uu‐uu‐uu‐uu!!"`
+char_bea: `"Maria.`
+char_bea: ` That candy was brought into being by magic.`
+char_bea: ` Therefore, it is fragile.`
+char_bea: ` If you deny my existence with that toxin of yours, it will melt and fade away."`
+char_mar: `"Uu......`
+char_mar: ` No.`
+char_mar: ` I don't want your precious magic to disappear."`
+char_bea: `"Then be sure that you do not forget your meeting with me.`
+char_bea: ` ......And if you will keep some simple promises to me,`
+char_bea: ` I will greet you the next time you come to this island."`
+char_mar: `"Uu! I'll keep them.`
+char_mar: ` What are the promises?!"`
+char_bea: `"Well, to start...`
+char_bea: ` Each time you arrive home, wash your hands.`
+char_bea: ` Then, rinse out your mouth.`
+char_bea: ` You must not complain about this, for it is an important part of a witch apprentice's training."`
+char_mar: `"I'll do it!`
+char_mar: ` Every day, when I come home, I'll wash my hands!`
+char_mar: ` I'll rinse out my mouth!`
+char_mar: ` If I do that, will I see you again?!"`
+char_bea: `"I promise it.`
+char_bea: ` If you keep your end of the promise,`
+char_bea: ` your body will be cleansed, and I will regain even more of my magical power.`
+char_bea: ` ......Then, the next time you come, I will show you magic of even greater splendor."`
+char_mar: `"Uu!`
+char_mar: ` I'll keep my promise! No matter what!!`
+char_mar: ` I'll do it!`
+char_mar: ` I'll become your friend and a witch apprentice!"`
+char_bea: `"Your resolve is heartening, Ushiromiya Maria.`
+char_bea: ` I hope that you will quickly grow to become a full witch and my close friend."`
+char_mar: `"I think that was the first time I met {f:5:Beatrice}."`
+char_wil: `"And was that candy still there when you got home...?"`
+char_mar: `"Yep.`
+char_mar: ` ......But I doubted a little, so it was half‐melted.`
+char_mar: ` I regretted almost doubting her."`
+char_mar: `"If I had doubted her more, I'm sure the candy would have been completely gone.`
+char_mar: ` I almost lost the proof of the magical miracle that had happened before my eyes."`
+char_wil: `"A hard piece of candy melted?"`
+char_mar: `"It wasn't hard, it was......caramel, I think.`
+char_mar: ` It was half‐melted and squishy."`
+char_wil: `"About what time of the year did this happen?"`
+char_mar: `"I'm not too sure.`
+char_mar: ` But I remember that the milk tea had ice in it.`
+char_mar: ` ......Why does that matter?"`
+char_wil: `"Never mind.`
+char_wil: ` ......Did you tell Rosa about your meeting with {f:5:Beatrice}?"`
+char_mar: `"Yep.`
+char_mar: ` I told everyone about it at dinner that day.`
+char_mar: ` Uncle Krauss laughed at me.`
+char_mar: ` Then, Mama, who was sitting next to me, got mad and told me to stop talking about it.`
+char_mar: ` ...Uu."`
+char_wil: `"Next to you...?`
+char_wil: ` By your family's ranking system, your seat shouldn't be next to Rosa's."`
+char_mar: `"It wasn't a family conference.`
+char_mar: ` It was when just Mama and I came to visit.`
+char_mar: ` So, there was only Uncle Krauss's family, Mama, and me.`
+char_mar: ` And we didn't leave gaps, so we weren't sitting in the same spots as a family conference."`
+char_wil: `"...........................`
+char_wil: ` .........And Rosa was sitting in the seat next to you?"`
+char_mar: `"Yeah.`
+char_mar: ` ......Why does that matter?"`
+char_wil: `".........It doesn't.`
+char_wil: ` ......Have you ever met with {f:5:Beatrice} outside Rokkenjima?"`
+char_mar: `"No.`
+char_mar: ` After all, Beato's body is fragile, so she can't go wherever she wants.`
+char_mar: ` I told her she could just possess me if she wanted,`
+char_mar: ` but she said that she couldn't leave the island."`
+char_wil: `"And after that, you met her every time you came to Rokkenjima."`
+char_mar: `"Yeah.`
+char_mar: ` We became really good friends.`
+char_mar: ` The more I talked to Beato, the more I realized what an amazing witch she was.`
+char_mar: ` She showed me wonderful magic every time I saw her.`
+char_mar: ` Then, she told me about a system of magic that was different from mine, and we both talked together about the mysteries of magic."`
+char_mar: `"I wanted to reach her level as soon as I could.`
+char_mar: ` I wanted to become the kind of witch Beato was."`
+char_wil: `"Did you ever introduce {f:5:Beatrice} to your mother?"`
+char_mar: `"Nope.`
+char_mar: ` She said Mama's toxin was too strong, so they couldn't meet each other yet.`
+char_mar: ` ......Almost all adults are no good when it comes to the toxin.`
+char_mar: ` They're all tainted.`
+char_mar: ` Kihihihihi."`
+char_wil: `"Was anyone other than you able to see {f:5:Beatrice}?"`
+char_mar: `"They couldn't at first.`
+char_mar: ` She said her magical power was weak, so her body would crumble if even a little bit of the toxin reached her.`
+char_mar: ` ......But she gathered magical power bit by bit, and eventually, she could appear in front of other people who had small amounts of toxin."`
+char_wil: `"And who was that?"`
+char_mar: `"Hmmmmmmm......`
+char_mar: ` ......There weren't many of them.`
+char_mar: ` Just a few of the servants."`
+char_wil: `"Specifically?"`
+char_mar: `"All of the servants here today.`
+char_mar: ` ......Uu?`
+char_mar: ` But not Gohda‐san, I think."`
+char_wil: `"So, there were four of them: Genji, Shannon, Kanon, and Kumasawa."`
+char_mar: `"And Doctor Nanjo too."`
+char_non: `Apparently, they would sometimes come to visit Maria and {f:5:Beatrice}'s witch tea parties.`
+char_non: `Of course, it was only for small things, like bringing them extra tea.`
+char_non: `However, they were certainly aware of {f:5:Beatrice}, and even talked with her.`
+char_wil: `"......How did the servants react to {f:5:Beatrice}?`
+char_wil: ` She was a guest who shouldn't have existed.`
+char_wil: ` Weren't they surprised?"`
+char_mar: `"No...`
+char_mar: ` After all, {f:5:Beatrice} is the other master of the mansion."`
+char_non: `She said that the servants treated {f:5:Beatrice} as an honored guest.`
+char_non: `And, sometimes, they were permitted to witness the new miracle of magic along with Maria.`
+char_wil: `"So, on the Rokkenjima of 1986, the ones who could actually meet with {f:5:Beatrice} were...`
+char_wil: `you, Nanjo, and the four servants excluding Gohda, for a total of six?"`
+char_mar: `"Yeah.`
+char_mar: ` Beato said that she'd need to store up much more magical power before she could appear in front of anyone else."`
+char_wil: `"So, she intended to show herself in front of more people sometime in the future?"`
+char_mar: `"Yep.`
+char_mar: ` She said that the day she made all of the {y:0:Humans}{n:0:humans} acknowledge her would be the day of her resurrection."`
+char_wil: `"...................................."`
+char_non: `Maria, the servants, and Nanjo had acknowledged her.`
+char_non: `She had probably chosen those {y:0:Humans}{n:0:humans} whose anti‐magic toxin was weakest and appeared before them first.`
+char_non: `{f:5:Beatrice}'s game must have been to steadily increase the number of {y:0:Humans}{n:0:humans} who could recognize her,`
+char_non: ` until she could make everyone on the island acknowledge her.`
+char_non: `In that case, the last person for {f:5:Beatrice} to appear in front of...`
+char_non: `would be Battler, the one said to have the strongest anti‐magical power.`
+char_non: `......Does this mean {f:5:Beatrice} thought that Battler would be the hardest one to convince......?`
+char_non: `It seems true that Battler was one of {f:5:Beatrice}'s goals.`
+char_non: `......However, if we go with Battler's chessboard thinking...`
+char_non: `...we might say that {f:5:Beatrice}, who wanted others to acknowledge her existence, was someone who could not exist {i:unless} she was acknowledged.`
+char_non: `Battler reached this thought himself back in the first game.`
+char_non: `Yes, there is something different about the {f:5:Beatrice} of 1986.`
+char_non: `She's different from the Italian Beatrice or the Kuwadorian Beatrice, both of whom certainly did exist.`
+char_non: `The {f:5:Beatrice} of 1986, the one whom we are so familiar with in a mysterious way, yet who has no existence.`
+char_non: `What does it mean to "kill" the {f:5:Beatrice} who has no existence?`
+char_non: `......The minimum number of people required to create a universe is two.`
+char_non: `However, Maria had said that even a single person could give birth to a universe.`
+char_non: `And yet, Maria had desired a second person.`
+char_non: ` A second person to nurture the world she had given birth to alone.`
+char_non: `Because if it was born and not nurtured, it would die and disappear?`
+char_non: `.........Let's replace the word "universe" with "{f:5:Beatrice}".`
+char_non: `The minimum number of people required to create {f:5:Beatrice} is two.`
+char_non: `However, even a single person could give birth to her.`
+char_non: `And yet, that single person desired a second person.`
+char_non: ` A second person to acknowledge the {f:5:Beatrice} created by the first person.`
+char_non: `That meeting with a second person is the scene that Maria has just described.`
+char_non: `The single person who created {f:5:Beatrice} had looked for a second person to acknowledge {f:5:Beatrice}...`
+char_non: `and selected Maria.`
+char_non: `We don't need Furudo Erika's heartless reasoning to know that the tea cup magic was a sleight of hand.`
+char_non: `Maria, believing in the story about the anti‐magic toxin, would close her eyes whenever magic happened.`
+char_non: `Any sleight of hand would be possible while she had her eyes closed.`
+char_non: `......The caramel Maria had been given as proof of her meeting with a witch had melted a little because Maria had doubted.`
+char_non: `In a season where one was likely to put ice in their tea, it was only natural for a caramel left in a bag to melt.`
+char_non: `Ushiromiya Maria, the girl who's too trusting and will accept a story easily.`
+char_non: `{f:5:Beatrice} appeared first in front of this girl, who had, in the language of witches,`
+char_non: ` very little of the anti‐magic toxin......`
+char_non: `If we liken the creation of {f:5:Beatrice} to the laying of an egg,`
+char_non: ` then when a single person creates her, it is no more than a delusion.`
+char_non: ` Like a chick inside the egg.`
+char_non: `If, and only if, a second person acknowledges her, the shell cracks, and she appears.`
+char_non: `{n}She only appears when a second person comes to warm the egg.`
+char_non: `When Maria acknowledged {f:5:Beatrice}, she finally hatched, and the chick was born.`
+char_non: `In that case, Mariage Sorcière, which nurtured {f:5:Beatrice} and her system of magic, was like a nest.`
+char_non: `{f:5:Beatrice} had a dignified presence, called herself the witch of Rokkenjima, and claimed to have lived a thousand years.`
+char_non: `......Thinking about the {f:5:Beatrice}s who appeared in the previous game, this sounds less like the chick Beato, and more like Beato the Elder.`
+char_non: `So, does this mean that the meeting Maria has just spoken of marks the birth of Beato the Elder...?`
+char_non: `The egg itself had already been created by "the first person".`
+char_non: `During the time before the meeting with Maria, it matured fully inside its shell, becoming the "character" with the dignified presence of a thousand years.`
+char_non: `Then, when Maria acknowledged it, it hatched,`
+char_non: ` .........and the witch of Rokkenjima finally gained a form.`
+char_non: `Perhaps, ......that moment marks the birth of the {f:5:Beatrice} of 1986.`
+char_non: `......The younger, chick Beato was born out of love for Battler.`
+char_non: `Since that birth has not yet occurred at this point in time,`
+char_non: ` then the birth of Beato the Elder and the existence of {f:5:Beatrice} at this time must have nothing to do with Battler.`
+char_non: `..............................`
+char_non: `Are you enjoying this reasoning,`
+char_non: ` {f:5:Bernkastel}......?`
+char_non: `If you are, let's at least have some applause from the audience.`
+char_non: `............Great, thanks a bunch.`
+char_mar: `"I have a lot of things I want to ask Beato to grant for me with magic.`
+char_mar: ` So, I'm helping Beato with her resurrection."`
+char_wil: `"......What kinds of things?"`
+char_mar: `"Lots and lots.`
+char_mar: ` Kihihihihihi. Not telling."`
+char_wil: `"You want to protect your mama from the black witch, right?"`
+char_mar: `"How do you know so much?`
+char_mar: ` You're incredible. Uu!"`
+char_wil: `"......And your happy world will never return without a witch's help...`
+char_wil: ` That's what you...think now?"`
+char_mar: `"Yep.`
+char_mar: ` I love Mama.`
+char_mar: ` She's so nice.`
+char_mar: ` I want to be with her forever.`
+char_mar: ` For all eternity."`
+char_wil: `"...........................`
+char_wil: ` ......Now I'd like to hear about Mariage Sorcière."`
+char_mar: `"................................."`
+char_wil: `"...............`
+char_wil: ` ......What's wrong?"`
+char_mar: `"Don't wanna."`
+char_wil: `"............Huh?"`
+char_mar: `"I'm thirsty, so I'm gonna go get something to drink.`
+char_mar: ` See you later."`
+char_non: `Maria suddenly started acting distant, bowed her head, and left without waiting for a reply.`
+char_non: `......It was a very un‐Maria‐like thing to do.`
+char_wil: `"................................."`
+char_non: `I see.`
+char_non: ` So, the Game Master has moved the piece.`
+char_non: `......Apparently, she's telling me to ask about something different for now.`
+char_non: `At some point, Lion had started chatting with the other family members.`
+char_non: `Jessica seemed to be getting irritated at having her butt pinched so much, and George was trying to calm her down.`
+char_non: `......Jessica and George.`
+char_non: ` Guess I'll hear their stories next.`
+char_non: `Compared to Maria, the anti‐magic toxin is very strong in these two.`
+char_non: `At least at the beginning of the other games, they didn't acknowledge {f:5:Beatrice}.`
+char_non: `Maria showed me the point of view of one who believes.`
+char_non: `{n}Now to hear from those who don't.`

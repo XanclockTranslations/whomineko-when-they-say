@@ -1,0 +1,648 @@
+char_bea: `There was no way to notice the coming of morning without opening a window and looking at the cloudy sky, which had become a tiny bit lighter.`
+char_bea: `It wasn't a refreshing morning.`
+char_bea: ` All that could be heard was the sound of the rain, which had kept falling since last night, and the howl of the wind...`
+char_kir: `"......It's hard to imagine that it's morning.`
+char_kir: ` This horrible weather reflects our hearts."`
+char_rud: `"Then I'd say it's pretty gentle, considering.`
+char_rud: ` We should count ourselves lucky it's rain that's falling and not spears."`
+char_hid: `"Wahaha.`
+char_hid: ` Whether it's rain or spears, bring it on, I say."`
+char_hid: `".........Is it already six o'clock?`
+char_hid: ` Fuaaaaaa...`
+char_hid: ` Isn't this enough?`
+char_hid: ` Can't do much else until the mystery 19th person, {f:5:Beatrice}, takes action."`
+char_cla: `"That is correct.`
+char_cla: ` ......However, I believe we have thought of almost every trick they could use against us."`
+char_eva: `"Yes.`
+char_eva: ` As long as a traitor doesn't appear among us siblings, we should be able to deal with most situations."`
+char_ros: `"......Haven't we talked about this enough?`
+char_ros: ` We ended up staying up all night.`
+char_ros: ` ...I'm tired."`
+char_nat: `"You're right.`
+char_nat: ` How about taking a little rest after eating breakfast?"`
+char_cla: `"...A good plan.`
+char_cla: ` Staying up all night is trying at my age."`
+char_non: `As they all stretched, they enjoyed this unrefreshing morning as best they could.`
+char_rud: `"Let's go wash our faces or something.`
+char_rud: ` I probably look horrible."`
+char_kir: `"..................?`
+char_kir: ` What is that horrible stench?"`
+char_non: `As soon as they exited into the corridor, Kyrie made an openly disgusted expression.`
+char_nat: `"...What's the matter?"`
+char_kir: `"Hey, don't you smell something awful...?"`
+char_hid: `".........Hm.`
+char_hid: ` ...What is this stench?`
+char_hid: ` It's unbearable..."`
+char_non: `Because of that fuss, everyone stuck their heads out into the corridor.`
+char_non: `{n}...It was a faint stench, but after the complaints, they clearly noticed it.`
+char_non: `Each of them went into the corridor, relying on their own sense of smell to tell them where this strange odor was coming from...`
+char_nat: `"What in the world could it be?`
+char_nat: ` Let us have Genji deal with it.`
+char_nat: ` I believe he should already have arrived in the servant room to begin the morning preparations."`
+char_cla: `"Mmhm, please.`
+char_cla: ` It is difficult to imagine that Gohda, of all people,`
+char_cla: ` could be making a breakfast that would cause this kind of stench..."`
+char_non: `Rudolf's group searched for the source of the smell, and determined that it was coming from underground,`
+char_non: ` from the boiler room.`
+char_non: `But the door was locked, and they couldn't check inside.`
+char_non: `Meanwhile, Natsuhi's group were on their way to search for someone in the servant room, when they noticed something strange about the parlor.`
+char_nat: `"......What is this...?!"`
+char_ros: `"Wh‐what a horrible prank...`
+char_ros: ` Who would do something like..."`
+char_non: `Drawn on the door to the parlor, in a paint that reminded one of blood, there was a strange...`
+char_non: `magic‐circle‐like thing.`
+char_eva: `"No one has come to the kitchen yet.`
+char_eva: ` ......Wh‐what is...that?"`
+char_non: `Eva's group, who had thought the smell had been coming from the kitchen,`
+char_non: ` had returned, having observed that no one was there and that preparations for breakfast had not yet begun.`
+char_non: `......And they noticed the unusual state of the parlor.`
+char_rud: `"It's no good, the boiler room is locked.`
+char_rud: ` Wouldn't it be bad if something's broken down in the boiler room?`
+char_rud: ` Was there a servant anywhere around?"`
+char_kir: `".........!`
+char_kir: ` Is that vulgar graffiti here too?`
+char_kir: ` There was also one on the door to the boiler room."`
+char_hid: `"What's that?!`
+char_hid: ` This creepy graffiti isn't just here, it's in other places as well?!`
+char_hid: ` Haha, you don't think that this is the witch of the forest {f:5:Beatrice}'s declaration of war, right?"`
+char_non: `Hideyoshi tried to make fun of it, but staring at this creepy magic circle while listening to the wind and rain really made it seem like it was a message from a witch.`
+char_non: `...The dripping bright‐red paint made one think of blood, and it made things even more eerie.`
+char_non: `Hideyoshi tried to open the door, but it was locked.`
+char_non: `...As a general rule, the parlor was never locked.`
+char_non: `{n}Someone had gone out of their way to lock it.`
+char_ros: `"......What does this mean...?`
+char_ros: ` Did someone secretly leave this graffiti while we were talking in the dining hall?`
+char_ros: ` On the doors to the parlor and the boiler room?"`
+char_eva: `"...I'm sure the servants are behind this.`
+char_eva: ` We were together the whole time.`
+char_eva: ` We all have alibis.`
+char_eva: ` ......They probably did this prank on some strange orders from Father."`
+char_rud: `".........Considering the incident yesterday with Maria‐chan's letter,`
+char_rud: ` it's more than possible to suspect that the servants are acting on Dad's orders and planning something.`
+char_rud: ` ......Where the hell is everyone, anyway?`
+char_rud: ` They can't be playing hide and seek.`
+char_rud: ` Let's look for them."`
+char_ros: `"B‐...before that, I'm worried about the children.`
+char_ros: ` They're alright, aren't they?`
+char_ros: ` I'll go and check, and while I'm there, I'll see if there aren't any servants there."`
+char_rud: `"Then let's split up.`
+char_rud: ` While you go to the guesthouse to see how the brats are doing, we'll check around inside the mansion.`
+char_rud: ` .........I don't want to think about it,`
+char_rud: ` but maybe these creepy magic circles aren't just where we've found them."`
+char_cla: `"......We might have become involved in a bizarre game of Father's.`
+char_cla: ` ...I will go to him and ask about the situation.`
+char_cla: ` ......Though I doubt he'll be good‐natured enough to listen to me."`
+char_non: `The adults split up.`
+char_non: `As a result, they confirmed that the four children were safe in the so‐called cousins' room, on the second floor of the guesthouse.`
+char_non: `It appeared that they had stayed up late last night playing.`
+char_non: `{n}All of them were snoring loudly, so Rosa decided not to wake them.`
+char_non: `Furthermore, Nanjo, who had returned early the previous night to rest, was also alright.`
+char_non: `{n}It seemed he believed in the phrase "early to bed, early to rise", and had awoken refreshed.`
+char_non: `During that time, Kyrie and Hideyoshi searched for the servants.`
+char_non: `{n}But they didn't find them.`
+char_non: `...The servant room in the guesthouse was also empty.`
+char_ros: `"......The children are alright.`
+char_ros: ` All of them stayed up too late last night."`
+char_hid: `"The servant room is empty.`
+char_hid: ` ...I looked at the shift chart, and the mornin' shift was supposed to begin at six.`
+char_hid: ` They should have started workin' by now..."`
+char_kir: `"The nap room was also empty.`
+char_kir: ` There were signs that the futons had been used, but they weren't warm."`
+char_hid: `"Y'know what, I think Krauss nii‐san and the others might've hit on it, don't you?`
+char_hid: ` ......This is probably a game planned on Father's orders.`
+char_hid: ` I'd bet my bottom dollar, he left those creepy scribbles and hid himself somewhere,`
+char_hid: ` tryin' to make us do somethin'."`
+char_kir: `"......Are you saying that he's trying to see who is fit to inherit his wealth and the family headship?`
+char_kir: ` ...Isn't that a bit..."`
+char_ros: `"No...`
+char_ros: ` ...It might not be strange if Father was behind something like that."`
+char_hid: `"After all, Father loves big tricks.`
+char_hid: ` ......He might have had this plan brewing ever since that epitaph was hung in the hall."`
+char_kir: `"...In that case, I wonder whether he will make an announcement of the game or an explanation of it.`
+char_kir: ` ......It also seems possible that another envelope with the crest might appear, like the one handed to Maria‐chan."`
+char_ros: `"............You're right.`
+char_ros: ` Maybe Nii‐san and the rest have found that in the mansion."`
+char_hid: `"Doctor Nanjo.`
+char_hid: ` Have you heard anythin'?"`
+char_nan: `"......M‐my apologies, I do not have any idea what is going on.`
+char_nan: ` And yet, ......yes, I see,`
+char_nan: ` I could easily imagine that Kinzo‐san is planning something big."`
+char_hid: `"...Why don't we go back to the mansion for now?`
+char_hid: ` Maybe they found somethin' over there."`
+char_nan: `"If I will not be in the way, I will come too."`
+char_ros: `"I, I'll stay here.`
+char_ros: ` ...The children are sleeping upstairs.`
+char_ros: ` We don't know what's happening.`
+char_ros: ` We can't leave them alone."`
+char_kir: `"......Yes, you're right.`
+char_kir: ` I'll stay with Rosa‐san and watch over the place.`
+char_kir: ` Would you tell that to my husband?"`
+char_non: `Rosa and Kyrie remained in the guesthouse.`
+char_non: `{n}Hideyoshi went with Nanjo, and returned again to the mansion.`
+char_non: `Meanwhile, in the mansion...`
+char_non: `Unbelievably, ...or maybe we should say that bad feelings have a tendency to be right...`
+char_non: `Rudolf's prediction was right on.`
+char_non: `...Because the same magic circle graffiti that had been drawn on the doors to the boiler room and the parlor had been found in multiple other places throughout the mansion.`
+char_rud: `"Aniki...!`
+char_rud: ` How's Dad?"`
+char_cla: `"No, no good.`
+char_cla: ` There was no response at all.`
+char_cla: ` I did try putting my ear against the door, but I couldn't sense anyone."`
+char_nat: `"...I cannot find the servants anywhere.`
+char_nat: ` ...Where in the world did they disappear off to..."`
+char_eva: `"This isn't funny.`
+char_eva: ` Father and the servants are hiding, and there are strange magic circles all over the mansion.`
+char_eva: ` ......What in the world is happening...?!"`
+char_non: `There weren't only magic circles on the door to the boiler room and the door to the parlor.`
+char_non: `{n}There were also two on the second floor,`
+char_non: ` and one on the third floor, for a total of five.`
+char_non: `They were all the same magic circle, and all of the doors were locked, so they couldn't check inside.`
+char_rud: `"...Anyway, let's do something about the boiler room first.`
+char_rud: ` It would be bad if some kind of breakdown caused a fire or an explosion.`
+char_rud: ` ...So we need the key."`
+char_nat: `"I believe there was a key box in the servant room."`
+char_non: `They fished through the key box in the servant room.`
+char_non: `Because each servant individually carried their own master key around, those weren't kept here.`
+char_non: `However, all of the individual room keys should have been here.`
+char_cla: `"............It's so packed with keys."`
+char_eva: `"...It isn't here.`
+char_eva: ` I've looked and looked, but I can't find the key to the boiler room."`
+char_rud: `"Look, Aneki.`
+char_rud: ` ......Only the keys to the rooms with those magic circles drawn on them...`
+char_rud: `are just neatly missing."`
+char_nat: `"......It's true.`
+char_nat: ` ...How troublesome......"`
+char_eva: `"It's as though someone doesn't want us to go in the rooms with the magic circles.`
+char_eva: ` ......No, they went to all the trouble of making them obvious using the magic circles, so perhaps they do want us to enter...?"`
+char_rud: `"I think it's the latter.`
+char_rud: ` ...Breaking down the door is probably impossible, I mean, this isn't a movie.`
+char_rud: ` Smashing a window might work."`
+char_non: `Krauss had a little trouble deciding whether this was a situation that called for smashing a window.`
+char_non: `At that time, Hideyoshi and Nanjo returned.`
+char_non: `{n}There was nothing strange in the guesthouse, and the children were safe.`
+char_non: `{n}They told the others that Rosa and Kyrie had stayed to watch over the place.`
+char_nan: `"Good morning.`
+char_nan: ` ...I hear that something strange has happened."`
+char_cla: `"Good morning, Doctor Nanjo.`
+char_cla: ` ...I apologize for waking you so early in the morning."`
+char_hid: `"What is it?`
+char_hid: ` Didn't you find a letter or somethin'?`
+char_hid: ` I was sure you would have found somethin' like that by now..."`
+char_eva: `"......You're right.`
+char_eva: ` I also believe that this is a massive joke or game of Father's...`
+char_eva: ` But if that was the case, there should be some letter telling us about that.`
+char_eva: ` Like the letter that was given to Maria‐chan."`
+char_rud: `"What if the announcement of the game actually was Maria‐chan's letter?`
+char_rud: ` The details of the game—‘try to solve the riddle of the epitaph’—have already been shown."`
+char_cla: `"Then, what could the five magic circles we found in the mansion mean?`
+char_cla: ` ...And the missing servants."`
+char_eva: `"......Natsuhi nee‐san.`
+char_eva: ` How many servants were there total today...?"`
+char_nat: `"Huh?`
+char_nat: ` .........Genji, Gohda,`
+char_nat: ` ......five of them, why?"`
+char_rud: `"......Five servants.`
+char_rud: ` And five magic circles.`
+char_rud: ` ......It may be a coincidence, but it worries me."`
+char_eva: `"...Nii‐san.`
+char_eva: ` Let's break a window.`
+char_eva: ` We should check and see what's inside."`
+char_cla: `"............We have no choice.`
+char_cla: ` Do it neatly."`
+char_non: `Krauss made his decision, and gave permission to smash a window.`
+char_non: `And they decided that the first room they would break into would be the parlor on the first floor, where the windows would be easiest to reach.`
+char_non: `They had hoped to peek in through the window,`
+char_non: ` but the curtains were drawn, so they couldn't see inside.`
+char_non: `Rudolf wandered around the garden, trying to find something that would be good for smashing the glass.`
+char_non: `Eventually, he found a rock bigger than a fist, and came back.`
+char_eva: `"You don't have to smash the whole thing.`
+char_eva: ` Just open it enough so that you can reach the lock."`
+char_rud: `"Don't get your hopes up, alright?"`
+char_non: `Rudolf raised the rock, and hit the glass with it several times.`
+char_non: `Before long, he succeeded in skillfully opening a hole big enough that he could unlock it from the outside.`
+char_non: `...Covering his hand with a handkerchief, he stuck his hand through that hole, and cautiously unlocked it.`
+char_rud: `"We should probably cover it with duct tape later.`
+char_rud: ` The rain'll get blown in."`
+char_non: `When he threw the window open, the wind and rain made the curtains dance around violently.`
+char_non: ` He swiped the curtain to the side.`
+char_non: `...They could see the parlor they knew well.`
+char_non: `They were a little relieved.`
+char_non: ` ......Because they had thought that maybe, the room would be filled with more bizarre magic circles,`
+char_non: ` or possibly the traces of some creepy ritual.`
+char_non: `In any event, they didn't want to hang around out in the rain,`
+char_non: ` so the six of them—Krauss, Natsuhi, Eva, Hideyoshi, Rudolf, and Nanjo—entered the parlor as a group.`
+char_nan: `"......It seems...that nothing in particular is out of the ordinary..."`
+char_cla: `".........mmh—"`
+char_nat: `"Wh‐what has happened, Shannon...?!"`
+char_eva: `"Wait, wait, are you alright?!`
+char_eva: ` What happened to you?!"`
+char_hid: `"Blood, blood!!`
+char_hid: ` D‐D‐Doctor Nanjo, take a look at this!!"`
+char_rud: `"Hey, Shannon‐chan!`
+char_rud: ` Are you okay?!`
+char_rud: ` Answer me!"`
+char_nan: `"Y‐you mustn't shake her...`
+char_nan: ` I will examine her condition now..."`
+char_non: `She had been in the shadow of a sofa, so they hadn't noticed her until they entered the room.`
+char_non: `Shannon was lying on the floor, her chest stained bright‐red with blood......`
+char_bea: `"He~~y,`
+char_bea: ` Battleeer, where are yoooou?`
+char_bea: ` Look, look, Shannon's corpse has turned up, see~~~?`
+char_bea: ` I won't bully you anymore, so come out."`
+char_bea: `"......Hmmmm?`
+char_bea: ` Oh, there you are.`
+char_bea: ` What are you doing, holding your head in a place like that?"`
+char_but: `".............................."`
+char_non: `Battler had his head pressed to the table, and was clutching it with his hands...`
+char_non: ` His pitiful figure made it plainly clear that he didn't want to see anything, didn't want to hear anything...`
+char_non: `Had he heard {f:5:Beatrice}'s sneering voice?`
+char_non: `...Could he not hear, or was he pretending that he couldn't hear?`
+char_non: ` In any event, it was clear that he had closed up his heart like a shell...`
+char_ron: `"Pu ku ku ku...`
+char_ron: ` ......I wonder if you have tormented him too much, Milady.`
+char_ron: ` After showing him that much and demanding a counterargument,`
+char_ron: ` I can understand why he wants to mope around."`
+char_bea: `"Hey, Battleerr.`
+char_bea: ` If you can't argue back, resign, would you?`
+char_bea: ` It's your turn.`
+char_bea: ` If you don't make some move or pass,`
+char_bea: ` or else give up, we won't get anywhere."`
+char_but: `"..............................et."`
+char_bea: `"......Huh?`
+char_bea: ` What's that?`
+char_bea: ` I can't hear you?"`
+char_but: `"I said BE QUIET!!`
+char_but: ` Aaaah, shut up shut uuuuuuuuuup!!`
+char_but: ` Witches? Magic?!`
+char_but: ` Can't you just do what you want, I don't believe, I don't believe any of it,`
+char_but: ` damn it damn it damn it damn it damn it!!"`
+char_but: `"Don't talk to me, don't show me anything, go away, go away, go the hell away!!`
+char_but: ` Get your goddamned annoying face AWAY FROM MEEE{-}E{-}E{-}E{-}E{-}E{-}E{-}E{-}E{-}E{-}EEEEEE!!!"`
+char_bea: `"........................!!!"`
+char_non: `{f:5:Beatrice} instinctively winced at Battler's sudden rage.`
+char_bea: `"......E‐even if you say that, um...`
+char_bea: ` If you don't finish your turn, then my turn won't come.`
+char_bea: ` I feel like saying, don't make me too bored—"`
+char_but: `"You think I give a crap, be quiet, SHUT UP!!`
+char_but: ` I don't give a damn about your game,`
+char_but: ` I can't take this bullshiiiiit!!`
+char_but: ` If your turn won't come until mine is finished, then you can just wait for all stinking eternity, can't you!!"`
+char_but: `"Aaaah, I don't care I don't care I don't get it!!`
+char_but: ` I won't accept witches or magic, I won't accept something that fucked up!!`
+char_but: ` Uuooooooooooohhh, I said DON'T TALK TO MEEEE{-}E{-}E{-}E{-}E{-}E{-}E{-}E{-}E{-}E{-}E{-}E{-}EEEEE!!!"`
+char_non: `......I don't know what's what anymore.`
+char_non: `{n}After being shown something that screwed up, how could I continue to resist...`
+char_non: `I wandered aimlessly through the rose garden.`
+char_non: `......It was raining and windy, but that didn't mean my body got wet.`
+char_non: ` ...There was just a feeling of isolation as I wandered amidst the wind and rain without an umbrella.`
+char_but: `"..................Maybe I...`
+char_but: `lost to her game a long time ago."`
+char_non: `...Actually, I wonder whether we hadn't reached a clear resolution in the previous game.`
+char_non: `After all, I had submitted to her for a time.`
+char_non: `{n}So the world had been tinted with witches and magic.`
+char_non: `......Right now, Rokkenjima is a different world, where witches stride around openly and fire off strange magic.`
+char_non: `...It isn't a matter of accepting it or denying it.`
+char_non: `Maybe I had mistakenly assumed that I was playing a game on an even footing with Beato.`
+char_non: `I had already been defeated in the last game, ...and this may just be the signing ceremony of my surrender.`
+char_non: `Just now, a mighty battle had unfolded in this rose garden.`
+char_non: `{n}I had seen it with my own eyes.`
+char_non: `I kicked the ground.`
+char_non: ` ......Obviously, the ground was hard.`
+char_non: `{n}And a puddle splashed.`
+char_non: `Several towers had split this ground, sprouting like high‐rise buildings.`
+char_non: `......The more I kicked this ground,`
+char_non: ` .........the more it felt like that really couldn't be possible.`
+char_non: `But, because of that, I couldn't explain it with anything other than magic anymore......`
+char_but: `"......I get the locked rooms with the key shut up inside,`
+char_but: ` they're probably just an extension of what you always see in detective novels.`
+char_but: ` ......But, ......that stuff, though...`
+char_but: ` All that big flashy stuff......`
+char_but: ` Damn iiiiit........."`
+char_non: `"...............It seems that my disciple has caused you much trouble."`
+char_but: `"...Huh?`
+char_but: ` .........It's you..."`
+char_non: `I was suddenly spoken to, so I turned around,`
+char_non: ` ...and in the rose garden arbor,`
+char_non: ` ......was the Predecessor {f:5:Beatrice}, who {f:5:Beatrice} had supposedly defeated a short while ago.`
+char_but: `".........I was sure you'd died.`
+char_but: ` So, you were alive."`
+char_non: `"No, I died.`
+char_non: ` ...Now, I am nothing more than a captured chess piece loitering outside the chessboard."`
+char_but: `"You're Beato's master, right?`
+char_but: ` So, in other words, you're a witch too."`
+char_non: `"......Yes, that is correct."`
+char_but: `"Tch.`
+char_but: ` So, in other words,`
+char_but: ` ......that means witches really do exist?`
+char_but: ` And I'm not the one who can defeat her.`
+char_but: ` That'd be you, since you can use awesome magic, wouldn't it?`
+char_but: ` ...I'm just useless now.`
+char_but: ` There's nothing I can do anymore..."`
+char_non: `"............Oh, my.`
+char_non: ` Have you submitted completely?"`
+char_but: `"What do you mean, submit?!`
+char_but: ` How the crap should I explain that?!`
+char_but: ` Towers sprouting and falling!!`
+char_but: ` Huge giants holding shields and throwing spears!"`
+char_but: `"Aaah, just remembering it makes me feel like I'm going insane, reasoning isn't worth a damn anymore, is it?!!`
+char_but: ` We've left the level of tricks and explanations with human culprits!!`
+char_but: ` Aaaaaaaaaaahh, shit shit shit shit!!"`
+char_non: `"Calm yourself.`
+char_non: ` ......I am nothing more than a piece on that child's game board.`
+char_non: ` After being removed from that board, I am no longer a being who can do anything."`
+char_non: `"But you are that child's opponent.`
+char_non: ` As long as you do not give up by yourself, you will always have the power to strike back at that child."`
+char_but: `"Shut up!`
+char_but: ` Weren't you also reciting strange spells and summoning towers and spears?!!"`
+char_but: `"What do you mean, strike back?!`
+char_but: ` Are you saying you'll teach me magic too, telling me to fight her in one of those massive magic battles?!!"`
+char_non: `"......If you wish,`
+char_non: ` I could teach you a bit about magic."`
+char_but: `"Oh, just what I wanted!`
+char_but: ` Please, give me some awesome magic to smash her chest in one blow...!!`
+char_but: ` Hah, don't screw with me!"`
+char_non: `"I hear that in Japanese magic, there is a ceremony to pray for rain.`
+char_non: ` Do you know of it?"`
+char_but: `"Rain ceremony?`
+char_but: ` That thing where you throw stuff into the fire and offer a dance?`
+char_but: ` ......That's not magic.`
+char_but: ` The fire causes a thermal, and as a result, rain clouds gather.`
+char_but: ` I'm pretty sure that's an accepted scientific phenomenon."`
+char_non: `"Oh?`
+char_non: ` ...I had believed that it was a form of eastern magic,`
+char_non: ` but it isn't magic?`
+char_non: ` I had believed that people offered sacred fire to the heavens, as well as a dance of respect,`
+char_non: ` so that your entreaty for rain would reach the hearts of the gods."`
+char_but: `"Maybe people did that long ago.`
+char_but: ` But most occult things like that have a scientific explanation."`
+char_non: `"Why do things burn?`
+char_non: ` Isn't that because phlogiston is contained in the material?"`
+char_but: `"......No, things burn because of an oxidation reaction.`
+char_but: ` Lavoisier abolished the phlogiston theory."`
+char_non: `"Why does heat transfer through objects?`
+char_non: ` Isn't that because caloric is contained in the material?"`
+char_but: `"......I'm pretty sure that was abolished by Joule.`
+char_but: ` Heat is energy, not a substance."`
+char_non: `"You have studied well.`
+char_non: ` Your knowledge is correct."`
+char_but: `"...It's just some random facts."`
+char_non: `"Phlogiston, caloric, and eventually ether and God's love.`
+char_non: ` ......All are powerless before a scientific explanation.`
+char_non: ` In the past, I was told that an apple falls from a tree...`
+char_non: `thanks to God's love, so that humans would be given food."`
+char_but: `"Even gravity was explained by God's love?`
+char_but: ` ...Well, that's probably a leftover from a period when religion rather than science was used to explain everything."`
+char_non: `"That is correct.`
+char_non: ` In the past, humans called the limits of their knowledge...`
+char_non: `...no, ignorance itself, "magic".`
+char_non: ` ...Just like the rain ceremony we were just talking about."`
+char_non: `"Did the people of ancient times...`
+char_non: `understand the science of fire giving rise to heat to cause a thermal which calls forth clouds?`
+char_non: ` Even without understanding, they at least knew of the result."`
+char_but: `"......That probably happened a lot.`
+char_but: ` The wisdom of ancestors.`
+char_but: ` Even without understanding the reason, through long experience, they knew that they would obtain that result.`
+char_but: ` ...Phenomena whose principles they didn't understand were probably the same as magic to them."`
+char_non: `Just like this person had just said, ancient people who didn't understand the principles had probably believed that,`
+char_non: ` through the rain ceremony, their wish had reached the heavens and made the rain fall.`
+char_non: `To them, that was certainly magic.`
+char_non: `{n}As long as they didn't understand thermals...`
+char_non: `"If you press a light switch, the light turns on.`
+char_non: ` ......Children do not know the scientific principles behind why the lightbulb lights up;`
+char_non: ` they press the switch knowing only the result.`
+char_non: ` If they can obtain a result without knowing the principles, isn't that "magic" to them?"`
+char_but: `"...............That's pretty interesting.`
+char_but: ` ...Well, logically, that's true.`
+char_but: ` ...For example, I don't have a clue why the Braun tubes in a TV show a picture."`
+char_but: `"However, I think it's completely normal for things to be displayed on the TV.`
+char_but: ` Even if I don't understand the principles behind Braun tubes, I at least know that "if I push the switch I can watch TV"."`
+char_but: `"...It's exactly the same as having a rain ceremony without understanding thermals.`
+char_but: ` ......In other words, if I don't know the principles, even TV is the same as "magic",`
+char_but: ` no, could you say it is magic?"`
+char_non: `"Do you know how Braun tubes are constructed?`
+char_non: ` Have you ever taken one apart and looked inside?"`
+char_but: `"......Nope.`
+char_but: ` I think I read about it in a book or something once, but it was complicated and I didn't have a clue.`
+char_but: ` I think that when electrons hit a fluorescent material, it creates luminescence or something like that..."`
+char_non: `"That book was a fake.`
+char_non: ` Actually, there are small people called gremlins shut up inside the Braun tubes,`
+char_non: ` and they do their job with magic."`
+char_but: `"Huh?!`
+char_but: ` That's stupid, there's no way...!"`
+char_non: `"How can you deny it if you have never looked inside a Braun tube?"`
+char_but: `"......I've never looked inside, but I can state with confidence that small people like that definitely don't exist!"`
+char_non: `"Since there is no Braun tube here, that is impossible to prove."`
+char_but: `"Y‐yeah, it is impossible to prove right this very moment,`
+char_but: ` ...but later I can take apart a TV somewhere and show you, and instantly win the argument!"`
+char_non: `"So, in other words,`
+char_non: ` my "magic theory", that gremlins are shut up inside the Braun tubes and display the picture with magic,`
+char_non: ` is impossible to disprove until we can verify the contents of a Braun tube, correct?"`
+char_but: `".........Hmm,`
+char_but: ` .........what the hell, one of those?`
+char_but: ` Are you trying to say it's a "Devil's Proof"?`
+char_but: ` That's your favorite trick, you witches."`
+char_non: `"The "Devil's Proof" is sophistry exploiting the impossibility of proving a negative fact.`
+char_non: ` However, it is different from what I am talking about with Braun tubes.`
+char_non: ` That could be resolved just by taking apart a single television."`
+char_but: `"......You're right.`
+char_but: ` It really isn't a "Devil's Proof"."`
+char_non: `"The scientific theory you propose, and the magical theory I propose.`
+char_non: ` ...One of those is the truth.`
+char_non: ` And which one it is can be ascertained as soon as you look inside the Braun tube.`
+char_non: ` However, until the instant that happens, we cannot deny each other's theories."`
+char_non: `"So, despite the fact that there is only one truth,`
+char_non: ` until the moment you look into the Braun tube, two conflicting truths can exist at the same time.`
+char_non: ` ......A bizarre space where two truths, of which only one is permitted to exist, may exist simultaneously."`
+char_non: `Is the cat in the box alive or dead?`
+char_non: `{n}If you open the box, you will know the answer.`
+char_non: ` You will know the truth.`
+char_non: `However, until you open the box, you can claim that the cat is alive, and you can also claim it is dead.`
+char_non: `Each of the two parties makes a claim that according to them is the "correct" truth,`
+char_non: ` and even though the two sides are conflicting, neither can win the argument as long as the box remains unopened.`
+char_non: `In other words, two truths can exist at the same time.`
+char_non: `Even though there can only be one cat in the box,`
+char_non: ` it is packed with a living cat and a dead cat, in a strange parallel world.`
+char_non: `That is what Rokkenjima is now.`
+char_non: `......This island is now a different world where a science theory and a magic theory exist at the same time.`
+char_non: `...To a resident of the world of science such as yourself,`
+char_non: ` at a glance, it may feel as though this island has been sucked into a world of magic.`
+char_non: `While that may be correct, it is not accurate.`
+char_non: `Strictly speaking, it has moved from the world of science, to the midway point between that world and the world of magic.`
+char_non: `So at a glance, it appears to you as though the world is tilted towards the magic side.`
+char_non: `......But actually, this island is now in a perfectly impartial position with relation to the two opposing worlds.`
+char_but: `"......I don't really get it...`
+char_but: ` Midway between reality and magic?`
+char_but: ` A perfectly impartial world?`
+char_but: ` How's that?`
+char_but: ` Hasn't everything been going really bad for me the whole time...?!"`
+char_non: `"Then perhaps you could think of it this way.`
+char_non: ` This is a trial.`
+char_non: ` Think of it as a court where you and {f:5:Beatrice} are laying out opposing claims.`
+char_non: ` We could describe it as a Braun tube trial."`
+char_non: `"That child claims that there are tiny people inside the Braun tubes.`
+char_non: ` And she explains about the lives of the tiny people, what they look like,`
+char_non: ` what type of magical power they have, on and on.`
+char_non: ` ......And you?"`
+char_but: `"......Well, I study in a library, and argue back by explaining how Braun tubes are constructed, I guess."`
+char_non: `"At that moment, both your claim and that child's claim exist in the court at the same time.`
+char_non: ` ......If you lend an ear to that child's claim,`
+char_non: ` you may hear it as though it were the truth. See it as though it were the truth.`
+char_non: ` {i:That is precisely what you were shown}."`
+char_but: `"..........................."`
+char_non: `"At this moment, on Rokkenjima, witches and magic certainly might exist as truth.`
+char_non: ` ...However, that world is an uncertain wavefunction, existing only until the moment that the cat's box is opened.`
+char_non: ` All states can be justified simultaneously.`
+char_non: ` However, there is one truth."`
+char_non: `"That is collapsed by observation,`
+char_non: ` and countless truths are weeded out to become one truth.`
+char_non: ` It is like when, in court,`
+char_non: ` the judge makes his judgment.`
+char_non: ` The two truths from the prosecutor's and the defense's claims...`
+char_non: `collapse by the judgment, and become one."`
+char_but: `".........So to say it in your words,`
+char_but: ` ......this island right now is the world right before looking into the Braun tube, right...?`
+char_but: ` Therefore, neither the science theory nor the magic theory can be denied.`
+char_but: ` ...And since they cannot be denied—"`
+char_non: `"Both can exist as truth.`
+char_non: ` That is why both witches and magic can exist.`
+char_non: ` ...However, at the same time, your opinion which denies them can also exist simultaneously as truth."`
+char_non: `".........It is a world where two conflicting things can exist at the same time.`
+char_non: ` And, it is a world where the conflicting truths cannot disprove each other.`
+char_non: ` .........Is it starting to make sense to you...?"`
+char_but: `"..................In other words...`
+char_but: `...no matter how much awesome magic Beato shows me...`
+char_but: `...that is only a claim from the "magic theory", and it doesn't disprove mine."`
+char_but: `"So, it's like, "no matter what kind of magic Beato shows me,`
+char_but: ` in this world, that cannot become proof that magic exists"."`
+char_non: `"That's right.`
+char_non: ` That child will probably even try to explain an apple falling from a tree with magic.`
+char_non: ` That child might shake her staff and pluck the apple with magic,`
+char_non: ` and {i:claim} that she dropped it to the earth."`
+char_non: `"However, that would be nothing more than another one of her claims.`
+char_non: ` None of her claims can block your opportunity to make a claim.`
+char_non: ` ......In that sense, this world is quite "impartial" to both sides."`
+char_but: `".........I...get it...`
+char_but: ` ......Still.`
+char_but: ` By that argument, even if I show a sound argument with my "science theory",`
+char_but: ` all it will do is collide head‐on with her "magic theory", and I can't win against her either.`
+char_but: ` Furthermore, there won't be any final judgment unless we peek into the Braun tube."`
+char_but: `".........Where is the Braun tube in this world?`
+char_but: ` ...It means there's no reason for us to argue.`
+char_but: ` ......Wouldn't it be alright if we just got along and peeked into the Braun tube?"`
+char_but: `"If there really is a tiny person in there, I suffer total defeat.`
+char_but: ` Otherwise, I win.`
+char_but: ` ......Why do we have to hold this debate without looking into the Braun tube?"`
+char_non: `"That itself is the "game" which that child has challenged you to.`
+char_non: ` Perhaps, instead of a court, I should use chess as an example.`
+char_non: ` Victory and loss is not determined by a judge.`
+char_non: ` You who are fighting will decide it yourselves."`
+char_but: `"......Can you win an argument with an opponent in a screwed‐up world where multiple truths can exist at the same time?"`
+char_non: `"But do you not realize, in point of fact, you {i:were} beaten in an argument, and are sitting here right now submitting...?"`
+char_but: `"...............Heh.`
+char_but: ` ...Heheheh."`
+char_non: `"That is all the advice I can give you now.`
+char_non: ` If you wish, I can occasionally give you advice."`
+char_but: `"......Sure.`
+char_but: ` Thanks, that really helps.`
+char_but: ` ......I'll avenge you."`
+char_non: `"Hoh‐hoh‐ho, thank you.`
+char_non: ` I am looking forward to it."`
+char_but: `"What's your name?"`
+char_non: `"...{f:5:Beatrice} used to be my name, but now that I have surrendered it, I do not have a name."`
+char_non: `".........So, I shall take a temporary name.`
+char_non: ` ......{f:5:Virgilius}.`
+char_non: ` ...No,`
+char_non: ` what about {f:5:Virgilia}?"`
+char_but: `"{f:5:Virgilia}.`
+char_but: ` Valkyria?`
+char_but: ` Wasn't that the name of a legendary goddess?"`
+char_wal: `"No.`
+char_wal: ` It means the one who is a guide to {f:5:Beatrice}.`
+char_wal: ` ......I will guide you to that child who waits at the summit of Mount Purgatory.`
+char_wal: ` It should be a fitting name for that kind of guide."`
+char_but: `"To think that I'd accept help from a witch when I'm trying to deny witches.`
+char_but: ` ......I see.`
+char_but: ` If this is a contradictory world where different claims can exist at the same time, that also works.`
+char_but: ` ...Ihihi, it's almost funny."`
+char_wal: `"I am borrowing that child's words, but you truly are like a phoenix.`
+char_wal: ` ......Your will to fight has already been revived."`
+char_wal: `"...Come, if your heart is prepared, return to that child,`
+char_wal: ` ......return to the chessboard that child is sitting at.`
+char_wal: ` ......I look forward to seeing how far you can fight my disciple."`
+char_but: `"Yeah, you just watch.`
+char_but: ` ............I won't listen to her babbling anymore.`
+char_but: ` I'll coolly fight to the end.`
+char_but: ` I definitely won't get provoked by her anymore."`
+char_wal: `"Then let us return.`
+char_wal: ` To the seat of the battle."`
+char_bea: `"...Oh, ......oooh, Battler...!`
+char_bea: ` Where did you hide yourself?`
+char_bea: ` *cackle*!`
+char_bea: ` I thought the sore loser wouldn't show himself again, you see?"`
+char_but: `"......Sorry to keep you waiting.`
+char_but: ` I've cooled my head a little."`
+char_bea: `"Aaand?`
+char_bea: ` Did you think of a response to that pleasant, thrilling, refreshing, highly acclaimed, wonderful fantasy battle between Master and meeeeeeee?`
+char_bea: ` Isn't that impossible to explain without fantasy?`
+char_bea: ` Hihhyahha{0}ha{0}ha{0}ha{0}ha{0}ha{0}ha{0}ha{0}ha{0}ha{0}hahaah?!"`
+char_ron: `"...Milady.`
+char_ron: ` You have only just promised to be kind and act refined, remember?"`
+char_bea: `"Ahhyahahahahaha, oops, my mistake.`
+char_bea: ` I just get in such a good mood when I see Battler's face, you see?`
+char_bea: ` C'mon c'mon c'mon, c'mon then Battler, that battle just now, how will you respond to it?`
+char_bea: ` Hmmmmmm?"`
+char_but: `".................................`
+char_but: ` ...Battle?`
+char_but: ` Did something happen?"`
+char_bea: `"......Whaat?"`
+char_but: `"Where in this rose garden.`
+char_but: ` Where are all those spears and towers that you grew?`
+char_but: ` Where have they all fallen to?`
+char_but: ` ............They're not here, are they?`
+char_but: ` ......In other words, this is what we see inside the Braun tube."`
+char_bea: `"......Inside the Braun tube, you say??`
+char_bea: ` *cackle*, what in the world are you talking about now...?"`
+char_but: `"In this very moment,`
+char_but: ` there is nothing at all in the rose garden.`
+char_but: ` ...Sure, towers may have been sprouting with magic a short while ago.`
+char_but: ` But that's only until we learn what's inside the Braun tube.`
+char_but: ` ......It is your interpretation that it was a magical battle, and that's nothing more than a claim.`
+char_but: ` And the fact that there's nothing at all here right now is the proof of that."`
+char_but: `"This is how I argue back about that witch's battle just now:`
+char_but: ` Right now, there isn't anything here, and that proves that nothing happened...!"`
+char_bea: `"..................`
+char_bea: ` ......Hahaha, hah‐hah‐hah‐hah‐ha!`
+char_bea: ` You know, obviously I can't make a huge mess right on the first twilight, and I do like that rose garden, you see?`
+char_bea: ` To prevent any damage, I fought inside a barrier.`
+char_bea: ` So it's only natural that it wouldn't have any influence on reality."`
+char_but: `"......That is your "claim"?`
+char_but: ` Well, I guess that works."`
+char_but: `"However!`
+char_but: ` My claim that, at this point in time, there is nothing in the rose garden,`
+char_but: ` and therefore there was no magic, has not been obstructed in any way!!"`
+char_bea: `"W‐wait, wait, can you deny my magic with that mess?!`
+char_bea: ` It is impossible to prove that magic "does not exist"!`
+char_bea: ` It's a "Devil's Proof"!!"`
+char_but: `"The truth is this garden at this very moment!`
+char_but: ` The instant you look inside, the tiny people inside the Braun tube will vanish.`
+char_but: ` And there are no traces of magic here at all!`
+char_but: ` So that battle between you witches {i:did not take place}!!"`
+char_bea: `"Wh‐`
+char_bea: `......what the,`
+char_bea: ` th‐that counter......?!`
+char_bea: ` That power,`
+char_bea: ` ...c‐could it be...?!"`
+char_ron: `"...Have you forgotten, Milady?`
+char_ron: ` It is the Multiplanar World Collapsation Technique.`
+char_ron: ` The power of a Finite Witch, which is the pair to the power of an Endless Witch.`
+char_ron: ` Only an Endless Witch would be able to understand it, and it causes the strongest effect for an Endless Witch."`
+char_bea: `"Sch‐‘Schrödinger's cat box’?!`
+char_bea: ` .........Th‐......that old hag of a witch...what an uncalled‐for hint!!"`
+char_but: `"We've lost time.`
+char_but: ` With the five servants and Grandfather, there are six corpses!`
+char_but: ` Let me check the scene.`
+char_but: ` I've been trudging along wasting time.`
+char_but: ` From now on, I'll speed things up, okay?"`
+char_but: `"Take a seat, {f:5:Beatrice}!!`
+char_but: ` It's finally the first twilight, isn't it? Let's start the real thing.`
+char_but: ` Show me what you've got!!!"`

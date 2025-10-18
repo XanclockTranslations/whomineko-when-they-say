@@ -1,0 +1,811 @@
+char_cla: `".........Tr‐...true, it isn't unthinkable...`
+char_cla: ` The servants are the most suspicious..."`
+char_eri: `"It isn't as though we have any physical evidence, so we can't tie them up and throw them in a closet.`
+char_eri: ` So, we need to make sure that they are always within sight of those with guns, and that we keep an eye on them all the time."`
+char_rud: `"Aniki, we should also gather the master keys.`
+char_rud: ` ......Only the servants could have created those locked rooms.`
+char_rud: ` They must have done something with the chain locks using some tool or setup that only the servants know about."`
+char_cla: `"......They have all served us for a long time.`
+char_cla: ` I can hardly imagine that they would commit murder..."`
+char_eri: `"I hear that Kinzo‐san is not long for this world, and the inheritance problem is still very shaky.`
+char_eri: ` ......In addition, there's that story about ten tons of gold being hidden somewhere.`
+char_eri: ` A possible payoff like that might be enough to convince certain people to commit a crime..."`
+char_rud: `"I don't want to think about it, .........but there's also a chance that the old bastard is running some bizarre occult ritual.`
+char_rud: ` The servants of the One Wing are his pawns, and they might have been the ones to carry out the murders.`
+char_rud: ` ......How about Dad, anyway?`
+char_rud: ` Have you been able to contact him yet?"`
+char_cla: `"N‐no...`
+char_cla: ` We aren't getting through on the extension line either...`
+char_cla: ` The culprits might have broken it.`
+char_cla: ` ......And Father does often leave the receiver off the hook when he's in a bad mood...`
+char_cla: ` When I knocked, umm......I only received a grumpy reply...`
+char_cla: ` ......We can't contact him, but that study is well protected.`
+char_cla: ` It's probably safer there, so it might be best to have him stay there..."`
+char_non: `Flustered, Krauss tried to explain away Kinzo's silence.`
+char_non: `Battler, the Game Master, hadn't made "Kinzo's death" a major theme for this game, so the conversation didn't go any further.`
+char_non: `They stopped talking about Kinzo without Rudolf thinking anything was particularly suspicious.`
+char_rud: `"Anyway, we can't let the servants out of our sights.`
+char_rud: ` I just had a talk with Hideyoshi nii‐san about this, and we decided to split everyone into two rooms upstairs and hole up in there."`
+char_cla: `"Why two rooms?`
+char_cla: ` Just one would be more secure."`
+char_eri: `"Well, if we tried to stick 12 people in one room, we'd suffocate.`
+char_eri: ` Plus, I want to isolate the people we need to keep the closest eye on.`
+char_eri: ` There's Genji‐san, the head of the servants. There's Gohda‐san, who is larger than any of us.`
+char_eri: ` And though he may be young, Kanon‐san is male too."`
+char_rud: `"I think we need to pay those three special attention, Aniki.`
+char_rud: ` This way, we can isolate that group, and you and I can keep a close eye on them.`
+char_rud: ` With two guns, the pair of us could cooperate on a moment's notice.`
+char_rud: ` If they make even a single suspicious move......boom!"`
+char_cla: `"......Alright. Let's do that.`
+char_cla: ` ......But Rudolf.`
+char_cla: ` We can't be certain that they are the culprits.`
+char_cla: ` Don't be too pushy."`
+char_rud: `"..................You're telling me not to be pushy?`
+char_rud: ` ...We must be getting old."`
+char_eri: `"Right now, Hideyoshi‐san is upstairs, dividing everyone into the two rooms.`
+char_eri: ` The ones being isolated, we'll collect into the cousins' room, and the others will go into the next room over."`
+char_rud: `"Ah, right, Aniki, what about Jessica‐chan...?`
+char_rud: ` She insists on being in the same room as you."`
+char_cla: `".........Jessica..."`
+char_eri: `"We were planning to have five people in the cousins' room and seven in the adjacent room.`
+char_eri: ` If Jessica‐san wants to go to the cousins' room, it'll be split clean down the middle.`
+char_eri: ` If this was a wolves and sheep puzzle, there are currently three servant wolves and you two sheep in that room.`
+char_eri: ` I think adding in Jessica‐san would be a good idea to balance things out."`
+char_non: `For a while, Krauss crossed his arms and thought.`
+char_non: `The cousins' room would surely be more dangerous, so he wanted his daughter to go into the next room over.`
+char_non: `......However, in an emergency situation like this, he also wanted to keep his daughter where he could see her.`
+char_rud: `"Let's let her stay with us.`
+char_rud: ` ......We might need her there to make sure we remain good dads and uncles."`
+char_cla: `".........Yes.`
+char_cla: ` I am keeping up a pretense of rationality right now.`
+char_cla: ` ......But I can't guarantee that my sadness at losing my wife won't change to anger..."`
+char_non: `Even without any physical evidence, the servants were certainly the most suspicious.`
+char_non: `During the long haul ahead of these two men, their weariness and anger and sadness...`
+char_non: `...could make them lose their reason and act out in anger...`
+char_non: `After thinking deeply, Krauss decided to accept Jessica's request,`
+char_non: ` in part to prevent this from happening...`
+char_eri: `"......I think that's a good idea.`
+char_eri: ` I'm in favor."`
+char_rud: `"I agree.`
+char_rud: ` ......It's enough that only Rosa and I lose children..."`
+char_cla: `".........Rudolf......"`
+char_non: `In this way,`
+char_non: ` all of the survivors excepting Kinzo split into two groups and holed up in two rooms on the guesthouse's second floor.`
+char_non: `One group was in the cousins' room.`
+char_non: `{n}Krauss, Rudolf, Jessica, Genji, Kanon, Gohda.`
+char_non: `{n}Six people.`
+char_non: `One group was in the next room over.`
+char_non: `{n}Hideyoshi, George, Shannon, Kumasawa, Nanjo, Erika.`
+char_non: `{n}Six people here too.`
+char_non: `Perhaps as the result of the killer's doing, the external phone line had been cut off,`
+char_non: ` and they would have to wait for the ferryboat coming the next day before they could contact the police.`
+char_non: `However, the weather report had said that the sea would be stormy throughout the next day because of the typhoon.`
+char_non: `......When that happens, the ferryboat takes the day off.`
+char_non: `{n}So, it would probably be two days before the boat came.`
+char_non: `In other words, they were going to have to spend a full two nights holed up in here...`
+char_non: `While Erika and the others held their planning meeting in the lounge, food and blankets had been brought in to prepare for the long road ahead.`
+char_non: `The sudden tragedy had everyone on edge, but it was already well after {nobr:2 a.m}.`
+char_non: `If they really suspected the servants, then the observers couldn't afford to fall asleep at the same time.`
+char_non: `Either Krauss or Rudolf should probably take a nap right away...`
+char_but: `"......Not bad.`
+char_but: ` Even without the detective's authority, you've managed to control things very skillfully."`
+char_eri: `"A man who's lost his cool is no different from an agitated dog.`
+char_eri: ` If you treat them properly, it's easy to control them."`
+char_non: `One of the benefits of the detective's authority was being able to take charge of the situation.`
+char_non: `This ability was the reason that Erika had been able to order a large number of adults around at will,`
+char_non: ` in spite of being both an uninvited guest and a young girl.`
+char_non: `However, she didn't have that power this time.`
+char_non: `......So, Erika had taken charge by making good use of her natural conversation skills and techniques for controlling men...`
+char_but: `"The detective's authority is the same as magic.`
+char_but: ` ......It can't do what you can't do.`
+char_but: ` So, Erika's authority was only recognized because she already had that much talent."`
+char_bea: `".........Magic is not something that is given to lazy or powerless humans."`
+char_but: `"Right.`
+char_but: ` On the contrary, people who can hide their great efforts are the ones we call witches."`
+char_non: `The absolute nature of the detective's authority could even act as magic.`
+char_non: `However, it didn't seem as though Erika had done nothing to earn that convenient power.`
+char_non: `......I probably need to accept it.`
+char_non: `Even when she isn't given any special powers by the witch she serves,`
+char_non: ` ......she's very competent on her own.`
+char_but: `"But Erika, why did you split them into two rooms?`
+char_but: ` I was thinking you were going to gather everyone into one room."`
+char_eri: `"......I would have if I had the detective's authority.`
+char_eri: ` This is a move to preserve my right to investigate at will."`
+char_but: `"Ah, ......so that's it.`
+char_but: ` ...I see. Not bad."`
+char_non: `Since Erika was being "protected" as a guest, it was hard for her to move about freely.`
+char_non: `In truth, she wanted to take some time to reinvestigate the crime scenes at her leisure,`
+char_non: ` without being interrupted by anyone.`
+char_non: `She had already inspected the scenes once as she ran through the mansion, but that probably wasn't perfect.`
+char_non: `However, they wouldn't have let a guest into the crime scenes, so that had been her only option back then.`
+char_non: `......She wanted some time to herself and freedom to investigate more,`
+char_non: ` in part so that she could check the locked rooms and causes of death more closely.`
+char_bea: `"......How is that related to splitting everyone into two rooms and having them stay there...?"`
+char_but: `"That's where her silver tongue will come into play.`
+char_but: ` Watch."`
+char_eri: `"Yes. That's the only reason I split them into two rooms."`
+char_non: `The cousins' room was filled with a quiet tension.`
+char_non: `This room had six people.`
+char_non: `Krauss, Jessica, and Rudolf.`
+char_non: `......And then the most suspicious ones, the male servants Genji, Kanon, and Gohda, who had been forced to hole up in here.`
+char_non: `Jessica leaned against Krauss's shoulder, wrapped up in a blanket.`
+char_non: `She was drowsy, but apparently couldn't get to sleep.`
+char_non: `It was no surprise.`
+char_non: ` In this bizarre situation, it would probably take a lot longer before she could accept her mother's death...`
+char_non: `......Kanon thought that this was the sort of time he should stay by Jessica's side,`
+char_non: ` but that looked like it would be hard to do in front of Rudolf's intimidating glare.`
+char_non: `Rudolf stayed completely silent,`
+char_non: ` but his inner emotions showed clearly in his eyes.`
+char_non: `So, without even asking,`
+char_non: ` Genji, Kanon, and Gohda all understood that they were under suspicion.`
+char_non: `Sometimes, Gohda would ask if he could help in an attempt to correct this misunderstanding,`
+char_non: ` but that seemed to have the opposite effect.`
+char_non: `The only good option available to him...`
+char_non: `...was to stay quiet so that he didn't aggravate Rudolf...and sit still at the end of the sofa...`
+char_non: `In the next room over, there were also six people: Erika, Hideyoshi, George, Shannon, Nanjo, and Kumasawa.`
+char_non: `The format of the room and the suffocating atmosphere were the same as the cousins' room,`
+char_non: ` ......but even so, it was relatively calm there.`
+char_non: `George sat holding Shannon, who was hanging her head despondently the whole time.`
+char_non: `Kumasawa and Nanjo sat nervously as they listened to Hideyoshi explain the situation...`
+char_hid: `"We don't know how many enemies there are...`
+char_hid: ` ......However, we've got a gun right here.`
+char_hid: ` And of course, I've shot one before!`
+char_hid: ` I'm not talkin' about the Hawaii Shooting Center here!`
+char_hid: ` It's been long enough that I can confess, but I once defiantly fired off one of them occupyin' forces pistols...!`
+char_hid: ` You see, back then, the black market was controlled by foreign gangsters—"`
+char_non: `He probably wanted to make everyone feel secure by convincing them that he could be relied upon.`
+char_non: `Hideyoshi went into one of his old stories that everyone had heard many times, and that had gotten more extravagant each time they heard it.`
+char_non: `It didn't make them any more confident in Hideyoshi's abilities,`
+char_non: ` ......but it did seem to calm things down a little by bringing in a sense of normality.`
+char_kum: `"......Why has a crime like this happened...?`
+char_kum: ` I hope the boat can come tomorrow..."`
+char_nan: `"That seems unlikely...`
+char_nan: ` ......It looks as though we'll be staying here for two nights.`
+char_nan: ` ......Now is a good time to get some sleep..."`
+char_geo: `"Haha...`
+char_geo: ` I don't have the nerves to sleep soundly in a situation like this..."`
+char_sha: `"......George‐sama......"`
+char_non: `The pain and anger of losing his mother quietly tormented George.`
+char_non: ` ......Sleepiness probably wouldn't be coming to him for a while...`
+char_non: `Erika suddenly clapped her hands as though she had just remembered something,`
+char_non: ` then whispered in Hideyoshi's ear, interrupting the old story, which he had grown very engrossed with.`
+char_eri: `".........Sorry, I'm just going to the cousins' room for a second.`
+char_eri: ` ......There's one little thing I just need to check on with the servants over there."`
+char_hid: `"Can't you use the phone?`
+char_hid: ` You just need to dial the room number."`
+char_eri: `"Oh, have you forgotten?`
+char_eri: ` It seems the culprit has broken the telephone lines."`
+char_hid: `"What's this? Are you sayin'...`
+char_hid: `...you've found some kind of contradiction in their statements?"`
+char_non: `Erika had created a strong impression with her detective‐like behavior up to this point.`
+char_non: ` So, Hideyoshi immediately assumed that this was something vital to do with the crime.`
+char_eri: `"It'll be easy to check, ......but it might open up a much larger seam.`
+char_eri: ` ......I'll be quick about it.`
+char_eri: ` Please don't let anyone leave this room."`
+char_hid: `"Even if you're only goin' next door, it's dangerous to go alone.`
+char_hid: ` You sure you don't want to take someone with you?"`
+char_eri: `"We cannot fully trust the servants or Nanjo‐san.`
+char_eri: ` ......You're in charge of this room,`
+char_eri: ` and George‐san is needed to support you.`
+char_eri: ` We cannot spare anyone.`
+char_eri: ` ......Don't worry, the detective never gets attacked."`
+char_non: `Erika had already worked hard to look like a sharp, clearheaded person.`
+char_non: `Hideyoshi relaxed and agreed, thinking that it was just next door and wouldn't be a problem...`
+char_eri: `"If I'm not back in about an hour—no......`
+char_eri: ` It's probably better if I don't wander around too much.`
+char_eri: ` I'll stay over there until morning.`
+char_eri: ` It'll be better if I wait until it gets light before I come back."`
+char_hid: `"Good thinkin'.`
+char_hid: ` Be careful."`
+char_eri: `"*giggle*`
+char_eri: ` I'm just going to the next room over.`
+char_eri: ` ......Take good care of this room.`
+char_eri: ` ......Please don't let anyone go outside.`
+char_eri: ` ......We've already brought everything we might need into this room to ensure there's no reason to leave."`
+char_non: `Food, drinks, blankets, medicine, towels, tissue paper, everything.`
+char_non: `The women also had their cosmetic pouches.`
+char_non: `They could spend 48 hours without being short of any physical goods.`
+char_hid: `"I know.`
+char_hid: ` ......We aren't just here to protect ourselves.`
+char_hid: ` ......We're also on the lookout for the culprit, if he's among us.`
+char_hid: ` I understand..."`
+char_eri: `"......<Good>.`
+char_eri: ` Goodbye, then."`
+char_geo: `"Where are you going, Erika‐chan...?`
+char_geo: ` We promised that no one would go outside."`
+char_hid: `"Oh, Erika‐chan remembered somethin' important she had to do.`
+char_hid: ` She's goin' next door.`
+char_hid: ` Don't worry, she'll be fine."`
+char_non: `Hideyoshi suspected that Shannon might be one of the culprits.`
+char_non: `Since he also knew that Shannon and George had a special relationship,`
+char_non: ` he apparently thought it would be prudent to mislead George about Erika's actions and motives.`
+char_non: `Hideyoshi slowly opened the door and checked both ways down the corridor, his gun raised.`
+char_hid: `"It's okay.`
+char_hid: ` No one's there."`
+char_eri: `"That's far enough.`
+char_eri: ` For all we know, Shannon‐san might take George‐san hostage as soon as you leave the room, right...?`
+char_eri: ` It's careless even just to show your back to them, as you're doing now."`
+char_hid: `"Y‐you're right...`
+char_hid: ` Then be careful.`
+char_hid: ` ......Tell me all about it later."`
+char_eri: `"Sure.`
+char_eri: ` Bye then."`
+char_non: `Pushing Hideyoshi back inside, Erika closed the door.`
+char_non: `She then waited for the sound of the lock on the inside......and her smiling eyes slowly opened wide.`
+char_non: `Her expression had become ruthless and intelligent.`
+char_non: `With this, Erika had managed to obtain a period of several hours...`
+char_non: `...during which all of the suspects were sealed up and she alone was free...`
+char_eri: `"Fiiiiinally, I can investigate to my heart's content...!`
+char_eri: ` But first!`
+char_eri: ` Ushiromiya Battler!!"`
+char_but: `"Don't use my full name."`
+char_eri: `"Allow me to confirm the location of all characters present.`
+char_eri: ` Repetition requested!"`
+char_but: `"Of course, I'm not obliged to respond, remember...?"`
+char_eri: `"If you don't, I'll just say that someone sneaked out while I wasn't looking, and that this person was responsible for the bizarre crimes that are sure to follow.`
+char_eri: ` If you want to show me an impossible murder, you should first confirm their locations...!"`
+char_but: `".........Sure, why not.`
+char_but: ` I'll listen, at least. Let me hear it."`
+char_eri: `"From now on, let's refer to the room next to the cousins' room as "the next room over".`
+char_eri: ` Does that work for you?!"`
+char_but: `"That's easy to remember. Got it.`
+char_but: ` ......And?"`
+char_eri: `"When I check the characters' locations as I am about to, I am not concerned with whether they are alive or dead.`
+char_eri: ` Think of it as the location of their body.`
+char_eri: ` And of course, I'm referring to the current point in time.`
+char_eri: ` Here we go."`
+char_eri: `"‘The six first twilight victims are located at the places where they were discovered.`
+char_eri: ` Natsuhi is in her room, Eva is in the VIP room, Kyrie is in Krauss's study, Rosa and Maria are in the parlor, and you are in the guest room!’"`
+char_but: `"........................"`
+char_eri: `"Don't tell me you're already going to decline?!"`
+char_but: `".......Don't worry.`
+char_but: ` {p:1:I acknowledge it}."`
+char_non: `First off, it was acknowledged that the victims' locations were the same as the rooms that had been shown by the witch side's illusion.`
+char_eri: `"<Good>.`
+char_eri: ` I'll continue.`
+char_eri: ` "Hideyoshi, George, Shannon, Kumasawa, and Nanjo are in the next room over!""`
+char_but: `"{p:1:Acknowledged}."`
+char_non: `The people in the room Erika had just left had been specified.`
+char_non: `It was the role of the {y:0:Human}{n:0:human} side to check every one of these seemingly obvious little details.`
+char_eri: `"<Good>.`
+char_eri: ` I'll continue.`
+char_eri: ` "Everyone else is in the cousins' room!""`
+char_non: `The word "everyone" drew a slight reaction from Battler.`
+char_non: `......The intuition he had built up from all of his previous games told him not to answer this one instantly...`
+char_but: `"......I decline.`
+char_but: ` Acknowledging that would mean that Kinzo's body would also have to be in the cousins' room."`
+char_eri: `"Ah, pardon me.`
+char_eri: ` It has already been shown that Kinzo no longer exists, so please remove him from the word "everyone"."`
+char_but: `".........Why are you using the word "everyone" for the cousins' room alone...?`
+char_but: ` You could just mention the names of Krauss and the other five individually,`
+char_but: ` ......so why are you being so vague?"`
+char_eri: `"It'd just be too much of a pain to read out all of their names.`
+char_eri: ` .........Or is there something wrong?`
+char_eri: ` Does using the word "everyone" create a problem with some trick of yours...?"`
+char_but: `"................................."`
+char_non: `If Battler had been told to repeat "Krauss, Rudolf, Jessica, Genji, Gohda, and Kanon are in the cousins' room",`
+char_non: ` he would probably have responded with the red without thinking too much about it.`
+char_non: `Yes—normally, Erika would have mentioned the name of each person inside and had him repeat it precisely.`
+char_non: `Battler hesitated to repeat, feeling some kind of unease because of the use of the word "everyone"...`
+char_eri: `"Excluding Kinzo and me, there are 17 people on this island.`
+char_eri: ` Six were killed and are lying in the mansion, and five are in the next room over.`
+char_eri: ` Which means the remaining six are in the cousins' room.`
+char_eri: ` This would be the normal way of thinking of things."`
+char_eri: `".........However!`
+char_eri: ` It is extremely dangerous to assume that because there are 17 people on the island, if we subtract six, then five, then six again, that means we're left with zero humans whose location has not been checked.`
+char_eri: ` I'm pretty sure that this sort of trick involving names and numbers of people caused you a lot of trouble with Nanjo's murder in the third game."`
+char_but: `"............Good point.`
+char_but: ` ......That trick worked because the 18 names given didn't match up with the 18 people who actually existed,`
+char_but: ` leaving room to add in an unknown person."`
+char_eri: `"Exactly.`
+char_eri: ` And so, I can't feel secure just by checking their locations by name.`
+char_eri: ` ......That's why I used the word "everyone".`
+char_eri: ` That word can prevent you from using a new trick that I haven't even thought of."`
+char_but: `"........................I see.`
+char_but: ` ......Pretty crafty of you..."`
+char_non: `If Battler was planning a new trick like the one used for the murder of Nanjo in the third game,`
+char_non: ` where the names and number of people would be used to create false alibis...`
+char_non: `...then even naming off all 17 people and checking their positions left a trace of uncertainty behind.`
+char_non: `And if he skillfully managed to slip somebody past the names and numbers of people...`
+char_eri: `"For example,`
+char_eri: ` let's say that an unknown assassin X is hiding on this island.`
+char_eri: ` ......Let's call him Purupurupiko‐Man."`
+char_but: `"......I see.`
+char_but: ` Even if you list everyone's names and check their locations, this Purupurupiko‐Man guy would fall outside the net."`
+char_eri: `"Precisely.`
+char_eri: ` Even hearing "there are only 17 people on this island, and here are the locations of 17 people"...`
+char_eri: `is insufficient.`
+char_eri: ` There's already a precedent for this."`
+char_bea: `".........However, the word "everyone" is just too broad.`
+char_bea: ` Can't you word it a little differently...?"`
+char_but: `"......No, ...if we run away from the word "everyone" here,`
+char_but: ` there's a chance that Erika will be able to use that as a basis for making Purupurupiko‐Man the culprit for everything.`
+char_but: ` ......In my old fights with you, I also nailed several riddles with no basis other than the unknown person X."`
+char_eri: `"The word "everyone" carries heavy significance.`
+char_eri: ` ......Make sure you think ve~ry carefully first."`
+char_non: `Erika wore a full but evil smile, confident that she had made a powerful move.`
+char_non: `......Players on the witch side must eradicate all possibilities that would be possible for humans.`
+char_non: `If I don't crush any chances for this ridiculously‐named Purupurupiko‐Man right now,`
+char_non: ` ......he'll be used to explain everything the witch does.`
+char_non: `That was a move I liked to use in my old games with Beato.`
+char_non: `Back at the very beginning of the fight, my counterattacks were all based on an unknown 19th person X.`
+char_non: `Because of that, it had been necessary for Beato to restrict the number of people on the island and eliminate any unknown person hiding somewhere.`
+char_non: `......In that case, this time is the same.`
+char_non: `So, just like Beato did, I need to get rid of any leeway in which that X can exist.`
+char_non: `The number of people on the island has already been declared, but since she's suspecting tricks involving the names and number of people,`
+char_non: ` saying the same thing again won't satisfy her.`
+char_non: `............In that case, I have no choice but to respond to her repetition request and use the word "everyone".`
+char_non: `That word has a disturbing ring to it...`
+char_non: `...and though I haven't figured it out yet, ......it feels like there's some kind of demonic killer move hidden within it...`
+char_non: `Damn. After insulting Beato so much and saying that the witch side had a huge advantage,`
+char_non: ` ......I'm feeling this much pressure from just a single repetition request...`
+char_bea: `"......<Destruction>, right?"`
+char_but: `"You mean the chess term?"`
+char_bea: `"Yes.`
+char_bea: ` ......It's a technique of putting pressure on an enemy piece, forcing it to move and making them weaken their own position."`
+char_eri: `"......I'm threatening you with the broad and powerful piece called "everyone", pressuring you to move.`
+char_eri: ` ......With this, you will be able to perfectly guarantee the alibis for all of the survivors,`
+char_eri: ` and it'll probably make it possible for you to trap me in the later impossible crimes.`
+char_eri: ` ......What are you so afraid of? Shouldn't this be a powerful move for you?"`
+char_but: `"But it's a move that you're pressuring me to make.`
+char_but: ` ......You're trying to make me weaken my own position in some way."`
+char_bea: `"No matter how good a move seems, it is a bad move when it is what the opponent wants...`
+char_bea: ` ......However, it will be hard to avoid the word "everyone" here......"`
+char_non: `The red truth can cut the weak reasoning of the {y:0:Human}{n:0:human} side apart over and over.`
+char_non: `......In the past, I feared its ruthlessness.`
+char_non: `However, I quickly learned that it could be used as a basis for a counterattack.`
+char_but: `"......The red truth is a secret weapon, a treasured sword.`
+char_but: ` ......Now I'm painfully aware of how Beato felt."`
+char_non: `It can kill with ease, ...but it's not something to be used with abandon.`
+char_non: `Using it carelessly can corner the witch side instead......`
+char_eri: `"......What will you do?`
+char_eri: ` You can defer the decision if you want?"`
+char_but: `"No, .........`
+char_but: ` .....................`
+char_but: ` ......Okay, I acknowledge it.`
+char_but: ` {p:1:I acknowledge that everyone else is in the cousins' room}."`
+char_eri: `"<Good>!`
+char_eri: ` Thank you very much, Battler‐san.`
+char_eri: ` What a beautiful, decisive move.`
+char_eri: ` ......Oh, I'm in trouble.`
+char_eri: ` If a letter from the witch were to appear in this situation, why, whomever could I suspect?"`
+char_non: `She said she was in trouble, but her face didn't look troubled at all.`
+char_non: `......On the contrary, she looked as though she had just succeeded in making a very important foundational move.`
+char_non: `In the witch's game, even a single mistaken move is fatal......`
+char_non: `In both chess and shogi, you can't take back a move once you've made it.`
+char_non: `......That last exchange had left a bad aftertaste, as though flesh had been torn and bones broken......`
+char_but: `"That should be enough of confirming everyone's position.`
+char_but: ` ......Shall we continue the game?"`
+char_eri: `"Yes, we shall.`
+char_eri: ` Dlanooooooooooor!!"`
+char_dla: `"Yes, Lady {f:5:Erika}."`
+char_eri: `"Let's get started right away.`
+char_eri: ` Let's use the privilege our merciful Game Master has given us...!"`
+char_dla: `"Yes, {f:5:understood}.`
+char_dla: ` ......Gertrude, Cornelia.`
+char_dla: ` We will use two rooms' worth of the three sets of seals we were {f:5:given}...!"`
+char_ger: `"For your attention—"`
+char_cor: `"We hear and obey...!"`
+char_eri: `"Seal the cousins' room and the next room over.`
+char_eri: ` This means that everyone other than the victims has been sealed.`
+char_eri: ` No matter what happens after this, the humans within the seals won't be a problem!"`
+char_dla: `"By the seals on the doors and windows,`
+char_dla: ` {p:1:the complete sealing of both the cousins' room and the next room over has been {f:5:guaranteed}}."`
+char_non: `For just an instant, that red longsword had returned to Dlanor's hand.`
+char_non: `She had been given permission to draw it,`
+char_non: ` thanks to the red truth that she had finally gained.`
+char_non: `......When the fight concerned these two sealed rooms from now on,`
+char_non: ` Dlanor would be able to use that merciless blade, the Red Key...`
+char_non: `This overwhelming power could slice even the Game Master in half.`
+char_non: `For a while, Erika and Dlanor grinned at each other,`
+char_non: ` entranced by the ruthless red light that was burned into their eyes...`
+char_cor: `"......Senior Aide,`
+char_cor: ` allow me to ask a question."`
+char_ger: `"What is it......?"`
+char_cor: `"It is my understanding that the players on the human side are to interpret the problems posed by the witch as the work of humans."`
+char_ger: `"......You are not mistaken."`
+char_cor: `"Then why are Lady {f:5:Erika} and Supervisor Dlanor...`
+char_cor: `fighting to lower the number of "humans who can commit crimes"...?"`
+char_non: `......Cornelia's question was very simple.`
+char_non: `Those two had made this move boldly and treated it like a powerful one,`
+char_non: ` so it almost made it seem as though this move would greatly damage the witch.`
+char_non: `However, if you thought about it, ......Erika was just strangling her own neck...`
+char_cor: `"We still do not know what sort of crime will occur in the future.`
+char_cor: ` Would it not be more advantageous to the {y:0:Human}{n:0:human}s if there are more people whose locations are not specified...?"`
+char_ger: `".........Be advised that now is not yet the time.........for the Lady or the Commander to reveal their thoughts."`
+char_cor: `"I apologize for my idle chatter...`
+char_cor: ` ....................."`
+char_non: `Cornelia looked like she wasn't satisfied.`
+char_non: `In the previous game, in order to help Kinzo escape from his study, Battler had made desperate efforts to crush his locked room using a variety of methods.`
+char_non: `As a result, Kinzo had escaped into the darkness of the night,`
+char_non: ` and it had later been possible to treat him like an elusive phantom.`
+char_non: `In other words, locked rooms were advantageous to witches and disadvantageous to humans.`
+char_non: `{n}Witches proposed locked rooms, and humans destroyed and denied them.`
+char_non: `{n}Those were meant to be the standard tactics of this game...`
+char_non: `And yet, Erika had created locked rooms herself......and sealed a full 11 people in them.`
+char_non: `In other words, ......this was the same as abandoning the right to use those 11 people...`
+char_non: `...when explaining all of the later tricks......`
+char_non: `Battler had also once sought to confirm the locations of certain people,`
+char_non: ` but that had been to check whether certain pieces existed with which he could break locked rooms, a completely different situation.`
+char_non: `...Why had Erika taken these 11 people, who were supposed to be her pieces, ......and sealed them in a locked room?`
+char_non: `Cornelia didn't have enough experience out on the field to understand this move,`
+char_non: ` which only looked as though they were trapping themselves......`
+char_bea: `"A disturbing move...`
+char_bea: ` What on Earth is Erika planning..."`
+char_but: `"......It isn't necessarily an attack.`
+char_but: ` It's the same in chess and shogi.`
+char_but: ` Strengthening the guard around your king is a valid strategy."`
+char_bea: `"In other words, the seals around those two rooms aren't an attack...but a defense...?"`
+char_but: `"That seems likely.`
+char_but: ` Thanks to that, it's hard to lay a hand on the survivors.`
+char_but: ` It'll be tough to carry out the second twilight."`
+char_bea: `"......Ah, ...I see.`
+char_bea: ` The witch side has an advantage when more mysteries are presented......"`
+char_but: `"Yeah.`
+char_but: ` After all, if even one mystery goes unsolved, the witch wins.`
+char_but: ` Each new locked room we present increases our advantage."`
+char_non: `The mysteries that the witch side sets up are equivalent to attacks.`
+char_non: `The human side must perfectly intercept all of those.`
+char_non: `......It's almost like a penalty kick face‐off where conceding a single goal means defeat.`
+char_non: `So, the witch side wants to increase its number of attacks.`
+char_non: `The human side wants to lower the number of attacks......`
+char_non: `When Battler had fought on the human side, he hadn't thought of the survivors holing up in a room as being particularly useful.`
+char_non: `However, from the witch side's perspective,`
+char_non: ` this strategy was simple but effective.`
+char_non: `What made Beato incredible...`
+char_non: `...was the way she had bluffed and sneered at that as though it was useless.`
+char_non: `......On the inside,`
+char_non: ` she must have been very worried about how to break down all of those barricades in each game.`
+char_non: ` Right now, I'm sure of that......`
+char_bea: `"I see, so strengthening your guard to make it hard for a crime to occur is one way for the human side to fight..."`
+char_but: `".........However, that's a simple move.`
+char_but: ` ......That "great detective" Furudo Erika wouldn't have looked so proud of herself after playing a move like that."`
+char_non: `Would {i:Erika} be happy after playing a defensive move...?`
+char_non: `Though this move looks as though she's restraining herself, ......it's also extremely unlikely that Erika, of all people, played a defensive move......`
+char_but: `"I'm sure......that this is an attack, not a move made for defense.`
+char_but: ` ......Though I don't know what kind of attack it is."`
+char_bea: `"Next is our move...... What shall we do?"`
+char_but: `".........For the moment, she has, at least apparently, spent her turn on strengthening her guard to stop the second twilight, instead of reasoning about the first twilight.`
+char_but: ` ......If they push, pull back; if they pull back, push.`
+char_but: ` In that case, it's time for us to attack."`
+char_bea: `"But how should we attack...?`
+char_bea: ` The guesthouse is well guarded."`
+char_but: `"Yes, it appears as though the entire area of the guesthouse is now under Erika's control.`
+char_but: ` ......However, there are certain pieces, like bishops and knights, whose specialty is cutting behind enemy lines."`
+char_non: `Battler snapped his fingers, ......and a single gold butterfly appeared from the darkness,`
+char_non: ` ......then flew up to the chessboard, trailing gold dust behind it.`
+char_non: `It landed without a sound,`
+char_non: ` ......then transformed into a black piece representing the witch's darkness.`
+char_but: `"X‐ray.`
+char_but: ` ......That's also a chess term."`
+char_bea: `"Yes.`
+char_bea: ` ......It's when a square seems to be under an enemy's control,`
+char_bea: ` but you observe that your own pieces do actually exert enough influence, so you attack—it's a high level technique."`
+char_but: `"......Erika.`
+char_but: ` If you really believe that you can defend against my next attack just by sealing up all the survivors...`
+char_but: `...that's a naive idea."`
+char_non: `Battler raised his new black piece high.`
+char_non: `.........His target was a single open space deep behind enemy lines.`
+char_but: `"How will you handle it...?`
+char_but: ` This is my.........response."`
+char_eri: `"Haah.`
+char_eri: ` Now I can finally stretch my wings.`
+char_eri: ` First off, let's take a midnight stroll to the mansion."`
+char_dla: `"You would take a stroll in the middle of the night to an eerie mansion where a killer might be {f:5:hiding}?`
+char_dla: ` ......You must be very {f:5:eccentric}."`
+char_eri: `"By no means.`
+char_eri: ` I had to wait a long time to be free like this.`
+char_eri: ` I feel like it's free time after a swimming lesson."`
+char_non: `......Now that {f:5:Bernkastel} was nowhere in sight, Erika was regaining her high spirits.`
+char_non: `She wasn't exaggerating when she said she could spread her wings.`
+char_non: `Dlanor knew that she was staking her own destruction on this game.`
+char_non: `......And she was not in a favorable position by any means.`
+char_non: `Dlanor could do nothing but assist Erika so that she could fight to the best of her abilities...`
+char_eri: `"Alright.`
+char_eri: ` ......The locks on the first floor of the guesthouse are perfect.`
+char_eri: ` The entrance is sealed up with a chain lock."`
+char_non: `Before leaving the guesthouse, Erika did a check of the first floor,`
+char_non: ` making sure that nothing was out of place.`
+char_non: `Then she found a flashlight and umbrella in the servant room next to the entrance.`
+char_dla: `"Then let us {f:5:go}."`
+char_eri: `"Yes.`
+char_eri: ` We at least have to check the cause of death for all six."`
+char_non: `She unset the chain, unlocked the door, and opened it.`
+char_non: `{n}The freezing outside air poured in......`
+char_dla: `"......It appears to be quite windy {f:5:still}."`
+char_eri: `"Well, this body is just a cage of flesh to me.`
+char_eri: ` I don't care if it gets wet or cold.`
+char_eri: ` ......Let's go."`
+char_non: `When Erika dropped her gaze to open her umbrella, ......she noticed something lying at her feet.`
+char_eri: `"...............!"`
+char_dla: `"It's............one of the usual {f:5:letters}."`
+char_non: `It was one of those letters sent by the witch......with the seal of the One‐winged Eagle on it.`
+char_non: `It had been wedged under the outside mat in front of the entrance,`
+char_non: ` ......as though someone had predicted that Erika would eventually come this way while heading for the mansion.`
+char_non: `Due to the guesthouse's large eaves, the envelope had avoided the rain entirely.`
+char_eri: `"......So, it's here already.`
+char_eri: ` ......Almost as though it was waiting for me."`
+char_non: `She bent over and picked it up.`
+char_non: ` ......She then tore it open recklessly and pulled the letter inside out of it.`
+char_non: `A message had been written in neat handwriting...`
+char_eri: `"Welcome, Furudo Erika‐sama......it says.`
+char_eri: ` ......Oh, so it's calling me by name?`
+char_eri: ` They totally saw this coming."`
+char_dla: `"What does it {f:5:say}......?"`
+char_eri: `"It's an advance notice of a crime.`
+char_eri: ` Well, a post‐factum notice, technically.`
+char_eri: ` ......Apparently, they have taken Ushiromiya Battler's corpse.`
+char_eri: ` They're asking me to try looking for it."`
+char_dla: `"......So this isn't the "tear apart the two who are close" of the second {f:5:twilight}?"`
+char_eri: `"Well, disappearing corpses happened a few times in Beato's games too.`
+char_eri: ` There's nothing really new about this."`
+char_non: `Erika shrugged and scorned the letter.`
+char_non: `However, ......this letter was a real attack.`
+char_non: `All of the survivors were sealed in the rooms on the second floor.`
+char_non: `And, after Krauss and the others had gone around checking doors and windows,`
+char_non: ` Erika had personally made sure that there was nothing at this spot.`
+char_non: `So, this was an attack saying that someone who shouldn't exist had placed the letter, and that this "someone" was a witch.`
+char_non: `......That was also an attack that the old Beato had often used.`
+char_eri: `"Haah, sheesh.`
+char_eri: ` If the way you show it is the same, please tell me that the actual trick isn't the same too.`
+char_eri: ` .........Dlanor.`
+char_eri: ` Please call Battler here."`
+char_dla: `"{f:5:Understood}.`
+char_dla: ` ......Lord {f:5:Battler}, we wish to take our {f:5:turn}...!"`
+char_but: `"Got it.`
+char_but: ` Let's have it."`
+char_eri: `"I'm ever so sorry.`
+char_eri: ` I actually don't have a new move to announce."`
+char_bea: `"............?"`
+char_eri: `"The truth is......this is an apology.`
+char_eri: ` There's something I need to apologize for."`
+char_non: `Apologize......?`
+char_non: `Battler and Beato's eyes went wide.`
+char_non: `However, though Erika said that she wanted to apologize,`
+char_non: ` she had a confident look on her face, as though even that apology would be a new move.`
+char_non: `......So, Battler glared at her dubiously, without letting his guard down.`
+char_eri: `"It's about those retroactive seals.`
+char_eri: ` ......I had actually already sealed one place.`
+char_eri: ` I apologize for taking so long to report this to you."`
+char_but: `"......You already sealed something?`
+char_but: ` In other words, you've already used up all three rooms' worth?"`
+char_eri: `"Yes.`
+char_eri: ` I promised that I'd report on it right away, but I completely forgot until just now.`
+char_eri: ` You have my sincere apologies."`
+char_but: `"You don't look like someone who's sincerely apologizing...`
+char_but: ` ......Well, that's fine.`
+char_but: ` I'm the one who gave you that privilege.`
+char_but: ` ......So?`
+char_but: ` Where and when did you place the seals?"`
+char_eri: `"Dlanor."`
+char_dla: `"Allow me to {f:5:report}.`
+char_dla: ` ......Battler's guest room was sealed at the time of Lady {f:5:Erika}'s inspection of the {f:5:corpse}."`
+char_bea: `".....................!"`
+char_non: `Beato tried not to let it show on her face,`
+char_non: ` but Erika didn't miss her eyebrows twitching slightly and her gaze flicking over to Battler.`
+char_eri: `"Normally, I would have liked to seal all five of the locked rooms, but I didn't have enough duct tape.`
+char_eri: ` ......Out of respect for the Game Master, I sealed only the room with Battler‐san's corpse."`
+char_but: `".........So you were kind enough to close the lid on my coffin."`
+char_eri: `"I remembered a short while ago,`
+char_eri: ` and I was planning to tell you when we reached the mansion and investigated the guest room with your corpse in it.`
+char_eri: ` ......However, when this letter appeared, I figured I should report it right away."`
+char_bea: `"Wh‐why did you think that...?"`
+char_eri: `"Well,`
+char_eri: ` .........after all, Battler‐san has been playing this game not knowing that his corpse was sealed in the guest room.`
+char_eri: ` ......Because of that, .........I thought, possibly......`
+char_eri: `that it might......change things regarding the appearance of this letter."`
+char_dla: `".........The cousins' room and the next room over are currently {f:5:sealed}.`
+char_dla: ` Sorry for the late report, but the guest room with your corpse in it is also {f:5:sealed}.`
+char_dla: ` And there are 17 people on the island excluding Lady {f:5:Erika}.`
+char_dla: ` The existence of an 18th person has already been denied in a previous {f:5:game}."`
+char_eri: `"So when I thought about......the person who could have placed the letter.........and erased your corpse,`
+char_eri: ` .........I thought that maybe, .........heh{0}eh{0}eh{0}eh{0}eh{0}eh{0}eh{0}eheh,`
+char_eri: ` ......just maybe, ......things might be......different......"`
+char_non: `Erika laughed nastily while staring into Battler's eyes to see if he was panicked or disturbed...`
+char_bea: `"...............Battler‐san......"`
+char_but: `".....................`
+char_but: ` ......Stay calm.`
+char_but: ` Erika has just made her report a bit late.`
+char_but: ` There's nothing to be nervous about."`
+char_non: `Erika had suspected it since the beginning.`
+char_non: `It was possible that Battler actually hadn't been killed and was still alive.`
+char_non: `And, if he was alive,`
+char_non: ` ......then the letter that had suddenly appeared was easy to explain, ......even though all of the "survivors" were sealed up.`
+char_non: `Judging by Beato's faint agitation, ..........maybe.........Erika's guess had been right on the mark.`
+char_non: `Battler had played dead and somehow misled Erika's examination.`
+char_non: `And then, when everyone had holed up in the guesthouse, he had snuck out of the guest room.`
+char_non: `......He had placed the letter about the disappearance of his own corpse at the entrance to the guesthouse,`
+char_non: ` and then he had gone into hiding......`
+char_non: `If this was the truth, then the seals that had been placed on Battler's guest room at the time of Erika's examination...`
+char_non: `were now very significant.`
+char_non: `In short, if he had used this trick,`
+char_non: ` then Battler would have "broken the seals" when he left his guest room.`
+char_non: `The trick would not be workable {i:without breaking the seals}.`
+char_non: `Since the survivors were all sealed in the guesthouse,`
+char_non: ` breaking the seal on the guest room would mean acknowledging that at least one of the victims was actually alive.`
+char_non: `If Battler had known about the seals earlier, it was likely that he would have advanced the game in a very different way to avoid this.`
+char_non: `In other words,`
+char_non: ` it was very likely that an announcement about the seals would have had a large effect on the rest of Battler's game.`
+char_non: `Erika was saying: "if Battler, playing the part of a corpse, had remained inside the guest room to avoid breaking the seals,`
+char_non: ` then perhaps the plot would not have included this letter"...`
+char_non: `......If the truth was that Battler was actually alive and had placed the letter there,`
+char_non: ` then, now that Erika's seals had come into play,`
+char_non: ` .........there was a chance that he would find a contradiction in his trick somewhere down the line.`
+char_non: `That sort of contradiction is called a logic error.`
+char_enj: `"A logic error......?`
+char_enj: ` I think we heard about that really early on in this story."`
+char_fea: `"......It's an illegal move, the greatest and worst form of error—and one that the witch side must never commit."`
+char_enj: `"Ah, I remember.`
+char_enj: ` It was something about the two sides of the tale not matching and creating a contradiction."`
+char_fea: `"Do you remember the part about magic for making candy appear inside an overturned cup...?"`
+char_enj: `"Yeah.`
+char_enj: ` Maria onee‐chan and Erika were fighting about that.`
+char_enj: ` ......It was just a sleight of hand where someone slipped the candy into the cup while Onee‐chan had her eyes closed."`
+char_fea: `"That's right.`
+char_fea: ` Since Maria did not observe the process of the trick and was only given the result,`
+char_fea: ` she accepted the "magical fantasy"—that the candy had appeared by magic inside the cup—and magic was established..."`
+char_enj: `"............Okay, so a logic error would be...`
+char_enj: `...‘a trick that has become impossible’."`
+char_non: `Thinking back, the time when Erika and {f:5:Maria} fought fiercely about this magic with the red and blue truth...`
+char_non: `was really the opening battle of this tale.`
+char_non: `Let's try to remember that exchange.`
+char_non: `......The heartless conclusion was...that it had all been a trick.`
+char_non: `{n}Making the candy appear in the cup by magic had been nothing more than Beato's claim.`
+char_non: `"Magic can only do things that one can accomplish."`
+char_non: `In other words, the only results that magic can leave behind are those that can be accomplished without magic.`
+char_non: `Allow me to say it straight out.`
+char_non: ` There are two general types of magic.`
+char_non: `If you summon giants...`
+char_non: `and make towers grow from the ground...`
+char_non: `......but, when the lid is taken off, nothing has happened in the rose garden, that's one type of magic.`
+char_non: `That is just "fantasy", an "illusion".`
+char_non: `It's a "lie" with no observers, taking place only where there is “absolutely no anti‐magic toxin”, to use the words of a witch.`
+char_non: `Magic that doesn't have to produce a result is the easiest kind, and it is a "lie".`
+char_non: ` It is the same as a worthless delusion, a fantasy, a daydream.`
+char_non: `Even Battler saw through it partway through the third game.`
+char_non: `Then, there is another kind, which we might call true magic: "magic with results".`
+char_non: `The cup trick is an example of "magic with results", because the observer checks and actually confirms the cup is empty, a candy does appear inside the cup,`
+char_non: ` and the observer is actually able to obtain that candy.`
+char_non: `I have noticed that, unlike the magic of illusions, magic with results must follow one big rule.`
+char_non: `The rule is...that only the unobserved process of what you accomplished can be transformed into magic.`
+char_non: `I'll say it even more plainly and ruthlessly.`
+char_non: `{n}In short, all forms of magic are tricks.`
+char_non: `"The only results of magic are things that can be accomplished without magic."`
+char_non: `......Ironically, this also proves that magic doesn't exist,`
+char_non: ` ......but out of respect for the witch's game, let's call it "making the game solvable and fair for the human player".`
+char_enj: `"......So, this time around, "the candy in the cup" is "a mysterious letter that appeared in front of Erika".`
+char_enj: ` ......In other words, it has to be a trick, a sleight of hand.`
+char_enj: ` By claiming that the witch set the letter there by magic, Onii‐chan is trying to create "magic with results"."`
+char_fea: `"Correct.`
+char_fea: ` Since all of the survivors are sealed within the locked room of the guesthouse,`
+char_fea: ` ......it is possible to embellish this suddenly appearing letter and say that it was "strange magic", and "only a witch could have placed it there".`
+char_fea: ` ......But even so, it must be a "possible trick" in the end."`
+char_non: `In order to break through the trick with the candy and the cup,`
+char_non: ` Erika had countered with the blue truth saying that the candy had been snuck in there while Maria's eyes were closed.`
+char_non: `That was the correct answer, so Maria hadn't had any red that she could use.`
+char_non: `......But what if she {i:had} used it?`
+char_non: `For example, what if Maria had used the red truth at that time to say...`
+char_non: `“until Maria lifted the cup up, the locked room of the overturned cup was preserved”...?`
+char_enj: `"The red truth can only be used for the truth, right?`
+char_enj: ` If you could lie with it, it'd be a massive violation of the rules."`
+char_fea: `"True.`
+char_fea: ` Denying your own trick with the red truth is a large violation of the rules.`
+char_fea: ` However, if you instantly switch over to another trick that doesn't violate that red truth,`
+char_fea: ` although slightly unfair, that red truth is admissible."`
+char_enj: `"......So in that case, in order to avoid contradicting the red truth that "the locked room inside the cup was preserved",`
+char_enj: ` the witch side would need to immediately propose a different trick compatible with that red truth.`
+char_enj: ` ......Like the excuses of a politician when he keeps backtracking as new evidence is shown to him."`
+char_fea: `"Yes.`
+char_fea: ` ......Well, for a red like this, she might be able to get away with some painful excuse.`
+char_fea: ` ......Maybe there was some device in the table, or maybe it was a trick cup with a fake bottom...`
+char_fea: ` .........But if those possibilities had been denied in red beforehand, they would not work either.`
+char_fea: ` .........The more red truths there are, the harder it is to talk your way out."`
+char_non: `In actuality, the candy had been put in the cup while Maria's eyes were closed.`
+char_non: `However, if, when Erika saw through that, Maria had used the red truth to say that the locked room of the cup had been preserved...`
+char_non: `......the witch would have to rush and revise the scenario to a new trick that "still worked logically" after that new red.`
+char_non: `Revising the scenario is an unfair move that would never be allowed in mysteries.`
+char_non: `However, the very act of revising the scenario takes place inside the witch's head, which is an unobservable world.`
+char_non: `So, she could claim that she'd been using the trick with the fake‐bottomed cup {i:from the beginning}, and no one could deny that.`
+char_non: `......So, ......even if it really was a trick done while Onee‐chan's eyes were closed...`
+char_non: `...as long as the witch leaves herself a way out, she can even switch between truths (i.e., tricks).`
+char_non: `Rather than calling this an action allowed to witches,`
+char_non: ` it would probably be better to say that it is only allowed for the Game Master, the one who creates and writes.`
+char_non: `But even still,`
+char_non: ` the new trick must not contradict any of the previously stated red truths.`
+char_non: `If the red truth makes it so that "the trick no longer makes logical sense",`
+char_non: ` then there will be a mismatch between the two sides of the story: the illusory result that the Game Master claims was done by magic, and the true result that was brought about by a trick.`
+char_non: `There will be a contradiction, and things will no longer make logical sense.`
+char_non: `We call this a logic error...`
+char_non: `And that means......the destruction of the witch's game.`
+char_enj: `"This world is a game that is possible to explain with humans.`
+char_enj: ` ......In other words, it must be possible for all the magic to have been done {i:by tricks instead}.`
+char_enj: ` ......If it's impossible to do with tricks, then the human side has no move and we get a stalemate."`
+char_fea: `"No, that's wrong.`
+char_fea: ` That is precisely the fatal and worst possible illegal move known as a logic error.`
+char_fea: ` ......If the witch side commits such an error, the game is instantly destroyed and they suffer a fatal defeat..."`
+char_enj: `"Erika has probably seen through to Onii‐chan's trick.`
+char_enj: ` ......Without the detective's authority, Erika can't perform a proper examination of the corpses.`
+char_enj: ` Because of that, he continued to play dead, ......snuck out of the guest room, and placed the letter at the entrance to the guesthouse."`
+char_fea: `"However, because Battler was so overly gracious in giving out those retroactive seals, things went wrong."`
+char_enj: `".........Stupid Onii‐chan."`
+char_fea: `"Panic is unwarranted at present...`
+char_fea: ` ......It is yet to be specified with red truth that the seals around the guest room are intact.`
+char_fea: ` ......He is free to break the seals.`
+char_fea: ` If he does not, then he can probably have it so that someone other than Battler was alive, and swap them in as the person who placed the letter..."`
+char_enj: `"That's right......`
+char_enj: ` It's not just Onii‐chan—the other corpses haven't been confirmed dead with the red truth either.`
+char_enj: ` ......So far, there wouldn't be any problem if they were all faking."`
+char_fea: `"Exactly.`
+char_fea: ` It is not yet the stage to get flustered.`
+char_fea: ` ......He merely has to change his move so that Erika's seals and the placement of the letter don't contradict each other."`
+char_enj: `".........And revising the plot without contradictions is one of the moves available to the Game Master."`
+char_fea: `"However, ............taking a scenario one has imagined and revising it partway through can sometimes create flaws in the tale.`
+char_fea: ` It would be a very painful move to make when the first twilight has only just ended."`
+char_fea: `"......It would seem that Battler was the one with an enemy piece deep behind his lines...`
+char_fea: ` This hidden piece will probably cause him pain and discomfort with each step from now on, like a pebble caught in one's shoe......`
+char_fea: ` ......This single pebble.........might kill Battler........."`
+char_enj: `"...................................."`
+char_eri: `"This still isn't quite a logic error.`
+char_eri: ` And we are at fault for the delay in reporting that we had sealed the room retroactively.`
+char_eri: ` So, I have no problem with letting Battler‐san retroactively rewrite the plot concerning this letter."`
+char_bea: `"......Retroactively rewrite the plot...?"`
+char_but: `"Hmph, I see.`
+char_but: ` ......If "I" placed the letter there, then that would be impossible as soon as "I" was sealed in that locked room.`
+char_but: ` In which case, this letter shouldn't have appeared here."`
+char_eri: `"Correct.`
+char_eri: ` So, I thought you should have the chance to revise that small contradiction."`
+char_dla: `"......We have discovered this letter {f:5:here}.`
+char_dla: ` ......We are saying that we do not mind if you want to undo that, or if you want to use a revised {f:5:scenario}."`
+char_eri: `"All it takes is the presence of a letter and some duct tape,`
+char_eri: ` ......and a move like this becomes trivial for Furudo Erika.`
+char_eri: ` ............Your thoughts, ladies and gentlemen...?"`
+char_non: `.........Damn, what a dirty move......`
+char_non: `{n}Well, ......what else should I expect from Erika...?`
+char_non: `And I also made a promise with Dlanor......to play an all‐out, merciless game......`
+char_non: `..............................`
+char_non: `Yeah, it's true.`
+char_non: ` I had been planning to make Battler actually be alive,`
+char_non: ` and then to have him slip out of the guest room, resulting in his disappearance and the placement of the letter.`
+char_non: `However, if I revise the scenario now that my move's been spotted,`
+char_non: ` it'll be the same as admitting that it was spotted.`
+char_non: `Even if I have to be stubborn about it, I don't want to admit that I was seen through here.`
+char_non: `I don't want to acknowledge a pathetic plot change where I try to sneak out of the guest room and end up breaking the seal.`
+char_non: `I want......to change over to a different trick, so that the letter will be placed and my corpse will be hidden...`
+char_non: `while still preserving the seals on the guest room...`
+char_non: `......It doesn't really have to be me who places that letter.`
+char_non: `I can still revise the logic without contradictions...`
+char_bea: `"But Battler‐san, even if you can place the letter somehow,`
+char_bea: ` how are you going to make your corpse vanish afterwards?`
+char_bea: ` ......The guest room is sealed.`
+char_bea: ` If you don't find a trick to erase the corpse from the locked room right now, a logic error will occur."`
+char_but: `"...............I still have time.`
+char_but: ` ......Let me think until the last second.`
+char_but: ` ......Dammit........."`
+char_non: `With a painful laugh, Battler unconsciously scratched at his head...`
+char_but: `"Anyway, ......we'll leave the letter like this.`
+char_but: ` ......I can't say "oh, sorry about that, having the guest room sealed makes a big contradiction so I'd like to revise my move"...!`
+char_but: ` It would be an admission that she caught me."`
+char_but: `".........Heheh, I feel like a ninja hiding above the ceiling.`
+char_but: ` Even though I was noticed and stabbed by a spear, I just withstand the pain, wipe up the blood, and act as though nothing happened.`
+char_but: ` .........False courage works well enough.`
+char_but: ` ......I can't let her know that this one hurt..."`
+char_bea: `".........Battler‐san........."`
+char_but: `"Heh, heheheh.`
+char_but: ` Hey, Beato.`
+char_but: ` What does my face look like right now......?`
+char_but: ` I'm sure it's the same expression you had when I managed to hit you where it hurts in the past...`
+char_but: ` ......Heh......heheheh...`
+char_but: ` ...Dammit..."`
+char_non: `Beato couldn't think of anything to say...`
+char_non: `......Useless words of comfort would only get in the way of Battler's thinking now.`
+char_but: `"......What would the old you do...?`
+char_but: ` The old you, who created all of the locked rooms that tormented me so much in the past...`
+char_but: ` .........What kind of trick would she use to erase my corpse from a locked room...?"`
+char_bea: `"Nn...............nn..............."`
+char_non: `Beato trembled and groaned.`
+char_non: `......The old her had been an expert at locked room tricks.`
+char_non: `{n}If only that memory, that power, could revive, ......she would be able to help Battler......`
+char_non: `.........There's still time to think......`
+char_non: `{n}............There's still time...`
+char_non: `Nice going, Erika......`
+char_non: ` That was......a dirty move......`

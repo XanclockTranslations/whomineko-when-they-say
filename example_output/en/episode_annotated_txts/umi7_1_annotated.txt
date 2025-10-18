@@ -1,0 +1,436 @@
+char_wil: `Quietly, quietly,`
+char_wil: ` ......the rain fell down.`
+char_wil: `The rain of sadness dripped down the outer walls of the chapel, quietly washing away the dust of the world of the living.`
+char_wil: `The chapel doors were open.`
+char_wil: `For a wedding, only those with invitations would be allowed in.`
+char_wil: `However, for a funeral, the doors would be open for all those who remembered the deceased.`
+char_wil: `......So, this must be a funeral.`
+char_wil: `A figure holding an umbrella approached the chapel.`
+char_wil: `It was......Will.`
+char_wil: `"..........................."`
+char_non: `A reception desk had been set up in the entrance to the chapel.`
+char_non: `As the figure approached, Kanon, who had been sitting at this desk, stood up and welcomed him with a bow.`
+char_kan: `"......This is the reception desk.`
+char_kan: ` We are collecting the names of all mourners.`
+char_kan: ` If you would sign in here..."`
+char_wil: `"Sorry,`
+char_wil: ` but I'm not here to mourn.`
+char_wil: ` ......I'm here to meet with someone."`
+char_non: `You came to a funeral to meet someone...?`
+char_non: ` A dubious expression rose to Kanon's face.`
+char_non: `Will pulled an envelope from his pocket and showed him the sender's name.`
+char_kan: `".........My apologies.`
+char_kan: ` Please, enter."`
+char_wil: `"Thanks.`
+char_wil: ` ......Could I at least have one of those?"`
+char_kan: `"......Thank you very much.`
+char_kan: ` ......I am sure she will be pleased."`
+char_non: `Kanon handed him one of the golden roses being handed out to all the mourners.`
+char_non: `Will took it,`
+char_non: ` ......silently bowed his head, and entered the chapel.`
+char_non: `Inside the chapel, several people who appeared to be the family of the deceased were gathered together,`
+char_non: ` and they all seemed to be recalling memories of the departed.`
+char_kin: `"Oooooooohhh...`
+char_kin: ` Beatriceeeee...`
+char_kin: ` Why,`
+char_kin: ` whyy{-}y{-}y{-}y{-}y{-}yy...`
+char_kin: ` Ooo{-}o{-}o{-}o{-}oohhhhh......"`
+char_nat: `"Father, you must compose yourself......`
+char_nat: ` Why don't you rest in the waiting room for a bit..."`
+char_gen: `"........................"`
+char_ros: `"I killed her...`
+char_ros: ` I did it......!"`
+char_kum: `"Absurd...!`
+char_kum: ` How could that be, Rosa‐sama...?"`
+char_kir: `"Father was really bawling."`
+char_rud: `"......Yeah. "Beatriceeee"."`
+char_eva: `"I'm sure he didn't cry this much when Mother passed away."`
+char_hid: `"Hey.`
+char_hid: ` Now's not the time to say things like that."`
+char_non: `Some sobbed, unable to conceal their tears,`
+char_non: ` and some spoke softly of old memories.`
+char_non: `......They were all remembering the departed in their own ways......it seemed.`
+char_non: `When Will approached the altar, several people turned around.`
+char_non: `{n}Of course, none of them knew who Will was.`
+char_non: `Paying this no mind, Will walked in front of the casket on the altar, which seemed to be buried in golden roses.`
+char_non: `......Inside the casket, there was no corpse.`
+char_non: `Instead, as though it lay there in place of a body,`
+char_non: ` ......there was a single, thick book with an extravagant binding.`
+char_non: `The space all around it was filled with countless golden roses.`
+char_non: `There were words printed on the book's cover.`
+char_non: `"To my beloved Beatrice.`
+char_non: ` October 5th, 1986."`
+char_wil: `"......Miss Beatrice.`
+char_wil: ` If it was "Mrs", then forgive me.`
+char_wil: ` ......I've never met you.`
+char_wil: ` However, allow me to express my condolences."`
+char_non: `He took the rose he had received from the reception area and placed it in the casket.`
+char_non: `......He had absolutely no connection with the woman called Beatrice.`
+char_non: `{n}However, since he had come to visit a funeral, he had to follow this minimum display of respect for the dead.`
+char_non: `As part of this, Will prayed for the passage of the departed to the next world......`
+char_cla: `"Pardon me,`
+char_cla: ` ......but who might you be?`
+char_cla: ` I am Ushiromiya Krauss.`
+char_cla: ` I am acting in the stead of the chief mourner.`
+char_cla: ` This is my child, Lion."`
+char_rio: `"Pleased to meet you.`
+char_rio: ` I'm Ushiromiya Lion."`
+char_wil: `"......Lion?`
+char_wil: ` .........Just who are you?"`
+char_rio: `"It's written as "{p:0:理御}", but pronounced "Lee‐on".`
+char_rio: ` ......Sounds a bit strange for a Japanese name, doesn't it?"`
+char_wil: `"..........................."`
+char_non: `Will stared at Lion's face, wearing a confused expression.`
+char_non: `He hadn't seemed to be particularly interested in Krauss, but apparently Lion had drawn some sort of reaction from him.`
+char_non: `Rather than interest, it was more as though he felt like something was out of place.`
+char_gen: `"......Krauss‐sama.`
+char_gen: ` Madam says that it is about time......"`
+char_cla: `"Ah, I see.`
+char_cla: ` ......Ladies and gentlemen.`
+char_cla: ` If we're too noisy in here, it may disturb the dead.`
+char_cla: ` I've been told that the waiting room has been readied.`
+char_cla: ` Shall we move over there?"`
+char_non: `When Krauss called out to everyone, they began to move towards the chapel waiting room.`
+char_cla: `"My apologies.`
+char_cla: ` Lion, could you entertain our guest for now?`
+char_cla: ` I will guide the others to the waiting room."`
+char_rio: `"Yes, Father."`
+char_non: `It looked like a natural conversation, with no awkwardness for either father or child.`
+char_wil: `"Father and child, is it?"`
+char_rio: `"Yes, but why do you ask...?"`
+char_wil: `"Ushiromiya Krauss's child is supposed to be Jessica."`
+char_rio: `"Jessica's my little sister.`
+char_rio: ` Do you need me to call for her...?"`
+char_wil: `"..................`
+char_wil: ` ...No, that won't be necessary."`
+char_non: `Apparently, ......some sort of game was already being played right off the bat.`
+char_non: `Scratching at his head with an irritated look on his face, Will glanced around.`
+char_rio: `"......Pardon me, but what sort of relation did you have with the deceased?"`
+char_wil: `"None at all.`
+char_wil: ` ......It's a real pain."`
+char_rio: `"............Then why did you come to this funeral?"`
+char_non: `Since Lion was a fairly mild person, Will's behavior was met with nothing more than a blank expression.`
+char_non: `{n}......A normal person would probably have put on a dubious look long before this.`
+char_non: `Will scratched his head again, and yelled angrily at someone other than Lion.`
+char_wil: `"I'm here.`
+char_wil: ` Isn't it about time you showed your face?"`
+char_non: `The members of the Ushiromiya family had already followed Krauss's instructions and moved to the waiting room.`
+char_non: `By now, this cold, vast chapel decorated with gold roses...`
+char_non: `was empty except for Will and Lion.`
+char_non: `"......So, you've come.`
+char_non: ` ......Inquisitor, Wizard‐hunting Wright."`
+char_non: `The girl's voice came suddenly from behind the pair.`
+char_non: `When Lion turned around in surprise, a girl had appeared out of nowhere and drifted down on top of the altar.`
+char_non: `She landed softly on the sacred funeral altar as though this was perfectly normal,`
+char_non: ` crushing the golden roses under her shoes...`
+char_non: `Of course, Lion did not know this girl.`
+char_non: `......Just why on Earth were all of these people unrelated to the funeral...`
+char_non: `popping up one after another?`
+char_wil: `"I'm already retired.`
+char_wil: ` If you have a job you need doing, go ask the new Wright."`
+char_ber: `"No.`
+char_ber: ` You're the one I want to ask.`
+char_ber: ` I'm giving this case to you.`
+char_ber: ` ......Did you read the "tale" I sent you...?"`
+char_wil: `"......Skimmed it."`
+char_rio: `"I, I don't know who you are, but please get down from there.`
+char_rio: ` That's a sacred altar."`
+char_non: `Snapping out of a daze, Lion told the girl to get down off the altar, but the girl ignored this completely.`
+char_non: `On top of that, Will kept on talking to the girl as though Lion wasn't even there.`
+char_wil: `"Lion, was it?`
+char_wil: ` Who is this person?"`
+char_ber: `"You've already heard who."`
+char_non: `Ushiromiya...Lion.`
+char_non: `There's no case of a person with that name appearing in any of the previous games.`
+char_wil: `"Is this your piece?"`
+char_ber: `"No.`
+char_ber: ` It's a true and proper piece of this game board.`
+char_ber: ` One of the appearing characters."`
+char_wil: `"You're the Game Master.`
+char_wil: ` That means it's your piece."`
+char_ber: `"*giggle*......`
+char_ber: ` ......I've just enclosed Beato's cat box in a larger cat box.`
+char_ber: ` Lion is one of the pieces who has a possibility of appearing inside it."`
+char_wil: `".........Ah, I see.`
+char_wil: ` ......In other words, it's your piece."`
+char_ber: `"It's a piece I've placed...would be the correct way to say it."`
+char_wil: `"So you're saying this piece isn't your subordinate as Erika was."`
+char_ber: `"......Erika? Who's that?`
+char_ber: ` ......*giggle*giggle*."`
+char_wil: `"....................."`
+char_rio: `"......Erika...san?`
+char_rio: ` ????"`
+char_wil: `"Don't try to understand.`
+char_wil: ` You'll just get a headache."`
+char_non: `Lion didn't have a clue what they were talking about.`
+char_non: `However, it seemed clear that, though neither of them were familiar, they both knew a lot about the Ushiromiya family.`
+char_rio: `"I, I don't know what you two are talking about...`
+char_rio: ` At any rate, you there, Miss.`
+char_rio: ` Please, get down off the altar.`
+char_rio: ` I ask this as the successor to the Ushiromiya family headship."`
+char_non: `Even Lion was finally forced to speak in a raised voice at this girl, who continued to chat while casually standing on the altar.`
+char_non: `However, the girl ignored this completely.`
+char_non: `{n}On the other hand, Will did show a reaction.`
+char_wil: `".........The successor to the headship is supposed to be Krauss."`
+char_rio: `"My father, Krauss, will be the acting head until I turn twenty.`
+char_rio: ` When I turn twenty, I am to succeed the headship."`
+char_wil: `"First I've heard of this.`
+char_wil: ` Can you prove it?"`
+char_non: `It seemed that even Lion was starting to get ticked off by now.`
+char_non: `{n}That calm expression seemed to twitch slightly.`
+char_rio: `"This is the successor's silver ring of the One‐winged Eagle.`
+char_rio: ` Is that proof enough for you?"`
+char_wil: `".........A silver ring?`
+char_wil: ` The gold ring of the head has appeared several times, but I've never heard anything about a silver ring for the successor.`
+char_wil: ` ......I don't remember Krauss or Jessica ever wearing one of those."`
+char_ber: `"*giggle*......`
+char_ber: ` I'm glad.`
+char_ber: ` It seems you've read it pretty well for skimming."`
+char_wil: `"When a witch hands you a story, you never know when something absurd will pop up.`
+char_wil: ` Especially when it's a Great Witch from the Senate."`
+char_rio: `"Wh‐`
+char_rio: `......who in the world...`
+char_rio: `...are you two?!`
+char_rio: ` Sorry, but I don't have a clue what you're talking about.`
+char_rio: ` If you've finished offering flowers for the departed, please make your exit.`
+char_rio: ` It seems you two are not worthy of our family's hospitality."`
+char_non: `Lion finally ran out of patience.`
+char_non: `{n}These were the strictest words that this gentle kid could unleash.`
+char_non: `However, Will and the girl seemed not to care at all...`
+char_wil: `"I didn't come here because I wanted to."`
+char_ber: `"We're wasting time, so let's move onwards.`
+char_ber: ` ......Wright.`
+char_ber: ` Try and beat this game.`
+char_ber: ` As the Game Master, {f:5:Bernkastel}, I invite you to join this game."`
+char_wil: `"I refuse."`
+char_ber: `"Why?"`
+char_wil: `"I'm retired now.`
+char_wil: ` ......Reasoning and mysteries aren't my business anymore."`
+char_ber: `"How do you intend to spend the rest of your life?`
+char_ber: ` Is Wizard‐hunting Wright going to give up witch hunting?"`
+char_wil: `"......Oh, there's fox hunting and clam hunting.`
+char_wil: ` I didn't come here to discuss the rest of my life with you."`
+char_ber: `"So, you came here to refuse?"`
+char_wil: `"Know that your powers of deduction are truly a sight to behold......"`
+char_ber: `"Then do as you will.`
+char_ber: ` Go wherever you please.`
+char_ber: ` ......That is, assuming that you can leave the place."`
+char_wil: `"........................Tch.`
+char_wil: ` ......So?`
+char_wil: ` What are the terms and payment?"`
+char_non: `In truth, Will had already given up from the beginning.`
+char_non: `He knew that he was incapable of refusing an invitation from the great Lady {f:5:Bernkastel}.`
+char_ber: `"‘Who killed {f:5:Beatrice}?’`
+char_ber: ` That's my game.`
+char_ber: ` In payment, I'll forgive you for your insolence and let you leave this chapel."`
+char_wil: `"I heard that witches who have no love for boredom are very fond of insolent speech."`
+char_ber: `"That's only for hags who've tired of life after a thousand years.`
+char_ber: ` I'm still plenty young, so what I love to do to rude men like yourself...`
+char_ber: `is dream up horrible fates in which to trap you......"`
+char_wil: `"......Tch.`
+char_wil: ` So?`
+char_wil: ` Who's the enemy?"`
+char_ber: `"There is none.`
+char_ber: ` There's no one to stand in your way.`
+char_ber: ` We just want to sit back and watch you make your beautiful checkmate in this game......`
+char_ber: ` I've even found you an ally.`
+char_ber: ` That's what this Lion is for."`
+char_rio: `"......?"`
+char_non: `After hearing that name spoken out of the blue, Lion frowned once more.`
+char_non: `Apparently, they were moving things along without Lion's knowledge or understanding, which was truly irritating.`
+char_ber: `"Lion is a member of the Ushiromiya family.`
+char_ber: ` Since no one in that family knows you, Lion should prove to be a useful ally."`
+char_rio: `"......I fail to understand what you are talking about, but I can't help you with anything unless I know the details."`
+char_wil: `"There, see?`
+char_wil: ` ......With help like this, it'll be a piece of cake."`
+char_ber: `"Entertain me......and my master, Wizard‐hunting Wright.`
+char_ber: ` ......Auau may be a polite theatergoer,`
+char_ber: ` but I might throw popcorn at you if I get bored, got that...?"`
+char_wil: `".............................."`
+char_non: `Will scratched at his head with a displeased look on his face.`
+char_non: `He wasn't at all interested in getting involved,`
+char_non: ` ......but by now, he realized that he couldn't disobey {f:5:Bernkastel}'s orders.`
+char_non: `Then, he approached the casket...`
+char_non: `and pointed at its rose‐filled insides.`
+char_wil: `"You ask me to solve the case of {f:5:Beatrice}'s murder, but...`
+char_wil: ` {p:1:Van Dine's Twenty Rules, Rule #7.`
+char_wil: ` It is forbidden to have a crime without a corpse}."`
+char_ber: `"{p:2:That's a Devil's Proof.`
+char_ber: ` Maybe it just isn't inside the casket?`
+char_ber: ` Unless you can prove that no corpse exists, this is mystery}."`
+char_wil: `"{p:1:Rule #1. It is forbidden to have a crime without all clues presented}."`
+char_ber: `"{p:1:Don't worry.`
+char_ber: ` Everything is gathered here}."`
+char_wil: `".............................."`
+char_non: `There was no change to Will's unsatisfied expression,`
+char_non: ` ......but he seemed to have understood that everything was at least in order.`
+char_non: `......From the moment he was summoned by an uninhibited, fickle, cruel Great Witch of the Senate,`
+char_non: ` a mere Inquisitor like him was bound to be treated as no more than an underling.`
+char_non: ` He had never possessed a way to refuse her...`
+char_wil: `".........So, you want me to find out who killed the owner of this empty casket.`
+char_wil: ` ......Fine, I accept.`
+char_wil: ` However, you'll let me do things my way."`
+char_ber: `"As you like."`
+char_wil: `"First off, .........I need to make you understand what's going on."`
+char_rio: `"......Yes, that would be a great relief."`
+char_non: `Lion's face was a goulash of displeased expressions,`
+char_non: ` seeming nonplussed, angry, and confused all at the same time.`
+char_wil: `"Over here.`
+char_wil: ` ......It'll be faster to see it for yourself."`
+char_rio: `"......Wonderful.`
+char_rio: ` Please, lead the way."`
+char_non: `Will signaled with his chin for Lion to follow him and spun around.`
+char_non: `After snorting once in an unsatisfied manner,`
+char_non: ` Lion followed Will while looking deeply sceptical of the latter's ability to explain any of this in a way that would make sense.`
+char_non: `......As she watched the pair leave the chapel,`
+char_non: ` ......{f:5:Bernkastel} sneered silently at them, with a cold smile on her face.`
+char_ber: `".........As the miko of the great Witch of Theatergoing, Drama, and Spectating,`
+char_ber: ` {f:5:Featherine} Something {f:5:Auaurora}, and the Witch of Miracles,`
+char_ber: ` I, {f:5:Bernkastel}, announce the start of this game."`
+char_ber: `"......The tale's title is "Requiem of the Golden Witch".`
+char_ber: ` ......Spin a tale fitting for Beato's funeral.`
+char_ber: ` ......*giggle*giggle*.`
+char_ber: ` Well now, let's see just how you drag out the guts."`
+char_non: `After watching the pair leave the chapel...`
+char_non: `...{f:5:Bernkastel}'s form evaporated into the empty air, just as she had arrived.`
+char_non: `All that remained was her unpleasant cackling......`
+char_non: `Outside, it was still raining.`
+char_non: `When Kanon saw the guest and the head's successor approaching the reception desk, he bowed deeply.`
+char_rio: `"......Good work.`
+char_rio: ` You can take a break now, so would you mind leaving?`
+char_rio: ` Umm,`
+char_rio: ` ............"`
+char_kan: `"...............It's Kanon.`
+char_kan: ` Yes, as you wish."`
+char_non: `Kanon bowed deeply, then disappeared.`
+char_wil: `"You don't bother to remember the names of your servants?"`
+char_rio: `"......Our family has many young servants coming in and out, and they are usually replaced quite frequently.`
+char_rio: ` Anyway.`
+char_rio: ` What's going on, and how are you going to explain it to me?`
+char_rio: ` Who are you, and what business do you have with this family?`
+char_rio: ` Of course, I'm not really in need of a satisfying explanation.`
+char_rio: ` I'd be just as happy for you to head on home."`
+char_wil: `"There is no going home.`
+char_wil: ` Not for me,`
+char_wil: ` ......not for anyone."`
+char_rio: `"Could you please give that a rest?`
+char_rio: ` Stop speaking in confusing riddles like that all the time.`
+char_rio: ` Even I have limits to my patience.`
+char_rio: ` If you don't want me to see you off, should I call Genji or Gohda?"`
+char_wil: `"Stop talking.`
+char_wil: ` .........Look at this."`
+char_rio: `"Yes, I can see what it is.`
+char_rio: ` It's one of the memorial roses.`
+char_rio: ` Are you going to show me some kind of magic trick?"`
+char_non: `Will took one of the flower offerings,`
+char_non: ` then showed it to Lion, as if to demonstrate that there were no mechanisms or tricks.`
+char_non: `Then, he slowly lifted it upwards.`
+char_wil: `"......Watch."`
+char_rio: `"Yes, I'm watching.`
+char_rio: ` Is a dove going to fly out of it?`
+char_rio: ` Or is it going to be flags and fireworks?`
+char_rio: ` .........Huh?"`
+char_non: `Will threw the rose.`
+char_non: `Anyone would have expected it to fly in an arc...`
+char_non: `and land in some puddle amid the wind and rain.`
+char_non: `The betrayal of that expectation struck Lion dumb.`
+char_non: `Initially, the rose Will had thrown had certainly flown in an arc.`
+char_non: `It swished rapidly through the air.`
+char_non: `However, as soon as it was about to pass from the shade of the eaves into the rain,`
+char_non: ` ......it stopped right in midair,`
+char_non: ` as though the air surrounding it had turned into syrup.`
+char_non: `That wasn't all.`
+char_non: `As it hung in midair, the rose's beautiful golden petals began to darken one after another,`
+char_non: ` ......and it became a black husk, like burnt charcoal.`
+char_non: `And, even after this happened, it remained suspended there in the air......`
+char_rio: `"......What sort of trick is this?`
+char_rio: ` .........Ah—"`
+char_wil: `"Don't move."`
+char_non: `Lion had moved closer to try and touch the remains of the rose, which still hung in the air.`
+char_non: `Will had roughly blocked the way with his arm.`
+char_non: `It was as though he was telling Lion that leaving this place meant certain death.`
+char_wil: `"......This chapel has been cut off from the fragment.`
+char_wil: ` We're currently locked within a maelstrom of compressed time."`
+char_rio: `"What...`
+char_rio: `...do you mean by that...?!"`
+char_wil: `".........Explaining's a pain, so I'll give you the short version.`
+char_wil: ` Basically, unless we play along with that witch's game, no one can leave this place."`
+char_rio: `"Wh‐......what are you talking about...?!`
+char_rio: ` The funeral is already over!`
+char_rio: ` I'm sure some people will want to return to the mansion or the guesthouse.`
+char_rio: ` We can't be locked up in here!"`
+char_wil: `"If you've got a problem, that witch is the one to hate.`
+char_wil: ` Being stuck in a place like this isn't any more pleasant for me."`
+char_rio: `"That girl's your friend, right?!`
+char_rio: ` Make her stop all this weirdness."`
+char_wil: `"She's probably sitting in a spectator's seat with a bucket of popcorn about now.`
+char_wil: ` Even if I call her, she won't come."`
+char_rio: `"Wh‐what on Earth is going on?!!"`
+char_non: `That short sentence described all of Lion's feelings at that moment.`
+char_non: `However, Lion had seen the rose Will threw wither in an instant in the rainy darkness.`
+char_non: `......Lion tried doing the same thing with another rose, but the effect was exactly the same.`
+char_non: `No one would want to use their own body to test this fearsome something that could make roses crumble instantly......`
+char_wil: `"There's only one way for us to be released from here.`
+char_wil: ` ......We have to play along with {f:5:Bernkastel}'s game."`
+char_rio: `"......You mean the one about who killed Beatrice?"`
+char_wil: `"That's what she's telling us to investigate.`
+char_wil: ` If you could tell me about it, it'd make things go more quickly.`
+char_wil: ` ......That fickle witch will be totally satisfied.`
+char_wil: ` You'll be able to get rid of the two of us, and I get to go home in time for my date with Diana.`
+char_wil: ` ......If I keep her waiting too long, she'll start tearing up the sofa again."`
+char_rio: `"Who killed Beatrice, you say......`
+char_rio: ` That's hardly something to go barging into a funeral and start asking the family about."`
+char_wil: `"Questioning the family of the deceased is one of the basics of the mystery genre.`
+char_wil: ` Just give up and accept it.`
+char_wil: ` ......I do know that Beatrice is the mistress of Kinzo, the family head."`
+char_rio: `".....................`
+char_rio: ` You really are a strange person.`
+char_rio: ` ......How do you know so much about this family?`
+char_rio: ` ......Are you sure you have no connections with us...?"`
+char_non: `Will knew so much about the Ushiromiya family because {f:5:Bernkastel} had shown him all of the fragments so far.`
+char_non: `Of course, he had no sort of connection with the Ushiromiya family himself.`
+char_non: `{n}The very plane of his existence was on a different level.`
+char_wil: `"However, Beatrice died a long, long time ago.`
+char_wil: ` According to Genji, she passed away before the mansion was completed,`
+char_wil: ` but the reason for her death is unclear.`
+char_wil: ` .........To be honest, this is the first I've heard that she was "killed".`
+char_wil: ` ......Tell me about it."`
+char_rio: `".........My name is Ushiromiya Lion."`
+char_wil: `"Willard.`
+char_wil: ` Call me Will."`
+char_non: `For the first time, Will introduced himself.`
+char_non: `The mutual introduction was finally completed, and Lion was finally able to talk with him on an even footing.`
+char_non: `......However, Lion took a deep breath, and looked up at the sky, wearing a vague smile.`
+char_rio: `"Will‐san."`
+char_wil: `"Call me Will.`
+char_wil: ` I'll call you Lion."`
+char_rio: `"......Will.`
+char_rio: ` To be honest, ......even I don't know much about this person called Beatrice."`
+char_wil: `"...............I see.`
+char_wil: ` I guess it's called a game for a reason."`
+char_non: `If only Lion could've told him everything, revealing the truth without any effort from Will......`
+char_non: `Apparently, things wouldn't be so easy after all.`
+char_rio: `"Everyone who enters the Ushiromiya family knows the name and image of Beatrice."`
+char_wil: `"That's because of the massive portrait hanging in the entrance hall, isn't it?`
+char_wil: ` That portrait was first displayed in April of 1984."`
+char_rio: `"Really, ......how is it that you know so much?`
+char_rio: ` ......Ah, well.`
+char_rio: ` It's about time I stopped finding that odd.`
+char_rio: ` I'm sure you'll just start speaking in riddles again."`
+char_non: `Lion was the successor to the head and lived with the main family.`
+char_non: `{n}Kinzo frequently chose to speak with his successor.`
+char_non: `Because of this, Lion must have been used to chatting with people who were moody or hard to follow.`
+char_non: `Deciding once and for all that getting hung up on trivialities would be nothing but a waste of time,`
+char_non: ` Lion was able to converse naturally with this unknown man called Will, as though the two of them had been friends for a long time......`
+char_wil: `"Everyone knows Beatrice.`
+char_wil: ` And yet, no one knows her.`
+char_wil: ` Kinzo's the only one who's ever met her."`
+char_rio: `"......The head seems to be particularly upset today.`
+char_rio: ` I'll find a good time to introduce you to him, so I ask that you adopt an appropriately reserved and polite attitude, Will‐san."`
+char_wil: `"That makes things easy.`
+char_wil: ` ......I thought you'd resist a bit more than that."`
+char_rio: `"I'm used to speaking with the family head.`
+char_rio: ` I've learned to accept most unreasonable situations and just go with the flow."`
+char_non: `{f:5:Bernkastel} had set up a "barrier" cutting the chapel off from the rest of the world.`
+char_non: `To destroy that, they would have to find out "who killed {f:5:Beatrice}".`
+char_non: `For Lion, who had been made to go along with Kinzo on many an occasion, understanding this much was all that was necessary......`

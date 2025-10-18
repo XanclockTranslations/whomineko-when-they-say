@@ -1,0 +1,801 @@
+char_nat: `{a:c:`
+char_nat: `"It's Natsuhi, please open up...!!"}`
+char_nat: `Natsuhi yelled as she knocked loudly and repeatedly.`
+char_nat: `Shortly after, there was a heavy clunking sound, and the sound of the door to Kinzo's study unlocking could be heard.`
+char_nat: `As the door opened, a heavily sweet venomous odor flowed out.`
+char_nat: `Natsuhi was always ashamed of how she automatically grimaced at that,`
+char_nat: ` even though she thought it rude to the family head...`
+char_nat: `Krauss was waiting for her inside the study.`
+char_nat: `Natsuhi flew into his arms.`
+char_nat: `"......I‐is Father... ......Is he........."`
+char_cla: `"Calm yourself.`
+char_cla: ` ......Doctor Nanjo is examining him now..."`
+char_non: `With an uncertain gait, Natsuhi went towards the center of the study, supported by Krauss.`
+char_non: `There, a dignified bed fitting for the head of the Ushiromiya family could be seen, along with Nanjo, Genji, and Kumasawa...`
+char_nat: `"Doctor Nanjo...`
+char_nat: ` I‐...is Father......"`
+char_non: `After sighing deeply, Nanjo left the side of the bed.`
+char_non: `On the bed, Kinzo could be seen lying down, sleeping......`
+char_nan: `".........He died peacefully.`
+char_nan: ` ...I don't think Kinzo‐san had any regrets."`
+char_nat: `"Ah, ...waa{0}a{0}a{0}a{0}a{0}a{0}a{0}a{0}a{0}aahh{0}h{0}h{0}h{0}hhh...`
+char_nat: ` Father... Fathee{-}e{-}e{-}e{-}e{-}e{-}e{-}er...!!"`
+char_non: `...Sobbing, Natsuhi put her head against the chest of the man who had fallen into a sleep from which he would never awaken.`
+char_kum: `"M‐......Madam, ...please, stay strong..."`
+char_nat: `"Father, Father......!!`
+char_nat: ` This is...just too sudden......`
+char_nat: ` Aaaaaaaahhhhhhh!!!"`
+char_gen: `"..............."`
+char_non: `Natsuhi couldn't stop her tears over the death of Kinzo, whom she had loved like a second father.`
+char_non: `Kumasawa rubbed Natsuhi's back, consoling her......`
+char_non: `Krauss slumped into his late father's favorite chair.`
+char_non: `By sitting there, he might have been immersing himself in memories of his departed father.`
+char_non: `Or perhaps he thought that by sitting there, he might be able to understand just a bit of the madness of Kinzo's later years,`
+char_non: ` which had eluded him to the end of his father's life...`
+char_non: `Nanjo turned his back and looked down over the outside world through a crack in the curtains.`
+char_non: `It was the same thing he'd often done when Kinzo sat in that chair contemplating a chess move...`
+char_cla: `"...If he was to die anyway, it would have been better if he was sick in bed for a year or so before dying.`
+char_cla: ` I do wish he could have died after a grace period during which the proper arrangements could have been made."`
+char_nan: `"It's the other way around.`
+char_nan: ` ......We should be glad that he was in high spirits until the very end."`
+char_cla: `"That will have to be my public stance, yes..."`
+char_non: `Nanjo understood that as well.`
+char_non: `This was the death of Ushiromiya Kinzo, a man who had risen like a comet and glittered like a supernova in the post‐war world of business.`
+char_non: `His funeral would probably be of a fantastic scale.`
+char_non: `{n}And it would also be the ceremony marking Krauss's inheritance of the headship.`
+char_non: `He would have to arrange everything as the host of the event, carry out funeral diplomacy perfectly,`
+char_non: ` and make it clear that the Ushiromiya family would still hold enormous influence in the political and financial spheres.`
+char_non: `As Nanjo watched Krauss, he was vividly reminded of the time when Kinzo had been suddenly selected as the Ushiromiya family head,`
+char_non: ` a time in which Kinzo had been lost and confused.`
+char_non: `Nanjo could remember that well, and for that reason, he was able to understand Krauss's distress and sympathize with it...`
+char_non: `Natsuhi's sobs eventually subsided.`
+char_non: `Seeing this, and leaving Kumasawa to care for Natsuhi as a fellow woman, Genji returned to Krauss.`
+char_non: `And he lowered his head slightly, as though asking what should be done.`
+char_nan: `"......Genji‐san and I will deal with the formalities.`
+char_nan: ` Krauss‐san, perhaps you should contact the relatives first."`
+char_cla: `".................."`
+char_non: `Krauss, with his hands still over his eyes, didn't respond...`
+char_non: `Perhaps even though he had known this day would come, Krauss really couldn't hide his shock at how suddenly it had reached them.`
+char_gen: `"......Leave this to Doctor Nanjo and me.`
+char_gen: ` Krauss‐sama, I suggest that you first speak with Madam."`
+char_non: `Maybe she heard that, or maybe it was a coincidence.`
+char_non: `{n}As though responding to Genji's words, Natsuhi came over.`
+char_non: `Her eyes were red from crying so much,`
+char_non: ` but she apparently understood the heavy responsibility that had been imposed on the two of them even better than Krauss did.`
+char_nat: `"As of now, you are the head of the glorious Ushiromiya family.`
+char_nat: ` Let us show our relatives and the world that you have splendidly succeeded your father.`
+char_nat: ` ......As your wife, I am prepared to serve you until the day our coffins are laid down alongside each other."`
+char_cla: `".................."`
+char_non: `Trying to encourage her husband who was overcome with shock, Natsuhi lent him some reassuring words.`
+char_non: `When Krauss finally lowered the hands that had been covering his face,`
+char_non: ` ...he looked up at the ceiling with a blank expression and let out a deep, deep sigh...`
+char_nat: `"......Please, stay strong.`
+char_nat: ` There are a great many people who will intend on helping themselves to everything Father has left behind.`
+char_nat: ` We must fight to protect Father's honor and wealth.`
+char_nat: ` That is the first responsibility of the Ushiromiya head."`
+char_cla: `"...I understand.`
+char_cla: ` I do understand."`
+char_nat: `"Doctor Nanjo, Genji, please take care of the legal and funeral arrangements.`
+char_nat: ` Especially you, Genji.`
+char_nat: ` I ask that you take particular care and see to it that the funeral will be a fitting one for Father."`
+char_gen: `"......Certainly."`
+char_nat: `"And Doctor Nanjo.`
+char_nat: ` Father didn't pass away in a hospital, ......so..."`
+char_nan: `"Yes.`
+char_nan: ` An autopsy might indeed be required depending on the circumstances......"`
+char_nat: `"Is there anything you might be able to do about it...?`
+char_nat: ` Even though he has passed away, Father's body is precious.`
+char_nat: ` Any damage to it would not be acceptable..."`
+char_nan: `"I understand how you feel.`
+char_nan: ` ...However, it is important to follow proper procedure where things like this are concerned.`
+char_nan: ` And, umm, ......I don't really know how to say this.`
+char_nan: ` I fear that several of your relatives might be difficult..."`
+char_non: `......There was no way to know what those inheritance vultures might try to find fault with.`
+char_non: `They might squawk that there was something suspicious about the cause of death, and use that as a point of contention to start some trouble.`
+char_non: `Right now, not only was it important to pay Kinzo's remains the respect they were due, but there was also a need to focus on solidifying the position of the new family head, Krauss...`
+char_nat: `"......I understand.`
+char_nat: ` In that case, please keep it to an absolute minimum.`
+char_nat: ` And whatever you do, please make absolutely sure that Father's dignity remains unharmed."`
+char_nan: `"That I can assure you.`
+char_nan: ` Please don't worry.`
+char_nan: ` ......In any event, leave Kinzo‐san to us and stay by Krauss‐san's side.`
+char_nan: ` ...Things are only going to get tougher for him."`
+char_nat: `"I understand.`
+char_nat: ` ......And you too, dear...please stay strong."`
+char_cla: `".................."`
+char_non: `Krauss was still staring lazily at the ceiling with a befuddled expression on his face...`
+char_non: `Natsuhi understood the shock and heavy responsibility.`
+char_non: `{n}She felt that she understood her husband's feelings as well as anyone possibly could.`
+char_nat: `"......I will contact the relatives.`
+char_nat: ` Please rest for the time being."`
+char_cla: `"............"`
+char_non: `Krauss didn't respond.`
+char_non: `...Natsuhi thought that he was being a little bit weak, but that just made it all the more important for her to support him right now.`
+char_non: `Seeing her husband like this actually stirred Natsuhi up, and a resolute expression rose to her face.`
+char_nat: `"Things are going to get busy.`
+char_nat: ` Let's get started with whatever we can do right now.`
+char_nat: ` .........I'm sure my husband wants to have some time alone with Father.`
+char_nat: ` We should step out for the time being."`
+char_kum: `"......Yes, I think that would be best...`
+char_kum: ` After all, I expect this will be the only time he'll have."`
+char_non: `Being in charge of a funeral is tiring work.`
+char_non: ` There's no time to shed tears.`
+char_non: `If Krauss were ever to be given time to cry for his dead father, that time would have to be now.`
+char_non: `Everyone agreed with Kumasawa's words.`
+char_non: `Even then, Krauss continued to lazily gaze up at the ceiling and didn't respond in any way.`
+char_non: `Natsuhi urged the servants to go.`
+char_nat: `"I'll go talk to Jessica too.`
+char_nat: ` ......She is the successor to the head now.`
+char_nat: ` I'll have to impress upon her that she needs to be appropriately aware of it."`
+char_cla: `{a:c:`
+char_cla: `"Wait."}`
+char_cla: `As they each started to make their way out of the study, Krauss finally spoke.`
+char_cla: `They stopped walking.`
+char_nat: `"Yes?"`
+char_cla: `"......Wait."`
+char_nat: `".........Yes??"`
+char_non: `Hadn't she already stopped walking, just like her husband had asked?`
+char_non: `{n}But despite that, he had once again told her to wait.`
+char_non: `From those slightly weak words, Natsuhi understood that he had probably stopped her because he wanted her to be by his side.`
+char_nat: `"The rest of you, downstairs.`
+char_nat: ` I will stay with my husband.`
+char_nat: ` Please call us on the phone if anything happens."`
+char_gen: `"......Certainly."`
+char_cla: `{e:150:"I said {i:wait}!!"}`
+char_non: `When Krauss suddenly raised his voice, everyone jumped and turned around...`
+char_non: `Unable to comprehend what she had done to spark her husband's wrath, Natsuhi ran up to him.`
+char_nat: `"What's wrong, dear...`
+char_nat: ` Have I said something rude...?`
+char_nat: ` If so, please forgive me."`
+char_cla: `"No, no, that's not it, that's not it...`
+char_cla: ` Wait a second, give me some time."`
+char_nat: `"Yes, I understand.`
+char_nat: ` It's important to have time to sort things out inside your heart.`
+char_nat: ` ...We were just going to leave quietly to give you the time you need..."`
+char_cla: `"And I'm telling you to wait before doing that......`
+char_cla: ` ......Listen, just no one move.`
+char_cla: ` Not even an inch...`
+char_cla: ` ......If you're tired, then feel free to sit in whatever chair or sofa you want.`
+char_cla: ` So just stay quiet and shut up in silence, don't do anything, just stay right there!"`
+char_non: `......Those unreasonable words felt like a glimpse of how Kinzo used to be.`
+char_non: `Natsuhi couldn't hide a slight surprise at those words, which made it seem as though Kinzo had possessed her husband.`
+char_non: `Natsuhi told the servants to wait for the time being.`
+char_non: `She ordered them to sit in a sofa a short distance off, approached her husband, and spoke to him in a small voice...`
+char_nat: `"......If you order it, I will wait however long you ask. I won't move.`
+char_nat: ` So please, try and calm yourself..."`
+char_cla: `"...No, ......that's not it, that's not it..."`
+char_non: `Was it really his father's blood, or was he actually being possessed?`
+char_non: `Krauss's disorderly style of speech strongly resembled Kinzo's...`
+char_non: `As she watched this, Natsuhi felt with even greater certainty that Krauss was indeed Kinzo's son,`
+char_non: ` and that he was the true successor to the head, more suitable than any other person.`
+char_cla: `".........Natsuhi.`
+char_cla: ` Over here."`
+char_non: `Krauss stood up and headed towards the window, trying to lengthen the distance between himself and the servants waiting on the sofa by even a small amount.`
+char_non: `Natsuhi realized that he must have something secret that he wanted to talk about.`
+char_nat: `"...Yes, dear?`
+char_nat: ` ......What is it...?"`
+char_cla: `"............Dad dying...`
+char_cla: `would be bad."`
+char_nat: `"Would be? But he has already passed away.`
+char_nat: ` We can't change reality..."`
+char_cla: `"That's not it.`
+char_cla: ` ...Now is...a bad time..."`
+char_nat: `"......What do you mean?"`
+char_cla: `"I've been putting Dad's fortune up as collateral.`
+char_cla: ` Once the issue of dividing the inheritance comes up, I won't be able to hide it...!"`
+char_nat: `"Wh‐...what...?`
+char_nat: ` C‐collateral, you say?`
+char_nat: ` How much...?"`
+char_cla: `"...You remember how I helped out Kondo‐kun with Melody Land?"`
+char_nat: `"Didn't I tell you to break ties with that person?`
+char_nat: ` You told me you'd refused him...!`
+char_nat: ` Why?!"`
+char_cla: `"There is such a thing as a man's honor!`
+char_cla: ` I couldn't refuse!"`
+char_non: `Krauss claimed to hold honor as a virtue.`
+char_non: `...However, Natsuhi knew that he most often used this as an excuse after he couldn't bring himself to pass up a deal.`
+char_nat: `"Th‐that wouldn't be a problem if we had plenty of money on hand...!`
+char_nat: ` But didn't you borrow quite a lot of money for the plan to turn this island into a resort?!"`
+char_cla: `"Yeah, I did!`
+char_cla: ` And there were people here and there who lent me a hand along the way!`
+char_cla: ` If I'm going to repay them, I can't just sit around on my hands!"`
+char_cla: `"You need money to repay people!`
+char_cla: ` You need money to make money!`
+char_cla: ` You can't even get started without money!`
+char_cla: ` And even the plan for this island would be proceeding smoothly if only there hadn't been problems with the planning company!"`
+char_cla: `"I had the cooperation of government officials.`
+char_cla: ` I even had the governor's personal guarantee that this would become the newest travel destination in the Tokyo Metropolis!`
+char_cla: ` The groundwork I laid was completely perfect!!`
+char_cla: ` Random chance and bad timing were against me!`
+char_cla: ` It was just a bit of bad luck.`
+char_cla: ` Like a traffic accident!!"`
+char_nat: `"That was no accident!`
+char_nat: ` It was fraud!`
+char_nat: ` You were tricked!!`
+char_nat: ` They were never drawing up plans for making this island a resort in the first place!!"`
+char_cla: `"That's not true!!`
+char_cla: ` Hijikata‐kun's vision was simply overflowing with foresight!`
+char_cla: ` The way his eyes always focused on the whole world and the future taught me that things I always believed to be mere dreams were only the tip of the iceberg of what is possible!!`
+char_cla: ` Expand your dreams! To the whole world, to the future!`
+char_cla: ` You heard him say that too, didn't you?!"`
+char_nat: `"Yes, I did...! And I think I remember telling you what I thought after we returned home!!`
+char_nat: ` I said that he was suspicious!`
+char_nat: ` That he only spoke of dreams and didn't have his feet planted on the ground,`
+char_nat: ` and that you must not have any further relations with him!!"`
+char_cla: `"Hijikata‐kun is a wonderful, pleasant young man!!`
+char_cla: ` One could learn a lot from the way he lives!`
+char_cla: ` I can respect him despite his youth!`
+char_cla: ` I won't have you insulting him!!"`
+char_nat: `"That's what you said about the whole moon tourism thing!!`
+char_nat: ` You kept saying it was visionary, that it looked to the future, that it had high aspirations, and what was the end result?!`
+char_nat: ` Eventually, even you yourself admitted that it was utter nonsense!!`
+char_nat: ` I was sure something was wrong from the moment that strange man showed up claiming to be a high‐ranking NASA official!"`
+char_cla: `"The only issue was that foreigner who was an international swindler!`
+char_cla: ` {nobr:Mr. Sonezaki} and I were {i:both} victims of that incident.`
+char_cla: ` Even now, his vision isn't mistaken!`
+char_cla: ` There will definitely come a time when space tourism will become a popular indulgence for the world's richest.`
+char_cla: ` And the very first enterprise in that area will probably be monopolized by a single, private company.`
+char_cla: ` That viewpoint is not mistaken!`
+char_cla: ` There is simply a group of international swindlers who are trying to take advantage of that fact and deceive investors across the world—"`
+char_nat: `"And I'm trying to tell you that this Sonezaki man was one of them too!!`
+char_nat: ` Just how gullible are you? Why do you always just accept these suspicious offers without any doubts?!!"`
+char_cla: `"Take that back!`
+char_cla: ` {nobr:Mr. Sonezaki} is a man with a brilliant future ahead of him!`
+char_cla: ` There's nothing suspicious about him!!`
+char_cla: ` Because the dreams he speaks of anticipate the future, they sound crazy to people who can't look that far ahead!`
+char_cla: ` A woman like you can't see into the future!!"`
+char_nat: `"Yes, a woman like me can't see into the future!!`
+char_nat: ` But I can see the present!`
+char_nat: ` Right in front of me, I can see a pitiful husband who's been taken in by sly, double‐crossing swindlers and still trusts them implicitly even after he's been tricked!!"`
+char_cla: `"Oh, shut up!!`
+char_cla: ` You don't understand anything about money or business or economics!!`
+char_cla: ` Don't try to butt in on the job of the husband!!`
+char_cla: ` All a wife needs to do is the housework!`
+char_cla: ` You just keep quiet!!!"`
+char_nat: `"...............!`
+char_nat: ` ........."`
+char_non: `Without another word, Natsuhi fell silent, just as Krauss wanted.`
+char_non: `{n}She was already far beyond anger and sadness.`
+char_non: `And the emotion that lay on the other side of those...was an almost indifferent pity.`
+char_non: `Krauss had always been frightened of Kinzo since the days of his youth, and had come to subconsciously admire the way his father lived.`
+char_non: `...Without realizing it, he had come to believe that he could only be recognized as a man in his own right if he surpassed his father.`
+char_non: `However, Kinzo had been a mad genius, the likes of which had never before been seen in the Ushiromiya family's long history.`
+char_non: `His talent was a gift from heaven,`
+char_non: ` ......and it definitely wasn't genetic, much less something that could be learned.`
+char_non: `Natsuhi instructed the servants not to tell anyone about Kinzo's death,`
+char_non: ` and dismissed everyone for the time being, to give the two of them a chance to talk alone.`
+char_non: `Then, she invited Krauss to her bedroom,`
+char_non: ` ......and made him tell her everything about their current financial situation.`
+char_non: `They were things that Natsuhi hadn't been told about under the assumption that a woman had no business knowing.`
+char_non: `Natsuhi had herself made a point of avoiding this area in the past, thinking that it wasn't a wife's place to intrude on such matters.`
+char_non: `However, this might also have meant that she had been remiss in her duty as a wife to protect her family.`
+char_non: `The depths of this sin had been made quite clear to Natsuhi...`
+char_non: `Krauss was probably tired of trying to defend himself.`
+char_non: `{n}Perhaps because he had gotten a headache, he hid his face and sank into silence...`
+char_non: `Natsuhi noticed that the water in the electric kettle was boiling and stood up to refill her cup with black tea.`
+char_non: `And when she touched the cup of black tea, she noticed for the first time.`
+char_non: `The sound of the cup and saucer clinking together told her that her fingers were shaking...`
+char_non: `Krauss had built up a large debt to obtain funds for his various projects...and to cover the losses when they failed.`
+char_non: `Of course, he had put the mansion and property up as collateral.`
+char_non: `However, doing such a thing above board would have resulted in the mortgage being registered.`
+char_non: `In other words, there would have been a record that Krauss had put Kinzo's wealth up as collateral to obtain a loan without anyone's permission.`
+char_non: `Krauss couldn't afford for Kinzo, Eva, and the others to learn of such a thing.`
+char_non: `Therefore, he had been putting those assets up as collateral using the worst possible method.`
+char_cla: `".........I signed over the deeds and power of attorney..."`
+char_nat: `"And...what does that mean......?"`
+char_non: `What Krauss was saying probably meant that he had, in essence, signed away the rights to their assets.`
+char_non: `If those assets had been used as collateral for a loan, then Krauss would have had some options under the law.`
+char_non: `He would have had to deal with a bank, which would have absolutely no compassion,`
+char_non: ` but they would have been able to work something out within the rules set by society.`
+char_non: `......However, signing away the deed and power of attorney was a whole different story.`
+char_non: `In short, even the mansion they were living in was at risk.`
+char_non: ` If the person holding the deed were to decide to ignore his agreement with Krauss and sell the mansion to a third party right this moment, they would have no recourse whatsoever.`
+char_non: `Far from using their house as collateral for a loan, this was basically the same as selling it to borrow money...`
+char_nat: `"...In other words, ...the moneylenders have the power to make or break the Ushiromiya family as they please.`
+char_nat: ` If they were to suddenly sell our house on some slight whim,`
+char_nat: ` ......we'd have to pack our bags and leave right now, wouldn't we...?"`
+char_cla: `"That is technically true.`
+char_cla: ` However, all of the people I have arrangements with are very reputable.`
+char_cla: ` They aren't loan sharks.`
+char_cla: ` These are transactions based on trust between economically literate men."`
+char_cla: `"I trust them.`
+char_cla: ` And they, in turn, trust that by lending me money, I will achieve great success in business and give them massive returns on their investment.`
+char_cla: ` I signed over the power of attorney as a sign of good faith and so that they wouldn't have to doubt in the certain success of my enterprises."`
+char_cla: `"What happens if I hesitate now?`
+char_cla: ` Wouldn't that mean even I have no confidence in my own ventures?!"`
+char_nat: `".................."`
+char_non: `If your ventures had been successful, we wouldn't be in debt now, would we...`
+char_non: `{n}...Natsuhi only barely stopped herself from saying it.`
+char_nat: `"......Father is dead.`
+char_nat: ` What happens next?`
+char_nat: ` Your debt will be exposed to the light of day, and your siblings will hold you responsible?"`
+char_cla: `"............That won't be all.`
+char_cla: ` ......It will probably lead to criminal charges..."`
+char_nat: `"C‐criminal charges......`
+char_nat: ` Wh‐why is that......?"`
+char_cla: `".........It's better if you don't know.`
+char_cla: ` ......The point is...we can't allow anyone to find out about this......"`
+char_nat: `"..............."`
+char_non: `Krauss looked at the floor shamefully, shaking his head over and over......`
+char_non: `If it would come to criminal charges, ...then he must have broken some laws.`
+char_non: `He had probably been so intent on raising a large sum of money that he hadn't paid any heed to appearances.`
+char_non: `......Krauss had seriously believed that his many projects would definitely succeed and return huge profits.`
+char_non: `So he had figured that even if he broke a few laws, he would be able to pay everything back before too long and pretend that the whole thing had never happened.`
+char_non: `......This might have lessened his resistance towards breaking a couple laws.`
+char_non: `And now Kinzo's death, the worst possible thing, had occurred, and soon he wouldn't be able to keep it all hidden......`
+char_nat: `"......What will happen to us?"`
+char_cla: `"Th‐there is no need to worry...`
+char_cla: ` You may not believe, but conditions are most certainly on the rise now.`
+char_cla: ` The value of the city real estate I invested in is rising rapidly."`
+char_cla: `"I have a project in progress to consolidate those and construct a massive business tower.`
+char_cla: ` This is the most reliable of all my investments so far, and it's proving to be the most successful."`
+char_cla: `"......However, it will take a little more time for it to bear fruit.`
+char_cla: ` It's absolutely certain to do so, but it will not happen immediately..."`
+char_nat: `"......Will the success of that venture be enough to pay back our debts?"`
+char_cla: `"Of course it will.`
+char_cla: ` I'll be able to write off all of the debt I've accumulated so far...!!`
+char_cla: ` So believe me.`
+char_cla: ` I only need a little more time!"`
+char_nat: `"But Father has already passed away!`
+char_nat: ` We don't have that kind of time anymore!"`
+char_cla: `"I know, I know that...!!`
+char_cla: ` That's why...I have to obtain money from somewhere and pay off those debts right now!"`
+char_cla: `"I need money, that's what it comes down to...`
+char_cla: ` Money, a lot of it, right now!!`
+char_cla: ` Aaa{0}a{0}a{0}a{0}a{0}aarr{0}r{0}rgghh{0}h{0}h{0}hh...!!"`
+char_non: `Krauss roared and clutched his head, writhing about as if in pain.`
+char_non: `As Natsuhi watched, several conflicting emotions swirled about in her chest.`
+char_non: `{n}She felt pity for her husband, but at the same time, she felt he was a fool.`
+char_non: `......And she also felt a mixture of anger and regret towards her own irresponsibility in letting her husband run wild for so long.`
+char_non: `It should have been clear to him well before today that they were in a very critical situation.`
+char_non: `And yet he had irresponsibly waited for this moment to come and was now writhing about.`
+char_non: `......Her husband was so foolish......and pitiful.`
+char_non: `{n}It was easy to feel frustrated with him.`
+char_non: ` ......However, she was his wife.`
+char_non: `For a wife to ridicule her husband as a fool would run in conflict with her responsibilities.`
+char_non: `...If he was a fool, then she would have to support him to compensate...`
+char_non: `However, she didn't have a clue what she was meant to do about this...`
+char_non: `If there was a massive amount of money like that within easy reach,`
+char_non: ` there was no way that Krauss wouldn't have already laid his hands on it......`
+char_non: `It would also be easy to tell him to be a man and give up on everything.`
+char_non: `{n}But that would also run in conflict with her responsibilities.`
+char_non: `She was Ushiromiya Natsuhi.`
+char_non: `......The woman who had become Krauss's wife and sworn to support him, the new head of the Ushiromiya family, for as long as she lived.`
+char_non: `She had to somehow help her husband in his efforts to raise money.`
+char_non: `......She understood it logically.`
+char_non: `But she couldn't suppress the indescribable feeling of dejection that seemed to rise up from the dark depths of her heart......`
+char_cla: `"That's right, D‐Dad's hidden gold...!`
+char_cla: ` Ten tons of gold is worth 20 billion yen!`
+char_cla: ` If I had that...`
+char_cla: ` That's right, if I had that, everything could be resolved...!"`
+char_cla: `"Natsuhi, that's it! The witch's epitaph!`
+char_cla: ` Let's solve that, let's solve it together!`
+char_cla: ` If we can just find the gold, everything will work itself out!!`
+char_cla: ` That's right, it must be hidden somewhere on this island!!`
+char_cla: ` If we had that, if we had that!!"`
+char_nat: `"Y‐you're hurting me...`
+char_nat: ` Dear,`
+char_nat: ` ......p‐please, stop this......"`
+char_non: `Krauss, acting as excited as if he'd thought up a perfect, brilliant plan, grasped Natsuhi's upper arm tightly.`
+char_non: `Natsuhi couldn't help but be dumbfounded.`
+char_non: `It wasn't just because she'd heard something as fake‐sounding as the hidden gold brought up.`
+char_non: `Krauss usually disparaged the story of the hidden gold,`
+char_non: ` saying that it didn't exist and that it was all a fiction his father had created to borrow a lot of money.`
+char_non: `Natsuhi was doubly taken aback because of this...`
+char_cla: `"I know, let's have Jessica help us too.`
+char_cla: ` Maybe some things can only be solved with the sense of a child!`
+char_cla: ` This is a family crisis.`
+char_cla: ` All of us have to stick together!!"`
+char_cla: `"Yes, it's just a fanciful little puzzle that Dad created...!!`
+char_cla: ` We should be able to solve it... There's no way we can't solve it...!`
+char_cla: ` It's the only way!!"`
+char_cla: `"Oh, Natsuhi, this is wonderful,`
+char_cla: ` we still have an option left, and right here next to us!!`
+char_cla: ` The gold is on this island!!`
+char_cla: ` If we had it, everything would be resolved!"`
+char_cla: `"Waha, waha{0}ha{0}ha{0}ha{0}ha{0}ha{0}ha{0}ha{0}hahaha!!`
+char_cla: ` Natsuhi, call Jessica here right away!`
+char_cla: ` Let's overcome this family crisis as a family!!`
+char_cla: ` Yes, right now!!`
+char_cla: ` The gold is on this island, it's right beside us!!`
+char_cla: ` ......Wah!!"`
+char_non: `Natsuhi knocked Krauss aside, unable to withstand the pain in the arm he was twisting in his excitement.`
+char_non: `Krauss tripped over the edge of the bed and flopped pathetically onto the floor...`
+char_nat: `"P‐please get ahold of yourself!!`
+char_nat: ` And please calm down...!!`
+char_nat: ` Do you really think that this Ushiromiya family crisis......could be solved by saying something as dream‐like as that...?!!"`
+char_cla: `"N‐.........Natsuhi........."`
+char_nat: `"Please, cool your head off and think of a realistic plan to gather money...!!`
+char_nat: ` I'm going to go cool my head off as well......!"`
+char_cla: `"...Wait......Natsuhi......"`
+char_non: `Maybe falling over had knocked the sense back into him.`
+char_non: `{n}Krauss tried to tell Natsuhi to stop, but she just kept walking.`
+char_non: `Closing the door forcefully, Natsuhi dashed away......`
+char_non: `Natsuhi ran through the corridor.`
+char_non: `She didn't want anyone to see her like this, but she ran headlong into Genji......`
+char_gen: `"......My deepest apologies.`
+char_gen: ` Madam, have you been injured...?"`
+char_nat: `"I, I'm alright.`
+char_nat: ` Leave me alone...!!"`
+char_gen: `".........Certainly."`
+char_nat: `"Oh, ......Genji.`
+char_nat: ` ...What's the state of Father's study?"`
+char_gen: `"......It is just as you left it.`
+char_gen: ` Doctor Nanjo is in the parlor."`
+char_nat: `"I see...`
+char_nat: ` ......Do you have the key to the study?"`
+char_gen: `"Yes.`
+char_gen: ` Right here."`
+char_nat: `"Give it to me.`
+char_nat: ` ...Let me have some time alone with Father.`
+char_nat: ` If my husband asks where I am, tell him you don't know."`
+char_gen: `"......Certainly."`
+char_non: `After grabbing the key to the study that Genji was holding out to her, Natsuhi rushed up the stairs.`
+char_non: `She then flew into the study,`
+char_non: ` ......and finally, ...she cried out loud.`
+char_nat: `".........Father......`
+char_nat: ` Please forgive our foolishness...!!`
+char_nat: ` My husband and I...`
+char_nat: `...aren't capable of inheriting all that you created...!`
+char_nat: ` Please......please,`
+char_nat: ` ............forgive us for our foolishness and our crimes...`
+char_nat: ` And,`
+char_nat: ` ...if you can forgive us,`
+char_nat: ` .........please guide the way for us fools......"`
+char_non: `Clinging to Kinzo as he slept in the bed, Natsuhi cried even harder.`
+char_non: `She kept imagining Kinzo sitting up suddenly and patting her head.`
+char_non: `No, Father isn't the type of person to pamper...`
+char_non: `{n}More likely, he'd yell at me to stop being so noisy.`
+char_non: `......However, neither of these imaginations would come true.`
+char_non: `{n}...Because it was an undeniable fact that Kinzo had entered an eternal sleep.`
+char_non: `{n}But even so, Natsuhi begged the sleeping Kinzo to forgive and help them...`
+char_non: `It had only been a few hours since his passing.`
+char_non: `Perhaps his soul was still here, listening to her.`
+char_non: `......Believing this, Natsuhi begged for Kinzo's forgiveness and help even more earnestly......`
+char_kin: `{a:c:`
+char_kin: `"Noisy woman.`
+char_kin: ` Don't I always say that I value silence?"}`
+char_nat: `".........Huh—"`
+char_non: `That voice made Natsuhi jump up in surprise.`
+char_non: `When she faced in the direction that the voice had come from, .........she saw Kinzo sitting at the study desk, folding up his reading glasses...`
+char_kin: `"Did you get in a fight with Krauss again?`
+char_kin: ` ......Neglecting his wife...that Krauss only inherited my bad traits."`
+char_nat: `"F‐.........Father......"`
+char_kin: `"......What a wretched‐looking face.`
+char_kin: ` Wash it.`
+char_kin: ` Aren't you the wife of the successor to the Ushiromiya family?`
+char_kin: ` You mustn't let the servants see you wear such a shameful expression."`
+char_nat: `"Y‐......yes, Father...`
+char_nat: ` ...My apologies......"`
+char_non: `......Natsuhi understood.`
+char_non: `This was just an illusion, ...one that Natsuhi had created from her desire to speak with Kinzo and her memories of the man as he once was.`
+char_non: `No, that's not it...`
+char_non: `......She believed that just for now, Kinzo's soul had shown itself to her.`
+char_non: `She was sure that doubting this would cause it to vanish in an instant...`
+char_kin: `"It seems that a family crisis has arisen the very instant the headship was passed on..."`
+char_nat: `"Y‐...yes, Father......`
+char_nat: ` I wasn't able to support my husband...`
+char_nat: ` ......I am truly...very sorry......"`
+char_kin: `"Hmph.`
+char_kin: ` The Ushiromiya family is so very cursed.`
+char_kin: ` It was in a terrible state when I succeeded the headship too.`
+char_kin: ` The hardships you two are suffering are trivial in comparison."`
+char_non: `Kinzo's succession to the family headship came suddenly.`
+char_non: `At the time, he was nothing more than a young man from one of the branch families, far separated from the Ushiromiya main family.`
+char_non: `The main family might have had honor and tradition, but that was of no relevance at all to Kinzo, and he couldn't have cared less.`
+char_non: `Then, the principal members of the main family were wiped out in the Great Kanto Earthquake, along with their businesses.`
+char_non: `On top of that, there was a complicated antagonism between the members of the family at the time,`
+char_non: ` and the elders were all trying to impose their will on the others in that sinking ship.`
+char_non: `Because of this, they weren't even able to elect a leader to rebuild the Ushiromiya family.`
+char_non: `They found common ground by selecting Kinzo, a youth with absolutely no ties to any of the opposing elders, to be the head.`
+char_non: `So the elders hadn't really entrusted Kinzo with the rebuilding of the Ushiromiya family.`
+char_non: `Kinzo had been nothing more than their puppet, with his arms and legs being pulled in opposite directions......`
+char_nat: `".........Yes.`
+char_nat: ` ...I know a lot about your days of suffering, Father."`
+char_kin: `"And then the war started.`
+char_kin: ` I was already tired of life at that point.`
+char_kin: ` I hoped to die on the battlefield, but I wasn't sent to the front lines.`
+char_kin: ` ......However, the state of the war grew worse with every day, and the time for the decisive battle on the Japanese mainland seemed to grow ever closer.`
+char_kin: ` As bad as it might sound, I hoped that day would come quickly..."`
+char_non: `It was said that as Kinzo listened to Death's approaching footsteps day in and day out,`
+char_non: ` ...he started cutting his ties with this world one by one.`
+char_non: `And then, on that day when he had freed himself from all his attachments to life, and reached a state of enlightenment......`
+char_non: `...he had a mystical experience.`
+char_non: `......And he met her.`
+char_non: `{n}The Golden Witch, {f:5:Beatrice}......`
+char_kin: `"I made a contract with the witch and was given gold and the power of madness.`
+char_kin: ` ......On that day, the old me died, and a new me possessing the insane power of magic was born."`
+char_nat: `"...I know.`
+char_nat: ` And after the war,`
+char_nat: ` you used your ingenious cunning to revive the Ushiromiya family."`
+char_non: `The now‐deceased elders who knew Kinzo at the time...`
+char_non: `had whispered to each other that Kinzo must have taken a knock to the head on the battlefield and returned with a different personality...`
+char_non: `That was how much Kinzo stood out after the war.`
+char_non: `Whether the story about Kinzo meeting a witch was true or not,`
+char_non: ` there could be no doubt that the extraordinary experience of war had prepared him for death...and let him reach a state of enlightenment.`
+char_non: `Natsuhi must surely have felt that if Kinzo had decided to describe that resulting mystical experience as a meeting with a witch, that wasn't something she could flatly dispute...`
+char_nat: `"......That's right.`
+char_nat: ` ...You returned from the war,`
+char_nat: ` conquered the witch {f:5:Beatrice}, and became the head of the Ushiromiya family in the truest sense..."`
+char_kin: `"Correct.`
+char_kin: ` Before I met {f:5:Beatrice}, I was nothing more than a puppet and only the head in name.`
+char_kin: ` ......I only became the head after conquering the Golden Witch."`
+char_nat: `"......Father......`
+char_nat: ` Will this...Golden Witch...aid my husband Krauss now that he's the new head...?"`
+char_kin: `"Oh, she will.`
+char_kin: ` Assuming that he has truly succeeded the headship."`
+char_nat: `"Wh‐what do you mean by "truly succeeded"......?"`
+char_kin: `"I mean it depends on whether he bears the responsibility and pride of the Ushiromiya family head in the truest sense.`
+char_kin: ` ...Natsuhi, you should understand this.`
+char_kin: ` The headship is not inherited by blood.`
+char_kin: ` It is inherited through spirit and conviction.`
+char_kin: ` ......Even though Krauss is my eldest son, he cannot be called the true head if he does not possess these things!"`
+char_kin: `"And even someone other than Krauss would make a splendid new head so long as that spirit dwelled in their heart.`
+char_kin: ` The Golden Witch {f:5:Beatrice} will lend her power to that true head.`
+char_kin: ` .........Isn't that right, {f:5:Beatrice}?!!"`
+char_non: `When Kinzo called the witch's name, ......gold butterflies seethed out of every corner of the room.`
+char_non: `This fantastical scene had an otherworldly beauty to it.`
+char_non: `It was like standing in the midst of a blizzard of golden flower petals being blown about a rose garden of gold.`
+char_non: `As Natsuhi stared at this scene in shock, the gold butterflies gathered and formed a human shape...`
+char_non: `Then, ......the witch of the portrait appeared...`
+char_bea: `"Indeed.`
+char_bea: ` I am the Ushiromiya family alchemist, the Golden Witch {f:5:Beatrice}.`
+char_bea: ` ......I am free to run rampant!`
+char_bea: ` I do not listen to anyone's orders."`
+char_kin: `"And there's only one person in the world who can control her.`
+char_kin: ` Me.`
+char_kin: ` ......That is why I am qualified to be the Ushiromiya family head."`
+char_bea: `"Hmph.`
+char_bea: ` So that pride of yours is what qualifies you to be the head?"`
+char_kin: `"Pride implies self‐confidence and bravery.`
+char_kin: ` And, it is the embodiment of the insatiable desire to gain the power to match.`
+char_kin: ` ...That is why I control you."`
+char_bea: `".........It is quite pleasant to watch men who speak of pride as they turn that desire into reality.`
+char_bea: ` The "quiet man of action" is nothing more than an excuse used by the extremely lucky.`
+char_bea: ` ...A true monarch also speaks of what he doesn't have.`
+char_bea: ` And he makes sure to turn that arrogance, that pride, into reality.`
+char_bea: ` ......If one is to control me, they must possess that monarch's pride."`
+char_kin: `"Do you understand, Natsuhi?`
+char_kin: ` A true monarch fears no hardship.`
+char_kin: ` They declare that they will overcome anything without fail.`
+char_kin: ` Even if they haven't yet figured out how.`
+char_kin: ` This gives hope to the weak people.`
+char_kin: ` They gather, revere the monarch, and swear to assist him.`
+char_kin: ` That is where power is gained and his word is carried out.`
+char_kin: ` Engrave that into your heart."`
+char_nat: `"Y‐.........yes, Father......"`
+char_non: `Natsuhi understood.`
+char_non: `Through this mystical experience, ...Kinzo was teaching her the attitude required to overcome hardship.`
+char_non: ` ...Even after his own death.`
+char_non: `Feeling a warm sensation rise up in her chest, she let the valuable words Kinzo had given her echo through her mind over and over.`
+char_non: `......A true monarch,`
+char_non: ` ...in other words,`
+char_non: ` the true head of the Ushiromiya family...was not to fear hardship.`
+char_non: `They had to believe that they could overcome any hardship...`
+char_non: ` If they could not believe themselves capable, then there was no reason why they would be...`
+char_non: `.........Natsuhi suddenly felt very ashamed of the way she had come into this room,`
+char_non: ` sobbing and asking Kinzo what to do...`
+char_nat: `"I......was foolish..."`
+char_kin: `"..............."`
+char_nat: `"...Of course there's no time for crying when an Ushiromiya family crisis is upon us.`
+char_nat: ` And now that we have inherited the Ushiromiya family from you, Father, we must protect its honor no matter what."`
+char_bea: `"Hoh.`
+char_bea: ` ......Even though you can't even draw a blueprint on how to repay Krauss's debts?"`
+char_non: `As {f:5:Beatrice} laughed unpleasantly,`
+char_non: ` ......no, that wasn't it.`
+char_non: `{n}She was testing Natsuhi, to see whether she possessed the mental readiness to be a true monarch.`
+char_non: `Natsuhi didn't hesitate anymore.`
+char_non: `{n}She answered clearly, gazing into {f:5:Beatrice}'s eyes.`
+char_nat: `"Yes.`
+char_nat: ` At this moment, I have not yet discovered the method that we should pursue.`
+char_nat: ` However, my husband is the new head of the Ushiromiya family, and I am his supporting wife.`
+char_nat: ` So in my husband's place, I will proclaim it."`
+char_bea: `"Let us hear it."`
+char_nat: `"Ushiromiya Krauss and Natsuhi will definitely overcome these trials and protect the honor of the Ushiromiya family.`
+char_nat: ` You have nothing to worry about, Father."`
+char_kin: `"......You do know the scope of Krauss's debt, as well as the disastrous state things are in?"`
+char_nat: `"Yes.`
+char_nat: ` Things could hardly be worse—we could even be ordered to leave this mansion tomorrow, and we wouldn't be able to refuse.`
+char_nat: ` Once the distribution of the inheritance comes up, his relatives might even file a criminal complaint against us."`
+char_nat: `"However, there is no need to worry.`
+char_nat: ` We will repay all of the debts before then and restore our honor."`
+char_non: `As she stood at attention with a resolute attitude,`
+char_non: ` Natsuhi proclaimed this clearly with Ushiromiya Kinzo and {f:5:Beatrice} as witnesses.`
+char_non: `For a while,`
+char_non: ` they remained silent, as though weighing Natsuhi's resolve.`
+char_non: `Then Kinzo chuckled and turned away...`
+char_kin: `"......How vexing.`
+char_kin: ` ...Why couldn't this person have been my son..."`
+char_bea: `"The very fact that a woman with such a disposition married your son is another sign of your great luck."`
+char_kin: `"............`
+char_kin: ` {f:5:Beatrice}.`
+char_kin: ` This is my final order."`
+char_bea: `"Now that you are no longer the head, I am not obligated to obey your orders."`
+char_kin: `"Hoh.`
+char_kin: ` In that case, obey the orders of the new Ushiromiya family head."`
+char_bea: `"You are no longer the head, and Krauss is not yet the head.`
+char_bea: ` Whom are you suggesting that I serve?"`
+char_kin: `"I will leave that to you.`
+char_kin: ` It is up to you to decide who is qualified to succeed the Ushiromiya family head, and who is fitting to bear the mark of the One‐winged Eagle.`
+char_kin: ` ......You will be witness."`
+char_bea: `"I refuse.`
+char_bea: ` I won't listen to the orders of a man who isn't the head."`
+char_kin: `"No, this is different.`
+char_kin: ` This is a will.`
+char_kin: ` The last order that the head left behind for you."`
+char_bea: `"......*cackle*.`
+char_bea: ` Then it seems I will have to obey.`
+char_bea: ` What a good friend I am."`
+char_kin: `"I think not."`
+char_bea: `"Hoh?"`
+char_kin: `"You're only doing this because it caught your interest."`
+char_bea: `"I can't hide anything from you, can I?"`
+char_kin: `"Natsuhi."`
+char_nat: `"Yes, Father..."`
+char_kin: `"Go and overcome your hardship."`
+char_nat: `"...Y‐.........yes."`
+char_non: `To Natsuhi, that might have been nothing more than a simple response,`
+char_non: ` but to Kinzo and {f:5:Beatrice}, it seemed to carry much greater significance.`
+char_non: `{f:5:Beatrice} nodded deeply,`
+char_non: ` and with a motion as elegant as her dress, she bowed deeply before Natsuhi...`
+char_bea: `"The Ushiromiya family alchemist, the Golden Witch {f:5:Beatrice}, right here.`
+char_bea: ` I will give you my aid so that the Ushiromiya family can overcome crisis once again..."`
+char_nat: `"......Thank you.`
+char_nat: ` I will need your power.`
+char_nat: ` We will most certainly overcome these trials."`
+char_bea: `"I will not hold back on my support for your cause, but there is something I must warn you about beforehand.`
+char_bea: ` I understand that your troubles now could be solved if I were to bestow a vast quantity of gold again, like I did when I saved Kinzo from his crisis.`
+char_bea: ` However, that is something I cannot do."`
+char_nat: `".........I see."`
+char_kin: `"Sorry, Natsuhi.`
+char_kin: ` The contract for {f:5:Beatrice}'s gold stated that it cannot be inherited.`
+char_kin: ` It was agreed that it could only be passed on to another if that person solves the witch's epitaph."`
+char_bea: `"The gold is sealed away by the epitaph.`
+char_bea: ` As long as that is not solved, I cannot give you the magic of gold."`
+char_nat: `".........I understand.`
+char_nat: ` Then I shall search for another method by which we can save ourselves from this crisis.`
+char_nat: ` ......My husband said that his plan would take time, but he also said that it would definitely be sufficient to repay our debts.`
+char_nat: ` If we can buy enough time for that to happen, we will be able to overcome this trial."`
+char_kin: `"Good, Natsuhi.`
+char_kin: ` Continue."`
+char_bea: `"But Kinzo is already dead.`
+char_bea: ` The doctor and servants are preparing his funeral,`
+char_bea: ` and you will be contacting the family members about it.`
+char_bea: ` The window of opportunity for you to raise money will be closed by your own hand.`
+char_bea: ` *cackle*cackle*, how charming is a guillotine where you lower the blade yourself..."`
+char_nat: `"..................Ah—"`
+char_non: `Natsuhi gasped and looked up at the ceiling.`
+char_non: `There wasn't actually anything there.`
+char_non: `{n}......But even so, Natsuhi had found something.`
+char_kin: `"So, ......the magical power has descended."`
+char_bea: `"Natsuhi.`
+char_bea: ` ......Have you made up your mind?`
+char_bea: ` What magic of miracles do you desire from me?"`
+char_non: `......All of those who had witnessed Kinzo's corpse were once again gathered in the study.`
+char_non: `Krauss was still very unsettled and clutching at his head.`
+char_non: `Genji was as expressionless as ever.`
+char_non: `Nanjo and Kumasawa wore bewildered expressions on their faces.`
+char_non: `But in stark contrast to all of them, Natsuhi's expression was resolute.`
+char_nat: `"Dear, let me ask you one more time.`
+char_nat: ` Your plan for raising money is absolutely certain?"`
+char_cla: `"......Y‐......yes.`
+char_cla: ` Give it a year, ...no, just half a year, and it will certainly bear fruit!`
+char_cla: ` But it's just impossible to hope for anything right this second......"`
+char_nat: `"Then we will wait."`
+char_cla: `"B‐but you said it yourself.`
+char_cla: ` ......Dad is already dead......"`
+char_nat: `"Father hasn't passed away.`
+char_nat: ` As you can see, he is as healthy as ever."`
+char_non: `When Natsuhi said this, everyone looked up instantly, startled.`
+char_non: `{n}...Because they immediately understood what those words meant...`
+char_non: `However, Krauss alone didn't get it right away and had to ask.`
+char_cla: `"What......`
+char_cla: `do you mean by that......?`
+char_cla: ` Dad is right there,`
+char_cla: ` and he's......"`
+char_nat: `"I will say it again.`
+char_nat: ` Father is still in good health.`
+char_nat: ` He is busy with his research, so he'll be even less able to leave his study than usual.`
+char_nat: ` Because of this, we must handle all external affairs ourselves,`
+char_nat: ` so that Father can devote himself to his research without being burdened by meaningless tasks."`
+char_nat: `"In short, nothing will change from the way things have been up until now.`
+char_nat: ` .........Do you understand, Genji?"`
+char_gen: `"...............Yes.`
+char_gen: ` ...The furniture of the One‐winged Eagle will continue to serve the Master."`
+char_nat: `"Kumasawa.`
+char_nat: ` And you, Doctor Nanjo.`
+char_nat: ` Do you understand what I'm saying?"`
+char_kum: `"......Oh, ...uh, ......ummm..."`
+char_nan: `"I‐......is this really what you want to do, Natsuhi‐san......?"`
+char_nat: `"It may be true that Father passed away today.`
+char_nat: ` But if everyone here right now believes, we can use magic to revive Father."`
+char_kum: `"I‐it's impossible, Madam...`
+char_kum: ` That's just too much...!"`
+char_nan: `"The time of death will be determined during the autopsy.`
+char_nan: ` We can't stop it from looking suspicious...!"`
+char_nat: `"Father will not pass away, so there will be no reason for there to be an autopsy."`
+char_non: `Of course, she wasn't planning to make Kinzo live forever.`
+char_non: `The fake life given to Kinzo would only last until Krauss could repay his debts.`
+char_non: `After that, Kinzo's soul would finally be able to sleep in peace.`
+char_non: `Nanjo repeated himself that the time of death would be discovered during the autopsy, but Natsuhi said again that this wouldn't be a problem.`
+char_nat: `"Father will not pass away by being reported dead."`
+char_cla: `"A‐.........ah, I see.`
+char_cla: ` ......He'll be reported missing...!!"`
+char_non: `After clapping his hands together, Krauss stood up, shaking his fists.`
+char_nat: `"Yes.`
+char_nat: ` Once we've managed to pay back the debt and finish the preparations to lay Father to rest, we will then announce that Father has disappeared."`
+char_non: `Rokkenjima's vast, uncultivated forest was the perfect place to stage a disappearance.`
+char_non: `One day, Kinzo would go out to the forest for a walk and never return.`
+char_non: ` ......They would search for him without success and then be forced to report his disappearance...`
+char_cla: `"If he disappears, we can file a report of his death even without a corpse.`
+char_cla: ` In other words, we can conceal the time of death!`
+char_cla: ` What do you think, Doctor Nanjo?!`
+char_cla: ` There won't be any problems this way!"`
+char_nan: `"Y‐......yes, I can see the logic, but......"`
+char_kum: `"...Are you sure about this, Madam...?`
+char_kum: ` Y‐yes, if all of us can keep quiet, then perhaps we could keep it a secret that the Master has passed away...!`
+char_kum: ` But there are so many ways that one of us could slip up and allow someone to find out...!!"`
+char_nat: `"Kumasawa.`
+char_nat: ` Keep your voice down.`
+char_nat: ` ......Have you forgotten that Father is sleeping right over there?`
+char_nat: ` Are you trying to wake him?"`
+char_non: `It isn't a corpse.`
+char_non: ` ...Kinzo...is sleeping.`
+char_non: `As Natsuhi said that,`
+char_non: ` ......Kinzo lay quietly on the bed, as though there was nothing at all odd about her words.`
+char_bea: `"Come, try to remember.`
+char_bea: ` What form did you have?`
+char_bea: ` What sort of life did you enjoy?!"`
+char_non: `Once again, a storm of gold butterflies started to swirl, covering Kinzo's cold body...`
+char_non: `Then, after the butterflies exploded into fine gold powder and disappeared,`
+char_non: ` .........just like those fairy tales that have been told over and over since long ago, ......Kinzo slowly opened his eyes and sat up...`
+char_nat: `".........F‐......Father......!!"`
+char_kin: `"......Natsuhi.`
+char_kin: ` Let me first make one thing clear.`
+char_kin: ` I did not coax you into doing this because I have an attachment to life."`
+char_bea: `"You liar.`
+char_bea: ` Don't tell me you didn't anticipate this at least a little.`
+char_bea: ` How does it feel, Kinzo?`
+char_bea: ` How is your body?"`
+char_kin: `"It isn't bad, but it feels somewhat like being in a dream.`
+char_kin: ` I feel light."`
+char_bea: `"A being not permitted to remain in this world still remains here.`
+char_bea: ` You'll have to accept a little discomfort."`
+char_nat: `"...Is your body truly alright?!`
+char_nat: ` Are you really...alright...?!"`
+char_kin: `"Mm.`
+char_kin: ` Actually, this feels quite pleasant.`
+char_kin: ` ......If this is what the world after death feels like, playing the part of a ghost might not be so bad."`
+char_bea: `"How is this, Natsuhi?`
+char_bea: ` Kinzo has revived.`
+char_bea: ` That means a funeral is unnecessary.`
+char_bea: ` Your hardship has been resolved!"`
+char_nat: `"......B‐{f:5:Beatrice}..."`
+char_non: `As Natsuhi tried to find words of gratitude,`
+char_non: ` {f:5:Beatrice} waggled her index finger and spoke.`
+char_bea: `"There is no need for thanks.`
+char_bea: ` A ruler should be proud.`
+char_bea: ` I do not pay heed to requests, but I do follow orders."`
+char_nat: `"I'll say it even so.`
+char_nat: ` ......Thank you.`
+char_nat: ` This way, ......you've bought some time for my husband...`
+char_nat: ` ......We will handle the rest."`
+char_bea: `"Be warned, Natsuhi.`
+char_bea: ` Kinzo may have revived, but that is not an eternal thing.`
+char_bea: ` It will only continue as long as my magic does."`
+char_bea: `"......Be warned that the anti‐magic toxin might destroy the magic.`
+char_bea: ` You must understand the laws of magic correctly and work hard to maintain it.`
+char_bea: ` I can show you a miracle, but it is your role to grasp it and hold it together."`
+char_nat: `"Of course.`
+char_nat: ` We won't neglect the miracle you have given us."`
+char_bea: `"Very good.`
+char_bea: ` ...I see... It seems masters do need to be changed every once in a while, just like floor mats.`
+char_bea: ` *cackle*cackle*!`
+char_bea: ` I like it.`
+char_bea: ` I shall serve you."`
+char_bea: `"Ushiromiya Natsuhi!`
+char_bea: ` I am the Ushiromiya family alchemist, the Golden Witch {f:5:Beatrice}...!!`
+char_bea: ` Call my name whenever you wish. I shall then appear and grant you a miracle."`
+char_nat: `"Thank you.`
+char_nat: ` I am Ushiromiya Natsuhi.`
+char_nat: ` I will employ you to protect the honor of the Ushiromiya family...!!"`

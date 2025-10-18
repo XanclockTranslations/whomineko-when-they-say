@@ -1,0 +1,876 @@
+char_eva: `...Thirty minutes had already passed since Rudolf's group had left the guesthouse.`
+char_eva: `By any measure, their return was too late.`
+char_eva: `{n}...And Krauss and Natsuhi, who were waiting by the entrance, were by now about as restless as they could stand.`
+char_eva: `The chain was set on the door.`
+char_eva: ` That was a precaution in the event that Rudolf's group was attacked, and the master key was stolen from them.`
+char_eva: `For that reason, they needed to wait by the entrance like this for the others to return...`
+char_nat: `"......They really are taking too long.`
+char_nat: ` You don't think something happened to them...?"`
+char_cla: `"...............Hmm..."`
+char_non: `Krauss glanced between the clock and the door, struggling to feign composure.`
+char_nat: `"If...by some chance they were not to return......"`
+char_cla: `"...A terrible thought, but it looks as though we should ready ourselves for that possibility.`
+char_cla: ` ......It really was reckless, after all."`
+char_nat: `"Th‐that is what I said...!`
+char_nat: ` Why did they go outside when they knew it was this dangerous...!`
+char_nat: ` How foolish!`
+char_nat: ` Why go outside, even though Rosa‐san had just been attacked...?!!"`
+char_cla: `".........Nothing will come from saying that now.`
+char_cla: ` ...In any event, there are now three adults in the guesthouse.`
+char_cla: ` Me, you,`
+char_cla: ` ......and Eva, who's asleep with a high fever."`
+char_non: `At that time, there was the forceful sound from the hallway of a door being opened, and Eva's shrieking voice.`
+char_non: `...That voice kept calling Hideyoshi's name.`
+char_non: ` ......It seemed as though the high fever had given her a bad dream or something, and now she was calling her husband's name.`
+char_nat: `"Eva‐san...`
+char_nat: `what is it, are you alright...?"`
+char_eva: `"Wh‐...where is my husband?!`
+char_eva: ` My husband isn't here!!`
+char_eva: ` He promised that he'd stay with me the whole time!`
+char_eva: ` He promised that he'd hold my hand the whole time!!"`
+char_non: `...Krauss was taken aback by this attitude of hers, which she had never shown in front of him before, but Natsuhi understood her feelings.`
+char_nat: `"......C‐calm down...`
+char_nat: ` Hideyoshi‐san is with Rudolf‐san and Kyrie‐san, and they're outside right now."`
+char_eva: `"Outside?!?!`
+char_eva: ` Whwh‐why,`
+char_eva: ` he promised that he'd stay with me the whole time,`
+char_eva: ` why did he go outside?!`
+char_eva: ` You mustn't go outside, the witch is outside, you mustn't go, you'll be killed!!`
+char_eva: ` Waaa{0}a{0}a{0}a{0}aaagg{0}g{0}g{0}g{0}g{0}gghhh...!!"`
+char_cla: `"...Eva, calm yourself.`
+char_cla: ` ......Hideyoshi‐san is back in the mansion with Rudolf and Kyrie‐san."`
+char_eva: `"Why did he have to go to the mansion?!!`
+char_eva: ` Why did you let him outside when it's safe in here?!!`
+char_eva: ` Why did he go back to the mansion?!!"`
+char_cla: `"..................`
+char_cla: ` ......They went to get enough food to last until tomorrow.`
+char_cla: ` ...Hideyoshi‐san was worried about your health, and he told us so..."`
+char_eva: `"When will they come back?!`
+char_eva: ` When will he come back?!`
+char_eva: ` He can't go outside, not to the rose garden, not to the mansion!!`
+char_eva: ` The witch is there, the Golden Witch is walking around!`
+char_eva: ` If she finds him he'll be killed, he'll definitely be killed!!`
+char_eva: ` When will my husband come back?!"`
+char_nat: `".........They left here thirty minutes ago.`
+char_nat: ` We are waiting for their return."`
+char_eva: `"Th‐thirty minutes?!`
+char_eva: ` That makes no sense, why would it take him so much time to go to the mansion, get food, and come back?!`
+char_eva: ` And why are you two just standing around here?!"`
+char_eva: `"We have to go get him!!`
+char_eva: ` Quick, we have to go to where he is!!`
+char_eva: ` Hiiiiiiiiiiiiiiiiiiiiiiiiiiii!!"`
+char_non: `Eva had probably had quite a nightmare.`
+char_non: ` ...And after waking up and discovering that it still wasn't over, she could no longer hide her confusion.`
+char_non: `Natsuhi tried calming her down, but it only made Eva's emotions explode all the more.`
+char_non: `......Maybe they heard that disturbance.`
+char_non: ` The lobby door opened slightly, and Battler and the kids, who should have been upstairs, poked their faces out.`
+char_non: `Krauss, Natsuhi, Eva.`
+char_non: ` And Battler, George, Jessica, Nanjo.`
+char_non: `{n}...Everyone in the guesthouse was gathered by the entrance, and understood the current situation.`
+char_geo: `"I agree with Mother.`
+char_geo: ` We should go to check on Father and the others."`
+char_but: `"Yeah, you're right.`
+char_but: ` There's also the chance that their load is too heavy and they're having trouble carrying it.`
+char_but: ` They should welcome some extra hands."`
+char_nan: `"......R‐Rosa‐san was attacked not long ago.`
+char_nan: ` ...There's a possibility that this is a second disaster.`
+char_nan: ` We should act with caution here and—"`
+char_eva: `"Don't be ridiculous!!`
+char_eva: ` Act with caution and {i:what}?!`
+char_eva: ` Are you saying we should stand by and let my husband die when he might be praying for help?!`
+char_eva: ` I'm going to look, the cowards can stay here!!"`
+char_non: `Looking agitated, Eva raised her gun.`
+char_non: `{n}Judging by her expression, it would be useless for anyone to try to stop her.`
+char_non: `...George, who realized that first, raised his head.`
+char_geo: `"I'll go too.`
+char_geo: ` You will too, right, Battler‐kun?`
+char_geo: ` The more people, the better...!"`
+char_but: `"S‐sure!!`
+char_but: ` Auntie Eva, we're coming even if you tell us not to."`
+char_jes: `"...I, I'm coming too...!`
+char_jes: ` I'll be damned if I'm gonna be the only one hiding where it's safe...!"`
+char_nat: `"Jessica, you must not go outside!!`
+char_nat: ` You are to stay here with me.`
+char_nat: ` Do you understand?!"`
+char_non: `She was essentially implying that those three had already been killed anyway, so it was pointless to go outside.`
+char_non: `Natsuhi also realized that she had made a deep gouge in Eva's heart, but she said those words strongly as Jessica's mother.`
+char_eva: `"..................You're right.`
+char_eva: ` That would probably be best.`
+char_eva: ` Nii‐san, you and your family keep watch over the guesthouse."`
+char_eva: `"This is my family's and Battler‐kun's family's problem.`
+char_eva: ` And I wonder if Doctor Nanjo would come too.`
+char_eva: ` Just in case of the worst."`
+char_wal: `".........In the hall of the mansion, Battler, Eva, George, and Nanjo...`
+char_wal: `found the bodies of Rudolf, Kyrie, and Hideyoshi."`
+char_but: `".........The fourth twilight through the sixth twilight?`
+char_but: ` Then, the corpses were pierced through the forehead, chest, and stomach with those demon stakes?"`
+char_wal: `"Yes.`
+char_wal: ` ......Into Rudolf's forehead,`
+char_wal: ` into Hideyoshi's chest,`
+char_wal: ` and into Kyrie's stomach: one demon stake buried into each."`
+char_wal: `"The clothing on all three was disordered, and because of this, it is thought that they had been fighting or running away.`
+char_wal: ` Since the three bodies were not found right next to each other, it is hypothesized that after coming into contact with the culprit, they attempted some form of resistance."`
+char_but: `".........With stakes, in the forehead, chest, and stomach.`
+char_but: ` ......Horrible, just like usual..."`
+char_ron: `"................................."`
+char_non: `Even though Ronove knew it would be superfluous, he thought that maybe he should tell Battler.`
+char_non: `...In actuality, the witch had killed them in a much more horrible way.`
+char_non: `......Beato had advised the witch to restrain herself, which was why the corpses had been left so undamaged.`
+char_non: `The new and brutal witch, thinking that all she needed to do was get the "gouged with a stake" part right,`
+char_non: ` ......might even have just stuck a stake into a lump of meat that wasn't even shaped like a {y:0:Human}{n:0:human}.`
+char_non: `Rosa's and Maria's corpses would probably have been especially striking.`
+char_non: ` ...If they had been killed as the Golden Witch had wished, just how gruesome would the exposed corpses have been?`
+char_non: `Beato had changed that into a kind of killing that Battler would have called "still better".`
+char_non: `Wanting to have Beato's small bit of thoughtfulness appreciated, he thought of telling Battler about that.`
+char_non: `...But, for Battler, that might do more harm than good.`
+char_non: ` To humans, the gap between being alive and being dead is very large.`
+char_non: `To ask for Beato's feelings to be accommodated on the grounds that she had changed it to a better way of dying...`
+char_non: `might have made it possible for a demon to pardon her, ......but there was no way it would work the same way for a {y:0:Human}{n:0:human}.`
+char_non: `Understanding this, Ronove remained silent even though he knew of Beato's modest effort...`
+char_but: `"Just like usual, let's start by checking whether the corpses are dead.`
+char_but: ` ......Ronove, please, declare it in red."`
+char_ron: `"...................................."`
+char_but: `"Hey, can't you hear me?`
+char_but: ` ...Please, declare it in red.`
+char_but: ` This is a repetition request.`
+char_but: ` "Rudolf, Kyrie, and Hideyoshi are dead"."`
+char_ron: `"...............My apologies.`
+char_ron: ` Allow me to decline from repeating that."`
+char_but: `"What...?`
+char_but: ` That's so sudden... What are you planning...?"`
+char_non: `By now, proclaiming the death of the victims in red was almost a given in this battle.`
+char_non: `Refusing to do that was almost like losing by default.`
+char_non: `...So when Ronove declined as his first move, Battler was dumbfounded.`
+char_ron: `"My apologies.`
+char_ron: ` I hereby humbly relinquish my right to be Milady's agent.`
+char_ron: ` ...Accordingly, {i:I} cannot repeat that in red.`
+char_ron: ` ......The only one qualified to repeat that...is Milady."`
+char_but: `"........................"`
+char_wal: `"...It is a valid point.`
+char_wal: ` Ronove is but an agent for Beato's side.`
+char_wal: ` ......If Ronove steps down from the position of agent, and Battler‐kun will not accept Beato as an opponent,`
+char_wal: ` ...a new agent must be created."`
+char_ron: `"......There is no new agent.`
+char_ron: ` ......Please, Battler‐sama.`
+char_ron: ` Please accept Milady as your game partner once more."`
+char_but: `"............Sorry,`
+char_but: ` but that's not happening.`
+char_but: ` ......I definitely won't accept that unpleasant, ruthless bitch as my opponent.`
+char_but: ` ...Refusing to accept that is the reason I won't abandon this game."`
+char_ron: `"Regarding your point about Milady being unpleasant, I apologize in her stead.`
+char_ron: ` I shall obtain Milady's pledge that she will not take unpleasant actions again."`
+char_but: `"..............................`
+char_but: ` ......Yeah, right."`
+char_wal: `"...Battler‐kun.`
+char_wal: ` ...I also apologize as that child's master.`
+char_wal: ` I will give her a thorough talking‐to, so would you please forgive her just this once?"`
+char_but: `"......Hey, hey, quit that.`
+char_but: ` You're making it sound like I'm the bad guy."`
+char_but: `"...And no matter how much {i:you guys} apologize, it won't reach my ears.`
+char_but: ` ......If Beato can say that from her own mouth,`
+char_but: ` ............well, it's not like I'm not gonna listen to her."`
+char_wal: `"............Alright.`
+char_wal: ` If that is the only condition under which you will accept that child again, let us have her apologize."`
+char_wal: `".........Ronove.`
+char_wal: ` Call for that child.`
+char_wal: ` Is that alright, Battler‐kun...?"`
+char_but: `"...............Tch.`
+char_but: ` ...Do whatever you want.`
+char_but: ` But don't expect me to forgive her.`
+char_but: ` ......Go on, call for that irritating witch."`
+char_ron: `"...You have my thanks, Battler‐sama.`
+char_ron: ` .........I will call her now.`
+char_ron: ` ......Milady, Battler‐sama is calling for you."`
+char_non: `After a few heartbeats, gold butterflies gathered together in midair and created Beato's form.`
+char_non: `...It was much more docile than the way she had appeared before now.`
+char_bea: `"............Did you call, Ronove?"`
+char_wal: `"...I believe you heard.`
+char_wal: ` ......Is there anything you have to say, from your own mouth...?"`
+char_but: `"...................................."`
+char_bea: `".............................."`
+char_non: `It looked as though Beato shrunk slightly under Battler's cold gaze.`
+char_non: `Several times, Beato made an effort to get the words out of her mouth, but that didn't work so well,`
+char_non: ` ......and she was just as awkward as someone trying to light a match during a freezing winter with frozen hands...`
+char_non: `Even as she did that, the game board was proceeding...`
+char_non: `In the hall, they had just found the bodies of the new victims, and had broken down crying...`
+char_but: `"......Dad,`
+char_but: ` ......Kyrie‐san...`
+char_but: ` ...UooOO{0}O{0}O{0}OOoo{0}ooO{0}OOo{0}oohhhh...`
+char_but: ` UOOOOooo{0}ooOO{0}OOoo{0}oohhhhh..."`
+char_eva: `"Oh honey, ...honeyyyy... uuu{0}u{0}u{0}u{0}u{0}u{0}u{0}huu{0}u{0}u{0}u{0}uughhhu{0}uuhu{0}uhuu...!!"`
+char_geo: `"...Mother,`
+char_geo: ` ......stay strong......`
+char_geo: ` ......You're not the only one who's...`
+char_geo: `...crushed and...`
+char_geo: `...sad......!"`
+char_nan: `"........................They probably died instantly.`
+char_nan: ` ...Even if we had arrived immediately after they fell, I am sure that it would have been too late..."`
+char_eva: `"No, it wouldn't!!`
+char_eva: ` He would definitely have been alive!!`
+char_eva: ` His chest was stabbed with this thing...!`
+char_eva: ` My husband must have died in extreme pain...!!"`
+char_eva: `"If we had come faster, ...he would have been saved, I just know it!`
+char_eva: ` I just know it!!`
+char_eva: ` Uuuuuwa{0}aAAAaa{0}aaAA{0}AAaa{0}aa{0}aahhh..."`
+char_geo: `"...Battler‐kun... I know it's horrible, but......you have to stay strong......"`
+char_but: `"...............I'm fine, ...I really am, Aniki...`
+char_but: ` ...Let me cry just a bit longer...`
+char_but: ` ......Compared to you people, this is nothing...`
+char_but: ` I should be the least sad...!`
+char_but: ` So if you let me cry just a little longer, ......I'll be fine..."`
+char_geo: `"That isn't true...`
+char_geo: ` ......I can understand how much it must be hurting your heart to have lost both parents...`
+char_geo: ` ...I still have my mother.`
+char_geo: ` ...I've got it much better than you, Battler‐kun..."`
+char_but: `"No, you haven't!!`
+char_but: ` You have it the worst, George‐aniki...`
+char_but: ` ......I understand, Aniki..."`
+char_but: `"...Out of all of us, ...you're the most devastated, and the most in pain!!`
+char_but: ` I know that...`
+char_but: `so I can't keep on snivelling like this...!!`
+char_but: ` Uuu{0}u{0}u{0}u{0}uughhu{0}uugh!!"`
+char_geo: `"......Why......do you say that......?"`
+char_but: `"To me, Dad and Kyrie‐san......were people I'd eventually part with when I became an independent adult.`
+char_but: ` Since they're parents, it's fated that they'd die before their children.`
+char_but: ` ...It's just that it happened a little early...!"`
+char_but: `".........But it's not like that for you, Aniki.`
+char_but: ` You didn't just lose a parent you'd part with eventually.`
+char_but: ` .........You also lost someone you should have lived your whole life with,`
+char_but: ` ............you lost Shannon‐chan as well...!!"`
+char_geo: `"......................................."`
+char_but: `"It's not like human lives have different weights.`
+char_but: ` Whether it's a baby or an old person, they're all just as precious...!"`
+char_but: `"......But still, the longer the life they had in front of them,`
+char_but: ` ...the longer the future you'd have built together, ............the sadder their death is......!!"`
+char_but: `"Aniki, you were engaged to Shannon‐chan, weren't you?`
+char_but: ` You promised that you'd build a life and a home together in the future, didn't you?!`
+char_but: ` .........Compared to how huge that future was, ...compared to how huge that happiness was,`
+char_but: ` ......my pain doesn't even come close...!!"`
+char_but: `".........No one would blame you for crying so, so much more...!!`
+char_but: ` And yet, ...just because you're like a big brother to us cousins,`
+char_but: ` .........you force yourself to act like everything's all OK......!!"`
+char_geo: `"..................Stop it, ...Battler‐kun."`
+char_non: `George was trying to make a calm smile.`
+char_non: `......But.........he couldn't, any longer, stop a single hot tear from leaving a streak down his face.`
+char_geo: `"......How could I possibly...`
+char_geo: `......not be sad...?`
+char_geo: ` .........I think of Shannon, and all the futures we imagined together.`
+char_geo: ` We talked of so many dreams, the hundred years of our human lives would never have been enough to make them all come true."`
+char_geo: `"......Of those dreams,`
+char_geo: ` not even the very first one,`
+char_geo: ` ............having her move into my family register... We couldn't even have that...`
+char_geo: `......so how could I possibly...`
+char_geo: `.........not be sad.........?"`
+char_but: `"Compared to that, I, ......I...!!`
+char_but: ` Like I said, I have no right to cry any more!`
+char_but: ` When even you're holding back, Aniki, what right do I have to shed any more tears?!"`
+char_geo: `"......We're the same.`
+char_geo: ` ...Both of us feel the exact same sadness from losing the ones we love.`
+char_geo: ` .........So there's nothing saying you don't have the right to cry compared to me."`
+char_geo: `".........And...`
+char_geo: `...there's nothing saying...I have to hold back {i:my} tears...any longer either."`
+char_but: `"...Aniki, ......Anikii...!!!`
+char_but: ` UOO{0}Oo{0}o{0}ooHhh{0}hhO{0}OoOhh{0}hgghhh!!"`
+char_geo: `"Shannon and I always talked about our future together...and now she's dead.`
+char_geo: ` And my dad, he's dead too.`
+char_geo: ` .........It hurts, ......it really hurts...`
+char_geo: ` ......uuu{0}uuhuu{0}huu{0}huu{0}u{0}u{0}u{0}uugh{0}hh{0}uuughh!!"`
+char_non: `As Battler and George tightly hugged each other, they cried a waterfall of tears over each other's shoulders for those people important to them...`
+char_but: `"............Do you understand why I said that George‐aniki is the most in pain...?"`
+char_bea: `"I, ......I was listening, so I understand.`
+char_bea: ` ......The sadness is proportional to the length of time that would have been spent together in their lives after that..."`
+char_but: `"......Of course, you can't calculate it just like that though.`
+char_but: ` .........We {y:0:Human}{n:0:human}s aren't like you witches.`
+char_but: ` ......We have a finite time we're alive to the moment we die, and we live it with our utmost strength."`
+char_but: `".........I can't forgive anyone who makes light of that.`
+char_but: ` ......Never mind someone who sneers at it and toys with it.`
+char_but: ` ...A person like you, whose very concept of death is all screwed up, probably can't understand that."`
+char_bea: `"......................................."`
+char_but: `"......It isn't just the length of time we'd live afterwards.`
+char_but: ` ......Sneering at the lives of people living with all their strength...`
+char_but: ` That's...what I can't forgive the most."`
+char_but: `"George‐aniki has gone through his life hell‐bent on doing his best.`
+char_but: ` ...He must have shown up today with heroic determination in order that he could marry Shannon‐chan.`
+char_but: ` ......It's completely different from me, a guy who was just feeling happy to be able to meet his cousins again for the first time in ages."`
+char_bea: `"...B‐.........But still—"`
+char_wal: `"Beato.`
+char_wal: ` For now, stay silent and listen."`
+char_bea: `"............M‐...mm."`
+char_but: `".........In a way, I do understand where you're coming from.`
+char_but: ` ...You say that you need to continue murdering according to that weird epitaph for your own resurrection."`
+char_but: `"......So if I keep the circumstances of your position in mind,`
+char_but: ` ......I can just barely understand your murders.`
+char_but: ` ......Because for you, that is a necessary action.`
+char_but: ` ......In that case, all further unnecessary actions are your own meaningless cruel hobby."`
+char_but: `"......In other words, if killing six people for the first twilight is a "necessary action" for you,`
+char_but: ` ...all that show of crushing their faces and splitting their stomachs and stuffing them full of sweets is your own, completely unnecessary,`
+char_but: ` preference for cruelty.`
+char_but: ` .........I absolutely cannot forgive this aspect of you."`
+char_bea: `"........................m...mm......"`
+char_but: `"When Auntie Rosa was repeatedly killed in horrible ways,`
+char_but: ` ......you said, "she'll be brought back to life in the end, so it doesn't matter how she kills her",`
+char_but: ` ...or something like that, I hear.`
+char_but: ` {f:5:Virgilia} told me."`
+char_bea: `".........That was...`
+char_bea: `...well...`
+char_bea: `umm........."`
+char_but: `"That idea that you can kill them as many times as you want, as long as you bring them back to life in the end,`
+char_but: ` is a completely unnecessary action of toying with a life, isn't it?"`
+char_but: `".........If you're going to kill them, get it over with!`
+char_but: ` Don't toy with them!!`
+char_but: ` If you aren't going to kill them, then don't tease them!!`
+char_but: ` You're taking advantage of the fact that you can do as you will with people's lives, and you've forgotten the sanctity of life.`
+char_but: ` So I can't accept you...!"`
+char_but: `"I definitely can't accept as my opponent a person who doesn't know the weight of a life, and the sadness when that life is lost!"`
+char_wal: `"...............That is why the Endless Magic is known as a black art.`
+char_wal: ` ...An Endless Witch has no concept of the finite.`
+char_wal: ` ......They have no concept of the finite, of the end that is implied by breaking and killing."`
+char_wal: `"...For that reason, Endless Witches sometimes treat the gap between life and death as if it was a Chinese jump rope,`
+char_wal: ` and start jumping back and forth over it."`
+char_wal: `".........That is a very, very frightening thing.`
+char_wal: ` That is why, as an Endless Witch, and out of my own desire,`
+char_wal: ` {i:I never reached your level}."`
+char_non: `{f:5:Virgilia} had told Beato that countless times before.`
+char_non: `But Beato had been too young to obediently listen to those words.`
+char_non: ` She had been too wild.`
+char_non: ` ...She had been possessed by that...detestable pleasure.`
+char_bea: `"......I had always been told not to break vases.`
+char_bea: ` ......But that's what made me want to break them someday."`
+char_bea: `".........Then, when I gained the Endless Magic,`
+char_bea: ` ...and I learned that I could fix it back to normal no matter how much I broke it,`
+char_bea: ` ......I was surprised at how fun it was to break a vase..."`
+char_wal: `"That is called the forbidden honey.`
+char_wal: ` People are not captivated by what's inside.`
+char_wal: ` They are captivated by the lock that seals it.`
+char_wal: ` .........It truly is deplorable."`
+char_but: `".........I want to ask you, {f:5:Virgilia}.`
+char_but: ` Why does this thing called the Endless Magic exist?`
+char_but: ` ...For what purpose does it exist in this world?"`
+char_wal: `"It is not limited to the Endless Magic.`
+char_wal: ` ...All magic exists to bring happiness to the human world."`
+char_wal: `"......After everything that has happened, it may be difficult for you to believe, Battler‐kun, ......but we witches train in order to bring blessings to the human world,`
+char_wal: ` to become a bridge between humans and those who are not human."`
+char_but: `"......How the hell does reviving the dead and torturing them to death over and over again help the human world?"`
+char_wal: `"When a vase that is an important memento is broken,`
+char_wal: ` if by fixing it everyone will regain their smiles, I would repair it with magic as many times as necessary.`
+char_wal: ` However, I would not be fixing it in order to break it again.`
+char_wal: ` ......I would be reviving it to give humans happiness."`
+char_but: `"In that case,`
+char_but: ` ............Beato.`
+char_but: ` You fail as an Endless Witch."`
+char_bea: `"..............................h......mmm..."`
+char_but: `"......There's something that's just come to me.`
+char_but: ` .........Why do I keep going on with this strange game against you?"`
+char_but: `"......Maybe this isn't a game to make me submit.`
+char_but: ` ......Couldn't it be a test for you to be accepted as an Endless Witch, {i:in its true meaning}?"`
+char_bea: `"...I, .........I don't know about that.`
+char_bea: ` ...The reason I proposed this game to you was, umm, ......simply as a way to kill time...`
+char_bea: ` There was no one's ulterior motive."`
+char_but: `"Just now, I heard the definition of a witch from {f:5:Virgilia}.`
+char_but: ` By that definition, you, Beato,`
+char_but: ` are not even a witch.`
+char_but: ` You'd be an apprentice who's in the middle of her training, and who misunderstands her own power."`
+char_but: `"......This was supposedly a fight between a witch and a human.`
+char_but: ` In that case, someone like you, who isn't a witch, is not qualified to be my opponent.`
+char_but: ` .........Understand?"`
+char_bea: `"......I am still...`
+char_bea: `.........only an apprentice,`
+char_bea: ` ......you say......`
+char_bea: ` Then, when will I be accepted as your opponent once again?`
+char_bea: ` ......When can we resume this game?"`
+char_but: `"..................Who knows.`
+char_but: ` ...At the very least, it isn't now.`
+char_but: ` ......When you fully understand what I've said, and become a real witch,`
+char_but: ` ...I will probably accept you as my opponent in this game once more."`
+char_bea: `"I, I can't understand if you say it so abstractly like that...`
+char_bea: ` Clearly tell me what I should do to earn your forgiveness..."`
+char_but: `"No, I've said enough.`
+char_but: ` You think about the rest.`
+char_but: ` .........I've said everything I want to say.`
+char_but: ` ...If you can't understand it, try talking with {f:5:Virgilia} and Ronove.`
+char_but: ` ...A brat like you should start off by listening to what the adults say."`
+char_but: `".........{f:5:Virgilia}.`
+char_but: ` I will suspend the game for now.`
+char_but: ` Now that Ronove has stepped down as representative,`
+char_but: ` all we can do is wait for Beato to gain the qualifications of a proper opponent."`
+char_wal: `"......Understood.`
+char_wal: ` ......Until Beato has been accepted as having gained those qualifications, the game will proceed without an opponent.`
+char_wal: ` Is that alright with you too, Beato?"`
+char_bea: `"...I, ......I have no objections.`
+char_bea: ` .........I want time, and a place where I can think at a leisurely pace.`
+char_bea: ` ...May I take my leave now?"`
+char_but: `".........Yeah, sure."`
+char_bea: `"...Well then, see you...later."`
+char_but: `"Wait.`
+char_but: ` ......Don't make that dejected face."`
+char_bea: `"........................Sorry about that.`
+char_bea: ` Letting everything inside my heart show up on my face is part of my personality.`
+char_bea: ` I cannot deceive."`
+char_but: `"In that case, there's hope for you yet.`
+char_but: ` .........Let me promise you one thing.`
+char_but: ` In this game with you, I might win, and I might lose.`
+char_but: ` ......It's also possible that it'll be a victory by default for me if you don't come back."`
+char_non: `At that point, Battler stopped talking for a second.`
+char_non: `{n}...Then he spoke forcefully.`
+char_but: `".........However, I definitely won't be the one to step down.`
+char_but: ` I definitely won't give you a victory by default.`
+char_but: ` ......I will keep on waiting here, for you to sit there again as my worthy opponent."`
+char_ron: `"......Battler‐sama..."`
+char_bea: `"...............Thank you,`
+char_bea: ` Battler.`
+char_bea: ` ...I will definitely come back and be accepted by you."`
+char_non: `Beato showed him a very slightly hopeful smile, and disappeared.`
+char_non: `...Looking at that expression, Battler strongly believed that her face could tell no lies...`
+char_non: `The seven survivors returned to the guesthouse once again.`
+char_non: `{n}By now, it was clear that those who went outside would not be able to return alive.`
+char_non: `Rudolf's group had gone out holding two guns and one master key.`
+char_non: ` But those had been lost.`
+char_non: `It was more than clear by now that they had been stolen by the culprit.`
+char_non: `Since the windows were closed with the shutters, they wouldn't open even if the culprit had the master key.`
+char_non: `They sealed the front door and all other doors to the outside with chains,`
+char_non: ` and further blocked them with sofas and tables.`
+char_non: `Even if the culprit decided to break in through violent means, it wouldn't be easy for them.`
+char_cla: `"......At this point, the typhoon may actually be fortunate.`
+char_cla: ` If it were clear outside, it might have been possible for them to set fire to the guesthouse."`
+char_eva: `"If there wasn't a typhoon in the first place, the boat would have arrived before noon.`
+char_eva: ` I'm not sure you can call that a cloud's silver lining."`
+char_nat: `"......Eva‐san, how are you feeling physically?`
+char_nat: ` Please, try to take it easy."`
+char_eva: `"Thank you.`
+char_eva: ` ...I still have a temperature, but now isn't the time to be saying things like that.`
+char_eva: ` ......Now is not the time to be stuck in bed, for the children's sake as well."`
+char_non: `After crying so much in front of Hideyoshi's body,`
+char_non: ` Eva had now gained a strong self‐awareness that she was a mother, and her expression conveyed a strong will.`
+char_non: `...Actually, her fever still hadn't gone down.`
+char_non: `And she was aware of that.`
+char_non: ` Whenever she wasn't galvanizing herself, she felt the fever starting to make her mind hazy again.`
+char_non: `By this point, the first floor was a final line of defense made by Krauss, Natsuhi, and Eva.`
+char_non: `{n}The children and the guest, Nanjo, had been strongly warned not to carelessly come downstairs.`
+char_non: `If the culprit used a ladder or something, it probably wouldn't be impossible for them to attack from upstairs.`
+char_non: `But it wouldn't be easy for them to break those sturdy shutters from such an unstable position.`
+char_non: ` It was comparatively safer upstairs compared to downstairs.`
+char_non: `Battler and George had hoped to remain downstairs as well, to fight in the worst case scenario, but Eva had rejected that.`
+char_non: `In her mind, George was now her only family.`
+char_non: `{n}It seemed that she didn't even want to expose him to the danger of coming downstairs to the first floor.`
+char_non: `Krauss and Natsuhi could also understand that feeling.`
+char_non: `......A great deal of time had now passed since they once again barricaded themselves in.`
+char_non: `In the cousins' room upstairs, Battler, George, and Jessica were sitting dazed,`
+char_non: ` their ears not even registering the TV that had been left on.`
+char_non: `For a while, Nanjo had been with them, and had tried to send them words to cheer them up,`
+char_non: ` but when he realized that he might actually be having the opposite effect, he disappeared into his own upstairs room.`
+char_non: `George kept looking dazedly at the photographs inserted in his notebook.`
+char_non: `......They were from that time he had taken a vacation to Okinawa with Shannon.`
+char_non: `Shannon's happy smile was contained in those photographs.`
+char_non: `......George could remember the temperature and the humidity, the warmth and strength of the wind,`
+char_non: ` and even what he had been talking about with her at the time those photos had been taken, as clearly as though it had been yesterday.`
+char_non: `So to George, they weren't simply photos,`
+char_non: ` but a door to bring back warm memories...`
+char_non: `In this room, even though the sound of the typhoon and the TV should have entered George's hearing,`
+char_non: ` ......it was the scenery of Okinawa he had seen with her, and her laughing voice, that reached his eyes and his ears...`
+char_non: `After meeting Shannon, George had made the decision to be reborn.`
+char_non: `He had sworn to separate himself from the timid person he had once been:`
+char_non: ` easily caught up in the atmosphere, unable to refuse a request, and easily used by those around him.`
+char_non: `......He had resolved himself to become a strong man who would make her life even more joyous.`
+char_non: `So.`
+char_non: ` ...If he hadn't met Shannon,`
+char_non: ` ......the man called Ushiromiya George would probably have lived a very different life.`
+char_non: `And the George of that different life surely wouldn't have been as excellent a man as he now was.`
+char_non: `The way he was now, he was for the sake of Shannon.`
+char_non: ` ......But if that same Shannon was now gone,`
+char_non: ` ...he found himself wondering why he exists.`
+char_non: `Isn't it completely meaningless?`
+char_non: `...A deep, deep sadness, as though he himself had become empty.`
+char_non: `That feeling had tormented him the whole time.`
+char_non: ` ......However, until Battler had told him, he hadn't been aware of the feeling himself.`
+char_non: `......He finally remembered...that he should have cried much, much more.`
+char_non: `So he had cried.`
+char_non: ` Just like Battler, he had cried himself dry.`
+char_non: `......By now, his eyes were bright red and swollen, and he could not cry any more.`
+char_non: ` So George did his best to change his way of thinking.`
+char_non: `He decided to think that he was not meaningless, ...that he should be grateful to Shannon for giving him such a character.`
+char_non: `Dead lives are not revived.`
+char_non: ` He would have to get over being separated from his beloved.`
+char_non: `If he were to come after Shannon by killing himself, she would surely be deeply dejected.`
+char_non: `......It would be the same the other way around, too.`
+char_non: ` If he died, and Shannon chased after him, throwing away her own life, he wouldn't be able to forgive himself.`
+char_non: `......So he chose to surpass his emotions of sadness and anger,`
+char_non: ` .........and decided to thank her.`
+char_non: `Meeting Shannon had made his days rich and full,`
+char_non: ` ...and had taught him the meaning of working hard for other people's sakes.`
+char_non: `As a result, she had shaped him into the person he had wanted to be.`
+char_non: `{n}...He thought he should thank her for that.`
+char_non: `By doing that, he tried to quell his sadness.`
+char_non: `{n}But each time he did, he remembered Shannon's smile...`
+char_non: `.........He knew it, logically.`
+char_non: `He understood that grieving any more than this would only make her grieve in heaven,`
+char_non: ` ......yet he couldn't stop his sadness...`
+char_but: `"Why...`
+char_but: `......does people dying...`
+char_but: `...make us this sad..."`
+char_non: `Battler muttered.`
+char_non: `{n}...It was as though he was speaking on behalf of all humans.`
+char_non: `He probably hadn't been asking anyone, but Jessica answered.`
+char_jes: `"......Partings are always sad, no matter what they're like."`
+char_jes: `"...But, when, for example, the person is old, or there's some time it's going to happen,`
+char_jes: ` ...when it's expected in advance, and you know it's a farewell that must come sooner or later,`
+char_jes: ` ...you can spend a long time softening the blow of that sadness.`
+char_jes: ` ......Sudden misfortune is probably sad...because you aren't allowed even that..."`
+char_but: `"...............I see, yeah.`
+char_but: ` ...Sure, if they get sick or something, and end up bedridden in a hospital for several years, you might be able to ready yourself for it bit by bit,`
+char_but: ` ...but when it happens suddenly some day, you don't have that much time."`
+char_jes: `"...The sadness which you should normally spend several years softening closes in on you all at once.`
+char_jes: ` .........No wonder it's tough.`
+char_jes: ` ......Sometimes, it might even cause a sadness great enough to leave a scar for life..."`
+char_but: `"......Enough to leave a scar for life, ...you say."`
+char_jes: `"......It's like Grandfather's occult hobby.`
+char_jes: ` That was what they whispered about it.`
+char_jes: ` ......That maybe {f:5:Beatrice} was his lover, who died a long time ago, and he was so sad that he couldn't pull himself together."`
+char_jes: `"......And that's why he started sacrificing the rest of his life to research of the occult, in order to revive the dead.`
+char_jes: ` ......That's what they said."`
+char_but: `"In that case, Grandfather succeeded in that miracle in his last moments.`
+char_but: ` ......The culprit would be the revived {f:5:Beatrice}, with Grandfather being reunited with her at the moment he was killed.`
+char_but: ` ......Pretty ironic that he revived her, only then to be killed by her."`
+char_geo: `"............Even so, Grandfather was probably able to meet her.`
+char_geo: ` ...He gambled half of his life, and even though it was only for a short time,`
+char_geo: ` he was probably reunited with the woman he wished to see once again."`
+char_but: `"...Except he got totally roasted.`
+char_but: ` Probably wanted a bit more than that out of half a life's research."`
+char_geo: `"I wouldn't say that.`
+char_geo: ` .........Even if it was only for an instant,`
+char_geo: ` ......Grandfather must have been happy to be reunited with the woman he loved."`
+char_geo: `".........Even if his sin of defying life's providence was punished by God,`
+char_geo: ` and his body was burnt and sent down to hell,`
+char_geo: ` ...and even if the reunion he got in return only lasted a very short time..."`
+char_jes: `"George nii‐san......"`
+char_geo: `"......I wouldn't care if I met with the wrath of God and had my body burned.`
+char_geo: ` .........Even if it was just for a short amount of time,`
+char_geo: ` ......if I could revive Shannon again,`
+char_geo: ` ..................I would sacrifice the rest of my life to the same research as Grandfather."`
+char_geo: `"......Five minutes would be enough,`
+char_geo: ` ......I just want to talk with Shannon again...`
+char_geo: ` ......Even one minute would be fine......`
+char_geo: ` ......In exchange, ...I wouldn't mind......sacrificing the rest of my life......!"`
+char_but: `".........Aniki......"`
+char_non: `When Battler and Jessica realized that their pointless discussion was hurting George, they had no choice but to shut their mouths...`
+char_non: `......George directed his thoughts at Kinzo's life:`
+char_non: `I saw him sacrifice half of his life to research that no one could understand.`
+char_non: `......And, on the last day of his life, he revived the person he loved most,`
+char_non: ` ......and probably succeeded in his reunion in his final moments.`
+char_non: `I don't know how much time they were able to spend together.`
+char_non: ` ...I don't know whether they were given an hour, ...or just five minutes.`
+char_non: `However, ......in that moment, all of that time he had sacrificed for his research must have been rewarded.`
+char_non: ` ...Even though he spent decades to gain it, that small amount of time must have been enough to reward him.`
+char_non: `Until today, I never believed in the occult or magic or anything.`
+char_non: `{n}Somewhere in my heart,`
+char_non: ` ...I even made fun of Grandfather's research as nothing more than an indulgence.`
+char_non: `However,`
+char_non: ` ......I won't make fun of it anymore.`
+char_non: `{n}...No, to the contrary, I strongly believe that it does exist.`
+char_non: `...If that power of belief can become miracles,`
+char_non: ` I'll probably throw away all of my studies up until today,`
+char_non: ` and spend the rest of my life from today onwards studying magic.`
+char_non: `.........Give me the power of magic.`
+char_non: `...And...a miracle which lets me meet Shannon again...`
+char_geo: `"....................................`
+char_geo: ` ......Haha, ...ha.`
+char_geo: ` ...Sorry, you two.`
+char_geo: ` I must be going mad.`
+char_geo: ` ......If you could revive the dead with magic,`
+char_geo: ` ......people would probably be studying it everywhere around the world."`
+char_geo: `"...But things like that don't exist in reality.`
+char_geo: ` No one studies it.`
+char_geo: ` .........That's because...they know...that the dead can't be brought back with magic."`
+char_geo: `"............Sorry for saying such weird things.`
+char_geo: ` It's my fault that the atmosphere here has gotten so strange.`
+char_geo: ` ...Sorry for making you worry about me, even though this is hard on everybody."`
+char_non: `...Even though I did it to divert myself from my sadness, maybe I did say something strange.`
+char_non: `If I keep talking about something so weird, I'm sure it won't heal their sadness...`
+char_non: `But, even so, ...that doesn't mean that I can withstand this silence.`
+char_geo: `"......I'll go downstairs, and get another cup of coffee.`
+char_geo: ` ......My mother is very particular about how to make a cup of coffee.`
+char_geo: ` Does anyone want a refill?"`
+char_non: `Battler‐kun and Jessica‐chan lightly shook their heads.`
+char_non: `{n}Without being any more persistent than that, I took my mug and left the room.`
+char_non: `I did visit Doctor Nanjo's room to ask whether he wanted any more coffee as well,`
+char_non: ` but he too said that he didn't want any more.`
+char_non: `......It seemed as though my mother's orthodox method of making coffee wasn't universally appreciated.`
+char_non: `One time, I had Shannon drink some that I brewed by that method,`
+char_non: ` ......but she told me that while it was delicious, it was a little strong,`
+char_non: ` if I remember her words...`
+char_geo: `"............Shannon........."`
+char_non: `It's no good...`
+char_non: ` ......Even though I left the room to change my mood,`
+char_non: ` ...that image of Shannon's face that's filling my head hasn't faded in the slightest...`
+char_non: `The fun days I shared with her were becoming more and more vivid,`
+char_non: ` ............and I felt saddened that I was not even allowed to see her dead face.`
+char_non: `According to our parents, it seems as though she was killed with something like a gun or spear.`
+char_non: `...I'm sure they were just trying to console me, ......but they had said that her face in death had been very beautiful and peaceful.`
+char_non: `I wonder if she's...wearing the engagement ring I gave her last night?`
+char_non: `......If she accepted my engagement, she should have it on the ring finger of her left hand...`
+char_non: `Last night, our heads were both full of each other, and we weren't composed at all.`
+char_non: `Shannon had accepted the engagement semi‐boldly,`
+char_non: ` but she might have regretted that as a rash action once she cooled her head.`
+char_non: ` She might have taken the ring off.`
+char_non: `......I wonder if she has the ring on now.`
+char_non: `......I at least want to be sure of that much.`
+char_non: `{n}I want to know...her final feelings......`
+char_non: `However, ......even if I do check that, ...it's not as if she'll be revived.`
+char_non: `...............I wonder what will happen to her body.`
+char_non: `{n}After the autopsy, ......it will probably be immediately cremated.`
+char_non: `Then, I'll never be able to see her face, ...even her dead face, for all eternity...`
+char_geo: `"..................`
+char_geo: ` .........Haha, ...because of the shock of losing Shannon,`
+char_geo: ` ......am I going a little crazy...?"`
+char_non: `I don't want......Shannon's body to be burned.`
+char_non: `{n}If she's burned, she'll turn to ash, ......and {i:never again will it be possible for her to revive}.`
+char_non: `They say that cremation is disliked in Western tradition.`
+char_non: `{n}......Because on the day of resurrection, there would be no body to revive.`
+char_non: `Because of that, it seems that great criminals in Western history were often cremated after execution as a punishment,`
+char_non: ` and their ashes were sometimes scattered in rivers and such...`
+char_non: `In other words, to Western people, death is nothing more than a sleep until the resurrection.`
+char_non: ` It is essential that the corpse is left after death.`
+char_geo: `"In other words,`
+char_geo: ` ......that's because Western people...`
+char_geo: `...knew of the existence of...`
+char_geo: `...a miracle to revive the dead.`
+char_geo: ` .........But that miracle didn't exist in Japan, so we burn them."`
+char_non: `Now I understand.`
+char_non: ` ...I understand why Grandfather idolized the Western occult.`
+char_non: `From the beginning, it had all been only for that reason.`
+char_non: ` ...Just to revive the person dear to him, ...Grandfather spent the rest of his remaining life researching the Western occult.`
+char_non: `.........The situation surrounding us right now was abnormal.`
+char_non: `Grandfather had revived his beloved {f:5:Beatrice}.`
+char_non: `...And that {f:5:Beatrice} had carried out a terrible serial murder,`
+char_non: ` with chains of locked rooms that were impossible without the use of magic.`
+char_non: `......The Golden Witch, {f:5:Beatrice}.`
+char_non: `{n}The incarnation of the miracle of the Western occult.`
+char_non: `{n}.........And also, the culprit who killed Shannon......`
+char_non: `I should hate that being, ............and yet, for some reason, I want to cling to the hope she represents.`
+char_non: `I wonder if she could use that miraculous magic that Grandfather spent his life espousing...to revive Shannon...`
+char_non: `According to the Ushiromiya family legend, Grandfather met with her long ago, and was given a vast quantity of gold.`
+char_non: `...Then if I also met her,`
+char_non: ` ......instead of gold, would she give me Shannon's life?`
+char_non: `In return, she could impose any kind of devil's contract.`
+char_non: `{n}For that, I would sacrifice all of my remaining life...`
+char_non: `George probably couldn't have believed or noticed that, ...right behind him,`
+char_non: ` ......the witch herself stood, listening to his voiceless wish.`
+char_non: `{f:5:Beatrice} had been listening to everything George and the others had to say since their discussion just now in the cousins' room.`
+char_non: `......Battler had told her that she didn't know the weight of a human's life,`
+char_non: ` ......and wanting to understand that in her own way, she had stealthily visited, and listened to their discussion.`
+char_bea: `"........................`
+char_bea: ` ......You say that is your wish...?`
+char_bea: ` If I could grant that, would I be accepted as a witch...?"`
+char_non: `Beato looked at the palms of both of her hands.`
+char_non: `...She had handed over most of her previously surging magic power when the new witch had succeeded the name of Endless Witch.`
+char_non: `Of course, even now her magic power still made her worthy of being called a witch,`
+char_non: ` ...but it did not even compare to her previous strength.`
+char_bea: `"......Hmph.`
+char_bea: ` Even without the Endless Magic, I am a Great Witch whose name has thundered through a thousand years.`
+char_bea: ` Reviving the dead is no trouble at all."`
+char_non: `Inside her head, she thought about several magical methods for reviving the dead.`
+char_non: `......Even magic that she could do easily in the past would be difficult with her current magic power.`
+char_non: `She thought of something, then clicked her tongue, and repeated this several times.`
+char_non: `In the end, ......she finally thought of a single spell.`
+char_non: `But that was a spell that she couldn't use by herself.`
+char_non: `{n}It was a spell that witches with weak power used, that relied on the aid of others.`
+char_non: `...In the past, Beato had looked down upon that type of magic.`
+char_non: `Therefore, she frantically tried to think if there wasn't any other possible spell,`
+char_non: ` .........but in the end, she couldn't think of one, and slumped over in self‐derision.`
+char_non: `And then, ......careful not to surprise him, she softly called out.`
+char_non: ` Softly, to George's heart...`
+char_bea: `".........Ushiromiya George.`
+char_bea: ` ...Can you hear my voice...?"`
+char_geo: `"......I can hear.`
+char_geo: ` ......Who are you...?`
+char_geo: ` Are you really the witch, {f:5:Beatrice}...?`
+char_geo: ` ...Or else, are you an illusion created by my sadness...?"`
+char_geo: `".........If it's the former, I want you to hear my wish.`
+char_geo: ` ...And if it's the latter, just leave me alone..."`
+char_non: `Conversations in the world of the mind are a lot like those in a dream.`
+char_non: `When you dream, haven't you ever had the experience...`
+char_non: `of casually accepting something that would have been absurd in the real world?`
+char_non: `......The conversation in this world was like that.`
+char_non: `So even though a witch appeared and started talking to George, he was not surprised...`
+char_bea: `"Mm.`
+char_bea: ` ......I am...the Golden Witch, {f:5:Beatrice}.`
+char_bea: ` .........Normally, you and I would not be able to talk together like this.`
+char_bea: ` ...However, you are strongly conscious of me, and wish to have a discussion,`
+char_bea: ` ...so both of our channels are able to match like this."`
+char_geo: `"...............The person who killed Shannon...`
+char_geo: `I don't care if it was you, or someone else taking on your name.`
+char_geo: ` ......As long as you exist as a real witch."`
+char_geo: `"............I would pay any compensation.`
+char_geo: ` ...If you desire my life, you can take it right now.`
+char_geo: ` ......Please, I want you to bring Shannon back to life...`
+char_geo: ` .........If that's impossible, then at least, I would like just to be allowed to talk to her for a short while......`
+char_geo: ` ......Please........."`
+char_bea: `".........I require no compensation.`
+char_bea: ` I shall grant that wish."`
+char_geo: `"...Really......?`
+char_geo: ` You'll really bring Shannon........."`
+char_bea: `"Mm.`
+char_bea: ` ......However, my current magic power is not sufficient to use resurrection magic.`
+char_bea: ` ...Therefore, I must rely on your help."`
+char_geo: `".........If there's something I can do, I'll do anything.`
+char_geo: ` ...Even if that means taking my heart out right here and now, I will not hesitate..."`
+char_bea: `"...I'm telling you that I don't require something like that.`
+char_bea: ` ............I may cast the spell.`
+char_bea: ` Then, a gap would open in the door to Hades."`
+char_bea: `"...But as I am now, I do not have the power to bring Shannon's soul up through that gap.`
+char_bea: ` .........However, if it were you, who has strong feelings for Shannon,`
+char_bea: ` you should be able to change those feelings into magic, and bring her soul out without fail."`
+char_bea: `"......What do you say?`
+char_bea: ` Will you help me...?"`
+char_geo: `"...Of course I will.`
+char_geo: ` .........If Shannon's life will be revived,`
+char_geo: ` ......I am not afraid to lose everything......!"`
+char_non: `George's fists shook in silence.`
+char_non: `...Then he slowly regained consciousness.`
+char_non: `He had been absentmindedly standing near the window in the hall the whole time, his mug still in his hand...`
+char_non: `And......`
+char_non: `............the witch from his dream......was still there.`
+char_geo: `"Wh‐......what the... .........I‐it isn't......a dream........."`
+char_bea: `"......Be quiet.`
+char_bea: ` I am very fragile now.`
+char_bea: ` If any more {y:0:Human}{n:0:human}s appear now, I will not be able to preserve this form.`
+char_bea: ` ...I shall grant your wish, so stay silent for now.`
+char_bea: ` ...Is that alright?"`
+char_non: `George covered his mouth with both hands, forcefully nodding several times.`
+char_non: `As he did, he almost dropped the mug he was holding.`
+char_non: `George frantically juggled it around and caught it.`
+char_non: `...He was afraid that if it fell to the floor and made a loud sound,`
+char_non: ` the witch's form might disappear like a bubble popping.`
+char_non: `He softly set the mug on the floor, ...and stared once again at the witch in front of him.`
+char_non: `.........Her form didn't disappear.`
+char_non: ` It wasn't a dream......`
+char_bea: `"Come, let us go to the parlor where Shannon sleeps.`
+char_bea: ` With the power of your feelings, we will bring back her soul."`
+char_geo: `"Y‐you say go, but...how...?`
+char_geo: ` My mother and the others are downstairs.`
+char_geo: ` There's no way they'd let me go outside.`
+char_geo: ` ......And, didn't you just say that you wouldn't be able to preserve your form if another {y:0:Human}{n:0:human} appeared?"`
+char_bea: `"......Come to think of it, that is true.`
+char_bea: ` So, Krauss and the rest are downstairs.`
+char_bea: ` ...In that case, we definitely cannot go down.`
+char_bea: ` ......Well then, we just need to go to the mansion without going downstairs, right?`
+char_bea: ` It's simple."`
+char_non: `Beato laughed, as though she had thought of a pleasant prank.`
+char_non: `......And with her golden pipe, she lightly tapped a window with its shutter closed.`
+char_non: `When she did, three gold butterflies appeared from the pipe and opened the lock on the window as though melting it.`
+char_non: `Then the window opened without a sound.`
+char_non: `The shutter beyond it was exactly the same.`
+char_non: `{n}The clasp unset itself, also without making a sound, and it quietly opened.`
+char_non: `The window opened, exposing the wind and rain outside the mansion.`
+char_non: ` ...Perhaps because of the direction or something related to the construction of the building, the wind did not blow inside.`
+char_non: `Because of that, for a while,`
+char_non: ` George felt as though this entrance opening to the outside was a dream or illusion, and he couldn't accept it as real.`
+char_bea: `"Come, let us go.`
+char_bea: ` Come with me."`
+char_non: `Beato gently floated upwards.`
+char_non: ` It was a natural action, like that of a diver enjoying an underwater stroll.`
+char_non: `......It made it easy to believe that if you acted like she did,`
+char_non: ` you too might be able to float in the sky just as though you were swimming in the water.`
+char_non: `...No, George did believe that.`
+char_non: `......So without thinking, just as she had done, he also...`
+char_non: `...gently...`
+char_non: `...as though swimming in the water...he moved his feet......`
+char_geo: `"......ah, ............aaaaaaahh........."`
+char_bea: `"Hoh.`
+char_bea: ` ...Not bad.`
+char_bea: ` So you learned how to dance through the sky faster than I could explain it."`
+char_non: `George was shocked to find himself floating in midair like he was swimming.`
+char_non: `...Of course, Beato was also shocked that George, who should have been unacquainted with magic, had learned how to do that just by instinct.`
+char_geo: `".........To be able to...`
+char_geo: `...fly in the air,`
+char_geo: ` ......swim in the air......"`
+char_bea: `"...You must not think of the logic.`
+char_bea: ` Accept it as a natural thing.`
+char_bea: ` ......You must not think back upon the {y:0:Human}{n:0:human} doctrines, such as those from Newton and Einstein."`
+char_bea: `"Especially when flying high in the sky.`
+char_bea: ` ...Inexperienced witches sometimes fall."`
+char_geo: `"...I, ...I accept it as true...`
+char_geo: ` I accept it as true......"`
+char_non: `George repeated those words over and over.`
+char_non: `{n}......He must not deny magic, no matter what.`
+char_non: `To deny that would be the same as to throw away what might be...`
+char_non: `his first and last chance to revive Shannon.`
+char_non: `However, compared to Beato, who was elegantly drifting like smoke, George's movements were clearly similar to someone underwater.`
+char_non: `...Therefore, if he didn't make a movement like kicking his feet in water every once in a while, he would be slowly dragged down by the force of gravity.`
+char_bea: `"I shall praise this as being a better performance than the first time I danced in the sky.`
+char_bea: ` ......Here we go.`
+char_bea: ` Come with me."`
+char_non: `Beato beckoned to George, and gently flew into the stormy sky.`
+char_non: `......It was just like a scene from a fairy tale.`
+char_non: `The scene unfolding before George's eyes felt entirely like an extension of his dream.`
+char_geo: `"......Being able to fly is......incredible, ......but so is the wind and the rain..."`
+char_bea: `"What's this? Are the wind and rain tormenting you...?`
+char_bea: ` ......I could teach you magic to block against that,`
+char_bea: ` but it may be too early for you, and it may be a misuse of time right now."`
+char_geo: `"........................Yes.`
+char_geo: ` ...The magic I need...isn't that."`
+char_non: `Without losing to the wind and rain, George wore a strong‐willed gaze.`
+char_bea: `"The mansion is coming into sight.`
+char_bea: ` ...Hold out just a little longer.`
+char_bea: ` If you fall now, you'll hit the bushes in the rose garden."`
+char_non: `The undulating rose garden was spread beneath the witch and George's gazes.`
+char_non: `This fantasy‐like scene no longer surprised George.`
+char_non: `Only the gradually approaching mansion was reflected in his eyes.`
+char_geo: `"Shannon, .........wait for me...`
+char_geo: ` ......I will definitely...revive you......!"`
+char_non: `Meanwhile...`
+char_non: `......the cruel new witch could be seen staring at the guesthouse from a different location.`
+char_ev2: `"...............Now, all that's left is the seventh and eighth twilights.`
+char_ev2: ` Just two more, and my obligation to that predecessor hag is finished.`
+char_ev2: ` .........I'll kill Krauss and Natsuhi.`
+char_ev2: ` Together like a happy couple."`
+char_s41: `"Nihi.`
+char_s41: ` How are the targets nyeh?"`
+char_s45: `"......In the lobby on the first floor of the guesthouse, both targets and Ushiromiya Eva acquired.`
+char_s45: ` Measuring anti‐magic power.`
+char_s45: ` Data link to 410."`
+char_s41: `"410, data received.`
+char_s41: ` Anti‐magic power is extremely low.`
+char_s41: ` If Eva just goes outside, they're tuna and abalone on a chopping board.`
+char_s41: ` Nihihihihi...!"`
+char_s45: `"What would you ask of us, Great Lady {f:5:Beatrice}?`
+char_s45: ` If you give the order, we will snipe right away...!`
+char_s45: ` Please, your orders...!"`
+char_ev2: `"...You guys reaally are convenient furniture.`
+char_ev2: ` Very different from old, second‐hand furniture, which only has enough talent to gouge corpses.`
+char_ev2: ` Right?"`
+char_rg1: `"..............................kh..."`
+char_ev2: `"Chiester Sisters, please show me your skill again.`
+char_ev2: ` ...Prepare to attack!`
+char_ev2: ` *giggle*giggle*giggle*giggle*giggle*!`
+char_ev2: ` Carry the corpses out again, alright?`
+char_ev2: ` 'Cause I'll play with them a lot.`
+char_ev2: ` No complaints, OK, Ronove?"`
+char_ron: `"......Yes.`
+char_ron: ` Certainly."`
+char_ev2: `"Nn......"`
+char_non: `At that time, the witch noticed something.`
+char_non: ` ......As though some presence had disappeared...`
+char_non: ` ...Was it her imagination......?`
+char_ev2: `".........Did you feel some kind of presence just now?`
+char_ev2: ` Did any of you feel it?"`
+char_s45: `"M‐...my apologies, I didn't notice anything... Please forgive me......!!"`
+char_s41: `"We were in the middle of observing the guesthouse, so our peripheral surveillance was turned off. Nihi.`
+char_s41: ` ...What about you, Lucifer‐chaaan?`
+char_s41: ` Did you feel a presence?"`
+char_rg1: `".........nh—"`
+char_non: `For just an instant, Lucifer sent a glance at Ronove, questioning whether she should answer honestly or not.`
+char_non: `Ronove gave a small nod in response.`
+char_ron: `"No.`
+char_ron: ` ...My apologies, {f:5:Beatrice}‐sama.`
+char_ron: ` Nothing from us.`
+char_ron: ` .........Forgive us for this stupidity, as we are only second‐hand furniture."`
+char_ev2: `"..........................."`
+char_ron: `"..........................."`
+char_ev2: `"...........................`
+char_ev2: ` ......I see.`
+char_ev2: ` If a Great Demon like you says that, then it must have been my imagination."`
+char_non: `The witch stared persistently in the direction the presence had disappeared to.`
+char_non: `......That was the direction of the rose garden.`
+char_non: ` And beyond that, she could see the mansion's dark silhouette created by lightning.`
+char_non: `......It took her quite some time before she pushed her unsatisfied feelings aside,`
+char_non: ` and once again turned to face the guesthouse.`

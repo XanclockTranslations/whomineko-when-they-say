@@ -1,0 +1,2327 @@
+char_non: `It goes without saying, but since the time she was born, ......Jessica was raised in this mansion.`
+char_non: `The Western‐style house that the cousins simply called "the mansion" was her home.`
+char_non: `And yet, she had never understood her cousins' feelings as much as she did today.`
+char_non: `......And at the same time, her own home, which she knew well, had never felt so different a place as it did now......`
+char_non: `Her own.........room.`
+char_non: `This had once been her personal hideaway, the only place in this vast mansion where she could feel at peace.`
+char_non: `However, ......that door had never felt as intimidating as it did now.`
+char_jes: `".........A test, he says...?`
+char_jes: ` Tch, what the hell has he got waiting in there......`
+char_jes: ` He better not have ransacked my desk and stuff......"`
+char_non: `She acted tough, trying to deceive herself.`
+char_non: `{n}......Trying to make herself believe that she wasn't scared of anything.`
+char_non: `She readied herself, and opened the door to her room.`
+char_jes: `"...................................."`
+char_non: `......When she saw that, fortunately, the room didn't appear to have been messed with, she relaxed.`
+char_non: `No one......was there.`
+char_non: ` ......Of course.`
+char_non: `{n}There was nowhere for anyone to hide here.`
+char_non: `Right away, Jessica locked the door behind her.`
+char_non: `{n}......Now the room was safe.`
+char_non: `She peeked under the bed and in the closet, but of course, no one was hiding.`
+char_jes: `"......Wh‐......what the hell.`
+char_jes: ` ...Haha, ...haha...!"`
+char_non: `She looked at the clock.`
+char_non: ` ......Ten past eleven, or just a little past that.`
+char_non: `As her tension lessened and fatigue came back to her entire body, she realized how messed up this whole day had been.`
+char_non: `It was still only eleven.`
+char_non: `......The plan had been for all the cousins to get together, have fun playing around, and talk animatedly about all kinds of things together into the night.`
+char_non: `Normally, we would have been doing that kind of thing at this very moment.`
+char_non: `{n}Why has that......turned into this......?`
+char_jes: `".........It's all that old bastard's fault......`
+char_jes: ` ......How could he do that...to Mom......`
+char_jes: `to everyone........."`
+char_non: `Her head was swimming with anger and sadness......`
+char_non: ` But there was no one here to direct those emotions at.`
+char_non: `......Because of the lock, this room's security was guaranteed.`
+char_non: `{n}Remembering that one more time, Jessica somehow regained her calm......`
+char_non: `If it keeps up like this and nothing happens...`
+char_non: `{n}Jessica thought that she would like to go to the dining hall and see her mother's last face.`
+char_non: `......Even though Gohda had emphasized so strongly that it was gruesome and that she definitely shouldn't look at it,`
+char_non: ` even so, she wanted to see her mother's face one final time...`
+char_non: `But they had been warned repeatedly that doing anything stupid would put the hostages in danger.`
+char_non: `......Could it be that locking the door was also against the rules......?`
+char_non: `If I close myself up in here, I alone might be saved.`
+char_non: `......But if I don't open it, it will surely be against the rules, and Dad, Kanon‐kun, Shannon, Auntie Kyrie, and Doctor Nanjo...`
+char_non: `will be killed.`
+char_non: `............There's no way the scales balance between five lives and my own one life.`
+char_non: `Jessica tightly shut her eyes, resisting the other part of herself which said "Isn't it alright as long as {i:I} survive?",`
+char_non: ` ......headed to the door, and made to unlock it.`
+char_non: `......Just then.`
+char_non: `Clap, clap, clap......`
+char_non: `A crisp applause rang out, making Jessica's heart leap...`
+char_ron: `"If the door had remained locked, it might have been in violation of the rules, and harm could have come to the hostages.`
+char_ron: ` ......But even so, your own life might be saved."`
+char_ron: `"However, you resisted that temptation and were about to unlock the door yourself.`
+char_ron: ` That bravery of yours is worthy of admiration."`
+char_jes: `"Wh‐who..............."`
+char_non: `I, the owner of this room,`
+char_non: ` ......had searched to make sure there was nowhere any human could have been hiding...`
+char_non: ` .........Where had this...man...`
+char_non: `.........There was nowhere for a {y:0:Human}{n:0:human} to hide,`
+char_non: ` ......but could something that wasn't {y:0:Human}{n:0:human} have managed it.........?`
+char_non: `I was pretty sure this was my first meeting with this largely built, middle‐aged man.`
+char_non: ` ......I did not recognize this guy, who looked like a butler and bore the seal of the One‐winged Eagle.`
+char_ron: `"A pleasure to meet you, Jessica‐sama.`
+char_ron: ` .........I serve as head furniture for the Master, the 27th of the 72.`
+char_ron: ` I am called Ronove."`
+char_jes: `"......Rono...ue......?`
+char_jes: ` ............Genji...san............?"`
+char_ron: `"......Ah, yes, ...Genji is like my little brother.`
+char_ron: ` Or perhaps he was my true form in this world.`
+char_ron: ` ......Perhaps you could even say he was a vessel."`
+char_jes: `".........What's...this guy...saying.........?"`
+char_ron: `"Oh, my apologies.`
+char_ron: ` This is not something that can be explained to a {y:0:Human}{n:0:human}.`
+char_ron: ` .........Well then, let us move on to the main event."`
+char_jes: `"So this is that old crackpot's...`
+char_jes: `...test or whatever........."`
+char_ron: `"Correct.`
+char_ron: ` This is the test that the Master has granted you."`
+char_non: `At Ronove's elegant gesture, like that of a butler ordering for the meal to be set out,`
+char_non: ` many gold butterflies flew up out of nowhere......`
+char_jes: `"Gwah?!`
+char_jes: ` What the...hell......?!"`
+char_non: `The swarm of gold butterflies spun around, forming a small swirl as they gathered in one place.`
+char_non: `......Then, that golden mound disappeared like a pile of leaves blown away by a cold wintry wind,`
+char_non: ` ......and there lay a Western envelope with the One‐winged Eagle crest done on it in gold leaf......`
+char_non: `Ronove gestured to her to pick it up.`
+char_non: `{n}Jessica timidly picked it up, and opened the letter inside......`
+char_jes: `".....................What is...this......?"`
+char_ron: `"It is an exceedingly simple test that looks for the qualifications for becoming the next head.`
+char_ron: ` ......Please attend to the question written there with the readiness of the next head who will bear responsibility for the Ushiromiya family,`
+char_ron: ` and tell me your answer, as well as the thoughts that led you to it."`
+char_jes: `"......Wh‐............what the...utter hell..............."`
+char_non: `Shaking, Jessica looked back and forth between the paper and Ronove's face several times......`
+char_non: `......At that time, George, who had been called out after Jessica, could be seen in the arbor of the rose garden.`
+char_non: `He had been planning to give Shannon the ring that would be proof of their engagement...here, tonight, at this time...if things had gone normally.`
+char_non: `...But the woman in front of George now was not Shannon.`
+char_gap: `"......Read it.`
+char_gap: ` That is {f:5:Goldsmith}'s test for you."`
+char_geo: `".............................."`
+char_non: `George picked up the Western envelope on the table where he had once drunk tea with Shannon,`
+char_non: ` and read its contents......`
+char_non: `Perhaps its message was short.`
+char_non: ` After a single glance at it, George's eyes grew sharp.`
+char_geo: `"............What is this...`
+char_geo: `supposed to be?"`
+char_gap: `"Ehheheheheh.`
+char_gap: ` ......It's what it looks like.`
+char_gap: ` This is the test given to you, to find if you have the qualifications to be the successor to the head.`
+char_gap: ` ......Ask yourself what makes you qualified to be the successor, as you answer the question."`
+char_geo: `".........What a...stupid question."`
+char_gap: `"I agree.`
+char_gap: ` It really is a stupid question.`
+char_gap: ` .........In that case, isn't the Ushiromiya family headship something just as trivial in {f:5:Goldsmith}'s eyes?`
+char_gap: ` ......Heheheh."`
+char_non: `George lowered his eyes to the surface of the letter once again, and examined its contents......`
+char_non: `George and Jessica.`
+char_non: ` ......While the tests given to them were slightly different, they were almost exactly the same.`
+char_geo: `"......‘Among the three mentioned below.`
+char_geo: ` In order to gain two, sacrifice one.’"`
+char_gap: `"It's a simple three‐choice test.`
+char_gap: ` .........Decide for yourself which one you will choose not to save."`
+char_gap: `"If you refuse to choose, the test is suspended.`
+char_gap: ` I have been given permission to kill you right here by my own hands.`
+char_gap: ` .........If you would include even that as a choice, then there are four choices."`
+char_gap: `"It's been an awful long time since I've gotten to play with a kid like you, so I can't say I'd be disappointed."`
+char_geo: `".........Are these three choices only a test?`
+char_geo: ` Or will the choice be accompanied by its result?"`
+char_gap: `"Don't be naive.`
+char_gap: ` ......The one you choose will definitely lose their life."`
+char_geo: `"......................................."`
+char_non: `{a:c:{e:070:Among the three mentioned below.`
+char_non: `{n}In order to gain two, sacrifice one.`
+char_non: `{n}{n}1. Your life`
+char_non: `{n}2. Shannon's life`
+char_non: `{n}3. Everyone else's lives`
+char_non: `{n}{n}If you do not choose one, all of the above will be lost.}}`
+char_geo: `"...............Why is Shannon's name here?"`
+char_gap: `"The second choice has the name of the one most needed by that person, and most loved.`
+char_gap: ` ......I believe Kanon's name is written second on Jessica's test."`
+char_geo: `".........You gave this stupid question to Jessica too...?"`
+char_gap: `"*giggle*giggle*.`
+char_gap: ` ......What does Jessica matter?`
+char_gap: ` Right now, you are the one being tested."`
+char_gap: `"It really is a simple three‐choice test.`
+char_gap: ` Which can you throw away for the sake of the other two?`
+char_gap: ` ......Isn't that simple?`
+char_gap: ` If you still can't decide, would you like me to lend you a coin......?"`
+char_geo: `"......A coin?`
+char_geo: ` How would you choose between three options with something that only has two sides?"`
+char_gap: `"There's no one who would throw away their own life.`
+char_gap: ` ......So naturally only two options remain.`
+char_gap: ` Will you give up on everyone for the sake of the one you love?`
+char_gap: ` Or will you give up on the one person you love so that you can save as many people as possible?"`
+char_gap: `"Either way, you can fit it with an appropriate just cause.`
+char_gap: ` After all, this Rokkenjima is now a demon island.`
+char_gap: ` ......The sickly sweet buddy‐buddy pretense of the {y:0:Human}{n:0:human} world is not necessary.`
+char_gap: ` No one will blame you.`
+char_gap: ` Do as your heart desires."`
+char_gap: `"......While asking yourself whether you possess the fitting qualifications to succeed the headship of the Ushiromiya family...`
+char_gap: ` No, make your decision as though you yourself {i:are} the Ushiromiya family head.`
+char_gap: ` Ehheheheheh......"`
+char_geo: `".........................................."`
+char_jes: `".........What.........the hell do you take me for............"`
+char_non: `Jessica crumpled the letter up and threw it on the floor.`
+char_ron: `"I believe your anger is quite appropriate.`
+char_ron: ` ......I also find it an exceedingly pitiful, and truly ludicrous question.`
+char_ron: ` ......Pu ku ku ku."`
+char_jes: `"Like hell there's anyone who could wish for their own death.`
+char_jes: ` And...like hell there's anyone who could want to remain alive after abandoning the life of the person they l‐...love.`
+char_jes: ` ......And......like hell there's anyone who could massacre everyone else......as long as it's good for the two of them......!"`
+char_ron: `"No, Jessica‐sama.`
+char_ron: ` Such a person could exist."`
+char_ron: `"This is Rokkenjima, the demon island!`
+char_ron: ` It is now completely cut off from the {y:0:Human}{n:0:human} world and dunked fully into the netherworld like cheese fondue.`
+char_ron: ` The values of the human world will be taken out with the trash."`
+char_ron: `"Pu ku ku!`
+char_ron: ` So please.`
+char_ron: ` Choose the things you desire from the bottom of your heart, in the order you desire them.`
+char_ron: ` Whatever remains will be your answer, and one most fitting for this insane night."`
+char_jes: `"Screw you!!`
+char_jes: ` How could I......choose any of these?!!"`
+char_ron: `"‘If you do not choose one, all of the above will be lost’...`
+char_ron: `also makes for a fine fourth choice.`
+char_ron: ` It may also be interesting if that one is chosen."`
+char_ron: `"But since choosing that will result in the loss of your own life in the end, I believe it would be more wise to do the honorable thing and select number one, "your life",`
+char_ron: ` so that the other two will be saved.`
+char_ron: ` ......All is entrusted to your decision, Jessica‐sama."`
+char_ron: `"Please, let me hear an answer and conviction fitting for the successor to the Ushiromiya family......!!`
+char_ron: ` I am sincerely hoping for a wonderful answer, fitting for the Master's descendant who shares his blood!!"`
+char_jes: `"Da‐......damn iiiiiiiiiiiiiiiiittt......"`
+char_non: `That scene was being observed through a magic crystal ball being held by Kinzo.`
+char_non: `Kinzo finally couldn't hold it back; spreading his arms and facing the heavens, he began laughing in an explosive voice......`
+char_kin: `"Fuhahahahahahaha, waahha{0}hha{0}ha{0}ha{0}ha{0}ha{0}ha{0}ha{0}ha{0}haha!!`
+char_kin: ` Why do you hesitate, foolish grandchildren and descendants of mine!!"`
+char_kin: `"This is a simple problem that can be answered immediately!`
+char_kin: ` It should cause less vacillation than whether to put butter or jam on your morning toast!!`
+char_kin: ` ......Do you people know the correct answer?"`
+char_non: `He turned and stared wide‐eyed at the Chiester Sisters, who had been faithfully standing in wait behind him.`
+char_s45: `"N‐no, no, my apologies, I don't know, Lord {f:5:Goldsmith}!"`
+char_kin: `"Fool, not choosing at all means GAME OVEE{-}E{-}E{-}E{-}E{-}E{-}E{-}E{-}EEER!!!`
+char_kin: ` You foolish rabbit, who cannot even choose a reason or a goal for her own life...!!"`
+char_kin: `"You have not the value of a single ant that anyone might step upon without even noticing!!`
+char_kin: ` Die! Be crushed!! Disappear faster than I can blink!!`
+char_kin: ` ......And what of you?"`
+char_s00: `"......I would sacrifice the first one, "my life", sir.`
+char_s00: ` Weapons exist to fight and die in battle.`
+char_s00: ` And weapons exist to destroy enemies and protect allies.`
+char_s00: ` If we can die protecting those we love, we can die satisfied, sir."`
+char_kin: `"Hoh.`
+char_kin: ` A truly splendid model answer for a weapon.`
+char_kin: ` The immediate reply is very nice.`
+char_kin: ` ......Have you been taught that you'll be given an extra carrot for answering that way?`
+char_kin: ` Heheheheh, that's not it, is it noowwwwww?`
+char_kin: ` Even that isn't it, is it noww{-}w{-}w{-}w{-}w{-}w{-}wwww...?"`
+char_kin: `"You are merely answering the way you have been told to answer, repeating the answer you have been indoctrinated with!!`
+char_kin: ` You are the same as that other rabbit a second ago.`
+char_kin: ` You still live without having chosen a purpose or a goal to live for...!!`
+char_kin: ` Filth whose life has no value...!`
+char_kin: ` It would fit you well to crush you down and use you as fodder for the other livestock!!"`
+char_s00: `"...............`
+char_s00: ` ...Yes sir!`
+char_s00: ` A‐animal fodder...would be an honor......!"`
+char_kin: `"I don't think sooooo!`
+char_kin: ` You don't want to see anyone else die anymore, doooo youuuu?`
+char_kin: ` Why can't you accept that?`
+char_kin: ` Accept that your old wounds are still festering and rotting deep, deep inside...!"`
+char_kin: `"Yes, the rotting stench almost makes the nose wrinkle, you foolish rotten rabbit!!`
+char_kin: ` These are words of praise for you!!"`
+char_s00: `".........Th‐thank you very much...sir......"`
+char_kin: `"Well then, what about you, the last one.`
+char_kin: ` Which of the three choices would you choose...?"`
+char_s41: `"Nihi.`
+char_s41: ` Number two without hesitation."`
+char_kin: `"Hoh...`
+char_kin: ` Number two.`
+char_kin: ` There are not many who could proudly choose to offer "the one you love" as a sacrifice.`
+char_kin: ` Tell me your reason."`
+char_s41: `"Because the one you love will be lost eventually.`
+char_s41: ` If you don't have anyone to love, you won't be hurt, and even then, you still might be able to love someone again someday.`
+char_s41: ` So,`
+char_s41: ` the person you love right now isn't worth that much at all nyeh.`
+char_s41: ` ......Nihi!"`
+char_kin: `"*cackle*cackle*cackle*.`
+char_kin: ` I see, so that is why you reach such an answer, you rabbit who has become cowardly because you have been hurt by love......`
+char_kin: ` I have heard that rabbits die of loneliness, but just when was it that your heart was killed...?"`
+char_kin: `"Then, rabbit, I shall alter the question.`
+char_kin: ` Why don't I change the second option to, not "the one you love", but "the memories of the one you loved"."`
+char_kin: `"......How is that?`
+char_kin: ` Can you still select that one?`
+char_kin: ` What's this about the one you love not being worth much at all, foolish rabbit...!"`
+char_kin: `"Filth who cannot even face up to the depths of her own love!!`
+char_kin: ` Try and choose it, try and choose to have the one you loved forgotten!!!!!!"`
+char_kin: `"You can, right?`
+char_kin: ` I'll bet you can, riiiiiiiight?`
+char_kin: ` Cooooome onnnnn, try saying that you caa{-}a{-}a{-}a{-}a{-}a{-}a{-}aaan!!!!"`
+char_s41: `"I, ...I, I can...`
+char_s41: ` I can...!!`
+char_s41: ` Nihi, .........nihi{0}hi{0}hi{0}hi{0}hi{0}hi{0}hi{0}hi{0}hiiihii......"`
+char_s00: `"L‐Lord {f:5:Goldsmith}...!`
+char_s00: ` Please, have mercy on her......!!"`
+char_s41: `"Hihiiihiii...`
+char_s41: ` ......Hiiiiiiiiiiiiiiiiiiinn...!!"`
+char_kin: `"That is enough, rabbit filth!!`
+char_kin: ` Go to {f:5:Virgilia} and help keep watch on the dungeon.`
+char_kin: ` Begone!!"`
+char_non: `The Chiester Sisters, their old emotional wounds gouged,`
+char_non: ` disappeared as though running away.`
+char_non: `After that, even though there was no one left to hear him, Kinzo continued talking as though continuing a play...`
+char_kin: `"......And there you have it, my pleasant test.`
+char_kin: ` To be truthful, there is no choice that can be said to be correct."`
+char_kin: `"Whichever answer they choose, it is about whether they can choose...`
+char_kin: `without hesitation,`
+char_kin: ` quickly,`
+char_kin: ` and with a resolute conviction and their own strong, unshakable will!!"`
+char_kin: `"The reason and their willpower are more important.`
+char_kin: ` .........That is what I want to know about.`
+char_kin: ` Ahhh, descendants of mine, I am truly looking forward to what kind of answers you will show me!!"`
+char_kin: `"............Hmmmm?`
+char_kin: ` Me?`
+char_kin: ` *cackle*cackle*cackle*!`
+char_kin: ` Yes, of course I once had the same question thrust upon me.`
+char_kin: ` Because I splendidly answered that devil's question, I was able to claim gold, honor, and that witch herself as my own."`
+char_kin: `"Which answer did I chooooose?`
+char_kin: ` .........Do I really need to say it out loud?`
+char_kin: ` Wahha{0}hha{0}ha{0}ha{0}ha{0}ha{0}ha{0}ha{0}ha{0}ha{0}ha{0}ha{0}ha{0}hahaha...!!!"`
+char_ron: `"So.`
+char_ron: ` Have you decided on your answer......?"`
+char_jes: `"................................."`
+char_non: `As Jessica stared at the crushed letter which lay on the floor,`
+char_non: ` ......she hung her head in constant silence.`
+char_non: `All that filled the room was the sound of the wind and the rain, and the rustling of treetops.`
+char_non: `{n}Regardless of how noisy that was, it simply made the silence more apparent.`
+char_non: `Ronove waited for Jessica's answer.`
+char_non: `{n}......However, Jessica didn't speak.`
+char_non: `Whether she was deep in thought, or had stopped thinking, Ronove couldn't tell.`
+char_non: `......No, ...he might actually have known.`
+char_non: `But, cruelly like a demon, ......Ronove urged Jessica to voice it.`
+char_ron: `".........If you cannot choose any,`
+char_ron: ` ......I can at least take your life painlessly, ...if you would like......?"`
+char_jes: `".................................`
+char_jes: ` .........ll m."`
+char_ron: `"......What?`
+char_ron: ` I'm afraid I had trouble hearing.`
+char_ron: ` May I ask you to repeat......?"`
+char_non: `Jessica lifted her face, ......and looked straight into Ronove's eyes.`
+char_non: `......It seemed that she had decided on her answer.`
+char_jes: `"............Kill me."`
+char_non: `Jessica said it one more time, ......clearly.`
+char_non: `Perhaps Ronove had imagined from the very beginning that this would be the answer.`
+char_non: `......Without any surprise, he smiled lightly and nodded.`
+char_ron: `"......I thought that you would choose that answer, Jessica‐sama.`
+char_ron: ` ......Now then, there is no right or wrong answer to this test.`
+char_ron: ` The important part is what thoughts led you to that answer."`
+char_ron: `"Come now.`
+char_ron: ` Please answer that with your readiness as the next head."`
+char_jes: `"............It's not like I chose the first one 'cause I wanted to die.`
+char_jes: ` ......The second one was letting Kanon‐kun die.`
+char_jes: ` That's obviously out of the question.`
+char_jes: ` So forget that one.`
+char_jes: ` ......The third one was everyone else's lives.`
+char_jes: ` That's also obviously out of the question.`
+char_jes: ` So forget that one.`
+char_jes: ` ......After that, only the first choice remained."`
+char_ron: `"Process of elimination, ......is it.`
+char_ron: ` So it was not something you chose proactively, you say......"`
+char_non: `After chuckling slightly, Ronove dropped his gaze.`
+char_non: `......A {y:0:Human}{n:0:human} couldn't even imagine what kind of answer a demon would have been hoping for.`
+char_non: `......All she could understand was that this was apparently slightly below Ronove's expectations.`
+char_ron: `"......It's not a bad answer, but I must say, it's not a good one either.`
+char_ron: ` ......I suppose I would call it a 60.`
+char_ron: ` ......I'm a little disappointed."`
+char_jes: `"You're a pretty selfish bastard, telling me to answer with self‐confidence and then being disappointed when I do."`
+char_ron: `".........Apparently it was not only process of elimination.`
+char_ron: ` ...Either way, it is a failing grade, ......but it seems that there is a little more to your thoughts.`
+char_ron: ` Allow me to ask."`
+char_jes: `"I don't want to die.`
+char_jes: ` ......So I didn't {i:want} to choose the first one—no one would.`
+char_jes: ` ......People struggle as much as life will let them, 'cause they want to live in happiness.`
+char_jes: ` So normally, the first choice should be impossible from the beginning."`
+char_ron: `".........However, you took that first choice.`
+char_ron: ` You chose to throw away your own life.`
+char_ron: ` Only that choice remained."`
+char_jes: `"I tried......thinking of the future that would come after choosing each one."`
+char_ron: `"......Hoh.`
+char_ron: ` And what did you find...?"`
+char_jes: `"First, .........I tried letting Kanon‐kun die.`
+char_jes: ` .........I tried to imagine the rest of my life after having abandoned the one I love."`
+char_ron: `"What kind of life was it...?"`
+char_jes: `"She was a horrible woman, who didn't deserve to live.`
+char_jes: ` A shabby woman who forever lamented her own decision, and lived only to regret.`
+char_jes: ` ......A horrible woman who would choose to live and abandon the person she loved... I could never forgive a woman like that.`
+char_jes: ` ......I'd put an end to her myself."`
+char_ron: `"Heheh, how spirited.`
+char_ron: ` .........In that case, could you not also have considered the third choice?"`
+char_jes: `"......Yeah.`
+char_jes: ` I tried letting everyone but me and Kanon‐kun die.`
+char_jes: ` ......There's no way Kanon‐kun would like me if I did that."`
+char_jes: `"And it was no good for me either... Although I had Kanon‐kun, all the lives I abandoned for that became a cross that I had to bear for my entire life.`
+char_jes: ` ......And even Kanon‐kun was forced to bear that cross."`
+char_jes: `".........I'm not going to make a foolish choice just to force a cross on Kanon‐kun.`
+char_jes: ` If there's a future me out there who would do something like that, .........she's unforgivable to me.`
+char_jes: ` ...I'd put an end to that woman myself too."`
+char_non: `Jessica had pictured it in her mind.`
+char_non: `{n}The future her, beyond each of the three choices.`
+char_non: `There were three Jessicas.`
+char_non: `{n}......Of the three, two had regrets.`
+char_non: `{n}Only one could hold her head high and smile at Kanon.`
+char_jes: `"......You know,`
+char_jes: ` I once had the nerve to preach something to Kanon‐kun.`
+char_jes: ` ......Something about trying to live life to the fullest."`
+char_ron: `"Live your life to the fullest.`
+char_ron: ` ......Meaningful words.`
+char_ron: ` That is a surprisingly difficult thing to do."`
+char_jes: `"So yeah.`
+char_jes: ` I've got to hold my head high and show Kanon‐kun.`
+char_jes: ` .........Show him a way of living where you can hold your head high, and look anyone in the eye with a full and guiltless smile."`
+char_ron: `"......Will Kanon be able to receive your self‐sacrifice?`
+char_ron: ` Haven't you considered that your self‐centered decision might hurt him even more...?"`
+char_jes: `"That's why...I want to leave a message..."`
+char_ron: `"Hoh.`
+char_ron: ` ......I will listen, but I am after all a demon.`
+char_ron: ` ...I may not keep my promises..."`
+char_jes: `".........Keep it.`
+char_jes: ` Your promise."`
+char_non: `Jessica spoke that looking quite unconcerned.`
+char_non: `She had asked the demon who was about to take her life to pass on a message, and she wasn't thinking for a moment that she would be betrayed.`
+char_non: `......At that extremely innocent smile, Ronove closed his eyes lightly, and shrugged his shoulders.`
+char_ron: `"Hmph......`
+char_ron: ` ......Very well.`
+char_ron: ` So?`
+char_ron: ` What shall I tell him...?"`
+char_jes: `‘......Tell Kanon‐kun...to live his life to the fullest.`
+char_jes: ` ......No, that's not quite it.`
+char_jes: ` Not his life...not {i:Kanon‐kun's} life.`
+char_jes: ` ......Even now I can't get him to tell me his real name,`
+char_jes: ` but tell him to live the real Kanon‐kun's life to the fullest.`
+char_jes: ` .........Tell him that.’`
+char_kan: `"...............Mi...lady......"`
+char_cla: `"......Jessica......`
+char_cla: ` ......You are unbelievable............"`
+char_wal: `"Ronove is fickle, so he might not have passed the message on.`
+char_wal: ` ......Aren't you lucky?`
+char_wal: ` To have me here showing you this scene."`
+char_non: `A musty three‐sided mirror was set beyond the bars, ......and the scene with Jessica was reflected on it.`
+char_non: `On the next mirror...the scene with George was reflected in the same way.`
+char_non: `None of them questioned how a three‐sided mirror had appeared from a group of butterflies,`
+char_non: ` or why Jessica and George were reflected on it.`
+char_non: `......Because the reflected sights themselves were more important.`
+char_cla: `"............You are that prepared...`
+char_cla: `......to throw your life away,`
+char_cla: ` ......for his sake........."`
+char_kan: `".................................`
+char_kan: ` ......My......deepest apologies..."`
+char_non: `Krauss looked at Kanon with a complicated expression that had an awkward smile mixed in.`
+char_non: `{n}......Kanon couldn't meet his eyes.`
+char_kan: `"......{f:5:Virgilia}‐sama.`
+char_kan: ` ......There is no reason for Milady to lose her life.`
+char_kan: ` ......Please kill me.`
+char_kan: ` Please change it to the second choice.`
+char_kan: ` ......That way, everything should resolve itself."`
+char_wal: `"Hohhohohohohoho...`
+char_wal: ` I am not capable of granting that wish.`
+char_wal: ` ......After all, this is Jessica's own decision, which she chose."`
+char_non: `Suddenly, the air split, and the Chiester Sisters appeared, flying into {f:5:Virgilia}'s chest.`
+char_s41: `"{f:5:Virgilia}‐samaaaaaaaaaaaa!`
+char_s41: ` Hiieeehheiiiiih!!"`
+char_s45: `"So mean, so mean, Lord {f:5:Goldsmith} is so meeeeeaan, wahhhn{0}haaaan{0}haahaahhhn!"`
+char_s00: `"I'm......doing the best I can......`
+char_s00: ` Crushing me for animal fodder...that's just too much.`
+char_s00: ` ......Uuuuuuuughhuhhuu!!"`
+char_non: `Still without a clue what was going on, {f:5:Virgilia} was smothered by the sobbing Chiester Sisters.`
+char_wal: `"Th‐there, there. Everything's alright, it's alright. Don't cry, don't cry......`
+char_wal: ` I'll make you some delicious tea......"`
+char_wal: `"......I'm leaving it up to all of you to guard this place.`
+char_wal: ` If they do anything suspicious, inform me immediately...!"`
+char_non: `The goat attendants all looked at each other, and nodded their heads.`
+char_non: `{f:5:Virgilia} took the Chiester Sisters and left.`
+char_non: `The sound of people going up a set of stairs could be heard, so they had probably gone to an upper floor.`
+char_kir: `".........This is our chance.`
+char_kir: ` ......These goat‐heads seem to be stupid.`
+char_kir: ` ......I wonder if we can trick them..."`
+char_non: `Kyrie realized that an opportunity had arrived, but she still hadn't thought of a way to break the metal bars......`
+char_non: `The Jessica reflected on the three‐sided mirror closed her eyes, as though she had given up.`
+char_non: `......The way she had both hands stuck into her pockets, wanting to be defiant until the very end, might have been her own kind of aesthetics.`
+char_jes: `"............That's all I want to say.`
+char_jes: ` .........Kill me."`
+char_ron: `"......Very well.`
+char_ron: ` ............Here we go, then.`
+char_ron: ` ......Do not worry, for I shall make your death more gentle and merciful than any sleep."`
+char_non: `Ronove raised his palm......as he slowly approached Jessica......`
+char_cla: `"Dammiiiiiiiiiiittt!!`
+char_cla: ` Wrooggh!!`
+char_cla: ` Graaah!!"`
+char_non: `Realizing that his daughter would be killed, Krauss repeatedly body‐slammed the metal bars, going half‐mad.`
+char_non: `The goats looked like they were sneering at how a mere {y:0:Human}{n:0:human} didn't stand a chance at breaking those bars.`
+char_non: `And, true, Krauss's pointless effort might have been comical.`
+char_non: `......But Krauss was giving it everything he had.`
+char_non: ` As Jessica's father, he was living in that moment with everything he had, so that he could save her.`
+char_non: `.........Kanon made tight fists with both hands.`
+char_non: `If he used his cursed power, he might be able to cut through even metal bars.`
+char_non: `......But there were a full three goats.`
+char_non: ` ...There was no way he could defeat three of them in an instant.`
+char_non: ` It would instantly be reported, and then {f:5:Virgilia} and even the Chiester Sisters would dash in.`
+char_non: `Though he may be able to break the bars, ......he could do nothing more.`
+char_non: `{n}......It was useless.`
+char_non: `......Kanon knew already that the witch was sneering at that kind of useless effort,`
+char_non: ` ......so he could do nothing but stare at Krauss's repeated body‐slams...`
+char_sha: `"......Ah, ............George‐sama......"`
+char_non: `Shannon, who had been looking at the three‐sided mirror, let out a voice.`
+char_non: `...They looked to see that George, who had been silent this whole time, had raised his head.`
+char_non: `{n}......It seemed that George had also decided on an answer...`
+char_gap: `"............Have you decided?`
+char_gap: ` Your answer?"`
+char_geo: `"Yeah.`
+char_geo: ` .........I've decided."`
+char_gap: `"Is that an unwavering answer...?"`
+char_geo: `"Yeah. It's unwavering."`
+char_gap: `"Then let's hear it.`
+char_gap: ` .........Oh, by the way,`
+char_gap: ` it seems Jessica decided to take the "your life" option.`
+char_gap: ` I hope that an indecisive person like you won't simply say you chose the same answer......?"`
+char_geo: `"......Jessica gave her own answer.`
+char_geo: ` ......No matter which choice that was, it was Jessica's answer.`
+char_geo: ` It does not influence my answer in any way."`
+char_gap: `"I see.`
+char_gap: ` Then let me ask again.`
+char_gap: ` ............Among the three mentioned below.`
+char_gap: ` In order to gain two, sacrifice one."`
+char_gap: `"1. Your life.`
+char_gap: ` {nobr:2. Shannon's} life.`
+char_gap: ` {nobr:3. Everyone} else's lives.`
+char_gap: ` .........Which have you chosen?`
+char_gap: ` Could it be the first one, like Jessica?"`
+char_geo: `".........No."`
+char_gap: `"Oh......?"`
+char_non: `Gaap looked a little surprised.`
+char_non: ` ......Because she had thought that a timid‐looking man like this would never choose any other option.`
+char_gap: `".....................`
+char_gap: ` ......That's nice to hear.`
+char_gap: ` I'm glad the most boring option for me has been removed.`
+char_gap: ` ......Then, it seems unlikely, but......is it the second?`
+char_gap: ` Can you abandon Shannon's life......?"`
+char_geo: `".........You must be joking.`
+char_geo: ` Why would I do that to the person I'm going to give an engagement ring to tonight?"`
+char_gap: `"........................`
+char_gap: ` .........Now this is bold.`
+char_gap: ` Is that your answer......?"`
+char_geo: `".........Yes.`
+char_geo: ` ......My answer...`
+char_geo: `...is the third choice."`
+char_non: `George had chosen.........the third choice.`
+char_non: `{n}......“Everyone else's lives”.`
+char_non: `Even Gaap hadn't been able to imagine that answer.`
+char_non: `......She had been sure that he'd choose number one, just like Jessica......`
+char_non: `{n}So, she became interested in how he had reached that answer.`
+char_non: `......How he had reached an answer that had defied the imagination of the 33rd ranked demon of the 72.`
+char_gap: `"I want you to tell me.`
+char_gap: ` .........Tell me the perspective that makes you able to sacrifice the lives of everyone else so that you and the fiancée you love will be safe.`
+char_gap: ` ......Process of elimination, like Jessica?"`
+char_geo: `"No.`
+char_geo: ` This is the clear and only choice for me."`
+char_gap: `"...............So it's "I'm alright, Jack"?`
+char_gap: ` You can sacrifice the world for the woman you love...?"`
+char_geo: `"Just what are you talking about?"`
+char_gap: `"............What.........?"`
+char_non: `George faced the demon as he spoke, looking at her almost in disbelief.`
+char_geo: `"......Tonight,`
+char_geo: ` I planned on calling Shannon to this very spot, and giving her this ring as proof of our engagement."`
+char_geo: `".........There probably are quite a few people who wouldn't celebrate an engagement between me and Shannon.`
+char_geo: ` I was prepared to make enemies of the entire family by announcing my engagement to her."`
+char_geo: `"I have been prepared.`
+char_geo: ` Since the time I came to this island, .........no, that's not it.`
+char_geo: ` .........Since the time I confessed to her that I wanted us to get engaged."`
+char_gap: `"............So, you can sacrifice everything else as long as you can get married......?"`
+char_geo: `"Marriage...`
+char_geo: `...means remaining an ally to your wife for your entire life.`
+char_geo: ` .........As of that moment,`
+char_geo: ` ......I was prepared to make the entire world my enemy for her sake."`
+char_non: `Those words, through the three‐sided mirror, ......also reached Shannon's ears.`
+char_non: `{n}And his determination reached her eyes.`
+char_non: `......Shannon certainly had arranged with George that tonight, she would be given an engagement ring.`
+char_non: `Then this incident had occurred, and she hadn't been able to receive the ring.`
+char_non: `But now,`
+char_non: ` .........even though it wasn't in the form of a ring,`
+char_non: ` ......Shannon had received something even greater.`
+char_non: `......And as proof of that,`
+char_non: ` ......a single tear with the same sparkle as a diamond...`
+char_non: `dripped down.`
+char_gap: `"Heh, ......heheheheheheh......!`
+char_gap: ` What a gutsy answer.`
+char_gap: ` .........Yes, if I really think about it, this was an easy decision for you."`
+char_gap: `"After all, your parents were already killed on the first twilight, right?`
+char_gap: ` By now, there's no one whose death would bother you.`
+char_gap: ` Hahha{0}ha{0}ha{0}ha{0}ha{0}haha, I see, this was an easy choice.`
+char_gap: ` Ahaha{0}ha{0}ha{0}ha{0}ha{0}haha......"`
+char_geo: `"You can say whatever you want.`
+char_geo: ` This is my determination and my choice, ......personally, and as the next family head."`
+char_non: `The sparkle in George's eyes was brilliant and sharp.`
+char_non: `...For just an instant, Gaap felt the same sense of intimidation that Kinzo exuded, and was slightly overpowered.`
+char_gap: `".........I see.`
+char_gap: ` ......So, the same answer as {f:5:Goldsmith}......`
+char_gap: ` ......Despite your innocent face, ......you're going to become a terrible demon in the future.`
+char_gap: ` ......What do you know, we might get along pretty well."`
+char_gap: `"You will succeed {f:5:Goldsmith}.`
+char_gap: ` And maybe one day, I may even be summoned eventually and serve you.`
+char_gap: ` ......That might be surprisingly interesting.`
+char_gap: ` .........Heheh."`
+char_non: `Gaap needed to change her opinion of George.`
+char_non: `......This man bore a determination and resolve unimaginable from his outward appearance, and had not adopted that just now,`
+char_non: ` ......but had possessed it since the very beginning.`
+char_geo: `"I am prepared to inherit the headship right away.`
+char_geo: ` .........No, that's not it.`
+char_geo: ` You told me to think as the head in this test.`
+char_geo: ` So I answered based on the premise that I am the head."`
+char_geo: `".........No, even that's not it.`
+char_geo: ` I thought as the head himself.`
+char_geo: ` ......Right now...I {i:am} the head of the Ushiromiya family."`
+char_gap: `".......................................`
+char_gap: ` Ehheheheheh......`
+char_gap: ` I'm impressed... I didn't expect you to be able to say so much."`
+char_gap: `"It seems you really are one to be reckoned with.`
+char_gap: ` ......Battler's and Maria's tests haven't been done yet, but if you ask me, I think you should be the one to pass.`
+char_gap: ` ............But only if that is your true, unexaggerated answer, of course?"`
+char_geo: `"............Do you doubt my resolve?"`
+char_gap: `"Can you carry out the choice you chose?`
+char_gap: ` Can you, right now, with your own hands, offer all the lives that exist on this island as sacrifices......?`
+char_gap: ` With your own hands, I remind you...?"`
+char_geo: `"I can.`
+char_geo: ` I've said several times that I have that resolve."`
+char_gap: `"Ha, ............hahahahahaha!`
+char_gap: ` Then return to the guesthouse right away, and kill Battler and Maria!`
+char_gap: ` When that is done, I will bring you the other hostages.`
+char_gap: ` Execute each of them except Shannon before her eyes!`
+char_gap: ` You can do it, right?!"`
+char_geo: `"{i:I can}.`
+char_geo: ` My resolve is on a whole different level from yours."`
+char_gap: `"...........................mngh.`
+char_gap: ` Then carry it out!`
+char_gap: ` Death for them all!`
+char_gap: ` Carry out this blood‐stained ritual as the new head of the Ushiromiya family...!!"`
+char_geo: `"......Understood.`
+char_geo: ` I'll carry it out.`
+char_geo: ` I am already the head of the Ushiromiya family."`
+char_gap: `"Yes, that's right!`
+char_gap: ` Stain that throne red by your own hands...!`
+char_gap: ` You will become king of the netherworld, ruler of all demons...!!"`
+char_non: `Gaap was now sure.`
+char_non: `{n}This man was truly fitting to succeed Kinzo's madness...!`
+char_gap: `"Rage on, storm! Cry out, thunder!!`
+char_gap: ` Celebrate the birth of the new demon king!!`
+char_gap: ` The island of demons has now welcomed a new ruler...!!"`
+char_non: `In response to the demon's call, the tempest raged more and more.`
+char_non: `Then a massive lightning bolt fell, its tearing thunder and brilliant light creating the feeling of just a moment of silence......`
+char_geo: `"So,`
+char_geo: ` ............about the order of the murders.`
+char_geo: ` I get to choose, right?"`
+char_gap: `"Please, as you wish, Your Majesty, the new demon king of Rokkenjima.`
+char_gap: ` As your heart desires...!"`
+char_geo: `".........Well, for lack of a better option...`
+char_geo: `the first one will be you, then—I hope that won't be a problem?"`
+char_gap: `"..............................Huh?"`
+char_non: `A gust of wind blew, ......stirring up George's jacket as though it was a cloak.`
+char_non: `It was very much like the cloak worn by the head.`
+char_non: `{n}It definitely gave the same impression of grandeur......`
+char_non: `......At that time, ......Gaap certainly saw the storm wiped away, and the sky covered with a pure‐white and vast full moon.`
+char_non: `Bearing the full moon on his back,`
+char_non: ` the man who called himself the new head...`
+char_non: `sneered at the demon.`
+char_geo: `"Even the lives of the Ushiromiya family, all of them......are now my fortune.`
+char_geo: ` There will be reparations to be made for the damage that has been done to that fortune.`
+char_geo: ` It won't be cheap."`
+char_geo: `"......You didn't seriously think you could take the lives of my parents, Aunt Natsuhi, Uncle Rudolf, Auntie Rosa,`
+char_geo: ` and Genji‐san, and hope I'd overlook it, right?"`
+char_gap: `"Ho...`
+char_gap: `......hohoh...`
+char_gap: `............you little wise guy......"`
+char_non: `Ronove had been intending to press his palm against Jessica's chest and stop her heart.`
+char_non: `But a short distance away, his hand had stopped......`
+char_non: `......On the carpet at their feet,`
+char_non: ` ......plop, plop...small red flowers bloomed one after another.`
+char_non: `The seeds of those flowers...`
+char_non: `...had fallen down from high, high above,`
+char_non: ` .........all the way from Jessica's fist,`
+char_non: ` ...held up as though to strike the heavens.`
+char_non: `Ronove's nose was stained red with spurting blood,`
+char_non: ` ......and those drops were dripping onto the carpet.`
+char_jes: `".........By the way, that just now was my answer as a maiden.`
+char_jes: ` ......My answer as the next head is different."`
+char_ron: `"Allow me to ask......"`
+char_jes: `"......The person I love, my family and my relatives, everyone, everyone!!`
+char_jes: ` I'll protect them.`
+char_jes: ` If I'm the head, then that's my duty!"`
+char_jes: `"Dad wasn't just acting self‐important.`
+char_jes: ` He was protecting me and Mom!!`
+char_jes: ` ......Fighting the pressure of succeeding the Ushiromiya family......for several decades!!"`
+char_jes: `"So I know.`
+char_jes: ` ......Being the successor is nothing trivial.`
+char_jes: ` ......So you know what?`
+char_jes: ` This is easy as hell.`
+char_jes: ` ......It's easy as hell for me to risk my own life!!"`
+char_non: `Jessica knew.`
+char_non: `She knew that her father, in order to protect his family, was even now bluffing and fighting a solitary fight.`
+char_non: `Jessica understood something that his back had been telling her!`
+char_non: `Another left straight was buried into Ronove's face.`
+char_non: `{n}......That mighty strike wasn't due just to the brass knuckles she was using.`
+char_non: `It was a strike...`
+char_non: `of a person, a family head, who could throw away everything in order to protect.`
+char_jes: `"If Dad's lost his qualifications to be the successor,`
+char_jes: ` then I, the next in line, will succeed the headship.`
+char_jes: ` ......Head of the Ushiromiya family, Ushiromiya Jessica!!`
+char_jes: ` I'm not enough of a wimp to let you keep on doing whatever the fuck you want!!"`
+char_ron: `"............A wonderful answer.`
+char_ron: ` I shall change your score from earlier.`
+char_ron: ` Plus 10 for that answer.`
+char_ron: ` ......Plus 10 for that splendid left straight."`
+char_jes: `"Which means I only need plus 20 more for a perfect 100?"`
+char_non: `Ronove backflipped away from her, and violently wiped away the blood pouring from his nose.`
+char_non: `......It had become, not blood, but petals of a red rose.`
+char_non: `The blood on his face was wiped off, ......and in its place...`
+char_non: `was a grin from a great delight, which he had last felt so many centuries ago that he could no longer remember just how long it had been.`
+char_ron: `"Your resolve.`
+char_ron: ` I, Ronove, will test to see whether it is deserving of full marks......"`
+char_jes: `"Cram it, jackass!!`
+char_jes: ` Come at meeeeeeeeeeeee!!!"`
+char_gap: `"Come, to the Abyss...!"`
+char_geo: `"Wwagh?!"`
+char_non: `Beneath George's feet, a pitch‐black pit suddenly opened its mouth wide.`
+char_non: `{n}Of course, George had no way of resisting.`
+char_non: `After being swallowed up by it, George fell out of a pitch‐black hole that had opened up in the ceiling of the arbor.`
+char_non: `As George fell down,`
+char_non: ` he was hit sharply in the gut, like a precision bee‐strike, by a reverse roundhouse kick from a stiletto heel...!`
+char_non: `Launched out of the arbor, the instant George thought that he was about to be swallowed up by a rose bush...`
+char_non: `...another pitch‐black hole opened there and swallowed George up.`
+char_non: `And this time, a pitch‐black hole opened in front of Gaap at her feet, spitting a defenseless George out of it.`
+char_non: `......By that time, Gaap had already finished the preparatory motions for the next reverse roundhouse kick.`
+char_geo: `"Ghh, ......what is......this..."`
+char_gap: `"Welcome back. *giggle*!"`
+char_non: `Right side of the head.`
+char_non: ` Below the right armpit.`
+char_non: ` Side of the right knee.`
+char_non: `As Gaap danced and spun like a small cyclone,`
+char_non: ` she kept hitting him, {nobr:right foot} {nobr:left foot} {nobr:right foot} {nobr:left foot}, with successive roundhouse kicks.`
+char_non: `The fourth one became a sweep, cutting George's feet out from under him and making him fall down,`
+char_non: ` but of course, there was no floor there, but a pitch‐black hole, and George was swallowed up once again.`
+char_non: `Gaap once again spun around like a small cyclone.`
+char_non: `{n}George, likewise, was once again spat out from the ceiling of the arbor.`
+char_gap: `".........Take this and keep it as a memento, the single strike at the end of the Abyss.`
+char_gap: ` ......Die......!!"`
+char_non: `The sharp strike of the queen bee pierced the heavens like a rising cyclone.`
+char_non: `{n}It kicked through George's abdomen as he fell from the ceiling......`
+char_non: `And then, ......time froze.`
+char_non: ` George was pinned in midair by Gaap's raised leg......`
+char_geo: `"Gah, .........mmph........."`
+char_non: `Still pinned in midair, George moaned......`
+char_non: `Then Gaap, with George still hung up on her foot,`
+char_non: ` ......grinned.`
+char_gap: `".........I'll admit it.`
+char_gap: ` Your attitude at least is mature.`
+char_gap: ` But that's no good if it doesn't come along with power."`
+char_gap: `"......Did you know?`
+char_gap: ` They say you need three kinds of power to rule this world.`
+char_gap: ` The first is influence.`
+char_gap: ` The second is wealth.`
+char_gap: ` Do you know what the last one is?"`
+char_geo: `"I read it in a book.`
+char_geo: ` ......Force, right......?"`
+char_gap: `"Correct.`
+char_gap: ` That is what you are lacking."`
+char_non: `Gaap finally released George.`
+char_non: `By kicking him upwards one more time, adding in another roundhouse kick and smashing him into a pillar.`
+char_geo: `"Ghh? ......Ung...uhhhgh......!"`
+char_gap: `"No one will fear a monarch without influence, without wealth, or without force."`
+char_gap: `"Kinzo possessed all three.`
+char_gap: ` That is why he reigned as a tyrant!`
+char_gap: ` ......If you're going to call yourself Kinzo's successor, try showing me some of his majesty!"`
+char_gap: `"......Come on, how long are you going to lie there?`
+char_gap: ` Stand up.`
+char_gap: ` If you don't, you'll {i:fall} again, see?"`
+char_ron: `"Pu ku ku ku.`
+char_ron: ` Not bad movements.`
+char_ron: ` But I feel they are somewhat unsuitable for a lady."`
+char_jes: `"Asshooooooooole!!`
+char_jes: ` Ducking and weaving and hopping around!!`
+char_jes: ` Aren't you gonna fight back......?! Quit jerking me around, you douche!!"`
+char_non: `Ronove was dodging skillfully, jumping back, and avoiding Jessica's fists,`
+char_non: ` but he still wasn't striking back himself.`
+char_non: `Because of his agile movements, as swift as a flag whipping around in strong winds, Jessica's fist wasn't even able to touch him.`
+char_non: `Amidst a feeling of her blood running hot, Jessica regained her offensive composure.`
+char_non: `Even though this room was large for a bedroom, it was too small an area to keep up such exaggerated dodges for long.`
+char_non: `......She calmly realized that, and started using not just her fists, but her legs as well.`
+char_ron: `"......Hoh.`
+char_ron: ` ......Doing boxing with just your arms makes you but half a man.`
+char_ron: ` Your arms must be the roaring lion, burning with power.`
+char_ron: ` And your legs the snake, cold as ice as it closes in on its prey."`
+char_jes: `"Snakes don't have legs!"`
+char_ron: `"Pu ku ku, very true."`
+char_non: `Jessica began cornering Ronove towards the wall with perfect footwork.`
+char_non: ` She wouldn't let him get around her.`
+char_non: `......Ronove's magnificent dodges looked flashy, but they needed sufficient room.`
+char_non: `Once cornered, he wouldn't be able to dodge anymore...!`
+char_non: `Jessica had a good understanding of the special characteristics of her equipped weapon, the brass knuckles.`
+char_non: `This powerful weapon's most notable characteristic was how it didn't let the opponent defend.`
+char_non: `Even if they blocked with their arm, that arm would receive direct damage.`
+char_non: `{n}......If it hit the wrong way, it might even break the bone.`
+char_non: `So she pressed him forward.`
+char_non: ` She would block off his escape routes, ......and then, with this fist, she would chip this demon down!!`
+char_ron: `"Whoops...!`
+char_ron: ` Oh my, when did...?"`
+char_jes: `"Looks like I've finally cornered you, huh......?`
+char_jes: ` Where is everyone being held?`
+char_jes: ` Where's that old bastard hiding?`
+char_jes: ` You tell me everything, and I'll let you go with nothing more than ripping that mustache off, alright?"`
+char_ron: `"That would be a problem.`
+char_ron: ` Believe it or not, it does take me an hour every morning to set this, you see."`
+char_jes: `"If I put you in a plaster cast, I guess you won't even be able to do that!"`
+char_ron: `"............Oops‐a‐daisy.`
+char_ron: ` .....................gggh."`
+char_non: `Ronove had blocked Jessica's lunged fist with his arm.`
+char_non: `{n}He tried to act as though it was no big deal, but it must have hurt a lot.`
+char_non: `......Jessica grinned.`
+char_non: `{n}Ronove smiled the same way, but twitched slightly.`
+char_ron: `"......I see.`
+char_ron: ` This certainly does hurt."`
+char_jes: `"Final warning.`
+char_jes: ` Break down and apologize."`
+char_ron: `"That, I cannot do.`
+char_ron: ` It would ruin my image."`
+char_jes: `"Then just break.`
+char_jes: ` Flurry of puncheeeeeeeees!!!"`
+char_non: `Jessica's iron fists were pounded into Ronove.`
+char_non: `But Jessica was startled—the impact felt wrong, and there was the sound of breaking glass.`
+char_jes: `"Wh‐......?!"`
+char_non: `At a glance, it looked like Ronove had caught Jessica's fist with his palm.`
+char_non: ` ......That wasn't quite true.`
+char_non: `When Ronove opened his hand, a faint purple glowing barrier like a glass shield appeared there,`
+char_non: ` stopping the attack by a hair's breadth.`
+char_non: `Pulling herself together, Jessica struck out with her fists again, but with truly magnificent movements, Ronove caught all of them......`
+char_ron: `"I am, after all, a demon.`
+char_ron: ` I am at least capable of this level of magic.`
+char_ron: ` .........I must say, though, you are quite good.`
+char_ron: ` If I were a {y:0:Human}{n:0:human}, I am sure that this is where I would have admitted defeat.`
+char_ron: ` It is because I am a demon that I can still continue to fight."`
+char_jes: `"Y‐......you frigging cheater.........!"`
+char_ron: `"Is that all?`
+char_ron: ` ......Are you sure that by attacking all the time, you are not neglecting your own defense?"`
+char_jes: `"Huh?!"`
+char_jes: `"......Waaah!!"`
+char_non: `Ronove pounded his palm into Jessica's stomach, stopping abruptly just a fraction away.`
+char_non: `Jessica was repelled by the purple shield, tumbled backwards, and smashed her head on the bed.`
+char_ron: `"My shield cannot be broken by a mere {y:0:Human}{n:0:human}.`
+char_ron: ` I suggest that you never again dream of being able to touch my body."`
+char_jes: `"......In that case, ......I'll just punch straight through that shield......!!"`
+char_ron: `"You are a dauntless person.`
+char_ron: ` That tenacity...yes, it is truly fitting for the next family head.`
+char_ron: ` ......Why don't I be your opponent for just a while longer.`
+char_ron: ` This is one of the privileges of an examiner.`
+char_ron: ` .........Pukku{0}ku{0}ku{0}ku{0}kuku!"`
+char_jes: `"SHATTER TO PIECEEEEEEEES, IIIAAAAAAAAAAAAAAHHHH!!"`
+char_non: `Gaap looked down on George, sneering.`
+char_non: `{n}He was lying face‐down in a puddle on the rose garden path.`
+char_non: `The merciless rain beat down on him, so that it looked as though even the heavens were mocking him...`
+char_gap: `".........Ahhahahahahahaha.`
+char_gap: ` Stand up.`
+char_gap: ` You'll fall again."`
+char_geo: `"..........................."`
+char_non: `George stood up shakily.`
+char_non: `......It seemed his spirit hadn't given in, but the damage to his body was fairly significant.`
+char_gap: `"Beg for your life.`
+char_gap: ` What you're doing now is the same as the fourth choice of choosing nothing.`
+char_gap: ` ......You chose the third choice, right?`
+char_gap: ` If you get down on your hands and knees and apologize, I'll forgive your rudeness towards me."`
+char_gap: `"Then, I'll guide you down to the dungeon.`
+char_gap: ` There, for your beloved Shannon and your own powerless self, you will kill the other hostages one by one."`
+char_gap: `"......You can do it, right?`
+char_gap: ` You did boast about having that resolve.`
+char_gap: ` ......Heheheheheh."`
+char_non: `George didn't answer.`
+char_non: `{n}......But his gaze was still obstinately resisting surrender.`
+char_gap: `"......If you are too obstinate, then this time you really will fall to the deepest depths of the Abyss...`
+char_gap: ` *cackle*cackle*cackle*."`
+char_non: `Gaap's strength was undeniable.`
+char_non: `......There was no doubt that Shannon's group, watching through the three‐sided mirror, understood that—`
+char_non: `probably even more clearly than George himself...`
+char_sha: `".........George‐sama......`
+char_sha: ` ......Please,`
+char_sha: ` ......that's enough.........`
+char_sha: ` ...You don't have to do this for someone like me......"`
+char_kan: `"Nee‐san......"`
+char_sha: `"......If you didn't fall in love with me,`
+char_sha: ` ......you wouldn't have to fight with anyone, right, George‐sama...?`
+char_sha: ` Then please, just abandon me......`
+char_sha: ` Please, forget me......"`
+char_non: `There was no way for that voice to reach George.`
+char_non: `......But, even so,`
+char_non: ` ......George answered.`
+char_geo: `"No way.`
+char_geo: ` ............I won't...surrender."`
+char_gap: `"......Oh?`
+char_gap: ` Why......?"`
+char_geo: `"............Because that...is my...resolve.`
+char_geo: ` ......I'll fight everything for Shannon's sake.`
+char_geo: ` And I'll make everything accept us,`
+char_geo: ` ......and everything bless us."`
+char_gap: `"Hey, tell me something.`
+char_gap: ` How can you go so far for that furniture called Shannon?`
+char_gap: ` .........She's just a good‐for‐nothing, isn't she?`
+char_gap: ` Furniture for the garbage that doesn't even make for a satisfactory waitress."`
+char_geo: `"............I won't permit any more insults against the woman I love."`
+char_gap: `"So what are you going to do about it?`
+char_gap: ` How is a weak kiddo like you going to fight against me...?"`
+char_geo: `"Loving someone is strength.`
+char_geo: ` ......I was able to become strong because I learned that feeling.`
+char_geo: ` .........‘Shannon,`
+char_geo: ` I love you.’`
+char_geo: ` With just those words, I can stand back up, over and over again."`
+char_gap: `"Shannon's in the dungeon, you know?`
+char_gap: ` No good professing your love to me."`
+char_geo: `"No.`
+char_geo: ` She heard.`
+char_geo: ` ......Because that is love.`
+char_geo: ` Shannon can hear my words right now.`
+char_geo: ` The reason I can believe that...is because of love."`
+char_gap: `"..................This guy... ......"`
+char_geo: `‘Shannon.`
+char_geo: ` You are not furniture.`
+char_geo: ` ......Even if you were, you would be mine alone, the only furniture for me in the world.`
+char_geo: ` I want you to be close to me all my life.`
+char_geo: ` ......I need you...always and forever.’`
+char_sha: `".........G‐......George‐sama..............."`
+char_kir: `"......I'm jealous.`
+char_kir: ` He's surpassed my husband in smooth talking."`
+char_nan: `"Th‐......this is youth."`
+char_gap: `"Ahhahahahahahahahahaha...!!`
+char_gap: ` Love is strength?`
+char_gap: ` Then why are you so weak, boy?`
+char_gap: ` It must mean your love is also that weak, then, I guess?"`
+char_gap: `"*snicker*snicker*!`
+char_gap: ` Your love for your fiancée is weak.`
+char_gap: ` Your parents' disappointingly quick deaths were weak.`
+char_gap: ` Everything about your life is weak."`
+char_geo: `"...............Shannon taught me about love and strength.`
+char_geo: ` If you insist upon measuring my love for Shannon by my strength alone,`
+char_geo: ` ......then let me teach you about my love."`
+char_gap: `"*chuckle*, nice words.`
+char_gap: ` ......Nowww I get it.`
+char_gap: ` So you say that the way you can still stand up after being kicked down so many times is the strength you received from Shannon.`
+char_gap: ` In that case, what did you receive from your mother and father, who were killed without a fight?`
+char_gap: ` .........?"`
+char_non: `Suddenly, there was a blackout.`
+char_non: ` ......Outside?`
+char_gap: `".........N‐......no.`
+char_gap: ` .........Th‐...this is............"`
+char_non: `The thing blocking Gaap's vision...`
+char_non: `............was the bottom...`
+char_non: `of George's...`
+char_non: `...`
+char_non: `shoe...`
+char_geo: `"............Side kick.`
+char_geo: ` Nasal bone fractured."`
+char_non: `It had stopped right in front of the tip of Gaap's nose.`
+char_geo: `"The thing I got from Mother was this kick."`
+char_non: `After several moments' delay, Gaap jumped back.`
+char_non: ` Of course, it was too late.`
+char_non: `If George hadn't stopped, he probably would have caused exactly the damage he had announced.`
+char_geo: `"And what I got from Father...`
+char_geo: `...is patience."`
+char_non: `Anger with a low boiling point isn't something to be truly feared.`
+char_non: `{n}......True anger is cultivated through patience.`
+char_geo: `".........I understand your declaration of violent intent.`
+char_geo: ` ......I also understand your defamation of my fiancée and my parents.`
+char_geo: ` And you have no intention of retracting any of these......?"`
+char_gap: `"......Y‐you......"`
+char_geo: `"I have a sufficient understanding of your attacks now.`
+char_geo: ` ............If you're ready...may I fight back?"`
+char_gap: `"E‐enough of your slick talk, bucko......!!"`
+char_non: `A pitch‐black hole opened its mouth at George's feet.`
+char_non: `But George rapidly opened his legs, straddling the hole.`
+char_non: ` The same move wouldn't work again...!`
+char_non: `It was an extremely light dodge, and the upper part of his body didn't even quiver.`
+char_geo: `"Patience means not losing your cool, and instead composedly researching your opponent's moves.`
+char_geo: ` .........For what purpose?`
+char_geo: ` Isn't it obvious?`
+char_geo: ` Do you know?"`
+char_gap: `"N‐n‐no I don't......"`
+char_geo: `"It's to counter, to give back exactly what you got, to make them never want to mess with you again,`
+char_geo: ` to make them cover their face in tears and snot and forget to wipe it off,`
+char_geo: ` to make them want to rub their forehead on the ground and apologize over and over—to completely, perfectly, thoroughly...!!!`
+char_geo: ` ......Pulverize them until they can't get up."`
+char_non: `George dashed.`
+char_non: `Pits opened one after another, but George would not step in them again.`
+char_non: `And because she persisted in that move, Gaap was captured for a second time...`
+char_geo: `".........Reverse roundhouse.`
+char_geo: ` Jaw fractured."`
+char_gap: `"...............!"`
+char_non: `It was stretched out more forcefully and beautifully than Gaap's had been.`
+char_non: `Of course, while it centered directly on Gaap's face, it stopped a hair's breadth away.`
+char_non: `Perhaps she couldn't rely on pitfalls at this close range.`
+char_non: `Gaap kicked at George's shins as a diversion,`
+char_non: ` and in the instant of weakness when he tried to deal with that, she aimed a kick at his stomach.`
+char_non: `It was a bee‐like stab by her stiletto heel.`
+char_non: `......But it sliced through the air where George was no longer.`
+char_geo: `".........High axe kick.`
+char_geo: ` Collarbone fractured."`
+char_gap: `"............wh‐uh—"`
+char_non: `From beside Gaap,`
+char_non: ` George coldly announced that, his foot still raised.`
+char_non: `If that monarch's heel had been swung down, a collarbone fracture would have been an understatement.`
+char_gap: `"This guy's...`
+char_gap: `......stronger than me...at close range......?!`
+char_gap: ` Need distance......"`
+char_non: `She jumped backwards to gain a large distance.`
+char_non: `She jumped and jumped and leapt and even backflipped, increasing the distance between them.`
+char_non: `It should have been magnificent, but for some reason, it looked very similar to the movements of a small, scared animal.`
+char_non: `If she opened the distance, she could fight at the range that was her specialty, using a mixture of pitfalls and kicking techniques...!`
+char_gap: `"You fool... Regret the arrogance of passing on three chances to defeat me, in the depths of the Abyss!!`
+char_gap: ` ..................Huh?"`
+char_non: `Gaap landed beautifully and tried to aim a pitfall,`
+char_non: ` when a razor‐sharp wind cut her bangs.`
+char_non: ` ...Yes, cut them.`
+char_non: `And twice.`
+char_non: ` ......This time it didn't just stop a hair's breadth away, but scattered her bangs with its air pressure......`
+char_geo: `".........Armada com martelo.`
+char_geo: ` ......Orbital blowout fracture with the first strike.`
+char_geo: ` Cerebral contusion with the second strike."`
+char_gap: `"..................{m:-5:——}—...!!!"`
+char_non: `Gaap was too shocked to speak.`
+char_non: `George had closed all that distance in an instant, and let off a fearsomely nimble midair double kick.`
+char_non: `......Furthermore, with the accuracy and edge of a razor, it had cut nothing more than a few of her bangs.`
+char_geo: `"I learned the power of kicks from karate,`
+char_geo: ` speed from tae kwon do,`
+char_geo: ` and freedom of range from capoeira."`
+char_geo: `"......Mother was always trying something new.`
+char_geo: ` But it was very educational being able to study their various merits."`
+char_gap: `"Wh‐......why don't you hit......?`
+char_gap: ` ......Because I'm a woman?!!"`
+char_geo: `"......You spoke of force as a monarch's third power."`
+char_geo: `"It looks like you're still mistaking the meaning of that force.`
+char_geo: ` ......In this situation, force doesn't mean hastily wielded violence.`
+char_geo: ` .........It refers to a deterrent—the knowledge that if someone opposes the monarch, that person won't get away unharmed."`
+char_gap: `"A deterrent......?"`
+char_non: `That was the point.`
+char_non: ` That was why all of George's attacks up until then had stopped just before the blow.`
+char_non: `These bare misses, which were more difficult than hitting directly, had all been performed so splendidly.`
+char_non: `...And any one of them would probably have crushed Gaap in a single hit, if George had wished it.`
+char_non: `He was—deliberately—not doing that.`
+char_geo: `"You said it yourself, right?`
+char_geo: ` Force is the power to rule.`
+char_geo: ` .........If you destroy your opponent with force, you won't be able to rule them, right?"`
+char_geo: `"A monarch's force is something that is only shown.`
+char_geo: ` He does not destroy.`
+char_geo: ` ......He makes others submit, and adds them to his own fortune.`
+char_geo: ` If you black out on me, I won't be able to make you guide me to where everyone is being held."`
+char_non: `Gaap had to admit it.`
+char_non: `She had to admit that George understood force in the truest sense...!`
+char_geo: `"You'll take me to where everyone is.`
+char_geo: ` I would advise against resisting.`
+char_geo: ` .........I won't hold back anymore."`
+char_gap: `"...khh...!!`
+char_gap: ` .........Sorry, Lia... Lemme borrow your troops.`
+char_gap: ` This guy's too much for me alone to handle!!"`
+char_non: `As a large, pitch‐black hole opened in the sky,`
+char_non: ` thunk, thunk, thunk—three muscular goat attendants fell out.`
+char_non: ` They surrounded George.`
+char_geo: `".........Reinforcements?`
+char_geo: ` I wonder if I should take this to mean that you retract your statement about me being weak."`
+char_gap: `"I, ......I admit it.`
+char_gap: ` ......I made light of your power...the power of {y:0:Human}{n:0:human}s......"`
+char_geo: `"No.`
+char_geo: ` This is the strength of a man who has come to know love."`
+char_gap: `"Wh‐what tripe... How can you say stuff like that with a straight face?!!`
+char_gap: ` Come, goats!`
+char_gap: ` Crush this man into meatballs!"`
+char_gap: `"Heheheh, these goats are stupid, but it looks like they at least have power.`
+char_gap: ` I'll make it so that even your fiancée won't be able to recognize your corpse!"`
+char_geo: `"You refuse to surrender and intend to continue fighting. Understood.`
+char_geo: ` ......I proclaim that henceforth, you will receive real harm proportional to your own attacks."`
+char_geo: `"If you still plan on attacking me, I suggest you prepare to receive a great deal of damage."`
+char_non: `When George proclaimed that,`
+char_non: ` ......a faint red magic circle rose up around him.`
+char_non: `But it seemed that George couldn't see it.`
+char_non: `{n}However, Gaap, being a demon, could.`
+char_gap: `"M‐......magic?!`
+char_gap: ` Why does this guy have a defensive barrier...?!`
+char_gap: ` And what's more, it's......specialized for counterattacks...?!`
+char_gap: ` Is this......wh‐what you meant by a deterrent......?!"`
+char_non: `From a demon's perspective, that might have been magic.`
+char_non: `But in George's eyes, it was...determination.`
+char_non: `It was absolute determination that would show no mercy to anyone who wished for further fighting,`
+char_non: ` and force them to prepare for a significant counterattack.`
+char_non: ` Absolute determination...becomes magic.`
+char_non: `Ronove had been accurately blocking Jessica's fists with the shield.`
+char_non: ` ......But something felt odd.`
+char_non: `Even though he was certainly stopping the blows with the shield,`
+char_non: ` he felt his arm beginning to strain and ache.`
+char_non: `All physical damage should have been shut off.`
+char_non: `......However, the damage from her fists was gradually being transmitted to his arm, and was accumulating.`
+char_non: `Ronove acted like he was composed, so that this wouldn't be noticed...`
+char_jes: `"Heh, heheh...!!`
+char_jes: ` I'm not gonna get worn out.`
+char_jes: ` What's wrong, old man?`
+char_jes: ` Starting to get a little tough...?!"`
+char_ron: `"......No matter how much you attack, it is useless.`
+char_ron: ` Why can't you understand that you cannot break my shield?"`
+char_jes: `"Saying that is not gonna stop me hitting you.`
+char_jes: ` ......No matter how hard someone's heart is, words are gonna get through to them a little bit each time, and eventually, you can make a crack...!`
+char_jes: ` I believe it!!`
+char_jes: ` I believe that there's no such thing as useless effort in this world!!"`
+char_jes: `"Isn't that why we live?! To the fullest!!`
+char_jes: ` If words get through eventually, then the same goes for fists...!!`
+char_jes: ` I don't even know the meaning of the words "give up"!!"`
+char_non: `Those words were probably aimed at Kanon...`
+char_non: ` Kanon had, technically, rejected Jessica's words.`
+char_non: ` ......But Jessica knew that, no matter how obstinate his heart was, those words would eventually soak through.`
+char_non: `And she believed that surely, the day would come when he would understand her heart, and stop calling himself furniture and disparaging himself,`
+char_non: ` ......and step out into his new life.`
+char_non: `So Jessica wouldn't give up.`
+char_non: ` She wouldn't lose heart...!`
+char_jes: `"Sounds dumb as hell, huh?`
+char_jes: ` I'll bet it makes no sense to a guy like you, does it?`
+char_jes: ` See, a girl in love...doesn't even think about "giving up because it's useless"!!"`
+char_non: `At that time, Ronove certainly saw.`
+char_non: `{n}He saw the red‐hot burning glow of light surround Jessica's fists.`
+char_ron: `".........This is......problematic.`
+char_ron: ` ......Enchanted, are they?`
+char_ron: ` ...Permeation upgrade......that will be troublesome."`
+char_non: `Within her relentless fists and determination...dwelled the power to succeed no matter what.`
+char_non: `{n}From a demon's perspective, that was magic.`
+char_non: ` Absolute determination...becomes magic.`
+char_jes: `"See?`
+char_jes: ` Nothing useless about it.`
+char_jes: ` ...My fists are making it through, aren't they?`
+char_jes: ` You're guarding your arm, old man."`
+char_ron: `"...............It seems I will have to get a little more serious.`
+char_ron: ` ...It appears it is as you said.`
+char_ron: ` ......In this world, nothing is useless."`
+char_jes: `"That's right...!`
+char_jes: ` If you give up saying something's useless, that's when your life is frigging over...!`
+char_jes: ` I'll get through to him.`
+char_jes: ` ......Definitely...!!"`
+char_non: `I'm an idiot, so this is the only way I can live,`
+char_non: ` but even so, ......I believe that one day,`
+char_non: ` I'll definitely be able to teach Kanon‐kun about a new world!!`
+char_non: `So I'm not gonna buckle in a place like this...!!`
+char_non: `{n}I'll definitely defeat you,`
+char_non: ` and save everyone!!`
+char_cla: `"Dammit!!`
+char_cla: ` If I could just...open a hole......aaaaaaaargghhh!!!"`
+char_non: `Krauss was repeating his useless effort in trying to somehow open a hole between the metal bars.`
+char_non: `......Useless.`
+char_non: ` .........There's nothing useless.`
+char_non: `{n}There's nothing...`
+char_non: `The lookout goats had been swallowed up by those black pits and disappeared.`
+char_non: `......Now was their do‐or‐die chance.`
+char_non: `This was their only chance to break the bars......`
+char_nan: `"S‐stop it, it's impossible, Krauss‐san!`
+char_nan: ` We can't do anything about them with our bare hands!`
+char_nan: ` Let's look for a tool, don't waste time on the impossible...!"`
+char_cla: `"If you give up saying it's useless, then it's all over...that's what my daughter said.`
+char_cla: ` ......Even if it's impossible for my body, as long as a small person like Shannon or Kanon could make it through......!!"`
+char_kir: `"......At this stage, action is more important than racking our brains.`
+char_kir: ` Let's put our strength together, I'll join in too...!`
+char_kir: ` ......Kanon‐kun, you're a boy, lend a hand...!`
+char_kir: ` ......Kanon‐kun?!"`
+char_kan: `"............Krauss‐sama.`
+char_kan: ` Please stand back."`
+char_cla: `"What?`
+char_cla: ` What are you thinking of......?"`
+char_kan: `"......It's alright, isn't it, Nee‐san?`
+char_kan: ` .........If we try struggling...just one more time."`
+char_sha: `"............Yeah.`
+char_sha: ` ......I'll...struggle once more as well.`
+char_sha: ` ......No, not once.`
+char_sha: ` ...Over and over again."`
+char_non: `Jessica's voice had reached Kanon.`
+char_non: `{n}It had certainly permeated into his stone‐cold heart.`
+char_non: `And George's voice had reached Shannon.`
+char_non: ` If the love he had shown was embodied by strength, she would have to respond in the same way.`
+char_non: `An incredible metallic sound rang out.`
+char_non: `.........The first flash cut horizontally through several of the metal bars, and with the next flash, they were cut through horizontally again,`
+char_non: ` causing them to clatter to the ground like bamboo shoots cut by a sword.`
+char_non: `Krauss, Kyrie, and Nanjo didn't even have a clue about what had just happened......`
+char_kan: `"......Doctor Nanjo.`
+char_kan: ` Which way down the corridor goes to the mansion......?"`
+char_nan: `"Y‐.........yes!`
+char_nan: ` It's to the left at the back...to the left at the back......!"`
+char_sha: `"Let's go, everyone.`
+char_sha: ` ......We'll be noticed by {f:5:Virgilia}‐sama any time now."`
+char_kir: `"You two...`
+char_kir: `......what in the world {i:are} you......?"`
+char_kan: `"............We're......"`
+char_non: `When Kanon hung his head a little and faltered, Shannon slapped his shoulder, smiled, and spoke.`
+char_sha: `"We are {y:0:Human}{n:0:human}."`
+char_s45: `"V‐{f:5:Virgilia}‐sama!!`
+char_s45: ` Response from warning network, jailbreak!`
+char_s45: ` The goat guards aren't there for some reason...!!"`
+char_wal: `"......Whaaat?! Why?!`
+char_wal: ` ...............It's Gaap, isn't it.`
+char_wal: ` Taking my summons without asking!!`
+char_wal: ` ......Gap!`
+char_wal: ` Gapgap!!"`
+char_s00: `"......Confirming Rules of Engagement.`
+char_s00: ` Request permission to fire at the escapees, ma'am."`
+char_wal: `"Do it...!`
+char_wal: ` Kill them! {ruby:Grrrr:Kiiiiii}!!`
+char_wal: ` Gapgapgap,`
+char_wal: ` gab,`
+char_wal: ` gya!!!"`
+char_s00: `"Understood, ma'am.`
+char_s00: ` 45, 410, preparing for sniping pursuit combat.`
+char_s00: ` Ammo type: Guided cluster rounds.`
+char_s00: ` ......{f:5:Virgilia}‐sama, the escape prevention barrier."`
+char_wal: `"Owowowow......`
+char_wal: ` Y‐yes, right.`
+char_wal: ` Hohhoho, I won't let you escape from here.`
+char_wal: ` ......Owow, bit my tongue saying Gapgap..."`
+char_non: `As they ran down the underground passage, the path in front of them was once again blocked by metal bars.`
+char_non: ` The door was, of course, locked.`
+char_non: `......However, that was no problem for them now.`
+char_cla: `"Kanon, more metal bars!`
+char_cla: ` We need you...!"`
+char_kan: `"Yes, Krauss‐sama...!"`
+char_kir: `"......That is incredible, though.`
+char_kir: ` ...I wonder if you could tell me what kind of principle it works on."`
+char_cla: `"I'm not interested in principles.`
+char_cla: ` The only thing that's important is that he can sever the metal bars, and we can escape from here...!`
+char_cla: ` Don't get distracted, Kanon, just do it!"`
+char_kan: `"Leave it to me......!"`
+char_non: `Kanon sliced the metal bars again with a red trail.`
+char_non: ` But there was a harsh, strange noise, and only a slight scratch was left on the metal bars.`
+char_nan: `"G‐goodness,`
+char_nan: ` ......these are sturdy......"`
+char_kan: `"No.`
+char_kan: ` ......It's enchanted!`
+char_kan: ` It's {f:5:Virgilia}‐sama's magic lock."`
+char_sha: `"Can you cut through it?"`
+char_kan: `"Of course.`
+char_kan: ` But it will take time."`
+char_cla: `"I'll give you three minutes...!"`
+char_non: `After taking a deep breath and focusing his concentration, Kanon once again extended his sword that trailed red.`
+char_non: `When he pressed it hard against the metal bars, sparks sprayed, almost as though he was burning through them with a blowtorch.`
+char_cla: `"It looks like cutting it is possible, ......but it's going to make us work for it."`
+char_sha: `".........Krauss‐sama.`
+char_sha: ` We've been locked on to by the enemy.`
+char_sha: ` Please move back."`
+char_kir: `"Huh?`
+char_kir: ` Pursuers?`
+char_kir: ` There's no one coming!"`
+char_sha: `"Please get behind me.`
+char_sha: ` They're aiming for us...!!"`
+char_s45: `"45, data received.`
+char_s45: ` Targets acquired. Correcting for terrain.`
+char_s45: ` Forming firing curve, control points adjusted.`
+char_s45: ` Data link to 410."`
+char_s41: `"410, data received.`
+char_s41: ` Checking danger zone, no problems."`
+char_s00: `"00, loading 48 sub‐rounds, individual homing F&F.`
+char_s00: ` Guided cluster rounds: ready."`
+char_s45: `"45, firing preparations complete.`
+char_s45: ` Guided cluster rounds: loaded."`
+char_s41: `"410, nihhihihihi!`
+char_s41: ` Firiiing!!"`
+char_non: `A golden arrow that sparkled gold was fired, leaving a gold tail streaming behind.`
+char_non: `{n}It drew a curve, went through the door, through the keyhole, down the stairs, towards the underground path at full speed......!`
+char_nan: `"S‐something shone!!"`
+char_sha: `"......You can't block the golden arrow with a shield.`
+char_sha: ` Kanon‐kun, prepare to intercept.`
+char_sha: ` Let's link."`
+char_kan: `"Gatekeeper, understood.`
+char_kan: ` .........It's been a long time since I've fought alongside you, Nee‐san.`
+char_kan: ` Don't screw up."`
+char_sha: `"Yeah.`
+char_sha: ` I'll give it everything I've got."`
+char_kan: `"Then we'll be fine!"`
+char_non: `Kanon stopped cutting the bars, and stood in front of Shannon.`
+char_non: `Behind him, Shannon closed her eyes, concentrating her mind, focusing deep, deep into the darkness of the underground path......`
+char_non: `A guided cluster round is a special kind of arrow made up of 48 sub‐rounds bound together.`
+char_non: `{n}It explodes mid‐flight and divides into 48 mini‐arrows.`
+char_non: `The strength of each individual one is low, but they pierce through all shields and possess total lethality against ground troops.`
+char_non: `And on top of that, each one of the 48 possesses autonomous guidance towards their individual targets.`
+char_kan: `".........It shone.`
+char_kan: ` ...It's divided..."`
+char_sha: `"Checking guided cluster round division.`
+char_sha: ` 46...7...8, ...48 sub‐rounds, all locks acquired.`
+char_sha: ` Interception control. Data link to Kanon."`
+char_kan: `"Kanon, data received.`
+char_kan: ` ......Your ability is incredible, Nee‐san.`
+char_kan: ` I can {y:1:‘see’}{n:1:see} all 48."`
+char_sha: `"Observe the interception priority ordering.`
+char_sha: ` Trust your nee‐san."`
+char_kan: `"Of course.`
+char_kan: ` I don't even need to open my eyes."`
+char_sha: `"Commence interception."`
+char_s45: `"T‐targets unharmed!!`
+char_s45: ` I‐it was intercepted...!!"`
+char_s41: `"Nihyah?!`
+char_s41: ` All 48?!"`
+char_wal: `"Hoh‐hoh‐ho......`
+char_wal: ` Shannon and Kanon were originally a furniture pair, you see.`
+char_wal: ` They're strong when they're together.`
+char_wal: ` ...Owowow.`
+char_wal: ` ...I wonder if this is going to become a mouth ulcer..."`
+char_s00: `"Calm down, reload.`
+char_s00: ` ......Updating ammo type.`
+char_s00: ` Precision light‐speed sniper rounds.`
+char_s00: ` Prepare for precision sniping."`
+char_s41: `"Sounds good nyeh! Impossible to intercept super high‐speed rounds!`
+char_s41: ` Impossible to defend against for a mere Gatekeeper nyeh!"`
+char_s45: `"Precision sniping understood.`
+char_s45: ` Commencing collection of precision firing data........."`
+char_nan: `"Wh‐what in the world was that just now......?"`
+char_kir: `"Don't worry, I'm as clueless as you...`
+char_kir: ` All I know is that we'd be dead if we hadn't relied on those two..."`
+char_sha: `"Kanon‐kun, thanks.`
+char_sha: ` Go back to the metal bars.`
+char_sha: ` Next will probably come a shot that you can't intercept."`
+char_cla: `"How do we block against such an attack...?!"`
+char_sha: `"We don't let them shoot.`
+char_sha: ` ......Kanon‐kun, spirit particle combat, guard yourself."`
+char_non: `At those words, Kanon closed his eyes tightly and clenched his teeth.`
+char_non: `{n}......With Shannon at the center, a pressure and impact blasted out that could only be perceived by those not human.`
+char_s45: `"......Huh?!`
+char_s45: ` Firing system error!!`
+char_s45: ` No good, rebooting...`
+char_s45: ` Huh, huh?!"`
+char_s00: `"Spirit wave jamming! Spirit particle protection, move it!`
+char_s00: ` What are you doing, cover your ears, 45!!!"`
+char_non: `An unseen, unheard impact blasted towards the Chiester Sisters.`
+char_non: `00 and 410 crouched down, covering their ears...but 45 didn't make it in time.`
+char_non: `......Still standing bolt upright, her eyes rolled inside her head.`
+char_s45: `"Ukyu...?!?!"`
+char_s45: `"...Kyuu? Kyuu!`
+char_s45: ` Kyuu`
+char_s45: `kyuu`
+char_s45: `kyu~!!!"`
+char_s41: `"45, damaged...!`
+char_s41: ` Her compiler engine's gone kaput...!!`
+char_s41: ` ......U...gya, ......the noise...is horrible for me too nyeh......"`
+char_s00: `"45,`
+char_s00: ` 410,`
+char_s00: ` ......and 00,`
+char_s00: ` damaged...`
+char_s00: ` Abandoning sniping.`
+char_s00: ` ......Ack, it came straight through the link......`
+char_s00: ` H‐have to reboot..."`
+char_non: `Raising their spirit particle sensitivity for precision sniping had backfired.`
+char_non: `They had taken the full brunt of the spirit particle shock wave Shannon had released,`
+char_non: ` and not only 45, who had been hit directly, but also 00 and 410, who had been linked with her, were taken down.`
+char_wal: `"Are you alright?!`
+char_wal: ` ......I'll make you some more delicious black tea later, okay? Hold together!"`
+char_s00: `"M‐......my apologies, ma'am......`
+char_s00: ` We'll reboot.`
+char_s00: ` Please wait a few hundred seconds......"`
+char_non: `All of the Chiester Sisters collapsed.`
+char_non: ` They would probably get back up eventually, but it looked like it would be hard for them to return to the battle lines for a while.`
+char_wal: `"So, furniture was able to repel weapons, if for but a moment.`
+char_wal: ` .........I see, the plots which entertain that child truly are filled with unexpected turns!"`
+char_non: `{f:5:Virgilia} tore the air with a large motion as though opening a door.`
+char_wal: `"Come, arise, goat attendants...!`
+char_wal: ` It's time for work.`
+char_wal: ` Kill and capture the escapees.`
+char_wal: ` Corpses are fine, we can just revive them anyway!"`
+char_non: `A gold‐colored door opened in the air, and countless giant goats with muscular bodies peeked their faces out...`
+char_wal: `"Come now, hurry.`
+char_wal: ` There are five escapees, so the fastest five of you win!`
+char_wal: ` There will be a wonderful prize! Come on now, go for it, go for it!"`
+char_non: `{f:5:Virgilia} clapped her hands, urging them on.`
+char_non: `A prize?!`
+char_non: ` After glancing at each other at those words, the goats rushed to the door at once, trying to get out,`
+char_non: ` making the exit as tight a squeeze as the trains during the commuter rush.`
+char_non: `Each wanted to get out first, so none of them could get out.`
+char_non: `{n}......{f:5:Virgilia} held her head in frustration.`
+char_non: `By that time, Kanon had managed to cut just enough bars to make a gap that could be slipped through.`
+char_non: `It proved a bit of work for Krauss, large as he was, and Nanjo, whose waist was nearly his downfall, but even so, they all managed to make it through.`
+char_non: `But their relief at getting through was short‐lived.`
+char_non: `Immediately, another set of metal bars blocked the way in front of them.`
+char_kir: `"The security sure is tough.`
+char_kir: ` ......I bet they really didn't want the people in here to escape."`
+char_cla: `"Kanon, sorry, but I'll have to ask you again.`
+char_cla: ` ......I'm sure it's tough on you, but please...!"`
+char_non: `There was sweat on Kanon's forehead.`
+char_non: `You could tell at a glance that cutting the metal bars, which had been made even more solid by magic, was exhausting him considerably.`
+char_kan: `"......Yes, leave it to me, Krauss‐sama."`
+char_cla: `"Only you can do it!`
+char_cla: ` Please, we're counting on you...!"`
+char_non: `Only he...could do it.`
+char_non: ` ......Holding tightly onto those words,`
+char_non: ` Kanon concentrated his mind again and once more set himself to the task of cutting the bars.`
+char_sha: `".........Enemies are coming from behind. Multiple."`
+char_kir: `"Yes, this time, even we can tell.`
+char_kir: ` ......The ground's really shaking.`
+char_kir: ` I can tell that some terrible monsters are rushing at us."`
+char_sha: `"Don't worry.`
+char_sha: ` I'll seal the bars we just came through with a magic lock.`
+char_sha: ` Goats won't be able to break it."`
+char_non: `Shannon held her hand out towards the bars they had come through.`
+char_non: `......But she stopped right away.`
+char_nan: `"Wh‐what is it...?"`
+char_sha: `"{f:5:Virgilia}‐sama has started neutralizing the spirit wave jamming...`
+char_sha: ` It'll be bad if it's broken—we'll lose the initiative once the Chiester Sisters are rebooted...!"`
+char_wal: `"I'll make you pay in full for bullying these cute rabbits."`
+char_wal: `"If you're trying to gain the advantage with those crafty little spirit particles, I'll tear all that off and rob you of them."`
+char_kan: `"Nee‐san, concentrate on the spirit wave jamming!`
+char_kan: ` The gap in those bars is too narrow for those goats.`
+char_kan: ` It should hold them back for a while...!"`
+char_cla: `"I don't have a clue what you're saying, but—"`
+char_kir: `"We at least got the point that it's something pretty bad."`
+char_non: `Kyrie picked up a metal bar that Kanon had just cut.`
+char_non: `{n}Krauss had no weapon, but he rubbed his fist, and the two of them glared into the depths of the underground passage where the shaking was coming from.`
+char_nan: `"......I believe this set of bars is the final thing blocking the way."`
+char_cla: `"How far is it to the mansion from here?"`
+char_nan: `"Quite a walk...`
+char_nan: ` The path is even, but I seem to remember walking for thirty minutes......"`
+char_kir: `"So if we run flat out, it'll be half that time."`
+char_non: `They couldn't tell for sure since they didn't have the three‐sided mirror,`
+char_non: ` but there was no guarantee that George and Jessica could hold out against demon opponents for all that time.`
+char_kir: `"......If we run at twice walking speed, it'll be fifteen minutes.`
+char_kir: ` And running at twice that speed again would make it eight minutes."`
+char_cla: `"And if we sprint flat out at double that speed again, it won't even take five.`
+char_cla: ` No sweat."`
+char_nan: `"Wh‐what an unreasonable calculation...`
+char_nan: ` But calculations in dire emergencies do tend to be that way...!"`
+char_kan: `"......My sincere apologies, everyone.`
+char_kan: ` The rest will be up to you...!"`
+char_cla: `"Leave it to us.`
+char_cla: ` Kanon, you cut the bars as fast as you can.`
+char_cla: ` Shannon, you concentrate on jamming this witch called {f:5:Virgilia} or whatever.`
+char_cla: ` Kyrie‐san and I will defend against the pursuers...!"`
+char_non: `Then, the roars of beasts rang out from the darkness, and numerous fiery, glowing, bright‐red eyes appeared.`
+char_non: `The goats rushing towards them, with thunderous force, were several levels more massive than the guards had been.`
+char_non: `The tremors they created were almost like an earthquake.`
+char_non: `{n}The power and terror was tremendous, but Kyrie instead laughed with relief.`
+char_non: `{n}......Those massive bodies wouldn't be able to go through the gap in the bars!`
+char_non: `The group of goats crashed into the metal bars with a terrific sound like that of a train colliding with a dead end.`
+char_non: `Clumps of dirt fell here and there from the ceiling, and you could tell that the metal bars had buckled inwards.`
+char_non: `.....The force of their charge must have been no different from a train.`
+char_non: `{n}If the metal bars hadn't been there, they would undoubtedly have swallowed the five of them up and crushed them in an instant.`
+char_non: `When the group of goats, pressed up against the metal bars, realized that the five were right in front of them,`
+char_non: ` they let out a terrible howl, trying to intimidate the five.`
+char_non: `......Although it was hard to tell whether that was really intimidation, or because of the pain from being pushed and shoved.`
+char_non: `One calm goat among them figured out that it just needed to do something about the metal bars,`
+char_non: ` and grabbed two of them with its massive arms, and began bending them as though opening double doors.`
+char_non: `Kyrie sharply jabbed her metal pole at that goat's vitals...!`
+char_non: ` The goat let out a roar of anguish.`
+char_non: `It probably hurt a lot, but that was all.`
+char_non: `{n}It wasn't enough to bring it down...`
+char_kir: `"Krauss‐san...!!"`
+char_cla: `"Rrroooaaaaaaaaaaaaahhh!!"`
+char_non: `Still holding the stuck‐in metal pole, Kyrie relinquished the opposite tip to Krauss.`
+char_non: `Krauss ran there with all his might, leapt into the air and kicked it in with all his weight and kicking power combined...!`
+char_non: `All of that destructive power was focused on that single pole, drilling it in!!`
+char_nan: `"......A‐are you alright?`
+char_nan: ` Please don't rub the affected area.`
+char_nan: ` I shall prescribe some medicine later. Take care..."`
+char_non: `As the goat who had taken a pile bunker to its vitals writhed with teary eyes,`
+char_non: ` it nodded its head.`
+char_kir: `"Looks like our link isn't that bad either.`
+char_kir: ` We can't let Shannon‐chan and Kanon‐kun beat us."`
+char_cla: `"Naturally. We are a loving family, after all."`
+char_kir: `"We can take them if it's two‐on‐one!`
+char_kir: ` Next, that one on the right!"`
+char_cla: `"Roger...!`
+char_cla: ` You seem like a great wife. That Rudolf, I'm starting to think he grumbled a little too much."`
+char_kir: `"Oh? You'll have to tell me about that later.`
+char_kir: ` Rudolf‐san, it's no use you turning white in heaven, it's too late for excuses."`
+char_non: `The goat's massive body sank into the rose bush.`
+char_non: ` Even taking into account that a leg's power is three times that of an arm's, this strength surpassed common sense.`
+char_non: `That massive body, flying up and through the air from being kicked in the chin...it was too epic!`
+char_non: `Even George seemed a little surprised.`
+char_geo: `"......To think that my kick works on monsters too.`
+char_geo: ` I'm astonished."`
+char_gap: `"...............It's because of your counterattacking‐type barrier.`
+char_gap: ` ......The attack power that grazes you is added on to your own.`
+char_gap: ` ......The superhuman power of those monsters has been added to your kicks..."`
+char_geo: `"Hmm......`
+char_geo: ` ...I don't really get it, but isn't that just perfect for me?`
+char_geo: ` ......If you're going to attack me, then no matter who you are, you should be prepared for a counterattack of equal measure.`
+char_geo: ` Nonaggressive defense.`
+char_geo: ` That's exactly my policy."`
+char_non: `That's why Gaap couldn't easily touch him.`
+char_non: `The counterattacking‐type barrier had no defensive power.`
+char_non: ` However, because of its counterattacking characteristic, it could be useful in defense by making the opponent hesitate to attack.`
+char_non: `The goats were foolish, so they attacked without worrying,`
+char_non: ` but the effect was being realized to the full against Gaap.`
+char_geo: `"These guys really are dull.`
+char_geo: ` When your power is even, it's better to be of a smaller build."`
+char_non: `He lightly dodged the log‐like arm.`
+char_non: `When that arm touched the barrier that protected George, it let off a strong, red light.`
+char_non: `......And the tip of the foot that was counterattacking gained the same shine, and the superhuman power of the goat was added to George's own.`
+char_non: `The second goat fell forwards and floated in the air for a second.`
+char_non: `{n}Then, George's next roundhouse kick missed right over the falling goat's head.`
+char_non: `......For an instant, the goat hoped to get away with its life.`
+char_non: `But no!!`
+char_non: ` A heel was dropped onto the back of its head, and it was forced to kiss the ground.`
+char_geo: `"......Going from a high roundhouse kick into a neri chagi is pretty basic, right?`
+char_geo: ` It connects pretty often if you don't overuse it."`
+char_gap: `"This guy's......a problem,`
+char_gap: ` ...seriously a problem......!!"`
+char_geo: `"Demons? Witches? Get real.`
+char_geo: ` .........The rulers of Rokkenjima are this Ushiromiya family.`
+char_geo: ` I will teach that to you with every ounce of strength in my body."`
+char_gap: `".........Yoooouuuu.........!!"`
+char_non: `The only way to finish off George now that his body was wrapped up in the counterattacking‐type barrier...was to not allow him a counterattack.`
+char_non: `......Next time she sucked him into the Abyss, she would have to kick and drop him, kick and drop him, kick and drop him,`
+char_non: ` until she kicked him to death!!!`
+char_non: `But George had already perfected reading the faint warning signs that told of the appearance of Gaap's pitfalls.`
+char_non: `......If he managed to jump over that next pit,`
+char_non: ` ......then this time, he would probably pulverize Gaap's head with his whirlwind‐like kick, without holding back in the slightest,`
+char_non: ` ......just as had been done to his parents.`
+char_non: `She was able to envision that scene vividly.`
+char_non: `It was far too late now, but Gaap cursed Kinzo all the same for calling her out to this ridiculous island...!`
+char_non: `Ronove finally started using both of his hands to form his shield.`
+char_non: `Without a more powerful shield, he wouldn't be able to completely block Jessica's fists anymore.`
+char_non: `The enchantment on Jessica's fists grew the more she fought.`
+char_non: `The permeation upgrade had already stacked several times,`
+char_non: ` and those fists had also been given an impact upgrade, a piercing upgrade, and a speed upgrade, making them fists worthy to fight on par with a demon...`
+char_jes: `".........What's wrong?!`
+char_jes: ` Starting to get tired?!`
+char_jes: ` You're getting all slow!!"`
+char_ron: `"No.`
+char_ron: ` Your movements, thoughts, and kinetic vision have been exponentially enchanted.`
+char_ron: ` .........My movements have not changed from the beginning.`
+char_ron: ` ......Your movements are beginning to capture me."`
+char_jes: `"And you still won't fight back...?!!"`
+char_ron: `"This is the style which I insist upon.`
+char_ron: ` ......However, I cannot allow things to continue as they are.`
+char_ron: ` It's about time for me to get serious and end this......!!"`
+char_non: `Ronove's face turned into an expression he had never shown before.`
+char_non: `{n}It was truly demonic, and to Jessica's eyes, full of respect.`
+char_non: `Because it was an expression only shown to enemies strong enough to make him get serious.`
+char_jes: `"Whooaa?!?!`
+char_jes: ` What the heck?!"`
+char_non: `With a whole‐body gesture that you couldn't call elegant, Ronove set up a shield with all his strength, the size and thickness of a wall.`
+char_non: `Its sturdiness was nothing like a shield.`
+char_non: ` It was literally a wall.`
+char_non: `And on top of that, with all of Ronove's magical power, it pushed Jessica back bit by bit.`
+char_non: `......Did he plan on pushing her back against the wall and crushing her to death?`
+char_non: `Jessica tried to break through the wall with both fists, but it was solid.`
+char_non: ` ......Without any exaggeration, it was solid!`
+char_jes: `"You call this serious...?!!`
+char_jes: ` No problem... I'll break right through iiiii{-}i{-}i{-}i{-}iiitt!!"`
+char_ron: `"I will not let you this time.`
+char_ron: ` This wall is somewhat different.`
+char_ron: ` ......Here, allow me to enchant it as well."`
+char_non: `Ronove made magic signs with his fingers almost like a ninja;`
+char_non: ` the wall glowed red for just an instant, and became imbued with some kind of ominous power.`
+char_non: `Almost immediately, Jessica also gained a firsthand understanding of this.`
+char_non: `Every time she pounded her fists against the wall, pain rebounded upon her as though glass fragments had scattered and hit all over her body.`
+char_ron: `"I upgraded it with attack‐reactive armor.`
+char_ron: ` An exceptional item which will decrease the force of your attacks by counterbalancing them,`
+char_ron: ` and can even counterattack with reactive fragments."`
+char_ron: `"......You are perfectly welcome to keep punching it, but doing so will affect you as well."`
+char_jes: `"Heh, ...heheh!!`
+char_jes: ` So it's an endurance test between me and your wall?!!`
+char_jes: ` Fine by me!!"`
+char_ron: `"Will you fall to your knees first, or be pushed into the wall first?`
+char_ron: ` ......Allow me to observe."`
+char_jes: `"Or, I might break through it and smash that whole wall along with your face, ever think about that?!`
+char_jes: ` Just watch meeeeeeeeeee!!"`
+char_non: `Without hesitation, Jessica slammed both fists into the wall.`
+char_non: `{n}Each time she did, a large amount of shards scattered, tormenting her body all over.`
+char_non: `Countless red cuts soon appeared all over her body...`
+char_non: `She grimaced at the intense pain, but her eyes were burning with fighting spirit, and her lips curved in a grin exactly the opposite of the pain...!`
+char_cla: `"Kanon, are you done yet?!`
+char_cla: ` We are alright,`
+char_cla: ` ......but I can't say the same for the bars holding those guys in check...!"`
+char_kan: `"Just......a little more......!"`
+char_kir: `"There's no end to these guys...`
+char_kir: ` The bars might break just from them shoving each other!"`
+char_non: `The metal bars creaked under the strain of the group of goats.`
+char_non: `{n}Several arms grabbed the bars, twisting them with superhuman strength.`
+char_non: `......However, some bars were being pulled in opposite directions by different hands.`
+char_non: ` Apparently they really were stupid.`
+char_non: `The way those countless hands were grabbing the metal bars......happened to match up by chance.`
+char_non: `Several hands grasping two metal bars neatly put their power together and pulled the bars to the left and right, creating an opening.`
+char_non: `The incredible sound of metal bending could be heard, and that gap was getting larger bit by bit...!`
+char_non: `They attacked the arms of those goats one by one, but they weren't getting anywhere.`
+char_non: `{n}They couldn't stop the gap from expanding left and right...!`
+char_non: `A loud metallic sound came from behind them.`
+char_non: `{n}Kanon had finally finished cutting.`
+char_kan: `"Quickly!!"`
+char_cla: `"Kyrie‐san, ladies first.`
+char_cla: ` You next, Doctor Nanjo!"`
+char_kan: `"Krauss‐sama, please leave this place to me...!`
+char_kan: ` Ngh, ......what?!"`
+char_non: `Kanon's red sword, with which he had cut the metal bars, disappeared.`
+char_sha: `"......Sorry!`
+char_sha: ` We've entered {f:5:Virgilia}‐sama's spirit particle combat area of influence!!`
+char_sha: ` Our magic power is being neutralized!"`
+char_wal: `"Hoh‐hoh‐ho.`
+char_wal: ` I am impressed that you put up such a fight against a Great Witch like me...`
+char_wal: ` You can no longer use your magic in that underground passage."`
+char_non: `A magic circle column drew complex magical formulae around {f:5:Virgilia}.`
+char_non: `......With such full‐fledged magic being used, Shannon's power couldn't even compete.`
+char_non: `On the contrary, it was surprising that she had withstood as much as she had.`
+char_wal: `"Spirit particle superiority ensured.`
+char_wal: ` Come, Chiester Sisters. Now it's your turn."`
+char_wal: `"Wait, are you still rebooting?!`
+char_wal: ` Why are kids so bad at waking up these days...?!"`
+char_s00: `"M‐my apologies, ma'am...!!`
+char_s00: ` We're all different versions..."`
+char_s41: `"Why is it that the shortcuts and pulldown menus get all screwed up every time you change versions nyeh...!`
+char_s41: ` Did not shut down successfully last time?`
+char_s41: ` Administrator privileges??`
+char_s41: ` What is all this nonsense!!"`
+char_s45: `"Ukyu~~!!`
+char_s45: ` Ukyu~~!!`
+char_s45: ` (Fix me quickly~!! Waaaah!)"`
+char_s00: `"Calling Imperial Guards troubleshooting!`
+char_s00: ` What?`
+char_s00: ` You won't tell us without a user code?!"`
+char_s41: `"45 is in control of the user code nyeh."`
+char_s45: `"Ukyuu!!`
+char_s45: ` U,`
+char_s45: ` kyu,`
+char_s45: ` kyu,`
+char_s45: ` kyo,`
+char_s45: ` ukyu,`
+char_s45: ` kyuu!!!"`
+char_s00: `"A‐all I can hear is {ruby:kyuu‐kyuu‐kyuu‐kyuu:9999}......`
+char_s00: ` Have her write it on some paper."`
+char_s41: `"Her language support system hasn't come back up, so she can't even write nyeh."`
+char_wal: `"...........................`
+char_wal: ` Y‐you take your time fixing yourselves...`
+char_wal: ` I'll go myself..."`
+char_non: `""Sorryyyyyyyyy~!!""`
+char_non: `The narrow underground passage was packed with goats, truly like a commuter train in the morning.`
+char_non: `{f:5:Virgilia} was again in disbelief at this congestion.`
+char_wal: `"What are you doing...?!!"`
+char_wal: `"Huh?`
+char_wal: ` You want to be first because you want the prize?`
+char_wal: ` You're getting in each other's way because you don't want the others to steal the prize from you?"`
+char_wal: `"You stupid goooooooooooooaaaaaaats!!!`
+char_wal: ` I'm going myself, so open the way!!"`
+char_wal: `"What?!`
+char_wal: ` You don't want to?!`
+char_wal: ` {f:5:Virgilia}‐sama is trying to steal the prize?!"`
+char_wal: `"Why are you forming a scrum?!!"`
+char_wal: `"Aaah, it's so crammed and tight!!`
+char_wal: ` When did this become a goats‐only car?!`
+char_wal: ` Ugyu~~!!`
+char_wal: ` Whoever just touched my butt, get off at the next statioo~~n!!!"`
+char_wal: `".........Hm? What do you want?`
+char_wal: ` Come this way, you say??"`
+char_non: `The five people in Krauss's group dashed through the passageway with all their strength!`
+char_non: `{n}They couldn't afford to dawdle around underground.`
+char_non: `They had to quickly join up with the children on the surface!`
+char_non: `{n}Once everyone was together, there would no longer be anything to fear!`
+char_non: `Just then, a terrible rumble started closing in from behind.`
+char_non: `{n}Had the pursuers finally made it through the metal bars?!`
+char_non: `But they couldn't see anyone when they turned around.`
+char_non: `But that rumble and the dirt falling here and there from the ceiling grew closer and closer,`
+char_non: ` finally catching up with them and even going past them.`
+char_non: `It felt almost like they had been passed by ghosts.`
+char_non: `The instant after they thought that nothing had happened, the ceiling in front of them fell in, and a single goat stood in their path.`
+char_non: `......{f:5:Virgilia} was sitting on its shoulder.`
+char_wal: `"This wise child knew a shortcut.`
+char_wal: ` What a good kid, you get first prize.`
+char_wal: ` Later, I'll treat you to some homemade mackerel curry."`
+char_non: `Maybe it really was happy even to receive such a dubious prize.`
+char_non: ` The massive goat showed its joy by putting its hands together and wiggling.`
+char_non: `{f:5:Virgilia} leapt down, laughing that now it was finally checkmate.`
+char_kan: `"......Damn...... It's no good...`
+char_kan: ` ......Our magic has been completely killed..."`
+char_sha: `"...It's too early to give up...`
+char_sha: ` ......Even without magic, we still have our bodies..."`
+char_nan: `"D‐don't be ridiculous...!`
+char_nan: ` There's no way you could fight a monster like that without that strange power...!"`
+char_cla: `"......S‐stay back, children..."`
+char_cla: `"I'll handle them somehow, so you escape past that monster while I'm keeping him busy...!"`
+char_wal: `"I won't let you.`
+char_wal: ` Hohhohohohohoho!"`
+char_non: `{f:5:Virgilia} clapped her hands, and a purple magic barrier appeared behind her,`
+char_non: ` stealing even the faint hope that Krauss had been betting on.`
+char_cla: `"Is there...nothing more to be done......?`
+char_cla: ` ...N‐no, there's still a chance.`
+char_cla: ` ......Even Jessica fought.`
+char_cla: ` I must do the same..."`
+char_kir: `"A‐are you serious?!`
+char_kir: ` It's not possible, not against that massive monster...!"`
+char_nan: `"Don't be absurd...!`
+char_nan: ` Krauss‐san, let us think of another way......"`
+char_cla: `"If you think of something, I'm open to suggestions.`
+char_cla: ` Until then, it looks like I'll have to manage something...`
+char_cla: ` ......Come on, get back."`
+char_kir: `"......Be careful."`
+char_wal: `"Hohohoho...hohhohohohohohohoho!`
+char_wal: ` My, my, Krauss.`
+char_wal: ` You intend to fight this child alone?"`
+char_cla: `"........................khh...`
+char_cla: ` Y‐you never know.`
+char_cla: ` In a fight, it's always possible to get in a lucky shot..."`
+char_wal: `"Hohhohohoho.`
+char_wal: ` You think you can win even with a fluke...?`
+char_wal: ` Allow me to explain the situation for you, since you clearly don't know your place."`
+char_cla: `"Whaat......?"`
+char_wal: `"Hohohoho...`
+char_wal: ` Assuming you were to wield 100% of your strength, your power level is at most 6.`
+char_wal: ` In comparison, this child has a power level of 1000.`
+char_wal: ` In short, even if there were 100 of you, you could never win."`
+char_wal: `"Well, it's true that there are uncertain elements in a fight.`
+char_wal: ` I will admit that your power level has a slight scaling factor to it."`
+char_wal: `"But even so, your chances of defeating him are around perhaps 0.00001%.`
+char_wal: ` Do you understand?`
+char_wal: ` You don't even have a one in ten thousand chance of victory.`
+char_wal: ` Hoh‐hoh‐hoh‐ho...!"`
+char_non: `{f:5:Virgilia} and the goat guffawed together.`
+char_cla: `"D‐...damn it......`
+char_cla: ` If it's a one in ten thousand chance, then the payoff will be ten thousand times more, will it not?`
+char_cla: ` ......A good dark horse.`
+char_cla: ` I like betting tickets like that, makes me want to buy them..."`
+char_wal: `"Hoh‐hoh‐hoh‐ho!`
+char_wal: ` But the coin to buy that is your life, and there's only one of those, you know.`
+char_wal: ` Nevertheless, I can understand the feeling of wanting to entrust your fate to that miracle."`
+char_wal: `"......Which is why, in praise of your courage for standing against us without fear, I shall give you a bit of a handicap.`
+char_wal: ` This child will fight with only his left arm.`
+char_wal: ` Well, even so, I can't imagine for a moment that he'll lose to you."`
+char_wal: `"............Seriously, what is that thing that keeps going bing‐bong‐bing‐bong?"`
+char_cla: `"V‐......very well.`
+char_cla: ` I'll accept that challenge......`
+char_cla: ` Left arm or whatever else, I'm sure I'd be killed with a single strike in any case.`
+char_cla: ` ......I also only have a single chance at a strike.`
+char_cla: ` I can only bet everything on that."`
+char_nan: `"That's absurd, Krauss‐san...!`
+char_nan: ` I, I know that you used to do boxing, but I believe that was from your college days...`
+char_nan: ` No, no, even if there were a pro boxer here, there's no way he could defeat a monster like that with just one strike...!"`
+char_kir: `"......That would be true if it were a match in the ring.`
+char_kir: ` But Krauss nii‐san does have an admittedly small chance that he can set his hopes on.`
+char_kir: ` ......He's setting all his hopes on that one chance..."`
+char_kan: `"Y‐you aren't saying......`
+char_kan: ` But...there's no way that's going to work..."`
+char_sha: `"......Krauss‐sama........."`
+char_cla: `"W‐watch me...`
+char_cla: ` I'll settle this with a single strike......"`
+char_non: `Hoh‐hoh‐hoh‐ho...`
+char_non: ` How unwise.`
+char_non: `{n}I know what you're gunning for.`
+char_non: `{n}The distance between the two of them is more than 10 meters.`
+char_non: `If the goat and Krauss both step in with all their strength to settle the fight with a single blow, their power will be double the norm.`
+char_non: `{n}Both will crash together, so it will be a relative 4 times normal.`
+char_non: `Even if, on top of that, the strike miraculously lands on a weak point for a critical hit, that will only double the power.`
+char_non: `.........In short, Krauss's maximum power level of 6, times 8, will cap out at 48 at the most.`
+char_non: `He might just barely be able to win if he repeated that lucky shot a full 20 times.`
+char_non: `Hohhohohohoho, if you're killed every time you take a hit, and your damage still accumulates,`
+char_non: ` .......let's see, perhaps you could finally win when we get to Episode 24?`
+char_non: `Hoh‐hoh‐hoh‐ho, if only this series could stretch on so long...!!`
+char_non: ` Either way, you don't even have the slightest chance of victory!`
+char_non: `......Good gracious, what is that bing‐bong I keep hearing?`
+char_cla: `"I will be betting everything on a single strike...`
+char_cla: ` You have no reason to hold back either.`
+char_cla: ` Give it everything you've got..."`
+char_wal: `"Hohohoho, he's requesting that you go all out.`
+char_wal: ` Pulverize him with a single all‐out strike, and turn him into chunks of meat."`
+char_non: `As the goat got excited and beat its chest over and over, it took a position as though preparing for a sprint.`
+char_non: `Hoh‐hoh‐hoh‐ho, is this what you were hoping for?`
+char_non: `Stake your hopes on your greatest power level, and despair when even that doesn't reach at all!`
+char_non: `It pinged again!`
+char_non: ` That thing is really getting on my nerves, what {i:is} it?!`
+char_cla: `"Here I come......`
+char_cla: ` Ready?"`
+char_non: `The goat roared in response.`
+char_non: `Then, with a matched timing that only the men confronting each other could comprehend,`
+char_non: ` ......the two leapt forward like bullets shot out of a gun.`
+char_non: `The men howled, collecting the strength from all over their bodies into one arm each.`
+char_non: `The goat's fiery glowing eyes clearly locked onto Krauss's face.`
+char_non: `......He could perfectly see a vision of when he would step forwards,`
+char_non: ` when he would punch through Krauss and blow him away,`
+char_non: ` and when he would achieve his total victory.`
+char_non: `The long, painful days before today drifted through the goat's mind......`
+char_non: `The hard days of training where his senpais had picked on him...`
+char_non: `The faint glimpses of his senpais' warm concern during those days.`
+char_non: `And the joy of that day his power had been acknowledged, and he had been accepted as one of the team...!`
+char_non: `I never properly respected my parents.`
+char_non: `......That's right, I'd actually planned on washing my hands of this business when this job was over, and returning to my hometown.`
+char_non: `Sorry, my little goat sister...your onii‐chan caused you nothing but trouble.`
+char_non: `And I, ...a‐actually have a childhood friend, and I'm going to marry her when I get hoooooome!!!`
+char_wal: `"Gyaaaaaaaaahh!!!`
+char_wal: ` Nooooooooooo!!`
+char_wal: ` Don't trip so many {c:86EF9C:loser flaaaaaa{-}a{-}a{-}a{-}aags}!!"`
+char_wal: `"You can't handle that punch, dodge iiiiiiiiiit!!"`
+char_non: `It happened the instant before the two crashed and their punches crossed.`
+char_kir: `"Foolish, {f:5:Virgilia}.`
+char_kir: ` It looks like you couldn't make a composed decision."`
+char_wal: `"You must not take that punch!!`
+char_wal: ` Deflect it!!"`
+char_goa: `"?!?!"`
+char_non: `The very instant the goat's left straight and Krauss's right straight crossed!`
+char_non: ` The goat obeyed {f:5:Virgilia}'s order with super‐fast reflexes and pulled back his straight, deflecting Krauss's punch!`
+char_cla: `".........mmgh—"`
+char_non: `Yes, {f:5:Virgilia}'s decision was probably wise.`
+char_non: `{n}After all, the number of loser flags act as a multiplier on the opponent's power level!`
+char_wal: `"That was close.`
+char_wal: ` If you had taken that punch after tripping so many loser flags, imagine just how great a force it would have been multiplied to...!!"`
+char_wal: `"Come on, from there, smash the completely open right side of his face with a right straight!!"`
+char_wal: `"What?`
+char_wal: ` The promise about fighting with only your left arm?"`
+char_wal: `"Hoh‐hoh‐ho!!`
+char_wal: ` Promises are made to be brokennnnn!!"`
+char_wal: `"Gyaah, tripped another ooooooone!!"`
+char_kir: `"I'm disappointed, {f:5:Virgilia}.`
+char_kir: ` You really were lacking composure."`
+char_wal: `"What's that......?!`
+char_wal: ` How was I not composed by noticing it beforehand and making him avoid it...?!"`
+char_sha: `"Wh‐...why is that, Kyrie‐sama...?`
+char_sha: ` If they had crashed like that, wouldn't Krauss‐sama have won......?"`
+char_kan: `".........Ah, I, I see...!`
+char_kan: ` Even with 20 loser flags,`
+char_kan: ` ......that's still not enough!"`
+char_non: `Krauss's and the goat's double rush make it x4.`
+char_non: `{n}With a miracle on their side, the firm promise of a critical hit would double it again for x8.`
+char_non: `On top of that, a multiplier of x20 equal to the number of tripped loser flags applies, making it x160.`
+char_non: `At a glance, that looks like an incredible amplification, but even so, Krauss's power level is 6.`
+char_non: `{n}Even multiplied by 160, it only makes for a power level of 960.`
+char_non: `{n}Just a fraction below the goat's 1000...!`
+char_kir: `"That's why I said you weren't composed.`
+char_kir: ` You made a blunder.`
+char_kir: ` If they had crashed like that, you would have won."`
+char_wal: `"H‐hoh‐hoh‐hoh‐ho!!`
+char_wal: ` Even if that were so, it all comes to the same thing if this right straight smashes Krauss's head!!`
+char_wal: ` Die, Ushiromiya Krauss!!!"`
+char_cla: `"......Take this...the most powerful blow in the world of boxing."`
+char_non: `Having deflected Krauss's right straight,`
+char_non: ` the goat's own right straight closed in on the right side of Krauss's face, which had been left open...`
+char_non: `But there, it crossed with a left straight from Krauss...`
+char_non: `The two punches crossed, and time stopped as each aimed for the face of the other......`
+char_wal: `"Ho.........hohohoho.`
+char_wal: ` To think that it would be brought to a simultaneous strike at a moment like this!`
+char_wal: ` But his power level caps out at x160, making it 960!!`
+char_wal: ` You never made it to my child's 1000...!"`
+char_nan: `".........No.`
+char_nan: ` {f:5:Virgilia}‐san.`
+char_nan: ` ......You've lost."`
+char_wal: `"Why?!"`
+char_nan: `"You made your goat deflect the first cross‐counter.`
+char_nan: ` ......Certainly, if the right straight he issued after that were to hit, Krauss‐san would probably be in pieces."`
+char_nan: `"...However, that was crossed...`
+char_nan: ` ......That's just no good.`
+char_nan: ` I'm afraid this is a complete loss for your goat."`
+char_non: `A cross‐counter has four times the destructive power.`
+char_non: `{n}This is common knowledge in boxing.`
+char_non: `And if that is deflected, and the right straight hits, then the double cross‐counter has 8 times the destructive power.`
+char_non: `{n}This is also common knowledge in boxing.`
+char_non: `If that is crossed......`
+char_non: `{n}By the principle of leverage, the triple cross then multiplies the destructive power by 12!`
+char_non: `This is also painfully common knowledge in the world of boxing!!`
+char_kir: `".........Krauss‐san's power level is 6."`
+char_kan: `"A double multiplier from both sides for rushing in, making it times 4."`
+char_sha: `"Th‐the critical hit makes it times 8."`
+char_nan: `"Up to times 160 for tripping too many loser flags."`
+char_cla: `"......And times 12 on top of that for the triple cross‐counter."`
+char_wal: `"T‐......times 1920......"`
+char_non: `A power level of...11520...!!`
+char_non: ` Krauss's punch now had the power to easily win that Budokai tournament...!!!`
+char_nan: `"......This result was brought about by Krauss‐san's persistence in not giving up on victory until the end, ......and your conceit.`
+char_nan: ` Without either, it would never have become so powerful..."`
+char_nan: `"......You fought well.`
+char_nan: ` .........It's okay, you can fall now..."`
+char_non: `Nanjo patted the goat on the shoulder...`
+char_non: `......O‐......onii‐chan...gave it his all......`
+char_non: `As the sparkling drops from the goat's eyes scattered, he softly toppled backwards,`
+char_non: ` and flattened {f:5:Virgilia} like a pancake.`
+char_wal: `"Ugyaa!!`
+char_wal: ` Heavyyyyyyy, get oooffffff!"`
+char_non: `The goat's massive body was too heavy for the slender {f:5:Virgilia}.`
+char_non: `{n}She floundered around with it on top of her, but it didn't look like she would be able to escape.`
+char_non: `In that instant, the barrier {f:5:Virgilia} had sealed broke.`
+char_cla: `"No hard feelings, please.`
+char_cla: ` Underestimating the principle of leverage was the cause of your defeat."`
+char_kir: `"......I wonder why the principle of leverage worked on that counter.`
+char_kir: ` It's an eternal mystery."`
+char_nan: `"Let's escape while we can...!!`
+char_nan: ` You take care, {nobr:Mr. Goat}...!"`
+char_sha: `"W‐well then, excuse us, {f:5:Virgilia}‐sama!"`
+char_kan: `".........*bow*."`
+char_wal: `"Waaaaaaaaiiit!!`
+char_wal: ` Get back heeeere!!`
+char_wal: ` Get this thing off meeeeee!!`
+char_wal: ` Kiiii!! Gapgapgapgap!!!"`
+char_non: `There was nothing more to block their way.`
+char_non: `{n}......They ran through the underground passage with single‐minded purpose...!`
+char_non: `Jessica had finally been cornered with the wall at her back.`
+char_non: `{n}......Ronove's magic barrier was advancing bit by bit, and would probably crush her against the wall before long.`
+char_non: `Considering the distance...this would be the final strike, the final throw of her iron fist.`
+char_non: `Jessica had dealt out many punches so far.`
+char_non: `......The wall wasn't invincible.`
+char_non: ` It had already started to crack, and it wouldn't be strange for it to smash at any moment.`
+char_non: `However, due to the rebounding damage,`
+char_non: ` Jessica herself was in very bad shape, with cuts all over her body.`
+char_ron: `"......Just stop this now.`
+char_ron: ` I don't intend to crush you.`
+char_ron: ` It is up to the Master to decide how to deal with you.`
+char_ron: ` ......However, I do intend to put in a good word for your impressive fight."`
+char_jes: `"N‐`
+char_jes: `.........no...frigging...`
+char_jes: `...way...`
+char_jes: ` ......Not yet......`
+char_jes: ` It's not......over yet........."`
+char_ron: `"......You have wounds all over your body.`
+char_ron: ` It's all you can manage just to stand, is it not?`
+char_ron: ` ......It seems that you plan on putting all of your strength into this final strike.`
+char_ron: ` However, that final strike will instead prove fatal for you."`
+char_non: `The damage reflected by Ronove's magic barrier was proportional to the strength of the attack.`
+char_non: `{n}Jessica's all‐out punch would be bounced back onto her.`
+char_non: `......The more all‐out she went, the more suicidal it would be for her.`
+char_jes: `"I, I get it......`
+char_jes: ` I know that........."`
+char_ron: `"I am warning you.`
+char_ron: ` Stop this now.`
+char_ron: ` It is for your own good."`
+char_jes: `"Stop bluffing.`
+char_jes: ` Your wall is about to break, right...?`
+char_jes: ` I've been the one punching it, you think I can't feel that.........?"`
+char_ron: `"........................"`
+char_non: `That was...a fact.`
+char_non: ` Ronove's wall was already on the verge of breaking.`
+char_non: `And on top of that,`
+char_non: ` Jessica's fists had been imbued with an unimaginable magical attack power by now, and their destructive power defied the imagination.`
+char_non: `......If she wasn't careful, that destructive power might pierce the defensive wall, smash Ronove as well,`
+char_non: ` and then go on to expand the size of her bedroom by connecting it to the room next door.`
+char_non: `......However, that damage would rebound on Jessica as well.`
+char_non: `{n}She wouldn't escape unharmed!`
+char_ron: `"I will say it just one more time.`
+char_ron: ` Stop.`
+char_ron: ` I say this out of consideration for you!"`
+char_jes: `"Shut the hell up......`
+char_jes: ` .........Say your prayers."`
+char_non: `Jessica howled.`
+char_non: ` ......Putting all her strength and her last and greatest destructive power into her fist, she roared......`
+char_non: `The three goats had been beaten down long ago.`
+char_non: ` Without a single ragged breath, George cautiously closed the distance between him and Gaap.`
+char_non: `......He was after her.`
+char_non: ` He was planning on bringing her down with a single strike...`
+char_non: `Gaap was also aiming for a single strike.`
+char_non: `{n}.........If she let that chance slide, this time, she would be killed......`
+char_geo: `"......Aren't you going to use your pitfalls?"`
+char_gap: `"............Ack......"`
+char_non: `Even the tiny moment of weakness during the time it took to open the hole would prove fatal against George now.`
+char_non: `......Gaap cautiously calculated the distance and timing, but even as she did, George closed the gap between them...`
+char_geo: `".........If you won't move forward, then I will."`
+char_gap: `"......C‐......come on then...`
+char_gap: ` No more tricks.`
+char_gap: ` ......This kick of mine...`
+char_gap: `...will end this!"`
+char_non: `The instant she noticed George's body blur, ......only his jacket was floating in the air.`
+char_non: `A short sound of realization entered her mind, and in that instant, darkness covered her.`
+char_non: `George, with his heel swung up high, looked even like a massive dragon attacking from the sky.`
+char_gap: `"Y‐you fell for it......`
+char_gap: ` ......I win, Ushiromiya George!!"`
+char_geo: `"What—"`
+char_non: `Gaap opened a vast pit with her in the center, and swallowed up George along with herself...!!`
+char_non: `The two were swallowed up by the pit, and spat out from the ceiling of the arbor.`
+char_non: `But that was what Gaap had been after, so she alone landed lightly.`
+char_non: ` ......But there was another pit in George's landing spot.`
+char_gap: `"Ehheheheheheheh, aaaahhaha{0}ha{0}ha{0}ha{0}ha{0}ha{0}ha{0}haha!!!`
+char_gap: ` Got you, Ushiromiya Geooooooo{-}o{-}o{-}orge!!"`
+char_gap: `"It's been fun die now,`
+char_gap: ` it would be a waste for someone as good as you to end up as the Ushiromiya family head,`
+char_gap: ` so I'll eat you up right here, right now!!!`
+char_gap: ` Oooooorrrrrooo{0}o{0}o{0}o{0}o{0}o{0}oa{0}a{0}a{0}aahhh!!"`
+char_non: `George once again fell from the ceiling of the arbor.`
+char_non: ` He had probably been dropped the same distance as falling off the roof of a two‐story building.`
+char_non: `In midair, he couldn't control his posture in any way.`
+char_non: `{n}It was impossible to resist or defend or avoid!!`
+char_non: `As Gaap spun like a whirlwind, she concentrated all of her energy on the sharp tip of her stiletto heel.`
+char_non: `......This was the final strike...to perform his requiem.`
+char_non: `{n}The queen bee's final strike, that would bore into heaven, knocking him down into the true Abyss!!`
+char_gap: `"Welcome to the Abyss!!`
+char_gap: ` This is the end of the line for you!!!"`
+char_non: `Her prey captured in her sight, she launched her foot up into the sky.`
+char_non: `......It was then that she saw George's face.`
+char_non: ` .........Even though he was in midair, he was calmly adjusting his glasses with the middle finger of his left hand.`
+char_non: `And his posture was still preserved as that of an axe kick.`
+char_non: `{n}Aiming for Gaap's forehead, without the faintest deviation......`
+char_geo: `".........I already anticipated that you would opt for that move."`
+char_gap: `"............Wh...at.........?"`
+char_geo: `"If I'd jumped to make the person that was {i:on the ground} taste my heel, my posture would have collapsed long ago.`
+char_geo: ` .........However, my posture hasn't collapsed in the slightest.`
+char_geo: ` Do you know why?"`
+char_gap: `"......You...`
+char_gap: `...don't...`
+char_gap: `mean......"`
+char_geo: `"From the very beginning,`
+char_geo: ` ......I jumped to make the person that was two stories below taste my heel!!!"`
+char_gap: `"Uungh, ......ooooooo{0}o{0}o{0}o{0}o{0}o{0}o{0}o{0}h{0}h{0}h{0}a{0}a{0}a{0}a{0}a{0}a{0}a{0}a{0}a{0}a{0}a{0}a{0}a{0}a{0}a{0}a{0}a{0}a{0}a{0}a{0}a{0}a{0}a{0}a{0}a{0}a{0}a{0}a{0}a{0}a{0}aahhhhh!!!"`
+char_geo: `"You lose, missy!!!"`
+char_gap: `"Bing‐bong."`
+char_jes: `"Unnggggrrrroooooaaaaaaahhh, take thiiii{-}i{-}i{-}i{-}i{-}i{-}i{-}i{-}i{-}i{-}i{-}iiiss!!!"`
+char_non: `Jessica's last and strongest upwards punch...`
+char_non: `reached the wall,`
+char_non: ` ......and was sucked in.`
+char_non: `It was sucked into the black, large hole that had suddenly opened on the wall.`
+char_ron: `"Well, .........I did advise you to stop."`
+char_jes: `"What.........the............"`
+char_geo: `"......Ghhg............ah......"`
+char_gap: `"Truth is,`
+char_gap: ` .........I was never in even the slightest little bit of trouble.`
+char_gap: ` Soorry..."`
+char_non: `......Jessica's fist had gone for George's stomach,`
+char_non: ` ......and George's axe kick had lined up on Jessica's head.`
+char_non: `The shocking destructive power imbued in Jessica's fist crushed George's organs and scattered his abdomen.`
+char_non: `The equally‐as‐shocking destructive power in George's axe kick smashed half of Jessica's head, and scattered its contents in the same manner......`
+char_gap: `"Pfft, ...ahhahahahahahahahahahaha...!!`
+char_gap: ` I mean, come onnnn.`
+char_gap: ` Witches are all about the acting, riiiiight?`
+char_gap: ` Hey, Riiche, how was it, were you watching...?"`
+char_bea: `"Wahahaha, waaaahhyahhyahhya, aaakkyakkyakkya!!`
+char_bea: ` Not baaad, followed the script to a T!`
+char_bea: ` You really do get it, Gaap!!`
+char_bea: ` Woohoo!!"`
+char_non: `Beato and Gaap gave each other a light high five.`
+char_but: `"......hhh...`
+char_but: `...aaahh...`
+char_but: `............hhhhhhuuAAAA{0}A{0}A{0}A{0}A{0}A{0}A{0}A{0}A{0}A{0}A{0}A{0}A{0}A{0}A{0}A{0}A{0}A{0}A{0}A{0}A{0}A{0}A{0}A{0}A{0}A{0}A{0}A{0}A{0}AAHHH!!!"`
+char_gap: `"Thanks, Ronove.`
+char_gap: ` That was a treat.`
+char_gap: ` I'll return Jessica's corpse back there.`
+char_gap: ` ......Separate the corpses of the two who are close.`
+char_gap: ` ......Is the second twilight done now?"`
+char_non: `Gaap dropped Jessica's corpse into a pit,`
+char_non: ` and chucked all the chunks of meat, too, into Jessica's room,`
+char_non: ` as carelessly as throwing them into the trash...`
+char_non: `Jessica's corpse and lumps of flesh fell from the ceiling and poured out all over her room.`
+char_non: `Ronove shook his head slightly at this all‐too‐gruesome change.`
+char_ron: `"............My apologies, Jessica‐sama.`
+char_ron: ` I did warn you."`
+char_ron: `"Of course,`
+char_ron: ` ...I suppose it's only natural that a {y:0:Human}{n:0:human} like yourself can't understand the demonic pleasure I derive from foreseeing this conclusion and giving you repeated warnings that I know you won't listen to.`
+char_ron: ` ......Pukkuku{0}ku{0}ku{0}ku{0}ku{0}ku{0}kukuku!"`
+char_gap: `"It really was fun, kiddo.`
+char_gap: ` ......But you play with words a little too much.`
+char_gap: ` ......I think ‘If you're ready, may I fight back’ was the absolute classic?`
+char_gap: ` Eheheh, you've been reading a few too many light novels or something, you know?`
+char_gap: ` *giggle*giggle*giggle*!"`
+char_non: `In the arbor brutally decorated by George and Jessica's scattered blood and guts,`
+char_non: ` Gaap enjoyed a loud laugh for a while...`
+char_non: `...But she quickly realized that, in all seriousness, this was a little too filthy and undignified, and she snapped her fingers.`
+char_non: `As she did, gold butterflies rose up from the ground all around the garden,`
+char_non: ` stuck to each of the bits and stained patches of blood, and got them out.`
+char_non: `......Then, bit by bit, they slowly turned back into George's corpse,`
+char_non: ` and the awful corpse with its guts splattered out was repaired into a clean corpse that looked like it was sleeping.`
+char_non: `Was this some kind of post‐mortem sportsmanship towards a good opponent............?`
+char_non: `The heavens were slowly split.`
+char_non: `......Because Gaap had lifted a leg high into the air, pointing at the sky.`
+char_gap: `"So long, lady killer.`
+char_gap: ` This is the real Game Over."`
+char_non: `Squish.`
+char_non: ` ......Without a trace of mercy, that foot was brought down,`
+char_non: ` ......and buried into George's forehead.`
+char_non: `Her stiletto heel, sharp as a weapon, was impaled through George's forehead.`
+char_non: `She......pulled it out with a blorp......`
+char_non: `It was like a mark of proof that Gaap had indeed finished him by her own hand......`
+char_non: `Ronove returned Jessica's corpse to its original form as well.`
+char_non: `{n}......And unlike how it had been with George, he also restored Jessica's life......`
+char_jes: `"...U‐...nff, .........*cough*, *cough*......`
+char_jes: `......what in the.........world......`
+char_jes: ` ......A dream......?"`
+char_ron: `"No, that is wrong.`
+char_ron: ` ......You certainly did pass away, Jessica‐sama.`
+char_ron: ` You should be well aware of the memory of your final moments."`
+char_non: `It was burnt into the back of Jessica's mind.`
+char_non: `......For some reason, she remembered being thrown somewhere, ......and that her head had been smashed by George's heel......`
+char_jes: `"Am I......alive......?"`
+char_ron: `"No, you are dead.`
+char_ron: ` That is merely being postponed for a scant three minutes with my magic.`
+char_ron: ` After three minutes, the magic will end, and you will return to being a tragic corpse with half of its head destroyed."`
+char_jes: `"Wha......t.........?`
+char_jes: ` ......Heh, .........heheheheh......"`
+char_ron: `"Death is brutal.`
+char_ron: ` In most cases, you aren't even given the time to ready your heart.`
+char_ron: ` ......However, I have decided to give you that time, in recognition of your valiant battle.`
+char_ron: ` Use those three minutes to ensure that your lingering attachments to this world are all taken care of."`
+char_jes: `"Or, ......I could use those three minutes to take you down with me......"`
+char_non: `But the power that had been burning inside Jessica's body was now completely lost.`
+char_non: `......Jessica was aware of that herself.`
+char_non: ` She was already dead.`
+char_ron: `"Well then, I will leave you now.`
+char_ron: ` If you would excuse me.`
+char_ron: ` ......It was fun, Jessica‐sama."`
+char_non: `Ronove turned his form into a cloud of gold butterflies, and disappeared.`
+char_non: `All that remained was the sound of the wind and rain, and the figure of Jessica, crouching down against the wall......`
+char_non: `Jessica realized.`
+char_non: ` After three minutes, she probably really would revert to the corpse she had been.`
+char_non: `......In those three minutes, was there anything she could do.........?`
+char_non: `She stood up, and with a shaky gait,`
+char_non: ` ......took the phone that was on the desk...`
+char_but: `"He‐......hello.`
+char_but: ` ......Is that you, Jessica?`
+char_but: ` Jessica?!`
+char_but: ` What is it, are you alright?!?!"`
+char_jes: `".........Heh, ......heheheheh...`
+char_jes: ` ......They...got me......"`
+char_but: `"Are you alright?!`
+char_but: ` Are you hurt?!`
+char_but: ` I'll come help you right now!!"`
+char_jes: `"Nah, ......it's too late.`
+char_jes: ` ...I'm...already dead, apparently...`
+char_jes: ` Ahahaha, by the time you get here, I'll be a corpse with half my head spilled out."`
+char_but: `"God{i:damn} that old man!!`
+char_but: ` Wait right there, I'm coming right now!!"`
+char_jes: `"Listen, Battler!!!`
+char_jes: ` Listen closely, alright...?`
+char_jes: ` .........I know exactly why Gohda‐san and Kumasawa‐san were so awkward talking about the guys who killed the six in the dining hall."`
+char_jes: `".........Those guys, uh...`
+char_jes: `......they aren't...`
+char_jes: `{y:0:Human}{n:0:human}."`
+char_but: `"Wh‐...whaat?!`
+char_but: ` What are you talking about........."`
+char_jes: `"What do you want me to say, man, I frigging saw it, okay?!!`
+char_jes: ` Those guys, they warp, set up barriers, ahhaha, {i:all} of that crap, y'know...?`
+char_jes: ` It's like some manga, some anime, ......seriously, we can't deal with that."`
+char_jes: `"......Ahhahhahhah......`
+char_jes: ` ...It was never gonna happen, fighting them... It's impossible......`
+char_jes: ` That hat‐stand spear you were so proud of, you'd need something way better than that to deal with these guys..."`
+char_non: `A line of blood dripped down from Jessica's forehead......`
+char_jes: `"George nii‐san didn't make it either.`
+char_jes: ` Instant death, that was...`
+char_jes: ` .........Heheh, the next test is yours, Battler.`
+char_jes: ` .........I wonder if your test will be the same as ours......`
+char_jes: ` .........Be careful, ......and don't get it wrong."`
+char_but: `"Y‐you mean the test...?"`
+char_jes: `"No.`
+char_jes: ` .........Don't get it wrong and...`
+char_jes: `...think the enemy's obviously gotta be {y:0:Human}{n:0:human}."`
+char_jes: `".........The enemy...is not {y:0:Human}{n:0:human}.`
+char_jes: ` ...They're demons......who can wield terrifying magic at will."`
+char_jes: `"No matter what, ......don't get that wrong......"`
+char_jes: `"*cough*, *cough*cough*!! Watch......yourself......"`
+char_non: `A line of blood dripped down from Jessica's mouth as well.`
+char_non: `{n}`
+char_non: `......The left half of her head started hurting.`
+char_non: `Jessica realized that she was about to return to the corpse she had been.`
+char_jes: `"...............When thirteen people die, the Golden Witch...revives.`
+char_jes: ` Mom and the others killed earlier were the first six.`
+char_jes: ` That's the first twilight.`
+char_jes: ` ......And with George nii‐san and me dead, that's the second.`
+char_jes: ` ......So if just five more people are killed, the ritual is gonna be complete, ......and the witch will revive."`
+char_jes: `".........I hope Dad and the rest are safe...`
+char_jes: ` ......If they aren't,`
+char_jes: ` .........the one to test you...`
+char_jes: `might be the newly resurrected {f:5:Beatrice} herself..."`
+char_non: `By now, Battler had no idea what Jessica was saying.`
+char_non: `{n}But from her tone, he realized that she knew she was about to die.`
+char_non: `So even though he didn't understand the situation, he urged her to hang on in there.`
+char_jes: `"......Haha, I told you, I'm already dead.`
+char_jes: ` .........See ya.`
+char_jes: ` It looks like time's up.`
+char_jes: ` ......Good luck on your test.`
+char_jes: ` I hope you can...become the head.`
+char_jes: ` ..........................."`
+char_but: `"Jessica?`
+char_but: ` Jessica?!`
+char_but: ` Hey, answer me!!`
+char_but: ` Jessicaaaaaaaaaaa!!"`
+char_non: `Battler's sorrowful voice could be heard from the dangling receiver.`
+char_non: `......Crouching with her back against the adjacent wall...`
+char_non: `{n}......Jessica's head was half smashed.........`
+char_kir: `"Where are we......?"`
+char_cla: `"...Is this...a well......?`
+char_cla: ` Where is this...?"`
+char_non: `Kyrie stuck her face out of the well, and then Krauss showed himself too.`
+char_non: `{n}When he noticed that they could see the back of the mansion beyond a grove of trees, Krauss realized more or less where they were.`
+char_non: `......To think that there had been a hidden underground passage in a well all the way out here,`
+char_non: ` and that it led to a hidden mansion......`
+char_nan: `"Th‐this really is tough on this old body......`
+char_nan: ` ......Ordinarily, you can come up through a different place, with real stairs.`
+char_nan: ` Provided you can unlock it..."`
+char_cla: `"......I have many questions I'd like to ask you about the layout of this place later, Doctor Nanjo.`
+char_cla: ` ......Shannon, are you alright? Grab my hand."`
+char_sha: `"I, ......I'm okay.`
+char_sha: ` Kanon‐kun, quickly."`
+char_non: `Kanon was the last, climbing up the ladder towards them in the shaft disguised as a well.`
+char_non: `{n}......It was probably quite deep.`
+char_non: `When he looked down, for the first time, he realized how far he'd come up.`
+char_s41: `"Nihi. Firing."`
+char_non: `Bang.`
+char_non: `............As Kanon was about to finally crawl out of the well, a hole the size of a basketball opened up in his chest.`
+char_non: `......Everyone there looked through the hole in Kanon's chest to the scenery beyond......`
+char_sha: `"K‐..........Kanon‐kun!!!"`
+char_kan: `"......Ne...`
+char_kan: `...e‐sa...`
+char_kan: `............"`
+char_non: `Kanon toppled backwards,`
+char_non: ` ......and was swallowed up into the depths of the well......`
+char_sha: `"E‐everyone, run for it!!`
+char_sha: ` The Chiester Sisters!!`
+char_sha: ` They've locked on, we can't avoid them!!`
+char_sha: ` Run!!`
+char_sha: ` At least one of us survive...!!!"`
+char_non: `At that time, Krauss, Kyrie, and Nanjo...`
+char_non: `clearly saw a golden curve appear from the well,`
+char_non: ` ......and sew itself through the side of Shannon's head.........`
+char_cla: `"Shannon!!!"`
+char_non: `Head pierced.`
+char_non: ` The three were perfect witnesses to everything, up to and including the opposite side of her head being blasted away into pulp.`
+char_non: `Shannon fell to her knees,`
+char_non: ` .........blood gushing from both sides of her head,`
+char_non: ` and flopped to the ground.`
+char_nan: `"W‐waaaaaaaaaaaaaaahhhhhyaaaaaaaaaahhh!!"`
+char_kir: `"They're after us!!`
+char_kir: ` Run!!`
+char_kir: ` We'll be killed!!"`
+char_cla: `"...R‐run...run run run!!!"`
+char_non: `Nanjo had become paralyzed in fright by the manner of Shannon's death, and the Chiester Sisters would not miss their chance.`
+char_non: `A curve again appeared from the well, and pierced through Nanjo's forehead and out the back of his head in an instant, sewing through him.`
+char_non: `......Thump.`
+char_non: ` And so Nanjo expired.`
+char_cla: `"What on Earth... Why...?!!`
+char_cla: ` Where's the enemy attacking from?!"`
+char_kir: `"We're being sniped!!`
+char_kir: ` I don't know where from, but they have us completely in their sights!!`
+char_kir: ` Escape into the mansion, block their line of sight!!"`
+char_non: `The two dashed into the back entrance of the mansion.`
+char_non: `Then, the instant Krauss tried to shut the door behind him...`
+char_non: `......a golden curve appeared for the fourth time, piercing Krauss from the back of his head out through his forehead, and smashing even his forehead to pieces...`
+char_cla: `"............nngg...`
+char_cla: `.........oohh............"`
+char_kir: `"Eeek!!`
+char_kir: ` Hiyiiiiiiii!!!"`
+char_non: `Krauss's body lurched over, fell down hard, and drew a neat radial pattern with the insides of his head...`
+char_non: `Kyrie ran wildly through the hallway, flew into some room, and locked the door.`
+char_non: `.........But she couldn't imagine for a moment that this would save her life.`
+char_non: `She would probably die soon!`
+char_non: `This was apparently one of the guest rooms.`
+char_non: `{n}......At that moment, a phone on a side table caught Kyrie's eye...`
+char_non: `After hanging up the call from Jessica, Battler was literally just about to dash out.`
+char_non: `In that instant, the phone rang again.`
+char_but: `"H‐hello!!!`
+char_but: ` ...............Huh?`
+char_but: ` Kyrie‐san?!"`
+char_kir: `"......Yes, Battler‐kun.`
+char_kir: ` ......I got lucky.`
+char_kir: ` I managed to escape the dungeon somehow.`
+char_kir: ` I really was fortunate."`
+char_but: `"Where are you?!`
+char_but: ` Is everyone alright?!`
+char_but: ` On our side, it looks like Jessica and George‐aniki are—"`
+char_kir: `"Listen!!!`
+char_kir: ` I probably won't be alive for long."`
+char_non: `Then, right after she got the sudden feeling that the keyhole of the locked door might have glowed gold,`
+char_non: ` a gold, curved line drawing a helix...`
+char_non: `...no, a golden sewing thread...infiltrated the room through there at an incredible speed, and bored a hole into the floor by Kyrie's feet.`
+char_non: `......Oh, that's rare.`
+char_non: `The enemy, who had sniped the other four one after another with extraordinary skill,`
+char_non: ` apparently really does have trouble shooting me between the eyes with a single shot while I'm holed up in this room.`
+char_non: `But the next strike will probably hit......`
+char_non: `At this point, Kyrie finally remembered the initial massacre in the dining hall......`
+char_non: `......That's right......`
+char_non: ` ......This is what killed Rudolf and the rest, all six of them......`
+char_kir: `"......Listen, Battler‐kun.`
+char_kir: ` I'm going to tell you everything exactly as I saw it.`
+char_kir: ` ...I'm sure you'll think that something's gone wrong with my head."`
+char_kir: `"......In fact, it's alright for you to think that.`
+char_kir: ` Even I still haven't come to terms with what it was I saw."`
+char_kir: `".........Today,`
+char_kir: ` after you all returned to the guesthouse, the family conference began in the dining hall,`
+char_kir: ` ......and I'll tell you everything that happened next."`
+char_kir: `"Listen until the end without butting in.`
+char_kir: ` ............The call might suddenly be cut off partway through.`
+char_kir: ` If it is, that's the moment I was killed."`
+char_but: `".........Kyrie......san......"`
+char_non: `Then, Kyrie spoke...`
+char_non: `......about how Kinzo had come, the family conference had started,`
+char_non: ` ......the six had been killed, and the five of them had been confined.`
+char_non: `......About how she had escaped somehow, and made it to where she was now,`
+char_non: ` and how everyone had finally been killed—all spoken dispassionately, as she had seen it, with no dramatization.`
+char_non: `......She even spoke about how everyone except her had been killed, and how she had observed the moments of all their deaths,`
+char_non: ` ......and how, even this very moment, someone was trying to kill her.`
+char_kir: `"............Actually,`
+char_kir: ` even while we've been talking, ...I've been attacked three times.`
+char_kir: ` Something like a strange gold thread keeps flying in through the keyhole, spinning around and aiming for me."`
+char_kir: `"First it was by my feet.`
+char_kir: ` ......Next, it was close to my shoulders.`
+char_kir: ` ......Just now, it grazed my ear.`
+char_kir: ` ......Its aim is getting more and more accurate.`
+char_kir: ` Looks like it'll go right between my eyes pretty soon......"`
+char_but: `"R‐run, Kyrie‐san...!!`
+char_but: ` Run awaaaaaaaaaaay!!!"`
+char_kir: `"Where to?`
+char_kir: ` ......You realize,`
+char_kir: ` ...I've managed to run all the way here,`
+char_kir: ` ......shut myself into a room, and even locked the door......?`
+char_kir: ` .........And I'm still being targeted.`
+char_kir: ` .........Just where am I meant to hide...?`
+char_kir: ` ......Seriously......"`
+char_but: `"Ky......`
+char_but: `ri...`
+char_but: `e...`
+char_but: `...san........."`
+char_kir: `"Battler‐kun...`
+char_kir: ` Are Jessica‐chan and George‐kun......still alive?"`
+char_but: `".....................`
+char_but: ` ......Just now, ...there was a phone call from Jessica...`
+char_but: ` .........It kinda......sounded like they were...done for......"`
+char_kir: `".........Thought so.`
+char_kir: ` ......Yeah, when we five were being killed one after another, I had a kind of premonition.`
+char_kir: ` ......I thought that perhaps the second twilight had been finished in the thirteen‐person murder ritual, and that our twilights had been reached."`
+char_kir: `".........In other words, when I die, that's thirteen.`
+char_kir: ` Then the ritual will be complete.`
+char_kir: ` ......The Golden Witch, {f:5:Beatrice}, will be resurrected."`
+char_kir: `".........I wonder what will happen.`
+char_kir: ` ......On this island filled with demons and witches, and swarming with goat monsters,`
+char_kir: ` ......when even the boss of them all, the Golden Witch, appears,`
+char_kir: ` .........I wonder just what in the world will happen...`
+char_kir: ` ......At this point,`
+char_kir: ` I can't...`
+char_kir: `......make any sense of anything anymore."`
+char_non: `Kyrie‐san's voice......had given up, completely, on her own life.`
+char_non: `And because Battler could tell that,`
+char_non: ` ......he couldn't stop the tears......`
+char_kir: `"......I did have just one thing...I can advise you on."`
+char_but: `"What...?"`
+char_kir: `".........Even if...`
+char_kir: `a demon or a witch does appear in front of you..."`
+char_but: `"Yeah..."`
+char_kir: `"There's no need whatsoever to doubt what they are.`
+char_kir: ` ......Understand that they are what they seem."`
+char_but: `"........................"`
+char_kir: `"You might think that there should be some trick, or that there's some true identity behind it.`
+char_kir: ` ......If you have the time to think of something like that,`
+char_kir: ` ......it would be much more constructive to think of how not to damage the mood of whatever you're facing."`
+char_kir: `"......Even mistakenly, ...you must not say "Prove it then, show me some magic"...`
+char_kir: ` ......They will probably use a method of utmost cruelty...`
+char_kir: `...to show you the proof."`
+char_but: `"......I can't...`
+char_but: `...believe it......`
+char_but: ` ......I never thought...`
+char_but: `...I'd hear something like that coming from your mouth...`
+char_but: ` ......I can't believe it........."`
+char_kir: `"I understand.`
+char_kir: ` That it's unbelievable.`
+char_kir: ` ......That's why...that's the only advice I can give to you.`
+char_kir: ` ......{i:Believe}."`
+char_but: `".........You're telling me to believe in {f:5:Beatrice}...and demons and witches and monsters......?"`
+char_kir: `"Probably,`
+char_kir: ` ......even after being so clearly shown all those things not of this world,`
+char_kir: ` ......we still weren't able to believe any of it, I think."`
+char_kir: `"......I'm like that even now.`
+char_kir: ` ......The true form of this thing that keeps attacking me, trying to shoot through my forehead,`
+char_kir: ` ......is something I can't understand,`
+char_kir: ` .........and I can't believe."`
+char_kir: `"So,`
+char_kir: ` ......I want you at least to believe, to understand,`
+char_kir: ` .........and to accept that being which...`
+char_kir: `...we couldn't fully accept.`
+char_kir: ` If you do that for me, our deaths won't have been in vain.`
+char_kir: ` .........It'll also have been worth it for me to make this phone call...`
+char_kir: ` ......Ah...!"`
+char_but: `"K‐Kyrie‐san?!?!"`
+char_kir: `"......I'm still okay.`
+char_kir: ` It grazed me, but it missed again.`
+char_kir: ` ......I very much doubt...`
+char_kir: `.........that I'll survive the next one.`
+char_kir: ` .........Thank you.`
+char_kir: ` And goodbye, Battler‐kun.`
+char_kir: ` ......I was once cold towards you because you were Asumu‐san's son.`
+char_kir: ` ......Forgive me...for those days."`
+char_but: `"What do you mean, {i:forgive} you? Kyrie‐san, you are a {i:mother} to me now!!"`
+char_non: `I felt as though I heard an incredible sound at the other end of the receiver.`
+char_non: `{n}And then, a noisy clattering sound.`
+char_non: `......As though the receiver had fallen to the floor.`
+char_but: `"Kyrie‐san?!?!`
+char_but: ` Kyrie‐san!!!`
+char_but: ` Aaaaaaaaaaaaaaaaaaaaaahhhhhhh!!"`
+char_non: `.........Kyrie‐san never...`
+char_non: `......responded through the phone...`
+char_non: `.........again.........`

@@ -1,0 +1,794 @@
+char_non: `After we chased them out, ......nobody said another word.`
+char_non: `...We had exiled all of the suspicious ones.`
+char_non: ` Even though we had known that there might be some innocents among them, we had exiled them all the same.`
+char_non: `......We had chased them out of this paradise,`
+char_non: ` where people didn't have to doubt each other.`
+char_non: `However, our motive for chasing them out had been suspicion of our fellow man—the worst kind of crime for a human.`
+char_non: `......If we had been able to accept the existence of a 19th person, of the witch,`
+char_non: ` ......then we all might still be talking face to face, trusting in each other.`
+char_non: `In that instant,`
+char_non: ` we had agreed to chase out all of the suspicious people.`
+char_non: `......But had that been the right thing to do?`
+char_non: `......During this endless silence, we could do nothing but be quietly tormented by that sin......`
+char_non: `Aunt Natsuhi was facing the door, seated all the way back in her sofa, not letting go of her rifle for even an instant.`
+char_non: `......She would probably spend the night staring at the door without a wink of sleep.`
+char_non: `George‐aniki was gazing through a gap in the closed curtains by the window,`
+char_non: ` looking down at the courtyard and the mansion that surrounded it.`
+char_non: `......Whether he was checking to see if any suspicious shadows would become visible through the window,`
+char_non: ` ...or whether he was engaged in some deep internal conversation, ...I couldn't tell.`
+char_non: `Jessica was sitting at an angle on the sofa next to Aunt Natsuhi's...with a dead expression on her face.`
+char_non: `......And every once in a while, as though she'd just remembered something, she would take out the inhaler that she had used during her asthma attack and stick it in her mouth.`
+char_non: `...I just heard it from Aniki, but,`
+char_non: ` ......apparently Jessica liked Kanon‐kun.`
+char_non: `It seems that it was such a vague thing that she hadn't realized it herself.`
+char_non: `...You know.`
+char_non: ` It's the kind of thing that other people tend to spot before the person in question realizes it.`
+char_non: `...In that case,`
+char_non: ` ......she might have first learned of her feelings when the person she liked died.`
+char_non: `.........It was truly pitiful and sad.`
+char_non: `Come to think of it, ...Kanon‐kun had been the one to hand her that inhaler.`
+char_non: ` ......Maybe she was remembering that.`
+char_non: `As for me, ......I was fishing around Grandfather's study, thinking I'd research the meaning of the magic circle on the second sheet of the letter.`
+char_non: `Even though we were shut up here in a defensive position, my rebellious nature made me want to keep up the offense, find some key to all of this.`
+char_non: `...We have plenty of time until tomorrow morning anyway.`
+char_non: `{n}No matter what I do with that time, no one can find fault with it.`
+char_non: `No one else showed that much interest in this magic circle.`
+char_non: `...Its meaning was unknown, and once we understood it, we were sure to find some message that would cause us unnecessary anguish.`
+char_non: `......I also agreed about this.`
+char_non: `...However, I still couldn't let it go, so I killed time pretending to research it...`
+char_geo: `".........You sure are enthusiastic.`
+char_geo: ` ...Did you find anything that might serve as a hint...?"`
+char_but: `"...Not a thing.`
+char_but: ` The first task is even finding a book written in Japanese.`
+char_but: ` ...Just how many languages could Grandfather read?`
+char_but: ` He's incredible."`
+char_geo: `"Aren't you tired, Battler‐kun?`
+char_geo: ` ......You should take a rest while someone else is staying awake for you.`
+char_geo: ` Aunt Natsuhi may be saying she'll stay vigilant all night, but there's no way her body can handle that.`
+char_geo: ` We should take turns sleeping."`
+char_but: `"Then you sleep first, Aniki.`
+char_but: ` .........I'm gonna keep on with my little research until the drowsiness hits."`
+char_geo: `"......That magic circle?"`
+char_but: `"...Pretty much.`
+char_but: ` We've got plenty of time to kill.`
+char_but: ` ......I thought it'd be interesting to find out what kind of message the great {f:5:Beatrice}‐sama put in it."`
+char_jes: `"............I wouldn't.`
+char_jes: ` Keep that up and you'll get possessed by something weird."`
+char_but: `"Relax.`
+char_but: ` I've been certified by Maria.`
+char_but: ` ...She said I'm utterly lacking any spiritual talent.`
+char_but: ` Ihihi...!"`
+char_jes: `".........Were we too...`
+char_jes: `.........cruel...`
+char_jes: `to Maria?"`
+char_nat: `"............Jessica.`
+char_nat: ` ...You mustn't think that now."`
+char_jes: `"But Mom...`
+char_jes: ` If Maria wasn't involved, and the killer's someone totally different,`
+char_jes: ` ......they're obviously gonna go for the easy targets.`
+char_jes: ` ......If she's killed because of this,`
+char_jes: ` .........then we've just...let her die..."`
+char_non: `A gloomy silence settled once again.`
+char_non: ` ...It looked like Jessica regretted that she'd let her emotions take hold of her and snapped at Maria.`
+char_non: `......She always was like that.`
+char_non: `{n}...Always acted tough, went too far, and regretted it later.`
+char_nat: `"......I understand how you feel, but Maria was in close contact with the culprit,`
+char_nat: ` and what's worse, she seemed to be taking their side with her endless series of mystifying statements.`
+char_nat: ` .........I am relieved that we chased her out."`
+char_but: `"...That's pretty harsh, Aunt Natsuhi.`
+char_but: ` ......Couldn't it just have been the nonsense of a nine‐year‐old girl?"`
+char_non: `Even I thought I was being brazen saying that...`
+char_non: `{n}I myself had thought Maria was creepy on several occasions today, and had doubted her true nature.`
+char_non: `......And when Maria had been chased out of this room, I couldn't deny that I'd felt some relief...`
+char_nat: `"..................If that is the case,`
+char_nat: ` then tomorrow, I will apologize for what I did.`
+char_nat: ` ...I will take full responsibility for chasing them out of this room.`
+char_nat: ` ......This isn't something that the rest of you have to worry about."`
+char_non: `I could feel a tragic determination in Aunt Natsuhi's words.`
+char_non: `{n}......To protect her own daughter, she would resolutely chase out the suspicious ones.`
+char_non: `...And if, as a result, she had left to die those people who had the misfortune to be suspected, so be it.`
+char_non: ` ...She was prepared to take full responsibility.`
+char_but: `"...Why does Maria have to keep saying stuff like that?`
+char_but: ` She's bringing about her own ruin..."`
+char_geo: `"..................I think that the reason Maria‐chan adores witches and magic so much...`
+char_geo: `......might be because of Auntie Rosa."`
+char_but: `"Because of Auntie Rosa?`
+char_but: ` What does she have to do with this?"`
+char_geo: `"......I think you must have realized it too, Battler‐kun.`
+char_geo: ` ...Maria‐chan's real father ran off somewhere a long time ago.`
+char_geo: ` ...Although Auntie's trying to cover it up by saying he's on a foreign business trip."`
+char_nat: `"............Talking about Rosa‐san's family has become a kind of taboo in the Ushiromiya family."`
+char_geo: `"I think Auntie even thought about remarrying.`
+char_geo: ` ......But I also believe Maria‐chan may have become her shackles and made that quite difficult.`
+char_geo: ` ............After all, she sometimes...`
+char_geo: `got incredibly emotional and took it all out on Maria‐chan."`
+char_jes: `"............I agree with you there.`
+char_jes: ` ......It looked like Auntie Rosa was trying hard to like Maria."`
+char_jes: `"......Which means...`
+char_jes: `...that she didn't really like her.`
+char_jes: ` .........I'll bet she had some strong thoughts about Maria, standing in the way of her getting remarried..."`
+char_geo: `"...I think that the emotional rejection from her mother must have left some deep scars on her young heart.`
+char_geo: ` ......So when she learned about this occult hobby from somewhere, she immersed herself in it so she could fill the holes in her heart."`
+char_geo: `"......Did you know?`
+char_geo: ` To Maria‐chan, the image of a witch isn't negative at all.`
+char_geo: ` ...Remember yesterday, at the beach, when she showed us her notebook...?"`
+char_but: `"......Yeah.`
+char_but: ` ...It was full of all those fun‐looking scribbles."`
+char_non: `Yesterday, when we had doubted the witch down by the beach...`
+char_non: `{n}...Maria had gotten all riled up and started explaining about witches.`
+char_non: `And not one of the pages had shown a picture of an ugly witch.`
+char_non: `They were all brightly colored, beautiful, cute witches who looked like they were having fun.`
+char_non: `There was absolutely nothing sinister about them, like a boy might have imagined;`
+char_non: ` ...they were beings adorned with beautiful dresses, who could grant anyone's dreams with their mysterious magic and who made everyone happy.`
+char_non: `......The sorrow of not being loved by her mother.`
+char_non: `...Had Maria sought salvation from the witches as beings who could save her from that sorrow and make her happy?`
+char_non: `Someday a witch would come, and using her wonderful magic, would bring Maria happiness.`
+char_non: `......Even though she believed that, as she grew older, she had to face reality as her fleeting dreams were sliced to ribbons one by one.`
+char_non: `.........If, in front of a girl like that,`
+char_non: ` something claiming to be the witch of Rokkenjima appeared,`
+char_non: ` and whispered that she would take Maria to the Golden Land, where Maria could be happy...`
+char_geo: `"...........................`
+char_geo: ` ......I...`
+char_geo: `......think it's time I confessed what's in my heart.`
+char_geo: ` ......Maybe throwing out Maria‐chan,`
+char_geo: ` ......no, ......Genji‐san and the rest too,`
+char_geo: ` ......was probably...the wrong thing to do..."`
+char_jes: `"...............I do feel...`
+char_jes: `......guilty..."`
+char_non: `Since Jessica had been the one to face them and slam them with words of rejection,`
+char_non: ` ...her conscience must be tormenting her a lot right now.`
+char_nat: `"Then, how do you all explain that letter?`
+char_nat: ` No one could have set it there except the four people standing behind me.`
+char_nat: ` I was able to see that quite clearly with my own eyes."`
+char_nat: `"...If those four are innocent, how was that letter placed there in a locked room with eight people in it?"`
+char_but: `"............That's just it...`
+char_but: ` ......When you put it that way, those four really do seem suspicious.`
+char_but: ` .........But."`
+char_but: `"...{i:That's no goddamn good}.`
+char_but: ` Yeah, {i:it's no goddamn good at all}..."`
+char_geo: `"No good? ...What is?"`
+char_but: `"Right.`
+char_but: ` .........It might not be worth anything anymore, but let me flip over the chessboard again.`
+char_but: ` ...What I mean is, if one of those four really is the culprit, it makes no sense."`
+char_jes: `"...........................That's right...`
+char_jes: ` ......Wasn't setting that letter openly on the table the same as confessing that one of them was the culprit?"`
+char_jes: `"...You're right, that makes no sense.`
+char_jes: ` ......If you were gonna do that, you'd put it, like, in the crack of the door, to make it look like someone had slipped it in from the outside!`
+char_jes: ` Yeah, they must've known they'd be suspected if they didn't make it look like the culprit was outside the room!"`
+char_but: `"Yeah, that's it exactly.`
+char_but: ` ...If the culprit was one of those four,`
+char_but: ` setting that letter right in the middle of the table would be both risky and meaningless."`
+char_but: `"............But, putting aside whatever trick they used to set it there,`
+char_but: ` ......if we assume that the culprit is someone other than those four, ...in other words, someone who was outside the room,`
+char_but: ` then they had a lot to gain from that letter..."`
+char_nat: `"...............Stop that, Battler‐kun.`
+char_nat: ` ...At this point, that issue is insignificant."`
+char_non: `Aunt Natsuhi quickly guessed what I was getting at.`
+char_non: `......No, maybe she had thought of it long before I had, and had simply held her tongue...`
+char_but: `"......If the culprit was outside the room, ...then once we shut ourselves up in a locked room where the culprit couldn't touch us, it was all over for them.`
+char_but: ` .........That's right.`
+char_but: ` It's the same as the theory I proposed about how Grandfather disappeared from this room, isn't it?"`
+char_but: `"......That theory that Grandfather left the room of his own accord.`
+char_but: ` ...If the culprit used some tactic to lure him out, and Grandfather left of his own accord, then..."`
+char_non: `Come to think of it, ...even Maria had said it, when we found the scorpion magic circle on the doorknob to the study.`
+char_non: `......{f:5:Beatrice} couldn't get through this door.`
+char_non: `But she might be able to induce someone to leave of their own accord.`
+char_jes: `"......In that case,`
+char_jes: ` ............that would mean we fell for the culprit's trap completely...`
+char_jes: `and sent out some new potential sacrifices..."`
+char_nat: `"............Genji and the rest aren't fools.`
+char_nat: ` If they desired to protect themselves, they would quickly think of the next safest place after this room.`
+char_nat: ` They are surely hiding themselves there."`
+char_non: `Aunt Natsuhi hadn't answered the question.`
+char_non: `......She herself realized that if the culprit wasn't in that group, that letter could easily have been a trap.`
+char_non: `However, it wasn't worth the risk of calling back the people she had once thrown out.`
+char_non: `...To Aunt Natsuhi, right now, her greatest and only duty was to protect the children.........`
+char_non: `And to that end, she was thinking, a few sacrifices may be an unfortunate necessity...`
+char_but: `".........Hey, Aunt Natsuhi.`
+char_but: ` Let me ask something a little difficult, alright?`
+char_but: ` ......If, by coincidence, Jessica had also been standing behind you at that time,`
+char_but: ` .........would you have chased Jessica from the room too?"`
+char_nat: `"......................................."`
+char_but: `"Sure, there may have been a degree of cruelty to it.`
+char_but: ` ...But, as a mother, you thought you should protect your daughter no matter what.`
+char_but: ` And it was out of that duty that you sent them out, fully aware you'd eventually be held responsible for it."`
+char_but: `"............I'm not trying to criticize you for it or anything.`
+char_but: ` I just, umm.`
+char_but: ` .........I was just thinking about what a great mother Jessica has."`
+char_geo: `"......Yes.`
+char_geo: ` ...You've been dealing with these incidents since morning, and you've been pulling all of us along this whole time, without losing your composure."`
+char_geo: `"......If you had been as confused as the rest of us, every last one of us may have been in the culprit's grasp by now.`
+char_geo: ` ...So I think that we all have to thank you."`
+char_nat: `"........................Thank you."`
+char_jes: `"...............`
+char_jes: ` ...So what you're trying to say is...this, right?`
+char_jes: ` .........You want her to act as Maria's mother too......?"`
+char_nat: `"................................."`
+char_jes: `"......I...`
+char_jes: `.........always thought of Maria as a real little sister and adored her.`
+char_jes: ` .........And yet,`
+char_jes: ` ......a bunch of things happened, we got a bit confused...`
+char_jes: ` ......And I said a lot of mean things to her and hurt her..."`
+char_jes: `"..................Mom,`
+char_jes: ` ...please.`
+char_jes: ` .........Let's stay with Maria,`
+char_jes: ` .........no, with everyone...`
+char_jes: ` .........There was no...`
+char_jes: `culprit among us......`
+char_jes: ` Why can't the culprit behind all this...`
+char_jes: `......just be the witch, {f:5:Beatrice}...?`
+char_jes: ` So let's just......stop doubting each other......"`
+char_non: `Aunt Natsuhi closed her eyes for a short while.`
+char_non: `...Was she coping with her throbbing headache again, ...or was she thinking of something...`
+char_nat: `".................................`
+char_nat: ` Jessica,`
+char_nat: ` .........you are my precious daughter, ......the daughter I was finally blessed with a whole twelve years after I married my husband.`
+char_nat: ` I would become the worst kind of demon to protect you."`
+char_non: `That was some pretty strong language at the end there...`
+char_non: `{n}She realized very well that these were only words, but even so, she was strongly resolved to protect her daughter even if she had to become a demon.`
+char_non: `............But that was because she was tormented by guilt.`
+char_non: `.........Today had been so long.`
+char_non: `{n}...So many things had happened in one day, ...and we had been put under such pressure...`
+char_non: `......I wonder if we have the right to greet tomorrow the way we are now......`
+char_non: `...............Th‐...There it is.`
+char_but: `"......I found it.`
+char_but: ` ...It's this magic circle."`
+char_non: `Within the books I had been constantly flipping through, I had finally found the same magic circle that had been drawn on the second sheet of the letter.`
+char_non: `George‐aniki peered at it as well.`
+char_non: `This magic circle's name was......the third magic circle of Mars.`
+char_non: `The Hebrew written on it was from the Old Testament's Book of Psalms, Psalm 77, verse 13.`
+char_non: `"What god is so great as our God?"`
+char_non: `The meaning of the magic circle was...`
+char_non: `......“discord”.`
+char_non: `{n}...It agitates internal divisions and causes the enemy to bring about their own downfall.`
+char_but: `"............Whoa, whoa...`
+char_but: ` Seriously......?"`
+char_non: `Could there be a more fitting way to describe our current situation and mental state?`
+char_non: `We couldn't help but be stunned into silence.`
+char_jes: `"......So......this letter was a trap...?!`
+char_jes: ` How'd they put it here?!`
+char_jes: ` There wasn't anyone in this room except for us eight!"`
+char_but: `"A‐anyway, let's ignore how they got it in here for now.`
+char_but: ` ......The culprit was after just one thing!`
+char_but: ` They wanted to spread the seeds of doubt inside this impregnable study and use us to throw the sacrificial sheep out...!!"`
+char_geo: `"In that case...what they're after...is the people who went out of the room......!!"`
+char_jes: `"M‐Mom, ......what should we do?!!`
+char_jes: ` Those four are in danger...!"`
+char_nat: `"...................................."`
+char_non: `It wasn't surprising that Aunt Natsuhi remained unpleasantly silent.`
+char_non: `{n}...Even if this was all a trap by the culprit, even if the four who had been chased out of the room were in danger,`
+char_non: ` it had nothing to do with the safety of the four people in here.`
+char_non: `And there was no way to prove the innocence of the four people we had kicked out.`
+char_non: `{n}......If we're willing to let them die, then we shouldn't leave this room no matter what.`
+char_non: ` ...That way is...safest!!`
+char_non: `Just then, all of a sudden, the piercing sound of a phone rang through the room.`
+char_non: `It was the antique extension phone that was set on Grandfather's study desk.`
+char_non: `......It had started ringing right as we began this conversation.`
+char_non: `{n}It was only natural that we would think it an SOS from the others we had kicked out.`
+char_non: `But then Aunt Natsuhi spoke.`
+char_nat: `"How, .........how can the telephone be—?!`
+char_nat: ` It should be broken down and unusable...!!"`
+char_but: `"That doesn't matter...!`
+char_but: ` If that's Maria and the others calling for help...!"`
+char_nat: `"If the problem with the phones was the culprit's work in the first place......`
+char_nat: `then this phone call is...`
+char_nat: `......more than likely......"`
+char_non: `With that one sentence, the ring of the phone, which had sounded like a scream for help...started to sound like a ghastly summons from some unknown person...!`
+char_non: `Aunt Natsuhi hesitated over whether to pick up the receiver.`
+char_geo: `"Le‐let's take it, Auntie...!`
+char_geo: ` The phones might have been fixed for some reason...`
+char_geo: ` It could still be an urgent call from Maria‐chan and the rest...!"`
+char_jes: `"That's right...!`
+char_jes: ` And on the slight chance that it is a call from the killer, bring it on!`
+char_jes: ` Let 'em friggin' talk...!`
+char_jes: ` It's just a phone call.`
+char_jes: ` No matter what they babble through the receiver, it's not like it's gonna hurt you...!!"`
+char_but: `"......If you won't pick it up,`
+char_but: ` ......then I will......!"`
+char_nat: `"I, ......I will take it.`
+char_nat: ` ......Hello?"`
+char_non: `I stretched out my hand to take the receiver, but Aunt Natsuhi picked it up first as if to say she had it under control.`
+char_non: `...We all held our breath, trying to figure out who the person on the other end of the phone was...`
+char_non: `But for a while, Aunt Natsuhi just kept saying "hello".`
+char_non: `.........A silent phone call...?`
+char_non: `{n}There's no way Maria and the others would do something so creepy.`
+char_non: `......Which means...`
+char_non: `...this phone call...`
+char_non: ` .........Might it possibly,`
+char_non: ` ...really.........`
+char_non: `Natsuhi stopped repeating "hello" and strained her ears.`
+char_non: `.........Because she thought she heard something far away on the other end of the receiver.`
+char_non: `............What was it......?`
+char_nat: `"......Huh?`
+char_nat: ` .....................Is someone...`
+char_nat: `...............singing...?"`
+char_geo: `"What do you mean......singing?"`
+char_nat: `".........I don't know.`
+char_nat: ` Faintly, from the other end of the phone, ......I can hear someone singing......`
+char_nat: ` I wonder what...it could be......"`
+char_but: `"G‐give it here for a sec...`
+char_but: ` Hello?!`
+char_but: ` .................................?!"`
+char_non: `I half forced the receiver from the stunned Aunt Natsuhi's hand and pressed it against my ear.`
+char_non: `...............At first, I didn't hear anything.`
+char_non: `...But, ......because I had been told about it beforehand, I noticed.`
+char_non: `............Not in a quiet voice, but rather, far away from the receiver,`
+char_non: ` ...............I could hear a girl singing a song.`
+char_non: `......The voice sort of sounded like Maria's, ...but that just made the situation even more inexplicable.`
+char_non: `At the very least, the one who had made the phone call hadn't been Maria.`
+char_non: `{n}After all, Maria was singing some song far away from the receiver.`
+char_non: `......In that case, the one who made the phone call should have been Genji‐san, Kumasawa‐san, or Doctor Nanjo.`
+char_non: `............And yet, they weren't saying anything.`
+char_non: ` ...Why...?`
+char_non: ` For what reason...`
+char_non: ` ............Who was the person who made this phone call......?!?!`
+char_but: `"Hey!!`
+char_but: ` Hello?!!`
+char_but: ` Who is it? Answer me!!`
+char_but: ` Is that Maria singing?!`
+char_but: ` Answer me!!"`
+char_jes: `"Wh‐...what's going on?!`
+char_jes: ` What is it?!"`
+char_but: `"I don't know...!`
+char_but: ` All I can say is,`
+char_but: ` ...this is probably a trap, ......and Maria's in trouble..."`
+char_non: `Aunt Natsuhi took the receiver again, but after calling into it several more times, she realized that she wasn't getting anywhere and hung up.`
+char_non: `She then dialed quickly.`
+char_non: ` ......And clucked her tongue.`
+char_non: `Oh, right, if the phones are back, we should be able to reach the police.`
+char_non: `{n}......But judging by her reaction, the outside line still wouldn't connect.`
+char_geo: `"......Le‐let's go!`
+char_geo: ` Even if we know it might be a trap, we have to go!"`
+char_but: `"Yeah, absolutely!!`
+char_but: ` Jessica, Aunt Natsuhi, stay here!"`
+char_non: `When Aniki and I tried to dash out, Aunt Natsuhi stopped us.`
+char_nat: `"Wait just a minute.`
+char_nat: ` .........I cannot let you go alone.`
+char_nat: ` I will go too.`
+char_nat: ` Jessica, you wait here."`
+char_jes: `"And you'd have me be the only one left out?!`
+char_jes: ` Not a chance, I'm coming too...!!"`
+char_but: `"Yeah, it might be better that way.`
+char_but: ` ...If the goal of that phone call was to split us up further, it wouldn't be a good idea to leave someone to watch this room."`
+char_geo: `"There's no time to argue.`
+char_geo: ` Let's all go!"`
+char_non: `Aunt Natsuhi raised the rifle high and took the lead.`
+char_non: `I needed a weapon myself as well.`
+char_non: `I found a three‐pronged candelabra, which looked like it could be used for some strange ritual, and armed myself with it.`
+char_non: `With the spikes it had to fit the candles on, although they were short, it was almost like a three‐pronged spear.`
+char_non: `Then the four of us left the study.`
+char_non: ` We left the study, which should have been the safest place inside the mansion.`
+char_non: `And so we had been lured out, despite the fact that we had barricaded ourselves in a safe locked room,`
+char_non: ` ...and perhaps, we were even...`
+char_non: `...repeating exactly the same series of events that had led to Grandfather disappearing from there...`
+char_jes: `"Mariaaa!!`
+char_jes: ` Where are youuu?!`
+char_jes: ` Answer meee!!"`
+char_non: `I listened closely, but didn't hear anything...`
+char_non: `{n}The mansion was vast, and the sound of the rain even noisier than before, as if the passing typhoon was making its last stand.`
+char_geo: `"...Maria‐chan said that she wanted to watch TV in the parlor, right?!`
+char_geo: ` Let's try going downstairs!"`
+char_nat: `"............Yes.`
+char_nat: ` Good idea.`
+char_nat: ` ......Everyone, be mindful of your surroundings!"`
+char_but: `"Yeah!!"`
+char_non: `With Aunt Natsuhi in the center, her rifle readied and her finger on the trigger,`
+char_non: ` we moved in a group, our backs together, checking our surroundings in all directions......`
+char_non: `As though the power of that magic circle designed to spread discord had brought it all into being,`
+char_non: ` ...we had split up, and furthermore, had been dragged into dangerous territory.`
+char_non: `......In other words, even now in this very moment, we were doing just what the culprit wanted us to do.`
+char_non: ` ...This was now a strange space where it wouldn't be odd for anything to suddenly occur...`
+char_non: `Aunt Natsuhi nervously pointed the barrel of the gun at every dark spot and shadow.`
+char_non: `It felt like that motion was out of fear rather than caution...`
+char_non: `But the rifle she held in her hand would surely also be our trump card that the killer was afraid of...`
+char_geo: `"......You know, I've been thinking.`
+char_geo: ` ...It wouldn't be impossible to stick one of those "icepicks" into someone's chest, like in Kanon‐kun's case.`
+char_geo: ` ......But splitting the skull and sticking them into the forehead, like it was with my parents, wouldn't be that easy."`
+char_but: `"You think the culprit had that kind of animal strength...?!"`
+char_geo: `"...They probably have some kind of weapon, a device that can shoot or pound in those "icepicks".`
+char_geo: ` That handle was too short to be driven in that deeply by human strength alone."`
+char_nat: `"......Whatever the case, they have enough force to break through a skull.`
+char_nat: ` ...It seems that Kanon's wound even reached his lungs.`
+char_nat: ` ......Even if you see our opponent, do not step out in front.`
+char_nat: ` You must not move away from my back."`
+char_non: `Just how sinister and frightening was this weapon that could shoot those creepy icepicks?`
+char_non: `......And could I do anything to combat it with just this candlestick in my hand?`
+char_non: `In the first murder, the culprit had probably assaulted four of our parents at once as they discussed the inheritance problem in the dining hall.`
+char_non: `{n}...And we also had four people.`
+char_non: `......Apparently, I wasn't the only person thinking this.`
+char_non: `......George‐aniki,`
+char_non: ` Jessica,`
+char_non: ` ...and, of course, Aunt Natsuhi...`
+char_non: `...were stretching their senses to the utmost limit, in the highest and worst state of tension, slowly advancing one step, then another...`
+char_non: `.........Aaah, what sinful people are we...`
+char_non: `...A world as terrifying as this, ......and we pushed Maria and the rest right into the middle of it, just because of the seeds of doubt spread by that single letter...`
+char_non: `We finally reached the first floor.`
+char_non: ` .........The parlor was just across the hall.`
+char_non: `When we listened carefully, .........we could hear it faintly.`
+char_non: `{n}......Maria's eerie singing voice.`
+char_non: `She wasn't singing naturally, as though she were in a good mood.`
+char_non: `.........She was singing mechanically, as if she was in music class in school and had been ordered to sing.`
+char_non: `...The song she was singing was just a common folk song, one that everyone has probably sung in school at one time or another.`
+char_non: `......But why that, in the middle of the night, alone, with all her heart, over and over, why...?!`
+char_non: `When we had just left the study, we had called out in loud voices, asking Maria where she was.`
+char_non: `...But this time, no one said even a single word.`
+char_non: `......We hid our breath and the sound of our footsteps, heightened all our senses, and examined everywhere around us to a neurotic degree......as we advanced each step...`
+char_non: `The door to the parlor was closed.`
+char_non: `{n}But we could hear Maria's singing voice through it...`
+char_non: `Aunt Natsuhi put her hand on the handle of the doorknob...`
+char_non: ` George‐aniki stopped her.`
+char_geo: `"...I'll open the door...`
+char_geo: ` Aunt Natsuhi, Battler‐kun, ready your weapons."`
+char_nat: `"............All right.`
+char_nat: ` ......Be careful."`
+char_jes: `"They might attack as soon as we open it...`
+char_jes: ` George nii‐san, watch yourself...!"`
+char_geo: `"...Sure...`
+char_geo: ` .........OK then, ......here we go...!`
+char_geo: ` ............nn?!"`
+char_non: `He tried to open it, but immediately felt the hard resistance of the lock.`
+char_non: `Aunt Natsuhi took the bundle of keys from her pocket and gave them to George.`
+char_non: `......There were about ten keys, and none of us had a clue which was which.`
+char_non: `Because of this, George had to fumble around loudly and test several of the keys.`
+char_non: `......Since we had hidden our footsteps, preparing to make a surprise attack on the room, this felt almost fatal...`
+char_non: `The whole time, we could hear Maria's voice from the parlor, singing the same song over and over.`
+char_non: `......It was like a broken, crazy cassette tape...`
+char_non: `In the morning, we had been in that room the whole time.`
+char_non: `{n}...All of the frightening things had occurred outside that room.`
+char_non: `{n}...So, we had convinced ourselves that even if nowhere else could be trusted, that room alone was safe.`
+char_non: `.........That baseless impression was quickly falling apart......`
+char_geo: `"............Nn, .........it unlocked."`
+char_nat: `"...Thank you.`
+char_nat: ` George‐kun, Jessica, move behind me."`
+char_but: `"......Auntie.`
+char_but: ` Let's all jump in at once and split up in different directions.`
+char_but: ` If we just stand around after opening the door, those icepicks might fly right through the center...!"`
+char_nat: `"I'm well aware.`
+char_nat: ` .........Ready...?"`
+char_but: `"Ihihi...!`
+char_but: ` Actually, I kinda wish I could call it quits...!"`
+char_non: `I readied myself.`
+char_non: `{n}...If they're going to throw icepicks at me, we'll see how they like my candlestick!!`
+char_nat: `"......Go!!!"`
+char_non: `Aunt Natsuhi and I rammed into the door as we flew into the parlor,`
+char_non: ` quickly splitting up left and right, and searching the parlor for someone who might be waiting for us.`
+char_non: `But what our eyes landed upon...`
+char_non: `.........was an altogether...`
+char_non: `.........outlandish scene...`
+char_non: `The parlor.........was stained with blood.`
+char_non: `This place, where we had spent almost the entire day,`
+char_non: ` where we had pressed in together to protect ourselves from some unknown malice,`
+char_non: ` had become stained with fresh blood, had become an ocean of blood...!!`
+char_non: `On the floor lay Genji‐san, Kumasawa‐san, and Doctor Nanjo, their entire bodies stained bright red with blood...`
+char_non: `.........But the only way we could identify them was by their clothes.`
+char_non: `......That was because......aaah, that's right, this was how this whole tragedy started...!!`
+char_non: `Their faces were all mashed up like Dad and the others in the storehouse, ...and you couldn't even tell where the eyes and noses were!!`
+char_non: `It was like someone had vulgarly gobbled apart a tomato pot stew wrapped in a pie crust, ......all globby and sloppy, ...uuwaaaaaaAAAAAAaaaaaaAAAAaahhh!!`
+char_non: `And that wasn't all.`
+char_non: `{n}Their bodies had other wounds.`
+char_non: `......They were those "demon's icepicks"!`
+char_non: `{n}They were in......Genji‐san's stomach, Doctor Nanjo's thigh—no, his knee?`
+char_non: `{n}Yeah, it would be his knee...! In the epitaph, the sixth twilight was the stomach,`
+char_non: `{n}and on the seventh twilight, it said to gouge the knee!`
+char_non: `So after seeing one of them stuck near Kumasawa baa‐chan's calf, I couldn't help masochistically laughing "yeah, of course it would be"...!!`
+char_non: `On the sixth twilight, gouge the stomach and kill.`
+char_non: `{n}On the seventh twilight, gouge the knee and kill.`
+char_non: `{n}On the eighth twilight, gouge the leg and kill.`
+char_non: `Aaaaaah, ......now even the eighth twilight is over.`
+char_non: ` And the next one, the ninth twilight, ......what was it again...?`
+char_non: `Maria......was there.`
+char_non: `.........She was facing the far wall, ...standing stock still, completely alone.`
+char_non: `Facing away from this horrible scene, standing in front of the wall, singing her song over and over...`
+char_non: `There was nothing else in the room.`
+char_non: `......Just the corpses of the three who had been brutally killed, ...and the receiver, still off its hook, showing that it had been this room that the call had come from.`
+char_non: `.........Just that and Maria, her back to this scene, facing the wall as she kept on singing......`
+char_non: `......We couldn't even scream at this......bizarre scene.`
+char_non: `...We could only stare shocked, our mouths hanging loosely open......`
+char_jes: `"Ma‐.........Maria............?"`
+char_non: `Jessica called out to her.`
+char_non: `...But Maria showed no reaction.`
+char_non: `{n}.........Alone, she kept singing, on and on......`
+char_non: `We had come here trying to save Maria from some approaching danger.`
+char_non: `...So, now that we had found her, we should have been running up to her, hugging her, joyous that she was safe.`
+char_non: ` ......And yet, not one of us could do that...!`
+char_non: `Everyone thought it. But they couldn't say it.`
+char_non: ` After all, because...because...that's right, it's crazy, and yet......but no, it couldn't be.........!!`
+char_but: `"Ma‐......Maria!!`
+char_but: ` Stop singing!!`
+char_but: ` Are you listening?!!"`
+char_non: `At some point, ...Aunt Natsuhi and I had pointed our weapons at Maria's back.`
+char_non: `......I yelled at Maria in a violent voice.`
+char_non: `{n}......But there was no reaction.`
+char_non: `{n}She just kept singing...!!`
+char_non: `With the candlestick still readied, I ran up to her, and forcefully—no, violently slammed my hand down on her shoulder.`
+char_non: ` Then I pulled on her shoulder, forcing her to turn around!`
+char_mar: `"......Uuoa.`
+char_mar: ` ............Uu."`
+char_non: `Maria's small body was quickly pulled down and fell.`
+char_non: `...And, as though unhappy about how her singing had been interrupted, ......she looked into my face with her usual expression.`
+char_non: `Even in this gruesome situation,`
+char_non: ` {i:she was just like normal!!}`
+char_but: `"Maria, what the hell is this?!`
+char_but: ` Who, ...who did this?!"`
+char_mar: `".........Uu.`
+char_mar: ` {f:5:Beatrice}."`
+char_but: `"Enough of that {i:fucking} bullshit!!!"`
+char_non: `I threw the candlestick I had been holding against the wall.`
+char_non: `{n}The violence of that reckless sound should have gone straight into Maria's heart.`
+char_non: `{n}......But her expression didn't change at all!`
+char_geo: `"Battler‐kun, stop!`
+char_geo: ` Maria‐chan, ......this time, you should have seen the face of the culprit who killed these three.`
+char_geo: ` Was the culprit......the same {f:5:Beatrice} who gave you the letter?!"`
+char_mar: `"......Uu.`
+char_mar: ` {f:5:Beatrice}."`
+char_but: `"Well, now we know for sure.`
+char_but: ` There is a 19th person, {f:5:Beatrice} does exist!!"`
+char_but: `"Then, Maria, I'm sure you'll tell me this, at least?`
+char_but: ` How did they kill these three people?`
+char_but: ` What the hell did they do to them to kill them in such a brutal way?!"`
+char_mar: `"......Don't know."`
+char_but: `"How could you not know?!`
+char_but: ` It happened in this room!!`
+char_but: ` Are you trying to tell me you were so absorbed in singing that song that you didn't even notice?!"`
+char_geo: `"Calm down, Battler‐kun!!`
+char_geo: ` Ma‐...Maria‐chan.`
+char_geo: ` Let's you and me have a chat.`
+char_geo: ` ...Okay?"`
+char_non: `George‐aniki, as he always did, crouched down next to Maria so that their eyes met, and talked to her very kindly...`
+char_geo: `"...Maria‐chan, ......can you tell me why were you facing the wall and singing that song...?"`
+char_mar: `".........Uu.`
+char_mar: ` ...{f:5:Beatrice} said to face the wall and keep singing for a long time.`
+char_mar: ` Uu."`
+char_geo: `"So {f:5:Beatrice} came here, then?!`
+char_geo: ` Genji‐san and the rest were still alive at that point, right?!"`
+char_mar: `"......Uu.`
+char_mar: ` We all came into the parlor together and sat down.`
+char_mar: ` ......Genji‐san made sure to lock the door."`
+char_jes: `"It {i:was} locked when we got here......but then, how did {f:5:Beatrice} get into the parlor?!!"`
+char_mar: `"Uu.`
+char_mar: ` But {f:5:Beatrice} is a witch so locks don't matter.`
+char_mar: ` She turned into butterflies and came in through the crack in the door."`
+char_but: `"Huuhh?!`
+char_but: ` Give it a rest with your goddamn jokes!!!`
+char_but: ` Like hell that happened!`
+char_but: ` What are you going on about?!"`
+char_mar: `"Kihhihihihihihihihihihihihihihihihihihi!!`
+char_mar: ` You can't believe it?`
+char_mar: ` That's why I didn't want to say.`
+char_mar: ` Even if I tell you, you don't believe."`
+char_mar: `"But {f:5:Beatrice} is a witch.`
+char_mar: ` She can do anything with her strange magic.`
+char_mar: ` That's why {f:5:Beatrice} doesn't care whether a door is locked or not.`
+char_mar: ` Kihihi{0}hi{0}hi{0}hi{0}hi{0}hi{0}hi{0}hi{0}hi{0}hihi...!"`
+char_geo: `"A‐and then?! After {f:5:Beatrice} appeared, what happened to everyone?!"`
+char_mar: `"......{f:5:Beatrice} talked to us.`
+char_mar: ` She said Grandfather's study was protected by a powerful force, and she couldn't enter no matter what she did.`
+char_mar: ` So she told us she'd select the three sacrifices from the four people in the parlor.`
+char_mar: ` ......They all begged her not to."`
+char_mar: `"Kihihihihihihihihi, Kumasawa‐san kept saying "please, please don't".`
+char_mar: ` But {f:5:Beatrice} chose.`
+char_mar: ` ......And when she did, she said I would be fine.`
+char_mar: ` .........Why do you think?"`
+char_mar: `"It's because I had the scorpion charm with the fifth magic circle of Mars, upon which Battler prayed for my safety and which he put his feelings into.`
+char_mar: ` Because of that power, {f:5:Beatrice} couldn't do anything to me, and me alone."`
+char_mar: `"So she decided to use the other three for the sacrifices.`
+char_mar: ` And then she said this to me."`
+char_non: `{e:070:― Come, face the wall and sing a song for me.`
+char_non: `{n}`
+char_non: `......You will sing lots and lots of songs, so no matter what happens, no matter what you hear, you won't hear you won't hear you won't know.`
+char_non: `{n}`
+char_non: `Come, let me hear many fun songs.}`
+char_mar: `"So I was singing the whole time.`
+char_mar: ` Over and over.`
+char_mar: ` So I didn't hear anything, didn't know anything.`
+char_mar: ` ...And then all of you came.`
+char_mar: ` Uu."`
+char_but: `"You expect me to believe that crap?!`
+char_but: ` Don't take me for a moron!!!"`
+char_mar: `"Kihhihihihihi!`
+char_mar: ` Then who will you suspect this time?`
+char_mar: ` Suspect me?`
+char_mar: ` Try killing me right here?`
+char_mar: ` Even if you do that, {f:5:Beatrice} won't stop "existing".`
+char_mar: ` Now, the eighth twilight is over, and {f:5:Beatrice} will revive!!"`
+char_but: `"No she fucking won't, I'm done with your shit, I've had enough to last me a lifetime!!`
+char_but: ` There's no such thing as witches, that crap won't work on me!!!"`
+char_but: `"I won't accept it, {f:5:Beatrice} doesn't "exist"!!`
+char_but: ` I'll never accept that she does!!`
+char_but: ` So I won't let her exist, I won't let her revive!!`
+char_but: ` The legend's a legend and that's all it's ever gonna be.`
+char_but: ` I won't accept something like that!!!!!!!!"`
+char_jes: `"Battler, stop...!!`
+char_jes: ` It's not like Maria killed them or let them die!!`
+char_jes: ` B‐{f:5:Beatrice} came, and Maria had to obey, unable to resist...!!"`
+char_geo: `"............Huh?!`
+char_geo: ` A‐......Aunt Natsuhi?`
+char_geo: ` Sh‐she isn't here...!"`
+char_but: `"Huh? What?!"`
+char_jes: `"M‐Mom? Where did she go......?!"`
+char_mar: `"...............She went out by herself just now, reading a letter."`
+char_non: `Letter?!`
+char_non: ` Th‐that makes sense, the culprit's done with the eighth twilight and it's all gone swimmingly for them.`
+char_non: `They might well have left a letter so they could brag even more.`
+char_non: `We had been so wrapped up in questioning Maria that we forgot to look for one...!`
+char_non: `But even as well armed as she was, why had she left the room all by herself in this dangerous mansion after reading it?!`
+char_non: `Jessica tried to chase after her and tugged at the handle to the door, but it resisted strangely and wouldn't open...!`
+char_jes: `"Mom, Mom!!"`
+char_jes: `"What's going on?!!`
+char_jes: ` Open... Open...!!!"`
+char_non: `It was only natural.`
+char_non: ` ......Natsuhi had picked up the candlestick, which Battler had thrown at the wall and which had fallen to the floor.`
+char_non: `.........She had then skillfully wedged it between the doorknobs on the double doors like a bolt, holding them closed.`
+char_non: `...The intricate design of the candlestick meant it jammed well, and formed a truly sturdy seal on the door.`
+char_non: `The tragic scream of a daughter for her mother...`
+char_non: `{n}Did it reach Natsuhi's ears, or not...?`
+char_non: `Natsuhi was...`
+char_non: `......alone in the entrance hall.`
+char_non: `It was the place where the portrait of {f:5:Beatrice} had been hung.`
+char_non: `Natsuhi threw down the final letter from {f:5:Beatrice} that she had read in the parlor,`
+char_non: ` readied her rifle again, and in a voice that rang clear, yelled in the massive space that was the entrance hall.`
+char_nat: `"......I am Ushiromiya Natsuhi, representative of the Ushiromiya family!!!`
+char_nat: ` Show yourself,`
+char_nat: ` ...Golden Witch, {f:5:Beatrice}!!!"`
+char_non: `The entrance hall was dimly lit.`
+char_non: ` Other than a faint light which shone on the center of the room, everything was blotted out by the jet‐black darkness.`
+char_non: `......In that darkness,`
+char_non: ` .........butterflies glittering in gold squirmed, twinkled,`
+char_non: ` ......and sneered.`
+char_non: `Natsuhi gave one more huge gulp, and pointed the cold barrel of the gun at the gold butterflies......`
+char_nat: `"............At last...`
+char_nat: `.........you have shown yourself.`
+char_nat: ` ...............I still can't believe...`
+char_nat: `......that something like you really existed...`
+char_nat: ` ......But that isn't a problem."`
+char_nat: `"......Both I, bearing the title of representative to the Ushiromiya family,`
+char_nat: ` and you, claiming to have succeeded the head of the Ushiromiya family, are here right now.`
+char_nat: ` ......At this point, whether you are a witch or not is a trivial problem!"`
+char_nat: `"...............Come,`
+char_nat: ` ...let us settle this.`
+char_nat: ` ...Which of us will truly succeed the Ushiromiya family?`
+char_nat: ` ...Me, Ushiromiya Natsuhi,`
+char_nat: ` ............or you,`
+char_nat: ` ......{f:5:Beatrice}!!`
+char_nat: ` Allow me to respectfully accept your request for a duel...!!"`
+char_non: `The gold butterflies slowly formed a human shape, which walked into the dim light...`
+char_non: `Natsuhi readied the rifle,`
+char_non: ` ......and glared.`
+char_non: `The witch raised her golden staff overhead,`
+char_non: ` ...and laughed.`
+char_non: `Natsuhi's finger...`
+char_non: `slowly squeezed the trigger.........`
+char_but: `"And...gooooooooooooooooo!!!"`
+char_non: `Battler made an all out dash at the door and rammed into it, crushing the candlestick which had been barring it, and making it possible for a big gap to be opened in the door.`
+char_non: `He kept kicking the candlestick through that gap, and the door was finally released.`
+char_non: `At that time, they heard it.`
+char_non: `{n}...They clearly heard, just once, the crisp sound of gunfire...!`
+char_jes: `"Mom!!`
+char_jes: ` Moooooooooooooooom!!!"`
+char_geo: `"Jessica‐chan, you mustn't run off by yourself...!!"`
+char_but: `"That was the sound of a gun just now!!`
+char_but: ` Aunt Natsuhi just shot!!"`
+char_non: `At who?`
+char_non: ` At the culprit!!!`
+char_non: `The noise had come from the entrance hall.`
+char_non: `{n}And the entrance hall......looked like a stage.`
+char_non: `Like the heroine of a tragedy, lying down and bathed in light,`
+char_non: ` .........arrayed in the beauty of that silence,`
+char_non: ` ......Aunt Natsuhi was face up, crumpled on the floor......`
+char_non: `Half‐crazed, Jessica ran up to Aunt Natsuhi.`
+char_non: `...On her forehead,`
+char_non: ` ...it was almost as though a sparkling shard of pigeon's blood ruby had been placed there.`
+char_non: `......And,`
+char_non: ` ......from it, a single stream...`
+char_non: `.........of blood makeup...`
+char_non: `passed by her eye,`
+char_non: ` and began to traverse her face......`
+char_non: `The faint smell of gunpowder smoke came from the barrel of the rifle Aunt Natsuhi still grasped.`
+char_non: `............Huh?`
+char_non: ` Then,`
+char_non: ` .........then,`
+char_non: ` ............she...`
+char_non: `...shot...`
+char_non: `herself......in the forehead...?!`
+char_non: ` Why?!`
+char_jes: `"Mom, Mom Mom!!!`
+char_jes: ` UWAAAAAaaaAAAAaaAAAA!!!"`
+char_but: `"...I, I don't get it!!`
+char_but: ` Why did Auntie run away alone,`
+char_but: ` ......why did she shoot through her own forehead?!"`
+char_geo: `"......Maria‐chan, Aunt Natsuhi read a letter before she left the room, right?!`
+char_geo: ` There's no letter here!`
+char_geo: ` Damn it, what did she read, and why was she lured out here?!"`
+char_jes: `"I don't know I don't know, who cares about that...!!`
+char_jes: ` What the hell, why suicide?!`
+char_jes: ` Why......did you leave me alone?!"`
+char_jes: `"UwaaaaaaAAAAAaaaaaa......!!"`
+char_non: `Jessica clung to her mother's corpse, crying earnestly...`
+char_non: `My body consumed by an anger I didn't know what to do with, I stole the rifle from Aunt Natsuhi's hand,`
+char_non: ` and spun around, pointing the barrel of the gun into the darkness on all sides, as though I was pointing a light from a lighthouse, trying to find the culprit.`
+char_non: `George‐aniki, even in this situation, was trying to calmly figure something out, but that effort might have been doomed to futility.`
+char_non: `............And Maria alone was completely indifferent.`
+char_non: `{n}......Is she treating this as some kind of predetermined fate?`
+char_non: `No, that's not it.`
+char_non: ` This is all......a prelude to a wonderful world.`
+char_non: `The door to the Golden Land will finally...`
+char_non: `open.`
+char_mar: `"......On the ninth twilight, the witch revives, and none shall be left alive.`
+char_mar: ` ......And on the tenth twilight, the journey ends, and you shall reach the Home of the Gold."`
+char_mar: `"......It's all over now, {f:5:Beatrice}.`
+char_mar: ` Congratulations, congratulations.`
+char_mar: ` ...So lead me, lead me to the Golden Land you told me of...`
+char_mar: ` ...Right now......!!"`
+char_non: `There, all of the dead will be resurrected, and even the love they once possessed will be revived.`
+char_non: `{n}............So, in Maria's eyes, it's just as though all of today's tragedies never even happened.`
+char_non: `And all those days she spent deprived of love never happened either.`
+char_but: `"Will you cut that out?!`
+char_but: ` What's so fun, what's to be congratulated?!!`
+char_but: ` There were eighteen people on this island!`
+char_but: ` Fourteen are dead!`
+char_but: ` Only the four of us are left!!"`
+char_but: `"I'm definitely not gonna die!`
+char_but: ` Until the night is over—no, until the typhoon passes, and the seagulls gather again at the harbor, I'm definitely not gonna die!!`
+char_but: ` I'm gonna survive, I'm gonna survive, definitely!!"`
+char_mar: `"............Kihihihihihi.`
+char_mar: ` Give it up, Battler.`
+char_mar: ` ...Guns are meaningless against {f:5:Beatrice}.`
+char_mar: ` Besides, survival and everything else doesn't matter now, because it's over.`
+char_mar: ` {i:The journey has already ended.}`
+char_mar: ` ......See, look at the clock."`
+char_non: `...Huh?`
+char_non: ` The clock?`
+char_non: `{n}Hearing those words, I looked at my wristwatch.`
+char_non: `Both hands were almost touching near the top.`
+char_non: `{n}......Very soon, it would be 12 a.m.`
+char_non: ` ...In other words, 24:00.`
+char_non: `When you think about it, isn't 24:00 a strange time?`
+char_non: `{n}...It can be called 24:00, and it can also be called 0:00.`
+char_non: `It's the hour at the culmination of the previous day, ...and at the same time, it is hour zero as the next day begins.`
+char_mar: `"............{f:5:Beatrice}!!"`
+char_non: `Maria suddenly called out happily, and ran towards the darkness.`
+char_non: `It was almost as though......{f:5:Beatrice} was somewhere in that darkness, and Maria was running up to her.`
+char_non: `As I looked down the barrel of the rifle,`
+char_non: ` as Jessica hugged her mother's corpse,`
+char_non: ` as George‐aniki stood there shocked,`
+char_non: ` ......we gazed into the darkness...`
+char_non: `Our eyes...fixed just in front of {f:5:Beatrice}'s portrait.`
+char_non: `And there, Maria leapt into a hug...`
+char_non: `...with the portrait's...`
+char_non: `subject.`
+char_non: `You've got to be kidding me,`
+char_non: ` ......this is...ridiculous, impossible...`
+char_non: `...This madness can't possibly {i:be},`
+char_non: ` ...witches don't "exist", I won't accept it...!`
+char_non: `Things like you must not "exist",`
+char_non: ` because this is a human world—you think I could accept something that's not human?! Never, I will never!!`
+char_non: `I pulled hard on the rifle's lever; the cartridge was ejected, fell on the floor, and a new cartridge was loaded.`
+char_non: `Then, I sighted the witch down the barrel...`
+char_non: `Maria turned around.`
+char_non: `{n}......Still clinging to the Golden Witch, she turned around.`
+char_mar: `"......Didn't I tell you it's meaningless?`
+char_mar: ` ............Mere lead bullets are meaningless against {f:5:Beatrice}."`
+char_mar: `"......Humans are so stupid, aren't they?`
+char_mar: ` ......Kihihi{0}hi{0}hi{0}hi{0}hi{0}hi{0}hi{0}hi{0}hi{0}hi{0}hi{0}hi{0}hi{0}hi{0}hi{0}hi{0}hi{0}hihi."`
+char_but: `"I won't accept the existence of witches!!`
+char_but: ` Who are you?!!`
+char_but: ` Just try moving one step, just try moving one finger!!`
+char_but: ` I'll blast you away!!!"`
+char_mar: `"Kihihihihihihihihihihihihihihihihihihihihi,`
+char_mar: ` *giggle* *giggle* *giggle* *giggle* *giggle*"`
+char_non: `"*cackle*cackle*cackle*, *cackle*cackle*"`
+char_non: `""Ah ha ha ha ha ha ha ha ha ha ha ha ha ha ha ha ha ha ha ha ha ha ha ha ha!!""`
+char_non: `The laughter of the witch—no, the witches—was joined by the laughter of even the large clock in the hall...`
+char_non: `It was probably telling us that the time was 24:00.`
+char_non: `It was both a tone telling us that we had reached the culmination of this day, and a tone informing us that all had returned to nothing.`
+char_non: `{i:The rules had specified that the witch would win when time ran out}.`
+char_mar: `".........Battler.`
+char_mar: ` ...George onii‐chan and Jessica onee‐chan.`
+char_mar: ` ......The journey...{0}has ended...{0}and the witch...{0}has revived...{0}you see?"`
+char_non: `And {i:none shall be left alive.}`
+char_non: `{e:070:The witch shall praise the wise, and bestow four treasures.`
+char_non: `{n}{n}One shall be all of the Golden Land's gold.`
+char_non: `{n}One resurrects all the dead people's souls.`
+char_non: `{n}One even revives all the love they possessed.`
+char_non: `{n}And one for the witch to eternally rest.`
+char_non: `{n}{n}Rest in peace, my beloved witch, {f:5:Beatrice}}.`

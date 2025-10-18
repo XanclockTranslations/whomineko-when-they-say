@@ -1,0 +1,2707 @@
+char_non: `The world whitened......`
+char_non: `It wasn't "white".`
+char_non: ` ...It was the blindingly bright color of gold.`
+char_non: `That place......was the beautiful Ushiromiya family rose garden.`
+char_non: `However, the roses were all gold.`
+char_non: `......The nectar was also golden.`
+char_non: ` The butterflies gathering there were gold as well.`
+char_non: `............This is...the Golden Land............`
+char_non: `The promised land that the witches of Mariage Sorcière would ultimately be guided to...`
+char_non: `There, all wishes come true, and all magic and dreams come into being.`
+char_non: `............In that garden of gold roses...`
+char_non: `............were two, and only two, witches.`
+char_non: `At my uninvited appearance,`
+char_non: ` the atmosphere trembled with unrest.`
+char_non: `.........What was to them an ominous wind shook the golden roses.`
+char_non: `The incredibly beautiful scene formed by the golden rose petals scattering in the wind...`
+char_non: `was, without a doubt, something not of this world......`
+char_non: `The two who had been taking a walk through the golden roses noticed me and reacted in surprise.`
+char_mar: `"......Ange......?`
+char_mar: ` .........Beato, it's Ange......!!"`
+char_bea: `"...............How did you get here...?`
+char_bea: ` .........Leave us alone.`
+char_bea: ` I no longer invite anyone here."`
+char_non: `Beato spoke coldly.`
+char_non: ` .........She seemed like a completely different person from the boldly sneering woman she had once been.`
+char_non: `She had closed off her heart, and shut herself up in a world where she was alone with Maria onee‐chan.`
+char_non: `A world where she could always be alone with friendly Maria onee‐chan,`
+char_non: ` conversing about magic while drinking tea.`
+char_non: `......No one to hurry them, and nothing to hold them back.`
+char_non: `A world where not a single person who might hurt them existed.`
+char_non: `Yes, to the two of them, that was a small and complete universe......`
+char_enj: `".........Sorry.`
+char_enj: ` ......I can't have you shutting yourself up in here.`
+char_enj: ` .........The game won't move on unless you come back."`
+char_bea: `"I said I was tired of it and I'm done with it.`
+char_bea: ` I will not return to the game anymore."`
+char_mar: `"...............Beato is going to be here all the time with me.`
+char_mar: ` We'll drink tea here together, and think of lots of ways to play...!`
+char_mar: ` You can play with us too, Ange."`
+char_bea: `"......{f:5:Maria}.`
+char_bea: ` We decided against that.`
+char_bea: ` As long as I have you, I am satisfied.`
+char_bea: ` Tell me that you too are satisfied as long as you have me."`
+char_mar: `".....................`
+char_mar: ` ......Yeah.`
+char_mar: ` ......Thank you.`
+char_mar: ` The only person who needs me that much is you, Beato.`
+char_mar: ` So I'll be with you.`
+char_mar: ` Just us is enough."`
+char_bea: `".........{f:5:Maria}...... ......Thank you......`
+char_bea: ` ............I am grateful........."`
+char_non: `Beato held Maria tight,`
+char_non: ` even creating a small, warm universe within their joined arms...`
+char_non: `.........It was probably the birth of the smallest universe in the world.`
+char_non: `{n}...The smallest universe in the world, which a pair who needed each other could create...`
+char_non: `No matter how small it was, that world was complete.`
+char_non: `{n}............But I have to tear it apart.`
+char_non: `{n}.....................`
+char_enj: `"......Sorry,`
+char_enj: ` .........but I can't let things be that way.`
+char_enj: ` I came to smash this Golden Land of Mariage Sorcière."`
+char_bea: `"............Why...`
+char_bea: `...would you break...`
+char_bea: `...my world.........?`
+char_bea: ` Wh‐who has this world inconvenienced, outside Maria and myself......?!"`
+char_enj: `"This game that you started, and then walked away from without finishing,`
+char_enj: ` is keeping Onii‐chan waiting forever!`
+char_enj: ` If you don't return to your seat, the match will never end...!!"`
+char_bea: `".........Hahahahaha...ha...!`
+char_bea: ` There is no longer even a single player in that game.`
+char_bea: ` Battler vanished, and I came here and vanished as well.`
+char_bea: ` That game is already over."`
+char_enj: `"It is not over!`
+char_enj: ` You started that game, didn't you?!!`
+char_enj: ` Take proper responsibility and see it through to the very end!"`
+char_enj: `"Either defeat Battler, and give birth to the world you truly wished for,`
+char_enj: ` or be defeated and release everything swallowed up by your magic!!`
+char_enj: ` Take responsibility until the very end!!"`
+char_mar: `"...............Don't, Ange.`
+char_mar: ` Beato will spend her time in this world with me, just the two of us together for eternity.`
+char_mar: ` ......And I don't need anything else either, as long as I have Beato.`
+char_mar: ` ......All wishes come true here.`
+char_mar: ` Everything is here."`
+char_non: `............This Golden Land is made up of nothing more than the crystallization of Maria onee‐chan and {f:5:Beatrice}'s thoughts and feelings.`
+char_non: `......To drag Beato out of this world,`
+char_non: ` ......I have to...`
+char_non: `...destroy it.........`
+char_non: `..................Destroy this Golden Land,`
+char_non: ` .........which must be the final world of peace for {f:5:Beatrice}......`
+char_enj: `"Onee‐chan. That's wrong.`
+char_enj: ` This Golden Land is a liar.`
+char_enj: ` It hasn't granted the one wish you truly wanted to come true."`
+char_mar: `".........That's not true!!`
+char_mar: ` Everything is granted here!`
+char_mar: ` Look, there's even a nice Mama here!!"`
+char_non: `Gold butterflies gathered behind Maria,`
+char_non: ` forming into a kindly smiling Aunt Rosa.`
+char_non: `.........And after smiling sweetly at me,`
+char_non: ` she softly became golden petals and crumbled.`
+char_mar: `"Anything can be created here.`
+char_mar: ` Even you can be, and Battler, and George onii‐chan, and Jessica onee‐chan...!!`
+char_mar: ` You can summon as many as you want, and everyone is nice...!!`
+char_mar: ` You come too, Ange, let's play together......!!"`
+char_non: `............Sorry, Onee‐chan............`
+char_enj: `"And what about Sakutarou......?"`
+char_mar: `".........—"`
+char_non: `Upon hearing Sakutarou's name, Onee‐chan's face looked like she was choking.`
+char_bea: `"Stop it......`
+char_bea: ` Do not speak that name......"`
+char_non: `Beato's expression changed as well.`
+char_non: `{n}And she put her arm around Maria, hugging her as if to protect her.`
+char_non: `.........Sakutarou's name was still taboo for Onee‐chan.`
+char_enj: `"Why can't I say it?`
+char_enj: ` It's the name of Maria onee‐chan's best friend."`
+char_enj: `"......Why won't you invite that close friend to this wonderful Golden Land?`
+char_enj: ` Why, in this Golden Land where all wishes come true, is Sakutarou the only one you can't summon?"`
+char_bea: `"Th‐...that's because......`
+char_bea: ` ......It's alright, {f:5:Maria}.`
+char_bea: ` You don't have to remember Sakutarou—"`
+char_mar: `"............Sakutaro was killed by Mama!!!!"`
+char_non: `Maria onee‐chan flew into a rage with a terrible expression on her face.`
+char_non: `Surprised by that voice, butterflies flew up throughout the garden,`
+char_non: ` ......blowing around like a typhoon of flower petals.`
+char_enj: `"Yes, I know.`
+char_enj: ` Aunt Rosa......took your precious stuffed animal Sakutarou, and tore him apart......!!"`
+char_mar: `"GYAAAAAAAaaaAAAAAAAAAAaAAAaaAAHHHH!!!"`
+char_non: `Maria's scream became a storm and violently scattered the golden petals and leaves.`
+char_non: `It was truly a storm of gold.`
+char_bea: `"Stop...!!`
+char_bea: ` Stop stop stop...!!!`
+char_bea: ` Why are you trying to reopen the wound in {f:5:Maria}'s heart...?!`
+char_bea: ` Don't defile the sleep of a dear friend precious to both Maria and myself...!!"`
+char_enj: `"In that case, why won't you revive that precious friend for her with your magic?"`
+char_bea: `"I would have if I could...!!`
+char_bea: ` But that stuffed animal was an article Rosa created herself!`
+char_bea: ` The magical meaning of that unique object being torn apart is—"`
+char_enj: `"You aren't fooling anyone.`
+char_enj: ` Why can't you revive Sakutarou?`
+char_enj: ` There's only one answer.`
+char_enj: ` It's because you aren't a real witch!"`
+char_bea: `".........I most certainly can revive him...!!`
+char_bea: ` With my magic, I can revive him as often as I want, like this!!"`
+char_bea: `"I could even bury this garden in Sakutarous...!!"`
+char_enj: `"Yeah, I'll bet you could, with your magic!`
+char_enj: ` But Onee‐chan definitely wouldn't be able to see the Sakutarous you create!"`
+char_enj: `"............You know why, right?`
+char_enj: ` I'll say it again.`
+char_enj: ` It's because you aren't a real witch...!!"`
+char_mar: `"Stop iiiiiiiiiit!!`
+char_mar: ` Why do you keep saying such mean things, Ange...?!`
+char_mar: ` Beato can use a lot of magic...!`
+char_mar: ` She's a very wonderful witch...!!"`
+char_mar: `"Sakutaro was the one thing she couldn't revive, ......but she can do anything else...!!`
+char_mar: ` So I can......put up with...`
+char_mar: `not having Sakutaro......"`
+char_enj: `"No, Onee‐chan, that's wrong.`
+char_enj: ` .........There's nothing a witch can't do.`
+char_enj: ` As soon as she couldn't do that,`
+char_enj: ` {f:5:Beatrice} was not a real witch."`
+char_mar: `"Tha‐that's wrong......!!`
+char_mar: ` It's because Sakutaro's stuffed animal vessel was something Mama made by hand herself, and—"`
+char_enj: `"And that's why she can't revive him?`
+char_enj: ` Is {f:5:Beatrice}'s... Is your magic that inconvenient?"`
+char_bea: `"Gah, .........i‐......in that case, ......do you claim that you {i:can} revive Sakutarou?!`
+char_bea: ` Can you do that with your magic?!"`
+char_enj: `"I can."`
+char_bea: `".........What........."`
+char_enj: `"Maria onee‐chan!!`
+char_enj: ` I'll show you some real magic.`
+char_enj: ` I'll revive Sakutarou for you!!"`
+char_mar: `"......Re‐`
+char_mar: `.........really......?`
+char_mar: ` Even {f:5:Beatrice} couldn't do it, you know......?`
+char_mar: ` ...Ca‐`
+char_mar: `.........can you really......?!"`
+char_enj: `"Yes, I can!`
+char_enj: ` In exchange, promise me.`
+char_enj: ` Once I've revived Sakutarou..."`
+char_mar: `"Yes...!"`
+char_enj: `"Leave this Golden Land."`
+char_mar: `"............!"`
+char_bea: `"I, I will not permit that...!!`
+char_bea: ` This world is {f:5:Maria}'s and mine together!!`
+char_bea: ` If {f:5:Maria} leaves,`
+char_bea: ` ......it will break...!!"`
+char_non: `The minimum amount of {y:0:Human}{n:0:human}s it takes to create a universe is two.`
+char_non: `{n}If that breaks down, the world is destroyed.`
+char_non: `To drag out the witch who shut herself away in the Golden Land, I have to destroy this world...!`
+char_enj: `"......Yes, and that is the proof that you are not a witch.`
+char_enj: ` ......A real witch can create a universe alone."`
+char_enj: `"The Mariage Sorcière Alliance of Witches!`
+char_enj: ` ......The very existence of this alliance proves that you are not a witch...!!"`
+char_bea: `"N‐no...!!`
+char_bea: ` I will not give up {f:5:Maria}...!!`
+char_bea: ` I hate you, leave right now...!!`
+char_bea: ` Get out of heeeeeeeeeere!!"`
+char_enj: `"Dragging everyone into a game of your own accord, then getting bored and chasing them out when your mood changes!!`
+char_enj: ` How selfish can you be?"`
+char_enj: `"Watch and learn, {f:5:Beatrice}!!`
+char_enj: ` And you, Maria onee‐chan!!`
+char_enj: ` This...is true magic.........!!!"`
+char_mar: `"Ca‐......can you really revive Sakutaro...?!"`
+char_bea: `"There's no way!!`
+char_bea: ` This is a Golden Land for Maria and me alone...!`
+char_bea: ` There is not a single piece of magic that an outsider like you could use here!`
+char_bea: ` As you are now, you couldn't even create a single butterfly!!"`
+char_mar: `"Be quiet, Beato!!`
+char_mar: ` Don't get in Ange's way...!!"`
+char_non: `When Maria yelled,`
+char_non: ` ......the storm abruptly stopped, and the area returned to silence.`
+char_non: `.........As the massive amount of golden petals that had been blown upwards quietly drifted down,`
+char_non: ` ......that scene looked so fantastical, as though a golden snow was falling......`
+char_non: `Maria, thinking about this unlikely, if‐only miracle,`
+char_non: ` unconsciously joined her hands together as though praying.`
+char_non: `......Beato's heart raced as she watched Maria do this.`
+char_non: `.........If the extremely unlikely were to happen,`
+char_non: ` ...Maria would,`
+char_non: ` ......this world would......`
+char_non: `But......it's inconceivable......!`
+char_non: ` An absolute impossibility...`
+char_non: `That stuffed animal, the only one of its kind in the world, was torn apart and thrown away,`
+char_non: ` and not a thread remained.`
+char_non: `Reviving it is an absolutely certain impossibility......!!`
+char_non: `{p:1:This is my Golden Land}...!`
+char_non: `{n}`
+char_non: `{p:1:A world where magic that isn't mine certainly cannot exist}!!!`
+char_bea: `"G‐`
+char_bea: `......go right ahead,`
+char_bea: ` ......I defy you to do it, Ushiromiya Angeeeee{-}e{-}e{-}e{-}e{-}e{-}e{-}e{-}e{-}eee!!!"`
+char_non: `At Beato's scream, the world lost its sound.`
+char_non: `I slowly...recited the incantation...for true magic......`
+char_enj: `"...............Come, try to remember.`
+char_enj: ` Maria's close friend Sakutarou."`
+char_enj: `".........Try to remember what form you had."`
+char_enj: `".........Try to remember what a lovable stuffed animal you were."`
+char_mar: `"Huh, ..................ah, ...ah........."`
+char_bea: `"....................................!"`
+char_non: `......Expressions of shock rose to both of their faces.`
+char_non: `Then, ......pushing Beato's elbow aside, Maria dashed forward......`
+char_mar: `".........kutaro.........`
+char_mar: ` .........Sakutarooo.........!!"`
+char_non: `Then,`
+char_non: ` ............she threw her arms around him and me both.`
+char_enj: `"......It's alright.`
+char_enj: ` Sakutarou...won't disappear.`
+char_enj: ` ............`
+char_enj: `{n}`
+char_enj: ` ‘Uryu,`
+char_enj: ` Maria. I'm back.’"`
+char_mar: `"Sakutaro,`
+char_mar: ` ......Sakutaro......`
+char_mar: ` ......uuuuuuuuuuuuuuu,`
+char_mar: ` waaaaaaaaaaaaaaaaaauuuuu!!`
+char_mar: ` Sakutarooooooo......`
+char_mar: ` I missed you......`
+char_mar: `...so much..............."`
+char_non: `It was, unmistakably,`
+char_non: ` .........that lion,`
+char_non: ` ......that Sakutarou stuffed animal.`
+char_non: `Maria had forgotten its softness, its texture, its stitches,`
+char_non: ` .........its everything.`
+char_non: `But,`
+char_non: ` .........the instant she hugged the stuffed animal, everything came back to her vividly......`
+char_sak: `‘Uryu.`
+char_sak: ` Maria,`
+char_sak: ` ......I'm back.’`
+char_mar: `"Sakutaro, Sakutaro...!!`
+char_mar: ` Is your body alright?`
+char_mar: ` You aren't hurting anywhere?`
+char_mar: ` Even though something so......horrible was done to you, you're alright everywhere......?!"`
+char_sak: `‘Uryu...!`
+char_sak: ` Ange revived me with magic, so I'm perfectly fine...!’`
+char_mar: `"I'm so glad......`
+char_mar: ` I'm so glad......`
+char_mar: ` Welcome back, Sakutaro......`
+char_mar: `uuuuuuuuuuuuuuuuuuuuuuuu!!"`
+char_sak: `‘I'll always be with you from now on, Maria.`
+char_sak: ` Together forever.`
+char_sak: ` ......So don't...`
+char_sak: `let go of me, okay.........?’`
+char_mar: `"Yeah, ......won't let go......`
+char_mar: ` ......Never ever....................."`
+char_non: `Then, still hugging Sakutarou,`
+char_non: ` she looked up at me with tear‐filled eyes...`
+char_mar: `"......Thank you, Ange...!`
+char_mar: ` .........Your magic is amazing......`
+char_mar: ` ......Why?`
+char_mar: ` Why were you able to revive Sakutarou?!`
+char_mar: ` Even Beato couldn't do it...!"`
+char_bea: `"..................Impossible...`
+char_bea: ` ......Impossible......`
+char_bea: ` ......How?`
+char_bea: ` ......How can a human other than me use magic in my Golden Land?!?!`
+char_bea: ` This is...`
+char_bea: `......completely impossible.........!"`
+char_enj: `"What are you so flustered about, {f:5:Beatrice}?`
+char_enj: ` ..................This is...magic, right?"`
+char_bea: `"It cannot possibly be magic...!!`
+char_bea: ` {p:1:This is my Golden Land}!!`
+char_bea: ` {p:1:A world where magic that isn't mine certainly cannot exist}!!`
+char_bea: ` And my`
+char_bea: ` {p:1:magic was not able to revive Sakutarou}...!!"`
+char_bea: `"There's no way it could!!`
+char_bea: ` {p:1:That stuffed animal was a special stuffed animal}!`
+char_bea: ` {p:1:Rosa made it for her daughter's birthday, and in the entire world, only one of its kind}—`
+char_bea: `.........—`
+char_bea: `...............u...`
+char_bea: `...............hh......"`
+char_enj: `".....................See,`
+char_enj: ` ...it's magic, right?"`
+char_bea: `"Ah...`
+char_bea: `......oh......`
+char_bea: `......ahh...`
+char_bea: `.........aaahhh,`
+char_bea: ` .........aah...h...hh...hhhh......"`
+char_non: `With this miracle that she could not possibly accept,`
+char_non: ` .........Beato...understood all of my magic......`
+char_non: `And she looked at Maria and Sakutarou innocently frolicking around,`
+char_non: ` ......looked at me,`
+char_non: ` .........and then...`
+char_non: `......fell to her knees,`
+char_non: ` ......with even her hands pressed to the ground,`
+char_non: ` ...............and cried.`
+char_mar: `"{f:5:Beatrice}...! This is really magic, right...?!`
+char_mar: ` It's magic, right?!`
+char_mar: ` {f:5:Beatrice}...!!!"`
+char_bea: `"...............Mm.........`
+char_bea: ` ......It is magic......`
+char_bea: ` ......That is...`
+char_bea: `......true...`
+char_bea: `......magic........."`
+char_mar: `"How can Ange use a magic that even Beato can't do?!`
+char_mar: ` How?!`
+char_mar: ` How?!`
+char_mar: ` Ange's awesome, Ange's an awesome witch!`
+char_mar: ` A real witch who's much, much more amazing than me......!!!"`
+char_enj: `"Yes, that's right, Onee‐chan.`
+char_enj: ` ...............I am the Witch of Resurrection, {f:5:Ange}.`
+char_enj: ` ......There is nothing that cannot be revived by me."`
+char_mar: `"Oh wow, oh wow!!`
+char_mar: ` Even Beato said that the magic of resurrection was the hardest!!`
+char_mar: ` {f:5:Ange}, you're awesome!!`
+char_mar: ` A real real Great Witch......!!!"`
+char_non: `At that moment, Maria's and Sakutarou's forms flashed gold,`
+char_non: ` ......and the two became golden flower petals, and crumbled away......`
+char_non: `As the two became a golden wind and swirled together,`
+char_non: ` .........they left for some other place of peace.`
+char_non: `Beato had, ......as promised, banished Maria from the Golden Land.`
+char_enj: `"......Goodbye, ...Maria onee‐chan.`
+char_enj: ` And be happy forever.`
+char_enj: ` ............It's alright, I'm sure "you" exist in Onee‐chan's world as well.`
+char_enj: ` But that {i:doesn't refer to you}."`
+char_bea: `"...............I am happy for you,`
+char_bea: ` ......Maria......`
+char_bea: ` ......As your close friend,`
+char_bea: ` .........I celebrate this reunion...from the bottom of my heart........."`
+char_non: `On Beato's face......was a mixture of what was probably every expression a human could muster.`
+char_non: `That expression—`
+char_non: `it was joy,`
+char_non: ` it was anger,`
+char_non: ` it was sadness.`
+char_enj: `".........That is the basis of magic, isn't it.`
+char_enj: ` ............Without love,`
+char_enj: ` without sadness,`
+char_enj: ` without anger,`
+char_enj: ` ............magic cannot be {y:1:‘seen’}{n:1:seen}."`
+char_non: `The ground shook.`
+char_non: ` ......An earthquake.`
+char_non: `.........It gradually caused greater and greater fissures,`
+char_non: ` and began to tear {f:5:Beatrice}'s final paradise apart.`
+char_non: `Golden butterflies fluttered about trying to escape, but there was nowhere to escape to.`
+char_non: `{n}...Nor for {f:5:Beatrice}.`
+char_non: `The Golden Land began to crumble away.`
+char_non: `The earth gave way like a floor falling through,`
+char_non: ` .........and {f:5:Beatrice} was sucked into the depths of a jet‐black darkness.`
+char_non: `Then, she was mercilessly slammed against a jet‐black floor.`
+char_non: `......It was a small, nondescript, and very dimly lit smoking room.`
+char_non: `There was no door to exit by, and while there were windows,`
+char_non: ` ......they let no light into this place—{f:5:Beatrice}'s smoking room.`
+char_non: `Even as Beato moaned from the pain of being slammed against that cold hard floor,`
+char_non: ` she shakily rose to her feet......`
+char_non: `A seat was there.`
+char_non: `......And the game table, ......still just as it had been when she had left it.`
+char_non: `The game board, too, was preserved in the same state in which Beato had abandoned it.`
+char_enj: `"That is your seat.`
+char_enj: ` Sit."`
+char_bea: `"...............So, this is the only seat...`
+char_bea: `......for me to sit in........."`
+char_non: `Beato put a hand against her own seat, ......and laughed sadly.`
+char_enj: `"Win, or lose.`
+char_enj: ` That is all you are given.`
+char_enj: ` A tie during the process of reaching that point will probably be permitted."`
+char_enj: `".........But the one thing I will {i:not} allow is for you to suspend the game and throw it away!`
+char_enj: ` Either win and survive, or lose and disappear!`
+char_enj: ` Until one of those two things happens, you will not be permitted to rise from that chair!!"`
+char_enj: `"Isn't that your only duty as the host of a witch's game, as the Golden Witch {f:5:Beatrice}...?!!"`
+char_non: `Laughing weakly, Beato...`
+char_non: `...sat down.`
+char_non: `......Then she rested her elbows on the table, covered her face with both hands,`
+char_non: ` .........and managed to put together a smile with just her mouth.`
+char_bea: `".........Not permitted to escape an unwinnable game.`
+char_bea: ` .........Very well, then.`
+char_bea: ` ......Why don't I repeat this......until I lose......"`
+char_enj: `"Spare me the pity show!`
+char_enj: ` Win.`
+char_enj: ` Use the very best moves you have...!!`
+char_enj: ` You started this game!`
+char_enj: ` You have a duty to make the best moves possible!!`
+char_enj: ` Enough with all this indecisive fooling around!"`
+char_non: `Just then, there was a heavy sound.`
+char_non: `{n}......Beato felt a cold and pitiful sensation on her leg.`
+char_lam: `"......Gotcha...!`
+char_lam: ` I finally got you, eh, Beato~?"`
+char_bea: `"Oh, if it isn't the great Lady {f:5:Lambdadelta}...`
+char_bea: ` .........To think that you were still here."`
+char_non: `Beato's foot was locked in an ice‐cold steel shackle,`
+char_non: ` ......fastening her to the chair she sat in.`
+char_non: `......She would no longer be able to escape from this seat.`
+char_lam: `"Oh‐hoh‐hoh‐ho!`
+char_lam: ` You won't be able to escape anymore, got it?`
+char_lam: ` I'm more persistent than I look. Surprising, huh?"`
+char_bea: `"............I'm more surprised that you weren't already aware of it."`
+char_lam: `"You are not permitted to leave early or suspend the game.`
+char_lam: ` You'll fight for all eternity, in order to win, of course.`
+char_lam: ` .........You don't want to lose, right?`
+char_lam: ` You wanna little peek at the kind of wonderful world you'll be thrown into if you loooose?"`
+char_lam: `"Don't worry...`
+char_lam: ` You can win... {i:Until you do}, I, the great Lady {f:5:Lambdadelta}, will stick right by you and look after you for all eternity...!!"`
+char_bea: `".................................`
+char_bea: ` ......Hmph, ......hahahahaha.`
+char_bea: ` .........But even if I wish to fight, I have no opponent across from me, correct......?"`
+char_ber: `".........It's alright, I've found Battler."`
+char_non: `When {f:5:Bernkastel} appeared and clapped her hands,`
+char_non: ` Battler appeared from the sky and plopped into the opposite chair.`
+char_non: `Battler's eyes were slightly opened, but there was no sparkle in them, almost like a doll.`
+char_non: `Without the one pillar that established his soul,`
+char_non: ` ............he had fallen into the very depths of darkness, and had been drifting about all this time.`
+char_non: `......By rights, he should have dispersed and vanished like mist.`
+char_non: `{f:5:Bernkastel} had managed to scrape him together.`
+char_non: `{n}It was surprising that she had managed to bring him back into a human form.`
+char_non: `However, even though his body had returned, his soul had not.`
+char_non: `{n}......It was blown away when his existence was denied by {f:5:Beatrice}.`
+char_non: `{n}It wouldn't come back easily.`
+char_ber: `"...............Battler won't run from this fight either.`
+char_ber: ` Not until he beats you.`
+char_ber: ` ......We won't permit such boorishness as to throw everything away and run just because the chances of winning have grown slim."`
+char_ber: `"Not even he himself wants that.`
+char_ber: ` ............Right, Ushiromiya Battler...?"`
+char_non: `Battler didn't answer.`
+char_non: ` ......His heart was still...dead.`
+char_non: `His eyes wavered slightly at the question, but he couldn't answer.`
+char_enj: `"Battler...!`
+char_enj: ` Get ahold of yourself!`
+char_enj: ` You are here.`
+char_enj: ` And the enemy is before your eyes...!`
+char_enj: ` Fight!`
+char_enj: ` Fight to win!!"`
+char_non: `Battler lazily and incoherently parroted her words.`
+char_non: `.........He was back.`
+char_non: `But the trauma inflicted on his soul was no small thing.`
+char_non: `That was only natural.`
+char_non: `{n}{f:5:Beatrice} had woven her red, and he had been denied.`
+char_non: `He had learned that the mother he had respected was not his birth mother,`
+char_non: ` .........and he didn't know who he was.`
+char_but: `......I am not...`
+char_but: `...Ushiromiya Battler............`
+char_enj: `"Don't talk stupid!`
+char_enj: ` You are Ushiromiya Battler and no one else!"`
+char_enj: `"No matter who else admits that or denies that, make sure you believe it yourself...!!`
+char_enj: ` You are the only one who can create your own world, you know.`
+char_enj: ` Don't lose the world where you are Ushiromiya Battler!"`
+char_but: `"...............Then,`
+char_but: ` ............who...`
+char_but: `...am I.........?`
+char_but: ` I'm not Mom's kid......`
+char_but: ` Where was I born from......?"`
+char_non: `Battler asked while gazing lazily up at the ceiling, with eyes that still hadn't regained their sparkle.`
+char_non: `Of course, she answered right away.`
+char_enj: `"Yes, that's true.`
+char_enj: ` Beato declared it with the red truth.`
+char_enj: ` ......So I'll declare it too.`
+char_enj: ` {p:1:Ushiromiya Battler is not Ushiromiya Asumu's son}."`
+char_bea: `".........Hmph, ......in that case, he is not qualified to be the opponent in my game, is he..."`
+char_enj: `"Repetition request for {f:5:Beatrice}.`
+char_enj: ` "Ushiromiya Battler is not Ushiromiya Kinzo's grandchild"."`
+char_bea: `".............................."`
+char_non: `As Beato wrinkled her forehead,`
+char_non: ` ......a pained smile rose to her face.`
+char_enj: `"Declining to repeat, I see.`
+char_enj: ` Beato declared two red truths:`
+char_enj: ` "{p:1:You are not Asumu's son}",`
+char_enj: ` and`
+char_enj: ` "{p:1:No one except Kinzo's grandchild Battler is qualified to be her opponent}"."`
+char_enj: `"The following theory will see you accepted as qualified without any contradictions.`
+char_enj: ` This is my blue truth—listen to this...!"`
+char_enj: `{p:2:The one who is qualified to be Beato's opponent is "Kinzo's grandchild, Ushiromiya Battler",}`
+char_enj: ` {p:2:and whether that person is "Asumu's son" or not is not an issue}.`
+char_enj: `{p:2:In other words, you can be Kinzo's grandchild even if you are not Asumu's son}.`
+char_enj: `{p:2:As long as you are Rudolf's son}!`
+char_lam: `"Hmph, what a stupid word game."`
+char_ber: `"...............Blue truth, valid.`
+char_ber: ` Beato, your counterargument with the red truth?`
+char_ber: ` If you cannot counter it with the red truth, there is no problem with Battler's qualifications as an opponent."`
+char_bea: `"................................."`
+char_non: `.........Battler was still out of it.`
+char_non: `{n}He still couldn't really understand what she was saying for him.`
+char_non: `......But even so, his spirit was starting to come back bit by bit...`
+char_but: `"..................Then,`
+char_but: ` ............who...`
+char_but: `......am I......?"`
+char_enj: `"Get ahold of yourself!`
+char_enj: ` You are Ushiromiya Battler!`
+char_enj: ` Yeah, maybe Asumu okaa‐san didn't give birth to you.`
+char_enj: ` But so what?!`
+char_enj: ` That doesn't change in the slightest the fact that she was a mother to you, right?!"`
+char_enj: `".........For example, what is Ushiromiya Ange to you?`
+char_enj: ` You might not share the same blood, but she's still your little sister, right?!`
+char_enj: ` It's not about blood, it's about bonds, isn't it?!"`
+char_but: `"............Well...yeah......`
+char_but: ` ......Even though we don't share the same blood, ......Ange is...`
+char_but: `......my little sister."`
+char_enj: `"Say it in red!`
+char_enj: ` Say that Ange is your little sister!!"`
+char_but: `".........`
+char_but: `{p:1:Ange is......my little sister}.`
+char_but: ` .........ah, ............it worked."`
+char_non: `She hugged Battler, who was still out of it and slumped in his chair, strongly from behind.`
+char_non: ` So strongly that it hurt.`
+char_enj: `"I don't know why Asumu okaa‐san wasn't your birth mother.`
+char_enj: ` But still, until today you believed that she was your mother, and you still do, right?!`
+char_enj: ` In this world, there are plenty of people without even a mother,`
+char_enj: ` ......without even a family!!"`
+char_enj: `"Did Asumu okaa‐san ever let you feel lonely?`
+char_enj: ` Never, right?!`
+char_enj: ` Don't throw your peaceful family away so easily!!`
+char_enj: ` Your family bonds have gotten way too thin after leaving your family for six years!!"`
+char_enj: `"You have to feel those family bonds much, much more strongly!`
+char_enj: ` Remember!!`
+char_enj: ` For Asumu okaa‐san's sake, don't lose your affection because of some stupid ravings from a witch!"`
+char_but: `"...........................`
+char_but: ` .........You're right......`
+char_but: ` ......Mom was......always on my side......"`
+char_but: `"...............Where is this place......?`
+char_but: ` ......It's dark......`
+char_but: ` ......I wanna go home......`
+char_but: ` Where's...`
+char_but: `all of my...`
+char_but: `...family.........?"`
+char_non: `The light still hadn't returned to Battler's eyes.`
+char_non: `{n}But......tears formed there.`
+char_enj: `"Your little sister is waiting at home for you to come back.`
+char_enj: ` She needs you at least to come back, ......or she'll be all alone forever...!`
+char_enj: ` For your little sister's sake if nothing else, please win this witch's game...!!"`
+char_but: `"............Ange......`
+char_but: ` My...`
+char_but: `...little sister.........`
+char_but: ` ......But the thing is...`
+char_but: `......I don't know anymore...`
+char_but: ` .........Why do I...`
+char_but: `have to keep repeating this incomprehensible, cruel game with Beato forever......?`
+char_but: ` ......I've...`
+char_but: `...had enough........."`
+char_enj: `"In that case, hurry up and finish off this game and go back home!!`
+char_enj: ` Ushiromiya Battler, how long are you going to play around in a place like this?!`
+char_enj: ` Your little sister is waiting for you to come home!!!"`
+char_non: `.........That's right.`
+char_non: `Battler was caught up in this strange game before he even knew it.`
+char_non: `And, unable to understand what he was fighting for,`
+char_non: ` he was taken along at the witch's pace, toyed with and made to fight, for a very long time.`
+char_non: `That should have been the simplest and first question.`
+char_non: `......Not understanding that is why he loses his purpose for fighting...!!`
+char_non: `It's why my voice doesn't reach his ears...!`
+char_non: `What he needs is not some vague purpose, like winning against the witch, or because she's unforgivable.`
+char_non: `......He needs to become aware of a purpose for which he {i:must} win.`
+char_but: `".........That's right......`
+char_but: ` ......I want to go home......`
+char_but: ` ......To Mom and Dad,`
+char_but: ` ......and Ange......`
+char_but: ` .........I've had enough,`
+char_but: ` ......enough of this place......`
+char_but: ` ......I've had enough of witches, I've had enough of games and murders......`
+char_but: `......enough,`
+char_but: ` enough......"`
+char_lam: `"Battler's soul...is starting to come back."`
+char_ber: `"...............But it can't quite reach."`
+char_enj: `"You've had enough, right?!`
+char_enj: ` Then fight so you can return to your family!!`
+char_enj: ` Destroy {f:5:Beatrice} and come home!!"`
+char_but: `"No, ......no more witches...!`
+char_but: ` Enough of Beato, ...enough of everything...and you too, you're probably just another one of the witch's allies...`
+char_but: ` I could be betrayed again at any time...!!"`
+char_but: `"{p:1:I can't trust anything, I can't trust any words that aren't red}...!!`
+char_but: ` Leave me alone, leave me alo{-}o{-}o{-}o{-}o{-}o{-}o{-}ooone!!"`
+char_non: `Battler's soul howled.`
+char_non: ` She hugged his head from behind, so tightly that it hurt.`
+char_enj: `"{p:1:Hurry up and come home, Onii‐chan}!!`
+char_enj: ` {p:1:Don't leave me all alone}!!!"`
+char_but: `"...............Huh......?`
+char_but: ` .........Who...`
+char_but: `...............are you......?"`
+char_enj: `"{p:1:It's me, it's Ange}...!!`
+char_enj: ` {p:1:No one's coming back home, Onii‐chan, not you, not Mom, not Dad}!!`
+char_enj: ` {p:1:I'm so lonely}!!`
+char_enj: ` {p:1:Please, hurry up and come home}!"`
+char_but: `"......A‐.........Ange......`
+char_but: ` .........So you were.........Ange............"`
+char_enj: `"{p:1:That's right, I'm Ange}!!`
+char_enj: ` {p:1:The Ushiromiya Ange of a world where no one comes home}...!!`
+char_enj: ` .........{p:1:My entire family...never came home from Rokkenjima that day}...!!"`
+char_enj: `"{p:1:The witch before your eyes stole away my whole family, even you}...!`
+char_enj: ` .........{p:1:Only you can finish her, Onii‐chan}!!`
+char_enj: ` {p:1:Finish her}...!!"`
+char_enj: `"{p:1:And take your family back}!!`
+char_enj: ` {p:1:And then.........come home to me}......!!!"`
+char_but: `"...............Beato stole...`
+char_but: `...my family........."`
+char_bea: `"......Hmph, ............as she says.`
+char_bea: ` I will not run away or hide from it.`
+char_bea: ` ......I stole Ushiromiya Ange's family away from her."`
+char_bea: `"Battler is my toy!`
+char_bea: ` His father and mother too, all of them are my toys.`
+char_bea: ` ......I won't give them back to you.`
+char_bea: ` ......You may continue to wander alone forever, awaiting the return of your family that is never to be......!"`
+char_non: `From Ange's arms that held him, ............the very painful, sad, and lonely days...`
+char_non: `...that his little sister, left all alone, had gone through...flowed into Battler......`
+char_non: `......Because he had been playing around in a place like this,`
+char_non: ` ............his little sister had been left all alone, .........and had been forced to endure...`
+char_non: `.........such painful days...............!!`
+char_but: `"...Ange, .........Ange.........!!`
+char_but: ` Shit, ......I've, .........what have I been doing.........?!!`
+char_but: ` Thanks a bunch, Ange...`
+char_but: ` Onii‐chan......has been forgetting something important this whole time......!"`
+char_non: `Battler tried to turn around,`
+char_non: ` but Ange was clutching his head with an incredible force, so he couldn't.`
+char_non: `......Sweat?`
+char_non: `Hot drops splashed the back of Battler's neck.`
+char_non: `......What they were...he discovered by holding Ange's arm as she clung to him.`
+char_non: `.........Because it stained Battler's hand...his fingers...red.`
+char_but: `".........Blood...`
+char_but: ` ......A‐Ange?!`
+char_but: ` A‐are you alright?!`
+char_but: ` H‐hey......?!"`
+char_non: `It dripped and splashed.`
+char_non: `He didn't know what was going on.`
+char_non: `Battler couldn't tell for sure because he couldn't turn around,`
+char_non: ` but the hot drops staining his entire back were surely......blood.`
+char_enj: `"............In order to save you, Onii‐chan,`
+char_enj: ` in order to come here,`
+char_enj: ` there was a single rule that I wasn't allowed to...`
+char_enj: `...break...`
+char_enj: ` .........This...`
+char_enj: `.........was it.`
+char_enj: ` .........Letting you...`
+char_enj: `......find out...`
+char_enj: `...that I was...`
+char_enj: `...Ange........."`
+char_enj: `......It was so hard.........`
+char_enj: `My onii‐chan was right before my eyes, ......and I couldn't even tell him.........`
+char_enj: `If I'd just followed the rule, ......I would have been able to stay by your side forever.`
+char_enj: `.........You and me together...`
+char_enj: `...playing the game against the witch...`
+char_enj: `...for eternity......`
+char_enj: `"But...`
+char_enj: `......that's no good."`
+char_enj: `"............Onii‐`
+char_enj: `......ah...`
+char_enj: `.........chan,`
+char_enj: ` ......you have to go back."`
+char_enj: `".........Back home,`
+char_enj: ` ......your sister is waiting for you......"`
+char_enj: `".........That person isn't me,`
+char_enj: ` ............but this way, your sister...`
+char_enj: `will find her salvation........."`
+char_but: `"Ange?!`
+char_but: ` Ange!!`
+char_but: ` There's so much blood...!!`
+char_but: ` So much, so much!!"`
+char_non: `He wanted to turn around, but he couldn't because of how tightly Ange was gripping his head.`
+char_non: `However, judging by the blood that was pouring out and Ange's pained breathing,`
+char_non: ` he realized that something seriously wrong was happening to her right now.`
+char_enj: `"............Don't...worry.........`
+char_enj: ` ......I am just......a piece......`
+char_enj: ` .........You know, in chess, ......they have this thing called a <sacrifice>......"`
+char_but: `"Sacri—......what?!`
+char_but: ` Who cares about that!!`
+char_but: ` Let's get you some first‐aid quickly!!`
+char_but: ` Let go for a second, Ange...!!"`
+char_bea: `".........A <sacrifice>...is a thrown piece.`
+char_bea: ` For the sake of the strategic vision, you intentionally let a piece go, in full awareness of the loss..."`
+char_non: `The ultimate goal in chess is victory against the opponent.`
+char_non: `{n}......So sacrificing a few individual pieces is no problem if that can bring you to victory in the end.`
+char_non: `Ange had made a levelheaded decision.`
+char_non: `.........She had been told over and over again that she was a piece, not a player.`
+char_non: `......In order to act like a piece and save Battler, right now, she herself needed to become a sacrificial piece.`
+char_non: `............Battler had to be made aware.`
+char_non: `His purpose in playing this witch's game must not be something abstract like finishing off the witch.`
+char_non: `He needs to win the game, he needs to release himself, and he needs to bring his family back home.`
+char_non: `Why?`
+char_non: ` .........Because he has family—a little sister—waiting for him to come home.`
+char_non: `A being created to bring Ushiromiya Ange's voice to him...`
+char_non: `{i:That} is who {f:5:Ange Beatrice} is—who I am...!!`
+char_non: `I will use the piece I am as a sacrifice...`
+char_non: `to give Onii‐chan the will to fight, to give him purpose!`
+char_non: `Onii‐chan, my purpose is not to play with you in a witch's game for all eternity!`
+char_non: `I came to bring you Ushiromiya Ange's mourning and sadness!`
+char_non: ` That is my unshakable purpose!`
+char_but: `"......Ange!!`
+char_but: ` Ange!!`
+char_but: ` Aaaaaaaaaarrrghhh!!!"`
+char_non: `The white, skinny arm holding Battler......was pale and transparent, almost like wax.`
+char_non: `...But it was stained, so cruelly, with fresh blood......`
+char_enj: `"...I'm.........`
+char_enj: `...going to disappear now, but......`
+char_enj: `......you fight with all you've got,`
+char_enj: ` .........and make sure you...`
+char_enj: `...come back to me, okay........."`
+char_enj: `"............I'll be waiting,`
+char_enj: ` ............always...............`
+char_enj: ` ......I planned on helping you out a whole lot more than this,`
+char_enj: ` ......but I couldn't do anything.`
+char_enj: ` ......Sorry....................."`
+char_but: `"D‐don't worry about that......!!`
+char_but: ` You......taught me, didn't you......?!`
+char_but: ` You taught me why I have to win...!`
+char_but: ` And that...I absolutely have to win, and come back to you......!!"`
+char_but: `"What have I.........been doing, lazing about playing in a place like this......?!!`
+char_but: ` Yeah, I'm not playing around here anymore...!!`
+char_but: ` I'm gonna come back, you better believe I'll come back!!`
+char_but: ` I'm definitely gonna come back, bringing a souvenir, I promise......!!!"`
+char_enj: `".........I don't need one,`
+char_enj: ` .........so just promise me one thing......"`
+char_but: `"What is it? I'll promise anything...!!"`
+char_enj: `"......In a second, I'm going to take my hand away......`
+char_enj: ` It must have hurt, right......?`
+char_enj: ` I held you so tightly...`
+char_enj: ` .........Sorry........."`
+char_enj: `".........I'm alright,`
+char_enj: ` ......you don't have to turn around, so...`
+char_enj: `.........before I go...`
+char_enj: `...show me you at your...`
+char_enj: `...coolest.........`
+char_enj: ` ......Rise from your seat,`
+char_enj: ` ......point at the witch before your eyes,`
+char_enj: ` ......and declare that the game will recommence........."`
+char_non: `Ange's hand......slid...`
+char_non: `......and disappeared behind me.`
+char_non: `The stark marks of her fingers were left behind in the blood that had been oozing from her fingernails...`
+char_non: `But I turned around right away.`
+char_non: `{n}To take care of Ange's wounds...!`
+char_but: `"Angeeeeeeeee...`
+char_but: `eeee...ee.........`
+char_but: `........................`
+char_but: ` ......Ange...?"`
+char_lam: `"Aa~ah, and you even promised that you wouldn't turn around..."`
+char_but: `"......A‐......Ange.........`
+char_but: `ah, aahhh, ...wh‐where'd she......"`
+char_non: `Behind my chair,`
+char_non: ` .........as though......about ten watermelons packed with blood...`
+char_non: `...had all been smashed,`
+char_non: ` ......there was a sticky, pulpy...`
+char_non: `...mountain...`
+char_non: `And around that mountain of blood and minced meat,`
+char_non: ` ......the clothes and shoes Ange had been wearing...`
+char_non: `...lay crumpled as though they had been thrown off...`
+char_non: `......As though a human's insides alone had been pulverized and discarded.`
+char_non: `......As though Ange, who had been standing there until just a second ago, had been crushed.........`
+char_but: `"Ange......?`
+char_but: ` Wh‐......where is Ange......?`
+char_but: ` Where did Ange disappear to......?`
+char_but: ` H‐hey!`
+char_but: ` Where did Ange disappear to?!"`
+char_non: `The two young‐looking witches said nothing,`
+char_non: ` .........and just silently looked at the mountain of blood and meat and clothes.`
+char_non: `But, ......I didn't want to accept it.`
+char_non: `{n}......I did not want to accept it!!!`
+char_bea: `"..................I was right in front of you.`
+char_bea: ` .........Watching the whole time.`
+char_bea: ` Watching what happened.........to Ange behind you."`
+char_but: `"......D‐......do you know......?`
+char_but: ` .........Where did...Ange go.........?"`
+char_bea: `".........While she still lived,`
+char_bea: ` pinch by pinch, massive red‐hot pincers...`
+char_bea: `...tore chunks of flesh the size of a thumb off of her,`
+char_bea: ` ......and threw them away."`
+char_bea: `".........I was watching.`
+char_bea: ` I watched as countless cruel tools, red‐hot from the witch's furnace, approached Ange from behind,`
+char_bea: ` and one bit at a time, ......pecked at her flesh, twisted it off, ripped it off in chunks, ......and tore her to pieces."`
+char_bea: `"............Ange should be proud.`
+char_bea: ` In order to exchange her last words with her brother,`
+char_bea: ` ......she withstood the gasps of pain until the very end...`
+char_bea: ` ......She should be proud of that."`
+char_non: `......Like hell that happened......`
+char_non: `But......rolling there,`
+char_non: ` ......on top of that mountain of flesh and clothes,`
+char_non: ` ............was, without a doubt, what she had been wearing on her head: those pink‐bead...hair ornaments.`
+char_non: `To be honest, I was thinking they were a bit too childish and didn't really suit her...`
+char_non: `......So I remembered them well.`
+char_non: `...............Why has Ange been wearing these cheap hair ornaments all this time......?`
+char_non: `No, no,`
+char_non: ` ......this can't be Ange,`
+char_non: ` ......it couldn't be,`
+char_non: ` ......uug...uuuuhhhuuuuuuu...!`
+char_ber: `".....................That was honest, Beato."`
+char_lam: `"Battler didn't see it,`
+char_lam: ` so you could've just said that she turned into butterflies and flew away, or something."`
+char_but: `"......Y‐`
+char_but: `...you guys also...`
+char_but: `.........s‐......saw...`
+char_but: `.........that happen......?"`
+char_but: `"Y‐`
+char_but: `......you watched Ange...`
+char_but: `...get torn into...`
+char_but: `...little bits...?"`
+char_but: `"You were watching,`
+char_but: ` .........and yet...`
+char_but: `...you kept your faces...`
+char_but: `...that calm.........?!"`
+char_non: `Without answering, {f:5:Bernkastel}, {f:5:Lambdadelta},`
+char_non: ` and {f:5:Beatrice} looked at me,`
+char_non: ` ......some in pity, ...others in derision.........`
+char_non: `She was calling herself Gretel,`
+char_non: ` so after what happened with {f:5:Virgilia} in the last game, ......I was thinking up until now that she might be Beato's underling,`
+char_non: ` and I was making sure not to trust her even though she was on my side...`
+char_non: `And then,`
+char_non: ` .........just as I learn that it was actually Ange,`
+char_non: ` ......I'm not permitted to see her face...`
+char_non: `.........and when I turn around,`
+char_non: ` ......I find...`
+char_non: `......something...`
+char_non: `......like this...`
+char_non: ` ............uuuuuuoohhhhh.........!`
+char_bea: `"What does it matter?`
+char_bea: ` .........About your little sister."`
+char_but: `"......What......did you say............?"`
+char_bea: `"You will never return from this place in any case.`
+char_bea: ` .........Whatever happens to your little sister in a world where you don't come home has nothing to do with you."`
+char_bea: `"As long as you play here, the Anges of countless worlds will live in isolation,`
+char_bea: ` and the same pain of her final moments just now will be forced upon them, diluted over a period of more than a decade."`
+char_bea: `".........However, that is of no importance, correct?`
+char_bea: ` It cannot be {y:1:‘seen’}{n:1:seen} by you from here.`
+char_bea: ` You cannot observe it.`
+char_bea: ` An unobservable truth cannot be proven except by the red truth."`
+char_bea: `"Therefore, your anxiety over Ange's future unhappiness might well be an ungrounded fear.`
+char_bea: ` ............She might, surprisingly enough, have an easy life ahead of her, never needing to work, thanks to Rudolf's inheritance, right?`
+char_bea: ` *cackle*cackle*cackle*cackle*...!"`
+char_non: `......That was...`
+char_non: `...a lie.`
+char_non: `From Ange's arm, every part of the sad world that follows had poured into me in an instant.`
+char_non: `It's all because...`
+char_non: `......I keep on...`
+char_non: `......lazing about forever...`
+char_non: `......and playing in a place like this.........!!`
+char_non: `......I...`
+char_non: `never thought about anyone but myself......`
+char_non: `I have to defeat her!`
+char_non: ` I have to take back my family,`
+char_non: ` ......and come back to Ange who's waiting for me, ......as soon as humanly possible.........!`
+char_non: `Because even as I hang around with the witch like this,`
+char_non: ` Ange's heart continues to be torn to bits by sadness...!!`
+char_but: `"............Ange, ......is {i:this}...`
+char_but: `......what you wanted to see......?"`
+char_non: `......Towards the cruel witch who had indifferently spoken of Ange's brutal last moments, slowly,`
+char_non: ` ......and yet...`
+char_non: `...with all my might,`
+char_non: ` ......I pointed......`
+char_but: `".........{f:5:Beatrice}......"`
+char_bea: `"Mm."`
+char_but: `"............Resume this game.`
+char_but: ` .........I won't run away anymore, ......and I won't let you get away, either."`
+char_bea: `"As I like it.`
+char_bea: ` I can no longer escape or hide.`
+char_bea: ` .........Let us settle this between us for certain.`
+char_bea: ` .........One will win.`
+char_bea: ` One will lose, and be destroyed.`
+char_bea: ` No other resolution exists."`
+char_but: `".........I will win.`
+char_but: ` No matter how long it takes, I will definitely defeat you...!!`
+char_but: ` In this match, there will no longer be any compromise, interruptions or losing by default!!`
+char_but: ` I won't run away!`
+char_but: ` You won't get away!!"`
+char_but: `"Come take me down, with everything you've got...!!`
+char_but: ` There's no need for any stupid tricks or deceptions, no need for interacting with each other weirdly or acting all friendly!!`
+char_but: ` You and I are enemies...!!!`
+char_but: ` I have to settle this as soon as possible, .........and bring my family back to Ange!!!"`
+char_bea: `......Unwavering purpose.`
+char_bea: ` ...Absolute, certain willpower.`
+char_bea: `A {y:0:Human}{n:0:human}'s certain willpower becomes certain magical power.`
+char_bea: `{n}`
+char_bea: `......That acts as a miracle, and makes it a promise.`
+char_bea: `Yes, this is a promised {i:certain miracle}.`
+char_bea: `..................Is there not even a one in ten‐billion chance...{n}`
+char_bea: `no.........is it {i:certain that there is not even a fragment of a miracle}...{n}`
+char_bea: `that could make my victory happen?`
+char_bea: `Before I knew it, a cold, stiff chain had bound my other leg without a sound,`
+char_bea: ` fastening me to the chair...`
+char_bea: `............All that is left to me is either to be killed by Battler and be defeated,`
+char_bea: ` or resist that, and repeatedly tie for all eternity.`
+char_bea: `......No, I guess that's "repeatedly tie until I prepare my heart for death".`
+char_bea: `Either way.`
+char_bea: `{n}`
+char_bea: `.........I must now fight only to lose.`
+char_bea: `I have already been bound in eternal chains.`
+char_bea: `{n}`
+char_bea: `And Battler won't let me escape either.`
+char_bea: `......Should I pathetically beg for his forgiveness...?`
+char_bea: `{n}`
+char_bea: `Should I ask for compassion by appealing to his pitying heart...?`
+char_bea: `Should I disregard appearances and prostrate myself?`
+char_bea: `Because of the chains, even that will not be granted me.`
+char_bea: `{n}`
+char_bea: `......Checkmate.`
+char_bea: `The perfect endgame.`
+char_bea: `.................................However.`
+char_bea: `I am the Golden Witch, {f:5:Beatrice}.`
+char_bea: `The demon lord of gold who reigns over the Golden Land.`
+char_bea: `{n}`
+char_bea: `It may be a losing battle, but still there exists an attitude befitting my stature.`
+char_bea: `{n}`
+char_bea: `And I have the right to beautify my death in a manner fitting for me.`
+char_bea: `".........And I likewise.`
+char_bea: ` I will make you accept the existence of my magic, and open the door to the Golden Land on this island.`
+char_bea: ` You shall become the guest of honor at the very first tea party."`
+char_bea: `"Everyone besides you has gathered already, you see?`
+char_bea: ` Because the arrival of the guest of honor has been delayed, the tea party cannot begin.`
+char_bea: ` Your father, mother, cousins, and everyone else are getting tired of waiting for your arrival."`
+char_but: `"Yeah, suits me, suits me absolutely perfect!!`
+char_but: ` Magic and witches, what a load of bullshit...!!`
+char_but: ` I'm done playing games with you!!`
+char_but: ` Here we go, {f:5:Beatrice}...!!!"`
+char_bea: `"I suggest you hold nothing back, for there will be no compromise, interruptions or losing by default.`
+char_bea: ` One will win, and one will be destroyed."`
+char_bea: `"If you have no desire to lose, then you must defeat me, kill me.`
+char_bea: ` However, I will not go down without a fight.`
+char_bea: ` I can resist repeatedly, until you prepare a fitting end for me."`
+char_bea: `"Are you capable of doing that?`
+char_bea: ` ......Yes, I'm sure you can.`
+char_bea: ` I know you can.`
+char_bea: ` Now...come kill me.`
+char_bea: ` ..................`
+char_bea: ` .....................Am I making you uncomfortable?`
+char_bea: ` Then let's go with something more familiar.`
+char_bea: ` ....................."`
+char_bea: `"Hyahhaha!!`
+char_bea: ` Like hell I'll be killed,`
+char_bea: ` even if I can't win, I can still frustrate the hell out of you by not giving you the victory, rii{-}i{-}i{-}i{-}i{-}i{-}i{-}ight?!"`
+char_bea: `"Hoh, that's a good look on your face!`
+char_bea: ` ......*cackle*cackle*cackle*,`
+char_bea: ` uhhyahhaha{0}ha{0}ha{0}ha{0}ha{0}hahaha,`
+char_bea: ` aaa{0}kkya{0}kkya{0}kkya{0}kkya{0}kkya!!"`
+char_bea: `"Try and kill me,`
+char_bea: ` just try and kill me, Ushiromiya Battleee{-}e{-}e{-}e{-}e{-}e{-}e{-}e{-}e{-}e{-}e{-}e{-}e{-}e{-}e{-}e{-}e{-}eer!! Rrrrr{0}o{0}o{0}o{0}o{0}o{0}o{0}o{0}o{0}o{0}o{0}o{0}o{0}o{0}o{0}o{0}o{0}o{0}h{0}h{0}h{0}h{0}a{0}a{0}a{0}a{0}a{0}a{0}a{0}a{0}a{0}a{0}a{0}a{0}a{0}aahhhh!!!"`
+char_bea: `.........I don't have a clue what to make of all this.`
+char_bea: `Please, someone explain what happened yesterday in a way that I can understand.`
+char_bea: `I continued helping myself to the food in the mansion's kitchen.`
+char_bea: `That massive commercial refrigerator had everything.`
+char_bea: `{n}I could eat and drink as much as I liked.`
+char_bea: `......I'd have more than enough to eat even if the typhoon didn't clear up for a week.`
+char_bea: `With a bottle in one hand, half of which I'd already drunk, I helped myself to some sliced ham.`
+char_bea: `I wonder just how expensive this stuff is.`
+char_bea: `Man, you ingredients are out of luck.`
+char_bea: ` If only you'd had Gohda‐san cook you, you could've been reborn as much more incredible food.`
+char_bea: `I looked at the clock.`
+char_bea: ` Very soon, it would be midnight.`
+char_bea: `{n}October 5th, the second day, would end.`
+char_bea: `.........The insanity of yesterday's October 4th didn't seem real.`
+char_bea: `{n}...That was how......little had happened after my so‐called test.`
+char_bea: `Nothing was happening.`
+char_bea: `No phone calls, no letters.`
+char_bea: `{n}No one coming to see me, no one coming to attack me.`
+char_bea: `Not a goddamn thing.`
+char_bea: `Gimme back all the time and energy I wasted being on edge.`
+char_bea: ` .........An entire day, a full twenty‐four hours.`
+char_bea: `......And aaaabsolutely nothing happened.`
+char_bea: `{n}And I'm sure that nothing will continue to happen as well.`
+char_bea: `.........A full twenty‐four hours ago...`
+char_bea: `{n}...I was called to the front of the mansion by {f:5:Beatrice}.`
+char_bea: `There, I was given some kind of weird test to do with determining the successor to the head or something.`
+char_bea: `I gave a serious answer in my own way, but unfortunately, we just didn't seem to be {i:getting} each other.`
+char_bea: `{f:5:Beatrice} got bent out of shape for no reason and stopped talking to me.`
+char_bea: `I yelled at her to say something, but she wouldn't say a word.`
+char_bea: `Then I asked where Maria was, and she just told me to go to the chapel, and went away.`
+char_bea: `What an astounding anticlimax.`
+char_bea: ` ......Stupid as it was, it was still a test, so at least tell me whether I've passed or failed, for hell's sake.`
+char_bea: `What, is she trying to say "Good work, your results will be mailed to you later" or something?`
+char_bea: `{n}......Annoying bitch.`
+char_bea: `In any case, I then headed to the chapel.`
+char_bea: `......Both George‐aniki and Jessica had been killed after failing their tests.`
+char_bea: `{n}I couldn't let Maria be killed too.`
+char_bea: `......Besides, I thought this could be a chance to catch whoever it was while they were in the process of trying to kill Maria.`
+char_bea: `When I was young, Jessica often told me that I'd get in trouble if I went near the chapel,`
+char_bea: ` so I'd never been there, but I at least knew where it was.`
+char_bea: `I couldn't sense anyone there,`
+char_bea: ` .........but there was a bundle of keys lying in front of the door.`
+char_bea: `I thought this might be a message to open the door to the chapel, but after trying all of the keys, I found that none of them fit.`
+char_bea: `I also called Maria's name, but there was no answer whatsoever.`
+char_bea: `{n}I searched around the chapel, but there was a limit to what I could do in the pitch black with just a flashlight.`
+char_bea: `I realized that this key bundle might be a set of master keys, which could possibly open the door to the mansion.`
+char_bea: `Finding no sign of Maria, I returned to the mansion.`
+char_bea: `The mansion was wrapped in silence.`
+char_bea: ` And in a horrible stench.`
+char_bea: `Still, it's pretty amazing how good humans are at adapting.`
+char_bea: `Technically, that smell was still pervading the entire mansion.`
+char_bea: `But I'd grown completely used to it and stopped minding it by this point.`
+char_bea: `It didn't feel like anything more than any old house where someone had burnt some meat.`
+char_bea: `The stench knocked me back on first entering, but I ignored it and decided to head to the dining hall...`
+char_bea: `......where I found all those corpses that were in such a sorry state that Gohda‐san and Kumasawa‐san had hesitated to speak of them in any detail.`
+char_bea: `They were the remains of the very first victims: Aunt Natsuhi and the rest.`
+char_bea: `Each of them had half of their head dramatically splattered out,`
+char_bea: ` and it was such a gruesome sight that even without knowing a thing about examining corpses, I could pronounce them one hundred percent dead...`
+char_bea: `......And on top of that, the remaining half of their faces were left like normal, so it was even easy to identify them.`
+char_bea: `...They'd really pulled out all the stops for these corpses.`
+char_bea: `And finally, the bodies here weren't just the six of the first twilight—they had grown in number, and now included one more.`
+char_bea: `The seventh corpse............was Maria.`
+char_bea: `She was lying next to Aunt Rosa, as though sleeping alongside her.`
+char_bea: `...............I cried.`
+char_bea: `At the death of an innocent young girl.`
+char_bea: ` And at the cruel way my dad and the others had died.`
+char_bea: `I ran about the mansion swinging my hat‐stand spear, yelling "Come out here, you bastard".`
+char_bea: `......But there was absolutely no sign of anyone else.`
+char_bea: `......Thinking that they might be hiding somewhere and scheming to attack me from behind, I went around searching for possible hiding places,`
+char_bea: ` sometimes being cautious,`
+char_bea: ` sometimes intentionally letting my guard down, trying all kinds of things, but in the end, not so much as a kitten appeared...`
+char_bea: `Then, morning came.`
+char_bea: `......My tension and fatigue, mixed together with my drowsiness, made for the worst kind of dawn.`
+char_bea: `Humans are pretty incredible.`
+char_bea: `......Even though I didn't know where the hell the murderer was hiding, I was prioritizing drowsiness and fatigue over worrying for my own life.`
+char_bea: `......By this time, I was starting to feel pretty ridiculous.`
+char_bea: `I had walked around the mansion for a full six hours until dawn broke, yelling at them to show themselves.`
+char_bea: `I had done a painstaking search, tired myself out, and even let my guard down.`
+char_bea: `{n}{i:Still} no one was coming to attack me.`
+char_bea: `And so at that point I just said screw it, do whatever you want.........`
+char_bea: `The boat wouldn't come until the typhoon passed.`
+char_bea: ` They were saying on TV that it wouldn't pass until tomorrow, so I had a whole day to waste.`
+char_bea: `The idea of just lazing about didn't seem very appealing,`
+char_bea: ` ......so, even though I knew it would probably make the police mad, I decided to play detective a bit.`
+char_bea: `First: the dining hall, where the very first murders occurred.`
+char_bea: `The six who were killed in the beginning really were pitiful to look at.`
+char_bea: `......The weapon was probably a gun.`
+char_bea: ` Maybe their heads were split by something powerful, like a magnum bullet or a shotgun.`
+char_bea: `That seemed like valid reasoning.`
+char_bea: `In comparison, Maria, who was the seventh body, had died in a far better and cleaner way.`
+char_bea: `At a glance, there were no external wounds, and it wasn't clear how she had been killed.`
+char_bea: `But there were signs that bubbles had been foaming from her mouth,`
+char_bea: ` and it looked like a typical death by poisoning that you might see on a TV drama.`
+char_bea: `Wasn't Maria called out to the chapel and given her test there...?`
+char_bea: `......Then why is she here in the corpse‐filled dining hall, lying next to her mother, dead......?`
+char_bea: `Assuming that the cause of death was poison, ......who gave it to her?`
+char_bea: `Her clothes aren't disturbed at all.`
+char_bea: ` It's hard to imagine that she was forcibly pushed down and given an injection of poison.`
+char_bea: `.........It's probably better to assume that she was given a poison capsule or something and made to swallow it.`
+char_bea: `That said, compared to the violently mutilated corpses scattered about this room, Maria's corpse was far too clean.`
+char_bea: `With a gun, all you need to do is pull the trigger.`
+char_bea: ` But poison, whether injected or made to be swallowed, would take a lot more effort.`
+char_bea: `Bearing in mind the culprit's brutal nature, too, I felt that Maria's death alone had clearly been given special treatment.`
+char_bea: `Why was Maria alone given a sleep‐like death?`
+char_bea: `.........She {i:was} killed, so in that sense, I still felt very sorry for her—there can be no doubt about that—`
+char_bea: `but for some reason, the manner of Maria's murder in particular seemed very courteous to me......`
+char_bea: `Maria had her hands joined on her chest, in the way that the dead often do.`
+char_bea: `......Did Maria do that herself before dying......?`
+char_bea: `{n}......Isn't this usually something done by someone else after the person dies......?`
+char_bea: `Maria was resting in peace, as though sleeping together with her mother, whose head was half crushed.`
+char_bea: `......For some reason, the contrast really bugged me.`
+char_bea: `There are probably a lot of mysteries surrounding Maria's death, starting with the cause...`
+char_bea: `And more than anything else.`
+char_bea: `The biggest mystery of this dining hall......was the "pitfalls".`
+char_bea: `{n}......The "pitfalls" that both Uncle Krauss's group and Gohda‐san's had mentioned.`
+char_bea: `After the six had been killed, five more had fallen through "pitfalls" and been captured.`
+char_bea: `.........What are pitfalls?`
+char_bea: `{n}Those things that suddenly open and you fall through them, right......?`
+char_bea: `The floor was firmly laid with a majestic, if a bit worn‐out, carpet.`
+char_bea: `......It was clearly a single piece.`
+char_bea: `If pitfalls are meant to open up in it, there would have to be a seam in that one place.`
+char_bea: `......And anyway, if there was some trick like a pitfall, wouldn't it creak when you walked on it??`
+char_bea: `No matter how much I walked over or ran my hands over the carpet, I just couldn't imagine that a pitfall was hidden here.`
+char_bea: `In the first place, it would be one thing if a single person had fallen, but it was a full five people.`
+char_bea: `......From what I could piece together from all of their stories, each one of them had fallen from a different location,`
+char_bea: ` so at the very least, there had to be five separate places concealing pitfalls.`
+char_bea: `...............So what does this mean?`
+char_bea: `Was this room actually made with pitfalls across the entire floor,`
+char_bea: ` so that with a single button press, you could open up a pitfall in the location of your choice......some kind of contraption like that??`
+char_bea: `That kind of ridiculous mechanism would be surprising even in a ninja mansion.`
+char_bea: `......But even so, if Dad and the rest heard about this,`
+char_bea: ` maybe they'd say "I wouldn't put it past Grandfather—you bet he'd do this, he'd make this".`
+char_bea: `......In any event, I didn't learn anything more than that from the dining hall.`
+char_bea: `Do the pitfalls not exist?`
+char_bea: ` Or do they exist, but I just can't find them, amateur that I am?`
+char_bea: `I can't say for sure.`
+char_bea: `Since they claimed that the pitfalls were there,`
+char_bea: ` ......I can't ignore the pitfalls even if I can't find them......`
+char_bea: `The next ones to be killed had been Jessica and George‐aniki.`
+char_bea: `{n}I'd already discovered George‐aniki, when I was called out for my test.`
+char_bea: `He was called out to the arbor in the rose garden, ......and shot in the forehead, probably with a gun.`
+char_bea: `As for Jessica, she was called to her own room on the second floor of the mansion.`
+char_bea: `I found the door to her room locked.`
+char_bea: `{n}But that wasn't a problem at all since I had the master keys.`
+char_bea: `And the inside of the room.........was horrible.`
+char_bea: `...But the corpse was nothing I hadn't already familiarized myself with in the dining hall, ......so I'd built up a bit of an immunity.`
+char_bea: `The phone receiver was dangling off the hook.`
+char_bea: `{n}......Was she killed while on the phone with me?`
+char_bea: `Jessica was leaning against the wall right next to it,`
+char_bea: ` ......with half of her head splattered out.`
+char_bea: `As far as I could tell by looking at the scene, ......it looked as though she had been killed while on the phone.`
+char_bea: `In that case, had the culprit been there before her eyes?`
+char_bea: `.........I hadn't gotten that impression from Jessica's voice over the phone.`
+char_bea: `I'm pretty sure Jessica said......“They got me”.`
+char_bea: `It's probably best to assume that she had already received a fatal wound at the time of the phone call.`
+char_bea: `That's right, and she also said this.`
+char_jes: `"By the time you get here, I'll be a corpse with half my head spilled out."`
+char_jes: `Yes, she definitely said that.`
+char_jes: `.........From what I could tell by looking at Jessica's corpse, there were no wounds on her other than the damage to her head.`
+char_jes: `Then...she was injured seriously enough that she steeled herself for death, and then died halfway through the phone call?`
+char_jes: `But it feels like, with the way she was talking on the phone, she was out of danger for the time being.`
+char_jes: `You shouldn't be able to have a casual conversation over the phone if the killer is right in front of you.`
+char_jes: `So...did the culprit come partway through the phone call and kill her......?`
+char_jes: `.........No, that can't be right.`
+char_jes: `{n}After all, this room was locked.`
+char_jes: `......No, like hell that counts for anything.`
+char_jes: `......If the culprit had stolen a master key from one of the victims, the fact that it was locked is meaningless.`
+char_jes: `But there are no external wounds other than her head.`
+char_jes: `.........In which case, should I assume the fatal wound she was prepared to die from and the actual wound that destroyed her head were two different events,`
+char_jes: ` both of them made to the same part of the body......?`
+char_jes: `In other words, Jessica was struck severely to the head, and received an incredibly bad wound.`
+char_jes: `Then she called me, ......and either lost consciousness or died while on the phone.`
+char_jes: `Then the culprit came and destroyed her head for real...or something.`
+char_jes: `After being called to this room, Jessica was attacked by the culprit and seriously injured.`
+char_jes: `And the culprit thought they'd killed her, and went away for the time being.`
+char_jes: `......But then Jessica miraculously started breathing again, and called me with a literal dying message.`
+char_jes: `Then the culprit realized that they had failed in killing her, and rushed back to deliver the final blow to Jessica, who had lost consciousness from massive blood loss......`
+char_jes: `...............That seems to make sense, more or less.`
+char_jes: `Except for how Jessica was able to accurately predict the form of that final blow.`
+char_jes: `And there was one more thing that bugged me about the phone call from Jessica.`
+char_jes: `Jessica said this...`
+char_jes: `"George nii‐san didn't make it either.`
+char_jes: ` Instant death, that was."`
+char_jes: `......She said it almost as though she had witnessed George‐aniki being killed.`
+char_jes: `But while you certainly could see the rose garden from the window in Jessica's room,`
+char_jes: ` the arbor that George‐aniki had been called out to was very far away—you could only just make out the roof.`
+char_jes: `Add on the fact that it was the night of a typhoon, and it's very hard to imagine that she was able to witness everything that happened by the arbor from this window.`
+char_jes: `......And most important of all.`
+char_jes: `Jessica left before George‐aniki.`
+char_jes: `{n}So she shouldn't have known that George‐aniki's test had taken place by the arbor.`
+char_jes: `How did Jessica know......that George‐aniki had been killed......?`
+char_jes: `.........Then, in the course of my search of the entire mansion, I found Kyrie‐san's corpse as well.`
+char_jes: `She was in an old guest room tucked away on the first floor.`
+char_jes: ` This was where all of us relatives used to stay before the guesthouse was built.`
+char_jes: `......The situation with Kyrie‐san was just like Jessica's.`
+char_jes: `She was probably killed during her phone call with me.`
+char_jes: ` The receiver was hanging untidily, ......and Kyrie‐san was collapsed beside it.`
+char_jes: `But the way she had been killed was very different from Jessica.`
+char_jes: `Her head wasn't smashed.`
+char_jes: ` ......Instead, something like a stake with an occult‐like design was buried into her forehead.`
+char_jes: `......It was too gruesome for me, ......so I pulled it out.`
+char_jes: `It was only after pulling it that I realized that this might get me into trouble with the police later.`
+char_jes: `So, even though it was probably a little late now, I laid it by Kyrie‐san's side.`
+char_jes: `Its tip was sharp, and stained with enough blood that it must have penetrated fully to the brain.`
+char_jes: `I didn't know what kind of metal it was made of, but it was about as heavy as a paperweight.`
+char_jes: `{n}Certainly, if you were stabbed all‐out with something like this, it might cause a terrible wound.`
+char_jes: `.........I...probably understood what this stake meant.`
+char_jes: `......Yeah, I know this.`
+char_jes: `{n}It's the method of killing from the fourth twilight onwards in the witch's epitaph.`
+char_jes: `{n}......That "gouge with a stake and kill" thing, probably.`
+char_jes: `However, the human skull is very hard.`
+char_jes: ` .........Even with all one's strength, could you really pierce through it this sharply......?`
+char_jes: `No.`
+char_jes: ` ......The way I reason it, this stake wasn't the cause of death; it was just used to damage the corpse after death.`
+char_jes: `She was probably killed by being shot with a gun or something, like George‐aniki,`
+char_jes: ` .........and the stake was stuck into the hole left by the gun.`
+char_jes: `......Thinking about it that way, everything works out.`
+char_jes: `But......was Kyrie‐san really killed with a gun?`
+char_jes: `She had said this on the phone as well—Kyrie‐san was under attack even though she was holed up inside a locked room.`
+char_jes: `And this room actually {i:was} locked.`
+char_jes: `......And...`
+char_jes: `...she had said something about a golden thread‐like thing flying in through the keyhole and attacking her.`
+char_jes: `And in fact, there {i:were} four places around Kyrie‐san's corpse with holes that could have been caused by some kind of attack.`
+char_jes: `.........But still...`
+char_jes: ` ...A golden thread...`
+char_jes: `......attacked her through the keyhole...?`
+char_jes: `I looked at the door from Kyrie‐san's perspective.`
+char_jes: `If it had been one of those old locks like you see in old mystery movies,`
+char_jes: ` where you can peek through to the other side, then you could understand that something might potentially have come through it.`
+char_jes: `But even though the doors in this mansion were old‐fashioned, the locks were the familiar, average cylinder style that you could find in any normal house.`
+char_jes: `......In other words, there {i:was} no hole going all the way through, by construction.`
+char_jes: `So no matter how thin an object it might have been,`
+char_jes: ` it's impossible to imagine that it could have penetrated through the keyhole from the outside and attacked her.`
+char_jes: `.........Cylinder lock.`
+char_jes: ` .........Keyhole.........?`
+char_jes: `But Kyrie‐san had definitely said that something like a golden thread had flown in through the keyhole,`
+char_jes: ` ......and spun around and around, aiming for her, attacking her......`
+char_jes: `"A golden thread attacking through the keyhole".`
+char_jes: ` .........I couldn't understand what it meant at all.`
+char_jes: `Wait, actually.`
+char_jes: ` ......Kyrie‐san predicted that I probably wouldn't be able to understand all this.`
+char_jes: `And not just Kyrie‐san.`
+char_jes: ` Jessica said it over the phone too.`
+char_jes: `......No, since the very beginning, from the time we talked with Gohda‐san and Kumasawa‐san, and got the phone call from Uncle Krauss's group,`
+char_jes: ` everyone has been saying the same, consistent thing.`
+char_jes: `.........Grandfather is summoning witches and demons, and killing people with magic.`
+char_jes: `We witnessed it happening with our very own eyes.`
+char_jes: `{n}No tricks, no illusions.`
+char_jes: `{n}No choice but to believe it.`
+char_jes: `......They all said it, with one voice.`
+char_jes: `When that mysterious woman calling herself {f:5:Beatrice} appeared,`
+char_jes: ` even I pretty much believed that she was a real witch and might start summoning goat monsters right and left.`
+char_jes: `......However, after being left alone for a whole day, once my feeling of tension faded completely,`
+char_jes: ` I had a level enough head to think that this was way too stupid to possibly be true.`
+char_jes: `In that extraordinary situation where their lives were exposed to danger,`
+char_jes: ` did they just lose their heads a little, and mistakenly think that a witch was attacking them with magic?`
+char_jes: `............But multiple people testified to the same effect, and on top of that, none of their opinions contradicted one another.`
+char_jes: `......If it had been a single person's statement, I'd be able to suspect that they just didn't see what they thought they saw,`
+char_jes: ` ......but doing that now is pretty...difficult......`
+char_jes: `Then, right next to the back door, I found Uncle Krauss with his head half destroyed.`
+char_jes: `......Even though he'd escaped the dungeon of Kuwadorian,`
+char_jes: ` and somehow made it out of the secret underground passage and all the way here, ......he was killed.`
+char_jes: `Buried into the gruesome cross‐section of his half‐destroyed head...`
+char_jes: `...was a stake with an occult design, just like the one that was driven into Kyrie‐san's forehead.`
+char_jes: `And in this situation, it was very hard to imagine that this stake was the murder weapon.`
+char_jes: `......He was killed with a powerful gun like the six in the dining hall,`
+char_jes: ` and after death, he was stuck with a stake, like Kyrie‐san.`
+char_jes: `I wonder if the golden threads that Kyrie‐san spoke of attacked Uncle Krauss too.`
+char_jes: `Does there exist some kind of tool, like an endoscope, which is very thin but can be moved about at will.........?`
+char_jes: `And that can also attack people......?`
+char_jes: `{n}No way. I've never even heard of anything like that.`
+char_jes: `But even so, ......if I voiced that suspicion to one of my relatives,`
+char_jes: ` perhaps they {i:would} say "I wouldn't put it past Grandfather to make one"...`
+char_jes: `Since I can't refute the existence of a golden thread X that can be moved at will and attack people,`
+char_jes: ` my only options are either to accept this completely incomprehensible weapon, or else,`
+char_jes: ` ......to accept that these murders were committed with magic.`
+char_jes: `To find the next corpse, I had to go out through the back door and search around outside a bit.`
+char_jes: `Behind the mansion, in the wild‐grown bushes that were almost swallowed up by the forest, there was something like an old well,`
+char_jes: ` ......and right next to it were the corpses of Doctor Nanjo and Shannon‐chan.`
+char_jes: `Both corpses had their heads smashed.`
+char_jes: `......And there was a stake lying right next to each of their destroyed heads, though they weren't stuck in.`
+char_jes: `......All of the corpses were atrocious, but having to look directly at Shannon‐chan's lovely face, half of which was blown off, was very painful......`
+char_jes: `Then, there was the well.`
+char_jes: `Inside which, I was told, was a secret underground passage to the mysterious mansion, Kuwadorian.`
+char_jes: `...By this time, I was beginning to think that {f:5:Beatrice} and her accomplices...`
+char_jes: `might have used this underground passage to leave for Kuwadorian.`
+char_jes: `There were supposedly ten or more of these guys, and I hadn't seen hide nor hair of any of them.`
+char_jes: `......It made a hell of a lot of sense to think they'd already escaped somewhere else.`
+char_jes: `They had this typhoon to contend with.`
+char_jes: ` They couldn't go out to sea.`
+char_jes: `Same for the forest.`
+char_jes: ` There was no way they could traverse such a deep, uncultivated forest on foot.`
+char_jes: `In that case, there was only one place for them to go.`
+char_jes: `The mysterious hidden mansion, Kuwadorian.`
+char_jes: `{n}......The secret underground passage at the bottom of the well...!`
+char_jes: `......By this time, I had entirely lost my fear of being killed if I happened to come across the enemy.`
+char_jes: `Screwing with me like this...!`
+char_jes: `{n}This time I'll march into your mansion...!`
+char_but: `".........Ah...... ...Wh‐what the hell...?!`
+char_but: ` D‐......damn it...!!"`
+char_non: `The old well had a firm cover on it.`
+char_non: `The cover was an iron grill.`
+char_non: `The gaps between the bars were perhaps twenty centimeters square.`
+char_non: ` You could peer inside, but it really wasn't something a human could pass through.`
+char_non: `If I hadn't known better, I wouldn't have thought it to be anything more than a simple cover to protect against falling in.`
+char_non: `......But from what Kyrie‐san had told me, I knew that it had been made to prevent intruders from entering the secret underground passage at the bottom...!`
+char_non: `But the cover was fixed in place extremely firmly, and no matter how much I pushed or pulled, I couldn't even get close to removing it.`
+char_non: `I couldn't find any obvious lock.`
+char_non: ` Maybe it was sealed by some mechanism.`
+char_non: `But no matter how much I investigated it, I couldn't find anything to release it.`
+char_non: `.........The underground passage in this well is the biggest piece of information I have, that Kyrie‐san gambled her last moments trying to tell me about...!`
+char_but: `"Don't think you can stop me with something like this cover...!`
+char_but: ` I'll smash it to bits...!`
+char_but: ` I'll search for a tool...!"`
+char_non: `I had an idea of where to get one.`
+char_non: ` ......Because I'd seen the various tools in the gardening shed when we locked Gohda‐san and Kumasawa‐san in there.`
+char_non: `But the shutter to the gardening shed was locked.`
+char_non: `{n}On top of that, the key was with Gohda‐san, who was inside, dead.`
+char_non: `......In other words, this gardening storehouse was a locked room.`
+char_non: `{n}There was no way to open it from the outside.`
+char_non: `In that case, I would have to break the shutter.`
+char_non: `{n}I wonder if there's a tool for that somewhere...`
+char_non: `......It kind of felt like I was going in circles.`
+char_non: `Then, while searching for that, I learned that the source of the stench that had been permeating the mansion this whole time was the underground boiler room.`
+char_non: `The boiler room was dimly lit, humid, had a terrible stench, and on top of all that, was incredibly creepy.`
+char_non: `But there were several large tools there, and I was able to find a fire hatchet and a massive bolt cutter.`
+char_non: `And............Grandfather's corpse too.`
+char_non: `No, strictly speaking, I should probably say that I found the burnt corpse of a person who was probably Grandfather.`
+char_non: `Someone's corpse had been stuffed into the blazing fires of the boiler......`
+char_non: `However, by coincidence, I was able to notice the number of toes on the corpse.`
+char_non: `......Both feet had six toes.`
+char_non: `......Yeah, actually, I might have heard that from Dad at some point, long ago.`
+char_non: `Something about Grandfather having polydactyly, with extra toes.`
+char_non: `It was apparently an old Ushiromiya tradition for people with extra fingers or toes to be treated as a good omen, saying they had good fortune or something.`
+char_non: `......And that's why Grandfather was selected to be the next head...or something along those lines.........`
+char_non: `But I wonder if I can be certain this is Grandfather's body just from the number of toes.`
+char_non: `After all, Grandfather was supposed to be the leader of the group of culprits.`
+char_non: `I don't have a clue why he'd be dead and stuffed in a boiler in a place like this.`
+char_non: `A mysterious corpse, burning and belching out a terrible stench amid the flames.`
+char_non: `......If it really was Grandfather,`
+char_non: ` ............did that mean that the leader of the group of culprits wasn't Grandfather, but that {f:5:Beatrice} after all......?`
+char_non: `Grandfather was used because he was convenient, and was then thrown away at the end?`
+char_non: `.........Unfortunately, it didn't look like I'd be given a chance to hear Grandfather's explanation...`
+char_non: `Now that I had obtained a tool, I thought about immediately taking on the cover to the well,`
+char_non: ` but I decided to break the shutter to the gardening shed first.`
+char_non: `......I had plenty of time to kill anyway.`
+char_non: ` I thought I should check on the condition of Gohda‐san and Kumasawa‐san's corpses.`
+char_non: `I hit the shutter with the hatchet, breaking into it,`
+char_non: ` stuck the bolt cutter into the crack,`
+char_non: ` and scissored it around, opening up a hole.`
+char_non: `Then, I came face to face with Gohda‐san and Kumasawa‐san's corpses once more......`
+char_non: `As a result, I learned some new facts.`
+char_non: `First, they did not die by being hanged.`
+char_non: `{n}Their feet were solidly on the floor.`
+char_non: `......And both of their foreheads showed signs that they had been shot with a gun.`
+char_non: `When I thought about what a normal noose was like, the ropes seemed considerably on the long side.`
+char_non: `On top of that, the length was different on each to match the height of each person.`
+char_non: `In other words, the lengths had been adjusted so that both Gohda‐san, who was tall, and Kumasawa‐san, who was short,`
+char_non: ` had their feet solidly but barely on the ground.`
+char_non: `Also, while the ropes carried both of their weights as their heads lolled, both of them had some slack below their knees.`
+char_non: `This meant that if they stood upright with these nooses around their necks, there would be some extra length.`
+char_non: `In other words, these ropes were a bit unsuitable to hang someone with.`
+char_non: `The direct cause of death was probably the shot to the head.`
+char_non: `It was gruesome.`
+char_non: ` Their insides were still dripping out from those deep holes, staining their faces a deep red.`
+char_non: `Then they were hung up by their necks and left on display—that probably makes the most sense.`
+char_non: `......If they were shot with a gun, they would probably have been lying down on the floor.`
+char_non: `......If that had been the case, you wouldn't have been able to tell they were dead by peeking through the window.`
+char_non: `The mountain of stuff would have gotten in the way, so if they had been lying down, they would have been hidden.`
+char_non: `To make the deaths of these two known to the rest of us who couldn't get inside,`
+char_non: ` they had to hang them like this so we could tell from the outside.`
+char_non: `.........Was this......to get back at us for thinking that the two of them would surely be safe if we left the key with them......?`
+char_non: `I wonder where the shutter key we gave Gohda‐san, which should have ensured their safety, is now...`
+char_non: `That key.........was in his trouser pocket.`
+char_non: `{n}The gardening shed key had been kindly left there, and even the tag was still attached.`
+char_non: `In other words, the gardening storehouse was a locked room after all.`
+char_non: `And that gave rise to another question.`
+char_non: `{n}......Because this hanging was inexplicable.`
+char_non: `If they didn't commit suicide, then the nooses were set up by the culprit.`
+char_non: `......It might have been possible to shoot them through the window, but I really can't imagine that someone could have tied two ropes to the beam from the outside.`
+char_non: `And on top of that, they would have had to lift up the heavy corpses—there's just no way.`
+char_non: ` In other words, to do all of this, they would have had to go inside.`
+char_non: `But the key was in Gohda‐san's pocket, and the shutter was still locked.`
+char_non: `In other words, the gardening storehouse was a locked room.`
+char_non: `Gohda‐san had said that there was only one key for this shutter.`
+char_non: `......But is it possible that there was a copy,`
+char_non: ` ......and that the culprit was in possession of it......?`
+char_non: `If we're allowed to theorize that there were actually multiple gardening storehouse keys, and that Gohda‐san just didn't know about them,`
+char_non: ` then this isn't even close to a locked room.`
+char_non: `.........But why is it that, despite the fact that almost all of the other corpses were shot to death and left almost completely alone,`
+char_non: ` these two corpses alone were intentionally hoisted up?`
+char_non: `I couldn't help but feel something a bit odd about that......`
+char_non: `Assuming that the mystery corpse in the boiler was Grandfather,`
+char_non: ` ......the deaths of 16 people had now been confirmed.`
+char_non: `There were 18 people on this island.`
+char_non: ` There's me, and 16 corpses.`
+char_non: `Kanon‐kun's corpse was the only one I hadn't been able to confirm yet.`
+char_non: `According to Kyrie‐san, he was killed while climbing out of the well, and fell down into it.`
+char_non: `So with the well closed up like this, it was impossible to check.`
+char_non: `I tried shining a flashlight through the bars, down into the darkness in the depths of the well.`
+char_non: `But it seemed that the jet‐black darkness had no intention of showing me its innermost depths with this inadequate light...`
+char_non: `It looked like I'd have to break the bars after all.`
+char_non: `Using the hatchets and things I'd dragged out of the boiler room and the gardening shed, I tried breaking the cover of the well.`
+char_non: `But the metal bars were extraordinarily sturdy, and breaking them wasn't easy.`
+char_non: `......I hit them with the hatchet over and over, until my hands started feeling weird, and eventually gave up on breaking them......`
+char_non: `......It was impossible.`
+char_non: ` If they were at least wood, I might have been able to break them.`
+char_non: `{n}But this metal...`
+char_non: `Yeah, there's no way you can slice through metal bars like butter with a human's strength.`
+char_non: `......I can't even begin to understand......that story about how Kanon‐kun cut through the metal bars.`
+char_non: `She told me that a light like a red laser beam grew out of his arm,`
+char_non: ` and he used it to slice through the metal bars like a knife through butter.`
+char_non: `Cutting through metal bars like butter...?`
+char_non: `......And what's with the red laser beam.`
+char_non: `{n}Does that mean he snuck in a burner or something,`
+char_non: ` and used that to burn through the bars......?`
+char_non: `Still, just what kind of laser.........could cut through metal bars like {i:butter}?`
+char_non: `...It sounds exactly like the kinds of laser beams that showed up in those robot anime I loved as a kid.`
+char_non: `Does stuff like that actually exist......?`
+char_non: `{n}And how did Kanon‐kun get that laser beam......?`
+char_non: `As much as I want to ask him, he's already been killed.`
+char_non: `{n}Plus, even his corpse is now at the bottom of the well, beyond this cover.`
+char_non: `If Kanon‐kun managed to slice through those metal bars, I'm sure he could handle this metal cover in a single swing.`
+char_non: `......It kind of feels like the locked room just now, with Gohda‐san locked inside the gardening storehouse holding the key.`
+char_non: `Only one person can open the door, but they're locked inside......`
+char_non: `......If only I had that power of Kanon‐kun's, I could do something about this cover myself......`
+char_non: ` .................................`
+char_non: `Just who is Kanon‐kun?`
+char_non: ` He couldn't really be......an inhuman being capable of using a strange power, right?`
+char_non: `Even Kyrie‐san told me to believe in witches, and I've also met an insane woman calling herself one.`
+char_non: `...Could Kanon‐kun possibly be...`
+char_non: `...a human on the witch side...?`
+char_non: `{n}......Or else...`
+char_non: `......the culprit?`
+char_non: `............What the heck.`
+char_non: `{n}......Am I gonna start treating him like the culprit...just because I can't find his corpse?`
+char_bea: `Hoh, ......treating him like the culprit simply because there is no corpse...?`
+char_bea: `{n}`
+char_bea: `And who was the one babbling about the suspicious being innocent......?`
+char_bea: `.........Very well, I couldn't bear having you push all the crimes on Kanon and making that into a human culprit theory.`
+char_bea: ` I will guarantee it with the red...`
+char_bea: `{p:1:Kanon is dead}.`
+char_bea: `{n}`
+char_bea: `{p:1:Among the five in Kyrie's group, he was the first to die}.`
+char_bea: `{n}`
+char_bea: `{p:1:In short, he was the ninth victim}.`
+char_but: `"......Since there's no corpse, ......I can't say for sure...`
+char_but: `that Kanon‐kun is dead."`
+char_bea: `So, my whispering in red does not reach the piece you.......`
+char_bea: `{n}.........But it did reach {i:you}, right.........?`
+char_bea: `At a glance, this appeared to be a mass murder committed using something strange that could only be thought of as magic.`
+char_bea: `......Golden threads that attacked through keyholes.`
+char_bea: ` No, we even had testimony that something gold had flown around the dining hall during the first six murders.`
+char_bea: `The two might have been the same weapon.`
+char_bea: `Then there was the locked‐room murder of the garden shed, and the laser beam that could cut metal bars.`
+char_bea: `......And that wasn't all.`
+char_bea: `There was much, much more...like the group of goat monsters,`
+char_bea: ` the talk of a witch who could create pitfalls just by snapping her fingers, the rabbit‐like demons who had fired golden threads...`
+char_bea: `I think there were more, .........and each and every one of them was ridiculous.`
+char_bea: `I couldn't possibly accept it, and was forced to suspect that there was some kind of trick or mistake.`
+char_bea: `......But why in the world had everyone spoken with one voice, saying the same thing without contradictions in their testimony...?`
+char_bea: `It's not only the magic.`
+char_bea: `Maria's mysterious death.`
+char_bea: `Jessica somehow knowing that George‐aniki had been killed.`
+char_bea: `The mysterious burnt corpse which I couldn't confirm actually belonged to my piece‐of‐shit grandfather.`
+char_bea: `......And more, and more.`
+char_bea: `All stuff I just don't get......!`
+char_bea: `I tilted the bottle and glugged it down noisily.`
+char_bea: `{n}......I didn't have a clue what was going on.`
+char_bea: `After dinner last night, we kids were shooed out of the mansion and told to go back to the guesthouse,`
+char_bea: ` .........and then there was a massacre in the dining hall.`
+char_bea: `Kyrie‐san and the rest were dropped through pitfalls and captured.`
+char_bea: `Then Jessica and George‐aniki were called out to a test or whatever and killed.`
+char_bea: `Kyrie‐san's group managed to escape the dungeon somehow, but all of them were killed in the end.`
+char_bea: `And at the very, very end, even Maria was killed, leaving me all alone.`
+char_bea: `.........In short, I had done nothing except be locked up in the guesthouse.`
+char_bea: `During that time, a huge incident had occurred, and ended, before I knew it.`
+char_bea: `What could I call it except incomprehensible?`
+char_bea: `{n}I don't have a clue anymore!`
+char_but: `"Now I'm nothing but a pig.`
+char_but: ` You plan on leaving only me alive...?`
+char_but: ` Hurry up and show yourself and come kill me already.`
+char_but: ` I can't be bothered to look for you anymore."`
+char_but: `"You show me your true form yourself......!`
+char_but: ` I won't run or hide, so come at me with arrows or bullets or whatever...!"`
+char_non: `I haven't had any sleep since yesterday, and I'm tired as all get‐out.`
+char_non: `{n}You wanna kill me, be my guest.`
+char_non: `I decided to return to the guesthouse and boldly rest on the bed.`
+char_non: `......As I exited the kitchen and passed through the lobby,`
+char_non: ` .........that portrait of the witch came into view.`
+char_non: `The big clock did too.`
+char_non: `{n}......At that very moment, it was exactly midnight.`
+char_non: `And the sound of the bell, proclaiming that it was midnight, rang out......`
+char_non: `As I listened, ......I looked up at {f:5:Beatrice}'s portrait.`
+char_non: `Exactly twenty‐four hours ago, I met you.`
+char_non: `What were you trying to say to me...?`
+char_non: `{n}And where did you go?`
+char_non: `Just who in the world are you.........?`
+char_non: `{n}Golden Witch, {f:5:Beatrice}.`
+char_non: `I haven't solved a single one of the riddles surrounding you......!`
+char_non: `Show yourself...`
+char_non: `{n}.........And fight with me...!!`
+char_non: `Then......the witch showed herself.`
+char_non: ` Like a guest of honor finally appearing, she showed herself on the landing at the top of the big staircase......`
+char_but: `"So you finally show yourself......`
+char_but: ` ......I've been kept bored for an entire day."`
+char_bea: `"...............Yes.`
+char_bea: ` I gave you a whole day.`
+char_bea: ` Were you able to sufficiently exercise the rights of the {y:0:Human}{n:0:human} side?"`
+char_but: `"Yeah.`
+char_but: ` I was bored, so.`
+char_but: ` I had a good go at it."`
+char_bea: `"............Ange...was a good piece."`
+char_but: `"Don't you......speak Ange's name."`
+char_bea: `".........She appeared through a miracle, and sacrificed herself to give you the tenacity for certain victory."`
+char_but: `"Don't you...speak Ange's name."`
+char_bea: `"............That brutal death was something that you needed.`
+char_bea: ` If you hadn't seen that death, you would not have grown serious.`
+char_bea: ` Without the wake‐up call of Ange's ill‐fated future, the tenacity for victory would not have arisen within you."`
+char_but: `"I told you not to speak Ange's name...!!"`
+char_bea: `"............In short, she was a necessary sacrifice.`
+char_bea: ` Otherwise, an anger great enough to kill me would not have been born within you.`
+char_bea: ` The rivalry between us cannot be destroyed."`
+char_bea: `"Curse that Lady {f:5:Bernkastel}—this was no piece, it would be more fitting to call it a trump card.`
+char_bea: ` ......No matter how helpful a piece is, it will never stray from the board.`
+char_bea: ` But a trump card, no matter how powerful its effect, is always discarded after it is used."`
+char_bea: `"Ange was truly a good trump card for you."`
+char_but: `"Don't you...speak Ange's naaaaaaaaaaaaaaaaame!!!"`
+char_non: `At Battler's outburst of rage, Beato finally stopped talking.`
+char_but: `"......You know, I have no more time to spend playing around in a place like this.`
+char_but: ` ......Even our draws are keeping Ange waiting."`
+char_but: `"............I am going to break through you,`
+char_but: ` ......take my family,`
+char_but: ` ......and go back home!!`
+char_but: ` I don't have a single second to waste playing witches with you!!"`
+char_bea: `"In that case, I assume you know.`
+char_bea: ` What must be done."`
+char_but: `"Yeah!`
+char_but: ` I'll beat you down!!`
+char_but: ` I'll blast away all witches, magic, illusions, and delusions!!"`
+char_but: `"Alright, let's do this!!!`
+char_but: ` I won't ever let you trick me again!!`
+char_but: ` The game's restarting, you ready?!`
+char_but: ` I'll tear apart the witch's veil that conceals the outright lie you are!!!"`
+char_bea: `"You talk too much.`
+char_bea: ` All you have to do is simply say "I will kill you"."`
+char_but: `"Yeah.`
+char_but: ` If those are the words you want, ......I'll say them for you.`
+char_but: ` This is the first and last wish of yours that I'll lend an ear to."`
+char_bea: `"............I thank you."`
+char_but: `"I will.................."`
+char_bea: `"..........................."`
+char_bea: `"Then by all means!!`
+char_bea: ` Let us begin, Battler...!!`
+char_bea: ` Come, it is time for the witch hunt...!!`
+char_bea: ` Try and chase me, try and corner me, try and kill me! I'm expecting a lot from you!!`
+char_bea: ` Try and show me what your little sister gave you in her last moments...!!"`
+char_but: `"Bring it oooooooooooooooooooooonnn!!!"`
+char_non: `......Battler's cry burned the world with a white light.`
+char_non: `And when one's eyes were opened to that brilliant light, ......the two of them could be seen in a rose garden......`
+char_bea: `".........Who takes the first move?"`
+char_but: `"Me."`
+char_bea: `"How brave."`
+char_non: `The rose garden, where beautiful rose petals danced.`
+char_non: `{n}The color of those rose petals...was red.`
+char_non: `Was that a proof, or simply a claim, that the two of them facing each other in this beautiful rose garden...`
+char_non: `was the red and only truth?`
+char_non: `.........That must be why...the roses are red.`
+char_non: `But in the language of flowers, roses are passion.`
+char_non: `{n}......Not truth.`
+char_non: `The flower for truth is a forget‐me‐not.`
+char_non: `{n}That flower......is blue.`
+char_but: `"I'll pierce through everything with my blue truth.`
+char_but: ` .........From the very beginning of it all.`
+char_but: ` I'll start from the very first game!"`
+char_bea: `"Very well.`
+char_bea: ` Show me your skill.`
+char_bea: ` ...Come."`
+char_but: `"Here I go.........`
+char_but: ` I've already proclaimed it, but I'll say it again.`
+char_but: ` ......This isn't just for the murder of Doctor Nanjo in the last game.`
+char_but: ` This will tear apart every scene from every game since the beginning...!!"`
+char_but: `"{p:2:Ushiromiya Kinzo is already dead}!`
+char_but: ` {p:2:Therefore, the true number of people on the island is 17}!`
+char_but: ` {p:2:By adding an unknown person X to that, it becomes 18 people}.`
+char_but: ` {p:2:By supposing that this person X exists, the crime is possible even if all 17 people have alibis}."`
+char_but: `"{p:2:By this, even though the number of people reaches 18, it is still possible for culprit X to exist and carry out the crime even if all 18 people seem to have alibis}!!"`
+char_non: `You can break through all of the murders in Episode 1 by supposing an unknown person X.`
+char_non: `Furthermore, it is even possible to explain the mystery of Kinzo's evaporation from the locked room sealed by the receipt,`
+char_non: ` by making the bold assumption that Kinzo wasn't there from the beginning.`
+char_non: `Unless Beato countered this with the red truth,`
+char_non: ` the witch illusions of Episode 1 would be completely smashed.`
+char_non: `.........The blue truth was valid.`
+char_non: `The wedge of blue truth that Battler had released stabbed right through the top of Beato's left foot.`
+char_non: `......Was the red blood that poured out from there her defense in the red truth...?`
+char_non: `Beato shut one of her eyes tight, enduring the unbearable pain from the wedge of blue truth that denied her.`
+char_bea: `"Hmm, not bad.`
+char_bea: ` ......But I am still far from denied, far from killed.`
+char_bea: ` ......That is not close to enough.`
+char_bea: ` .........The following games contain mysteries that cannot be explained with that alone, do they not?"`
+char_but: `"......Which mysteries?"`
+char_bea: `"In the final stages of the second game,`
+char_bea: ` George, Gohda, and Shannon barricaded themselves in Natsuhi's room, and were killed.`
+char_bea: ` The key by which they unlocked Natsuhi's room was locked up inside the room, and all of the remaining keys that could unlock the door were in the hands of Rosa.`
+char_bea: ` Even if culprit X existed, it should be impossible to construct a locked room."`
+char_non: `The blue wedge piercing Beato shook.`
+char_non: `{n}She was resisting, fighting to push it out.`
+char_but: `"No, that doesn't shake my blue truth.`
+char_but: ` If culprit X was in possession of a master key, that's not even close to a locked room."`
+char_bea: `"No, it was impossible for the culprit to obtain one.`
+char_bea: ` {p:1:All of the master keys were under Rosa's control}!"`
+char_but: `"But that's meaningless if Aunt Rosa was an accomplice to the culprit!`
+char_but: ` {p:2:Aunt Rosa handed a key over to culprit X by some method, assisting in the locked‐room murder}!`
+char_but: ` {p:2:And after that, she retrieved the key by a similar method}!"`
+char_but: `"You'll have to do better than that, Beato!!`
+char_but: ` I already put forward that theory at the time!"`
+char_bea: `"......*cackle*... So you did......"`
+char_bea: `"...Gwaaargh...!!!`
+char_bea: ` .........agh, ......nghh..."`
+char_non: `The wedge that had been gradually losing its brilliance, and seemed as though it was about to come out,`
+char_non: ` regained its strong blue again thanks to Battler's additional blue truth, and dug into Beato again, eating into her foot.`
+char_non: `Beato let out a moan of anguish at the pain of it.`
+char_bea: `".........guh, ......ohh......`
+char_bea: ` .........Not yet...`
+char_bea: ` This is still nothing......`
+char_bea: ` Not yet,`
+char_bea: ` .........not yeeeeeeeet!!"`
+char_but: `"Continuing on to the third game.`
+char_but: ` The six linked locked rooms, the murders of Auntie Rosa and Maria, the deaths of Dad and the others in the hall, and the murders of Uncle Krauss and Aunt Natsuhi...`
+char_but: `all of them`
+char_but: ` {p:2:can be explained if we suppose that Aunt Eva was the culprit}."`
+char_but: `"This argument was already won back then.`
+char_but: ` And even that final riddle you proposed through {f:5:Eva},`
+char_but: ` {p:2:the murder of Doctor Nanjo, can be explained with an 18th unknown person X}.`
+char_but: ` Now I've broken through the entire third game!!! Can you counter that?!"`
+char_bea: `"Mgh, gh...!!`
+char_bea: ` ......O‐of course......!`
+char_bea: ` This much is......nothing to worry about......!"`
+char_bea: `"In that case, how do you explain George's disappearance from the guesthouse?`
+char_bea: ` I shall add to the red truth.`
+char_bea: ` {p:1:George did not go down the stairs of the guesthouse}.`
+char_bea: ` He flew out through the window!"`
+char_non: `In the final stages of the third game, George suddenly vanished from the second floor of the guesthouse.`
+char_non: `Eva, who had been on the first floor, claimed that no one had come downstairs,`
+char_non: ` but if, as the blue truth claimed, she had carried Krauss and Natsuhi's corpses outside, there was the possibility that George could have secretly gone downstairs during that gap in time and escaped.`
+char_non: `But by adding on to the red truth, Beato had disproven that.`
+char_non: `To go outside without going down the staircase to the first floor, he would have had to leave by the window.`
+char_non: ` But all of the windows were locked from the inside...!`
+char_but: `"So what.`
+char_but: ` It's just like you said.`
+char_but: ` He flew out the window, right?`
+char_but: ` Even if he did jump down, you couldn't tell by the grass, and it was raining so hard.`
+char_but: ` Any light traces would have disappeared."`
+char_bea: `"I will repeat the red truth.`
+char_bea: ` {p:1:All windows and doors leading to the outside were locked from the inside}.`
+char_bea: ` {p:1:Furthermore, it is impossible to lock any of those from the outside}!`
+char_bea: ` George had no technique by which to lock them...!"`
+char_but: `"I will repeat the blue truth.`
+char_but: ` I said it myself at the time.`
+char_but: ` {p:2:In that case, everything works out as long as someone locked the window after George‐aniki escaped through it}!`
+char_but: ` Nothing difficult about it!!"`
+char_bea: `"Gwaaaaaaaahhaaaaah...!!`
+char_bea: ` Gguuuuhhh...... Is this not......enough to resist...... Is it not enough......?"`
+char_non: `Beato couldn't remove the blue wedge that was buried into her foot.`
+char_non: `{n}The fake witch was burned more and more by the strong blue......`
+char_but: `"In all games up to the third, there is still nothing that shakes the blue truth.`
+char_but: ` ......In that case, the only game that can prove you're a witch......is this game, the fourth game."`
+char_bea: `"......As I have not countered with the red truth, that is indeed the case.`
+char_bea: ` I will have to prove witches with only this game.`
+char_bea: ` .........Very well.`
+char_bea: ` Hold nothing back."`
+char_but: `"There's nothing strange about the six murders in the dining hall.`
+char_but: ` {p:2:The 18th person X went wild with a gun and killed everyone}.`
+char_but: ` {p:2:Regarding the pitfalls, there is every chance that pitfalls truly were hidden there,`
+char_but: ` and it's also possible to explain them with Kyrie‐san's theory hypothesizing the existence of a poison‐dart‐shooting device X which can knock a person out instantly}."`
+char_but: `"{p:2:The murders of George‐aniki, Jessica, and those who escaped from the dungeon can also be explained with guns, just like the dining hall}.`
+char_but: ` There's nothing strange about it!"`
+char_but: `"But I know you, you've got a counterattack, right?`
+char_but: ` Bring it on!!"`
+char_bea: `"Your greatest sword, this 18th person X, is based on the theory that Kinzo was already dead.`
+char_bea: ` I knew that you would make that claim.`
+char_bea: ` That is why I took Kinzo out of his study."`
+char_bea: `"Everyone at the family conference welcomed that Kinzo, did they not?`
+char_bea: ` {p:1:All of those present at the family conference acknowledged the existence of Kinzo}!"`
+char_but: `"Uh‐huh.`
+char_but: ` But Grandfather's supposedly been seriously ill, confined to his bed, hovering on the verge of death for ages, right?`
+char_but: ` Even if he was so worn out that he looked like a different person, maybe no one would have paid that any notice, what about that?"`
+char_but: `"I'll come back at you with this.`
+char_but: ` {p:2:That Grandfather was a different person, a body double}.`
+char_but: ` {p:2:A different person who the relatives mistook for Grandfather}!"`
+char_bea: `"Then I'll respond with this.`
+char_bea: ` {p:1:No person would mistake Ushiromiya Kinzo by sight}.`
+char_bea: ` {p:1:No matter what the disguise, they would not mistake Ushiromiya Kinzo by sight}!"`
+char_but: `"Then how about this.`
+char_but: ` {p:2:By declaring with the red truth in the second game that the number of master keys was five, when in the first game the number was more than five,`
+char_but: ` you changed the premises of the later games}."`
+char_but: `"{p:2:In the same way, there is a possibility that Kinzo's life or death status was changed for the fourth game}."`
+char_but: `"{p:2:Therefore, Kinzo's existence in the fourth game does not serve as proof that he existed in the previous games}...!`
+char_but: ` {p:2:Therefore, even if we suppose that the six murders in the dining hall were carried out by Grandfather himself, it doesn't create any contradictions}!"`
+char_bea: `"Then I'll counter with this.`
+char_bea: ` {p:1:Kinzo's life or death status is the same at the start of each of the four games}.`
+char_bea: ` {p:1:The setup was not different for the fourth game alone}...!"`
+char_but: `"Repetition requested.`
+char_but: ` "Kinzo was alive at the start time of every game"!"`
+char_bea: `"Decline repetition.`
+char_bea: ` I won't answer, Battler.`
+char_bea: ` I will not respond with the red truth you desire...!"`
+char_but: `"......Damn it......old man, you're standing in my way...!!`
+char_but: ` Are you putting yourself on the line to protect {f:5:Beatrice}, your beloved witch?!"`
+char_non: `My goddamn grandad wavered into vision.`
+char_non: `......Heh, is he trying to be some kind of knight, blocking the way between me and Beato...?!`
+char_kin: `"*cackle*cackle*cackle*, Battler.`
+char_kin: ` Are you capable of surpassing me...?"`
+char_kin: `"I won't let you reach, I will not let you reach, ......not to heights of the Golden Witch, ohhhhhhh no!`
+char_kin: ` Fuhha{0}ha{0}ha{0}ha{0}ha{0}ha{0}ha{0}hahaha!!`
+char_kin: ` Your shallow logic cannot even surpass me alone!`
+char_kin: ` Die!!!"`
+char_non: `Kinzo's jet‐black cape spread as though it would swallow the world,`
+char_non: ` becoming the snout of a vast black dragon, which came at me, trying to swallow me in one mouthful.`
+char_non: `......As I faced the roaring of the black dragon, I calmed my breathing and closed my eyes lightly......`
+char_kin: `"I'll swallow you up in a single gulp!!`
+char_kin: ` Begone, you witless, inadequate foo{-}o{-}o{-}o{-}o{-}o{-}o{-}o{-}o{-}ool!!!"`
+char_but: `".........Shut your trap, you damn undying ghost."`
+char_kin: `"Hoh, so you call me a ghost.`
+char_kin: ` You intend to see it through to the end, then, this theory that I am already dead!!`
+char_kin: ` That will be your undoing!!`
+char_kin: ` On the first twilight of the fourth game, the darkness shall swallow you up!!"`
+char_non: `The black dragon's vast mouth, its snout, its fangs...threatened to swallow Battler whole...!!!`
+char_non: `In that instant, Battler suddenly opened his eyes!`
+char_but: `"Thanks, {f:5:Beatrice}.`
+char_but: ` Your third game was the foothold I needed for my counterattack."`
+char_bea: `"What...?"`
+char_but: `"See ya, my old old bastard.`
+char_but: ` This is goodbye.`
+char_but: ` .........I lay out the following theory to demonstrate that I can apply the dead‐Kinzo hypothesis even to the fourth game!"`
+char_kin: `"So be it! Come at me with all you have, my descendant!!"`
+char_but: `"Here I go, you sack of old bones!!`
+char_but: ` {p:2:My theory is that Kinzo's name is passed on as the title of the Ushiromiya family head}!"`
+char_but: `"{p:2:Ushiromiya Kinzo was already dead}.`
+char_but: ` {p:2:And he passed {i:his name} on to someone else}!`
+char_but: ` {p:2:Everyone acknowledged it}!!`
+char_but: ` {p:2:And, therefore, ‘all of those present at the family conference acknowledged the existence of Kinzo’}!!"`
+char_but: `"{p:2:There wasn't even any need for this person to disguise themselves as Grandfather}.`
+char_but: ` {p:2:Because everyone recognized a new ‘Kinzo’}!`
+char_but: ` {p:2:Therefore, they didn't actually ‘mistake Kinzo by sight’}!!`
+char_but: ` {p:2:As long as the preceding theory is not disproven, nothing can change the fact that you're dead}!!!"`
+char_but: `"This is the final blow.`
+char_but: ` Old geezer, this repetition request is for you.`
+char_but: ` "Not one person present had multiple, differing names"!!"`
+char_kin: `"I... I...can...not............!!`
+char_kin: ` Gah, gwoooooooooooooooooooragghgghghh!!"`
+char_but: `"Rest in peace, you old grandbastard.`
+char_but: ` You should thank me—you were finally able to die.`
+char_but: ` This is your requiem, take it and drop dead!!"`
+char_but: `"{p:2:Ushiromiya Kinzo was already dead}!`
+char_but: ` {p:2:Yeah, poor old you—whenever we find your corpse, it's always completely burnt}.`
+char_but: ` {p:2:That was a gimmick to prevent discovery of the fact that time had passed since your death}!!"`
+char_but: `"{p:2:And you passed your name onto someone else}!!`
+char_but: ` {p:2:With this theory, even though {i:you} are dead, {i:"Kinzo"} can still appear at the family conference}!!!"`
+char_but: `"{p:2:How's that? This is checkmaaaaaaaaaaaate}!!"`
+char_non: `Several dozen blue stakes bored into Kinzo's ghost.`
+char_non: ` Their terrible destructive power would never permit the ghost to recover......!!`
+char_kin: `"......{f:5:Be......atr...ice}........."`
+char_bea: `".........Kinzo...`
+char_bea: ` Thank you for everything.`
+char_bea: ` ......Rest...in peace......`
+char_bea: ` I will not forget......the days I spent with you........."`
+char_non: `Dispersing along with the shadow of the black dragon as golden flower petals scattered,`
+char_non: ` ......Ushiromiya Kinzo became a gold‐colored cyclone and disappeared......`
+char_non: `Even after death, you fought for the sake of the woman you loved.`
+char_non: `{n}......Your love and madness were, without a doubt, the real thing......!`
+char_bea: `"...............ngh, ............Battler............"`
+char_but: `"No hard feelings.`
+char_but: ` ......Let the dead sleep.`
+char_but: ` Don't wake them.`
+char_but: ` ......You're next.`
+char_but: ` And you'll be the last."`
+char_non: `Beato still couldn't pull out the blue wedge that pierced her foot...`
+char_non: `{n}Beato realized that she was on the verge of death...`
+char_but: `"I've gone along with you a whole bunch.`
+char_but: ` I think I've more than fulfilled any responsibility to play with you.`
+char_but: ` ......But it's about time to finish things up.`
+char_but: ` I've got a lonely little sister waiting at home."`
+char_but: `"......Me and my family are going home...!!"`
+char_bea: `"......Then kill me.`
+char_bea: ` ......Then try and kill me!`
+char_bea: ` ......I will not run or hide—at this point, even dodging is beyond my capabilities!!`
+char_bea: ` Come ooo{-}o{-}o{-}o{-}o{-}o{-}o{-}o{-}o{-}o{-}o{-}o{-}o{-}o{-}o{-}o{-}o{-}o{-}o{-}oon, Ushiromiya Battleee{-}e{-}e{-}e{-}e{-}e{-}e{-}e{-}e{-}e{-}e{-}eer!!!"`
+char_but: `"You got it!!`
+char_but: ` With the 18th person X from the dead‐Kinzo theory, everything remaining is pierced through!"`
+char_but: `"{p:2:George‐aniki and Jessica's deaths in the fourth game can also be explained by culprit X}!!`
+char_but: ` {p:2:And the five who escaped from the dungeon and were killed, and the two in the gardening shed, and Maria in the end}!`
+char_but: ` {p:2:All of those can be explained with an 18th person X}!!`
+char_but: ` {p:2:There's nothing strange at all}!!"`
+char_but: `"This concludes the explanation of the culprit, with humans, for all games!!`
+char_but: ` {f:5:Beatrice}, ......this here is...checkmaaaa{-}a{-}a{-}a{-}a{-}a{-}a{-}aate!!"`
+char_bea: `"Uuhk......uaaaaAAAAaaaaAaAAaaaaaahhh......aah—hhk—"`
+char_non: `Several blue stakes were driven into {f:5:Beatrice}, who could not dodge, skewering her......`
+char_non: `Beato grabbed the stakes, trying to pull them out somehow...`
+char_bea: `.........Aaaaaaahhhh,`
+char_bea: ` ......he got meee......`
+char_bea: ` .........It huurts.........`
+char_bea: `...Yeah, this'll.........kill me.........`
+char_bea: `{n}`
+char_bea: ` ......If I don't pull these out,`
+char_bea: ` .........I'll die......`
+char_bea: ` I don't want pain......`
+char_bea: ` ......I don't want to...`
+char_bea: `......suff.....er.........`
+char_bea: `With both hands, ......Beato firmly grasped one of the blue stakes.`
+char_bea: `......Naturally, the power of the blue truth to deny witches burned her hands.`
+char_bea: `...Unable even to hide her tears at the pain, Beato howled and tried to pull the stakes out with all her might......`
+char_bea: `If I can't pull these out, .........I'll die.........`
+char_bea: `{n}`
+char_bea: ` ......This is.........the final counterattack...............`
+char_bea: `"Then Battler......`
+char_bea: ` ......All my numerous displays of magic, .........how do you explain those......?`
+char_bea: ` .........The very first time they appeared......was in the second game, when I fixed Maria's pumpkin marshmallow for her.`
+char_bea: ` At that time, Rosa definitely witnessed that magic."`
+char_non: `Certainly, Rosa had witnessed gold butterflies gather and fix a marshmallow by the miracle of magic.`
+char_bea: `"......*cackle*cackle*...`
+char_bea: ` ......Rosa alone witnessing it isn't very credible, right...?`
+char_bea: ` That's why I increased the number of witnesses to the uppermost limit.`
+char_bea: ` ......Which is what......this last game was all about......"`
+char_bea: `"The summoning of my minions!`
+char_bea: ` And those brutal magical murders!`
+char_bea: ` All of them were witnessed by a great many people...!!`
+char_bea: ` That is itself......proof that my magic exists...!!`
+char_bea: ` How do you......explain that, Ushiromiya Battleee{-}e{-}e{-}e{-}e{-}e{-}e{-}e{-}e{-}e{-}e{-}e{-}e{-}e{-}e{-}e{-}e{-}eerr.........!!!"`
+char_but: `".........Stalemate."`
+char_bea: `"...............Wh‐......whaat......?"`
+char_but: `"‘Magic exists because magic exists’.`
+char_but: ` I believe the rules of our Braun tube trial say that that kind of argument doesn't work."`
+char_bea: `".........Ye‐......s, ...you're right.........`
+char_bea: ` ......Heh.........mmhk...ghhh..."`
+char_but: `"No matter who—!!`
+char_but: ` Or how many people—!!`
+char_but: ` Witness magic—!`
+char_but: ` That will never be proof of magic's existence!!"`
+char_but: `"Whether all the magic you've shown exists or not, I can ignore it all and explain things with {y:0:Human}{n:0:human}s.`
+char_but: ` That's my inviolable right.`
+char_but: ` ......Am I wrong?"`
+char_non: `At those words, the blue stakes let out an even brighter light, repelling my hands away.`
+char_bea: `......As I feared,`
+char_bea: ` .........I can't pull them out after all.........`
+char_bea: ` ............ggghh.........`
+char_bea: `As Battler is now, even if I cited each individual piece of magic and demanded an explanation for each, he would probably use any means available to him to deny all of them.`
+char_bea: `......Not just the marshmallow magic that I showed Rosa, ...but all of my magical miracles.`
+char_bea: `I can no longer even {i:claim} to be a witch without entering into debates about how something like a marshmallow was fixed...`
+char_bea: `I am in such an inferior position that I am forced to fight over trivialities like that......`
+char_bea: `It might be.........impossible for me.........`
+char_bea: `......I knew this...`
+char_bea: `This was a game without victory from the very beginning.`
+char_bea: `{n}`
+char_bea: `...So it was only natural that the day of my defeat would eventually come.`
+char_bea: `Have I fought Battler...`
+char_bea: `up until today...`
+char_bea: `......just in order to lose to him.........?`
+char_bea: `............I began these games...thinking I might be able to win.`
+char_bea: `Even if I wouldn't be able to win easily, I believed that in a game repeating endlessly, a miracle would eventually occur.`
+char_bea: `......After all, I had the absolute determination to win for certain.`
+char_bea: `......But now, I have completely lost that miracle.`
+char_bea: `And...absolute, certain determination resides in Battler, ......leaving {ruby:watashi:me} with no miracle for certain.`
+char_bea: `No, perhaps I should say with no {i:miracles or certainty}......`
+char_bea: `No victory, and no conclusion through a draw.`
+char_bea: `......The only resolution permitted is...`
+char_bea: `...defeat......and until it is given to me,`
+char_bea: ` .........all I can do in this game is continue on resisting......`
+char_bea: `That's right, I'm...`
+char_bea: `......fighting.........only so that I can be killed by Battler.........`
+char_bea: `......I looked into Battler's eyes.`
+char_bea: `{n}It was not me inside them.`
+char_bea: `.........Reflected in those eyes were the figures of the little sister waiting for his return, ...and the family he had to bring back to her.`
+char_bea: `He no longer sees me......even as an individual.`
+char_bea: `...Of course he doesn't.`
+char_bea: ` From the very beginning, he has been fighting to deny the individual I am.`
+char_bea: `............Ahh, ...that last game...`
+char_bea: ` ...That was so much fun......`
+char_bea: `{n}`
+char_bea: `All it was was a little bit of a trick,`
+char_bea: ` ......but for even just a short period of time, it felt like we understood each other, ......and it was so much fun......`
+char_bea: `......That's right,`
+char_bea: ` ......I should have settled right there and then...`
+char_bea: `I should have continued for eternity with Battler totally fooled...`
+char_bea: `............But...`
+char_bea: `......that just wouldn't be any good, would it...`
+char_bea: `{n}`
+char_bea: ` .........That...`
+char_bea: `just wouldn't be true victory.........`
+char_but: `"............Is this......checkmate?`
+char_but: ` {f:5:Beatrice}."`
+char_non: `Run through with several blue stakes, Beato was still in a standing position, skewered to the ground many times over.`
+char_non: `Unable even to fall over because of this,`
+char_non: ` .........and still looking up into the sky, ......she was sewn in place......`
+char_non: `Her tragic form might have been a fitting end...`
+char_non: `...for the cruel witch who had endlessly toyed with 18 people's lives, and who had killed constantly for hundreds and thousands of years.`
+char_non: `Gently, ......as though someone was mourning for something, ...rain began to fall.`
+char_non: `......Amid that rain, Beato was exposed to the elements, ......crucified......`
+char_but: `"......Is it over, Beato?"`
+char_bea: `"...............There is...`
+char_bea: `......nothing I can say........."`
+char_but: `"No way you're done.`
+char_but: ` You aren't a woman who'll let things end with just this."`
+char_bea: `"........................`
+char_bea: ` ..........Don't be...`
+char_bea: `.......unreasonable......`
+char_bea: ` .........How can you look at me,`
+char_bea: ` .........and think that this isn't...`
+char_bea: `......over......?`
+char_bea: ` ......Hurry up and deliver the final blow........."`
+char_but: `".........................................."`
+char_bea: `"...Just say it.`
+char_bea: ` ...With your...blue truth.`
+char_bea: ` ............‘Therefore,`
+char_bea: ` ......witches do not exist’...`
+char_bea: `......`
+char_bea: ` .........Just say it.........`
+char_bea: ` ......With that single blow,`
+char_bea: ` ......take my last...`
+char_bea: `............breath away........."`
+char_but: `"That's no good."`
+char_bea: `"............Hoh......`
+char_bea: ` .........You ask me to......continue subjecting myself to.........humiliation...`
+char_bea: ` It is already settled......"`
+char_but: `"Stand up.`
+char_but: ` Our brawl still isn't over."`
+char_bea: `"..................‘Still’, ......you say........."`
+char_but: `"What I see there isn't you losing.`
+char_but: ` You've just resigned, decided you've had enough."`
+char_bea: `".........What's...wrong with that......`
+char_bea: ` ......Resigning...`
+char_bea: ` ......It still means your victory.`
+char_bea: ` .........You should...`
+char_bea: `...return to your little sister...`
+char_bea: `right away......`
+char_bea: ` Just abandon me,`
+char_bea: ` .........right here........."`
+char_but: `"Didn't I tell you?`
+char_but: ` I won't run away.`
+char_but: ` And...`
+char_but: `I won't let you get away either."`
+char_bea: `"................................."`
+char_but: `"Who are you?`
+char_but: ` And what in the world was your purpose?"`
+char_bea: `If you want to know, ......why don't you just try your favorite move......?`
+char_bea: `"...............What does it matter...`
+char_bea: ` ...Just...`
+char_bea: `......a fantasy,`
+char_bea: ` ......an illusion......`
+char_bea: ` Can't you...`
+char_bea: `...leave it at that......?"`
+char_but: `"That's no goddamn good at all.`
+char_but: ` I won't let you...`
+char_but: `run away."`
+char_bea: `"......................................."`
+char_but: `"I'm going to defeat you.`
+char_but: ` Like hell I'm going to let you escape."`
+char_bea: `"................................."`
+char_but: `"I won't let you run back into the darkness of illusions, leaving you all vague like this.`
+char_but: ` .........I'm going to break through you.`
+char_but: ` Completely.`
+char_but: ` So on your feet.`
+char_but: ` Don't act all frail like that!`
+char_but: ` You're still hiding several moves!`
+char_but: ` I can tell!"`
+char_bea: `"...............Why......won't you just let me escape......?"`
+char_but: `"Dad, Mom, and Ange.`
+char_but: ` All of my cousins and all of my relatives.`
+char_but: ` And all of the servants.`
+char_but: ` All those times you killed them, all those times you toyed with their lives...!!`
+char_but: ` I will never forget and I will never forgive your inhumanity!"`
+char_but: `"I can still feel......Ange's arms on my shoulders...!!`
+char_but: ` I will {i:not} forgive your inhumanity...!!`
+char_but: ` So I won't let you get away like this...!!!"`
+char_non: `Battler's eyes burned with the flames of hatred...`
+char_non: `......The days when I could earn his passion by appearing frail are now a matter of the distant past.`
+char_non: `......Having been tricked once, Battler will never sympathize with me again.`
+char_bea: `Never mind the wolves and sheep puzzle,`
+char_bea: ` .........this is like the boy who cried wolf, isn't it...............`
+char_bea: `............What am I supposed to do.........?`
+char_bea: `{n}`
+char_bea: ` .........What should I do............?`
+char_bea: `......I guess fighting endlessly just to avoid admitting defeat......is an endless torture fitting for the Endless Witch.`
+char_bea: `...............I guess endlessly harassing Battler to avoid giving him victory...is part of being the Endless Witch as well.........`
+char_bea: `...............It's so sad......`
+char_bea: `.........Is this really...`
+char_bea: `......the Endless Magic.........?`
+char_bea: `I've...`
+char_bea: `......had enough.........`
+char_bea: `Of endlessly...`
+char_bea: `......being made into a witch's plaything...`
+char_bea: ` ............I've...`
+char_bea: `...had enough......`
+char_bea: `No victory, and no conclusion with a draw.`
+char_bea: `......In that case, there is only one conclusion that can release me.`
+char_bea: `......Heh, ......hahahahahahaha......`
+char_bea: `Since the time I descended to the path of witches.`
+char_bea: `{n}`
+char_bea: `Since the day I made that contract with demons.`
+char_bea: `.........Was it not promised that tragedy would be my ultimate fate.........`
+char_but: `"What's wrong!!`
+char_but: ` Golden Witch, {f:5:Beatrice}!!`
+char_but: ` If you are the ruler of Rokkenjima, face your end with appropriate majestyyyyyy!!!"`
+char_non: `Lightning.`
+char_non: `......The world was smashed with white.`
+char_non: `{n}.........Fitting last moments...for the ruler of Rokkenjima.`
+char_non: `Haha, .........hahha{0}ha{0}ha{0}ha{0}ha{0}ha{0}ha{0}haha.........`
+char_bea: `"Hahhahahahahaha......wahha{0}hha{0}hha{0}ha{0}ha{0}ha{0}ha{0}ha{0}ha{0}ha{0}ha{0}ha{0}ha{0}ha{0}haha...!!!"`
+char_but: `"..........................."`
+char_non: `Still pierced by the blue stakes, ......Beato faced the rainy sky, and let out a laugh.`
+char_non: `Then she slowly raised her face, ......and fixed her eyes on Battler.`
+char_bea: `".........Fool.`
+char_bea: ` ......I was considering handing you the victory in praise of your good fight...`
+char_bea: ` .........You shall regret your complacency......"`
+char_but: `"Victory is not something for you to hand over.`
+char_but: ` It's something I'm gonna snatch from you!!`
+char_but: ` And don't pretend you're any different!!"`
+char_but: `"You couldn't accept victory being handed to you on a silver platter when I started saying stuff like "Maybe it's alright for witches to exist", and that's exactly why you intentionally fell apart like that in the end last time...!!!`
+char_but: ` That's right, that one time last game, you showed mercy on me!!"`
+char_but: `"So now I'm making us even! Stand!!!`
+char_but: ` My enemy, my Golden Witch, {f:5:Beatrice}!!!"`
+char_bea: `"Hahhahaha......`
+char_bea: ` Idiot."`
+char_bea: `".........You idiooooooooooooot, hhahha{0}ha{0}ha{0}ha{0}ha{0}ha{0}ha{0}ha{0}hahaha!!`
+char_bea: ` Ssssimpleton...!!`
+char_bea: ` Don't think you'll ever get another chance!!`
+char_bea: ` Uuuaaa{0}a{0}a{0}a{0}a{0}a{0}a{0}a{0}a{0}a{0}a{0}a{0}a{0}aagh!!!"`
+char_non: `When Beato yelled, the blue stakes that had been piercing her chest blew to bits and disappeared.`
+char_non: `......However, the blue wedge that had pierced her foot in the very beginning did not disappear.`
+char_but: `"You haven't pulled it out yet.`
+char_but: ` You haven't pulled out the blue truth of the 18th person X...!!"`
+char_bea: `"I will respond to one of your repetition requests.`
+char_bea: ` As you reasoned,`
+char_bea: ` {p:1:Kinzo is already dead at the starting time for all games}!"`
+char_bea: `"However, in that case, all I need to do is take one person out!!`
+char_bea: ` {p:1:Thus far, I have been declaring that no more than 18 humans exist on this island}.`
+char_bea: ` {p:1:I will lower that by one for Kinzo}!!"`
+char_bea: `"{p:1:No more than 17 humans exist on this island}!!`
+char_bea: ` {p:1:That excludes any 18th person}.`
+char_bea: ` {p:1:In short, this 18th person X does not exist}!!`
+char_bea: ` {p:1:This applies to all games}!!!"`
+char_but: `"I goddamn knew it.`
+char_but: ` You still had some crazy stuff up your sleeve after all......`
+char_but: ` This island only had 17 humans on it, but all this time, it's been made to look as if there were 18.`
+char_but: ` And now that we've taken one off and brought it down to 17, we've finally reached the correct number."`
+char_but: `"............Now the wedge I knocked into you has been removed.`
+char_but: ` We'll have to start the fight over, back from square one...!"`
+char_non: `The blue wedge that had sewn Beato in place broke apart.`
+char_non: `{n}.........There was no longer anything piercing Beato.`
+char_non: `The scars on her body had disappeared completely.`
+char_non: `There, just as Battler had hoped for, ......stood the imposing figure of the Golden Witch who ruled Rokkenjima.`
+char_bea: `"......Now come, Battler.`
+char_bea: ` Once more from the beginning.`
+char_bea: ` Try to break through everything with the blue truth.`
+char_bea: ` I too will no longer play, run, or hide."`
+char_bea: `"If you prove to be good for nothing, then I shall decide this match right here and now.`
+char_bea: ` I will make you forever regret not settling for the victory I handed you!!!`
+char_bea: ` Come, starting from the first game!"`
+char_but: `"Right!!`
+char_but: ` From the first twilight of the first game!!`
+char_but: ` {p:2:There is nothing strange about the murder of the six relatives that were found in the gardening shed in the beginning}!`
+char_but: ` {p:2:The crime was possible for any of those who didn't have an alibi}!!"`
+char_bea: `"Valid.`
+char_bea: ` Continue—what about the next locked‐room murder, with Eva and Hideyoshi?!`
+char_bea: ` Even the chain was set for that locked room!`
+char_bea: ` I shall add to the red truth."`
+char_bea: `"{p:1:Both deaths were homicides}!`
+char_bea: ` {p:1:It is not the case that, after the construction of the locked room, one of them committed suicide after murdering the other}!`
+char_bea: ` {p:1:Furthermore, the murder was carried out with both the victim and the perpetrator in the same room}!`
+char_bea: ` {p:1:No method exists for the perpetrator to commit murder from outside the room}!"`
+char_but: `"{p:2:Suppose that the culprit was a human without an alibi}.`
+char_but: ` {p:2:In other words, the dead}!`
+char_but: ` {p:2:Among the first six corpses, there were some made unidentifiable because their faces were smashed}."`
+char_but: `"{p:2:One possible theory is that one was actually a fake corpse, and that some culprit X killed those two after pretending to be a victim and hiding away}!`
+char_but: ` {p:2:Then, after the locked‐room murder was constructed, the culprit hid under the bed, and waited for all of us to leave}!!"`
+char_bea: `"Very well, next!`
+char_bea: ` Kanon, killed in the boiler room, correct?`
+char_bea: ` I shall add to the red truth.`
+char_bea: ` {p:1:All of the survivors have alibis}!`
+char_bea: ` {p:1:Let us include the dead as well}!!`
+char_bea: ` {p:1:In short, no kind of human or dead person on the island could have killed Kanon}!"`
+char_but: `"{p:2:If no one could kill him, then he might have been the one to kill}!!`
+char_but: ` {p:2:Meaning Kanon‐kun might have killed himself}."`
+char_but: `"Repetition requested!`
+char_but: ` "Kanon‐kun did not commit suicide"!"`
+char_bea: `"{p:1:Kanon did not commit suicide}."`
+char_but: `"One more."`
+char_but: `"Repetition requested, "Kanon‐kun's death was a homicide"."`
+char_bea: `"I decline to repeat."`
+char_but: `"That refusal still admits the possibility of a homicide, but you've already declared in red that no one could have killed him.`
+char_but: ` In other words, it wasn't a homicide.`
+char_but: ` This is the same as the linked locked rooms from the third game."`
+char_but: `"{p:2:Kanon‐kun died for a reason that was neither suicide nor homicide}.`
+char_but: ` {p:2:Though the circumstances are unclear, he died from an accident}."`
+char_but: `"{p:2:By the Devil's Proof, I refuse to explain what kind of blunder could have led to an accidental death where a stake was driven into his chest}!!"`
+char_bea: `"Hohoh, now that you have borrowed the power of the devil, you are without peer!`
+char_bea: ` It is valid!"`
+char_bea: `"In that case, what about the murders after that in the parlor, of Genji, Nanjo, and Kumasawa?!`
+char_bea: ` Naturally,`
+char_bea: ` {p:1:Maria, who was in the same room, did not kill them}!`
+char_bea: ` {p:1:And of course, their three deaths were homicides}!"`
+char_but: `"{p:2:We can explain it with the one who carried out the murder being a culprit X who used an unidentifiable corpse to disappear}.`
+char_but: ` {p:2:In the first place, their three faces were also pulverized}.`
+char_but: ` {p:2:It's completely possible that one of them was a body‐double corpse}!"`
+char_bea: `"{p:1:I guarantee the identities of all unidentified corpses}.`
+char_bea: ` {p:1:Therefore, there were no body‐double tricks}!"`
+char_but: `"{p:2:Then I can explain it with simultaneous murders}.`
+char_but: ` {p:2:Each of the three had a gun, pointed it at another in a clockwise pattern, and they blew each others' faces off at the same time}!`
+char_but: ` {p:2:After that, Maria collected those guns and hid them}!!`
+char_but: ` How about that?!!!"`
+char_bea: `"Wha‐......what a ridiculous argument!!!`
+char_bea: ` I, I like it...!!`
+char_bea: ` Then what about Natsuhi in the end?!"`
+char_bea: `"I shall add to the red truth!`
+char_bea: ` {p:1:Natsuhi's death was a homicide}!`
+char_bea: ` {p:1:There are no corpses of unknown identity, and all of the survivors have alibis}!"`
+char_but: `"{p:2:You can explain it with an indirect murder by trap X}!`
+char_but: ` {p:2:Something was done to Aunt Natsuhi's gun}.`
+char_but: ` {p:2:You can explain it if that was a trap gun, built to send a bullet right into the forehead of anyone who tried to hold it up and shoot it}!!"`
+char_bea: `"{p:1:The bullet buried into Natsuhi's forehead was not fired from Natsuhi's gun}!"`
+char_but: `"{p:2:There is the possibility that Aunt Natsuhi was lured out by that letter of unknown contents}!`
+char_but: ` {p:2:And she was called out into the hall}.`
+char_but: ` {p:2:Then, she was forced into standing at a specified location at a specified time, and murdered by some trap X, which used a gun that had been installed there beforehand}!!"`
+char_bea: `"Splendid!!`
+char_bea: ` Your absurd arguments even feel pleasurable to me now!`
+char_bea: ` I shall surrender the first game to you out of respect...!!`
+char_bea: ` I am impressed!!"`
+char_bea: `"............Gaahaagh!!!"`
+char_non: `The instant Beato admitted defeat in the first game,`
+char_non: ` the stakes of blue truth once again pierced her chest, letting out a terrible sound...`
+char_bea: `"......g......g'g'h............gaaaaghaahhh!!!`
+char_bea: ` This much won't...stop me...... It's not over yet!!`
+char_bea: ` Come, the second game!!"`
+char_non: `Beato just barely pulled the stakes that had pierced her chest out,`
+char_non: ` ......but even though there was no hole left behind, it seemed to be a deep wound which let out a massive amount of blood.`
+char_non: `And an intense pain of equal measure tormented her...`
+char_non: `But Beato grinned, grinding her teeth, and pushed for the next game to start.`
+char_non: `But I won't feel any sympathy.`
+char_non: `......Just by her existing there, we will be killed and made to suffer over and over,`
+char_non: ` .........and Ange will be burdened with a future of isolation...!!`
+char_bea: `"That is correct, just by my being here and laughing, the eternal hell will continue...!!`
+char_bea: ` I will not give you back to your sister...!`
+char_bea: ` She can spend a thousand years crying over the family that is never to return...!!"`
+char_but: `"Bastaaaaaard!!`
+char_but: ` No pity, no mercy! Here goes the second game!!`
+char_but: ` I'll start with the first crime!"`
+char_but: `"I already saw through the locked‐room murder where the six were killed in the chapel at the time.`
+char_but: ` {p:2:Someone secretly borrowed Maria's key, and secretly returned it to Maria's bag after the crime was over}!!"`
+char_bea: `"{p:1:From the time Maria received her key to the instant Rosa unsealed the envelope the next day, the key did not pass into anyone's hands}!!"`
+char_but: `"{p:2:There is the possibility that the door to the chapel had an auto‐lock just like Gramps's study}.`
+char_but: ` {p:2:In other words, it was unlocked before the crime, with a rock or something wedged in so that it couldn't close completely}.`
+char_but: ` {p:2:Then they gave the key to Maria}.`
+char_but: ` {p:2:Because the lock was automatic, it is possible to make a theory where the key wasn't needed}!"`
+char_bea: `"{p:1:No door with an auto‐lock exists other than Kinzo's study}!"`
+char_but: `"{p:2:The victims locked the door from the inside}.`
+char_but: ` {p:2:One of the six was the culprit, and this person killed the other five, then pretended to be dead}!!"`
+char_bea: `"{p:1:The six were all already dead by the time they were discovered}!`
+char_bea: ` {p:1:All of their deaths were homicides}!`
+char_bea: ` {p:1:All six were pure victims; they did not take part in a mutual murder}!`
+char_bea: ` {p:1:There were no simultaneous mutual murders}!!"`
+char_but: `"{p:2:There existed humans with no alibi at the time, e.g. Kumasawa‐san}.`
+char_but: ` {p:2:If we assume that such a person killed the six, and was hiding inside, then there are no problems}!"`
+char_bea: `"{p:1:There was no one hiding in that chapel}.`
+char_bea: ` {p:1:Therefore, your ‘killer hiding in the building’ locked‐room scenario does not hold}!"`
+char_bea: `"What's wrong, Ushiromiya Battleer, is that all?!`
+char_bea: ` It's not so easy once you get to the second game, riiiight?!"`
+char_non: `A tremendous exchange of red and blue truth.`
+char_non: `The stakes and wedges of blue truth that I sent flying darted at Beato one after the other, and one after another, Beato cut them down with her red truth, her red treasured sword, knocking them out of the air.`
+char_non: `But the blood she had lost from the first game was probably awful.`
+char_non: ` This intense exercise was putting her under even greater strain.`
+char_non: `I could see her breath growing ragged.`
+char_non: `That's why I can't hold back now!`
+char_non: `{n}......I'll corner that witch!`
+char_non: `And this time...I'll break through her!`
+char_but: `"I'm not done yet... Yeah, that's no good, that's no goddamn good at all!!`
+char_but: ` My twisted logic isn't finished yet!!`
+char_but: ` Then what about this!!"`
+char_but: `"{p:2:The food they were given had small bombs in it, which exploded from inside their stomachs}.`
+char_but: ` {p:2:In other words, the crime is possible through trap X}!`
+char_but: ` {p:2:The details of a bomb that they could swallow without noticing and that could blow open their stomachs is a Devil's Proof}!`
+char_but: ` {p:2:I refuse to explain}!!"`
+char_bea: `"Bfft...hahha{0}ha{0}ha{0}haha‐hahhaha‐hahha!!`
+char_bea: ` What the hell is thaaaaaat?!`
+char_bea: ` Small bommmmmmmbs?!`
+char_bea: ` Waa‐hahhahaha‐hah‐hah‐hah!!"`
+char_non: `But Beato failed to knock down the blue wedge as it flew at an angle like a curveball.`
+char_non: `It let out a loud {i:thunk}, and gouged itself deeply into her left shoulder.`
+char_non: `However, despite being on the receiving end of it, it seemed she couldn't stop laughing at how much of a curveball it was.`
+char_non: `......Yeah, no wonder, even I'm amazed at how screwed up this reasoning is...!!`
+char_but: `"Ha, laugh as much as you want!!`
+char_but: ` Is there a problem with it?!!"`
+char_bea: `"None!!`
+char_bea: ` Your wild arguments are my pleasure!!!"`
+char_bea: `"And the next, the locked room with Jessica and Kanon?!"`
+char_but: `"No problems there!`
+char_but: ` {p:2:If the culprit was one of the servants, they could have used a master key}.`
+char_but: ` {p:2:It's not even a locked room}!"`
+char_bea: `"After that, there was an attack in the servant room from a mystery person who seemed to be Kanon, and Nanjo and Kumasawa were killed, right?!`
+char_bea: ` I had already declared Kanon's death in red before that time.`
+char_bea: ` Then who was that Kanon?!"`
+char_but: `"{p:2:If Kanon‐kun's death was declared with the red, there's no way he was alive}.`
+char_but: ` {p:2:Therefore, there is a chance that it was someone else in a disguise that would make the group that was attacked mistake this person for Kanon‐kun}!"`
+char_bea: `"{p:1:They would never mistakenly think any other person was Kanon}!"`
+char_but: `"{p:2:Then, just like the heredity of Kinzo's name, there is a possibility that Kanon's name was inherited by someone}.`
+char_but: ` {p:2:You could suppose that Kanon‐kun was killed, a different person succeeded his name, and this person attacked them}!!"`
+char_non: `A sound like a watermelon being squashed rang out, and a blue wedge was buried deep into Beato's left flank...`
+char_non: `It looked like she felt that one—maybe it hit her in a bad spot.`
+char_non: `After leaning over and moaning for a while,`
+char_non: ` ......she laughed it off as though trying to make it seem like no big deal.`
+char_non: `Yeah, I can tell.`
+char_non: ` That must have hurt like a bitch...!!`
+char_bea: `"Hyahhaaaaaaaahhh!!`
+char_bea: ` Once again, you've set up some {y:0:Human}{n:0:human} as the culprit as if it were nothing!!`
+char_bea: ` You truly are gabbing on about things you would never say on the game board in a million years!!"`
+char_bea: `"But it is valid!`
+char_bea: ` Your verbal assault tickles me!!`
+char_bea: ` ......Such pleasure.`
+char_bea: ` .........This is not pain, ......it is pleasuuuure!!"`
+char_non: `When Beato howled, the wedge that had pierced her was blasted away.`
+char_non: `{n}But the wound remained, and continued tormenting her with intense pain.`
+char_but: `"You ready? I'll keep going.`
+char_but: ` The blue truth given for the final murders in the second game, the three who died in Aunt Natsuhi's room, should still be valid even with the 18th person X denied!`
+char_but: ` Do you have a counterargument for that in red?!`
+char_but: ` If not, the second game is all mine too!"`
+char_bea: `"No, nothing!!`
+char_bea: ` It would be no fun at all to fight over such trivial matters!!`
+char_bea: ` You may have it, you may have the second game!!"`
+char_bea: `"Gwaaaaaaaaagghghh!!!!`
+char_bea: ` .........*gasp*, ......gwoo{0}o{0}o{0}o{0}o{0}o{0}o{0}o{0}oohhhh.........!!"`
+char_non: `The instant she admitted defeat in the second game, this time two blue stakes gouged through Beato's chest...!`
+char_non: `The witch's lungs were gouged, and her intestines.`
+char_non: `{n}The witch's face twisted in anguish.`
+char_non: `{n}Her body twisted as she gasped in pain.`
+char_but: `"Does it hurt......?"`
+char_bea: `"Huuuuurt?`
+char_bea: ` ......No, no, this just tickles.`
+char_bea: ` Uhhya{0}hhya{0}hya{0}hya{0}hhya{0}a{0}a{0}a{0}a{0}aahhh!!"`
+char_bea: `"Compared to having your entire body torn to bits and turned into a pile of scrap meat, like your sister, that iiiiiiiiiiis?!`
+char_bea: ` I'll make you scrap meat too, then you two siblings can be all mixed together like ground beef and pork, aaakkya{0}kkya{0}kkya{0}a{0}a{0}a{0}a{0}a{0}aahhh!!"`
+char_but: `"U‐......uuurrraaaaaaaaaaaagggh!!`
+char_but: ` I'll beat you to death, I'll tear you to bits the same way!!`
+char_but: ` Next!`
+char_but: ` The third game!!`
+char_but: ` Come on, where's your energy?!!`
+char_but: ` This is where I knock you down to hell!!"`
+char_bea: `"......Guh......gah......ooooaagghhh!!`
+char_bea: ` Naturally, as if I could let this wear me out!"`
+char_bea: `"Yes. It is still far from over!`
+char_bea: ` Come, let us begin the third game, starting with the first six linked locked rooms!"`
+char_bea: `"You penetrated this locked room at the time, and by all rights it should have remained that way.`
+char_bea: ` But then you went and {i:killed off Kinzo}...!!"`
+char_non: `At the time, I hypothesized that Gramps was the culprit,`
+char_non: ` and that after killing the other five and stringing the keys across each room, he constructed his own locked room in the boiler room,`
+char_non: ` where, in the middle of carrying out some kind of scheme, he had an accident which resulted in him burning to death in the boiler.`
+char_non: `But now I've gone and declared that Gramps was already dead.`
+char_non: `{n}So I've denied my own theory.`
+char_non: `{n}The irony...!`
+char_non: ` However—`
+char_but: `"There's no problem!`
+char_but: ` {p:2:There are plenty of people who could have committed the crime besides Gramps}!`
+char_but: ` {p:2:You could even claim that the adults who were in the middle of a family conference at the time were all in on it and committed the crime together}!"`
+char_bea: `"{p:1:All five master keys were discovered, each in the pocket of one of the servants}!`
+char_bea: ` {p:1:The individual room keys were found inside envelopes alongside the corpses}!"`
+char_bea: `"{p:1:In short, all keys related to the linked locked rooms were locked {i:inside} the linked locked rooms}!!`
+char_bea: ` {p:1:No key could have been returned from outside the room using a crack in a door, a crack in a window, a vent or any place of the sort}!!"`
+char_but: `"{p:2:Then they were killed with poison gas}!`
+char_but: ` {p:2:Even if a key couldn't pass through, gas could, right}?!`
+char_but: ` {p:2:The murder was carried out from outside the locked room}!!"`
+char_bea: `"{p:1:All of them had fatal wounds that appeared to be gunshot wounds}!`
+char_bea: ` {p:1:Murdering them from outside the room would have been impossible}!!`
+char_bea: ` {p:1:I shall say more with the red}!"`
+char_bea: `"{p:1:When the five other than Kinzo were killed, the killer was always in the same room as them}!`
+char_bea: ` {p:1:I already declared in red at the time that there were no suicides}!!"`
+char_but: `"{p:2:After the murder of each person in their respective rooms, the culprit constructed a linked locked room}.`
+char_but: ` {p:2:But there was no way for the culprit to return the key for the last room to the inside of the locked room}.`
+char_but: ` {p:2:But they did manage to return it}.`
+char_but: ` {p:2:The first person to discover a corpse just had to pretend to find the key and pull it from the corpse's pocket}!!"`
+char_non: `She couldn't fully block that blue stake's retort...!`
+char_non: ` Pushed back by the blue wedges unleashed one after another, Beato finally failed to block one, and once again took a severe wound.`
+char_bea: `"Gi...ggi......gyaaaaaahhh!!"`
+char_non: `As she howled in pain, she pulled out the blue wedge that had pierced her right arm.`
+char_non: `......Beato's entire body had been slashed and pierced with blue wedges, stakes, and blades, over and over again,`
+char_non: ` and by now, her whole body was covered in blood.`
+char_non: `But even so, Beato grinned.`
+char_non: `{n}Cackled, as though she was enjoying it...!`
+char_bea: `"Fuhhahhahhaaaaaaahhh!!`
+char_bea: ` How could a man who promised to come home to Ange with her parents speak of a theory where those parents are the culprit?"`
+char_bea: `"Fine by me, that's just fiine by meeee, you knoooooww?`
+char_bea: ` You can be a big, happy family getting their hands dirty with mass murder,`
+char_bea: ` and return to Ange stained with blood that will never come oooooooooff!!"`
+char_bea: `"Isn't that perfectly fitting for the survivors of the witch's islaaaaaaaaaand?`
+char_bea: ` Just like that mincemeat Angeee{-}e{-}e{-}e{-}e{-}e{-}e{-}e{-}e{-}e{-}e{-}e{-}eehyahhaa{0}a{0}a{0}a{0}a{0}a{0}a{0}a{0}a{0}aahhhh!!!"`
+char_but: `"Aaaaaarrrrgggghhh, shut uuuuuuuuuuuuuuuupp!!`
+char_but: ` I'll kill you!!`
+char_but: ` I'll tear you apart!!`
+char_but: `{n}`
+char_but: ` Don't worry about begging for your life, I'll make sure you get the worst kind of death by my very own hands!!"`
+char_bea: `"Yes, you're capable of it, I'm sure...!!`
+char_bea: ` I trust you to give me an end fitting for a witch who has explored the depths of cruelty over a thousand years...!!"`
+char_bea: `"Ooh, will it hurt?`
+char_bea: ` Will it be hard to bear?`
+char_bea: ` Or will it just ticckklllllleee?!`
+char_bea: ` Is this supposed to torment me?! Come on, Ushiromiya Battleeeeeeer, there are still mysteries leeeeeeeeeeeeft!!"`
+char_non: `Beato had already countered my first powerful move, the 18th person X,`
+char_non: ` by making the number of people on the island 17.`
+char_non: `But just limiting the number of people to 17 doesn't overturn the theory that Aunt Eva is the culprit.`
+char_non: `I can crush most of the murders in the third game with that theory...!`
+char_non: `Blood was dripping from all over the body of the Golden Witch......`
+char_non: `{n}I was cornering her—and this time, completely without mercy.`
+char_non: `This isn't a game played only to determine a winner and a loser.`
+char_non: `{n}......Yeah, we're not playing around here.`
+char_non: `Even just playing and fighting like this here.........delays the trip home.`
+char_non: `In her isolation, Ange will continue to have her heart torn apart by loneliness and sadness...!`
+char_non: `I have to go back to Ange as fast as I can!!`
+char_but: `"............You're a mess.`
+char_but: ` Are you at death's door?"`
+char_bea: `"......*cackle*cackle*.`
+char_bea: ` ......This is still far......from affecting me......`
+char_bea: ` ......Something like this, .........nn.`
+char_bea: ` ......*cackle*cackle*, it merely tickles...!!"`
+char_but: `"Guess I don't need to show you any mercy."`
+char_bea: `"You were never going to in the first place."`
+char_but: `"I'm going all out."`
+char_bea: `"I suggest you do.`
+char_bea: ` When our roles were reversed, I showed you no mercy.`
+char_bea: ` So you should do the same given the chance."`
+char_bea: `"Otherwise, I'll call another isolated Ange from a different world,`
+char_bea: ` and this time I'll tear off her arms and legs, stick her with a spear and roast her, okaaaaaaayyy??`
+char_bea: ` Uhhyahhaa{0}a{0}a{0}a{0}a{0}a{0}a{0}a{0}a{0}a{0}aahhhh!!"`
+char_but: `"Shut uuuuuuuuuuup!!`
+char_but: ` Never again!!`
+char_but: ` Not my family!`
+char_but: ` Nor my relatives!`
+char_but: ` Nor any of the servants!!`
+char_but: ` Never again will you make any of them your toys!!"`
+char_but: `"......I've already broken through all of the mysteries in the fourth game with the blue truth.`
+char_but: ` .........The only one left is the very last one from the third game.`
+char_but: ` ......Only the murder of Doctor Nanjo."`
+char_bea: `"......Oho, .........have I already been cornered so far......`
+char_bea: ` ......*cackle*cackle*, I am in a precarious state, aren't I...`
+char_bea: ` ......Iiihhihhihhihhi, ......ghagh, *cough*cough*!"`
+char_non: `She coughed violently, spitting up blood.`
+char_non: `......Her insides had been punched through so many times.`
+char_non: ` It was only natural.`
+char_but: `"Which means that the mystery of Doctor Nanjo's murder is the last line of defense for you being a witch, right......?"`
+char_bea: `"............It would seem so.`
+char_bea: ` If this is broken, it will mean that all of my mysteries have been broken.`
+char_bea: ` .........Unless I counter one of your truths with some new red truth, or present a new mystery,`
+char_bea: ` I...will die."`
+char_but: `"........................`
+char_but: ` ......You don't look like someone who's been backed to the edge of the cliff.`
+char_but: ` ......You still have some kind of hidden pitch up your sleeve, right......?"`
+char_bea: `"Well, I don't know about that...`
+char_bea: ` I have already tired of a life too long after a thousand years...!`
+char_bea: ` I've started to think that it might not be so bad to have this life ended by a worthy adversary like you, who I met at the very end of it all."`
+char_bea: `"*cackle*cackle*, you {i:can} do it, I hope?`
+char_bea: ` Do it.`
+char_bea: ` ......Come onnnn, kill meeeee.`
+char_bea: ` I'm always the one killing, and I've never had the experience of being kiiiiiilled!"`
+char_bea: `"I've killed the 18 of you hundreds of times, but I haven't been killed myself even once...`
+char_bea: ` I wanna experience it at least once myseeeeeeeeelf, uuhihi{0}hi{0}hi{0}hi{0}hihii!!"`
+char_non: `It was a graceless show of bravado, unchanged from before.`
+char_non: `......But blood dripped from her mouth, her once beautiful dress was covered with holes,`
+char_non: ` and blood poured from all over her body, making her physical appearance look very different from her attitude.`
+char_non: `Perhaps she was still suffering from the shot she'd taken to the flank—`
+char_non: `the way she was unconsciously clutching it lacked any trace of elegance.`
+char_non: `......But there's no room for compassion.`
+char_non: ` As long as I feel sympathy for this witch, my family and I won't be released from this place.`
+char_non: `......Until I defeat her, we won't be able to go home...!!`
+char_non: `In this world we live in, even people who see each other as enemies can come to understand each other if the situation changes.`
+char_non: `But absolute evil does exist.`
+char_non: ` That is an evil which brings misfortune by its very existence, and is to be spared no compromise.`
+char_non: `Just by continuing to exist, it is.........evil!!`
+char_but: `"I do not feel sorry for you.`
+char_but: ` Just like you didn't feel sorry for any of us...!"`
+char_bea: `".........Well, of course.`
+char_bea: ` All of you are just pieces in the game!`
+char_bea: ` It's just unbelievably fun to think about which six to kill in the beginning, how to kill the next two,`
+char_bea: ` and whether I can find a much, much more grotesque way of killing, you see{-}e{-}e{-}e{-}e{-}e{-}e{-}eee??"`
+char_bea: `"Come on, Battler, I'll reform a little, so forgive me this time too.`
+char_bea: ` And then I'll change the method of killing into something a little better, alright?`
+char_bea: ` I'll listen to how you want them to be killed and in what order, alriiiiiight?"`
+char_bea: `"It's so much funnnnnn, toying with people's liiiiiiiiives!!`
+char_bea: ` I'm sure you could think of a way, a way to turn Ange into a pile of scrap meat much, much moo{-}o{-}o{-}o{-}o{-}o{-}o{-}oore!!"`
+char_bea: `"Come, Battleeeeeer!!`
+char_bea: ` Try to expose the truth of Nanjo's murdeeeeeeeer!!"`
+char_non: `The 18th person X was destroyed.`
+char_non: ` But I won't give in...!!`
+char_non: `{n}I'll stop that witch's breathing cold!!`
+char_non: `The end of the third game.`
+char_non: `It was declared in red that the four survivors at that point in time—Battler, Eva, Jessica, and Nanjo—`
+char_non: `were all unrelated to Nanjo's murder.`
+char_non: `And it was also declared that he was murdered directly, right before his eyes.`
+char_non: `All other people had the strongest alibi of having their deaths declared in red......`
+char_non: `............Without using the 18th person X, I have to...break through this......!`
+char_non: `Think, don't stop thinking......!!`
+char_non: ` Her red doesn't only bind me, it's also supposed to be her weak point...!`
+char_non: `I've got to somehow use it against her.........!`
+char_non: `............That's right,`
+char_non: ` ......there's still a gap......!`
+char_non: `{n}Yeah, ......this way, I can break through it.`
+char_non: `{n}{f:5:Beatrice}'s legend of the witch is over.`
+char_but: `"......True, the others probably were dead.`
+char_but: ` {p:2:However, the time at which their deaths were declared in red was not the instant Doctor Nanjo died}.`
+char_but: ` {p:2:Strictly speaking, it was in the fight between me and {f:5:Eva} after Doctor Nanjo's corpse was found}."`
+char_but: `"`
+char_but: `{p:2:In other words, if someone who was alive at the time that Doctor Nanjo was killed died before {f:5:Eva} proclaimed that death, you can sew right through that crack}!!`
+char_but: ` {p:2:In other words, it's like this}."`
+char_but: `"{p:2:The culprit was among those people who were not confirmed dead prior to {f:5:Eva}'s declaration of the deaths,}`
+char_but: ` {p:2:and that person had managed to skillfully play dead in the beginning and wait for us to leave them alone}...!`
+char_but: ` {p:2:They made us think that they had died, while their death still hadn't been declared in red}."`
+char_but: `"`
+char_but: `{p:2:Then they killed Doctor Nanjo, ......and after that, they died for some reason}!`
+char_but: ` {p:2:Then after that, {f:5:Eva} declared their death in red}!!`
+char_but: ` That theory can explain Doctor Nanjo's murder!!"`
+char_non: `How's that, {f:5:Beatrice}?!`
+char_non: `When he forcefully asked that question, ......there was a terrible sound that could only be likened to that of a compressor,`
+char_non: ` and a blue stake as thick as a log...`
+char_non: `...appeared from under the earth and skewered the Golden Witch, Beato, pulling her up into the air......`
+char_non: `Ugly tearing sounds rang out one after another,`
+char_non: ` and each time, ......a blue stake or wedge appeared and impaled {f:5:Beatrice}'s body.`
+char_non: `......When that finally ended...`
+char_non: `...her tragic form was exposed there, pincushioned by more than ten stakes and wedges all over her body and dripping with blood, ......dangling and crucified......`
+char_non: `......There was none of the dignity of the brutal witch who had sneered at the honor of the dead, and toyed with and killed hundreds of the living.`
+char_non: `The rain, which had started falling at some point, ......quietly tormented the crucified witch......`
+char_non: `As Battler heaved with his breathing, he waited for some kind of answer from the Golden Witch...`
+char_non: `......Although it wasn't long,`
+char_non: ` it took the witch at least a little bit of time before she showed any signs of life......`
+char_bea: `"...............It hurts......`
+char_bea: `......it huuurts..............."`
+char_but: `"......You got...what you...deserved.`
+char_but: ` ......Know a portion of the pain of all those you've murdered......"`
+char_non: `Even as he said that, it seemed Battler had lost a little of his forcefulness at this extremely pitiful sight.`
+char_non: `He couldn't help but avert his eyes from a woman exposed in such a brutal fashion,`
+char_non: ` ......even if she was his enemy.`
+char_non: `But even so, .........unless he destroyed {f:5:Beatrice},`
+char_non: ` the battle...wouldn't end...`
+char_bea: `"............Battleer,`
+char_bea: ` .........I beg you...............`
+char_bea: ` ......*sob*..."`
+char_non: `Huh......?`
+char_non: ` ......Beato let out a sob...`
+char_bea: `"......It hurts............`
+char_bea: ` ......It really`
+char_bea: `.........huuuurts.........`
+char_bea: ` .........End it......`
+char_bea: ` .........End it.........`
+char_bea: ` ......Even now, I still...`
+char_bea: `......can't die......`
+char_bea: ` ...*sniff*......`
+char_bea: ` .........It hurts so goddamn much,`
+char_bea: ` .........and I still...`
+char_bea: `...can't die.........`
+char_bea: `.........hic...!"`
+char_but: `"............What are you...`
+char_but: `...asking...`
+char_but: `...me to do...?"`
+char_bea: `"...............End it... .........`
+char_bea: ` .........Release me.........from this pain............"`
+char_non: `Beato's expression......was a soggy mess of blood and tears.`
+char_non: `Certainly, Battler had been tricked by her at one point.`
+char_non: ` ......So he could probably have suspected her expression, and even her tears, of being an act.`
+char_non: `However, .........Battler...believed those tears.`
+char_non: `.........After all, those tears...`
+char_non: `had the red of truth mixed in with them.`
+char_but: `"......What do I do?`
+char_but: ` What do I have to do to end your pain...?"`
+char_bea: `"............I'm going to...`
+char_bea: `............lay everything...bare.`
+char_bea: ` .........It will be...`
+char_bea: `......my...`
+char_bea: `heart."`
+char_but: `"...Your heart............"`
+char_bea: `".........ll......me."`
+char_but: `"...............Beato..."`
+char_bea: `"......Ki`
+char_bea: `...ll`
+char_bea: `......me......`
+char_bea: ` ............Just...`
+char_bea: `......let`
+char_bea: `...me`
+char_bea: `......die.........`
+char_bea: ` ......*hic*,`
+char_bea: ` .........ueeeeeeee........."`
+char_non: `Were those tears of pain and torment, ......or else...`
+char_non: `Either way, that pitiful expression...`
+char_non: `......was painful for Battler to look at, even after burning with such anger...`
+char_bea: `"......Quickly, .........go back......to...Ange........."`
+char_but: `"It's not so that I can go back.`
+char_but: ` .........I'll grant your request...in order to stop your pain."`
+char_bea: `"...............Than...`
+char_bea: `...ou......`
+char_bea: ` .........Battleeer.........`
+char_bea: ` ...ooooooohhhh..."`
+char_non: `With her last breaths, Beato summoned up all of her remaining strength,`
+char_non: ` and managed to close both of her hands into fists......`
+char_non: `A red light began to gather at those fists.`
+char_non: `......Then she lifted her arms,`
+char_non: ` .........as though wishing for something from heaven......`
+char_bea: `"......I know you.........can kill me...`
+char_bea: ` .........Everything I am...`
+char_bea: ` ...My heart......`
+char_bea: ` .........Crush it.`
+char_bea: ` ............Pierce it.`
+char_bea: ` .........Okay......?"`
+char_non: `The red light around both her arms got stronger and stronger......`
+char_bea: `"............Ple......a..........................."`
+char_non: `She got that far into the word, ......and then her face tilted to the side a bit.`
+char_non: `{n}Her right arm lost its light and flopped down.`
+char_non: `......But her left arm alone did not lose its light, and remained held up towards the heavens.`
+char_non: `Then, ............before Battler's eyes,`
+char_non: ` another Beato appeared with a faint form, transparent like a curtain.`
+char_non: `......The crucified Beato had already lost consciousness.`
+char_non: `However, the newly appeared faint Beato quietly looked at me,`
+char_non: ` ......her eyes expressionless,`
+char_non: ` ............and spoke, in an uncharacteristically polite tone.`
+char_bea: `".........`
+char_bea: `{p:1:Ushiromiya Battler}.`
+char_bea: ` {p:1:I will now kill you}."`
+char_but: `"..................And...?"`
+char_bea: `".........`
+char_bea: `{p:1:And right now,}`
+char_bea: ` {p:1:there is no one other than you on this island}.`
+char_bea: ` {p:1:The only one alive on this island is you}.`
+char_bea: ` {p:1:Nothing outside the island can interfere}."`
+char_non: `......I...understood.`
+char_non: ` This was the only thing left keeping {f:5:Beatrice} a witch—`
+char_non: `the {i:final mystery}.`
+char_non: `And Beato was holding it out to me.`
+char_non: `{n}Entreating me......to solve her final mystery...`
+char_non: `...and kill her......`
+char_but: `"Come on......`
+char_but: ` I'll accept......your final mystery."`
+char_bea: `".........`
+char_bea: `{p:1:You are all alone on this island}.`
+char_bea: ` {p:1:And of course, I am not you}.`
+char_bea: ` {p:1:Yet I am here, now, and am about to kill you}."`
+char_but: `"Like a souped‐up version of the mystery of Doctor Nanjo's murder......`
+char_but: ` .........So......?"`
+char_bea: `".........Who...am I...?"`
+char_but: `"Is that...............your final question?"`
+char_bea: `{a:c:`
+char_bea: `"......Who...`
+char_bea: `...am I.........?"`
+char_bea: `}`
+char_bea: `Then, ......{f:5:Beatrice} slowly approached me, and held me, expressionless......`
+char_bea: `.........Yeah, I get it, Beato.`
+char_bea: `{n}I'll kill you.........don't worry.........`
+char_bea: `Slowly, I, too, held her head.`
+char_bea: `.........And then...my piece...`
+char_bea: `left the game board......`
+char_bea: `Scattered over the big bed were cute jellybeans of various colors,`
+char_bea: ` and chocolate coins.`
+char_bea: `A fork was stuck into the shortcake peeking out of a gift box,`
+char_bea: ` and there were decanters with drinks of various colors lined up on the side table.`
+char_bea: `But the venomous color of the drink poured into the glass matched none of the decanters.`
+char_bea: `Someone had probably been playing around, mixing them together.`
+char_bea: `The taste aside, that was a lot of fun to do.`
+char_bea: `On top of the fluffy bed were several colorful, big pillows stuffed with dreams.`
+char_bea: `And on this big bed that looked like something out of a child's dream world,`
+char_bea: ` {f:5:Bernkastel} lay face down,`
+char_bea: ` and {f:5:Lambdadelta} lay face up, hugging a pillow and relaxing......`
+char_lam: `"Ahahhahahhahhah, this one was a real rush, wasn't it?`
+char_lam: ` I got re~ally anxious when Beato said she'd stop the game."`
+char_ber: `".....................What a rude witch, to start a game of this scale and try to end it by throwing it away."`
+char_lam: `"Wasn't Ange a good piece?`
+char_lam: ` After Beato ran for it, Ange dragged her back and made her resume the game.`
+char_lam: ` It's too bad that she gave Battler a bit too much enthusiasm, though."`
+char_ber: `"..................Because she knew Battler is weak against emotions."`
+char_lam: `"No kidding.`
+char_lam: ` He looked like he might even go easy on his enemy Beato."`
+char_ber: `"............Based on the previous game, I was uneasy that he might start to feel compassion for Beato, and take the game in an odd direction.`
+char_ber: ` .........Ange was a trump card to get Battler back on track if and when he mistook his goal."`
+char_ber: `".........In truth, I wanted to have her support him a bit more before playing her out.`
+char_ber: ` She really did play and discard herself straight away.`
+char_ber: ` What a waste for a piece that required so much preparation."`
+char_lam: `"Ehheheheh!`
+char_lam: ` I'm so~ glad I shackled her with the rule about not giving her name!`
+char_lam: ` If I hadn't set that up, the brother‐sister tag team would have swallowed Beato up and won in the blink of an eye."`
+char_ber: `"............I thought it was my chance to apply a lot of pressure at once,`
+char_ber: ` but you were watching her so closely that I couldn't make the best use of her.`
+char_ber: ` ......Aaah, what a waste that piece was."`
+char_lam: `"Well, yeah? That piece was super OP, I needed her out of there, like, yesterday.`
+char_lam: ` Well, in the end, she did a good job of preventing the game from being suspended, I guess, and that helps me out too.`
+char_lam: ` Her actions ended up matching both of our interests, so in that sense, she really was a wonderful piece."`
+char_ber: `"..................She was an innocent kid like Battler, so it was easy to get her to do as I said.`
+char_ber: ` .........An idiot or an impulsive type, one of those two is always best for a piece.`
+char_ber: ` ......Aaah, that piece really could have been so much more."`
+char_lam: `"And now she's mincemeat!`
+char_lam: ` Hey, let's make hamburgers out of that later on{p:0:☆}`
+char_lam: ` Oh wait, didn't you like gyoza more?`
+char_lam: ` I wonder what little sister tastes like, *giggle*, so funny!"`
+char_ber: `"..................Is it really alright for you to be so relaxed?`
+char_ber: ` Battler got fired up thanks to Ange.`
+char_ber: ` He started going after Beato like a madman, and now, the game has taken a big turn to my advantage, I'd say...?`
+char_ber: ` In fact, didn't Battler just solve almost all of the mysteries so far?"`
+char_lam: `"Huuh?`
+char_lam: ` Not even clo~se!`
+char_lam: ` Almost all of Battler's blue truth is wrong!`
+char_lam: ` Beato's wishy‐washy red is full of holes.`
+char_lam: ` Anyone with half a brain could slip through it easily just by rattling off some random BS."`
+char_lam: `"......Ahhh, that really ticked me off.`
+char_lam: ` If that had been me, I'd have made sure to cut down every one of those things with the red."`
+char_ber: `"............Oh, really?`
+char_ber: ` I was under the impression that those were all the correct answers.`
+char_ber: ` ......Well, of course, I did have my suspicions about all that stuff to do with swallowing small bombs."`
+char_lam: `"And Battler's blue truths, not all of them were even valid.`
+char_lam: ` ......Beato stated clearly that, within the first game, she`
+char_lam: ` {p:1:guarantees the identities of all unidentified corpses}!`
+char_lam: ` That breaks Battler's reasoning about the culprit of the Eva/Hideyoshi locked‐room murder being someone who used a fake corpse."`
+char_lam: `"Next, he said that Kanon's death in the boiler room was probably an accident, but...*giggle*!`
+char_lam: ` What kind of accident could end up with him driving a stake into his own chest?`
+char_lam: ` How dumb is that?`
+char_lam: ` I'll slice it with that red treasured sword or whatever."`
+char_lam: `"{p:1:Kanon did not die in an accident}!`
+char_lam: ` For the next one, the murders of the three including Genji in the parlor, the thought that it was a simultaneous murder where they shot each other in a clockwise pattern at the same time is laughable.`
+char_lam: ` {p:1:Genji, Kumasawa, and Nanjo were not killers}!"`
+char_lam: `"The final trap X for Natsuhi's murder is really dumb, too.`
+char_lam: ` {p:1:The thing that shot Natsuhi wasn't a trap, it was a real shooting murder with a gun raised and trigger pulled}!`
+char_lam: ` *giggle*, my condolences...!"`
+char_ber: `"......Stop that.`
+char_ber: ` You mustn't say something like that in red.`
+char_ber: ` That kid's trying to make it so that she killed Natsuhi by bouncing Natsuhi's bullet back at her with magic."`
+char_lam: `"Oh‐hoh‐hoh‐ho, oopsie, you're right, I forgot...!`
+char_lam: ` Even his blue truths for the second game were too naive."`
+char_lam: `"`
+char_lam: `{p:1:When the six were murdered in the chapel, the culprit was inside the chapel}!`
+char_lam: ` That guy tries to explain every little thing with trap X.`
+char_lam: ` What the heck is trap X, some weird mystery novel cliché?"`
+char_lam: `"And in the incident where Nanjo and Kumasawa were killed in the servant room, it's ludicrous to say that someone inherited Kanon's name.`
+char_lam: ` {p:1:The only one who can go by the name of Kanon is the person himself}!`
+char_lam: ` {p:1:No other human can adopt that name}!"`
+char_lam: `"And that theory about borrowing the master key from Rosa for Natsuhi's room is also worthless!"`
+char_lam: `"{p:1:After the master keys came into Rosa's control, never did any of them leave her hands}!`
+char_lam: ` {p:1:Except for the time when she lent one to Battler to unlock Natsuhi's room}.`
+char_lam: ` I could go on, but this is enough just for a quick look, I guess?"`
+char_ber: `"............A quick look? You've just denied Battler's blue truth for the first and second games across the board.`
+char_ber: ` .........My, my, what a thing.`
+char_ber: ` Battler would faint if he heard that."`
+char_lam: `"......See?`
+char_lam: ` Beato wasn't cornered at all.`
+char_lam: ` .........I always thought she was a pretty good actress."`
+char_lam: `"I'm sure the plan is to make it look like she got cornered this game,`
+char_lam: ` and then sometime next game, swish!, she'll slice it in half with a single red stroke and make Battler's eyes pop out."`
+char_lam: `"*giggle*, and then I'm sure she'll say it with a huge grin on her face.`
+char_lam: ` "A witch is never in trouble~"!`
+char_lam: ` Pff, *giggle*giggle*giggle*!!"`
+char_ber: `"...............Then that whole tragic feeling as though Beato was getting cornered was all an act?"`
+char_lam: `"Obviously?!`
+char_lam: ` She really is a great actress!`
+char_lam: ` Even though she wasn't cornered at all, it felt like a last‐episode climax to put everyone else to shame!"`
+char_lam: `"She's totally the winner for best supporting actress this year!!`
+char_lam: ` Oh, but of course I'm the sta~r!`
+char_lam: ` Or it could be you, Be~rn!"`
+char_ber: `"............At the end, she said things like "kill me" and laid out a big riddle.`
+char_ber: ` Wasn't that her last stand, with Beato to be finished for good if that riddle was solved?"`
+char_lam: `"*giggle*giggle*...!`
+char_lam: ` No way, you were tricked too, Bern?"`
+char_lam: `"That wasn't even close to a last stand!`
+char_lam: ` Beato still has some hellishly brutal moves she's keeping hidden.`
+char_lam: ` ......When she stuck out both arms to give the final riddle, did you notice how she brought her right arm back down?"`
+char_ber: `"......Ah, now that you mention it.`
+char_ber: ` .........So that's what that meant."`
+char_lam: `"Sure is!`
+char_lam: ` She still had plenty of hidden moves left!`
+char_lam: ` And none of the mysteries have been solved...!"`
+char_lam: `"That tension, as though she'd been completely seen through and it was like "Tune in next time for the final episode!"`
+char_lam: ` She truly is a genius at acting.`
+char_lam: ` Ahh, I can't wait to see her knock Battler back down to rock bottom!"`
+char_lam: `"She's really taken to that "North Wind and the Sun Strategy" from the last game, I think!`
+char_lam: ` I bet Battler will sympathize with Beato again and fall for it completely...!`
+char_lam: ` A woman's single tear can trick a man, after all—now that's value, don't you think?!!"`
+char_ber: `"...............I wonder if Battler will get caught by that move again.`
+char_ber: ` I must do my part too, and light a fire under Battler to never feel sympathy for her again.`
+char_ber: ` ......Although Ange's mincemeat seems to have done that pretty well for the time being."`
+char_lam: `"A power‐up from an Ange‐flavored hamburger?`
+char_lam: ` Oh‐hoho{0}ho{0}ho{0}ho{0}hoho!`
+char_lam: ` Of course, I won't be beaten either.`
+char_lam: ` I'll be giving Beato my full support so she can make enough of a comeback to compete with Battler."`
+char_lam: `"......She won't lose. Beato.`
+char_lam: ` I mean, I've threatened her with a wonderful penalty if she does{p:0:♪}"`
+char_ber: `"..................Your penalties are genuinely no joke, so you should go a little easy."`
+char_lam: `"I've decided what to do next time I get to give you a penalty, Bern.`
+char_lam: ` Wanna hear? Wanna hear?"`
+char_ber: `"No."`
+char_lam: `"Come o~~n, listen{p:0:☆}`
+char_lam: ` Okay, here we go, here we go.`
+char_lam: ` I'll lock you in a wonderful, wonderful castle."`
+char_lam: `"The castle will be surrounded by pure white castle walls, {nobr:12 km} to a side.`
+char_lam: ` With a height of {nobr:10 m}.`
+char_lam: ` No magic and no cheating allowed!`
+char_lam: ` That's really not something you can jump over, right?"`
+char_ber: `"1,440,000,000 m³?`
+char_ber: ` .........You can stop there, I already know what you're going to say."`
+char_lam: `"Eheheheheh!`
+char_lam: ` And that place will start getting buried with gems, one every day!`
+char_lam: ` And I'll lock you in it until the castle walls are packed with them, and you've been buried to death with gems.`
+char_lam: ` Isn't that a wonderful, romantic penalty?"`
+char_ber: `"..................I'll let you multiply the length of the walls by five if you make the height one‐tenth its current height, and you can even shut me in it right now."`
+char_lam: `"Really?!`
+char_lam: ` That would make it {nobr:3,600,000,000 m³}, you know?!`
+char_lam: ` The penalty would take more than twice as long!`
+char_lam: ` Aaahh, you'll be my prisoner for such a long time?!`
+char_lam: ` I love you Bern, I really love yo~u{p:0:♪}"`
+char_non: `{f:5:Lambdadelta} playfully clung to {f:5:Bernkastel}, who yawned, looking bored, as she stroked {f:5:Lambdadelta} under the chin as though playing with a cat...`
+char_lam: `"So you're betting on Battler to win.`
+char_lam: ` And I'm betting on the two of them getting draws forever.`
+char_lam: ` ............Isn't anyone going to bet on Beato to win?"`
+char_ber: `".....................It won't be me.`
+char_ber: ` Her chances of winning are zero."`
+char_lam: `"Oh‐hoh‐hoh‐ho!`
+char_lam: ` It must hurt to be told by the Witch of Miracles that there's zero chance of a miracle!`
+char_lam: ` I wouldn't bet on her either, of course.`
+char_lam: ` For certain!"`
+char_ber: `".........It must hurt to be told by the Witch of Certainty that it's certainly no good, as well."`
+char_non: `Unusually for them, they giggled together...`
+char_lam: `"I wonder what kind of conclusion this game's gonna have...?"`
+char_ber: `"...............Now that, at least, we can't predict.`
+char_ber: ` ...That's why it's fun, after all."`
+char_lam: `"I won't allow any more escaping or suspending the game.`
+char_lam: ` I'll make them continue the game for certain, and I won't let them run away...!`
+char_lam: ` I can't even imagine how things are gonna unfold now,`
+char_lam: ` but I do know one way it's certainly not going to end."`
+char_ber: `"..................At the very least, we know it won't end with Beato's victory."`
+char_lam: `"I mean, think about it.`
+char_lam: ` Neither you nor I...`
+char_lam: `are betting on Beato to come out the winner!`
+char_lam: ` Which means, if it looks like Beato is gonna win, she'll be making enemies of both of us Great Witches...!"`
+char_ber: `".........Pretty much.`
+char_ber: ` Our powers are most in balance only when things are somewhere between a draw and Battler's advantage.`
+char_ber: ` If it tips too much in Beato's favor, both of us will align along the same vector, and drag Beato back."`
+char_lam: `"So the instant Beato finds herself on top, ......she'll have both of us as enemies to deal with.`
+char_lam: ` .........Ehheheheheh!`
+char_lam: ` A common front with Bern, sounds fu~~n{p:0:♪}"`
+char_ber: `".........Thanks.`
+char_ber: ` ......But I'm not taking a konpeitou candy bath with you."`
+char_lam: `"Aaa~w, but I thought we could take a konpeitou shower together,`
+char_lam: ` while I cover you all over with melted marshmallows..."`
+char_ber: `".........That poor girl.`
+char_ber: ` She's a living toy, a doll that you caught so that you could play with me."`
+char_lam: `"I'm good at playing with dolls.`
+char_lam: ` ......I really can play with them well, you know?`
+char_lam: ` I'm proud of being able to get hundreds of years of playtime out of a single toy without getting tired of it."`
+char_ber: `"............You're her ally at some times, and oppose her at others,`
+char_ber: ` toying with her forever.`
+char_ber: ` ......I feel sorry for her. That kid is our doll, now."`
+char_lam: `"Ehheheh, that's right, that kid is our doll.`
+char_lam: ` No end is prepared for her except the ones the two of us wish for."`
+char_lam: `"So I can say for sure that this can only end with either an eternal draw because of me,`
+char_lam: ` or Beato being defeated and destroyed because of you.`
+char_lam: ` ............Heheh, ...as far as this game ending with Beato's victory goes..."`
+char_ber: `"...............I will proclaim it as the Witch of Miracles."`
+char_lam: `"Then I'll proclaim it as the Witch of Certainty."`
+char_non: `""Beato certainly cannot win.`
+char_non: ` And there will be absolutely no miracles.""`
+char_non: `""Ahhahahahahahahahahahahaha......!!""`

@@ -1,0 +1,981 @@
+char_eri: `"Battler‐san returned to the guesthouse at {nobr:3 a.m.}`
+char_eri: ` Then, the rest of you split up about thirty minutes later, is that correct?"`
+char_eva: `"Yes, that's right.`
+char_eva: ` We were getting pretty tired by that point.`
+char_eva: ` We decided to take a short rest before starting up again."`
+char_non: `To smoke out the murderer of the first twilight,`
+char_non: ` Erika closely questioned everyone involved to check their alibis and evidence.`
+char_non: `To confirm these, she went around the mansion with them,`
+char_non: ` and when needed, took several trips out to the guesthouse through all the rain.`
+char_non: `......Her vitality was admirable.`
+char_non: `......Though she was an uninvited guest,`
+char_non: ` everyone had long since stopped feeling anything strange about the way she imitated a detective...`
+char_ron: `"......It seems Erika is also steadily building her foundation."`
+char_bea: `"It's useless.`
+char_bea: ` Whether alibis exist or not, she can't deny our existence.`
+char_bea: ` ......Kinzo escaped through the window and is now one with the mists of Rokkenjima.`
+char_bea: ` She can never capture or deny him."`
+char_gap: `"When all's said and done, perhaps you could say he's escaped to the underside of the chessboard."`
+char_ron: `"In that case, maybe it would be appropriate to say he's been stored away."`
+char_bea: `"......Come to think of it, about those corpses from the first twilight.`
+char_bea: ` They've been stored away too, right?"`
+char_gap: `"Yes.`
+char_gap: ` They've been put away in my darkness between the human world and the other."`
+char_bea: `"......And that would‐be detective won't be able to find them...?"`
+char_gap: `"Of course.`
+char_gap: ` It's absolutely impossible for a {y:0:Human}{n:0:human}.`
+char_gap: ` .........Want to check?"`
+char_bea: `"Just in case.`
+char_bea: ` And we also need to take this opportunity to reexamine what Lady {f:5:Bernkastel}'s goals are likely to be from now on."`
+char_ron: `"As they say, if you know your enemy, you need not fear the outcome of a hundred battles."`
+char_bea: `"If you know the truth, you can win a hundred battles without fighting."`
+char_ron: `"Pukkukukukuku.`
+char_ron: ` Quite so."`
+char_non: `Gaap opened up a large pitch‐black hole in the sky and had it swallow all of them up.`
+char_non: `She invited Beato and Ronove to the gap between worlds where she had hidden the corpses......`
+char_non: `......That place was nowhere in this world,`
+char_non: ` and existed at no time of this world.`
+char_non: `In other words, it truly and literally was a place not of this world.`
+char_non: `In this place, questions such as "Where is this?" and "What time is it?" had no meaning.`
+char_non: `Every single place led to here, but no place could be reached from here.`
+char_non: `Furthermore, all times connected to this place, but no time could be passed to from here.`
+char_non: `In short, ......this place was just what they said it was: the underside of the chessboard.`
+char_non: `No, perhaps it would be most appropriate to call this the captured pile, where pieces that have left the game go......`
+char_non: `......Then, deep within this pitch‐black world,`
+char_non: ` five corpses came into view, illuminated by a glow like a faint spotlight......`
+char_non: `The five pitiful corpses with their necks sliced open had been arranged neatly.`
+char_non: `Their eyelids were shut and their hands joined.`
+char_non: `{n}Apparently, even Gaap had respect for the dead...`
+char_wal: `"Oh my.`
+char_wal: ` .........There are five sacrifices for the first twilight in this game?`
+char_wal: ` Not six?"`
+char_bea: `"Oh, it's you, Master.`
+char_bea: ` I was worried about where you'd gone.`
+char_bea: ` The game has already reached the first twilight, and as you can see, the first victims have emerged.`
+char_bea: ` ......Now it's time for the real show. I'm getting all excited...!"`
+char_wal: `"I see.`
+char_wal: ` .........The version of you that's here looks to be in high spirits.`
+char_wal: ` I'm pleased."`
+char_bea: `"Hm??`
+char_bea: ` If you took away my high spirits, my bewitching <body>,`
+char_bea: ` and my pleasant disposition, I'd have nothing left!`
+char_bea: ` Wahaha."`
+char_non: `For some reason, {f:5:Virgilia} praised Beato for her high spirits.`
+char_non: `Though Beato was taken aback at such granny‐like words coming out of {f:5:Virgilia}'s mouth all of a sudden,`
+char_non: ` she answered while bumping a fist against her chest.`
+char_non: `{f:5:Virgilia} had been absent often during this game.`
+char_non: `She might even have been away from her seat when Battler solved the epitaph and during the uproar that followed.`
+char_non: `Apparently, she had been absent for so many critical points...`
+char_non: `that she didn't have a very good grasp of what had happened so far in this game...`
+char_gap: `"For now, we've got five corpses.`
+char_gap: ` ......All slit through the neck, as you can see."`
+char_non: `George, Jessica, Maria, Rosa, Genji.`
+char_non: `Something sharp had sliced open all five of their necks......`
+char_non: `Those gaping wounds opened wider than their mouths,`
+char_non: ` ......and made it feel as though they would no longer need their mouths to breathe.`
+char_wal: `"......I see.`
+char_wal: ` So, {p:1:anyone looking at George, Jessica, Maria, Rosa, or Genji's corpses could confirm at a glance that they are dead}."`
+char_bea: `"Hmm?`
+char_bea: ` Red?`
+char_bea: ` Well, there's no point in me holding out against you.`
+char_bea: ` That's right,`
+char_bea: ` {p:1:at a glance, anyone could confirm that these corpses are dead, so it is absolutely impossible that they are just people playing dead}."`
+char_gap: `"Why did Lia use the red......?"`
+char_ron: `"Who knows.`
+char_ron: ` ......However, she is always thinking of Milady.`
+char_ron: ` She must have something in mind that will benefit Milady."`
+char_gap: `"......Hmmm."`
+char_non: `But they had hidden the corpses here so that no one could use the red...`
+char_non: `Despite that, however, Ronove was right—{f:5:Virgilia} always thought of {f:5:Beatrice} first.`
+char_non: `The way that these corpses, which Gaap had gone to all the trouble of erasing, had now been confirmed with the red made a slightly displeased expression rise to Gaap's face.`
+char_non: `However, in the end she remembered that she was only a guest and shrugged.`
+char_wal: `"Why did you have Gaap hide the corpses?"`
+char_bea: `"Well,`
+char_bea: ` since the epitaph has already been solved, this game of mine is different from usual.`
+char_bea: ` I now have serving and protecting Natsuhi as my goal."`
+char_wal: `"...........................`
+char_wal: ` How would concealing their corpses protect Natsuhi?"`
+char_gap: `"......We've more or less figured out what our opponents' moves will be.`
+char_gap: ` This is probably a trap made to corner Natsuhi.`
+char_gap: ` Most likely, they'll sort through alibis for the first twilight and find them for everyone except Natsuhi."`
+char_ron: `"Last night, Natsuhi‐sama was the first to leave the family conference, and then rested alone in her room.`
+char_ron: ` ......Unfortunately, she has no alibi whatsoever until the next morning."`
+char_bea: `"We have already ensured that Kinzo's existence is impossible to disprove.`
+char_bea: ` ......However, the enemy has one remaining method of breaking through that roadblock."`
+char_wal: `"I see.`
+char_wal: ` .........They can corner Natsuhi and make her confess that Kinzo doesn't exist."`
+char_bea: `"Mm.`
+char_bea: ` The enemy is probably after something like that.`
+char_bea: ` By watching the movements of the pieces involved with the family conference, we quickly realized that Natsuhi was isolated,`
+char_bea: ` noticed that trap of theirs, and countered with this move."`
+char_gap: `"The corpses disappear!`
+char_gap: ` Everyone has alibis, and no one exists who could have moved them.`
+char_gap: ` Not only does this support the claim that a witch exists, it also throws doubt on whether they were actually dead in the first place,`
+char_gap: ` making it just about possible for Natsuhi to avoid being a suspect."`
+char_ron: `"In other words, it's possible for Natsuhi‐sama to claim...`
+char_ron: `that the sacrifices of the first twilight were only playing dead."`
+char_wal: `"Even though many people confirmed their deaths for certain in the cousins' room...?"`
+char_bea: `"‘Confirmation’ is nowhere near red truth...!`
+char_bea: ` No matter how strongly they claim to have seen unmistakeable corpses, the red truth doesn't exist in the human world!`
+char_bea: ` Because the corpses don't exist, Natsuhi can discount their words as a mistake,`
+char_bea: ` a trick, or by saying that all of them were lying,`
+char_bea: ` and it's possible for her to do this over and over to buy time for herself."`
+char_ron: `"In the human world, which lacks the red truth, perpetual check is an effective move."`
+char_gap: `"An endless argument with both sides denying the other's claims.`
+char_gap: ` ......Not pretty."`
+char_ron: `"True.`
+char_ron: ` However, beauty is secondary to victory.`
+char_ron: ` If someone who cannot achieve victory seeks it, it is nothing but a poison to them."`
+char_bea: `"They do say that might makes right.`
+char_bea: ` Wahahahahaha."`
+char_gap: `"And even if I don't think it's beautiful,`
+char_gap: ` those Voyager witches will probably like it and say it isn't boring..."`
+char_wal: `"............I see.`
+char_wal: ` I've managed to grasp the flow of this game.`
+char_wal: ` ...It seems that it will get quite nasty."`
+char_gap: `"We're fully aware of that.`
+char_gap: ` ......And we already know that Natsuhi is probably about to be lured into yet another trap."`
+char_wal: `"A trap?"`
+char_bea: `"Mm.`
+char_bea: ` Someone Lady {f:5:Lambdadelta} created, who calls himself a man from 19 years ago, has already threatened Natsuhi.`
+char_bea: ` She was ordered to go into a closet in a certain guest room at {nobr:1 p.m.}, which is only a few minutes away, and hide there.`
+char_bea: ` ......Krauss was taken as a hostage, so Natsuhi can't resist."`
+char_wal: `".........I see.`
+char_wal: ` How relentless.`
+char_wal: ` ...Can you protect her?"`
+char_bea: `"Of course.`
+char_bea: ` After all, Natsuhi isn't the culprit.`
+char_bea: ` No matter how much they treat her as one, both truth and illusions are on our side.`
+char_bea: ` There's no way we can lose.`
+char_bea: ` *cackle*cackle*cackle*cackle*!!"`
+char_non: `Natsuhi threw her cup of black tea to the ground in protest to show the anger that flowed throughout her entire body.`
+char_nat: `"......Wh‐what do you mean by that...?!!`
+char_nat: ` A‐are you......saying that you suspect me?!!"`
+char_eri: `"I hear what you're saying: you left before anyone else, returned to your room, and didn't leave that room until morning.`
+char_eri: ` I am simply explaining that I need you to prove that, otherwise it won't count as an alibi."`
+char_nat: `"Prove it...?!`
+char_nat: ` How...?!!"`
+char_eri: `"Any way you like.`
+char_eri: ` All you have to do is prove objectively that it was impossible for you to commit the crime.`
+char_eri: ` .........Everyone else is cooperating.`
+char_eri: ` I would very much appreciate it if you could also be a little less harsh with me and please give me your alibi and evidence."`
+char_eva: `"......That's right.`
+char_eva: ` The whole night is a blank space in time for Natsuhi nee‐san.`
+char_eva: ` ......After she left the conference saying she was going to bed, she might have gone to the guesthouse and attacked George and the others..."`
+char_nat: `"Don't be so ridiculous!!`
+char_nat: ` Why would I kill George‐kun, and most of all, whyever would I kill my own daughter?!!"`
+char_kir: `"Calm down.`
+char_kir: ` ......We're all equally suspicious.`
+char_kir: ` It's sad, but we all have to prove our innocence."`
+char_rud: `"Yeah.`
+char_rud: ` We've all been thinking frantically about how to prove our alibis for last night so we can clear up the suspicion against us."`
+char_hid: `"I know you can't like being suspected, Natsuhi‐san.`
+char_hid: ` If it frustrates you, shouldn't your first priority be searchin' for some way to prove your own innocence...?"`
+char_non: `The relatives spoke as though they were all under equal suspicion,`
+char_non: ` but the mood about the place didn't feel so peaceful.`
+char_non: `Erika was still in the middle of confirming everything,`
+char_non: ` but other than Natsuhi, who was unwilling to prove her alibi,`
+char_non: ` everyone else had an alibi which was reasonably credible.`
+char_non: `Only Natsuhi, who claimed that just being suspected was an insult, was uncooperative with Erika,`
+char_non: ` and her position began to grow more and more perilous......`
+char_non: `This parlor was no longer a place of comfort for Natsuhi.`
+char_non: `{n}And the sound of the cup smashing had made that decisive.`
+char_nat: `"Th‐......this is ridiculous!`
+char_nat: ` Why must I be suspected when I've lost a daughter...?!!`
+char_nat: ` You're maliciously trying to make me look like the culprit just because I went to bed early last night!`
+char_nat: ` I cannot stand this humiliation any further...!!"`
+char_eva: `"Oh, so what are you going to do about it?`
+char_eva: ` Show us some kind of alibi that proves your innocence.`
+char_eva: ` As if you could!!`
+char_eva: ` Give me back my George, you murderer!!"`
+char_hid: `"Give it a rest, Eva...!`
+char_hid: ` ......Natsuhi‐san, you're probably a little tired too.`
+char_hid: ` Of course, so are we.`
+char_hid: ` Why don't we take it easy for a bit...?"`
+char_rud: `".........Seriously.`
+char_rud: ` We're a little too high‐strung."`
+char_but: `"Aunt Natsuhi......`
+char_but: ` Where are you going...?"`
+char_nat: `"This search for alibis and culprits is truly ludicrous...!`
+char_nat: ` When the typhoon passes and the police arrive, everything will be exposed to the light of day.`
+char_nat: ` There's no reason whatsoever for us to play detectives.`
+char_nat: ` Am I wrong, Erika‐san?"`
+char_eri: `"Generally speaking, you would be right.`
+char_eri: ` However, I have the authority to do this."`
+char_non: `Who gave her that authority?`
+char_non: ` No one asked.`
+char_non: `It was an authority given by words of power from a higher world,`
+char_non: ` so the pieces weren't even allowed to doubt it...`
+char_nat: `"I will take my leave.`
+char_nat: ` I have no intention of playing along with your pointless questioning until the police are here.`
+char_nat: ` If you suspect me, feel free to do so.`
+char_nat: ` I will leave it to the police to investigate that and clear my name."`
+char_non: `.........It may be a bit late to mention this, but—well, no, this happens every time.`
+char_non: `As usual, the phone couldn't connect to the police.`
+char_non: `Natsuhi said the police would come, but that wasn't exactly true.`
+char_non: `Strictly speaking, the boat to pick them up would come tomorrow, and they would be able to use the radio on that boat to contact the police.`
+char_non: `Well, ......it's not like I'll let everyone live that long anyway.`
+char_non: `...*giggle*.`
+char_nan: `"......Natsuhi‐san, it's dangerous to be alone...`
+char_nan: ` Perhaps it would be better if you......"`
+char_eva: `"Why not let her?`
+char_eva: ` That might make for some excellent proof.`
+char_eva: ` If Natsuhi nee‐san gets murdered in her own room, that'll be excellent proof of her innocence."`
+char_rud: `"Quit it, Aneki.`
+char_rud: ` .........It's probably best if we all get a bit of rest.`
+char_rud: ` Our bodies won't last until tomorrow."`
+char_kir: `"Rest is fine, but let's not let our guard down, okay...?`
+char_kir: ` We might not make it through the night, much less tomorrow."`
+char_but: `"............Aunt Natsuhi.`
+char_but: ` If you're returning to your room, make sure you lock it tight, close the windows and shutters, and stay safe.`
+char_but: ` ......I don't want to suspect anyone.`
+char_but: ` And more than that, ......I don't want there to be any more victims."`
+char_nat: `".........Thank you, Battler‐kun.`
+char_nat: ` .........Then I'll return to my room.`
+char_nat: ` Gohda, you're in charge now.`
+char_nat: ` I know this is a horrible situation, but make sure that the guests at least have everything they need."`
+char_goh: `"Y‐yes, Madam......`
+char_goh: ` I shall do so......"`
+char_non: `With everyone watching her, Natsuhi left the parlor.`
+char_non: `From their faces, she could tell that they were expecting the classic mystery pattern...`
+char_non: `that the first person to quarrel and leave the circle would become the next victim.`
+char_non: `............Natsuhi......couldn't disobey because of the threat against Krauss, who had been taken as a hostage.`
+char_non: `Very soon, it would be {nobr:1 p.m.}, the time that had been arranged.`
+char_non: `She was to hide for an hour in the closet of a specific guest room.`
+char_non: `It was easy to suspect that this bizarre order was a trap to select her as the next sacrifice.`
+char_non: `She thought of various ways to resist,`
+char_non: ` but all methods would be useless against a culprit who had a hostage and was observing her from close by...`
+char_non: `So Natsuhi could do nothing but obediently follow his orders,`
+char_non: ` and then claim that she had been forced to do this for her husband's safety...`
+char_non: `As the arranged time had drawn near,`
+char_non: ` Natsuhi had intentionally acted annoyed and smashed the cup on the ground to give her an excuse for slipping out of the parlor.`
+char_non: `.........At any rate, no matter how cowardly a trap it may be, ......I cannot disobey now.`
+char_non: `I am now the one who carries the burden of the One‐winged Eagle.`
+char_non: `......Now that my husband, Krauss, has been captured,`
+char_non: ` I must protect it even if I have to crawl through the mud...`
+char_nat: `".............................."`
+char_non: `......Of course, I am prepared to do that.`
+char_non: ` I am Ushiromiya Natsuhi.`
+char_non: `Even if I am not permitted to bear the One‐winged Eagle on my clothes,`
+char_non: ` .........Father gave me permission to bear it in my heart......`
+char_nat: `".............................."`
+char_non: `......I think dashing away in a rage got me here without raising too much suspicion.`
+char_non: `So far......everything has gone well.`
+char_non: `Before my eyes was the doorknob of the specified guest room.`
+char_non: `{n}......However, ...I wondered about the lock.`
+char_non: `The servants are under orders to always lock any unused rooms.`
+char_non: `......What will I do if it's locked...?`
+char_non: `I dashed out of the parlor pretending that I was returning to my room.`
+char_non: `Going back and asking a servant to unlock this guest room would be obviously suspicious...`
+char_non: `If possible, ......I'd like to get this eerie hide‐and‐seek over with without anyone noticing.`
+char_non: `In that phone call from the one who claimed to be a man from 19 years ago,`
+char_non: ` he said that I would win if no one found me, but lose if anyone did find me.`
+char_non: `He said that he'd release my husband whether I won or lost,`
+char_non: ` ......but as a person with a hostage taken against me, I'd rather not lose...`
+char_non: `I don't like it at all, but I have to go along with this game.`
+char_non: `I softly gripped the doorknob, ......and I could feel that it was unlocked.`
+char_non: `Did Shannon or Kumasawa forget to lock it after cleaning?`
+char_non: `......Or did that man unlock it in advance......?`
+char_non: `That man...`
+char_non: `...couldn't be waiting for me in this room, could he?`
+char_non: `And then...`
+char_non: `...he'll...`
+char_non: `........................`
+char_non: `All that about hide‐and‐seek might have been just an excuse.`
+char_non: `I kept the fact that I was coming here secret, and all of the other people think I'm resting in my room.`
+char_non: `If I were to be killed in this situation, in this room,`
+char_non: ` ......it might create a new baffling murder case, like an extension of the one which occurred this morning.`
+char_nat: `".........I‐...if that's what he's up to, so much the better.`
+char_nat: ` ...It will be a good chance to confront the culprit directly..."`
+char_non: `Natsuhi had some experience with using a {ruby:Japanese polearm:naginata}, but only from casual lessons.`
+char_non: `Unlike Eva, she couldn't brag about being able to hold off any single ruffian indefinitely.`
+char_non: `As she was now, she had no realistic chance of prevailing over a man with malicious intent on her own, and no weapons that could make that possible.`
+char_nat: `".............................."`
+char_non: `She readied herself......and slowly opened the door.`
+char_non: `She couldn't afford to stand around in the corridor and risk being seen by someone...`
+char_non: `The atmosphere inside the guest room......was ice‐cold,`
+char_non: ` and she could sense no trace of a person waiting impatiently for her.`
+char_non: `All she could hear were the unsettling sounds of the wind and rain.`
+char_non: `At first, that seemed to be proof that no one existed to threaten her,`
+char_non: ` ......but before long, it only stirred up the uneasy feeling inside her all the more...`
+char_non: `The closet was just off to the side of anyone entering the room.`
+char_non: `Lined up inside it was a set of hangers where guests could hang their coats.`
+char_non: `This closet, which had nothing hanging in it, was large enough for even an adult to hide in...`
+char_non: `She softly opened the closet.`
+char_non: ` ......Of course, there was nothing inside.`
+char_non: `She would have to hide quietly in here for an hour.`
+char_non: `The room had a wood floor, but something like a carpet had been laid in the closet.`
+char_non: `......It seemed that sitting down wouldn't be a problem.`
+char_non: `She had been sure that someone would be waiting for her in this room,`
+char_non: ` or that a strange letter would be lying in the closet.`
+char_non: `......She had even imagined the worst, that her husband's corpse might be inside.`
+char_non: `However, none of these things she imagined turned out to be true.`
+char_non: `All that was here was a cold guest room...`
+char_non: `and a lifeless closet which silently urged her to go inside......`
+char_nat: `"............And he told me...to hide in here for an hour...`
+char_nat: ` ......He's making fun of me."`
+char_non: `Natsuhi shrugged, turned around, then locked and chained the guest room door.`
+char_nat: `"This way, no one will be able to get into this room.`
+char_nat: ` ......In other words, no one will be able to find me for the next hour.`
+char_nat: ` I win.`
+char_nat: ` What a stupid game of hide‐and‐seek."`
+char_non: `This would certainly result in a total victory in the hide‐and‐seek game against that mystery man.`
+char_non: `......However, it was such an easy victory, it made her feel uneasy.`
+char_non: `This is normally against the rules of hide‐and‐seek...`
+char_non: `......Even if I win, won't this displease the culprit?`
+char_non: `And everyone thinks I'm in my room right now.`
+char_non: `If they find a room with a chain set, that will be an impossible locked room to them.`
+char_non: `Erika was dashing around the mansion to confirm everyone's alibi.`
+char_non: `If she notices that the chain is set on this room, there will probably be an uproar which will end in them cutting the chain and searching the room.`
+char_non: `......If that happens, I'll be found hiding in the closet right away.`
+char_non: `It would be easy for me to honestly confess why I was hiding.`
+char_non: `But that man insisted that I not reveal that.`
+char_non: `......If I tell them, ......I might be endangering my husband...`
+char_non: `Thinking of it that way, setting the chain.........no, even locking the door might be a bad idea.`
+char_non: `That's right.`
+char_non: ` This room was unlocked when I came here.`
+char_non: `If it were to suddenly become locked, it's conceivable that it might catch someone's attention.`
+char_non: `......It's better if I don't do anything unnecessary...`
+char_non: `{n}That man only told me to hide......`
+char_nat: `"............So in the end, ...I have no choice...but to do what he says......"`
+char_non: `I hate doing it, ......but I can't disobey.`
+char_non: `I undid both of those two precious locks,`
+char_non: ` ......went into the dimly lit closet filled with the smell of old wood, and managed to close the door from the inside.`
+char_non: `......Pitch black.`
+char_non: `It reminded me of when I was young, when I used to hide somewhere and then surprise my mother,`
+char_non: ` but that peaceful recollection wasn't enough to kill off my anxiety.`
+char_non: `It really is pitch black.`
+char_non: `From in here, I won't even be able to check my watch to see if an hour has passed.`
+char_non: `I'll probably need to open the door a crack every once in a while to let in enough light for my watch.`
+char_non: `......For now, .........I sat down and folded my legs.`
+char_non: `I thought about holding my knees to my chest, but it hurt my back when I tried.`
+char_non: `I'm not as young as I used to be.`
+char_non: `Even though I and the rest of my class were made to sit on the floor clasping our knees in every PE class as grade schoolers,`
+char_non: ` I now have to struggle just to sit down.`
+char_non: `Just sitting down here for an hour...`
+char_non: `will probably hurt a lot......`
+char_nat: `"........................haah............"`
+char_non: `I can't believe.........he expects me to sit in the darkness for a full hour, listening only to the wind and the rain.`
+char_non: `Ironically, Natsuhi had made Jessica do the exact same thing in the past.`
+char_non: `She had done it to scold Jessica's persistent bad habits and teach her a lesson when she was a little girl.`
+char_non: `She had thought that making Jessica stay put in the darkness would sprout a desire to reflect on her mistakes,`
+char_non: ` and that, this way, she would understand what she had done wrong.`
+char_non: `......To Natsuhi, it almost felt like......she was being made to do the same thing.`
+char_non: `If that was the true purpose of this hide‐and‐seek......`
+char_non: `.......................................`
+char_nat: `"......How naive of me."`
+char_non: `This must be my naivety, the hope that if his goal is to make me repent,`
+char_non: ` nothing will happen here during this hour...`
+char_non: `Uncertainty and fear of that man's shadow are not what I need right now.`
+char_non: `Will someone suddenly come to this room, open this closet,`
+char_non: ` ......and do something horrible to me now that I've come here in total secrecy as promised?`
+char_non: `......That's what I should be worrying about.`
+char_non: `The culprit, ......or one of his accomplices, is very close by.`
+char_non: `{n}If they weren't, they wouldn't be able to observe me so thoroughly.`
+char_non: `I don't want to think it, but it's highly likely that the culprit bought off one of the servants.`
+char_non: `The culprit was able to hide an eerie card with "autumn" written on it in my room.`
+char_non: `My personal room is always locked.`
+char_non: `{n}That trick wouldn't have been possible without a key.`
+char_non: `Instead of believing that they obtained the key when the servants weren't looking,`
+char_non: ` it's much more realistic to assume that one of the servants lent the culprit a hand...`
+char_nat: `"Still,`
+char_nat: ` .........h‐how...`
+char_nat: `......did they know that autumn is my favorite season.........?`
+char_nat: ` .........How ghastly........."`
+char_non: `The thought that this mystery man might be peeking into my heart sent goosebumps running across my whole body...`
+char_non: `It's true that I like autumn, but I've never said that out loud.`
+char_non: `{n}I don't think anyone's ever asked me, either.`
+char_non: `......I could even ask my husband what my favorite season is and he would probably be stuck for an answer.`
+char_non: `............N‐no.`
+char_non: `{n}There was one time, one time I told it to a single person.........`
+char_non: `That's right.`
+char_non: ` ...............Shannon...`
+char_non: `On an autumn day long ago, I happened to be in a good mood,`
+char_non: ` and I mentioned that autumn was my favorite of the four seasons.`
+char_non: `......I can't believe it... Then the culprit, or one of their accomplices, has to be Shannon...!`
+char_nat: `"Only Shannon could know that I like autumn...`
+char_nat: ` ......In that case, ......this is clear proof that Shannon is involved...!`
+char_nat: ` That card with "autumn" on it is proof...!`
+char_nat: ` ......Incredible...`
+char_nat: ` After ten years of being provided for by our family........."`
+char_non: `I trembled and shook with rage.`
+char_non: `......Didn't Kinzo once say that the emotion of anger...`
+char_non: `is the fastest sedative to cure fear and uncertainty?`
+char_non: `It's easy to tell the most fearful humans from within a crowd.`
+char_non: `They're always the first to get angry.`
+char_non: `......I remember him telling me that.`
+char_non: `So I realized that this anger was a sign that I was actually frightened,`
+char_non: ` and I tried my best to remain calm...`
+char_non: `......However, this is a fascinating clue that I can use to turn things around.`
+char_non: `Shannon may not be reliable as a servant,`
+char_non: ` but if she's the accomplice used by that mystery man, this might actually be convenient.`
+char_non: `She's a timid girl.`
+char_non: ` If I threaten her, she'll probably spill the name of the mastermind in an instant.`
+char_non: `I'll tell the police about this in secret.`
+char_non: `{n}I'm certain it will be a big clue that will help in arresting the culprit.`
+char_nat: `"......That card was probably meant to surprise me and control me,`
+char_nat: ` ......but he's actually dug his own grave."`
+char_non: `{a:c:`
+char_non: `{p:1:I never told anyone except Shannon that I like autumn}.}`
+char_non: `This is unshakable proof that she's working with the culprit......`
+char_non: `Though I'd thought this time in the closet would crush me with uncertainty and uneasiness, it had actually given me the start of a counterattack.`
+char_non: `If I hadn't been given this time in the darkness, I probably wouldn't have noticed this.`
+char_non: `I felt almost grateful to the culprit for making up this foolish game.`
+char_non: `......My mood brightened.`
+char_non: `...I still couldn't guarantee that my husband was safe, but I was determined to take him back and force the culprit to face judgment...`
+char_non: `I gripped my fists tightly, and further strengthened my resolve to avoid losing this fight at any cost...`
+char_non: `Rattle, rattle!!`
+char_non: `At that moment, I heard the sudden sound of someone trying to force a locked door open,`
+char_non: ` and my heart leapt.`
+char_non: `"......Oh, it was unlocked."`
+char_non: `The voice was Hideyoshi's.`
+char_non: `{n}I heard a quiet voice, as though he was talking to himself, coming from what was probably the hallway.`
+char_non: `Apparently, he had thought it was locked and tried to unlock it,`
+char_non: ` but had ended up locking the unlocked door instead.`
+char_non: `Once again, there was the sound of the lock turning, and this time, the door opened with a faint sound......`
+char_non: `......Why...`
+char_non: `...is Hideyoshi‐san in this room......?!`
+char_non: `Footsteps which sounded like his came in, and there was the sound of him closing and locking the door behind him.`
+char_non: `Then came what seemed to be the sound of him setting the chain.`
+char_non: `.........Don't tell me...`
+char_non: `...Hideyoshi‐san...`
+char_non: `...is the mastermind...?!`
+char_non: `{n}Or else, an accomplice...?!`
+char_non: `Is he planning to do something to me in this room...?`
+char_non: `The door may only be locked from the inside, but it will still take some time to remove the chain.`
+char_non: `......If Hideyoshi‐san doesn't intend to let me escape from here,`
+char_non: ` there's no chance he'll give me time to fumble around with the chain...`
+char_non: `In that case.........`
+char_non: `......when he opens the closet door wide in just a moment...`
+char_non: `...and looks down upon me sitting here pathetically,`
+char_non: ` ......just what kind of horrifying words will he say...?`
+char_non: `I don't want to be found, I don't want to be found...`
+char_non: `{n}I beg you, pass right on by the closet door...`
+char_non: `{n}Please keep going into the center of the room......!`
+char_non: `My head was filled almost to bursting with a throbbing sound so loud that I almost missed hearing his noisy footsteps.`
+char_non: `So when I heard a clunking sound coming from the center of the room,`
+char_non: ` I finally realized that he'd passed by the closet, and was deeply relieved.`
+char_hid: `"......Just in case.`
+char_hid: ` Can't tell if it's day or night in this weather anyway."`
+char_non: `As he muttered, he did something that made a clunking sound.`
+char_non: `{n}......He was probably closing the shutters on the windows.`
+char_non: `Just in case?`
+char_non: `{n}In case I try to escape out the window...?`
+char_non: `No, ......that can't be it.`
+char_non: `That's right.`
+char_non: `When I left the parlor, everyone was talking about possibly taking a break.`
+char_non: `After all, several murders had occurred.`
+char_non: ` And the weather was bad.`
+char_non: `{n}......There would be nothing abnormal about resting in a guest room here instead of returning to the guesthouse.`
+char_non: `In that case, locking up and closing the shutters to guarantee safety was the proper course of action to take.`
+char_non: `When he finished closing the shutters,`
+char_non: ` ......there was a thunk`
+char_non: ` as though he had flopped over on the bed.`
+char_non: `......It was surprising how much of the situation could be grasped just by the sound.`
+char_non: `.........What's going on here......?`
+char_non: `Did the man from 19 years ago......plan all this out to put me in the same room as Hideyoshi‐san...?`
+char_non: `No, ......that probably...isn't true.`
+char_non: `Clearly he planned on me hiding here,`
+char_non: ` ......but Hideyoshi‐san coming to take a rest here must have been outside the scope of his plan.`
+char_non: `Thinking about it that way, .........having him in the room...`
+char_non: `might help to secure my own safety in an odd sort of way.`
+char_non: `......Unlike his wife, Hideyoshi‐san is the kind of person I can talk to.`
+char_non: `{n}If Eva‐san comes, things will probably get complicated.`
+char_non: `Maybe I should slip out of this closet now while he's still alone,`
+char_non: ` reveal everything just to him, and ask for help......`
+char_non: `But if I do that, my husband might be killed...`
+char_non: `It isn't wise to do anything rash until my husband is released......`
+char_non: `Should I go out and talk, or hide in here?`
+char_non: `Moaning from my headache and biting my lower lip, I resisted the temptation to crawl out of here...`
+char_non: `Even if I talk with Hideyoshi‐san, I don't know where my husband is being held.`
+char_non: ` I'm sure the informant who's observing me is nearby as well.`
+char_non: `Just talking to him won't solve everything.`
+char_non: `......I suspect that Shannon is an informant, but that doesn't mean that Gohda and the others aren't.`
+char_non: `......It's no good......`
+char_non: ` Leaving here and confessing is just too dangerous...`
+char_non: `Eventually, ......I heard a strange, sobbing voice.`
+char_non: `......Whose voice was it......?`
+char_non: `I strained my ears, trying to hear that strange voice,`
+char_non: ` .........and was shocked to discover that it was Hideyoshi weeping...`
+char_non: `Now that he was all alone like this, Hideyoshi, ......who had lost his only son,`
+char_non: ` was finally able to shed tears and cry...`
+char_non: `......Thinking that he needed to support Eva in her distress, he had acted as though he alone was standing firm.`
+char_non: `However, he had as good a right as anyone to cry.`
+char_non: `......And now that he had found a place where no one could see his tears,`
+char_non: ` he was finally allowing himself to let it out...`
+char_non: `............I've...`
+char_non: `...lost my daughter too.`
+char_non: `...I haven't seen her body with my own eyes, ......so it still doesn't really feel like she's dead.`
+char_non: `But if the one who carried her off was the culprit...`
+char_non: `and he had some repulsive motive for doing it, ......just thinking about it makes me feel as though my chest will tear itself apart...`
+char_non: `The reason I'm hiding in here now is that I'm thinking more about my still living husband than my dead daughter.`
+char_non: `......But if I were given the chance, ...I'd be wailing at the top of my lungs too.`
+char_non: `However, ......I still can't let myself do that.`
+char_non: `......That isn't because the man from 19 years ago told me to hide.`
+char_non: `It's because............I am the final...head of the Ushiromiya family......`
+char_non: `It's been completely overshadowed by all of this,`
+char_non: ` ......but last night, Battler‐kun found the hidden gold and even gained the Head's Ring from that mysterious envelope.`
+char_non: `.........At the very, very end, when it's all over...`
+char_non: `{n}I probably won't be able to prevent him from inheriting the family headship.`
+char_non: `And when everything regarding the distribution of the inheritance is revealed,`
+char_non: ` ......the Ushiromiya family honor and glory passed down from Father.........will plummet to the earth.`
+char_non: `So, ......I am the final head.`
+char_non: `Battler‐kun will probably inherit the remaining wealth of the Ushiromiya family.`
+char_non: `However, its history and honor......will all end with my generation......`
+char_non: `Therefore, ......I am the final head.`
+char_non: `{n}I must not cry.`
+char_non: ` .........Not yet.`
+char_non: `Until I get my husband back......and avenge my daughter, I will not be allowed to shed tears......`
+char_non: `As I listened to Hideyoshi‐san's sobs from the closet,`
+char_non: ` I silently hung my head......`
+char_hid: `"Wh‐who are you...?!"`
+char_non: `Huh?!`
+char_non: `My heart leapt.`
+char_non: `Hideyoshi‐san, who must have been lying prostrate on the bed, made a sound as though he had bounded to his feet.`
+char_non: `......D‐......did he notice me......?`
+char_hid: `"How did you get in here......?`
+char_hid: ` ......Wh‐...what's that...?`
+char_hid: ` ......W‐wait a second...!`
+char_hid: ` Wai.........ngahh, ......mmpph—"`
+char_non: `He was clearly in a struggle with someone.`
+char_non: `......Who could it be?!`
+char_non: ` No, it doesn't matter who it is.`
+char_non: `It's probably the culprit, and they're probably trying to take Hideyoshi‐san's life at this very moment...!`
+char_non: `Shouldn't I jump out of here and help him...?`
+char_non: `{n}Even if I couldn't help him, I could at least call for help......`
+char_non: `...No, but...if I do something like that, I'll be questioned about why I was hiding here...!`
+char_non: `However, if Hideyoshi‐san goes on to get killed now......`
+char_non: `No, now isn't the time to be saying that...`
+char_non: `{n}At this rate, he'll definitely be killed...!`
+char_non: `I'll jump out of here and help him right now...!`
+char_non: `Aaah, but if I do that, even if I can save Hideyoshi‐san, ......I might be abandoning my husband's life.`
+char_non: `Hideyoshi‐san's life and my husband's life.`
+char_non: `{n}......How sinful it would be to try to weigh those against each other...!!`
+char_non: `Just then, there was a loud sound of the door opening and the chain being pulled tight.`
+char_non: `Someone was trying to open the door despite the chain being set.`
+char_eva: `"Honey, it's me.`
+char_eva: ` Could you open up?"`
+char_hid: `"......Eva, ......aah, gwaaaaaaggghhhh...!!"`
+char_eva: `"Honey?`
+char_eva: ` ...What?! What's happening?!`
+char_eva: ` Honey?!`
+char_eva: ` Open up!!"`
+char_hid: `"Ggh......`
+char_hid: `............gggh`
+char_hid: `............ggh........."`
+char_eva: `"Open up!`
+char_eva: ` Open up, honey!!`
+char_eva: ` S‐someooooooooooone!!"`
+char_non: `She opened and closed the door over and over again with all her might, but of course, she couldn't snap the chain.`
+char_non: `Eva‐san raced down the hallway calling for help in a loud voice......`
+char_non: `By this time, the room had settled back into silence,`
+char_non: ` ......and that earlier feeling of Hideyoshi being in a noisy struggle had disappeared completely.`
+char_non: `What's.........going on here......?!`
+char_non: `So, right now, ......I'm in the same room as the murderer who killed Hideyoshi‐san......?!`
+char_non: `In that case, the culprit should try to escape from the room as soon as possible, ......so why are they staying so quiet in here...?!`
+char_non: `I haven't heard anything,`
+char_non: ` ......nothing that might have been the culprit who attacked Hideyoshi‐san rushing away.`
+char_non: `......No matter how much I strain my ears, I can't sense anyone in the room.`
+char_non: `In fact, ......it's so silent that it makes what happened just a second ago feel like an illusion.`
+char_non: `In other words, .........does this mean......that the culprit is holding his breath,`
+char_non: ` standing right in front of this closet...`
+char_non: `waiting for me to shamelessly come out......?`
+char_non: `I don't even know what to be scared of anymore.`
+char_non: `If only I could just melt away into the darkness of this closet...!`
+char_non: `I mustn't remain in this room any longer.`
+char_non: `{n}I get the feeling I have more to worry about than just my personal safety...`
+char_non: `But what should I do?!`
+char_non: `I don't even know if it's a good idea to leave this closet...!!`
+char_non: `Before long, the clamor of many rushing footsteps approached.`
+char_non: `I held my breath again and melted away into the darkness of the closet......`
+char_non: `Eva dashed back, bringing everyone with her.`
+char_non: `Gohda was gripping a bolt cutter.`
+char_non: `{n}It was to cut the chain with.`
+char_non: `After trying to open the door again and confirming that the chain was still set, she yelled through the crack in the door.`
+char_eva: `"Honey!!`
+char_eva: ` We're going to open this up...!!`
+char_eva: ` Cut it right now!!"`
+char_goh: `"Y‐yes...!"`
+char_non: `Gohda stuck the large bolt cutter, which looked like it could slice off whole fingers,`
+char_non: ` into the crack in the door and easily severed the chain.`
+char_eva: `"Dear!!"`
+char_non: `As soon as it was severed, Eva pushed Gohda aside and dashed in.`
+char_non: `The others tried to follow her, .........but they bumped into Eva, who had fallen to her knees, moaning.`
+char_non: `So even though they couldn't tell much of what was going on inside the room,`
+char_non: ` ...they could tell by Eva's moans that they were too late......`
+char_rud: `"......What the hell......"`
+char_eva: `"Honey...!! Honey{-}y{-}y{-}y{-}y{-}y{-}y{-}yyy!!`
+char_eva: ` Doctor Nanjo!!`
+char_eva: ` Look at my husband...! Quickly!!"`
+char_nan: `"I, I'll do it right now......"`
+char_but: `"You've got to be kidding me......`
+char_but: ` ...It's only been about ten minutes since Uncle Hideyoshi went out saying he wanted to rest......"`
+char_kir: `"......Is there anyone in the bathroom?"`
+char_goh: `"N‐no...!`
+char_goh: ` There's no one here!"`
+char_kum: `"What could have happened, ...aaaaaahhhh......"`
+char_eva: `"Honey!!`
+char_eva: ` Honey{-}y{-}y{-}y{-}y{-}y{-}y{-}y{-}y{-}y{-}y{-}y{-}y{-}y{-}y{-}yyy...!!"`
+char_nan: `".........I'm afraid to say...that there's nothing I can do......"`
+char_non: `Nanjo stood up, hanging his head sadly.`
+char_non: `It was only natural.`
+char_non: `Because anyone, even if they weren't a doctor, would think that at a glance.`
+char_non: `......Hideyoshi......was lying face down on the bed.`
+char_non: `And stuck deep into his back.........was something like a blade with an intricate demonic design on it.`
+char_non: `When Eva pulled it out with all her might,`
+char_non: ` they could tell that it wasn't a blade, but some kind of stake.`
+char_non: `And its sharp tip had penetrated nearly fifteen centimeters in.`
+char_non: `It had probably dug deep into the lungs.`
+char_non: `......If it had been stuck in any harder, the tip might even have pierced all the way through to the surface of his chest......`
+char_eva: `"Didn't I tell you to wait for me?!!`
+char_eva: ` Why did you go on alone...?!!`
+char_eva: ` Stupid, stupid,`
+char_eva: ` stupiii{-}i{-}i{-}i{-}iiid!!`
+char_eva: ` Uwaaa{0}a{0}a{0}a{0}a{0}a{0}a{0}a{0}a{0}aahhhh!!"`
+char_rud: `"......The culprit probably waited for us to get careless and split up......"`
+char_but: `"That bastard......`
+char_but: ` So he still hasn't had enough blood...?!"`
+char_sha: `"So he really is......hiding somewhere in this mansion...`
+char_sha: `...and coming after us......?"`
+char_kir: `"But there's something strange here.`
+char_kir: ` ......The doors and windows to this room are completely sealed."`
+char_kan: `"............ah.`
+char_kan: ` ...Th‐that's right.`
+char_kan: ` The shutters are all shut, and the chain was on the door until a second ago......"`
+char_kum: `"Huh?!`
+char_kum: ` Isn't that bizarre...?!`
+char_kum: ` In that case, how did the culprit attack Hideyoshi‐san in this room...?!"`
+char_goh: `"Perhaps they threw this stake through the crack in the door......!"`
+char_kir: `"Hideyoshi‐san's bed is in a total blind spot from this crack.`
+char_kir: ` You couldn't even kill him with a gun.`
+char_kir: ` .........This really is strange.`
+char_kir: ` It's a locked‐room murder."`
+char_sha: `"A, ......a locked‐room murder......"`
+char_but: `"......It's a bit too early to be sure about that.`
+char_but: ` Maybe the culprit removed the ceiling in the bathroom and escaped to the space above it, or maybe you can close the shutters from outside."`
+char_eri: `"The shutters.`
+char_eri: ` ............They didn't budge an inch from the outside.`
+char_eri: ` I just went and checked."`
+char_but: `"......Erika........."`
+char_non: `It was no wonder everything felt so quiet and relaxed.`
+char_non: `{n}At some point, Erika had split from the group.`
+char_non: `Just now, she had finally arrived and poked her face in from the hallway.`
+char_non: `......She had heard that a crime had occurred in this room,`
+char_non: ` seen everyone rushing towards it, and taken the opposite approach by circling around to the outer wall.`
+char_non: `And she had gone all by herself to check that the shutters were down on the windows, that you couldn't do anything with them from the outside,`
+char_non: ` ......and that there was nothing out of the ordinary.`
+char_eri: `"I assume that the inside of the room is perfectly cliché......?"`
+char_but: `"......That was uncalled for."`
+char_eri: `"You have my deepest condolences.`
+char_eri: ` So? What is the state of the room?"`
+char_but: `"..........................."`
+char_kir: `"......The chain was set on the door, so we cut it and entered."`
+char_rud: `"And all the windows have the shutters down.`
+char_rud: ` They're locked tight from the inside."`
+char_eri: `"......What are they bickering about in there?"`
+char_non: `Eva was arguing with Nanjo about something.`
+char_non: `Apparently, she wanted to carry the body to the parlor.`
+char_non: `Nanjo tried to calm her, saying that they should leave the crime scene as untouched as possible until the police came.`
+char_eva: `"What happened to the other corpses when we did that?!`
+char_eva: ` The culprit carried them off somewhere!`
+char_eva: ` It may be that the culprit isn't satisfied with just killing, but intends to do something with the bodies as well...!!`
+char_eva: ` So no way!`
+char_eva: ` No way we're leaving my husband all alone here!!"`
+char_non: `Eva did have a point.`
+char_non: `After all, the prior victims were all carried away after we were shown their terrible and fatal wounds.`
+char_rud: `"......Erika‐chan.`
+char_rud: ` ...You'd probably like to preserve the crime scene, but could you just let this one slide...?"`
+char_eri: `"........................`
+char_eri: ` ...Do as you wish.`
+char_eri: ` All I'm interested in is the fact that a locked room has appeared that's much more serious than Kinzo‐san's study.`
+char_eri: ` I have no interest in corpses, so do as you please."`
+char_but: `"....................."`
+char_non: `Battler looked at her with an expression of clear disgust,`
+char_non: ` ......but it rolled off her like water off a duck's back.`
+char_eri: `"......Well? You can take the corpse away now, I don't mind.`
+char_eri: ` Or am I in the way?"`
+char_non: `Erika backed away from the door to open a path.`
+char_non: `......There was no trace of any sadness for the dead.`
+char_non: `{n}Her eyes simply blazed at the thought of this locked‐room murder that had appeared.`
+char_non: `In any event, the great detective had given her permission.`
+char_non: `......Eva and some others wrapped Hideyoshi's body up in the sheets, and Gohda and Rudolf started to carry him out...`
+char_non: `The sheets quickly turned red.`
+char_non: `It was so painful to see that Shannon and Kumasawa stripped the blanket off the bed to further cover the body...`
+char_but: `"......Hey, out of the way."`
+char_eri: `"Yes, I am out of the way."`
+char_rud: `"Let's carry him to the parlor."`
+char_goh: `"Y‐yes...!"`
+char_eva: `"Honey, honeyyy{-}y{-}y{-}y{-}y{-}y{-}y{-}y{-}y{-}y, awaa{0}a{0}a{0}a{0}a{0}a{0}ahhhhh...!!"`
+char_kir: `"......Listen up, everyone.`
+char_kir: ` From now on, we'll always move as a group.`
+char_kir: ` You must not let yourself be isolated."`
+char_but: `"The culprit probably got a master key when he attacked Genji‐san.`
+char_but: ` It's clear that locking up will no longer keep us safe."`
+char_kum: `"B‐but...even the chain was set. How did they do it......?!"`
+char_kan: `"......It's impossible...`
+char_kan: ` The shutters and the chain were firmly set.`
+char_kan: ` ......Even with a master key, it's impossible to force your way into that room......!"`
+char_kum: `"It must have been {f:5:Beatrice}‐sama's doing.........oooohhhhh......"`
+char_sha: `"......Th‐there's no way {f:5:Beatrice}‐sama did this...`
+char_sha: ` ......The epitaph has been solved, so there shouldn't be any more reason to hold the ritual..."`
+char_kan: `"As if we could understand her reasons...`
+char_kan: ` This is impossible for anyone except a witch...!"`
+char_eri: `"......Impossible for anyone except a witch...you say?`
+char_eri: ` <Good>!`
+char_eri: ` That has a nice ring to it."`
+char_kir: `"Erika‐chan, are you listening?`
+char_kir: ` We've decided to stick together from now on.`
+char_kir: ` First, we're carrying Hideyoshi‐san's body to the parlor.`
+char_kir: ` Can you hold off playing detective until we get there?"`
+char_eri: `"........................"`
+char_non: `When she heard the words "playing detective", Erika grimaced visibly.`
+char_non: `Then, after everyone had filed out, she took a single step into the now empty guest room,`
+char_non: ` .........looked around, and burned the scene into her eyes.`
+char_non: `......Erika claimed to have a photographic memory.`
+char_non: `If that was true, those few seconds were more than enough for her.`
+char_non: `Later on, she could sip black tea in the parlor while perusing her mental photographs of the crime scene,`
+char_non: ` and enjoy playing the part of the armchair detective...`
+char_non: `Then, suddenly, her eyes stopped on the closet off to the side.`
+char_non: `......A closet for hanging overcoats.`
+char_non: `If it was large enough to fit a coat on a hanger,`
+char_non: ` .........a person should be able to hide in it............`
+char_non: `Slowly, ............Erika...`
+char_non: `...stretched her hand out towards the closet............`
+char_eri: `".........ah—"`
+char_non: `Erika's shoulder was grabbed roughly from behind.`
+char_but: `"......Let's go, Ms. Detective.`
+char_but: ` Didn't they teach you to stick with the group on school field trips?"`
+char_eri: `"Well, whenever I go traveling, someone always dies."`
+char_rud: `"Hey, what do you think you're doing, brats?!`
+char_rud: ` Move it...!!"`
+char_non: `Rudolf told them to hurry.`
+char_non: `After clicking her tongue and glaring at the closet, Erika followed Battler back to the parlor for the time being...`
+char_non: `.........The sound of their footsteps finally faded.`
+char_non: `That time of terror,`
+char_non: ` when I feared that even the dripping of the cold sweat that covered my cheeks might be noticed, was finally......over.`
+char_non: `I slowly opened the closet door with hands that still couldn't stop trembling and dashed out into the hallway.`
+char_non: `It's alright, no one's found me......`
+char_non: `{n}Still, it's a good thing they didn't lock the door...`
+char_non: `If they had, I wouldn't be able to lock behind me after I left, and they'd find that suspicious...`
+char_non: `Anyway, I should leave this place.`
+char_non: `Then I'll return to my room and pretend that I was sleeping the whole time...`
+char_non: `That's right, I have to get back quickly...`
+char_non: `A new murder has occurred.`
+char_non: `{n}They'll probably try to tell me about it.`
+char_non: `And they'll probably do it immediately after they carry Hideyoshi‐san's body back to the parlor.`
+char_non: `I can get around a phone call by saying I was asleep and didn't notice, but if they come knocking directly, that'll be bad...`
+char_non: `I have to get back quickly, before they try to force their way in......`
+char_non: `I don't even know whether I should sprint back noisily to save every second I can, sneak back with hushed footsteps,`
+char_non: ` or walk around normally as though I don't know anything has happened......!`
+char_non: `The one thing I'm certain of is that I have to avoid bumping into them on their way back to the parlor.`
+char_non: `I have to get to my room......at a quick pace, without being noticed by anyone......!`
+char_non: `I passed through the hall...`
+char_non: `...to the lobby.`
+char_non: `Once I've ascended the main staircase in the lobby, ......I'll be almost there......`
+char_eri: `{a:c:`
+char_eri: `"Natsuhi‐san."}`
+char_nat: `"Hyeek......!!"`
+char_non: `Just as she was about to go up the large staircase, Natsuhi heard Erika call out to her,`
+char_non: ` and was so surprised that she visibly jumped.`
+char_eri: `"......I was just about to go tell you."`
+char_nat: `"Th‐thank you very much.`
+char_nat: ` Did something happen......?"`
+char_eri: `".........Natsuhi‐san, were you just...`
+char_eri: `going up the stairs...?`
+char_eri: ` Your room {i:is} upstairs, isn't it......?"`
+char_non: `Erika coldly pointed out this strange fact.`
+char_non: `{n}......Natsuhi cursed her bad luck.`
+char_nat: `"I, ...I couldn't sleep, so I was going to return to the parlor,`
+char_nat: ` ......b‐but I wasn't sure whether I had locked my room or not, so I was about to head back.`
+char_nat: ` ......I'm a worrier, so this sort of thing happens a lot.`
+char_nat: ` Don't worry about it..."`
+char_eri: `"Ah, of course, that is quite common, isn't it?`
+char_eri: ` It's a common quirk among people who aren't confident in their ability to remember things."`
+char_non: `Erika was clearly making fun of her, and Natsuhi might have put on an annoyed expression under normal circumstances.`
+char_non: `However, right now,`
+char_non: ` Natsuhi was extremely relieved to hear Erika admit that this was nothing out of the ordinary...`
+char_nat: `"Why are you by yourself, Erika‐san......?"`
+char_eri: `"I thought I might examine that guest room."`
+char_nat: `"Guest room......?"`
+char_eri: `"Yes.`
+char_eri: ` Things have gotten pretty serious, haven't they?`
+char_eri: ` And investigating the scene of the crime is my right."`
+char_non: `......Erika's probing gaze peered deep into Natsuhi's eyes.`
+char_non: `She could tell.`
+char_non: `{n}Erika was already suspicious of Natsuhi.`
+char_non: `......Judging by the subtle nuances of her words,`
+char_non: ` this was almost certainly an attempt to make Natsuhi slip up and reveal that she knew about the Hideyoshi murder she hadn't yet been told about.`
+char_non: `Natsuhi played dumb and asked again what had happened.`
+char_eri: `"..........................."`
+char_nat: `"..............................`
+char_nat: ` ......I‐...is something wrong...?"`
+char_eri: `"No, I was just thinking.`
+char_eri: ` ......This is a repeat of the first crime, isn't it?"`
+char_nat: `"What do you mean...?"`
+char_eri: `"Again, you were in your room.`
+char_eri: ` And again, you can't prove your alibi, can you?"`
+char_nat: `"......I don't know what you mean.`
+char_nat: ` To turn it around, how can you prove that I wasn't in my room...?"`
+char_eri: `"Oh, an interesting response.`
+char_eri: ` Then let's take this one step at a time.`
+char_eri: ` ......Please worry about your lock later.`
+char_eri: ` I have something vitally important to discuss with everyone."`
+char_nat: `"I'll come back after I check my lock.`
+char_nat: ` Please get started without me."`
+char_eri: `"......Hideyoshi‐san has been killed.`
+char_eri: ` We'll be talking about that."`
+char_nat: `"Wh‐.........what...?!"`
+char_non: `She had planned on escaping to her own room using her lock as an excuse,`
+char_non: ` ......claiming to have a sudden headache, and staying in bed the rest of the time.`
+char_non: `However, now that she had been informed of Hideyoshi's murder,`
+char_non: ` it would be clearly suspicious to say that could wait and escape to her room.`
+char_non: `......She was already under suspicion after being seen heading up the stairs to the second floor.`
+char_non: `She couldn't afford to do anything else suspicious......`
+char_non: `Natsuhi gave up and headed for the parlor as Erika had urged her to do...`
+char_non: `When she opened the door to the parlor, Eva's sobs poured out.`
+char_non: `And everyone stared at Natsuhi with grave faces.`
+char_non: `Those gazes almost made it look......as though they suspected her.`
+char_non: `It was now painfully apparent to Natsuhi.`
+char_non: `{n}This must have been what that man was after.`
+char_non: `It was a trap to create a baffling locked‐room murder......and frame her for it.`
+char_non: `But I couldn't disobey.`
+char_non: ` I couldn't sacrifice my husband's life...!`
+char_non: `And while it's true that I was hiding in the closet, that was all.`
+char_non: `I haven't committed murder!`
+char_non: `I might fall under enormous suspicion, but I'm still not the culprit.`
+char_non: `And most importantly, I'm not under suspicion yet.`
+char_non: `......I'll tell the police everything.`
+char_non: ` I'll have to endure until then.`
+char_non: `I'm sure one of the servants is feeding information to the culprit.`
+char_non: `Even in a situation like this, if I talk about my husband being a hostage,`
+char_non: ` the culprit will hear, and it might be used as an excuse to kill him......`
+char_eri: `"Natsuhi‐san has just come back.`
+char_eri: ` Now that we're all here, I have something very important to discuss with you all."`
+char_but: `"......Something very important......?"`
+char_eri: `"Yes, it's very important.`
+char_eri: ` ......Here in front of you all, I would like to set out the facts of everything that's happened, from the first crime to the last."`
+char_nat: `"Then you can leave me out of it, if you please.`
+char_nat: ` I think we should leave that sort of thing to the police.`
+char_nat: ` I'm not interested."`
+char_eri: `"I have something very important to say once I've cleared everything up.`
+char_eri: ` Neither you nor anyone else has the right to refuse."`
+char_nat: `"Wha............"`
+char_non: `Erika used her detective's authority to proclaim the start of an assembly.`
+char_non: `{n}None of the pieces could disobey.`
+char_non: `Praying that she wouldn't become the topic of conversation, Natsuhi reluctantly sat on the sofa as she'd been urged to.`
+char_eri: `".........Oh, sorry.`
+char_eri: ` Could you close that door for me?"`
+char_non: `""Y‐yes...""`
+char_non: `Shannon and Kanon closed the door.`
+char_non: `......Since they had just now decided to lock all doors and windows carefully, Kanon locked it as well.`
+char_non: `The lock which existed to protect the safety of this room...`
+char_non: `felt like a lock on a prison cell to Natsuhi—one that would hold her there and prevent any escape......`
+char_non: `......Natsuhi still hadn't noticed.`
+char_non: `That ever since Erika had left into the corridor to go check the crime scene in Hideyoshi's room......her goal had changed.`
+char_non: `In short, from Erika's point of view, the sound of that lock was truly...`
+char_eri: `"Checkmate."`
+char_non: `Erika said that suddenly.`
+char_non: `{f:5:Bernkastel} said that suddenly.`
+char_lam: `"Oh, fast!`
+char_lam: ` Wow, so you've figured out the culprit already?`
+char_lam: ` We've barely gotten to any of the crimes, you know?`
+char_lam: ` You could've let me kill a few more and gathered all kinds of clu~es."`
+char_ber: `".........Alright, Lambda, gather all of the pieces.`
+char_ber: ` Now we're getting to the most entertaining part.`
+char_ber: ` Let's both enjoy it to the fullest."`
+char_lam: `"We'll see about that...`
+char_lam: ` Why don't you show me what you've got?`
+char_lam: ` *giggle*giggle*...!!"`
+char_bea: `"To think that she'd lay down the challenge without waiting for the game to be over at midnight...!`
+char_bea: ` What a hasty person, that Lady {f:5:Bernkastel}...!"`
+char_ron: `"It is quite an early challenge.`
+char_ron: ` To think that she already feels she can win at this stage..."`
+char_gap: `"......Claiming a witch exists is normally all you need to do to win,`
+char_gap: ` ......but with Natsuhi and Kinzo, we've got a lot we need to protect this time.`
+char_gap: ` ......Sounds like this fight'll be a pain."`
+char_bea: `"I welcome a troublesome fight!`
+char_bea: ` I won't let them do as they please with my golden island any more...!!`
+char_bea: ` I shall meet your challenge, Lady {f:5:Bernkastel}!`
+char_bea: ` Furudo Erika!"`
+char_non: `......In the Golden Land, the endless rain continued to fall.`
+char_non: `Battler was nowhere to be seen.`
+char_non: `It would very soon reach the time when Battler had joined in on the fifth game,`
+char_non: ` and control of his piece would be passed on to him.`
+char_non: `In other words, only now, in this final stage of the game when {f:5:Bernkastel} had pinpointed the culprit,`
+char_non: ` was Battler finally going to be allowed to participate.`
+char_non: `He had left the arbor a short while ago for that reason.`
+char_non: `Now, the only ones in sight were {f:5:Virgilia}, who continued to knit silently,`
+char_non: ` ......and Beato, ...who just sat there blankly amidst the smell of her black tea,`
+char_non: ` not even putting the cup to her lips......`
+char_non: `{f:5:Virgilia} stopped knitting for a moment...`
+char_non: `...and looked out across the vast golden rose garden that extended as far as the eye could see.`
+char_wal: `"......At least in terms of mere culprit‐guessing games,`
+char_wal: ` ......I think we can say that Battler‐kun has gained the strength to never again surrender."`
+char_bea: `"......................................."`
+char_wal: `"You gave him every message he needs by the end of the fourth game.`
+char_wal: ` .........That is to say, ......Battler‐kun possesses all the tools to reach the truth at any moment.`
+char_wal: ` .........However, he has a weak side.`
+char_wal: ` ......Because of that,`
+char_wal: ` even if the game goes on to repeat a hundred times,`
+char_wal: ` he will never solve it.`
+char_wal: ` He'll just wander forever like someone trying to find the blue bird."`
+char_non: `And that, ............{f:5:Beatrice},`
+char_non: ` goes for you as well.`
+char_non: `Even if you play this game hundreds more times,`
+char_non: ` you will never arrive at the answer you seek.`
+char_non: `{f:5:Bernkastel} will abuse this game without a doubt.`
+char_non: `{f:5:Lambdadelta} will also churn this game about with the utmost arrogance.`
+char_non: `At a glance, that may be humiliating and appear to you and Battler as though the game has been stolen from you.`
+char_non: `.........However.`
+char_non: `That is something the two of you need right now.`
+char_non: `To bring an end to Battler's weak side.`
+char_non: ` To bring an end to your hesitation.`
+char_wal: `"And that is why...`
+char_wal: `you called the two of them here.`
+char_wal: ` To end the eternal torture between the two of you."`
+char_bea: `"......................................."`
+char_wal: `"Those two will bring you either victory or defeat.`
+char_wal: ` But either result will now be one filled with compassion.`
+char_wal: ` .........You should understand that as well by now."`
+char_non: `{f:5:Virgilia} faced Beato, whom she had come to adore like a daughter,`
+char_non: ` ......with cold eyes that she must not have shown often.`
+char_non: `It was like the gaze of a mother who, instead of scolding, silently urges their child to recognize their mistake.`
+char_wal: `"{f:5:Beatrice}.`
+char_wal: ` .........How long do you intend to stay there...`
+char_wal: `...neither alive...`
+char_wal: `nor dead,`
+char_wal: ` .........not ascending to heaven...`
+char_wal: `nor descending to hell,`
+char_wal: ` there in a daze on the peak of Mount Purgatory......?"`
+char_bea: `"......................................."`
+char_wal: `"I am {f:5:Virgilia}.`
+char_wal: ` I have guided him through Purgatory and brought him to you at its peak.`
+char_wal: ` ......And you are {f:5:Beatrice}.`
+char_wal: ` You must choose whether to take his hand and rise up to heaven, or embrace him and fall into hell."`
+char_non: `Did you know that the tribulations of Purgatory, which lies in the gap between heaven and hell,`
+char_non: ` are sometimes more torturous than even hell itself...?`
+char_non: `On the gates of hell, it is written that you must abandon all hope.`
+char_non: `......A human without hope can accept their suffering and give up.`
+char_non: `However, the denizens of Purgatory have hope.`
+char_non: `{n}A hope of possibly reaching heaven, a hope that cannot be abandoned.`
+char_non: `And that tortures them.`
+char_non: `Even in the depths of hell, ...no greater torture device exists than the single pin known as hope......`
+char_wal: `"Leap.`
+char_wal: ` Leap from the cliff of Purgatory.`
+char_wal: ` ......Cast open Pandora's box, and cast aside your fleeting, fragile, foolish hope and all the longing it brings.`
+char_wal: ` You're afraid, aren't you?`
+char_wal: ` Of opening the box."`
+char_non: `Beato was silent,`
+char_non: ` .........but with a single tear, she nodded slightly.`
+char_wal: `"Is the cat in the box alive or dead?`
+char_wal: ` The time has now come...to check.`
+char_wal: ` ......If the cat is dead, hold a funeral for it quickly and have it rise to heaven.`
+char_wal: ` If the cat is alive, feed it quickly and give it all of your affection."`
+char_wal: `"Whether it is alive or dead,`
+char_wal: ` your cat box eternally desecrates the cat.`
+char_wal: ` .........Those two have brought you the key to the box that you were too afraid to open."`
+char_non: `{f:5:Beatrice}.`
+char_non: `{n}The time has come for you to die.`
+char_non: `I hope...`
+char_non: `that your heart will be stopped...`
+char_non: `...by the hand of the person you desire.`

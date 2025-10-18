@@ -1,0 +1,617 @@
+char_eri: `Knock‐knock‐knock‐knock!!!`
+char_eri: `The sudden sound of someone banging fiercely on the door brought Natsuhi to her senses.`
+char_eri: `She had probably nodded off in the study while planning how they would overcome the next day.`
+char_eri: `But...what could it be...?`
+char_eri: ` At a time like this...`
+char_eri: `More importantly, the knock itself was strange.`
+char_eri: `If someone had wanted to contact her, they could have just used the internal phone line.`
+char_eri: `She had told them that she would be here.`
+char_eri: `Realizing that something strange was going on,`
+char_eri: ` Natsuhi shook her head one more time, completely throwing off her drowsiness.`
+char_eva: `"Father, Father...!!`
+char_eva: ` It's Eva.`
+char_eva: ` I have something urgent and vital to talk to you about!"`
+char_non: `It was Eva's voice.`
+char_non: `......What is this?`
+char_non: `I thought I told them to lock the doors and windows of the mansion tightly after everyone left for the guesthouse.`
+char_non: `So why is Eva here...?!`
+char_non: `Natsuhi ran up to the door, responded with a small knock, and spoke through the door in a quiet voice.`
+char_nat: `".........What do you want? Keep your voice down."`
+char_eva: `"Natsuhi nee‐san...?!`
+char_eva: ` Why are you in Father's study at this hour?!"`
+char_nat: `"......I told you to be quiet!`
+char_nat: ` Have you forgotten that the head treasures peace and silence above all else...?!"`
+char_eva: `"Now's not the time to be saying that!!`
+char_eva: ` Stop harping on that and open up quickly!!`
+char_eva: ` Bring Father out!!"`
+char_nat: `"The head just went to sleep!`
+char_nat: ` I don't know what business you have, but I will listen to it tomorrow!"`
+char_eva: `"I don't have any business with you!!`
+char_eva: ` Just open up right now!!"`
+char_non: `Sometimes, all one's schemes and assumptions can fall apart due to the most direct, simple, and emotional of strategies.`
+char_non: `This is bad...`
+char_non: `If I open the door, Eva will probably throw herself forwards and rush into the study.`
+char_non: `Now, I can't even open this door...!`
+char_non: `At that moment, the phone suddenly rang.`
+char_non: `I‐it's alright.`
+char_non: ` Both of the keys to the study are here.`
+char_non: `No one can open this door...!`
+char_non: `Natsuhi inched away from the door and grabbed the receiver...`
+char_nat: `"H‐...hello!!`
+char_nat: ` It's Natsuhi!"`
+char_cla: `"It's me...`
+char_cla: ` Things are bad.`
+char_cla: ` I want you to come down to the parlor, quickly."`
+char_non: `It was from Krauss.`
+char_non: ` His tone was strained.`
+char_non: `......What in the world happened...?!`
+char_cla: `"It seems that Battler‐kun and the guest called Erika...`
+char_cla: `......solved the witch's epitaph and found the gold."`
+char_nat: `"Huh? ........................`
+char_nat: ` ...Is, ...is that true?!"`
+char_cla: `"Rudolf and the rest have forced their way in.`
+char_cla: ` They're saying that Battler‐kun is going to show us all the way to the location of the hidden gold..."`
+char_nat: `"Right now, Eva‐san is just outside the door, yelling at me to open it...!`
+char_nat: ` If I open it now, she might push her way into the study...!!"`
+char_cla: `"...I, I understand.`
+char_cla: ` I will be there soon.`
+char_cla: ` Don't worry about Eva.`
+char_cla: ` Just stay there and don't do anything...!`
+char_cla: ` I'll give you a signal once I've gotten Eva away from the door, so leave as soon as you hear that.`
+char_cla: ` Be ready...!"`
+char_non: `Right after that, Krauss came up the staircase, accompanied by Genji.`
+char_non: `A heated debate started between him and Eva. "Open up!" "No, calm down."`
+char_non: `In the middle of that, there was a small knock as a signal.`
+char_non: `......Krauss had skillfully pushed Eva away from the door and distracted her.`
+char_non: `During that gap, Natsuhi slipped out of the study and quickly shut the door...`
+char_non: `Eva noticed this, and her face twisted in disappointment,`
+char_non: ` but the heavy sound of the auto‐lock had already rung out, and the door had been sealed.`
+char_eva: `"The gold of the epitaph has been found!!`
+char_eva: ` It's only natural that we should inform Father...!!`
+char_eva: ` Or else what?`
+char_eva: ` Is there some reason you can't tell Father about this?!"`
+char_cla: `"We have strict orders from Father not to wake him after he goes to bed under any circumstances.`
+char_cla: ` Following those orders is the duty of the head's representative.`
+char_cla: ` Isn't that right, Genji‐san?"`
+char_gen: `"............Yes.`
+char_gen: ` The Master's sleep must not be disturbed, no matter the circumstances."`
+char_eva: `"There's a time and place for everything, isn't there...?!!`
+char_eva: ` I mean, the epitaph was solved!!`
+char_eva: ` Father has a right to know straight away!"`
+char_nat: `"Of course, the two of us will report on everything to the head tomorrow.`
+char_nat: ` That's our duty as the head's representatives."`
+char_eva: `"I don't care about that!!`
+char_eva: ` Just open this door!!`
+char_eva: ` Let me see Father!!`
+char_eva: ` Father, Father, can you hear me?`
+char_eva: ` It's Eva!!`
+char_eva: ` Please open up!!"`
+char_eva: `"Owowow, let go of me...!!`
+char_eva: ` Th‐that hurts...!!"`
+char_cla: `"We will bring this to his attention......!`
+char_cla: ` Now stop knocking on the door so loudly......!!"`
+char_eva: `"Ouch, owowowowow...!!`
+char_eva: ` Let go, let go of me!!"`
+char_gen: `"Krauss‐sama, Eva‐sama.`
+char_gen: ` You have been told that the Master is sleeping.`
+char_gen: ` Please refrain from disturbing him any further...!"`
+char_non: `When Genji spoke firmly, the two finally ceased their scuffle.`
+char_non: `It seemed that Genji, the one who had spoken for Kinzo since they were very young, still possessed an air of dignity strong enough to handle both Krauss and Eva...`
+char_non: `Eva put her argument aside for the time being.`
+char_non: `She could worry about that after seeing the gold with her own eyes.`
+char_non: `{n}After all, not even she had yet seen it for herself.`
+char_non: `Natsuhi and the others had managed to deal with this crisis somehow.`
+char_non: `......However, the demons' move which would sneer upon their efforts was already in motion...`
+char_bea: `"Battler.........solved the riddle of the epitaph, you say......?!"`
+char_kin: `"Mm.`
+char_kin: ` ......Though he had a lot of help from that Erika girl, Battler was the one who reached the answer.`
+char_kin: ` Erika has proclaimed that she will renounce her rights to the Golden Land.`
+char_kin: ` ......Therefore, Battler is the one who reached the Golden Land."`
+char_ron: `".........Fate can be truly interesting.`
+char_ron: ` To think that Battler‐sama should be the one to reach that place..."`
+char_wal: `"What will you do, Beato?`
+char_wal: ` ......You made a promise to stop the ritual if anyone solved the epitaph's riddle."`
+char_kin: `"Mm.`
+char_kin: ` ...That was the agreement."`
+char_bea: `".........That is the agreement.`
+char_bea: ` Yes."`
+char_ron: `"Apparently, Battler‐sama does not intend to become the master of the Golden Land.`
+char_ron: ` ......It now seems that no one will become our master."`
+char_wal: `"That is also fate.`
+char_wal: ` It has been several decades since we first manifested in the {y:0:Human}{n:0:human} world through our bond with Lord {f:5:Goldsmith}.`
+char_wal: ` ......It was all very fun."`
+char_gap: `".........Come on, Lia, you sound like an old lady.`
+char_gap: ` ......So, what're we going to do?`
+char_gap: ` According to Riiche and {f:5:Goldsmith}'s rules, now that Battler's solved the epitaph and decided not to become our master,`
+char_gap: ` we've been relieved from duty, right?"`
+char_kin: `"That's true.`
+char_kin: ` ......I have no regrets at all.`
+char_kin: ` I've been prepared to be kicked down into Cocytus all this time."`
+char_bea: `"Wait.`
+char_bea: ` We can't let that happen.`
+char_bea: ` ......You might not have any regrets, but I still serve Natsuhi.`
+char_bea: ` To let ourselves be relieved from duty just because Battler solved the epitaph would be quite irresponsible.`
+char_bea: ` ......Witches aren't allowed to break contracts, but they also must not fail to show gratitude."`
+char_ron: `"......True.`
+char_ron: ` We should serve her until the family conference ends."`
+char_wal: `"In that case, you won't be relieved from duty for a while either, Lord {f:5:Goldsmith}.`
+char_wal: ` ......Perhaps you should wait until you've overcome this family conference safely, said goodbye to Natsuhi‐sama at the very least,`
+char_wal: ` ......and if possible, rewarded her for all her efforts."`
+char_kin: `"...............Hmm.`
+char_kin: ` ......She has done well supporting my foolish son."`
+char_bea: `"Aren't you a fallen angel with one of its wings plucked off?`
+char_bea: ` Just leave the other wing as a parting gift and go."`
+char_kin: `"......Hmm.`
+char_kin: ` ......That is also fitting.`
+char_kin: ` Natsuhi might be worthy to bear my wing.`
+char_kin: ` ...However, .........we are approaching the critical moment.`
+char_kin: ` ......Your reward is waiting for you.`
+char_kin: ` Try and overcome this test safely, ......Natsuhi..."`
+char_non: `The mountain of gold left everyone speechless.`
+char_non: `Regardless of how strongly they had believed in its existence,`
+char_non: ` ......no one could look at this much real gold and not be shocked...`
+char_nat: `"............To think that a place like this existed........."`
+char_cla: `"I can't believe it......`
+char_cla: ` ......That Dad........."`
+char_non: `Everyone was stunned by the gold.`
+char_non: `The first one to break the silence and jump around in ecstasy was Hideyoshi.`
+char_non: `Letting out an excited laugh, he clung to the wall of gold,`
+char_non: ` and he felt the cold, hard touch of it all over his cheek.`
+char_hid: `"W‐waha{0}ha{0}ha{0}ha{0}ha{0}ha{0}ha{0}ha{0}ha{0}hahaha...!!`
+char_hid: ` Th‐this is incredible!`
+char_hid: ` It's the real thing!!"`
+char_rud: `"......Ha......ha{0}ha{0}ha{0}ha{0}ha{0}haha!!`
+char_rud: ` Damn you, old man, stockpiling all this gold in a crazy place like this!!"`
+char_eva: `"If we have all this...`
+char_eva: `...there's...`
+char_eva: `nothing to be afraid of anymore...`
+char_eva: ` Anything life throws at us,`
+char_eva: ` ......we can overcome......!`
+char_eva: ` Rosaaa......!!"`
+char_ros: `"Nee‐san...... Nee‐san......`
+char_ros: ` We'll be able to find happiness with this, right......?"`
+char_non: `Eva and Rosa started walking towards each other at the same time and hugged each other as they broke down crying...`
+char_non: `Ecstasy and shock...wonder and sighs.`
+char_non: `After stepping forward in front of the pile of gold that caused these mixed emotions,`
+char_non: ` ......Erika spoke as though she were an announcer in some show.`
+char_eri: `".........If money is everything in this world, then this gold is the embodiment of happiness.`
+char_eri: ` ......Congratulations, everyone.`
+char_eri: ` I pray with all my heart that this discovery enriches your lives."`
+char_kir: `"I take my hat off to you......`
+char_kir: ` ......To think that you would solve the epitaph within a single day of coming to this island."`
+char_eri: `".........If it wasn't solvable in a single day, then it wouldn't have been solvable no matter how many days I spent on it.`
+char_eri: ` After all, it doesn't take more than an instant for your little gray cells to give you a flash of intuition.`
+char_eri: ` ......Also, I wouldn't have been able to solve this riddle on my own.`
+char_eri: ` I ask that you praise Battler‐san's achievement as well, everyone."`
+char_but: `"................................."`
+char_eri: `"......I renounce any rights to this discovery.`
+char_eri: ` My reasoning was proven correct, and that alone is enough to satisfy me.`
+char_eri: ` Therefore, I want to give Battler‐san the full credit for discovering the gold."`
+char_eri: `"......I may be here, but please continue your discussion as though I am not.`
+char_eri: ` Battler‐san called all of the adults here, making sure that none of his cousins would notice.`
+char_eri: ` That can only mean one thing.`
+char_eri: ` ......He must wish for you all to conduct the true family conference."`
+char_but: `"......Erika.`
+char_but: ` Quit trying to run the show."`
+char_eri: `"Oh, how rude of me.`
+char_eri: ` ............In that case, I'll step down as the facilitator of these proceedings.`
+char_eri: ` So, who will take my place?"`
+char_non: `Shrugging, Erika looked around at everyone.`
+char_non: `......After a short period of silence, Eva made the first move.`
+char_eva: `"I assume none of us have forgotten......the deal we made earlier today."`
+char_rud: `"Yeah.`
+char_rud: ` We divide it between the four of us, 2.5 billion each.`
+char_rud: ` And then {i:the successor to the head} gets another 10 billion."`
+char_nat: `".........W‐wait just a moment!`
+char_nat: ` Who decided that the one who discovers the gold becomes the successor?!"`
+char_hid: `"Hold your horses, you're not gettin' away with that, Natsuhi‐san...!!`
+char_hid: ` That's been the basis of all our talkin' this whole time!`
+char_hid: ` Sayin' that now is shameful, don't ya think?!"`
+char_ros: `"...That's right.`
+char_ros: ` ......Weren't you the one worrying about how if one of the servants solved the riddle, they might consider themselves the successor to the head...?"`
+char_cla: `"But nowhere is it explicitly written that that's the truth!"`
+char_eva: `"You miserable coward!!!`
+char_eva: ` That was the way every single one of us interpreted it!!"`
+char_rud: `"She's right, Aniki!`
+char_rud: ` Are you really going to do a 180 on that now?!"`
+char_kir: `"Though it was never written down, I believe it was most definitely common understanding between us.`
+char_kir: ` I don't see how you can say it's completely irrelevant."`
+char_nat: `"You can't just interpret the head's epitaph however you like!!`
+char_nat: ` Where is it written that the one who finds the gold becomes the successor?!`
+char_nat: ` The epitaph was decided upon by the head.`
+char_nat: ` You have no right to decide these things for yourselves!!"`
+char_cla: `".........Calm down, Natsuhi."`
+char_nat: `"How can I possibly calm down?!`
+char_nat: ` I certainly find it very impressive that Battler‐kun solved the epitaph!`
+char_nat: ` I do think it would be fair for him to receive some kind of a reward.`
+char_nat: ` However, saying that reward should be half of everything here is clearly over the line,`
+char_nat: ` and the argument that the discoverer automatically becomes the successor is one that I absolutely will not permit to go unchallenged...!!"`
+char_ros: `"Th‐that's low, Natsuhi nee‐san...!`
+char_ros: ` This is completely different from what you were saying earlier today...!"`
+char_rud: `"I agree!`
+char_rud: ` It may not have been written down, but the fact that the guy who solves the epitaph becomes the successor has always been our greatest unwritten assumption...!`
+char_rud: ` It's not exactly fair to start complaining about that at the last second, is it?!`
+char_rud: ` Yeah, not fair at all!!"`
+char_nat: `"At any rate!!`
+char_nat: ` This gold belongs to Father!!`
+char_nat: ` We are not to decide how it will be split up without Father's permission!!"`
+char_hid: `"No way!!`
+char_hid: ` That's real low, Natsuhi‐san!`
+char_hid: ` We were talkin' about this on and on earlier!`
+char_hid: ` Are you sayin' that whole conversation today was a bunch of bull?!`
+char_hid: ` That's just not right!!"`
+char_eva: `"Why don't we just vote on it?!!`
+char_eva: ` Battler‐kun, the one who found the gold, is the successor to the head!`
+char_eva: ` My husband and I have no objections!!`
+char_eva: ` What about you, Rudolf and Kyrie‐san?`
+char_eva: ` Rosa?!"`
+char_rud: `"No objections here. Nice going, Battler!!"`
+char_ros: `"I have no objections either.`
+char_ros: ` Battler‐kun is the true successor, chosen by the epitaph.`
+char_ros: ` If you aren't satisfied, then why don't we just ask Father directly...?!"`
+char_kir: `"That's right.`
+char_kir: ` Like you just said, Natsuhi nee‐san, Father is the one who wrote the riddle of the epitaph.`
+char_kir: ` And he's also the proper owner of this gold.`
+char_kir: ` In that case, we should raise the matter with him, wouldn't you say?`
+char_kir: ` What kind of treatment should Battler‐kun receive as the person who discovered the gold?`
+char_kir: ` I believe Father is the only one with the right to determine that...!"`
+char_nat: `"B‐...but......!!"`
+char_cla: `"......I told you to calm down........."`
+char_eva: `"Rosa and Kyrie‐san are right.`
+char_eva: ` Let's ask Father!!`
+char_eva: ` It's time for you two to step aside!!"`
+char_hid: `"Darn right!!`
+char_hid: ` Bring Father down to us!!`
+char_hid: ` We won't get anywhere with just you two!`
+char_hid: ` Let's get the real family conference started!!`
+char_hid: ` You think this looks like somethin' you can put off because he's {i:tired}?!`
+char_hid: ` We don't do this properly, an' we'll have a massive problem on our hands...!"`
+char_hid: `"Hey, ya listenin' to me?!!`
+char_hid: ` I'm sayin' we're through with you two!!`
+char_hid: ` Get off your asses and bring Father down right noooooow!!!"`
+char_eri: `"...............Are family conferences always like this?"`
+char_but: `"......How the hell'd I know?"`
+char_eri: `"They're probably always feeling like this on the inside.`
+char_eri: ` .........Heheheheh.`
+char_eri: ` Looks like they won't be able to get this figured out right now without Kinzo‐san."`
+char_eri: `"......To think he's still being called out to settle his children's fights even though he's been told he only has a short while to live.`
+char_eri: ` ......I wonder how he feels right about now.`
+char_eri: ` ......*giggle*.`
+char_eri: ` Imagining that...no, deducing that will be a treat."`
+char_non: `The parents ignored Battler and Erika and kept yelling at each other, on and on...`
+char_non: `Even though Battler had more or less imagined that this sort of thing happened behind the scenes, this was the first time he had seen it.`
+char_non: `He had suspected it since six years ago,`
+char_non: ` and he'd been able to get a pretty good idea of what this was like by the darkening expressions on his parents' faces when this time of year drew near...`
+char_non: `However, this argument his relatives were having before his very eyes...`
+char_non: `...was much more...`
+char_non: `...ugly than he had imagined...`
+char_non: `He was very glad that he'd called the adults out here without letting the cousins catch wind of anything......`
+char_non: `Perhaps because everyone was tired out from this seemingly endless argument, they took a short break.`
+char_non: `It was decided that this family conference inside the Golden Land should be moved over to the mansion...`
+char_non: `This place may have been gorgeous, like a VIP room, but there was no ventilation, and it was a little cold.`
+char_non: `It wasn't well suited for a long conversation.`
+char_non: `They thought of the possibility that someone might carry the gold away while their backs were turned,`
+char_non: ` but it wasn't as if anyone could manage much with just human hands and a small amount of time when they had ten tons of gold to deal with.`
+char_non: `In fact, it even seemed as though having this mountain of gold in the background was robbing them of the ability to make sound decisions.`
+char_non: `So they agreed to return to the mansion, in part so that they could regain their composure and continue the conference more ruthlessly......`
+char_eri: `"......Well then, I will retire for the night.`
+char_eri: ` ......I imagine I would just get in the way if I remained any longer."`
+char_rud: `"Yeah, sorry about this.`
+char_rud: ` Did we bother you too much?"`
+char_ros: `"Please let us show our gratitude again tomorrow.`
+char_ros: ` Sorry for letting you see such an embarrassing side of us."`
+char_eva: `"I know you said you were turning it down,`
+char_eva: ` but we'll still prepare a fitting share, out of gratitude, for you as one of the first to discover the gold.`
+char_eva: ` Right, Nii‐san?"`
+char_cla: `"......Mm.`
+char_cla: ` We know what you're capable of.`
+char_cla: ` I think you can grasp our current circumstances."`
+char_non: `20 billion yen in gold wasn't something they wanted out in the open.`
+char_non: `They didn't want an outsider like Erika telling people about it.`
+char_non: `Of course, Erika had already "deduced" that much.`
+char_non: `She wore an unpleasant smile on her face, as though she understood all too well...`
+char_eri: `"......It's quite unnecessary for you to worry about me.`
+char_eri: ` I have no intention of telling anyone about this, of course.`
+char_eri: ` ......And even if I did, no one would believe me without proof."`
+char_eri: `".........I had the pleasure of witnessing something very interesting tonight.`
+char_eri: ` It was truly a feast for the eyes, so let me assure you that I'm more than satisfied."`
+char_eva: `"Heheh, I see.`
+char_eva: ` Yes, it's not every day you get to see ten tons of gold."`
+char_non: `......Getting to see the gold was the feast for the eyes?`
+char_non: ` Of course not.`
+char_non: `{n}From Erika's dark nature, it was easy to guess what she was so happy about seeing.`
+char_non: `I thought about telling her to get the hell out of here already, but I wanted out myself...`
+char_non: `I tried to head back to the guesthouse along with Erika.`
+char_non: `{n}However, Kyrie‐san grabbed my shoulder.`
+char_kir: `"Not you as well, Battler‐kun.`
+char_kir: ` You come with us, please."`
+char_hid: `"Darn right.`
+char_hid: ` You're a real successor to the head now!`
+char_hid: ` You've gotta go see Father and make it all official...!"`
+char_nat: `"Father is the only one who gets to decide that!!`
+char_nat: ` Don't make things up on your own!"`
+char_rud: `"......Battler.`
+char_rud: ` I know it's a pain, but you're gonna have to stick around with us for a little while longer.`
+char_rud: ` Don't say a word.`
+char_rud: ` Just stay quiet and keep your head down.`
+char_rud: ` Got it?"`
+char_but: `"............Just do whatever you want."`
+char_non: `It would have been easy to say that I had no interest in being successor to the head.`
+char_non: `......But I was sure that would only add more oil to the fire.`
+char_non: `Even if I hadn't been ordered to keep quiet, I was certain that staying shut up like a clam was the wisest thing to do...`
+char_non: `In that case, would it really be so bad if they just let me go back to the guesthouse...?`
+char_non: `Dad put his arm firmly around my shoulder, and I told him to quit crowding me.`
+char_non: `But it didn't make any difference...`
+char_but: `".........We solved the epitaph.`
+char_but: ` Just like you wanted."`
+char_bea: `"................................."`
+char_but: `"When you were the Game Master, we'd always get those letters.`
+char_but: ` ......‘Try and solve the epitaph.`
+char_but: ` If you don't, I'll kill you all’."`
+char_bea: `"................................."`
+char_non: `.........Why did she want to make us solve the riddle of the epitaph?`
+char_non: `By solving it, we found a mountain of gold.`
+char_non: `{n}Yippee for us.`
+char_non: `And what about Beato?`
+char_non: `......Does she gain anything......by having us find the gold?`
+char_non: `Or does she lose something...?`
+char_but: `"...As far as chessboard thinking tells us, ......people don't make moves which cause them to lose something.`
+char_but: ` That means you must have something to gain by having us solve the epitaph..."`
+char_wal: `"No.`
+char_wal: ` {p:1:This child has nothing to gain from having someone solve the epitaph}."`
+char_but: `"............Are you sure that's alright?`
+char_but: ` Using the red truth like that without her permission."`
+char_wal: `"......It is what she would want."`
+char_non: `{f:5:Virgilia}, who had suddenly appeared there, gave me an immediate answer to my question with the red truth...`
+char_but: `"In the past, I sometimes guessed that the reason Beato was trying to make us solve the epitaph...`
+char_but: `was that she wanted to make us find the gold's hiding place for her so that she could snatch it away.`
+char_but: ` .........Is that wrong too?"`
+char_wal: `"Yes.`
+char_wal: ` ......In the first place,`
+char_wal: ` {p:1:the gold of the Golden Land belongs to her from the start}.`
+char_wal: ` {p:1:She has absolutely no need to make anyone find it for her or to snatch it away herself}."`
+char_non: `Of course.`
+char_non: ` ......Beato is {f:5:Beatrice} the Golden.`
+char_non: `She's the master of the Golden Land and the Ushiromiya family alchemist.`
+char_non: `{n}...That makes total sense.`
+char_non: `However, if that's true, that makes me even more confused.`
+char_non: `......Even if someone exposes the answer to the epitaph's riddle, Beato gains nothing.`
+char_non: `No, to the contrary, she might get her own gold stolen away.`
+char_but: `"In that case, I'm understanding this less and less.`
+char_but: ` .........I understand the epitaph murders.`
+char_but: ` It could be revenge against the Ushiromiya family, or else a ritual to revive her powers as a witch.`
+char_but: ` ...She's probably got some reason or goal of her own for it."`
+char_bea: `"................................."`
+char_but: `"But what's the point of her telling us to solve the epitaph?`
+char_but: ` Whether we solve it or not, she gains nothing.`
+char_but: ` ......In other words, the whole issue of whether the epitaph is solved or not is immaterial in Beato's eyes."`
+char_wal: `"......You could say that.`
+char_wal: ` {p:1:Whether the epitaph's riddle is solved or not, she has nothing at all to gain from it}."`
+char_but: `"It doesn't matter whether it's solved or not.`
+char_but: ` ......Doesn't that mean that the epitaph's riddle {i:itself} has no value to Beato...?"`
+char_wal: `"..................`
+char_wal: ` ......I suppose.`
+char_wal: ` The epitaph's riddle doesn't have any meaning for her.`
+char_wal: ` So even if you take the extreme position that it's immaterial and has no value, it may not be possible to argue against your claim..."`
+char_bea: `"................................."`
+char_non: `Beato......`
+char_non: `......Why are you making us solve the riddle of the epitaph...?`
+char_non: `If we liken the witch you are to a pair of scales, the epitaph murders lie on one plate...`
+char_non: `And the riddle of the epitaph lies on the other plate.`
+char_non: `Because she's saying that she'll stop the epitaph murders if the epitaph is solved.`
+char_non: `......In other words, the epitaph murders and the epitaph's riddle are worth the same to Beato.`
+char_non: `Like two sides on a balanced scale.`
+char_non: `That means that the epitaph's riddle and massacring the entire family...`
+char_non: `have equal significance from Beato's point of view......`
+char_non: `But {f:5:Virgilia} responded with the red text.`
+char_non: `{p:1:Regardless of whether the epitaph is solved or not, Beato has nothing to gain}.`
+char_non: `If she has nothing to gain, then this epitaph's riddle...is meaningless and immaterial to Beato.`
+char_non: `In that case, how much are the epitaph murders, which lie on the other side of the scales and are equal to the epitaph's riddle in value...`
+char_non: `......worth to her...?`
+char_non: `......Think, don't stop thinking......`
+char_non: `The epitaph murders and solving the riddle of the epitaph have equal worth.`
+char_non: `As long as the epitaph murders, which are Beato's goal each time, have this single way that they can be stopped, a way that she decided on herself, both are worth the same thing to her.`
+char_non: `X=Y.`
+char_non: `{n}And whether the epitaph's riddle is solved or not, Beato gains nothing.`
+char_non: `{n}Y=0.`
+char_non: `{n}So, in this case, ......what is X......?`
+char_bea: `"................................."`
+char_but: `"......Wait a sec.`
+char_but: ` ......That means the epitaph murders are also meaningless and immaterial."`
+char_but: `"......Beginning with politely sending us an advance notice,`
+char_but: ` she's been willing to spend an incredible amount of effort killing us one by one, following the epitaph's steps in order, without getting exposed,`
+char_but: ` every time she performs that bizarre serial murder.`
+char_but: ` So all of that is meaningless to her...?"`
+char_non: `I've flipped over the chessboard many times exploring Beato's moves.`
+char_non: `{n}This was always the first place I stumbled.`
+char_non: `The significance of the epitaph murders.`
+char_non: `Why did she have to commit serial murders in a way that reproduced the witch's epitaph?`
+char_non: `If she wanted to kill the whole Ushiromiya family for revenge, it would be much simpler, safer, and more reliable if she just put poison into their dinner,`
+char_non: ` or else went around killing people one by one in the middle of the night while they were sleeping.`
+char_non: `However, on the first evening, Beato sends us a letter that sounds like an advance notice,`
+char_non: ` and then carries out what could be broadly described as a three‐part serial murder,`
+char_non: ` killing six people on the first twilight, two on the second, and five on the fourth and later.`
+char_non: `We aren't fools.`
+char_non: `Once the first murders occur, we barricade ourselves in somewhere to stave off any further murders.`
+char_non: `Furthermore, we quickly suspect a culprit among us and start analyzing each other's alibis.`
+char_non: `As the victims increase, the number of suspects decreases automatically,`
+char_non: ` and Beato's chances of completing the serial murder drop closer and closer to zero...`
+char_non: `Everything about the epitaph murders......is full of useless ornament and empty decoration...`
+char_non: `...that only seems to make it harder for her to carry out the serial murder.`
+char_but: `".........She's raising the difficulty of completing her own objective."`
+char_wal: `"That does follow.`
+char_wal: ` ......She's a strange child, isn't she?"`
+char_but: `"Did you know?`
+char_but: ` In mystery novels, there are sometimes murders that follow the events of a poem or nursery rhyme, just like these epitaph murders.`
+char_but: ` ......I think you can split the reasons these "nursery‐rhyme murders" occur into three major groups."`
+char_wal: `"......And what are those?"`
+char_but: `"The first would be when it benefits the culprit to follow the epitaph and thereby confuse the evidence and alibis.`
+char_but: ` ......The classic technique of pretending to be dead and mixing yourself in with the victims is an example of this,`
+char_but: ` as is committing murders in an order that doesn't follow the epitaph so that you can cause the others to mistake the order and give yourself an alibi."`
+char_wal: `"I see.`
+char_wal: ` So she could make it look as though she was carrying out the murders in accordance with the epitaph, ......when she was actually guiding everyone's thinking in a manner that benefited her.`
+char_wal: ` That sounds interesting."`
+char_but: `".........However, in our games, the dead are truly down for the count thanks to the red.`
+char_but: ` ...She might be able to trick everyone in the world of the game board, but she can't trick us up here in the same way.`
+char_but: ` ......In other words, the most traditional purpose for this kind of murder...isn't what we're dealing with here."`
+char_wal: `"In that case, what are the other two reasons for carrying out a nursery‐rhyme murder?"`
+char_but: `"One is coincidence.`
+char_but: ` ......The culprit carries out a serial murder which just happens to look similar to the epitaph without being intended to,`
+char_but: ` and the witnesses mistakenly think it's a nursery‐rhyme murder.`
+char_but: ` We humans try to find cause and effect in everything we see.`
+char_but: ` ......If we think we know what something is, then that's how it looks to us."`
+char_wal: `"......I see.`
+char_wal: ` That's also interesting.`
+char_wal: ` ...However, I'm not sure it's convincing.`
+char_wal: ` In this child's games, there's always an advance notice of the crime given before the murders of the first twilight.`
+char_wal: ` Also, I believe you find letters and circumstantial evidence one after another that clearly show the culprit is carrying out epitaph murders."`
+char_but: `"Yeah, that's right.`
+char_but: ` .........It isn't coincidence.`
+char_but: ` From the very beginning, Beato has been intentionally shoving the epitaph murders in our faces as she carries them out.`
+char_but: ` We aren't just misunderstanding.`
+char_but: ` These murders clearly follow the epitaph.`
+char_but: ` So this can't be the reason either."`
+char_wal: `"In that case, ......it must be your final reason."`
+char_but: `"The last one.........is to show the murders to someone.`
+char_but: ` In other words, to make them feel fear.`
+char_but: ` ...By following the epitaph, she gives the others clear notice in advance that the murders will continue.`
+char_but: ` The survivors are in constant fear of the murders, which they're certain will continue."`
+char_bea: `"...................................."`
+char_wal: `"In other words,`
+char_wal: ` ......this child performed these epitaph murders to create a feeling of mortal terror?"`
+char_but: `"At least, ...putting it that way, everything makes a surprising amount of sense.`
+char_but: ` ......The grotesque mutilation of the bodies and the disturbing displays were all a show to terrify us......"`
+char_wal: `"To terrify whom......?"`
+char_but: `"Huh?`
+char_but: ` ......Like I said, us.`
+char_but: ` .............................."`
+char_non: `After hearing that one line {f:5:Virgilia} spoke so casually, ......my thoughts clouded over once again...`
+char_non: `Is it really enough...`
+char_non: `to just use the vague word "us"......?`
+char_non: `There are a lot of people in the Ushiromiya family.`
+char_non: `There's the head and the one who holds the rank of his successor...Grandfather and Uncle Krauss.`
+char_non: `Our parents, who have some pull in the business world.`
+char_non: `......On the other side, you have the young cousins, who usually visit at most once a year,`
+char_non: ` and the unfortunate servants, who just happened to be on duty.`
+char_non: `......Even if the culprit hated all of us,`
+char_non: ` ......they probably didn't hate all of us equally.`
+char_non: `In other words, they might have made it clear which of those among us they particularly wanted to take revenge against and terrify.`
+char_non: `If we liken this to a kid eating dessert......`
+char_non: `Isn't the strawberry on top of a shortcake the part you should eat last?`
+char_non: `No one tells you that you shouldn't eat it first, but our mentality leads us into saving it for later.`
+char_but: `".........In that case, ...the culprit would want to leave the person they hated most until the end.`
+char_but: ` ......Yeah, similar to what was said by my favorite character in this novel I like.`
+char_but: ` Something about how if you start by killing the people closest to someone, make them feel that sadness, then kill that person last of all,`
+char_but: ` that's the worst way to kill someone."`
+char_wal: `"Oh my, that must have been quite a terrifying novel.`
+char_wal: ` How frightening......"`
+char_but: `"......In that case, you could argue that the people who stay alive until the end are the ones Beato hates the most.`
+char_but: ` ......But the order people are killed in gets totally changed every single time.`
+char_but: ` ......I mean, we all die in the end,`
+char_but: ` but if you go through looking for someone who lives at least until the last twilight every time, there's...`
+char_but: `.....................`
+char_but: ` ..........................."`
+char_bea: `"...................................."`
+char_non: `......There's only me.`
+char_wal: `".........Let me first speak with the red.`
+char_wal: ` {p:1:Battler‐kun, you are not the culprit}.`
+char_wal: ` {p:1:You haven't killed anyone}.`
+char_wal: ` {p:1:This can be said of all games}."`
+char_but: `"Then that.........just makes it even more likely that it's about me.`
+char_but: ` ...It means the sole reason she had for bringing about the epitaph murders...was to show them to me."`
+char_non: `Beato's always making out that she chooses who to kill next by roulette.`
+char_non: `But I'm an exception. The only exception.`
+char_non: ` ......Though she does kill me in the end, she always leaves me be until the very last moment.`
+char_non: `In all of these supposedly random games, there's only this one unchanging constant......`
+char_but: `"She wants.........revenge? Against me?`
+char_but: ` So is she performing the epitaph murders to make me feel fear...?"`
+char_wal: `"That's wrong.`
+char_wal: ` ......{p:1:Her goal is not to make someone experience fear}.`
+char_wal: ` {p:1:And it isn't to have revenge on someone either}."`
+char_but: `"In that case!`
+char_but: ` That means the epitaph murders really don't mean anything to her.`
+char_but: ` The riddle of the epitaph is meaningless, and the corresponding epitaph murders are also meaningless.`
+char_but: ` X=Y=0!`
+char_but: ` But even so, she's clearly trying to show these meaningless things to me!"`
+char_but: `"What could she want from me...which is worth the same to her as something meaningless?!`
+char_but: ` ......I don't get it!!`
+char_but: ` The more I think about it, the less I understand what she's thinking!"`
+char_bea: `"...................................."`
+char_non: `{f:5:Beatrice},`
+char_non: ` the fickle witch who committed a meaningless, worthless serial murder.`
+char_non: `Even the riddle of the epitaph, which she made into a condition to suspend the serial murders,`
+char_non: ` is meaningless, immaterial.`
+char_non: `And......she's thrusting this meaningless, immaterial thing in front of my face.`
+char_non: `......What is it......that you want from me...?`
+char_non: `{n}......Or else, what is it that you want to give me......?`
+char_non: `My idea that Beato must have been taking revenge on me...has already been refuted in red by {f:5:Virgilia}.`
+char_non: `Both X and Y...`
+char_non: `{n}Both the epitaph murders and the epitaph's riddle...mean nothing to Beato.`
+char_non: `X=Y=0.`
+char_non: `However, since she's thrusting that in front of me,`
+char_non: ` ...it must...`
+char_non: `...have some meaning.`
+char_non: `She presents us a pair of scales representing "if you don't solve the epitaph, I'll carry out the epitaph murders".`
+char_non: `Neither the epitaph murders nor the epitaph's riddle have any significance by themselves.`
+char_non: `However, it becomes meaningful when she puts both halves on the scales and thrusts it out before us.........no, before me.`
+char_non: `......In other words, it should be like this:`
+char_non: `X=0.`
+char_non: `{n}Y=0.`
+char_non: `{n}X+Y>0.`
+char_non: `A scale with meaningless, weightless things on both sides.`
+char_non: `{n}However, it has weight itself...and gives the rest meaning.`
+char_but: `"......It's almost like......playing.`
+char_but: ` Like kids playing rock‐paper‐scissors."`
+char_non: `Rock‐paper‐scissors is the most immediate method of randomly determining a winner and a loser.`
+char_non: `You usually bet some sort of privilege on the outcome,`
+char_non: ` ......but kids often do rock‐paper‐scissors just to play, without betting anything in particular.`
+char_non: `Unless you bet something, nothing but a feeling of joy or disappointment will come from a win or a loss.`
+char_non: `In other words, the two sides of the scale, winning and losing, are both valueless.`
+char_non: `However, the very act of seeing which way it will tip...`
+char_non: `is the reason kids play rock‐paper‐scissors.`
+char_non: `After all, the kids are enjoying the communication that surrounds the game,`
+char_non: ` ......and they aren't purely interested in the value of winning or losing.`
+char_non: `They aren't overly concerned about who wins and who loses......`
+char_but: `"That would mean that it doesn't matter to Beato......whether the epitaph murders succeed or not.`
+char_but: ` ......It almost feels like she's just enjoying the process."`
+char_wal: `"........................"`
+char_but: `"......In the past, ...I would have cursed her, deciding that she was a heartless witch who kept murdering people for no reason.`
+char_but: ` ......But now, I can't imagine that's true."`
+char_wal: `".........Thank you.`
+char_wal: ` In that case, I'll give you one more red.`
+char_wal: ` ...{p:1:Beato never committed murder for the sake of pleasure}."`
+char_non: `She didn't do it for pleasure, and she didn't do it to make anyone feel fear.`
+char_non: `She has nothing to gain from the epitaph murders,`
+char_non: ` and she doesn't care whether they succeed or fail.`
+char_non: `It's almost like...a random game kids would play......`
+char_but: `"No.`
+char_but: ` ......It must have meaning.`
+char_but: ` To her."`
+char_wal: `".........And what is...this meaning...?"`
+char_but: `"I don't know.`
+char_but: ` Even though neither side of the scale has any value, ......the scale itself has some weight to it in her eyes."`
+char_non: `......Of course it isn't meaningless.`
+char_non: ` Some meaning definitely exists.`
+char_non: `In the previous game, she urged me to remember my sin of six years ago.`
+char_non: `......Was that "meaningless" too?`
+char_non: `No.`
+char_non: ` There's no way that's the case.`
+char_non: `I clearly remember the serious look in her eyes at that moment.`
+char_non: `Unfortunately, I didn't have a clue what she was talking about.`
+char_non: `{n}......And she was devastated.`
+char_non: `That's right.`
+char_non: `At that time, I'm sure she even went so far as to say that the crime wouldn't have occurred if I hadn't come.`
+char_but: `"There is a meaning.`
+char_but: ` .........A meaning to her.`
+char_but: ` And she wants me to provide it."`
+char_bea: `".........................................."`
+char_non: `I laughed softly and poked Beato lightly on the head,`
+char_non: ` ......then patted her head.`
+char_but: `"......Next time you want to send a love letter, I suggest that you just write "I love you".`
+char_but: ` ...If you make it too roundabout and confusing, no one's gonna be able to figure it out."`
+char_wal: `".........*giggle*."`
+char_but: `"I still don't have a clue what she's thinking.`
+char_but: ` ......But even so,`
+char_but: ` I won't stop thinking.`
+char_but: ` ...I've only just started flipping over the chessboard.`
+char_but: ` ......I definitely won't give up......on this journey through your thoughts."`
