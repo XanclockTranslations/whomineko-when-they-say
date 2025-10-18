@@ -1,0 +1,600 @@
+char_but: `".........Should've taken the boat...`
+char_but: `......the boat......"`
+char_mar: `"Gonna faaalll!`
+char_mar: ` Gonna faaalll!`
+char_mar: ` Uu‐uu‐uu‐uu!!"`
+char_ros: `"Maria, that's enough!"`
+char_ros: `"......But what a surprise.`
+char_ros: ` I thought there was nothing that could scare Battler‐kun."`
+char_rud: `"This guy can't handle vehicles for some reason.`
+char_rud: ` Always yells about falling and sinking and stuff.`
+char_rud: ` You're a disgrace of a man, you are."`
+char_but: `"......Urgh, shut up.`
+char_but: ` That thing was seriously shaking way too much...`
+char_but: ` I just got a little stressed, since it was my first time on a small plane like that..."`
+char_eva: `"You call that "a little stressed"?`
+char_eva: ` Heheheh, sounds like it'd be fun to take an overseas vacation with you, Battler‐kun.`
+char_eva: ` Would you like to go to Egypt with your aunt?`
+char_eva: ` You'd get to ride a plane for a full 14 hours!"`
+char_kir: `"Ahhahaha!`
+char_kir: ` There's a good plan.`
+char_kir: ` Battler‐kun, you should go let Eva nee‐san toughen you up some.`
+char_kir: ` But boy were you hilarious!`
+char_kir: ` Ahhahahaha!"`
+char_hid: `"Wahhahaha, now, now. Everyone's got their own strong and weak points.`
+char_hid: ` It's bad to laugh at 'em.`
+char_hid: ` Wahhahaha...!"`
+char_geo: `"D‐Dad, you're laughing too.`
+char_geo: ` Hey, Maria‐chan, you shouldn't laugh anymore."`
+char_mar: `"Shouldn't laugh anymore?`
+char_mar: ` Uu!"`
+char_non: `Gyah, dammit!`
+char_non: ` Is being scared of planes really such a big deal?`
+char_non: `{n}Everyone obviously thinks I'm a big oaf now...`
+char_non: ` Tch!`
+char_non: `We split up and took separate taxis from the airport to the harbor.`
+char_non: `{n}From there on, we would be taking a boat to the island.`
+char_non: `The islands are right next to each other, so it's not that far.`
+char_non: `{n}It would be a leisurely thirty minutes by boat.`
+char_non: `As we arrived at the pier where the boat to the island was anchored, we saw a silhouette waving its hand.`
+char_jes: `"George nii‐saaan!`
+char_jes: ` It's been so frickin' long!!"`
+char_geo: `"Ah, Jessica‐chan, it's been a year since I saw you!`
+char_geo: ` You've gotten taller again, haven't you?"`
+char_jes: `"Kyahaha, don't gimme that, it's embarrassing hearing that every year!"`
+char_but: `"......H‐hey, Aniki, you've gotta be kidding me.`
+char_but: ` That's really Jessica?!"`
+char_jes: `"Wait a sec, George nii‐san...`
+char_jes: ` This massive beast...`
+char_jes: `is Battler?!"`
+char_non: `We both stared each other down.`
+char_non: `...She definitely didn't look this grown‐up in my memories, but I do remember her {c:86EF9C:crazy way of talking}.`
+char_but: `"Yo, Jessica!`
+char_but: ` What's this now!`
+char_but: ` You're kidding me, you look like a woman now!`
+char_but: ` What're these, boobs? Even you managed to get a chest!`
+char_but: ` Ihihi, let me rub 'em, let me~!"`
+char_jes: `"Hey, screw you, I'm a blushing flower of 18!`
+char_jes: ` Just like hair grows out, so'll other stuff!`
+char_jes: ` You think I got boobs just so you can go and rub 'em, loser?!`
+char_jes: ` And what about you, got anything to back up that ridiculous size?!`
+char_jes: ` Did you remember to grow any actual muscle?!"`
+char_but: `"You'd better believe it, I'll show you how much training I've piled up since back then!!"`
+char_jes: `"Oh, cram it!!`
+char_jes: ` I'll beat you at your own game!"`
+char_non: `This headstrong girl's name is Ushiromiya {p:0:朱志香}.`
+char_non: `......She was born under the same unlucky star as me, sharing the same kind of weird name.`
+char_non: ` You see, {p:0:朱志香} is pronounced "Jessica".`
+char_non: `She's Dad's older brother's daughter.`
+char_non: `That older brother happens to be the eldest son of the Ushiromiya family, so I guess that also technically makes Jessica a direct heir to the Ushiromiya family.`
+char_non: `Since Jessica and I are the same age and had that type of boy‐girl rivalry between us,`
+char_non: ` we've always been used to fighting and joking around together whenever the relatives gathered.`
+char_non: `Jessica grew more quickly, so she always had me beat in terms of size and physical strength.`
+char_non: `So, when we scuffled as a contest of strength like this, it usually went Jessica's way.`
+char_non: `So even though I clearly understand that I'm bigger now, I still feel like I can't win against Jessica with my strength.`
+char_but: `"Hnng! Ghhh......!!"`
+char_jes: `"............Woh...ah...!`
+char_jes: ` What the...what're you...getting all serious for...?!`
+char_jes: ` Owowow..."`
+char_but: `"Hey hey hey, this is nothin'!`
+char_but: ` Jessica, you've gotten weak."`
+char_jes: `"Sh‐shut up.`
+char_jes: ` I'm a woman over here, believe it or not.`
+char_jes: ` No way I was always gonna be stronger than a man!"`
+char_but: `"We~ll, that's certainly true!`
+char_but: ` The meat I put on my arms all went to your chest, after a~ll.`
+char_but: ` It looks like it'd be a pretty even test of strength between my arms and your boobs, don't you thi~nk?!"`
+char_jes: `"I told you, my boobs aren't for you to feel up!!`
+char_jes: ` Besides, how 'bout you—your height says you're an adult, but what about your other places, huh?!"`
+char_but: `"Stop it, idiot, nooo, I'll be ruuuuined for marriage, don't touch me in strange placeees!!"`
+char_jes: `"D‐don't say stuff people are gonna misinterpret!!"`
+char_non: `Honestly, I was so surprised at how feminine Jessica had become that I had to seriously horse around to hide it.`
+char_non: `......Well yeah, considering what a bossy brat she was six years ago, anyone would be surprised.`
+char_non: `And I guess she's just as surprised.`
+char_non: `{n}She definitely wasn't expecting she'd lose to me in a test of strength.`
+char_non: `After losing that easily, she must be shocked at how much I've grown in the past six years.`
+char_non: `.........Six years.`
+char_non: ` Once again, I'm being shown just what a huge gap of time that was.`
+char_jes: `"Crap...total defeat.`
+char_jes: ` It's like I'm no match for you anymore."`
+char_geo: `"That's not true.`
+char_geo: ` Even Battler‐kun must have his weaknesses.`
+char_geo: ` Right, Maria‐chan?"`
+char_mar: `"Uu!`
+char_mar: ` Gonna faaall gonna faaall!!"`
+char_but: `"Ghhk—Don't—Maria~, let's keep that a secret, okay?"`
+char_jes: `"Faaall?`
+char_jes: ` What the hell's that?"`
+char_but: `"Heheh!`
+char_but: ` Sorry, but you won't be seeing that weakness of mine now!`
+char_but: ` After all, the nightmare plane trip is already over and done with!`
+char_but: ` Only thing left is the nice, quiet splashing of the boat trip.`
+char_but: ` I never thought I'd become so fond of that piece‐a‐junk boat.`
+char_but: ` Ihihihi!"`
+char_jes: `"Huh???`
+char_jes: ` George nii‐san, is there something wrong with his head?"`
+char_geo: `"You'll understand soon.`
+char_geo: ` Very soon."`
+char_non: `At the time, I didn't understand what Aniki meant by that big smile...`
+char_kum: `"What have we here......oooh!`
+char_kum: ` Battler‐san, how big you've grown...!"`
+char_non: `Who's it this time?`
+char_non: ` It's an old lady with an apron.`
+char_non: `{n}.........Oh, oh yeah, that takes me back...I remember now!`
+char_geo: `"Remember her, Battler‐kun?`
+char_geo: ` You remember—she's Kumasawa‐san, one of the servants."`
+char_but: `"I could never forget Kumasawa baa‐chan!`
+char_but: ` I mean, you haven't aged a bit in these past six years.`
+char_but: ` Wait, you haven't gotten younger, have you~?"`
+char_kum: `"Hoh‐hoh‐ho!`
+char_kum: ` Lately, my skin has been getting all smooth and silky!`
+char_kum: ` And look, hasn't my chest gotten even bigger as well?`
+char_kum: ` ...Want to give it a rub?"`
+char_but: `"V‐very funny!`
+char_but: ` My breast rubbing is strictly limited to bouncy girls!"`
+char_kum: `"Even I had some bouncy ones in my youth, you know~?`
+char_kum: ` Now, now, please feel free to have a go!"`
+char_but: `"Gyah, gimme a break!`
+char_but: ` It's chicks I'm looking for, dammit!`
+char_but: ` Not grannies!"`
+char_non: `The jokes I'd cracked about Jessica were being used against me.`
+char_non: ` Come to think of it, she always was the type to tease people!`
+char_rud: `"Kumasawa‐san, stop that now.`
+char_rud: ` People with one foot in the coffin shouldn't jump around."`
+char_kum: `"To sport with the young is the best rejuvenation medicine.`
+char_kum: ` Hoh‐hoh‐ho!"`
+char_eva: `"It's rare for you to come pick us up, Kumasawa‐san.`
+char_eva: ` What curious turn of events is this?`
+char_eva: ` Normally whenever you're entrusted with something to do, your lumbago always kicks in.`
+char_eva: ` *snicker*."`
+char_kum: `"Hoh‐hoh‐ho, Eva‐sama, you are harsh as usual.`
+char_kum: ` I found myself with some urgent purchases to make, and while I was at it, I thought I would come welcome you all.`
+char_kum: ` Although, it does give a bad impression if the one waiting to greet you is a decrepit old woman.`
+char_kum: ` Hoh‐hoh‐ho...!"`
+char_non: `Auntie Eva spoke sarcastically, but Kumasawa baa‐chan's years of experience were nothing to sneeze at.`
+char_non: ` She was more than capable of smoothly and coolly letting that comment slide.`
+char_non: `Well, I'd rather not say it, but old Kumasawa baa‐chan may be past her prime as a servant.`
+char_non: `She might act as though she's in good health, but between her headaches and the lumbago, her body is wearing out.`
+char_non: ` To tell the truth, the very fact that she's still working is impressive.`
+char_non: `...How old is she this year again?`
+char_non: `{n}She must be pushing eighty by now.`
+char_non: `{n}It's incredible that she's still able to act so brightly.`
+char_ros: `"You just seem to get more and more lively.`
+char_ros: ` Oh, that's right, here you are.`
+char_ros: ` It's the tea I was talking about before.`
+char_ros: ` Look, I bought some.`
+char_ros: ` Please do try it later on."`
+char_non: `Auntie Rosa showed her the souvenir bag she'd taken out of her suitcase.`
+char_non: `To think that she had remembered the promise that she had apparently made last year and faithfully bought it.`
+char_non: ` ...This sort of thoughtfulness was just like Auntie Rosa.`
+char_non: `She wasn't the kind of person who would forget or break a promise.`
+char_non: `As for Kumasawa baa‐chan, she seemed deeply touched by the fact that not only had Auntie Rosa remembered that year‐old promise, she had brought that gift for a simple servant like her.`
+char_non: `This woman is Kumasawa Chiyo‐san ({p:0:熊沢 チヨ}).`
+char_non: `She's a senior servant who's been working for the Ushiromiya head house for many years.`
+char_non: `{n}As you could expect from someone her age, she isn't that good at manual labor, but from kitchen work to cleaning and laundry, she's a kind of super servant who can handle just about anything.`
+char_non: `It seems like her only flaw is a tendency to slack off.`
+char_non: `I hear she tries to get away from heavy or troublesome work by playing up her chronic diseases.`
+char_non: `......In Kumasawa baa‐chan's case, maybe we should call that a sort of lazy craftiness.`
+char_non: `...Though it probably doesn't impress those paying her salary.`
+char_non: `Ah well, even if she's pretty flaky when it comes to work, I could never dislike her.`
+char_non: `I guess that's probably because of her cheerfulness and her constant smile.`
+char_hid: `"Hey, glad to see you're still in fine spirits!`
+char_hid: ` How's your back doin' then?"`
+char_kum: `"Even with the medicine, it's not getting one whit better.`
+char_kum: ` According to the doctor, nothing can be done for this one.`
+char_kum: ` It's what's called an incurable disease, hoh‐hoh‐ho!"`
+char_rud: `"Blows me away how you've just kept getting prettier, Jessica‐chan.`
+char_rud: ` Be glad you ended up like Natsuhi nee‐san."`
+char_jes: `"R‐really...?`
+char_jes: ` Personally, I don't think I look like her at all...`
+char_jes: ` I mean, I don't even want to be like my parents.`
+char_jes: ` 'Cause I got zero respect for 'em."`
+char_kir: `"Now, you shouldn't say such things.`
+char_kir: ` *giggle*, it's amazing how many people don't want to be like their parents in our family."`
+char_but: `"Ah, that's me!"`
+char_rud: `"Hell no, don't you dare start taking after me.`
+char_rud: ` Your nose looking like mine already pisses me off."`
+char_kir: `"What are you talking about?`
+char_kir: ` It's ridiculous how completely alike you are—and like your father."`
+char_rud: `"Come on, you can't be serious...`
+char_rud: ` Just how am I like Dad?"`
+char_eva: `"You're his copy in arrogance and self‐importance.`
+char_eva: ` Father's blood is especially strong in you and Nii‐san.`
+char_eva: ` Wouldn't you say, Rosa?"`
+char_ros: `"Oh, absolutely.`
+char_ros: ` Krauss nii‐san and Rudolf nii‐san are almost unbelievably like Dad."`
+char_rud: `"Alright, alright already, why am I the only one under fire from the girls?`
+char_rud: ` Hideyoshi nii‐san, please help me out."`
+char_hid: `"My my, Rudolf‐kun, you're always so popular with the ladies.`
+char_hid: ` I'm jealous!`
+char_hid: ` Wahahahaha!"`
+char_kum: `"Hoh‐hoh‐ho!`
+char_kum: ` As usual, you're popular enough to make me jealous.`
+char_kum: ` Well then, everyone, shall we head over to the boat?`
+char_kum: ` Come now, Maria‐san, let's get on the boat together, alright?"`
+char_mar: `"Get on the boat together.`
+char_mar: ` Uu!`
+char_mar: ` Everyone gets on together.`
+char_mar: ` Uu!"`
+char_but: `"Hell yeah, this time around I'm not gonna be scared.`
+char_but: ` I'm used to being shaken by the waves.`
+char_but: ` With that piece‐a‐junk fishing boat, I'm less afraid of the shaking than the engine breaking down and the boat drifting off."`
+char_geo: `"Oh yes, Battler‐kun, I forgot to tell you.`
+char_geo: ` ...That fishing boat was completely decrepit, so it was taken out of use a few years back.`
+char_geo: ` Now we get taken to the island in another boat."`
+char_jes: `"Ohhh, right.`
+char_jes: ` It's Battler's first time in the new boat!`
+char_jes: ` It's super comfy!`
+char_jes: ` And frickin' fast!`
+char_jes: ` It can go at crazy high speeds!"`
+char_but: `"Ohhh...`
+char_but: ` That means less trip time, right?`
+char_but: ` That sounds great!`
+char_but: ` I mean, a boat might be better than an airplane, but if you're telling me we can spend even a little less time exposed to the danger of sinking, that's really just awesomely great~."`
+char_mar: `"...Uu.`
+char_mar: ` Is Battler gonna faaall gonna faaall again?"`
+char_but: `"That's only on airplanes.`
+char_but: ` Everything's fine now!"`
+char_jes: `"You know, it's apparently a modded high‐speed boat, the captain's pride and joy!`
+char_jes: ` Seems he's tinkered with it quite a lot—`
+char_jes: `he was going on about how he attached four high efficiency propellers to it, and now it can break 40 knots, or something like that.`
+char_jes: ` He bragged to me so much I ended up memorizing it."`
+char_geo: `"Me too; I remember since we're told about it every year.`
+char_geo: ` The captain said that since he lost a speed contest with a foreign fishing boat a long time ago, he became obsessed with modding.`
+char_geo: ` He told us how his opponent back then could go at over 30 knots, even though it was only in a fishing boat."`
+char_jes: `"To fulfill his thirst for a revenge match, he created an awesome whole new super high‐speed modded boat.`
+char_jes: ` I'm sure you'll just love it, Battler."`
+char_non: `...S‐super high‐speed modded boat...?`
+char_non: `......My first thought was that this would be much better than some beat‐up boat that might sink at any time......`
+char_non: `but for some reason, I'm getting this feeling of foreboding...`
+char_non: ` ......Nah.`
+char_rud: `"Hey, Battler, maybe you should just swim to the island."`
+char_geo: `"Battler‐kun, you shouldn't lean over the railing too much.`
+char_geo: ` You might fall."`
+char_mar: `"Uu‐uu!!`
+char_mar: ` Gonna faaall gonna faaall!!"`
+char_but: `"Daaaaammiiiiit...so this is why you were all grinning before!"`
+char_non: `The super high‐speed boat, said to have been modded to hell and back by its captain as a personal hobby, was definitely nothing like the battered old fishing boat from six years ago.`
+char_but: `"Whooooooooa, it's shaking it's shaking it's shaking!!`
+char_but: ` I'm gonna fall gonna fall gonna fall!!"`
+char_mar: `"Uu‐uu‐uu!!`
+char_mar: ` Gonna fall gonna fall gonna fall!!"`
+char_but: `"If I fall I'll be in the sea, I'll drown goddammit—where's the parachute—no, wait—where's the buoy?!`
+char_but: ` Gimme a life jackeeeet!!"`
+char_jes: `"Waah‐hah‐hah‐hah‐ha!`
+char_jes: ` What the hell, Battler, what's that supposed to be...waah‐hah‐hah‐hah‐ha!"`
+char_geo: `"Jessica‐chan, Maria‐chan, it's not nice to tease.`
+char_geo: ` Battler‐kun, if you're scared, then just don't come out on the deck.`
+char_geo: ` I think that if you stay inside the boat, you'll be a bit less afraid."`
+char_but: `"Heheh, that's a no‐thank‐you, Aniki!`
+char_but: ` Shipwreck victims are always the ones inside the boat.`
+char_but: ` The survivors are usually those on the deck during the accident.`
+char_but: ` So I'm staying right here!!"`
+char_but: `"But, it's shakiiiiing!!`
+char_but: ` I'm falliiing!!`
+char_but: ` Whooooaaaaaahhh!!"`
+char_mar: `"Shaking falliing!!`
+char_mar: ` Uu‐uu‐uu!!"`
+char_ros: `"Maria, I told you to behave yourself!`
+char_ros: ` ......But Battler‐kun, it looks like you really can't handle it...`
+char_ros: ` I'll go tell the captain to slow down for you."`
+char_but: `"Whooooa, Auntie Rosa, thank yooooouuuuu!`
+char_but: ` Even on the sea, exercise safe driving, reduce speeds, point and caaaall!!"`
+char_eva: `"*cackle*!`
+char_eva: ` Don't do that, Rosa.`
+char_eva: ` Ordeals are necessary for the young.`
+char_eva: ` Right, Battler‐kun?`
+char_eva: ` You can conquer this much, no problem at all, right?`
+char_eva: ` Otherwise, you won't be able to go to Egypt with your aunt!"`
+char_but: `"Whooooa, Auntie Eva, you're meeeeeeeeaaaan!`
+char_but: ` Ooh noooo, I'm gonna faaaaaall!!`
+char_but: ` Life jackeeeet, parachuuuute!!`
+char_but: ` Whoooooooaaaaaaahh......!!!"`
+char_but: `"N‐no, okay, turn it over and think that way!!`
+char_but: ` What's the enemy aiming for?!`
+char_but: ` He wants to make me afraid like this?!`
+char_but: ` If that's what he's aiming for, too bad, like hell I'll be scaaaaaaaared!!`
+char_but: ` But stooopp iiit, I'm gonna faaaaaaall!!!"`
+char_non: `...So, after I made a huge fool of myself for a while,`
+char_non: ` Auntie Rosa had a talk with the boat captain, and he slowed down to a more manageable speed for me...`
+char_but: `"............Hahh...`
+char_but: ` This speed is a bit better...`
+char_but: ` .........Earlier, I didn't even feel alive......"`
+char_non: `The new speed, which I was capable of tolerating, was apparently extremely slow.`
+char_non: `...But that just now was completely insane...`
+char_non: `The whole boat was shaking!`
+char_non: `{n}Sliding and leaping on the ocean's surface!`
+char_non: `{n}It felt like I was riding on the back of a flying fish...`
+char_non: `Jessica was still guffawing at me as I leaned against the railing, tired and disheartened.`
+char_jes: `"I lost in that strength contest earlier, but I'm glad to know I've got the edge where it really counts.`
+char_jes: ` But seriously, pfffahahahahah!"`
+char_but: `"Dammit...go ahead and laugh.`
+char_but: ` One of these days, I'm gonna find your weakness and I'll get back at you...and then your boobs will be mine to squish......"`
+char_jes: `"Ahahaha, well, we'll see about that if you ever do find it, okay?!`
+char_jes: ` Waah‐hah‐hah‐ha!"`
+char_mar: `"Uu.`
+char_mar: ` Battler, all worn out."`
+char_but: `"Yeah, Battler, all worn out...`
+char_but: ` I want to die on land, not in the ocean or the sky..."`
+char_non: `Maria was patting my back, so I patted her head in return.`
+char_non: `...Her expression was blank, as usual, but I realized that she wanted to console me.`
+char_geo: `"Battler‐kun, the captain is throwing in drinks to make up for this.`
+char_geo: ` Have a drink and take a break, why don't you?`
+char_geo: ` To calm yourself down."`
+char_non: `George‐aniki and Kumasawa baa‐chan brought us each an ice‐cold drink with drops of moisture on the can.`
+char_non: `Judging from Kumasawa‐san's big grin, our parents inside the boat were probably all rolling around laughing at my moment of pure terror.`
+char_non: `Dammit, I'm so embarrassed that I can't bear to face any of them...`
+char_non: `If I didn't change the subject somehow, I had the feeling I'd be the butt of everyone's jokes for the whole trip, so I tried to think of something harmless to talk about.`
+char_but: `"...Hey, Jessica.`
+char_but: ` How are Uncle Krauss and Aunt Natsuhi doing?"`
+char_jes: `"My old man and my mom?`
+char_jes: ` Unfortunately, they're fine.`
+char_jes: ` Though every other word out of their mouths is "study, study", which pisses me off.`
+char_jes: ` I'm so jealous, 'cause it doesn't look like Uncle Hideyoshi or Uncle Rudolf say those kinds of things."`
+char_geo: `"Hahaha, oh no.`
+char_geo: ` When I was slacking off during exams, I was always getting told "exams, exams".`
+char_geo: ` I thought it was annoying, but now I'm grateful."`
+char_but: `"Hah, I knew it, George‐aniki is magnanimous as ever...`
+char_but: ` As for me, I have to look after myself.`
+char_but: ` No one says a thing to me!`
+char_but: ` Well, it's not like I'd listen if they did, hihihi!"`
+char_kum: `"Battler‐san, have you still not returned to your birth home?"`
+char_but: `"...Well, I kinda go back now and then.`
+char_but: ` I still have lots of clothes and stuff left at the previous house."`
+char_mar: `"......Uu?`
+char_mar: ` Battler has two homes?"`
+char_but: `"Uh,`
+char_but: ` .........hmmm.`
+char_but: ` ......Something like that."`
+char_mar: `"Why?`
+char_mar: ` Why do you have two homes?`
+char_mar: ` Uu?`
+char_mar: ` Uu?"`
+char_non: `Only Maria, who couldn't really grasp the situation, voiced her naive question.`
+char_non: `However, the others just shot nervous glances at me, choosing not to respond even though they knew the answer.`
+char_jes: `"Maria!`
+char_jes: ` Look, you can see the harbor now...!`
+char_jes: ` Look, over there!`
+char_jes: ` Can you see it?!"`
+char_mar: `"Uu!`
+char_mar: ` Saw the harbor, saw the harbor!"`
+char_non: `Apparently, Jessica was trying to be nice by changing the subject.`
+char_non: `......Ah, well.`
+char_non: ` I'd rather not talk about it if I can help it, but it's uncomfortable to have it treated like some kind of weird taboo.`
+char_non: `......I don't mind that much myself anymore.`
+char_non: `I am an Ushiromiya,`
+char_non: ` but the truth is that, for the past six years, I've been living with my grandparents on my late mother's side, and I've even been using her family name.`
+char_non: `When those grandparents passed away one after the other, I'd basically had no choice except to go back and live with the old bastard.`
+char_non: `Don't get me wrong. I didn't just run away from home or anything like that.`
+char_non: `{n}The only one at fault here is my dad.`
+char_non: `......I don't really blame Kyrie‐san.`
+char_non: `{n}Being able to hold that old bastard's reins and ride him out is no mean feat.`
+char_non: `...But as for the betrayal that the old bastard inflicted on my mom...`
+char_non: ` ......Well, unfortunately, I still haven't fully gotten over that.`
+char_geo: `"*ahem*.`
+char_geo: ` We'll be getting there soon."`
+char_non: `George‐aniki cleared his throat, trying to change the topic.`
+char_kum: `"......Please forgive my indiscretion.`
+char_kum: ` It seems this old woman has said too much already.`
+char_kum: ` If I have hurt your feelings—"`
+char_but: `"Heheh!`
+char_but: ` I don't mind it and no one's feelings are hurt.`
+char_but: ` Don't worry, Kumasawa baa‐chan."`
+char_non: `Kumasawa‐san seemed to regret speaking out of turn,`
+char_non: ` but I was more concerned about being worried over for something like that, so I stood up and passed it off lightly.`
+char_non: `After that, I had a sip of my drink and headed over to Maria and Jessica, who were gazing at the silhouette of the island.`
+char_mar: `"Uu!`
+char_mar: ` Battler, saw the island, saw the island!`
+char_mar: ` There there there!`
+char_mar: ` Uu‐uu‐uu!"`
+char_but: `"Where is it...oh, I see it now.`
+char_but: ` Even after six years, the island hasn't changed a bit."`
+char_non: `The small island's silhouette in front of us had gotten pretty close.`
+char_non: `This island's name is Rokkenjima.`
+char_non: `{n}It's a small island about ten kilometers around, located in the Izu Archipelago.`
+char_non: `Since they call this archipelago "the Izu Seven", lots of people think there are seven islands, but that's not true.`
+char_non: `There are actually more than seven.`
+char_non: `{n}Rokkenjima is one of the minor islands that don't get counted.`
+char_non: `Even considering that, there are probably very few people who know about this island.`
+char_non: `After all, only the people of the Ushiromiya family come to this island.`
+char_non: `In other words, it has no ties whatsoever to outsiders or tourists.`
+char_non: `{n}So, you'll never find this island's name in a travel brochure.`
+char_non: `This is because all of Rokkenjima is an estate possessed by the Ushiromiya head house.`
+char_non: `Only the Ushiromiya family lives there, and only people connected to the Ushiromiya family come and go there.`
+char_non: `There's nothing there except a harbor and a mansion.`
+char_non: `{n}The vast majority of the island is still just uncultivated forest.`
+char_non: `Such a waste, when it could be made into a nice golf course.`
+char_non: `{n}However, when you realize that the entire coastline is a private beach, it starts to sound pretty magnificent.`
+char_non: `You might have realized it by now, but to put it simply,`
+char_non: ` ......well, the Ushiromiya family is just rolling in dough.`
+char_non: `The fortune possessed by the head house is apparently vast,`
+char_non: ` and Dad and the others who make up the branch families have built up plenty of wealth for themselves, finding success in their respective businesses.`
+char_non: `I've been living a commoner's life at my grandparents' home these six years, so I'd completely forgotten,`
+char_non: ` ...but the old bastard's house really is elegant, and everything about it is tuned to match the snobbish tastes of the annoyingly rich.`
+char_non: `Come to think of it, I guess that means George‐aniki, Jessica, Maria, and I are all wealthy, high‐class gentlemen and ladies.`
+char_non: `Needless to say, none of us feel that way at all.`
+char_non: `I don't see myself as being rich, and George‐aniki, who takes self‐discipline very seriously, doesn't let himself get too comfortable.`
+char_non: `Jessica is always complaining that she'd rather move to the city than be rich,`
+char_non: ` and Maria is still a kid who isn't even interested in money at all.`
+char_non: `...I guess that attitude itself is snobbish.`
+char_non: `{n}From the perspective of people in poverty who can't pay the bills, we're very lucky to even have the luxury of thinking this way.`
+char_non: `This isn't the place to explain any further, so I won't.`
+char_non: `Anyway, it's the same as not being able to choose the parents you're born from.`
+char_non: `{n}I didn't ask to be born into a rich family.`
+char_non: `{n}And I don't think it's something I should be hated for.`
+char_non: `It can be pretty tiring when people are prejudiced against you just because you're rich and refuse to judge you by your merits...`
+char_non: `As I pondered these sentimental thoughts, Maria leaned over the railing and started shouting.`
+char_mar: `"............Uu.`
+char_mar: ` ......Gone."`
+char_but: `"What's wrong, Maria?`
+char_but: ` Did you drop something?"`
+char_mar: `"Uu‐uu!`
+char_mar: ` Gone, gone!`
+char_mar: ` Uu‐uu‐uu‐uu!!"`
+char_non: `Maria kept yelling "gone, gone".`
+char_non: `From her words alone, you would think she had perhaps dropped something, but she was actually pointing out over the ocean as she shouted.`
+char_geo: `"What's wrong?`
+char_geo: ` What's gone?`
+char_geo: ` I'll look for it too, if you want.`
+char_geo: ` What is it?`
+char_geo: ` ...............?"`
+char_non: `If she'd dropped something, she would probably have looked down at the floor, but Maria was pointing out over the ocean.`
+char_non: `One would assume that she had seen something out over the ocean, but she kept saying that something was {i:gone}.`
+char_non: ` .........Strange.`
+char_non: `However, since my last memories of this place came from six years ago, I was able to spot it before Aniki, who comes here every year.`
+char_but: `"............Huh...?`
+char_but: ` ......If I remember correctly, wasn't there a {c:86EF9C:torii} or something on top of a small crag around here?`
+char_but: ` ...That's right, it was definitely there.`
+char_but: ` I remember it well, since it's like a landmark, the first thing to greet you as you get closer to the island."`
+char_jes: `"Wow, you're amazing, Battler.`
+char_jes: ` Even though it's been six years, you remembered."`
+char_geo: `"It was here, wasn't it...!`
+char_geo: ` I remember too.`
+char_geo: ` There used to be a shrine and a torii‐like thing standing all alone on that crag.`
+char_geo: ` ......And now that you mention it, they are gone, aren't they.`
+char_geo: ` They definitely were there last year, I think."`
+char_mar: `"Gone.`
+char_mar: ` Gone.`
+char_mar: ` Uu‐uu‐uu!"`
+char_but: `"Maybe they were washed away by the waves or something?`
+char_but: ` It was a small crag, it probably got brittle because of its exposure."`
+char_jes: `"I think so too.`
+char_jes: ` It actually disappeared during the summer.`
+char_jes: ` Apparently—"`
+char_kum: `"A huge lightning bolt fell one evening and smashed the shrine, or some such...`
+char_kum: ` ......The fishermen whisper that it must undoubtedly be an ominous sign, to have a thunderbolt fall upon our tutelary god.`
+char_kum: ` ...Lightning begone, lightning begone..."`
+char_non: `Kumasawa‐san smiled impishly as if teasing us, rubbing her hands together.`
+char_non: `However, Maria was apparently taking it seriously,`
+char_non: ` and she stared fixedly over the ocean to where the crag enshrining the local guardian deity was supposed to be.`
+char_mar: `"............An ominous...sign.`
+char_mar: ` ............Uu."`
+char_jes: `"Enough, Kumasawa‐san.`
+char_jes: ` Maria isn't old enough to understand this kind of joke."`
+char_geo: `"It's alright, Maria‐chan.`
+char_geo: ` It's just a coincidence.`
+char_geo: ` Nothing scary's gonna happen."`
+char_non: `George‐aniki put a hand on Maria's shoulder to calm her down, but Maria's sharp‐eyed expression didn't budge.`
+char_mar: `"............Ominous.`
+char_mar: ` ............Ominous."`
+char_non: `Maria muttered that word over and over.`
+char_non: `{n}Apparently, repeating a single word over and over is a habit that Maria's had for a long time.`
+char_non: `However, since the word she was saying was quite literally ominous, it was a bit creepy.`
+char_but: `"Hey now, Maria.`
+char_but: ` Some disaster really will come if you say that word over and over, you know?"`
+char_non: `I tapped Maria's other shoulder.`
+char_non: `And then, Maria whipped her head around, stared into my face, and spoke unblinkingly.`
+char_mar: `"Uu.`
+char_mar: ` .........Disaster...coming."`
+char_but: `"Huh?`
+char_but: ` And just where is it coming from?"`
+char_non: `I answered light‐heartedly, trying to break the tension in the air.`
+char_non: `...And in reply, Maria held up a finger, raised her arm high, ...and pointed up to the heavens.`
+char_non: `When I looked up, I saw that the sky was still just as cloudy, but it had grown a great deal more leaden than it had been that morning.`
+char_non: `That's right—they were saying that a typhoon was approaching.`
+char_non: `...We had planned to spend one night on the island, but if this storm doesn't pass quickly, I won't be able to make it to school on Monday.`
+char_non: `{n}Well, I guess it makes for a pretty good excuse to be absent.`
+char_mar: `".....................Uu..."`
+char_non: `...She apparently sensed something ominous in this cloudy sky.`
+char_non: `{n}She's been muttering for a while now.`
+char_non: `Girls at Maria's age tend to be very impressionable.`
+char_non: `{n}She's just about the age when many girls start to get excited about sixth senses and whether they have any psychic potential and stuff.`
+char_non: `...In a way, being sensitive about things like this isn't really out of the ordinary for a kid like her.`
+char_geo: `"It's alright, Maria‐chan.`
+char_geo: ` The weather might get worse around tonight, but tomorrow it'll clear up and become a pretty blue sky."`
+char_mar: `"Uu.`
+char_mar: ` Pretty blue sky.........`
+char_mar: ` .........Uu..."`
+char_geo: `"That's right, by tomorrow it'll be a pretty blue sky.`
+char_geo: ` There's no rain that doesn't end, and no clouds that never clear."`
+char_mar: `"Uu...`
+char_mar: ` .........Rain that doesn't end.`
+char_mar: ` ...Clouds that never clear.`
+char_mar: ` ..................Uu........."`
+char_but: `"Sure, the typhoon's coming, but it'll be gone before you know it!`
+char_but: ` It's alright, Maria."`
+char_mar: `"...............Uu.`
+char_mar: ` ...Uu!!`
+char_mar: ` Uu‐uu‐uu!!`
+char_mar: ` Uu‐uu‐uu!!"`
+char_non: `Maria started yelling "uu‐uu".`
+char_non: `{n}...It looked as though she was having a tantrum because no one could understand what she was trying to say.`
+char_non: `What in the world is Maria trying so desperately to warn us about?`
+char_non: `Unable to understand her, we could do nothing but feel a vague sense of foreboding...`
+char_non: `......I've heard that everyone can feel the supernatural, but that it weakens as you age.`
+char_non: `That might mean that Maria, the youngest one of us all, still possessed some kind of sense that the rest of us had lost.`
+char_non: `...I wonder if that sense is sending her a warning.`
+char_non: `At that moment, Kumasawa‐san quietly opened her mouth.`
+char_kum: `".........Rumor has it...`
+char_kum: `that long ago, Rokkenjima was—"`
+char_jes: `"Kumasawa‐san.`
+char_jes: ` Let's not talk about that now."`
+char_non: `Just as Kumasawa‐san was about to tell some kind of story, Jessica sharply interrupted her.`
+char_non: `For Jessica, this was an extremely firm reaction.`
+char_non: `I wanted to push her further, just out of simple curiosity,`
+char_non: ` but judging by how Jessica was acting, it wasn't difficult to imagine that it would simply inflame Maria's unease further.`
+char_non: `...If I did try to press her for the story, the odds were pretty good that it wouldn't be anything bright and cheery.`
+char_kum: `"......Hoh‐hoh‐ho, I do apologize about that...`
+char_kum: ` ...The wind here is hard to bear for the elderly, so if you would excuse me for now..."`
+char_non: `Gossipers have no reason to hang around after they've been told to stop chatting.`
+char_non: `When Kumasawa‐san finally realized that she'd overstepped her bounds, she went back inside the boat.`
+char_non: `After she left, Uncle Hideyoshi came along to replace her.`
+char_non: `Since he'd shown up partway through, he completely failed to notice the complicated atmosphere that hung about the scene,`
+char_non: ` so he refreshingly and unwittingly swept that atmosphere aside.`
+char_non: `So, in the end, it was his unwittingness that brightened the mood.`
+char_hid: `"Looks like we're almost there!`
+char_hid: ` Alright, just a little more!`
+char_hid: ` Took forever at the speed we went today, didn't it?`
+char_hid: ` You all know whose fault that is!`
+char_hid: ` Wahhahahahaha!"`
+char_but: `"Aww, Uncle Hideyoshi, gimme a break already~...hahaha~!"`
+char_jes: `"Ahaha, keep on twisting the knife.`
+char_jes: ` Seriously, 'cause of Battler, it's takin' fore~ver!"`
+char_mar: `".........Uu."`
+char_non: `Maria had probably come to the conclusion that no one was going to listen to her.`
+char_non: `She hung her head, wearing a fretful face.`
+char_non: `As she did, George‐aniki crouched down to meet her eyes and spoke to her kindly.`
+char_geo: `"Maria‐chan.`
+char_geo: ` There's nothing to be afraid of.`
+char_geo: ` Because we're all together.`
+char_geo: ` There's nothing to be afraid of if we're together.`
+char_geo: ` Go ahead and say it."`
+char_mar: `"............Uu.`
+char_mar: ` ...There's nothing to be afraid of...if we're together..."`
+char_geo: `"Yes.`
+char_geo: ` There's nothing to be afraid of if we're together."`
+char_mar: `"............Uu."`
+char_but: `"Yeah, George‐aniki knows what he's talking about.`
+char_but: ` If we're all together, there'll absolutely never be anything at all to be scared of.`
+char_but: ` Right, Jessica?"`
+char_jes: `"Yeah, no doubt about that.`
+char_jes: ` George nii‐san always tells the truth, Maria."`
+char_mar: `"......Uu.`
+char_mar: ` George onii‐chan always true."`
+char_geo: `"Yes.`
+char_geo: ` I don't lie.`
+char_geo: ` So trust me.`
+char_geo: ` There's nothing to be afraid of if we're all together."`
+char_mar: `"Uu.`
+char_mar: ` ......George onii‐chan doesn't lie.`
+char_mar: ` I trust you.`
+char_mar: ` There's nothing to be afraid of if we're all together.`
+char_mar: ` .........Uu, not afraid!"`
+char_non: `Maria jumped into George‐aniki's arms and hugged him tightly.`
+char_non: `After Aniki patted her head, she jumped away again.`
+char_non: `Her facial expression had returned so completely to normal that she looked like a totally different person from moments before.`
+char_non: `{n}She was once again the ordinary Maria.`
+char_mar: `"Uu.`
+char_mar: ` There's nothing to be afraid of anymore, because we're all together.`
+char_mar: ` ...Uu‐uu."`
+char_but: `"Yeah, that's it.`
+char_but: ` ...You look all better now.`
+char_but: ` You're strong, Maria, good girl!"`
+char_mar: `"......Uu!`
+char_mar: ` {c:86EF9C:I'm} a good girl!"`
+char_hid: `"Hey now, what's goin' on here?`
+char_hid: ` Maria‐chan didn't get seasick, did she?`
+char_hid: ` Hm?"`
+char_jes: `"Hahaha, well, something like that.`
+char_jes: ` We'll be arriving soon."`
+char_non: `The harbor was already drawing near.`

@@ -1,0 +1,699 @@
+char_but: `......The adults' motivations aside...`
+char_but: `{n}At least for us kids,`
+char_but: ` these were supposed to be a fun couple of days where we cousins deepened our friendship.`
+char_but: `However, when we woke up, there was an unbelievably cruel reality waiting for us...`
+char_jes: `"............hic, ......hic......!"`
+char_geo: `"................................."`
+char_non: `George‐aniki and Jessica were crying over Shannon‐chan and Kanon‐kun's deaths.`
+char_non: `......Right now, everyone who was alive was gathered in the lobby on the first floor of the guesthouse.`
+char_non: ` And there were 12 of us.`
+char_non: `...Unbelievable, right?`
+char_non: `{n}There were 18 up until yesterday.`
+char_non: `{n}...And in one night, a third of that number had lost their lives...`
+char_non: `My agitation had finally settled down, and, along with my lack of sleep from being woken up so early in the morning,`
+char_non: ` I was beginning to feel like this was just a little unreal.`
+char_non: `......I want to think this is some kind of bad dream...`
+char_non: ` My cheap escapism kept telling me that was true, over and over.`
+char_non: `Maria had gone back to sleep in the sofa Auntie Rosa was sitting in.`
+char_non: `...Rather than her having nerves of steel, she probably genuinely hadn't had enough sleep.`
+char_non: `The adults were grasping members of Grandfather's collection...`
+char_non: `of short‐barrel rifles.`
+char_non: `...Apparently a remnant from the period when he was obsessed by westerns, there were four identical guns altogether.`
+char_non: `Those had been split up between the four siblings: Uncle Krauss, Auntie Eva, my dad, and Auntie Rosa.`
+char_non: `Paper boxes filled with bullets lay on the table, and the siblings were silently loading their guns.`
+char_rud: `".........It's a little scary.`
+char_rud: ` Even as I stand here touching this,`
+char_rud: ` I get the feeling Dad's about to yell "Don't touch that!" and hit me."`
+char_cla: `"Then aren't you lucky.`
+char_cla: ` ...No matter how much you touch it, you won't be hit again."`
+char_ros: `"............I can't believe it.`
+char_ros: ` ...That Father...`
+char_ros: `.........would meet this kind of end..."`
+char_nan: `"I did think that when it came to Kinzo‐san, he would probably not die normally in his bed,`
+char_nan: ` ......but even so, ......it is too horrible..."`
+char_eva: `"Hey.`
+char_eva: ` I wonder if that really is Father...?`
+char_eva: ` I'm suspecting that it might be a different person's corpse as a substitute to trick us..."`
+char_nat: `"......No, without a doubt, that is Father.`
+char_nat: ` You saw his toes, right?`
+char_nat: ` In general society, there aren't many humans with six toes on both feet."`
+char_kir: `"But, ............we can't say that there are none.`
+char_kir: ` I've heard that polydactyly isn't a rare disease.`
+char_kir: ` He was a man who liked big tricks, right?`
+char_kir: ` ......He might have prepared a body from somewhere that had the same number of toes on both feet."`
+char_nat: `"Preposterous.`
+char_nat: ` What would possess him to do something like that...?!"`
+char_hid: `"......I'd agree if it was a normal person.`
+char_hid: ` ...But this is Father we're talkin' about.`
+char_hid: ` You can't say for sure that what Kyrie‐san says is nonsense."`
+char_rud: `"............They say it's difficult to confirm the identity of a burnt corpse.`
+char_rud: ` However, there should be various ways to examine him from his teeth and his bone structure.`
+char_rud: ` If the police investigated, they'd be bound to know whose body it was in an instant."`
+char_cla: `"The problem is that before the police, we need a telephone engineer."`
+char_ros: `"......The boat probably won't come in this typhoon.`
+char_ros: ` ...So, will it come tomorrow?"`
+char_nat: `"I expect that the boat will come again at nine o'clock tomorrow.`
+char_nat: ` Then, I believe we will be able to contact the police."`
+char_eva: `"......Both us,`
+char_eva: ` and the culprit...`
+char_eva: `have been imprisoned on this island, then, until the typhoon passes."`
+char_non: `.........Just from our parents' conversation, you could probably figure out the general gist, but let's explain the situation anyway.`
+char_non: `First, early that morning.`
+char_non: `In various places throughout the mansion, a total of six corpses, of Grandfather and all the servants, had been found one after another.`
+char_non: `First, Grandfather had been fed to the flames in the boiler room, and was completely burnt.`
+char_non: `The servants were found dead, each locked in one of the various rooms throughout the mansion onto which magic circles had been drawn.`
+char_non: `The cause of death for the servants was uncertain,`
+char_non: ` but according to Doctor Nanjo's diagnosis, there was a high likelihood that they had been stabbed by something like a spear,`
+char_non: ` ......or possibly shot by a gun.`
+char_non: `That was why the adults had started arming themselves with the rifles.`
+char_non: `And what made the situation even more chaotic was that the telephone lines were out of order.`
+char_non: ` It was unknown whether lightning had caused them to break down or whether the culprit had destroyed them.`
+char_non: `In any case, contact with the outside was broken off, and we couldn't contact the police.`
+char_non: `So until tomorrow morning, when the typhoon would pass and the boat would come,`
+char_non: ` we would have to protect ourselves.`
+char_non: `After all, Rokkenjima was now isolated by the typhoon.`
+char_non: ` And just like how we were stuck on the island, so was the culprit.`
+char_non: `It seemed that the adults had stayed up the whole night, spending the whole time holding the family conference in the mansion's dining hall.`
+char_non: ` And even so, this crime had occurred in the mansion.`
+char_non: `......So right when the adults had been getting worked into a frenzy over money,`
+char_non: ` the murderer had been killing under the same roof...`
+char_non: `Aunt Natsuhi said that they were strict on locking the doors and windows at night.`
+char_non: `{n}And yet, some suspicious person had entered the mansion.`
+char_non: `...The adults had decided that the inside of the mansion was too large to be safe,`
+char_non: ` so they had pulled out the guns and moved to the guesthouse, where we had been.`
+char_non: `.........Which brings us to the present.`
+char_non: `George‐aniki and us others begged to see Shannon‐chan's body,`
+char_non: ` but the adults refused point blank, saying that we must not until the police arrive.`
+char_non: `That wasn't just because they had sealed all the rooms to preserve the scene.`
+char_non: `...After all, the culprit who had killed six people had wandered about that mansion.`
+char_non: `To the Ushiromiya family right now, the mansion which should have been their home...`
+char_non: `was like a danger zone that an unknown murderer had entered...`
+char_non: `It makes sense, I mean, the mansion is vast.`
+char_non: ` There are plenty of blind spots and dark places, and it's just too vast to guarantee absolute safety with this number of people.`
+char_non: `In contrast, the guesthouse is a much smaller building than the mansion.`
+char_non: `Two stories tall.`
+char_non: ` Number of rooms...about ten?`
+char_non: `{n}......Apparently, it had originally been constructed to serve as a boarding house for when the island was to be turned into a resort.`
+char_non: `So it's easy to grasp the entire structure, and easy to guarantee safety.`
+char_non: `{n}That makes it a good place to hole up in.`
+char_non: `......And.`
+char_non: ` There's an extremely high likelihood that this mass murder of six people is a "game".`
+char_non: `Because the culprit had proclaimed that in a letter.`
+char_non: `I heard that a Western‐style envelope with the family crest, just like the one Maria claimed to have received from {f:5:Beatrice} yesterday,`
+char_non: ` had been found in the boiler room where Grandfather's corpse had been discovered.`
+char_non: `This was what the letter said:`
+char_non: `{e:070:So that there will be no misunderstandings.`
+char_non: `{n}The game I seek is whether or not you can solve the riddle of the epitaph,`
+char_non: ` not whether or not you can catch me.`
+char_non: `{n}{n}If you do not solve the riddle of the epitaph, the pitiful sacrifices will further increase in number.`
+char_non: `{n}It would be more wise to spend your time solving the epitaph than searching for me.`
+char_non: `{n}{n}If no one can solve the riddle of the epitaph, no one will survive.}`
+char_non: `{e:070:If a person appears with skill enough to solve the riddle of the epitaph, I will give them all the gold of the Golden Land,`
+char_non: ` the Ushiromiya family headship, and all of my power.`
+char_non: `{n}{n}I was the one who succeeded the Ushiromiya family headship from Kinzo‐sama.`
+char_non: `{n}And I look forward to seeing who will receive the headship from me.`
+char_non: `{n}{n}{nobreak:{m:-3:—}—}{f:5:Beatrice} the Golden.}`
+char_non: `...This riddle of the epitaph was...that thing.`
+char_non: `That strange epitaph written in the same place as the portrait of the witch, displayed in the hall of the mansion.`
+char_non: `Grandfather was the one who ordered that it be written,`
+char_non: ` and the person who solved it would, supposedly, be given the family headship or the hidden gold or something like that.`
+char_non: `Ever since it was first displayed there several years ago, all the relatives, despite making fun of it in the open,`
+char_non: ` had been secretly been challenging that riddle in private.`
+char_non: `However, up until today, no one had solved it.`
+char_non: ` We had once again been told to solve that unintelligible riddle, and this time, we had been threatened that if we didn't solve it, we would all be killed.`
+char_non: `......If this wasn't a "game", what would you call it...`
+char_non: `The bold opinion that we should search the premises for the culprit did come up once.`
+char_non: `However, there was a good chance they were armed, and there wasn't necessarily only one of them.`
+char_non: `And, ...while they might have been able to kill more than six people, they had {i:stopped at six}.`
+char_non: `In the end, the opinion that we should avoid carelessly antagonizing the culprit,`
+char_non: ` and hole up in a safe place while we waited for the police to arrive, won out...`
+char_non: `After the adults had carefully checked that the doors and windows in the guesthouse were locked, they set up camp in the lobby.`
+char_non: `And as they fingered their guns to distract themselves from the tension,`
+char_non: ` their expressions showed that they were already fatigued from this long day, which had still barely begun...`
+char_non: `There was nothing that I could do.`
+char_non: `Now, all I could do was be taught how to use a gun,`
+char_non: ` to prepare for the off‐chance that...something would happen which {i:led to an excess of guns}......`
+char_non: `......That's the way.`
+char_non: ` Just obediently stay there, {i:me and the rest of you}.`
+char_but: `"...............Six people in the beginning again.`
+char_but: ` And this time it's Grandfather and all of the servants put together."`
+char_wal: `"Most likely,`
+char_wal: ` that child has carefully studied your moves from the last game.`
+char_wal: ` And she placed the highest priority upon taking the pieces which she guessed you were most likely to first suspect."`
+char_but: `"......That makes sense.`
+char_but: ` ...Both last time, and the time before that,`
+char_but: ` the servants who know everything about the mansion and who walk around with master keys were always highest on the list of suspicious people."`
+char_but: `"......A good example in the last game is Jessica's locked room.`
+char_but: ` If I had only accepted that a servant was the culprit, that wouldn't even have been a locked room."`
+char_wal: `"Therefore,`
+char_wal: ` ......that child went straight for them.`
+char_wal: ` She probably immediately went to block the way of escape that you would ultimately retreat into."`
+char_but: `"Beato already proclaimed in red that there are no more than 18 people on this island.`
+char_but: ` ...So basically,`
+char_but: ` .........{i:she's saying "give it up"}.`
+char_but: ` ......Now I have to suspect one of the 18."`
+char_wal: `"......That child will probably come at you by stealing the pieces for the 18, and descending as a 19th person who shouldn't exist,`
+char_wal: ` thereby making you accept that she is a witch."`
+char_wal: `"......That is because now that her intimidation strategy of trying to force you to submit by showing you magic has failed,`
+char_wal: ` she can only make a frontal attack."`
+char_but: `"......Perfect.`
+char_but: ` Bluffing won't work anymore."`
+char_wal: `"Be careful.`
+char_wal: ` Deception is a witch's strongest point.`
+char_wal: ` ...No matter what that child says or shows you,`
+char_wal: ` it definitely won't threaten the truth that you believe in.`
+char_wal: ` Don't forget that."`
+char_but: `".........Sure.`
+char_but: ` I'll be damned if the same moves are going to work on me over and over.`
+char_but: ` .........Get out here, {f:5:Beatrice}.`
+char_but: ` Let's get started!!!"`
+char_bea: `"I am already seated at the match table.`
+char_bea: ` My turn, too, is already complete."`
+char_ron: `"......Imagine that Madam would turn out to be our enemy.`
+char_ron: ` How unfortunate, Milady.`
+char_ron: ` ...Our moves will be read thoroughly."`
+char_bea: `"That is no problem.`
+char_bea: ` Master's moves are all outdated classics.`
+char_bea: ` There is nothing to fear."`
+char_wal: `"...What moves can you make beyond the classics I taught you?`
+char_wal: ` I am looking forward to seeing, {f:5:Beatrice}."`
+char_bea: `"......*cackle*cackle*cackle*cackle*.`
+char_bea: ` Is that alright, Battleerr?`
+char_bea: ` If a person who denies witches such as yourself accepts a witch as a strategist..."`
+char_but: `"That stupid provocation is useless.`
+char_but: ` This person is my advisor, no, my second.`
+char_but: ` That doesn't change one bit that this is a fistfight between you and me."`
+char_bea: `"I understand.`
+char_bea: ` ......You're so wobbly that you probably need training wheels on your bicycle.`
+char_bea: ` Do as you like.`
+char_bea: ` Come, begin!!`
+char_bea: ` It is your turn!"`
+char_but: `"Let's begin with the reconstruction of the crime scene.`
+char_but: ` ......{f:5:Virgilia}, if you please!"`
+char_wal: `"The first body discovered was Shannon's.`
+char_wal: ` She was found in the parlor on the first floor of the mansion.`
+char_wal: ` The door and windows were locked, and a locked room was established."`
+char_but: `"......Clarification request for Beato.`
+char_but: ` Reconfirm the definition of a locked room."`
+char_bea: `"Mmhm.`
+char_bea: ` The term "locked room" refers to a room where the inside and the outside of the room are completely isolated from all travel between them.`
+char_bea: ` Of course, no form of intrusion or escape, nor even any interference is possible.`
+char_bea: ` That is comprehensive, including a denial of hidden doors, as well as all margin for interference from the outside."`
+char_bea: `"......Henceforth, this definition will be referred to as:`
+char_bea: ` "{f:5:Beatrice}'s locked‐room definition"!"`
+char_but: `"Confirming specifics.`
+char_but: ` ......Define "margin for interference from the outside"."`
+char_bea: `"It refers to all types of direct interference from the outside, such as using a fishing line or a long, thin rod.`
+char_bea: ` In other words, you are to conclude that there is not even any gap in the doors or windows by which to use such tricks."`
+char_but: `"I wonder about that?`
+char_but: ` Even if there wasn't a gap, you should be able to interfere with radio waves, like with a remote control, right?"`
+char_bea: `"Very well.`
+char_bea: ` I add to this definition that it is impossible for radio waves and related methods of remote control to interfere."`
+char_but: `"There's also an extension telephone in the parlor.`
+char_but: ` A device linked with that wouldn't count as remote control, right?!"`
+char_bea: `"The phones are already out of order, damn you.`
+char_bea: ` ...Ugh, this is a pain.`
+char_bea: ` I'll include that too.`
+char_bea: ` All direct and indirect methods of interfering from the outside of the room to the inside of the locked room are impossible."`
+char_but: `"What about a voice or a knock?`
+char_but: ` Those should be able to interfere from the outside without entering the room, right?"`
+char_bea: `".........Even though it is a locked room, it probably isn't impossible for someone to knock or call out.`
+char_bea: ` Whether the room allows for human communication with the outside or not, it does not go against the definition of a locked room."`
+char_but: `"In other words, you can't define it so that even methods of communication are interrupted?"`
+char_ron: `"That is the case."`
+char_but: `"Understood.`
+char_but: ` .........So, Shannon‐chan's parlor satisfies "{f:5:Beatrice}'s locked‐room definition"?"`
+char_bea: `"That is correct."`
+char_but: `".........Locked‐room definition understood.`
+char_but: ` Continue, {f:5:Virgilia}."`
+char_wal: `"Yes."`
+char_wal: `".........Shannon's body was in possession of one master key.`
+char_wal: ` The relatives who discovered her collected this."`
+char_but: `"Repetition request for Beato.`
+char_but: ` How many master keys this time?"`
+char_bea: `"...Hmph. The same as last time.`
+char_bea: ` {p:1:There are five, one for each servant}."`
+char_but: `"Which means this still isn't a locked room.`
+char_but: ` There are still four master keys left.`
+char_but: ` It just means that after Shannon‐chan was murdered, one of the other four keys locked it."`
+char_ron: `"That is correct.`
+char_ron: ` .........And, it wasn't only a master key that was found."`
+char_wal: `"Yes."`
+char_wal: `"......Alongside the body, there was a Western envelope with the family crest.`
+char_wal: ` Instead of a letter, the key to the second‐floor guest room was inside it."`
+char_but: `"......The key to the second‐floor guest room...`
+char_but: ` Am I fine to define that as the only key other than the master keys that can open the door to the second‐floor guest room?"`
+char_bea: `"Indeed. There is no problem.`
+char_bea: ` And, unlike the master keys, there is only one."`
+char_ron: `"In other words, in order to unlock a specific room, in addition to the five master keys,`
+char_ron: ` there is only one other key."`
+char_but: `"......In other words, this is a message telling them to go to the second‐floor guest room next?`
+char_but: ` So the adults moved to the second‐floor guest room?"`
+char_wal: `"Yes."`
+char_wal: `"The door to the second‐floor guest room was also locked, and a magic circle was drawn on it.`
+char_wal: ` ......The relatives unlocked it with the key they had found near Shannon's body."`
+char_wal: `"Inside the room, Kumasawa's body was discovered.`
+char_wal: ` The room was a locked room.`
+char_wal: ` That definition is based upon "{f:5:Beatrice}'s locked‐room definition"."`
+char_wal: `".........Kumasawa was in possession of one master key.`
+char_wal: ` The relatives collected this."`
+char_wal: `"And like Shannon, there was a Western envelope discovered alongside her.`
+char_wal: ` Inside was the key to the third‐floor servants' quarters.`
+char_wal: ` The relatives moved to the third‐floor servants' quarters."`
+char_but: `"And there was a magic circle on the door to the third‐floor servants' quarters, and that door was locked?"`
+char_wal: `"Yes."`
+char_wal: `"Inside the room, Gohda's body was discovered.`
+char_wal: ` The room was a locked room.`
+char_wal: ` Based on "{f:5:Beatrice}'s locked‐room definition"."`
+char_wal: `"Gohda was in possession of one master key.`
+char_wal: ` The relatives collected this."`
+char_wal: `"And just as before, a Western envelope with a family seal was discovered.`
+char_wal: ` Inside was the key to the second‐floor VIP room.`
+char_wal: ` The relatives moved to the second‐floor VIP room."`
+char_but: `".........What is all of this...?`
+char_but: ` What the hell are you planning...?"`
+char_bea: `"*cackle*cackle*.`
+char_bea: ` It isn't something worth glaring at me over, is it?`
+char_bea: ` It is a locked room, but there are still several master keys that can open it, correct?`
+char_bea: ` And I have even been dutiful enough to present you with the keys particular to each room in addition to the master keys."`
+char_but: `"......I don't like how this is going.`
+char_but: ` ......But I'm starting to see how things will turn out.`
+char_but: ` So it continues like this for all six people?"`
+char_wal: `"Yes, that is correct.`
+char_wal: ` Inside the second‐floor VIP room, Genji's body was discovered."`
+char_wal: `"One master key was collected.`
+char_wal: ` The key to the underground boiler room was discovered."`
+char_wal: `"They moved to the underground boiler room.`
+char_wal: ` Inside the underground boiler room, Kinzo's body was discovered."`
+char_wal: `"The key to the chapel was discovered."`
+char_wal: `"They moved to the chapel."`
+char_wal: `"Inside the chapel, Kanon's body was discovered.`
+char_wal: ` One master key was collected.`
+char_wal: ` The key to the first‐floor parlor was discovered.`
+char_wal: ` ......With this, our reconstruction of how all six bodies were discovered is complete."`
+char_ron: `"A supplement.`
+char_ron: ` Along with the key to the chapel, a letter was enclosed in the Western envelope found near Kinzo's body.`
+char_ron: ` The contents of the letter were as you saw.`
+char_ron: ` It further urged the relatives to solve the epitaph's riddle."`
+char_but: `".........In that case...`
+char_but: ` ...What's going on?`
+char_but: ` If the last place, where Kanon‐kun was, had the key to the very first room, the parlor, where Shannon‐chan was...`
+char_but: ` That makes six locked rooms, all tied together, right?"`
+char_bea: `"That is correct!`
+char_bea: ` The six locked rooms are all tied together.`
+char_bea: ` The keys to unlock each are all shut up inside the next room."`
+char_bea: `"In other words, the six locked rooms form one massive locked room,`
+char_bea: ` and all of the master keys as well as the individual room keys are shut up inside it...!"`
+char_bea: `"`
+char_bea: `{p:1:Furthermore, all of the doors and windows in the six rooms are normal}.`
+char_bea: ` {p:1:No device exists which can lock them without a key, such as an auto‐lock}.`
+char_bea: ` *cackle*cackle*, what do you think, it's beautiful, isn't iiiiiiiiiiiit??? Uhhyahhyahhyaaahh!"`
+char_ron: `"As I said, Milady, that is not dignified."`
+char_non: `When Ronove rebuked her, Beato stuck her tongue at him shamelessly.`
+char_bea: `"Uhihihi, sorry, sorry.`
+char_bea: ` I just get in such a good mood playing with Battler."`
+char_bea: `"*cackle*, so, Battlerr?`
+char_bea: ` What is your move going to be?`
+char_bea: ` If you can't think of anything in particular, I can show you how I made the goats carry the bodies,`
+char_bea: ` and sealed all of the rooms with magic, if you waaaaant?"`
+char_but: `"Do what you want.`
+char_but: ` I'll listen respectfully to this "magic theory" that you assert.`
+char_but: ` However, I can assert my "human theory", which is completely different from your claim,`
+char_but: ` without any interference from your claim whatsoever."`
+char_but: `"So, in other words!`
+char_but: ` There's no need for me to listen to your bullshit!!`
+char_but: ` Go wave your magic staff or whatever as much as you like and act out how you lock the door with your seven‐colored magic.`
+char_but: ` And before long, I'm sure there'll be people along to stand beside you, advertising their snake oil and all‐purpose kitchen knives!"`
+char_but: `"{f:5:Virgilia}, reconstruct the crime scene!`
+char_but: ` I'll search for a weakness!!`
+char_but: ` Were they all definitely dead?`
+char_but: ` If one of them is just playing dead, this isn't a locked room at all!"`
+char_wal: `"Nanjo checked that all of them were dead.`
+char_wal: ` However, due to the "Devil's Proof", it is impossible to deny the possibility of a wrong diagnosis.`
+char_wal: ` ......In other words, she cannot make the likelihood that Nanjo overlooked the fact that they were alive equal to zero."`
+char_but: `"Here it is, that "Devil's Proof".`
+char_but: ` But there exists a sword which can carve that up...!"`
+char_bea: `"Wh‐what are those people doing?`
+char_bea: ` ......Looks like they're having a good time leaving me out of the discussion.`
+char_bea: ` I am their opponent, right...?`
+char_bea: ` They could pay attention to me at least a little..."`
+char_ron: `"By nature, communication with the opponent is not necessary in order to compete in chess."`
+char_ron: `"......You spoke in riddles when you communicated outside your moves, Milady.`
+char_ron: ` ...Perhaps it has come to this because he does not want to be led astray."`
+char_bea: `"...............muu.`
+char_bea: ` ......For some reason, I can't accept it."`
+char_ron: `"You are challenging him to a chess match, are you not, Milady?"`
+char_bea: `"That's true, but...`
+char_bea: `...muu!"`
+char_non: `{f:5:Beatrice} puffed out her cheeks, as though saying "I don't know why, but I don't like it!"`
+char_wal: `"Because the police have not yet arrived at the scene, the human side's ability to prove things is limited.`
+char_wal: ` For a strict confirmation of death, I recommend a repetition request."`
+char_but: `"Alright, that's where I'll strike, repetition requested!!"`
+char_but: `"‘The six victims are all dead’!!"`
+char_ron: `"......Milady, you have a repetition request waiting, you know?"`
+char_but: `"Hey, enough lazing around!!`
+char_but: ` Do you decline the repetition?!`
+char_but: ` This is where our battle starts!!"`
+char_bea: `"Wha?!`
+char_bea: ` Owowowowoow!!`
+char_bea: ` *cackle*cackle*, sorry, sorry, that's fine, I'll respond."`
+char_bea: `"`
+char_bea: `{p:1:Kinzo, Genji, Shannon, Kanon, Gohda, and Kumasawa—these six are all dead}!"`
+char_but: `"Why are you so out of it?`
+char_but: ` ...Alright.`
+char_but: ` So I've drawn one out of you.`
+char_but: ` That classic where they're pretending to be dead is the first to be denied."`
+char_bea: `"*cackle*!`
+char_bea: ` I won't go easy on you anymore, come at me how you like.`
+char_bea: ` I'll slice them slantwise one after another!"`
+char_but: `"And again, repetition requested!`
+char_but: ` No one is hiding in any of the six rooms!`
+char_but: ` Show me that you can deny the existence of people we aren't aware of!"`
+char_bea: `"I'll respond."`
+char_bea: `"`
+char_bea: `{p:1:There is no one hiding in the six rooms}!"`
+char_but: `"Alright.`
+char_but: ` Now I'm sure that it's only the six of them canned in there.`
+char_but: ` And they aren't pretending to be dead."`
+char_bea: `"......What will you do, what will you dooo?`
+char_bea: ` There's already nothing a human could do.`
+char_bea: ` Obediently kneel and observe as I control the locks at will with my wonderful magic, alriiiiiiight?"`
+char_but: `"Quit babbling.`
+char_but: ` And another repetition request.`
+char_but: ` "The six deaths were instant"!"`
+char_bea: `"Instant death?`
+char_bea: ` Hoh, what do you mean by that?"`
+char_wal: `"......It means there is a possibility that a single victim on the verge of death managed to escape into the room,`
+char_wal: ` and after locking it from the inside to create a locked room, they passed away."`
+char_ron: `"...Hm.`
+char_ron: ` A classic locked‐room murder.`
+char_ron: ` In the case that the victim is dealt a fatal wound, and is doomed to die at some later time,`
+char_ron: ` it is possible for the victim to hole up inside a room to escape the murderer,`
+char_ron: ` and then die after locking it, in which case a locked room could be constructed unexpectedly."`
+char_wal: `"In order to deny that possibility,`
+char_wal: ` you will need to proclaim that "the six died instantly" with the red truth."`
+char_bea: `"*cackle*cackle*!`
+char_bea: ` Very well, very well, I'll slay you with my red treasured sword!"`
+char_bea: `"`
+char_bea: `{p:1:The six died instantly}!`
+char_bea: ` By instant death, I mean that as soon as they were attacked, they became incapable of action."`
+char_bea: `"Well, death in its full meaning may have taken several seconds or even minutes.`
+char_bea: ` But in any event, it was completely impossible for them to take any action of their own will.`
+char_bea: ` In that sense, I can state that they died instantly!"`
+char_but: `"...Everything up until now has just been checking for a classic locked room.`
+char_but: ` My showdown with you over the locked rooms starts now, alright...?`
+char_but: ` If the culprit isn't on the inside, they are on the outside.`
+char_but: ` So they somehow killed them from outside the rooms."`
+char_bea: `"*cackle*cackle*!`
+char_bea: ` Have you lost your mind?`
+char_bea: ` Isn't it true that "a locked room = murder is impossible from the outside"?!`
+char_bea: ` Therefore, it's impossible for it to be anything other than a magical murder!"`
+char_but: `"No, that's wrong.`
+char_but: ` The right thing to say is "a murder really happened = it isn't a locked room"!`
+char_but: ` No matter how much you speak in riddles, this definitely isn't a locked room!`
+char_but: ` It's a sham that only looks like a locked room!"`
+char_ron: `"However, Battler‐sama.`
+char_ron: ` {p:1:Only the victims are inside the rooms,}`
+char_ron: ` {p:1:and no other people exist inside the rooms}.`
+char_ron: ` And by Milady's locked‐room definition,`
+char_ron: ` remote murders from outside the room have been clearly denied, have they not?"`
+char_but: `"Wait.`
+char_but: ` The definition of remote murders is vast, right?`
+char_but: ` Sure, there's stuff like pulling a fishing line from outside the room and strangling the victim inside the room,`
+char_but: ` but that's not all there is."`
+char_but: `"For example......`
+char_but: `a trap would make for an excellent remote murder!"`
+char_bea: `"A traap?`
+char_bea: ` Hoh, what is that?!"`
+char_but: `"Just as an example, let's say they were instructed to enter previously decided rooms,`
+char_but: ` and lock the doors from the inside to create a locked room themselves.`
+char_but: ` A trap is set up in those rooms that they don't know about,`
+char_but: ` and they are killed by that.`
+char_but: ` ......How's that?! Now there is no contradiction!"`
+char_wal: `"......There is no problem.`
+char_wal: ` It corresponds to the existing state."`
+char_ron: `"...There is no problem on our side either.`
+char_ron: ` It does not conflict with Milady's locked‐room definition."`
+char_bea: `"Kuhhahhahahahahahahahaha?!`
+char_bea: ` What's with that stupid reasoning?!`
+char_bea: ` Nothing suspicious was found in any of the rooms, you know?"`
+char_bea: `"What form did that trap have?!`
+char_bea: ` Where was it hidden and how did it operate?!`
+char_bea: ` Explain that for all six people, in the parlor, the guest room, the servants' quarters, the VIP room, the boiler room, and the chapel.`
+char_bea: ` Well? You can't, can you?!?!"`
+char_but: `"Decline refutation!!`
+char_but: ` There is no need for me to explain that!!`
+char_but: ` And even so, it doesn't damage my claim!!"`
+char_bea: `"Wh‐what did you saaaaaaaaayy...?!?!"`
+char_wal: `"{f:5:Beatrice}, it is a "Devil's Proof".`
+char_wal: ` The fact that he cannot explain the form of the trap...`
+char_wal: `does not in itself disprove that there was a trap!"`
+char_ron: `"............Well done.`
+char_ron: ` While overbearing, a wonderful move."`
+char_bea: `"...Kh!!!`
+char_bea: ` This guy is getting completely used to this......!!"`
+char_but: `"Check.`
+char_but: ` It is possible to establish this locked‐room murder via a murder trap X that they couldn't find."`
+char_bea: `"......I‐I'll kill that check with the red truth!!"`
+char_bea: `"`
+char_bea: `{p:1:The six were not killed by traps}!"`
+char_but: `"The definition of trap?!"`
+char_bea: `"Oh...`
+char_bea: `umm...`
+char_bea: `one of those!`
+char_bea: ` Something that activates when a victim gets caught in it by their own actions."`
+char_bea: `"Aaah... That's not all!`
+char_bea: ` Stuff that activates by remote control or by a timer,`
+char_bea: ` ......everything like that is also included!"`
+char_ron: `"Pu ku ku...`
+char_ron: ` All devices that can carry out a murder without the direct participation of the person who set it up.`
+char_ron: ` I believe that definition may be appropriate."`
+char_bea: `"H‐how's that?!`
+char_bea: ` I've struck back!!`
+char_bea: ` As though I could let a human defeat this locked room!!"`
+char_but: `"..................`
+char_but: ` ............You're also frantic, trying to win, huh."`
+char_bea: `"...Whaat...?!`
+char_bea: ` What do you mean...?"`
+char_but: `"......You're also frantically fighting to make me accept that you exist.`
+char_but: ` Until now, I thought that I was just being toyed around with one‐sidedly by you."`
+char_but: `"...But that was actually wrong.`
+char_but: ` You're also frantically resisting my comeback, fighting to show that you exist...!`
+char_but: ` Now,`
+char_but: ` ...I finally really feel that's true."`
+char_non: `This isn't torture inflicted on me about whether I'll submit or not.`
+char_but: `"This is a fight between you and me on an even footing!!"`
+char_but: `"......Alright, it's starting to get interesting, isn't it?`
+char_but: ` Six people died in locked rooms, and no one else was inside.`
+char_but: ` And there was no meddling from the outside, and also no traps.`
+char_but: ` If I was still how I used to be, I would probably think this had to be the work of magic."`
+char_but: `"......And if you had acted out some strange magic right about now, I'd probably even have surrendered.`
+char_but: ` .........It's that favorite strategy of yours."`
+char_but: `"...You completely intercept all of my moves, and in the moment that I've tried everything and fallen to my knees,`
+char_but: ` when my heart's defensive power is at its weakest, you show off some strange magic and take the game all at once!!"`
+char_wal: `".........She has always had a short temper.`
+char_wal: ` She still has that bad habit of rushing things when victory is in sight."`
+char_ron: `"Pu ku ku.`
+char_ron: ` Because Milady cannot stand putting things off."`
+char_bea: `"Heeey, shut up, shut up!!"`
+char_bea: `"It is your turn, Battler!`
+char_bea: ` The "trap piece" that you advanced, I have cut down with red!`
+char_bea: ` What will you send out next?`
+char_bea: ` Show me what you've got!!"`
+char_but: `"Right!!`
+char_but: ` Now that even traps have been defeated, at a glance, this looks like a perfect locked‐room murder.`
+char_but: ` ......And that's why this is where I'll flip over the chessboard!!"`
+char_bea: `"...Here it is, your special technique!`
+char_bea: ` What exactly are you going to flip over, and how?!`
+char_bea: ` Try showing meeeeeeeeeeee!!"`
+char_but: `"Yeah, I'll show you!!`
+char_but: ` It's not about thinking how to kill six people inside locked rooms from the outside!"`
+char_but: `"Yeah, that's no good, no good, no goddamn good at all!`
+char_but: ` That's right, it's not about how to kill from the outside.`
+char_but: ` It's about how they died inside the room and created a locked room!"`
+char_but: `"......That's it, this is the answer!!`
+char_but: ` If you assume that one of the six victims was the culprit,`
+char_but: ` this locked room can be explained extremely easily!"`
+char_bea: `"Wh‐whaaaaaaat?!`
+char_bea: ` No way!`
+char_bea: ` I believe I clearly said in red that the six of them were dead......!!"`
+char_but: `"Six people did die.`
+char_but: ` Five were victims who were killed.`
+char_but: ` If you assume that the other person committed suicide, you can destroy this locked room!!"`
+char_ron: `"......Certainly.`
+char_ron: ` If the culprit locked themselves in the final locked room,`
+char_ron: ` and threw away their own life, this locked‐room chain would be established."`
+char_wal: `"The culprit's suicide.`
+char_wal: ` ...Normally, it is an unthinkable move,`
+char_wal: ` but the argument that it doesn't exist because it is unthinkable,`
+char_wal: ` doesn't exist.`
+char_wal: ` ......And he has no responsibility to demonstrate a motive.`
+char_wal: ` A truly powerful move, which can only be used in a chess match against a witch...!"`
+char_ron: `"......Well, you cannot say for certain that there is no motive.`
+char_ron: ` ...For example, Kinzo had been pronounced as having only a short time left to live.`
+char_ron: ` The motive of using his own death as a message, not being afraid to lose his short remaining life,`
+char_ron: ` ...may not be impossible to attach."`
+char_ron: `".........Milady.`
+char_ron: ` It is our turn."`
+char_bea: `"H‐...hmm!`
+char_bea: ` To imagine that you would even trample on the dignity of the dead to create a culprit...!`
+char_bea: ` What a heartless, cold‐blooded man...!"`
+char_but: `"Setting up the dead as the culprit.`
+char_but: ` ...This move is worse than inhuman, and it's one you used to attack Kanon‐kun in the last game.`
+char_but: ` ......I'm taking a shot back at you with this move,`
+char_but: ` as a tribute to Kanon‐kun for that time, even though the games are different."`
+char_but: `"Just now, I have freed that Kanon‐kun from his regrets!!"`
+char_bea: `"Ku......kuuuuuuu......!!"`
+char_wal: `"You have no duty to hold back here.`
+char_wal: ` You should check whether suicide was not the cause of death for any of them.`
+char_wal: ` I recommend requesting a repetition."`
+char_but: `"Right!!`
+char_but: ` But suicide is a naive word that won't corner her!!`
+char_but: ` Beato, this is the end!!"`
+char_but: `"Repetition requested!!`
+char_but: ` "The six deaths were all homicides"!!"`
+char_ron: `".....................That is painful."`
+char_bea: `"Uguu...!!`
+char_bea: ` ........................kh...ooohh...!"`
+char_but: `"Hmmmm?`
+char_but: ` What's wrong, six people were killed, right?!`
+char_but: ` I'm just checking the simplest premise we had at the very beginning, aren't I?`
+char_but: ` Can't you repeat it?!"`
+char_bea: `"I......I decline to repeat.`
+char_bea: ` ...Th‐there's no reason in particular."`
+char_but: `"Refusing to repeat this is the same as resigning, you know?!"`
+char_but: `"Checkmate!!`
+char_but: ` One of the six was the culprit, and they carried out a suicide after constructing the locked room!`
+char_but: ` We're done!!"`
+char_bea: `"...W‐wait!`
+char_bea: ` No, umm, ......I'll say it, I'll say it!`
+char_bea: ` I'll use the red like you want!`
+char_bea: ` {p:1:None of the six committed suicide}!"`
+char_bea: `"How's that?!`
+char_bea: ` Are you satisfied...?!`
+char_bea: ` *cackle*cackle*, kakkakakakaka!`
+char_bea: ` I've struck back, I've struck back!!!"`
+char_but: `"Heh,`
+char_but: ` ......what the hell, so you can say it...`
+char_but: ` ...But isn't that weird?`
+char_but: ` Why are you so panicked...?"`
+char_bea: `"......I‐i‐it's your imagination.`
+char_bea: ` I am also frantic this time, you see?`
+char_bea: ` I don't have much leeway.`
+char_bea: ` Don't pay it any mind..."`
+char_wal: `"......The repetition you requested has been modified.`
+char_wal: ` Do not be fooled."`
+char_bea: `"..................kuuuuuuuuuuuuuuuuuu..."`
+char_ron: `"Pu ku ku ku...`
+char_ron: ` It seems it was useless, Milady."`
+char_but: `"Th‐that's right!`
+char_but: ` She didn't say "the six deaths were all homicides".`
+char_but: ` She changed it to "none of the six committed suicide"!`
+char_but: ` Which means that one or more of the people was not killed by someone else and didn't commit suicide."`
+char_but: `".........Aaaaaaaahhh,`
+char_but: ` I've got it, I've got it!!`
+char_but: ` This is the truth!"`
+char_but: `"After culprit X, who lurks among the six, murdered the other five, they constructed a locked room.`
+char_but: ` ......Then they planned to escape from or hide in that room by some method."`
+char_but: `"However, {i:there was an accident}!!`
+char_but: ` The culprit died from an accident that even they hadn't expected, and constructed a locked room that even they hadn't desired!!`
+char_but: ` Now it's over, {f:5:Beatrice}!!`
+char_but: ` Checkmate!!!"`
+char_bea: `"D......damn iiiit!!`
+char_bea: ` Did you think I would be cornered by something like that!!`
+char_bea: ` I would never scream my resignation over something like that!!"`
+char_bea: `"I'll slice up that foolish checkmate with my red treasured sword over and over again!!`
+char_bea: ` Among the six, there were n—"`
+char_bea: `"Mgmf?!`
+char_bea: ` Fugagaga, wha are you ooing, fugafuga!"`
+char_ron: `"My apologies.`
+char_ron: ` Our side requests some time to strategize.`
+char_ron: ` Please allow us a brief postponement."`
+char_wal: `"......It is a just request.`
+char_wal: ` I believe there should be no problem."`
+char_but: `"Sure!! I'll allow that!`
+char_but: ` I've been given those a lot lately.`
+char_but: ` This time it's your turn to use it...!!"`
+char_ron: `"Thank you very much.`
+char_ron: ` Come, Milady, ......this way.`
+char_ron: ` And let us quietly count to one hundred inside our heads."`
+char_bea: `"Fugafugafuga!!`
+char_bea: ` Hunoheh, huhnoheee!!`
+char_bea: ` Fugaa!"`
+char_non: `As Beato grew thoroughly panicked and agitated, Ronove had quickly covered her mouth with his hand, and suspended the game.`
+char_non: `He then pulled Beato away in the name of a strategy conference...`
+char_but: `"......Damn.`
+char_but: ` Curse that demon butler.`
+char_but: ` When Beato got all hot, that was an ideal chance to corner her..."`
+char_non: `Beato normally behaves elegantly, but she actually has a really short temper and gets mad easily.`
+char_non: `......Her normal intelligence falls silent when she starts getting agitated.`
+char_wal: `"Ronove is composed.`
+char_wal: ` ...He probably gave that child some time to cool her head.`
+char_wal: ` ......That child was stubbornly trying to remove your check,`
+char_wal: ` and was going to easily let several large pieces go.`
+char_wal: ` ...After all, the first twilight is only a skirmish.`
+char_wal: ` ......That child mistook her timing."`
+char_but: `"......So, what does it mean?`
+char_but: ` Did I create a checkmate, or didn't I?"`
+char_wal: `"That child was going to proclaim it in red.`
+char_wal: ` It probably wouldn't have become checkmate yet.`
+char_wal: ` ......But, I imagine,`
+char_wal: ` that child will proclaim her resignation once she has cooled her head."`
+char_but: `"...Surely not.`
+char_but: ` Even though she hates losing...?"`
+char_wal: `"Yes.`
+char_wal: ` In a losing battle, it is essential to withdraw your troops as soon as possible to try to minimize your losses.`
+char_wal: ` ......The difficult part is measuring whether it is a losing battle or not.`
+char_wal: ` ...It seems that that child's butler calmly made that decision."`
+char_but: `"......Oh well.`
+char_but: ` In other words, she got away with only a second to spare.`
+char_but: ` ......Looks like...`
+char_but: `I won't be getting checkmate and delivering the final blow so easily."`
+char_wal: `"However, you should measure this as your victory.`
+char_wal: ` They seem to have just barely prevented a large loss,`
+char_wal: ` but without a doubt, you dealt considerable damage.`
+char_wal: ` ......I am sure you were able to understand well the depths of that wound by watching the way she panicked."`
+char_but: `"Seriously.`
+char_but: ` Ihihihi, it feels like she'd start crying if I bullied her any more than this."`
+char_non: `As we talked, Ronove returned with Beato, who wore a meek expression.`
+char_non: `...She didn't have the same bold smile as usual, but it looked like the blood wasn't rushing to her head anymore.`
+char_but: `".........Hey.`
+char_but: ` It's your turn.`
+char_but: ` Did you decide your next move?"`
+char_bea: `"I resign.`
+char_bea: ` ......For now, I will let you have your victory."`
+char_non: `Beato told me that frankly.`
+char_non: `{n}It seemed as though she had taken a far‐sighted view, as though saying "if you want to laugh, then laugh".`
+char_non: `......It was a bit of a buzzkill, and I lost my desire to attack her further.`
+char_but: `"Well, now that you've resigned, in the end,`
+char_but: ` all that means is that we're even, since my theory and yours can't deny each other.`
+char_but: ` I'll treat it more like a tie than a loss."`
+char_bea: `"......I don't need your disgusting compassion.`
+char_bea: ` I say that this time, it is my loss.`
+char_bea: ` ...When you find a dog drenched with rain, are you inclined to whack it with a stick or something?"`
+char_but: `"Nope.`
+char_but: ` Unlike you."`
+char_bea: `".............................."`
+char_non: `Even though she ridiculed me horribly when I showed signs of defeat, she was so pathetic when it was her turn.`
+char_non: `I thought of her as a pretty unfair person, but I decided to act with dignity as a winner and accepted it.`
+char_non: `......Beato had resigned.`
+char_non: `{n}That was the only result of the first twilight.`
+char_non: `{f:5:Beatrice} couldn't counter my move of "one of the six was the culprit,`
+char_non: ` and that person died in an accident".`
+char_non: `...No, she probably could have countered it, but because of some strategic decision, she had given up.`
+char_non: `I felt less like I had won, and more like she had escaped me one step from victory...`
+char_non: `In chess against witches, it is possible to battle onward solely using pieces called X which don't need explanation.`
+char_non: `Thanks to the "Devil's Proof", I can create as many strange fictions as I want, and use them to fight in the argument.`
+char_non: `...But that's only within the context of chess with a witch.`
+char_non: `{n}......In our human world, such an abstract story can't explain anything.`
+char_non: `The first twilight today was a chain of six locked rooms.`
+char_non: `{n}...It certainly may be possible for a human.`
+char_non: `Beato hadn't been able to completely deny everything.`
+char_non: `However, I don't have a clue who committed the crime,`
+char_non: ` why, and how they actually did it...`
+char_non: `I shouldn't say this having won,`
+char_non: ` ......but I get the feeling that I would have felt less muddled...`
+char_non: `if I had just been told right out by {f:5:Beatrice} that it was completely impossible for a human.`
+char_non: `Although I hide behind these abstract pieces called X,`
+char_non: `{n}............I couldn't deny that some kind of unthinkable,`
+char_non: ` creepy intention had definitely pervaded this mansion...`

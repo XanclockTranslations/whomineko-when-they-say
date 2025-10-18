@@ -1,0 +1,756 @@
+char_enj: `"Rumor has it, Ange‐chan,`
+char_enj: ` that you jumped off the top of a building?"`
+char_enj: `"The groupies were getting annoying, so I thought I'd give them the slip."`
+char_non: `Ange and an old gentleman wearing an expensive suit were alone in a massive, modern conference room.`
+char_non: `The conference room was equipped with all the latest equipment for presentations,`
+char_non: ` while keeping intact a refined and composed atmosphere;`
+char_non: ` that alone was enough to make abundantly clear the worth of the corporation that was its owner.`
+char_non: `However, Ange couldn't have cared less.`
+char_non: `Looking aloof from the world, she sat slovenly in one of the high‐class chairs for executives with salaries probably north of twenty million yen.`
+char_enj: `"And anyway, I knew they were remodeling on the lower floors and had a safety net, so."`
+char_non: `Ange dismissed it with an offhand comment, but in reality, it had been a {i:miracle} among miracles.`
+char_non: `She had shot through several layers of safety netting for the remodeling project,`
+char_non: ` been caught by a multi‐colored banner adorning the atrium, slid down and off it,`
+char_non: ` ...been softly caught by a final banner, landed on the ground without a scratch,`
+char_non: ` and then left that place at a brisk walk... It put Hong Kong movies to shame.`
+char_non: `"So you knew there was a net—it was still a 200‐meter‐tall skyscraper, y'know.`
+char_non: ` If things hadn't gone according to plan, there'd be a real mess to deal with right now."`
+char_enj: `"......I figured that if I died, then that would be the end of that, more or less.`
+char_enj: ` Well, let's just say, I was testing my luck a bit.`
+char_enj: ` Put it down to the rashness of youth."`
+char_non: `Ange shrugged coldly, as though saying that she'd had enough of that topic.`
+char_non: `At this, the old gentleman, who was looking at the world below through the window, burst into laughter.`
+char_non: `"So you were testing your luck...!`
+char_non: ` My, my, you truly are Kinzo‐san's grandchild.`
+char_non: ` The nerve to entrust yourself to chance, to put your life in the hands of the gods and think nothing of it.`
+char_non: ` ...The Chairman was also a person who could stake her life on a bet like it was nothing—wonder if this is all part of the Ushiromiya blood."`
+char_non: `"......You really are going to be something big in the future.`
+char_non: ` Take my advice.`
+char_non: ` Why not put this running away from home act behind you and return to the Sumadera family?"`
+char_enj: `"I heard that Mom had a bad relationship with her family.`
+char_enj: ` I don't want to go to the house of people I first met at a funeral."`
+char_non: `The Sumadera ({p:0:須磨寺}) family is my mom's family.`
+char_non: `It's a bit of an old family from Kyoto, and unbelievably strict in a way you could never have imagined from the frank way Mom acted.`
+char_non: `The only person in the Sumadera family I had been on good terms with was Grandpa, who was living separately under the guise of retirement.`
+char_non: `Mom, too, kept up contact only with Grandpa,`
+char_non: ` and had nothing to do with the rest of the family at all, nor they with her, to an ugly degree.`
+char_non: `Even for me, Grandpa's house was the only part of the Sumadera family I ever went to visit.`
+char_non: `Being young, I hadn't really understood it at the time,`
+char_non: ` but I hear that Grandpa, as a man who married into his wife's family, was in an extremely weak position, and his relationship with Grandma was also bad.`
+char_non: `...In fact, maybe you could even have said that he was hated by Grandma, and confined to the house.`
+char_non: `It isn't hard to imagine that because she had a soft spot for Grandpa alone,`
+char_non: ` Mom was probably also hated by the Sumadera family.`
+char_non: `As her daughter, I was probably also hated quite a bit.`
+char_non: `And yet, they had appeared for the first time at my parents' funeral,`
+char_non: ` shamelessly going on about how I'd grown, like they could actually act like family after all this time...`
+char_non: `After Aunt Eva died, all the wealth of the Ushiromiya family was inherited by me.`
+char_non: `If they weren't after that, there's no way they'd have been able to say such disgusting words.`
+char_non: `"......Well, look, you're all alone now, it's not like I don't get why you'd just quit caring."`
+char_enj: `"It's not not caring.`
+char_enj: ` Annoying Aunt Eva has kicked the bucket at last, and I'm finally stretching my legs and taking a relaxing stroll, that's all.`
+char_enj: ` ......Everyone else is just making too big a deal out of it."`
+char_non: `They're all just after the vast Ushiromiya wealth I'm shouldered with, anyway.`
+char_non: `They must think if they become my guardians, they'll be able to do whatever they please with that wealth.`
+char_non: `Just how many people have tried to act like a substitute parent and get close to me?`
+char_non: `"Ange‐chan, you know, if life's treating you rough, you can come talk to me anytime if you want some advice.`
+char_non: ` I think of you as my true grandchild."`
+char_enj: `"...........................haah.`
+char_enj: ` ...Let's make that a no‐thank‐you for now.`
+char_enj: ` ...More importantly, let's get back on topic."`
+char_non: `"Ange‐chan.`
+char_non: ` Ask me as much as you want, but I'm hiding nothing.`
+char_non: ` The Chairman was the only one to survive Rokkenjima that day.`
+char_non: ` And she gave up the ghost without saying a thing."`
+char_non: `"I myself understand nothing.`
+char_non: ` We're all in the dark, as they say."`
+char_non: `The old gentleman was one of a number of corporate heavyweights who, after Eva had passed away, had been entrusted with the business group she had built up.`
+char_non: `The one he referred to as "the Chairman", technically the former chairwoman, was Ushiromiya Eva.`
+char_non: `His company had once had a friendly relationship with Hideyoshi's company,`
+char_non: ` and he had been a close friend of both Hideyoshi and Eva.`
+char_non: `For that reason, after Eva lost Hideyoshi, he had become the only person to whom she could reveal her true thoughts.`
+char_non: `When Eva's heart had been torn by the loss of her family, and she had taken it out on Ange,`
+char_non: ` he had also acted as a buffer between the two, so although Ange didn't trust him, she too found him an easy person to pay a visit...`
+char_non: `"That crime,`
+char_non: ` ...no, accident, I guess.`
+char_non: ` If I call it a crime, I'll get in trouble.`
+char_non: ` ...Sure, I had my questions, just like the rest of the public and the talk shows."`
+char_enj: `"......At the time of the accident, why was Aunt Eva in a place two kilometers away from the mansion, all alone?`
+char_enj: ` And on the night of a storm."`
+char_non: `"At the time, Kinzo‐san was unsure as to who he would choose to be the next successor.`
+char_non: ` ......Publicly it was to be the eldest son, Krauss‐san, but he wasn't well trusted by Kinzo‐san."`
+char_enj: `"......So, to fairly determine a successor from among the four siblings, he made this game‐like test called the riddle of the epitaph...?"`
+char_non: `"Only officially speaking.`
+char_non: ` ......Kinzo‐san probably planned to make Eva‐san the successor to the head from the beginning."`
+char_non: `"He wanted to leave the family to Eva‐san, who unlike Krauss‐san was extremely diligent and brilliant, even at the cost of taking back his own rule that the eldest son would be the successor."`
+char_non: `"...The new rule about giving the family headship to the one who solved the epitaph...`
+char_non: `was probably nothing more than a farce so that he could snatch the position of successor away from Krauss‐san."`
+char_enj: `"What do you mean by...farce?"`
+char_non: `"There was no need for anyone to solve that epitaph.`
+char_non: ` Once it had been displayed for an appropriate amount of time, Kinzo‐san would just call Eva‐san, who he truly wanted to succeed him,`
+char_non: ` {i:and give her the answer}.`
+char_non: ` In other words, that itself was the proof of the succession to the headship."`
+char_enj: `"..................There hasn't been any mention of this on the talk shows, has there?"`
+char_non: `"Well, that's because if you start going on about the succession of the head, it's gonna strengthen the murder theory.`
+char_non: ` I'm no fool myself.`
+char_non: ` I'm not gonna go out of my way to say things that could invite misunderstandings."`
+char_non: `The way he told it went like this:`
+char_non: `At the time, the head of the Ushiromiya family, Kinzo, diagnosed with little time left to live, was troubled over the problem of who was to succeed him.`
+char_non: `Normally, the successor would be fixed as the oldest son, Krauss, as laid out by Kinzo himself.`
+char_non: `...But in his later years, Kinzo began to think that Eva was more fitting to be head.`
+char_non: `However, Kinzo, stubborn even to himself and obstructed by the title of successor that he had given to Krauss,`
+char_non: ` searched for an {i:official stance} by which he could skip over Krauss and select Eva as his successor.`
+char_non: `That official stance was the riddle of the epitaph.`
+char_non: `The primary successor was still Krauss,`
+char_non: ` but there was a new rule, saying that if someone appeared who could solve the riddle, they would be chosen as the successor to the head.`
+char_non: `And on the day of what would probably be his final family conference, Kinzo had told Eva the answer to that riddle himself.`
+char_non: `......In short, it was the same as proclaiming that Eva was the successor.`
+char_non: `"On that day, Eva‐san was summoned by Kinzo‐san, and that was revealed to her.`
+char_non: ` And so that she could succeed the head, he called Eva‐san to the hidden mansion Kuwadorian, known only to the head."`
+char_enj: `".........And the claim is that she escaped harm in that accident because she was waiting at the hidden mansion just beforehand?`
+char_enj: ` Maybe Aunt Eva just killed everyone and made it {i:look} like an accident so that she could steal all of the wealth,`
+char_enj: ` and {i:that's} why she's the only one who escaped unharmed."`
+char_non: `"Well, that's what the papers are shouting about.`
+char_non: ` However, I believe Eva‐san.`
+char_non: ` ......I think there are several points that make her worthy of trust."`
+char_enj: `"For example...?"`
+char_non: `"That ring of the Ushiromiya family head, which is on your finger as we speak.`
+char_non: ` That ring is the only one of its kind in the world, which Kinzo‐san had specially made.`
+char_non: ` And even the artisan who made it acknowledges that the object on your finger is, without a doubt, that ring."`
+char_non: `The Ushiromiya family...Head's Ring.`
+char_non: `That ring, with the heft of gold and the one‐winged crest on it,`
+char_non: ` had diamonds adorning the pedestal, and possessed both stateliness and a sense of gaudy extravagance.`
+char_non: `Kinzo had worn that on his finger, never removing it even for a moment.`
+char_non: `The fact that Eva had it was apparently proof that Kinzo had acknowledged her as the successor to the head.`
+char_non: `"Because Eva‐san did indeed have that ring,`
+char_non: ` and, if you take into consideration that Eva‐san was indeed more capable, and that Krauss‐san was known to have made a fool of himself numerous times in the business setting,`
+char_non: ` I cannot imagine that Eva‐san's story is completely made up."`
+char_enj: `"............Although there's also the possibility that she murdered Grandfather in order to steal that ring.`
+char_enj: ` And then, using some kind of trick, she massacred everyone and made it look like an accident."`
+char_non: `"Ah, yes.`
+char_non: ` It seems the papers are accusing her of massacring her entire family with the aim of keeping all the wealth to herself."`
+char_non: `"It is true that Eva‐san was the kind of person to take drastic action when it came to the crunch.`
+char_non: ` It could be possible......that she committed the only murders she planned on committing in her life to grab this chance to make the Ushiromiya wealth all her own.`
+char_non: ` ............But you know, I don't think that's true."`
+char_enj: `"What's the second point making her worthy of that trust?"`
+char_non: `"Eva‐san's family.`
+char_non: ` Hideyoshi‐san and George‐kun.`
+char_non: ` ......You might find this difficult to believe, Ange‐chan, but Eva‐san was a person who treasured her family greatly."`
+char_non: `......He was right; I found it very hard to believe that, or admit it.`
+char_non: `{n}But deep inside I knew.`
+char_non: `Aunt Eva really had been a person who treasured her family greatly.`
+char_non: `The root of her twisted personality had been nothing more than the sadness of losing her beloved husband and son.`
+char_non: `Having been used as an outlet for all that emotion, I had no feelings of sympathy for her at all,`
+char_non: ` ......but even so, it's not like I couldn't imagine that losing her entire family had dealt her an incredible shock sufficient to transform her personality.`
+char_enj: `"......You're saying that there's no way Aunt Eva, who loved her family, would have abandoned her husband and her son?"`
+char_non: `"That's right.`
+char_non: ` If Eva‐san really had been the culprit and massacred her entire family, making it look like an accident,`
+char_non: ` ......her husband and her son would definitely be alive right now."`
+char_non: `"She'd have tried to wriggle out of it by saying her family was the only one in the hidden mansion by coincidence.`
+char_non: ` If Hideyoshi‐san and George‐kun had both been alright, even I would have probably suspected Eva‐san."`
+char_non: `"......It's impossible for me to believe that all that wailing Eva‐san did at Hideyoshi‐san's funeral was an act."`
+char_enj: `".........Both of those are circumstantial evidence.`
+char_enj: ` That isn't the same as physically showing Aunt Eva's innocence."`
+char_non: `"Hahahaha.`
+char_non: ` That's just unconstructive.`
+char_non: ` Eva‐san was the only one left alive.`
+char_non: ` And she says that is the truth."`
+char_enj: `"But no one can prove her innocence."`
+char_non: `"Yes, that's right.`
+char_non: ` And no one can prove that she committed a crime, either."`
+char_enj: `".............................."`
+char_non: `"And the final point making her worthy of trust—is the police.`
+char_non: ` After all, it was one hell of an incident.`
+char_non: ` Pushed forward by a public in an uproar over the murder theory, the police must have investigated her thoroughly."`
+char_non: `It's easy to feel something unnatural about the claim that Eva had escaped the accident by coincidence,`
+char_non: ` because she and she alone had escaped to a hidden mansion.`
+char_non: `Furthermore, at the time, Hideyoshi's company had been right in the middle of a takeover struggle, and had wanted a large sum of cash in order to buy off the big stockholders.`
+char_non: `It shouldn't be too hard to find a motive there.`
+char_non: `But as a matter of fact, en route to the family conference, Eva's person had been perfectly clean.`
+char_non: `Nothing unnatural was found on her that could have been used to brutally murder her family and make it look like an accident.`
+char_non: `The servants who escaped harm by being off‐duty on that day also stated that they hadn't seen anything strange regarding anyone related to the event, Eva included.`
+char_non: `Putting all of that together,`
+char_non: ` it could only be concluded that Ushiromiya Eva had headed to Rokkenjima for a normal family conference, no different from usual,`
+char_non: ` and became involved in an accident...`
+char_non: `"The police placed her under all that scrutiny, and they still couldn't find evidence that it was a crime.`
+char_non: ` ......That was the police's conclusion.`
+char_non: ` Doesn't that put an end to Rokkenjimagate?"`
+char_enj: `"......That just means that the police`
+char_enj: ` {i:couldn't find} the evidence of her crimes, doesn't it?"`
+char_non: `"Oh, come on, you could go on forever that way.`
+char_non: ` It becomes a Devil's Proof.`
+char_non: ` To expose a crime, you just need to find the evidence.`
+char_non: ` But what can you find to show someone's innocence?`
+char_non: ` It's impossible to prove a negative fact."`
+char_enj: `"......Did Aunt Eva commit a crime, or did she not...`
+char_enj: ` Because we can't find the data to decide that, the truth will remain a mystery, in other words."`
+char_non: `".........Well,`
+char_non: ` to put it in the words you're hoping for, that's how it is.`
+char_non: ` Even Eva‐san couldn't conclusively prove her own innocence."`
+char_non: `"An unfortunate accident occurred on that island.`
+char_non: ` And Eva‐san survived by chance.`
+char_non: ` And that's literally all we know!"`
+char_non: `"In short, as Eva‐san is the only survivor, it all comes down to whether you can believe her story or not."`
+char_non: `"......I believed.`
+char_non: ` What she told me about the ring, and her admirable love for her family.`
+char_non: ` And the tears she showed at the funeral.`
+char_non: ` Taking all of that into consideration, I decided I would believe her story."`
+char_enj: `"......But I don't believe it.`
+char_enj: ` If she wanted to steal the ring, there were probably many ways for her to do so, and no one knows whether her relationship with her family really was good.`
+char_enj: ` It's impossible to prove that the tears at the funeral were the real thing."`
+char_enj: `"......Anyway, in the first place, I {i:hate} Aunt Eva.`
+char_enj: ` So that doesn't exactly inspire me to believe her story."`
+char_non: `"Hahahaha...`
+char_non: ` How does one view the truth of the incident?`
+char_non: ` You and I are at loggerheads on the issue.`
+char_non: ` Even though the information we're given is exactly the same, we develop completely different opinions."`
+char_non: `".........This kind of thing happens all the time in politics and economics.`
+char_non: ` No matter the enterprise, it will always result in a division of opinions.`
+char_non: ` Do you know why?"`
+char_enj: `".........No?"`
+char_non: `"It's about whether you have love.`
+char_non: ` ......Depending on whether you feel love for the other side, the way you see things is completely different."`
+char_non: `"If a person you like gives to the poor, you can respect them, right?`
+char_non: ` But if someone you hate starts donating, you fiercely protest that it's a publicity stunt or they're handing out favors."`
+char_non: `"No matter what they do or don't do, you thank them if you have love and criticize them if you don't.`
+char_non: ` That's how the world works."`
+char_enj: `"Can you believe Aunt Eva or not...`
+char_enj: ` ......You're saying that's the only difference?"`
+char_non: `"Those who suspect her will probably take anything she does or doesn't do and view it as truly unnatural.`
+char_non: ` And it works in reverse.`
+char_non: ` ......As for me,`
+char_non: ` I think that perhaps, except in extreme cases, truth in this world doesn't exist."`
+char_non: `"No, even {i:if}...`
+char_non: `even if truth {i:does} exist, whether you believe it or not is determined by whether or not you have love."`
+char_non: `"......Can you really call truth "truth" if it isn't absolute?`
+char_non: ` Even if Eva‐san had been able to demonstrate a physical alibi, would you have been able to believe it?"`
+char_enj: `"..........................."`
+char_non: `He has a point.`
+char_non: `...I hate Aunt Eva, so I'll probably deny all information beneficial to her,`
+char_non: ` and maliciously interpret all neutral information.`
+char_non: `......In other words, inside myself, the truth is already decided.`
+char_non: ` And yet I'm still unsatisfied, still searching for the "truth"—so what exactly is this "truth" I'm searching for...?`
+char_non: `"That's how it is.`
+char_non: ` So no matter what you hear from me, as long as you still suspect Eva‐san,`
+char_non: ` it won't change anything for you, not after all this time."`
+char_non: `"Even if you got your hands on a piece of hitherto unknown information, I still don't think you'd be able to reach the truth, not the way you are now, at least."`
+char_enj: `".........So I'm incapable...`
+char_enj: `of reaching the truth?"`
+char_non: `"Well, yeah.`
+char_non: ` No matter what kind of new information or proof you find, Ange‐chan, you aren't gonna change your stance that Eva‐san is the culprit, right?"`
+char_non: `"Then it doesn't matter what else you look into, it isn't gonna mean anything, is it?`
+char_non: ` {i:The truth inside of you is already decided}."`
+char_enj: `"..........................."`
+char_non: `"But if...`
+char_non: `if you don't think of that as truth, and earnestly desire to arrive at the deeper, real truth, there is a single way."`
+char_non: `"I believe I already mentioned that once, though.`
+char_non: ` Know what it is?"`
+char_enj: `"......You mean...love?`
+char_enj: ` I don't really know what you mean by that."`
+char_non: `"Right now, you are thinking about this while supposing that Eva‐san is the culprit.`
+char_non: ` But that is like looking at things with one eye."`
+char_non: `"With one eye, no matter how much you squint, you can't see an object in three dimensions, right?`
+char_non: ` That's why you need another eye.`
+char_non: ` Of course, in a different position from the eye you have right now."`
+char_enj: `"............You're telling me to look at things based on the supposition that Aunt Eva isn't the culprit,`
+char_enj: ` ...or else, that it actually was a real accident...?"`
+char_non: `"Yes, yes, exactly.`
+char_non: ` When you think about something, try to look at it from different perspectives.`
+char_non: ` If you don't, you won't understand anything about how it really is."`
+char_non: `"It's the same with newspapers.`
+char_non: ` With only a single newspaper, you can only see things from the single viewpoint of the writer who wrote the article.`
+char_non: ` Sometimes it takes reading multiple papers before you can process the information rationally and in three dimensions."`
+char_non: `"......Without love, the truth cannot be {y:1:‘seen’}{n:1:seen}.`
+char_non: ` .........Mmm, that's got a nice ring to it, wahahaha."`
+char_non: `Maybe he found it amusing that a cheesy phrase like that had popped out of his mouth.`
+char_non: `{n}For a while, he laughed, looking pleased.`
+char_non: `......By that, he was simultaneously declaring that he had told everything that he knew,`
+char_non: ` and that it was about time for me to leave.`
+char_non: ` Understanding that, I got to my feet.`
+char_non: `"I understand your feelings now, Ange‐chan.`
+char_non: ` You should do as you like for a while, until you're satisfied.`
+char_non: ` ......You were six years old at the time.`
+char_non: ` You lost your family before you could even make sense of it, and I fully understand you feeling like you still don't have closure."`
+char_enj: `"..........................."`
+char_non: `"You may learn the truth, and you may not.`
+char_non: ` Eva‐san may be the culprit, and she may be a victim."`
+char_non: `"......I pray that you find the "truth" you believe in, Ange‐chan.`
+char_non: ` A journey at such a young age may be a valuable experience."`
+char_enj: `"Thank you very much...`
+char_enj: ` ......I am truly sorry to be such a bother when you are so busy, Okonogi‐san."`
+char_oko: `"No trouble, no trouble.`
+char_oko: ` What are you going to do now?"`
+char_enj: `"Well, whatever works.`
+char_enj: ` ......I've made appointments with several specialists and people related to the crime, so I plan to pay them a visit."`
+char_oko: `"I see.`
+char_oko: ` I hope you can find an answer you can accept."`
+char_non: `At that moment, company president Okonogi's secretary came in, and handed him a memo over his shoulder.`
+char_non: `He read it and looked between it and my face.`
+char_oko: `"......Ange‐chan.`
+char_oko: ` My apologies that this comes right after telling you to try going on a journey, but I have some information you should lend an ear to.`
+char_oko: ` ......It looks like you're in a bit of a nasty fix right now."`
+char_enj: `"People after my money?`
+char_enj: ` This is why money is stupid."`
+char_oko: `"Yes, but if you try to sell off the whole shebang and donate the entire sum to social welfare,`
+char_oko: ` those people already making plans for your fortune, you're gonna make their eyes pop out."`
+char_enj: `"Oh, so it's the Sumadera family.`
+char_enj: ` The arrogance of them trying to act like my guardians."`
+char_non: `I have the precedent of Aunt Eva.`
+char_non: `{n}Who would {i:ever} go under the care of the Sumadera family?`
+char_non: `They probably want, as Aunt Eva had so often threatened in the past,`
+char_non: ` to cut off my arms and legs, throw me in a warehouse, and suck the Ushiromiya family's wealth dry.`
+char_oko: `"A representative from the Sumadera family is coming here.`
+char_oko: ` They're saying to hand you over...no no, that they want to protect you."`
+char_enj: `"Representative, you say?"`
+char_oko: `"It's your aunt.`
+char_oko: ` Kyrie‐san's younger sister.`
+char_oko: ` She has said before that she thinks of you as a little sister."`
+char_enj: `"She must be kidding.`
+char_enj: ` At least call me a grandchild, you old granny."`
+char_oko: `"Judging from the context, it seems they're not planning on taking your wishes into consideration.`
+char_oko: ` I have a car waiting in the parking lot two stories underground.`
+char_oko: ` Go."`
+char_enj: `"......The Sumadera family is telling you to hand me over, right?`
+char_enj: ` Is it really alright to let me go?"`
+char_oko: `"You will definitely be someone big in the future, Ange‐chan.`
+char_oko: ` Let's call this a favor to be repaid upon your success.`
+char_oko: ` ...Go, quickly...!"`
+char_non: `After bowing silently and deeply, Ange left that place at a dash.`
+char_non: `After watching her leave, the secretary straightened her glasses and whispered.`
+char_non: `"The Sumadera family told us to stall her...`
+char_non: ` Is it alright to let her go?"`
+char_oko: `"We did stall her, more than enough.`
+char_oko: ` If they still don't make it in time, that's the Sumaderas' error.`
+char_oko: ` ......I told Ange‐chan to run for it.`
+char_oko: ` And I informed the Sumaderas that Ange‐chan was here.`
+char_oko: ` Whether she's caught or not, neither one of them will blame me."`
+char_oko: `"......Everything in this world is...love, you see...`
+char_oko: ` It's alright, she'll escape.`
+char_oko: ` After all, she's the kind of kid who can jump off a building to lose her pursuers."`
+char_non: `......Okonogi again looked down at the world below,`
+char_non: ` and muttered "yeah, that'd be beyond me..."`
+char_non: `Ange was no fool herself.`
+char_non: `She got off the elevator, and stepped out onto the third floor.`
+char_non: `A taxi in the second level of the basement?`
+char_non: `That's so overly courteous that it feels wrong.`
+char_non: ` It's probably better to decline that.`
+char_non: `But my enemies aren't fools either.`
+char_non: ` They probably have control of not just the underground parking lot, but the first‐floor lobby as well.`
+char_non: `This is such a massive building.`
+char_non: `{n}Instead of getting anxious and escaping outside, maybe it's better to stay on the inside and wait it out?`
+char_non: `No, that's no good.`
+char_non: ` If they gain control of the security room in a modern building like this, I'll have nowhere to run to.`
+char_non: `This entire building is like a massive dead end.`
+char_non: `The third floor is the business floor.`
+char_non: ` A girl like me clearly sticks out.`
+char_non: `Trying not to stand out any more than I had to, I walked at a quick pace, searching for an emergency staircase.`
+char_non: ` ......One running down the outside of the building would be ideal.`
+char_non: `I found the door to the emergency staircase.`
+char_non: `After opening that heavy door, I found the outside stairs I was hoping to see.`
+char_non: `Once outside, I immediately encountered a man smoking a cigarette, who looked like an employee skipping work.`
+char_non: `{n}After glaring at me, he quickly crushed up his cigarette and went away.`
+char_non: `It looks like there's no one below.`
+char_non: `{n}...If I'm going to escape, now is my only chance...!`
+char_non: `Just when I thought that, with an incredible squealing of the tires, a black car slid directly below me and came to a sudden stop.`
+char_non: `......It felt from the tire sounds like there were several more of them, and this one had come here to block this path.`
+char_enj: `"......Not bad, Aunt Kasumi.`
+char_enj: ` Even your niece leaving by an emergency exit gets a car sent to pick her up."`
+char_non: `Bam‐bam! The car doors opened forcefully, three men in black suits jumped out, and they looked up at the emergency staircase.`
+char_non: `......Ahhh shoot, our eyes met.`
+char_non: `"12, target found.`
+char_non: ` Northwest side emergency stairs, third floor, send support."`
+char_non: `"Ange‐sama!`
+char_non: ` Please do not move from there!`
+char_non: ` Forgive our roughness...!!"`
+char_non: `The three of them began to clamor up the emergency staircase.`
+char_non: `......They already announced that they're planning to be rough.`
+char_non: ` This is pretty bad.`
+char_non: `They've probably been ordered to bring me back by any means, with one of my arms yanked off if necessary, just so long as I'm still breathing.`
+char_non: `Clankclankclankclank!!`
+char_non: ` Their heavy, wild footsteps became a helix and began to rise from the lower floors, getting closer...!`
+char_non: `In the entrance lobby of the building, a woman was walking forwards at a leisurely pace, with seven black‐suited guards in tow.`
+char_non: `Seeing this ostentatious entrance, the security guards for the building ran up to them, asking if they had an appointment.`
+char_non: `".........How typical of Tokyo people.`
+char_non: ` You require a name to even understand the status of the person you are talking to...?"`
+char_non: `"M‐my apologies...`
+char_non: ` The policy at our company is for guests to take a securi—"`
+char_non: `"......Back down, plebeian.`
+char_non: ` I came because I was called by your president.`
+char_non: ` Call Okonogi Tetsuro here.`
+char_non: ` To think that he would call me here and then not welcome me... How typical of Tokyo people..."`
+char_oko: `"My apologies.`
+char_oko: ` Welcome to the Ushiromiya Group, Sumadera Kasumi‐san."`
+char_non: `With his secretary behind him, Okonogi dashingly appeared from the elevator.`
+char_non: `Even though both of them wore bold smiles, they were caught in a tension reminiscent of the smell of gunpowder...`
+char_kas: `".........Where is Ange?`
+char_kas: ` I came to collect my sister's darling, darling daughter."`
+char_oko: `"Strict observance of time is our motto here at the Ushiromiya Group.`
+char_oko: ` The former Chairman herself said that those who can't keep time can't keep contracts."`
+char_kas: `"......You call me all the way to Tokyo to be greeted by this mess?`
+char_kas: ` You let her go, didn't you."`
+char_oko: `"She got away...is the wording I would have preferred.`
+char_oko: ` We did stall her for quite some time, believe it or not.`
+char_oko: ` I'm not surprised she smelled a rat.`
+char_oko: ` There wouldn't have been a problem if you had come on time, Sumadera‐san."`
+char_oko: `"This is why you provincials are such a hassle, you're never ever punctual.`
+char_oko: ` Wahhaha{0}ha{0}ha{0}ha{0}ha{0}haha!"`
+char_kas: `"............What did you say just now......?`
+char_kas: ` What did you say to me...?"`
+char_non: `You couldn't sense any of Kyrie's sociability in the face of her younger sister Kasumi.`
+char_non: `She wore on her face the arrogance of the ancient Sumadera family towards the ruined Ushiromiya family,`
+char_non: ` ......as well as pride, because she didn't want anyone to notice that her family was declining so much that they couldn't ignore the Ushiromiya family's wealth.`
+char_non: `Even at a glance, it was easy to understand why Ange hated everything about her aunt...`
+char_non: `Kasumi couldn't stand even a slight insult, and while she still smiled, her eyebrows twitched.`
+char_non: `At that time, one of the men in black suits behind Kasumi whispered to her.`
+char_non: `"Ange‐sama has been found.`
+char_non: ` We are dealing with her as I speak."`
+char_kas: `"......Oh, I'm glad we made it in time.`
+char_kas: ` ......Thank you, Okonogi.`
+char_kas: ` It seems I can finally take my naughty niece home.`
+char_kas: ` ......I've been so eager to have a nice long talk with that girl in my tea room that I already have the tools ready and waiting, you know.`
+char_kas: ` Ehheheheheheheh...!"`
+char_non: `Clankclankclankclank......!!`
+char_non: `As the violence of the sound drew a helix, it rushed up at me from below, threatening to swallow me up.`
+char_non: `Of course, even if I fight them, I stand no chance of winning.`
+char_non: ` Even so, if I run into the building, it'll be like jumping into a dead end of my own accord.`
+char_non: `The enemies will increase in number with time.`
+char_non: ` If I can't do anything here, I won't have any more chances to escape.`
+char_non: `Then, three muscular black‐suits came into view below me.`
+char_non: `One, two, three.`
+char_non: ` Three people.`
+char_non: ` In other words, everyone who had gotten out of the car.`
+char_non: `If there had been just one of them, I might have been able to wait for the moment of arrival to dropkick him as hard as I could, which might have worked out.`
+char_non: ` ......But it really is impossible with three of them.`
+char_non: `Wait... Three, huh...`
+char_non: ` ......Three...might be just about doable...`
+char_non: `{n}......I can do it......!`
+char_enj: `"Whew.........`
+char_enj: ` ............haaaaAAAAHHH!!"`
+char_non: `"Wh—?!`
+char_non: ` Y‐you idiot, stop!!`
+char_non: ` Look ooooout!!`
+char_non: ` Uwaaaaaaaaaahhh...!!"`
+char_non: `"01 calling 12, do you have her, please respond.`
+char_non: ` ......What's wrong?!`
+char_non: ` Respond!"`
+char_non: `"Wh‐......what kind of person... Damn it......"`
+char_non: `.........Nggghh...`
+char_non: ` ......Ouchhh...`
+char_non: `{n}Look, see... That worked out, didn't it? It's just {i:three}.`
+char_non: `I've already experienced much higher places, after all.`
+char_non: `{n}I knew I could jump down {i:just three floors}...!`
+char_non: `It's a good thing that the car they came in was right beneath me.`
+char_non: `{n}Even if it wasn't as pleasant as a trampoline, it broke my fall, a little gently, a little roughly.`
+char_enj: `"......Well, that makes me feel wonderful.`
+char_enj: ` No one asked you to go and dent that badly."`
+char_non: `Having broken my fall, the roof of the car now had a massive dent around my body.`
+char_non: `I guess car roofs are more delicate than I thought.`
+char_non: `{n}I don't think it's because of my weight.`
+char_non: `Apparently, the three men on the stairs hadn't anticipated me jumping down.`
+char_non: `Having realized that they had been outwitted, they were hurriedly rushing back down.`
+char_non: `I have to run and escape while I have the chance.`
+char_non: `{n}As I moved my body, the car roof made buckling and popping sounds.`
+char_non: `But I had been naive.`
+char_non: ` There was no way they'd have all rushed up the stairs without leaving one person behind.`
+char_non: `There was one black‐suit left in the driver's seat of the car that had broken my fall.`
+char_non: `{n}He stuck his head out of the window, and when he realized that the thing that had fallen on him was me, he jumped out.`
+char_non: `In a rush, I jumped off the roof, but his reaction was really fast.`
+char_non: ` ......Either there was a massive reward for capturing me, or a harsh punishment for letting me get away.`
+char_non: `"15, secured, secured...!"`
+char_enj: `"Owowowow......!!`
+char_enj: ` Ghhhh, get your hands off me, let GO!!"`
+char_non: `I was mercilessly held down against the asphalt.`
+char_non: ` I was being crushed face‐down, covered and pressed down on from above.`
+char_non: `It was a hold without a trace of elegance, but it really was logical and left me absolutely no room for resistance.`
+char_non: `I tried to push back with both hands, searching for a way to resist,`
+char_non: ` but I was being pushed down solidly, and I couldn't even tear myself off the asphalt.`
+char_non: `Then another car came, squealing its tires as it slid to a sudden stop.`
+char_non: `Guess it's all over.`
+char_non: `"Gyah!!!"`
+char_non: `The man that had been crushing me let out a sharp cry.`
+char_non: ` ......He had yelled close to my left ear, making it ring.`
+char_non: ` What in the world?!`
+char_non: `The black‐suit and I were unceremoniously rolled over.`
+char_non: `After being turned face up, the first thing I saw was...an arm stuck out right in front of my eyes.`
+char_enj: `".........Amakusa...?`
+char_enj: ` Why are you here...?"`
+char_ama: `"Let's talk about that after we've lost them.`
+char_ama: ` To the car, quickly, missy...!"`
+char_non: `Amakusa grabbed my arm and easily pulled me up, spinning me around with himself as the center of gravity.`
+char_non: `The thought that it was a little like a dance lasted only the few brief moments before he flung me through the open door into the driver's seat.`
+char_non: `I climbed over the hand brake and slid into the passenger's seat.`
+char_non: `{n}Pushing me through, Amakusa also got in and took up the driver's seat.`
+char_non: `Since we had suddenly taken off while I was still on all fours, I had to kick and struggle around on the seat for a while, like a turtle flipped onto its back...`
+char_non: `Amakusa checked the rear‐view mirror for cars in pursuit, but flew into the artery of the big city without lowering his speed in the slightest.`
+char_non: `We sewed our way between cars one after another.`
+char_non: `{n}Just like a chase scene in some action movie.`
+char_non: `......Tossed about by his horrible driving, I had trouble getting myself reseated.`
+char_ama: `"Any injuries, missy?"`
+char_enj: `"All good.`
+char_enj: ` Humans are surprisingly durable.`
+char_enj: ` From now on, whenever I miss a down elevator, I'll just jump out a window instead."`
+char_ama: `"Hyahhahaha, looks like air dives are your hobby, missy.`
+char_ama: ` Still, I recommend that you bring a parachute next time."`
+char_enj: `"I'll do that, if I remember after jumping."`
+char_ama: `"Hyahhahahahaha, <cool>!"`
+char_non: `He smacked the steering wheel, guffawing.`
+char_non: `Need an explanation for this flippantly spoken man?`
+char_non: `His name is Amakusa Juuza ({p:0:天草十三}).`
+char_non: `He was originally one of Aunt Eva's guards.`
+char_non: ` If I remember correctly, she hated him for being too jokey and too chatty.`
+char_non: `He was especially young amongst the guards, but contrary to his outward flippancy, he had hopped from the 1st Airborne of the JSDF to the French Foreign Legion,`
+char_non: ` placing himself in overseas private military companies and high‐class security companies one after another, making for a pretty incredible and unique career.`
+char_non: `......But I heard that he ran off from both the JSDF and the French Foreign Legion, and that he'll be arrested if he enters France again.`
+char_non: `{n}Both of these flippant episodes were very typical of him.`
+char_non: `Apparently, the guards had been sternly told not to chat with me unnecessarily,`
+char_non: ` but I recall that didn't stop him coming to take a pass at me.`
+char_non: `Aunt Eva had particularly disliked that, and I believe she dismissed him right before she died.`
+char_enj: `"It's nice to hear that casual tone again.`
+char_enj: ` What have you been up to since getting fired?"`
+char_ama: `"Coaching people at Blackwater.`
+char_ama: ` I came back to this country for some time off, and President Okonogi offered me a high wage."`
+char_enj: `"......And you ran off again?`
+char_enj: ` What use is a man like that, I wonder."`
+char_ama: `"It doesn't count as running off as long as I come back by next week.`
+char_ama: ` I talked with him yesterday.`
+char_ama: ` I was told that you might attract some troublesome people."`
+char_enj: `"Sorry that it turned out to be exactly right."`
+char_ama: `"My name probably came up since I know you, and I've got plenty of experience when things get crazy.`
+char_ama: ` Thanks to you, it looks like this'll make for a happy break along with some pocket money."`
+char_enj: `"......Okonogi‐san employed you as my guard?"`
+char_ama: `"He probably wants you to owe him one, missy.`
+char_ama: ` ......After I got the axe, President Okonogi helped me out a bunch, you see.`
+char_ama: ` He's got me right where he wants me, can't say no to him.`
+char_ama: ` Hyahha!"`
+char_enj: `"......Seems that if you let Okonogi‐san help you out, it'll be pretty costly in the future.`
+char_enj: ` ......So, where are you planning on taking me?"`
+char_ama: `"Wherever.`
+char_ama: ` I'm employed until the weekend.`
+char_ama: ` Anything after that'll cost you extra."`
+char_enj: `"How much a day?"`
+char_ama: `"I'll cut you a deal for 50K.`
+char_ama: ` Plus expenses."`
+char_enj: `"If you stop cracking jokes, I'll double it.`
+char_enj: ` The period of employment is undetermined.`
+char_enj: ` It might be several weeks."`
+char_ama: `"...That'll be tough.`
+char_ama: ` I'll have to call the boss to get an extension on my vacation."`
+char_enj: `"I just want to investigate that day, more than anything."`
+char_ama: `"......Oh, you're talking about Rokkenjima?"`
+char_enj: `"Yes.`
+char_enj: ` What happened on that island twelve years ago?`
+char_enj: ` ......I want to investigate it with my own hands, and find a satisfying explanation."`
+char_ama: `"Will you really make any new discoveries at this point, investigating something that happened so long ago...?"`
+char_enj: `"You're right.`
+char_enj: ` Which is why this is a journey for my own self‐satisfaction.`
+char_enj: ` ......Once I'm done, I'll just throw my hands up and go to the Sumadera family."`
+char_enj: `"......Didn't Aunt Kasumi say something about wanting to treat me to some {ruby:powdered tea:matcha}?`
+char_enj: ` Maybe I'll be made to kneel on some sharp wooden blocks and clutch stones or something while we drink."`
+char_ama: `"Damn that sounds freaky, hyahhahahaha...!"`
+char_non: `"My apologies, we lost sight of her...`
+char_non: ` A single man thought to be an associate assisted in her escape.`
+char_non: ` Judging by his possession of a stun gun and his driving skills, he is no amateur."`
+char_kas: `"............I see. Thank you.`
+char_kas: ` .........I'm disappointed, Okonogi.`
+char_kas: ` Shall I take this as your answer...?"`
+char_oko: `"Letting her get away was your screwup.`
+char_oko: ` Not my problem, I'm afraid."`
+char_kas: `"............I'd dearly like to treat you to some matcha in the near future as well.`
+char_kas: ` The next time you are in Kyoto, please do stop by.`
+char_kas: ` .........Let's go."`
+char_oko: `"Huh, leaving already?`
+char_oko: ` {c:86EF9C:You could have some chazuke before you go.}"`
+char_kas: `"..................*cackle*cackle*.`
+char_kas: ` ...Hoh‐hoh‐hoh‐hoh‐ho...!!"`
+char_non: `Her back to Okonogi, she laughed at first lightly, but with an increasingly shrill and hateful tone, using that as a substitute for a sharp parting remark.`
+char_non: `At the exact moment she stopped laughing, the look on her face changed dramatically to that of a {ruby:hannya:demon},`
+char_non: ` but because her back was facing him, Okonogi never saw that expression.`
+char_non: `Okonogi watched her go, laughing coolly.`
+char_non: `{n}His secretary whispered over his shoulder.`
+char_non: `"......Is that alright?`
+char_non: ` Milady Ange is our company's primary stockholder.`
+char_non: ` If the Sumadera family becomes her guardian..."`
+char_oko: `"I get it.`
+char_oko: ` But you know, we're the one‐and‐only Ushiromiyas.`
+char_oko: ` We can't let them take us lightly."`
+char_oko: `"......Still, looks like he outmanuevered them pretty well.`
+char_oko: ` ......Now we'll just let Ange‐chan do as she pleases.`
+char_oko: ` I'm counting on you, Amakusa."`
+char_non: `"......Kasumi‐sama.`
+char_non: ` The getaway vehicle was a rental.`
+char_non: ` The license plate on display was a fake.`
+char_non: ` He's clearly a pro.`
+char_non: ` They will probably abandon the car.`
+char_non: ` Pursuit will be difficult.`
+char_non: ` ......Should we have the police chase them?"`
+char_kas: `"............Let me see.`
+char_kas: ` Shall we have them search for a runaway daughter?`
+char_kas: ` They are getting paid with our taxes, so we must have them be of some use every once in a while.`
+char_kas: ` Hoh‐hoh‐hoh‐ho............"`
+char_kas: `"You do realize I left the mansion defiantly insisting to Mother that she should leave it to me?`
+char_kas: ` Do you intend to embarrass me further still......?"`
+char_kas: `"It looks like I need to serve some matcha to every single one of you, doesn't it?`
+char_kas: ` ......Our underground tea room is cramped, so you'll have to wait in line, won't you......?"`
+char_non: `"N‐no...`
+char_non: ` We will search with everything we have."`
+char_kas: `"......Ahh, she really is a cute kid, just like Nee‐san.`
+char_kas: ` ......Especially that unrestrained, self‐centered side of her.`
+char_kas: ` ......Ahh, now I can't see her as anyone but Nee‐san."`
+char_kas: `"Ahh, I'm truly looking forward to it.`
+char_kas: ` To think I'll be able to invite Nee‐san's daughter to my tea room......`
+char_kas: ` Hoh‐hoh‐hoh‐hoh‐ho......!!"`
+char_enj: `"......The Sumadera family sure moved quickly.`
+char_enj: ` Did Okonogi‐san sell me out...?"`
+char_ama: `"You're joking.`
+char_ama: ` He's my client.`
+char_ama: ` If he'd sold you out, he wouldn't have hired me, right...?"`
+char_enj: `"...........................`
+char_enj: ` ...I guess that's true."`
+char_ama: `"......Ah, so that's why you got off the elevator at the third floor?"`
+char_enj: `"Having a car waiting in the underground parking lot was suspiciously well‐organized of him, you see.`
+char_enj: ` I thought that he might have sold me out.`
+char_enj: ` ......Although at this point, it's impossible to prove whether there was an ambush set up in the parking lot or not."`
+char_ama: `"Riiight... Damn, the poor guy.`
+char_ama: ` Looks like he didn't have your trust, missy.`
+char_ama: ` That car in the basement was mine."`
+char_enj: `"Huh......?`
+char_enj: ` He was talking about you...?"`
+char_ama: `"I freaked out when the elevator was empty.`
+char_ama: ` If I hadn't been able to listen in on their radio, who knows what would have happened by now."`
+char_enj: `"..................So...what?`
+char_enj: ` If I had obediently believed Okonogi‐san and gone to the parking lot,`
+char_enj: ` there would have been no need for me to do that jump off the third floor...?"`
+char_ama: `"Pretty much.`
+char_ama: ` Well, it turned out alright in the end."`
+char_enj: `"........................"`
+char_non: `.........Well that's something.`
+char_non: `If I hadn't suspected President Okonogi,`
+char_non: ` ......I could have easily escaped without getting caught in a tough spot.`
+char_non: `{i:"President Okonogi might have sold me out."}`
+char_non: `No, because paranoia told me that it was better to suppose that he sold me out, I assumed and {i:decided} that he did.`
+char_non: `Because I wasn't able to believe him,`
+char_non: ` my truth, regardless of his truth, became "he sold me out"......`
+char_non: `I thought back on President Okonogi's words.`
+char_non: `Can you really call truth "truth" if it isn't absolute...?`
+char_non: `Truth can change completely depending on whether you have love or not.`
+char_non: `In the end, ......perhaps this thing called "truth" doesn't exist.`
+char_non: `For each person who speaks of it, another truth is born from their interpretations—that's all there is to it.`
+char_non: `If I can't accept something that indeterminate as truth,`
+char_non: ` ......then where {i:does} the truth that I really want to find exist?`
+char_non: ` ......And is that something that can be seen with the eyes?`
+char_non: `I might be surprised to discover...that even if the truth is thrust in front of me,`
+char_non: ` ......it may be something that I cannot {y:1:‘see’}{n:1:see}...`
+char_enj: `"......Without love, it cannot be {y:1:‘seen’}{n:1:seen}, is it..."`
+char_ber: `".........This fragment of yours is very lively.`
+char_ber: ` It doesn't bore me."`
+char_enj: `"You said to me.`
+char_enj: ` You told me to search for the truth of twelve years ago.`
+char_enj: ` ......But I feel like it's not really clear to me anymore."`
+char_ber: `"What isn't?"`
+char_enj: `"......What is truth?`
+char_enj: ` There are as many truths as there are people.`
+char_enj: ` There are as many interpretations as there are people.`
+char_enj: ` And those can be twisted by opinions and changed indefinitely.`
+char_enj: ` ......Is truth really that indeterminate and vague?"`
+char_ber: `"It is.`
+char_ber: ` ......Truth is indeterminate.`
+char_ber: ` It can be like a particle, or like a wave, and it can hold conflicting forms at the same time."`
+char_ber: `"You are free to believe that the cat in the box is alive, or that it is dead.`
+char_ber: ` ......But the truth is very delicate.`
+char_ber: ` It changes its appearance just by being observed."`
+char_enj: `"You're talking about that Schrödinger's cat box?`
+char_enj: ` .........Nonsense.`
+char_enj: ` If you open the box, you learn the truth.`
+char_enj: ` Debating what happens before you open it is armchair theorizing at best."`
+char_ber: `"Yes.`
+char_ber: ` And yet, in order to deny those armchair theories, you need to open the box.`
+char_ber: ` ......If a box cannot be opened, any and all ideas about its contents are impossible to disprove.`
+char_ber: ` In other words, truth."`
+char_enj: `".........As long as truth can't be denied, it keeps its form."`
+char_ber: `"That's right.`
+char_ber: ` As long as truth can't be observed, it keeps its form."`
+char_enj: `"So, any reckless statement can suffice as truth if it can't be exposed as a lie."`
+char_ber: `"Yes.`
+char_ber: ` ......Even if they contradict each other, endless ideas can exist as truth at the same time without being negated."`
+char_enj: `".........So even something as screwed up as my family being captured by the Rokkenjima witch and imprisoned twelve years in the past for all eternity...`
+char_enj: `can exist as truth as long as we don't know what happened twelve years ago..."`
+char_ber: `"Twelve years ago, on Rokkenjima, the witch called {f:5:Beatrice} wrenched open a space for "endless" imagination, and swallowed everything up into it, using it as a cat box.`
+char_ber: ` ......Everything in the unopening box is truth."`
+char_non: `That's right.`
+char_non: ` {i:We don't know what happened on that island}, so it becomes endless.`
+char_enj: `"......So long as it remains closed, that is.`
+char_enj: ` All I have to do is wrench it open."`
+char_enj: `".........But that box was closed up twelve years ago, and I don't even know where it is.`
+char_enj: ` ......Even if I were to visit Rokkenjima, just what would I be able to learn, there on that desolated island, about what happened twelve years ago?"`
+char_ber: `"Who knows?`
+char_ber: ` What could you learn, I wonder.`
+char_ber: ` .........In any event, that is something that can only be done by the person who is able to walk around freely in the world of 1998, twelve years in the future—`
+char_ber: `the final witch, {f:5:Ange Beatrice}."`
+char_enj: `"........................"`
+char_ber: `"{f:5:Beatrice}'s game board spans the two days from October 4th to the 5th, 1986.`
+char_ber: ` In other words, this means that you are a piece who can move freely outside her game board.`
+char_ber: ` ......And even {f:5:Beatrice} cannot influence this future that lies outside the game board."`
+char_enj: `"......When you put it like that, it sounds like I'm a pretty overpowered piece."`
+char_ber: `"The future of twelve years later in which you are placed certainly is distant.`
+char_ber: ` However, the further in the future a piece is placed, the stronger the power it holds.`
+char_ber: ` ......I told you, didn't I?`
+char_ber: ` Truth changes form when it's observed."`
+char_enj: `"Come to think of it, I've heard something related to that.`
+char_enj: ` ......Even if one day, all of a sudden, a star in Centaurus were to explode,`
+char_enj: ` the light from that explosion would have to travel 4.4 light years, so it would take four and a half years to reach the Earth."`
+char_ber: `"It would.`
+char_ber: ` In other words, even if the sun in Centaurus has already died, people on Earth wouldn't be able to perceive that fact for four and a half years.`
+char_ber: ` ......Because no method of perception exists that is faster than the speed of light."`
+char_non: `At the time we learn that the sun in Centaurus exploded...`
+char_non: `...we Earth people will paint over our past four and a half years of history with a new truth.`
+char_non: `{n}We will revise history with a new fact: that it exploded four and a half years ago.`
+char_non: `However, for the four‐and‐a‐half‐year period until we learn that, despite the fact that it has already died,`
+char_non: ` the mistaken truth that the sun of Centaurus still exists will be able to exist as truth.`
+char_non: `The truth of the future wins out over the truth of the past.`
+char_enj: `".........That's right.`
+char_enj: ` By itself, the Rokkenjima accident...`
+char_enj: `would have given rise to nothing but suspicion of a murder plot revolving around Aunt Eva and the Ushiromiya estate."`
+char_enj: `"......But in the years that followed...`
+char_enj: `it was dramatized through the occult, and the plot was painted over as the Legend of the Witch."`
+char_non: `Even though it was clamored over as a murder plot at the time of the incident,`
+char_non: ` in later years, strange occult theories which claimed that it had been the work of a witch ran rampant, and began to paint over the truth of October 5th, 1986...`
+char_non: `The murder theory will probably be forgotten over time.`
+char_non: `......And only the more bizarre, impressive witch theory will continue to remain as superstition, and eventually, paint over the murder theory entirely.`
+char_enj: `"Yes,`
+char_enj: ` the false truth that exists before the light from an exploding star reaches Earth is a lot like the human murder theory."`
+char_enj: `".........The wine bottle with a letter inside that drifted ashore several years later, the "message bottle", began to retroactively paint over that theory with the occult witch theory."`
+char_enj: `"......That's right.`
+char_enj: ` No witch existed during 1986.`
+char_enj: ` The witch took control of Rokkenjima because she was "observed" several years later by us humans of the future, thanks to that message bottle...!"`
+char_ber: `"......A small revision is necessary.`
+char_ber: ` The witch could have existed even during 1986.`
+char_ber: ` As one of many endless possibilities."`
+char_enj: `"Certainly.`
+char_enj: ` Curled up in the cat box, which would disappear if observed.`
+char_enj: ` ......That's why the message bottle is so pernicious."`
+char_enj: `"...The witch tried to get out of the box.`
+char_enj: ` She made it so that she would be observed, weeding out all possibilities other than the witch theory.`
+char_enj: ` ......In other words, to make it impossible for herself to be negated, she negated all possibilities other than the witch theory."`
+char_enj: `".........Well, I'll be damned.`
+char_enj: ` So in other words, {f:5:Beatrice} satisfied the Devil's Proof with a frontal attack.`
+char_enj: ` And that was part of the witch's plan from the beginning."`
+char_ber: `"The message bottle is information observed in the future after 1986.`
+char_ber: ` .........It cannot be observed by {f:5:Beatrice} or Battler.`
+char_ber: ` ...It can only be observed by {f:5:Ange Beatrice}."`
+char_enj: `"......In truth, I didn't want to investigate the message bottle.`
+char_enj: ` ...After all, reading it would be like listening to the witch's side of the story.`
+char_enj: ` Since I've been ignoring all that mad raving about a witch theory, I thought of it as nothing more than a waste of time."`
+char_enj: `"......But Okonogi‐san told me.`
+char_enj: ` You can't see things in three dimensions with only one eye."`
+char_ber: `"You mean that at the same time as looking at it from the viewpoint of denying witches, you must also look at it from the viewpoint of accepting witches?`
+char_ber: ` ......That is the correct way to think.`
+char_ber: ` The number of viewpoints is like a denominator.`
+char_ber: ` If the number of viewpoints is 1, the mystery in the numerator doesn't decrease in the slightest.`
+char_ber: ` However, the more your number of viewpoints increases, the more the mystery begins to be divided."`
+char_enj: `"I know that.`
+char_enj: ` ......The message bottle that washed up on a neighboring island several years after the crime.`
+char_enj: ` It passed into the hands of a dilettante.`
+char_enj: ` I've made an appointment, just in case."`
+char_non: `...I was able to hear Aunt Eva's side from Okonogi‐san.`
+char_non: `Next...would be the witch.`
+char_non: ` Why not, I'll listen.`
+char_non: `{n}To what {f:5:Beatrice} has to say...!`

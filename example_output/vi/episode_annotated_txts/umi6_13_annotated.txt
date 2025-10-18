@@ -1,0 +1,754 @@
+char_bea: `"......How does it feel?`
+char_bea: ` To play on the witch side."`
+char_but: `"It feels strange.`
+char_but: ` .........I used to think that the witch side had such a huge advantage.`
+char_but: ` But now that I'm on that side, I see that that's ridiculous.`
+char_but: ` It's almost like that party game where you stick knives in a barrel."`
+char_non: `From the perspective of the human side, it feels like trying to shoot at a target hidden by mist.`
+char_non: `But from the witch side, a random shot might become fatal.`
+char_bea: `"......And the old me played several games just like that."`
+char_but: `"Yeah, it's almost like Russian roulette.`
+char_but: ` ......Even so, you stretched those games out to the limit, believing that I would eventually figure it out."`
+char_bea: `"......It may be impudent of me to ask,`
+char_bea: ` ......but just what is it that you figured out, Battler‐san?`
+char_bea: ` At the very end of your games with the old me..."`
+char_non: `It was a strange question.`
+char_non: `In the past, Beato had always been the one posing it to Battler.`
+char_non: `{n}But now that Battler had figured it out, Beato was the one asking him about it...`
+char_but: `"......It's the exact opposite.`
+char_but: ` ......In the past, only you remembered, ......and only I forgot.`
+char_but: ` But now, it's the other way around.`
+char_but: ` Only I remember, ......and only you have forgotten."`
+char_bea: `"Would you mind telling me what it is...?"`
+char_but: `".........Telling you would be...easy.`
+char_but: ` ......But I don't want to tell you.`
+char_but: ` I'm not trying to be mean.`
+char_but: ` ......I just want...to believe in a miracle myself, just a little bit."`
+char_bea: `".....................A miracle...?"`
+char_non: `Yes, this was the single miracle seed that Battler had preserved.`
+char_non: `......If Beato could remember a certain something without being told,`
+char_non: ` ......that would prove that Beato had revived in the truest sense.`
+char_non: `So he wouldn't tell her.`
+char_non: `......It was Battler's final seed...`
+char_non: `which existed because he still couldn't abandon his hope that Beato might revive.`
+char_bea: `"If you can't tell me, then I won't ask.`
+char_bea: ` ......If I have upset you, please forgive me..."`
+char_but: `"Don't worry about it.`
+char_but: ` I'm just clinging to the past.`
+char_but: ` ....................."`
+char_non: `As she watched that sad smile, Beato's chest tightened.`
+char_non: `......He was looking at her...and seeing the old her.`
+char_non: `Yes......I must become my former self...for his sake.`
+char_non: `My older sister who gets burned by spiderwebs, and I who don't, must become one.`
+char_non: `......Surely, it's more useful to him if I go on a journey to find myself now...`
+char_non: `...than if I simply watch over his game.`
+char_bea: `"How do you feel about this game?`
+char_bea: ` ......Do you think you can win?"`
+char_but: `"Yes, I believe I can.`
+char_but: ` I'll win......and end this eternal torture, just like Beato wanted."`
+char_bea: `"When it ends.........what will happen to the world...?"`
+char_but: `"Who knows.`
+char_but: ` ......I'm really not sure.`
+char_but: ` ...But that's what we wished for.`
+char_but: ` ......So, no matter what the result is, I intend to accept it."`
+char_bea: `".........I wonder what will happen to me..."`
+char_non: `Beato was...uncertain.`
+char_non: `Even she was probably no more than a piece in this game.`
+char_non: `......If the game ended,`
+char_non: ` then would she, one who had been born out of that game's rules, ......disappear...?`
+char_but: `"The game will probably disappear.`
+char_but: ` ......But now, I completely understand magic.`
+char_but: ` ......So, I'll be able to carry you off the game board.`
+char_but: ` ......I think that was your wish."`
+char_bea: `"My......wish...?"`
+char_but: `"..................`
+char_but: ` ......The rest is a secret.`
+char_but: ` ......I'll be waiting for the miracle......for you to remember all of that by yourself."`
+char_non: `After smiling bitterly for just a second, Battler laughed and told her not to worry.`
+char_non: `Apparently, it was best if she avoided talking to Battler about her previous self...`
+char_but: `"......Well then, I'll go check on my opponent for a bit.`
+char_but: ` ...I can't wait to see what kind of twisted logic that idiot thinks up next."`
+char_bea: `"The old Battler‐san did a lot of that too.`
+char_bea: ` ......My favorite was the one from the first twilight of the second game, when you said the culprit killed everyone by feeding them small bombs."`
+char_but: `"Aaaaahhh, the highlights of my dark past...`
+char_but: ` Please forget that ever happened..."`
+char_bea: `"Yes, I will try."`
+char_non: `Battler became a cloud of gold butterflies and disappeared into the darkness.`
+char_non: `Beato remained bowed until he had disappeared completely......`
+char_non: `To fill in his place, a single gold butterfly appeared......and became Beato the Elder.`
+char_be3: `"......Did you call me, little sister?"`
+char_bea: `"Yes.`
+char_bea: ` .........I want to know more about you.`
+char_bea: ` And......I want to know what the real me is like.`
+char_bea: ` I want to become like that."`
+char_be3: `"Of course, I also want to know about my future self.`
+char_be3: ` ......We revealed everything about ourselves to each other for that purpose.`
+char_be3: ` ......However, we did not become one.`
+char_be3: ` I cannot understand what we must do to become our single self."`
+char_bea: `".....................What can we do to become one......?"`
+char_be3: `"I have high hopes for the trials of Zepar and Furfur."`
+char_bea: `"You mean the miracle of magic given to the victors?"`
+char_be3: `"I wonder if that magical miracle means becoming one's full self.`
+char_be3: ` ......I will be able to attain my true form.`
+char_be3: ` You will be able to fulfill Battler's wishes.`
+char_be3: ` Battler will also be happy, and all of us will suddenly have what we want."`
+char_bea: `".........I...can't get away from this trial, can I..."`
+char_be3: `"Which means you cannot afford to lose to the other two pairs."`
+char_bea: `"......George‐san and Shannon‐san, Jessica‐san and Kanon‐san.`
+char_bea: ` ......I can only grasp happiness......by trampling over them..."`
+char_be3: `"The conditions apply equally to all.`
+char_be3: ` ......If one of the others succeeds in love, the other two pairs, including you, will be trampled over."`
+char_bea: `"......Why must the scales be so unbalanced, I wonder?"`
+char_be3: `"Unbalanced?"`
+char_bea: `"Some people will find love, others won't.`
+char_bea: ` ......So I can understand placing those two groups on the two plates of a set of scales.`
+char_bea: ` But the scales for our trial have three plates, and two must lose for one to win... It seems horribly unbalanced..."`
+char_be3: `"Who knows?`
+char_be3: ` It might mean that successful love is worth two destroyed loves.`
+char_be3: ` ......Your words do not inspire confidence, little sister.`
+char_be3: ` If you cannot put your desire to answer to Battler's expectations before your concern for the losers, victory will slip through your fingers."`
+char_bea: `".........You're right.`
+char_bea: ` ......I won't give up our victory.`
+char_bea: ` ......I don't like doing this to the others, ......but there will be no hard feelings between us."`
+char_non: `If I do lose...`
+char_non: `......I'll give my strongest blessings to whichever couple wins.`
+char_non: `So, I'll fight with all my heart and soul,`
+char_non: ` ......so that I have no lingering regrets,`
+char_non: ` ......and I'll win that miracle of magic.`
+char_ber: `"How was it?`
+char_ber: ` How did the red and blue shootout over the first twilight go?"`
+char_eri: `"I was just gathering information to start.`
+char_eri: ` Battler seemed pretty fired up."`
+char_non: `She had just returned from a fierce fight with Battler, fought using the information gained through repetition requests.`
+char_non: `It was the old, familiar kind of fight, reminiscent of the time when the red text had first appeared,`
+char_non: ` or when the blue text had first been permitted...`
+char_ber: `"And the result...?"`
+char_eri: `"First, in all cases, it was the victims themselves that constructed the locked rooms.`
+char_eri: ` Also, those locked rooms were perfectly preserved until Krauss's group broke them open.`
+char_eri: ` Also, I confirmed that during that period, all forms of interference from the outside were impossible."`
+char_non: `Erika reported this proudly as though it had been a great battle, but {f:5:Bernkastel} looked bored as she listened.`
+char_non: `After looking at her blankly for a second, {f:5:Lambdadelta} spoke her opinions frankly.`
+char_lam: `".........Wait a second.`
+char_lam: ` Doesn't that mean this locked‐room murder was perfect?"`
+char_eri: `"Wha......uh......"`
+char_non: `The victims had sealed the locked rooms themselves.`
+char_non: `And that state had been preserved until Krauss and the others had broken the locked rooms open.`
+char_non: `{n}And no one had been inside the locked rooms except for the victims.`
+char_non: `{n}And Krauss's group, the ones who had broken the room open, were not the culprits......`
+char_non: `......Erika's battle had proceeeded in this way, with her detailed repetition requests winning her several other little red truths just like these.`
+char_non: `Normally, simply collecting such vital information would have been enough.`
+char_non: `However, the witch who was her master was tired of boredom,`
+char_non: ` ......and she had been expecting a much more flashy, argument‐winning victory instead of this bland result.`
+char_eri: `"H‐however, ......this time, I don't have the detective's authority, so there's a chance that my examination of the corpses could have been in error.`
+char_eri: ` S‐so, if we suppose that a drug which mimics death was used to fool my examination, umm..."`
+char_lam: `"You mean Purupurupikopuyo?"`
+char_eri: `"N‐no, not that...!`
+char_eri: ` It's not impossible for certain well‐known drugs, such as insulin, to bring about a temporary state that mimics death.`
+char_eri: ` ......Battler did not counter that with the red truth.`
+char_eri: ` In other words, my blue truth worked...!`
+char_eri: ` I...I'd say we've started with a victory."`
+char_non: `To sum up Erika's report,`
+char_non: ` all she had done was listen to the red truths Battler had wanted her to hear.`
+char_non: `Only the information Battler had wanted to provide had been presented, and she hadn't been able to strike at any weak points.`
+char_non: `She was like a kid who had gone out shopping, then forgotten her job and only bought candy...`
+char_non: `.........However, this was all the players on the {y:0:Human}{n:0:human} side could do.`
+char_non: `Without the detective proclamation, she could only fight by collecting dull bits of information like that.`
+char_non: `......All the same, her master had been expecting more than that sort of dull fight...`
+char_non: `So, ......she had tried to give her report energetically, ......to make it seem as though they were in a superior position...`
+char_non: `But no matter how much she tried, the cold expression of her master remained merciless...`
+char_ber: `"......Your blue truth {i:worked}...?`
+char_ber: ` You mean it was too ridiculous for him to bother cutting down.`
+char_ber: ` ......Impressive powers of deduction, Great Detective..."`
+char_eri: `"I...I did try to examine the corpses with care, to the best of my abilities...`
+char_eri: ` ......However, I don't have the detective's authority, .........so we can't be certain..."`
+char_lam: `"Wait a second, weren't you the one who decided not to make the detective proclamation?`
+char_lam: ` Didn't you say you wanted to raise the stakes to make up for your disgrace last time?"`
+char_eri: `"............W‐......well..............."`
+char_ber: `"What's wrong?`
+char_ber: ` ......Are you saying you can't win against Battler without the detective's authority......?"`
+char_eri: `"N‐......not at all, my master.`
+char_eri: ` ...I...I can easily defeat an incompetent buffoon like that, even without the detective's authority...`
+char_eri: ` ......It's just......this style of fighting is a little different from what I'm used to, and I haven't gotten the hang of it yet......"`
+char_non: `Compared to other human beings, Erika would rank as extremely talented.`
+char_non: `Her knowledge and powers of memory and insight were ahead of the pack, and most likely, no human could be more suitable for the role of detective than her.`
+char_non: `However, no matter how superior she might be to other humans,`
+char_non: ` ......that didn't matter in a game of witches.`
+char_non: `In a witch's game, it's either 0 or 100.`
+char_non: `{n}In other words, everything is either the red truth, or it isn't.`
+char_non: `If a normal human's abilities were worth a 10, her exceptional power would probably rate a 99.`
+char_non: ` ......However, it could never be 100.`
+char_non: `Since it was less than 100, it wasn't absolutely certain.`
+char_non: `{n}So it didn't count as red truth.`
+char_non: `For example, ......the examination of the corpses that Erika had worried over in the fight just now.`
+char_non: `If she had performed it with the detective's authority, she could have said with 100% certainty whether they were alive or dead.`
+char_non: `However, without the detective proclamation, it was 99%.`
+char_non: ` ......There was a 1% chance that she made a mistake, and that overturned the foundation of the examination.`
+char_non: `The reason Erika had gained the detective's authority and become the Witch of Truth...`
+char_non: `...was that {f:5:Bernkastel} had supplemented her talent of 99 with an additional 1...`
+char_non: `Just because {f:5:Bernkastel} wouldn't give her that 1,`
+char_non: ` ......in the world of witches, Erika's 99 was treated exactly the same as zero...`
+char_non: `Even her talented assistant Dlanor couldn't be put to proper use without a power of 100.`
+char_non: `When working under an Erika who had lost the detective's authority, Dlanor's red longsword lost its power.`
+char_non: `Dlanor also found it vexing that she couldn't provide adequate assistance...`
+char_non: `......She had tried several times to convince Erika to use the detective proclamation, but Erika had stubbornly refused each time...`
+char_lam: `"Why not just do it? Make that detective proclamation.`
+char_lam: ` If you do, you'll be unstoppable.`
+char_lam: ` Dlanor could even use her red longsword and the Knox Decalogue."`
+char_ber: `"............Why not do it...if you want......?"`
+char_eri: `"N‐......no."`
+char_non: `There was no need for anyone to explain...`
+char_non: `By now, it was clear that Erika hadn't abandoned the detective proclamation by her own will.`
+char_ber: `"......When Battler reached the truth in the previous game,`
+char_ber: ` ......this game was already finished.`
+char_ber: ` This isn't really the sixth game.`
+char_ber: ` ......It's a finale game so that Battler can have a chance to serve as Game Master at the end.`
+char_ber: ` Everything was already decided last game."`
+char_lam: `"Yeah, pretty much.`
+char_lam: ` The games won't continue forever, and I've lost my bet with Bern.`
+char_lam: ` .........In this game, Battler will prove that he's reached the game's truth,`
+char_lam: ` and then Beato's game will be destroyed in a big victory for the {y:0:Human}{n:0:human} side.`
+char_lam: ` And a big victory for Bern too.`
+char_lam: ` ......Well, supposedly, but you look unsatisfied for some reason."`
+char_ber: `".....................Because I am.`
+char_ber: ` I didn't want such a boring victory."`
+char_lam: `"The victory you wanted was for Beato's game board to be torn to bits,`
+char_lam: ` and for Beato's true, pathetic form to be exposed, humiliated, and trampled on.`
+char_lam: ` ......But this victory of Battler's isn't quite like that, is it...?"`
+char_ber: `"......All this about love......and promises.`
+char_ber: ` ......To end the game quietly and let her rest in peace?`
+char_ber: ` ......That sort of ending would make anyone vomit."`
+char_ber: `"I didn't give Battler all that advice so that he could end things like that.`
+char_ber: ` ......I had his little sister turned to scrap meat behind his back.`
+char_ber: ` I had his parents and family killed horribly over and over again.`
+char_ber: ` That was all to spark a desire for revenge against Beato."`
+char_ber: `"And now............what kind of an ending is this...?`
+char_ber: ` Have I won?`
+char_ber: ` Of course not! ......Battler's gotten his hands on a victory that neither you nor I can stand."`
+char_ber: `"...I came all the way out here to see {f:5:Beatrice} lamely and pathetically torn to bits,`
+char_ber: ` and I endured a staggering period of boredom just for that one purpose.`
+char_ber: ` I didn't come here to sip from a.........rotten yogurt fragment like this!"`
+char_lam: `"Ahh, your angry face is wonderful too, Bern.`
+char_lam: ` ......I get it, so you wanted at least one final something to get the bad taste out of your mouth."`
+char_ber: `"It's all the fault of this moron piece screwing up last game!`
+char_ber: ` Because of you, the first game board in centuries that looked like it might be a bit of fun for me...`
+char_ber: `is all...`
+char_ber: `wasted...!!`
+char_ber: ` Filth,`
+char_ber: ` trash,`
+char_ber: ` scum!!"`
+char_eri: `"...M‐......my apologies, ...my master......`
+char_eri: ` ......I will definitely...bring you a victory, ......so please forgive me......"`
+char_ber: `"If you couldn't win with the detective's authority in the last game,`
+char_ber: ` how do you expect to defeat Battler now that he's the Game Master...?`
+char_ber: ` You don't have a chance at winning even {i:with} the detective's authority.`
+char_ber: ` ......So why bother with it?"`
+char_eri: `"I......uh............"`
+char_lam: `"Yeah, if you can't win anyway, then who needs the detective's authority?`
+char_lam: ` A certain loss becomes even more certain, big whoop."`
+char_ber: `"And therefore, if you manage to win in this even worse situation,`
+char_ber: ` ......that would be a miracle worthy of me.`
+char_ber: ` If and only if you can do that, I'll be able to forgive you."`
+char_eri: `"Y‐yes.`
+char_eri: ` ......I will surely...show you that miracle...!"`
+char_ber: `"You`
+char_ber: ` {i:wish} you could, disgusting pukespittle."`
+char_ber: `"The best you can do is take part in the worst punishment game ever for the worst game ever,`
+char_ber: ` with your only weapon, the detective proclamation, taken away from you, humiliating yourself until you have no dignity left,`
+char_ber: ` and through it all, you'll roll onto your back like a dog and beg for my affection.`
+char_ber: ` Your purpose, pukespittle, is to make me laugh."`
+char_eri: `".........uugh..."`
+char_non: `{a:c:`
+char_non: `"......Sounds like you're having a great time in here.`
+char_non: `{n}Am I interrupting?"}`
+char_non: `Gold butterflies gathered in the darkness and took the shape of Battler.`
+char_non: `Though he had just arrived, he seemed to realize immediately that the mood was dark.`
+char_ber: `".........Ah, Battler.`
+char_ber: ` I had a look at your first twilight.`
+char_ber: ` Quite impressive locked rooms.`
+char_ber: ` I'm sure you're more talented than Beato."`
+char_but: `"It's just a rehash of the locked rooms Beato made in the past.`
+char_but: ` I'll take that to be a compliment for Beato."`
+char_lam: `"It seems your fight with Erika wasn't bad either.`
+char_lam: ` Think your serial murders will move along smoothly?"`
+char_but: `"......Who knows?`
+char_but: ` My role isn't to carry out serial murders.`
+char_but: ` It's to use that process to demonstrate locked rooms that are impossible without magic,`
+char_but: ` and thereby achieve victory for the witch side and prove that I have fully understood this game.`
+char_but: ` ......No, there's one more thing."`
+char_ber: `"What......?"`
+char_but: `"To settle the score with Erika, since our previous duel ended in an even tie."`
+char_eri: `".........Battler......"`
+char_ber: `"Ev...en......tie...?"`
+char_non: `{f:5:Bernkastel} noticeably grimaced.`
+char_non: `{n}Erika averted her eyes and hung her head, timidly...`
+char_but: `"I know what you're thinking.`
+char_but: ` That wasn't a draw,`
+char_but: ` you should have won easily so it counts as a loss."`
+char_lam: `"Hey,`
+char_lam: ` it's not polite to eavesdrop."`
+char_but: `"......Look in a mirror.`
+char_but: ` It's written all over your faces."`
+char_lam: `"No way...!`
+char_lam: ` Where?!`
+char_lam: ` Hey, what's going on?!`
+char_lam: ` If you tell me it's written in ink only morons can't see, then death, death, super death for you!!"`
+char_non: `{f:5:Lambdadelta} pulled a mirror out of thin air, peered into it, and made a comical fuss.`
+char_non: ` She was apparently playing the fool in her own, special way.`
+char_but: `".........Erika."`
+char_eri: `"Wh‐......what is it?"`
+char_but: `"That storm of red and blue from you and Dlanor in the last game...was spectacular."`
+char_eri: `"......Th‐.........thanks."`
+char_but: `"What happened to Dlanor this time?`
+char_but: ` Are you by yourself?"`
+char_dla: `".........{f:5:No}.`
+char_dla: ` ......I have been waiting {f:5:here}."`
+char_non: `Dlanor had been just standing around in reserve,`
+char_non: ` hiding her presence in the dark shadows...`
+char_eri: `"Well, when she can't use her red longsword, Dlanor is just useless pukespittle.`
+char_eri: ` There's no point having her around, so I've dropped her from the action."`
+char_dla: `"............All I can do now is keep records of Lady {f:5:Erika}'s {f:5:reasoning}."`
+char_but: `"Why won't you fight with her?`
+char_but: ` Why can't you use that red longsword?`
+char_but: ` ......Erika's reasoning...and your longsword.`
+char_but: ` They were strong because they worked together."`
+char_dla: `".............................."`
+char_non: `Dlanor didn't answer.`
+char_non: ` She just glanced slightly at {f:5:Bernkastel}'s expression.`
+char_non: `......However, that glance was the same as a clear answer for Battler now.`
+char_non: `Battler fully realized the situation......`
+char_but: `"You.`
+char_but: ` You're the one who told Erika not to use the detective proclamation."`
+char_ber: `"......Oh? Whatever do you mean?"`
+char_but: `"This fight is between me and Erika.`
+char_but: ` .........We're going to fight with all we've got.`
+char_but: ` That way, we'll be able to accept it whether we win or lose.`
+char_but: ` There's no need for a puppeteer behind the scenes like you."`
+char_ber: `"......Come now, I'm no puppeteer.`
+char_ber: ` I'm just a theatergoer trying to relieve her boredom."`
+char_but: `"A theatergoer is someone who sits quietly in the stands and watches.`
+char_but: ` That's not what we call someone who jeers at the stage and threatens or manipulates the performers."`
+char_ber: `"Sorry for being an ill‐mannered patron.`
+char_ber: ` ......You might not know it, but I've already paid a huge admission fee to watch this play.`
+char_ber: ` Sorry, but I intend to enjoy it until I get my money's worth."`
+char_but: `"If you get in the way of the game's progression, I can use my authority as the Game Master to boot you out of this game."`
+char_ber: `"If you want to, go ahead.`
+char_ber: ` If you chase me out, then I'll head back with my piece, Erika.`
+char_ber: ` This game will be cancelled, and you won't be able to prove that you've reached the truth.`
+char_ber: ` ......Theatergoers are observers.`
+char_ber: ` A truth with no observers might as well be fantasy.`
+char_ber: ` ......If you want to end Beato's game, you need a theatergoer as an impartial witness."`
+char_but: `"......Our truth is between us, and that's all it needs to be!`
+char_but: ` If you're going to interfere any further, I will boot you out by force.`
+char_but: ` ......Then you can writhe around in boredom for a few centuries until you find another way to kill time."`
+char_ber: `"Then go right ahead!`
+char_ber: ` Erika, this game is over! Good work.`
+char_ber: ` ......You were completely useless.`
+char_ber: ` You weren't able to overturn the dishonor of your loss, so as promised, I'll throw you into the worst fragment...`
+char_ber: `and cast you into the depths of oblivion with the empty popcorn buckets!!"`
+char_eri: `"M‐......my master...!`
+char_eri: ` I promise...I promise I will win...I promise I can win...!!`
+char_eri: ` So please, ......let me fight Battler to the finish...!!`
+char_eri: ` I don't......want to lose and......g‐get thrown in the d‐...depths of......oblivion......`
+char_eri: `......*hic*.........*hic*......"`
+char_ber: `"......Well, I'd {i:like} to watch your battle until the end.`
+char_ber: ` ......But {i:Battler} says he'll toss me out.`
+char_ber: ` Well, any ideas, Lambda?!"`
+char_lam: `"Okay, okay......I realize you've been irritated ever since the last game, Bern, but calm down a bit.`
+char_lam: ` ......And Battler, don't provoke Bern so much.`
+char_lam: ` This kid can't control her emotions sometimes."`
+char_ber: `"Shut up...`
+char_ber: ` Who can't control her emotions...?!"`
+char_non: `{f:5:Bernkastel}, who, at one point in time, had never showed any expressions at all,`
+char_non: ` was now twisting her face into all kinds of displeased and ugly shapes.`
+char_non: `When {f:5:Lambdadelta} made fun of that,`
+char_non: ` {f:5:Bernkastel} clicked her tongue and looked away.`
+char_non: `As they say, nothing can stop poison but poison.`
+char_non: ` ......Apparently, {f:5:Lambdadelta} was the only one who could rein {f:5:Bernkastel} in.`
+char_lam: `"......Erika, you want to fight Battler, clear your name, and get Bern back into a good mood, right?"`
+char_eri: `"Y‐......yes..."`
+char_lam: `"Battler, you want this "final game" that'll prove you've found the truth...`
+char_lam: `to have a proper, tidy conclusion, right?"`
+char_but: `"......Yeah.`
+char_but: ` This is a face‐off between me and Erika.`
+char_but: ` I won't let anyone get in my way,`
+char_but: ` and I won't let anyone get in Erika's way either."`
+char_eri: `"...B‐.........Battler............"`
+char_lam: `"If both of you wish to fight, then that should be respected.`
+char_lam: ` ......Leave Bern to me.`
+char_lam: ` I'm the only one in the world who can calm that kid when she gets into a bad mood."`
+char_but: `"......You're the same sort as her, ......but at least you can be reasoned with."`
+char_lam: `"...........................`
+char_lam: ` ......You shouldn't underestimate me.`
+char_lam: ` I just like seeing Bern grimace.`
+char_lam: ` That's the only reason I've taken a liking to this game of yours.`
+char_lam: ` .........If you go on thinking I'm easy to handle, you'll get worse than burned."`
+char_but: `".........Hmph."`
+char_lam: `"Dlanor can't use her red longsword because the detective proclamation hasn't been made.`
+char_lam: ` If Erika makes that, she'll regain her power right away. Right?"`
+char_dla: `"......{f:5:Yes}.`
+char_dla: ` When that time comes, forgive {f:5:me}."`
+char_but: `"Erika."`
+char_eri: `"What...?"`
+char_but: `"Make the detective proclamation."`
+char_eri: `".....................`
+char_eri: ` ......No."`
+char_but: `"Do you really think you can beat me as I am now without the detective's authority?"`
+char_eri: `".........I...I can win......"`
+char_dla: `"......Lord {f:5:Battler}.`
+char_dla: ` ...Lady {f:5:Erika} is herself a {f:5:piece}.`
+char_dla: ` She cannot disobey her master's {f:5:orders}.`
+char_dla: ` All she can do is gather the power permitted to her......and fight for {f:5:survival}."`
+char_but: `"And Dlanor, your power can't be used at all without the detective proclamation?"`
+char_dla: `".........In order to unsheathe the Red Key, authorization is {f:5:required}.`
+char_dla: ` One of the preconditions for applying for that authorization is the detective {f:5:proclamation}."`
+char_but: `"Is there any other way to obtain that authorization besides the detective proclamation?"`
+char_eri: `"Wh‐......what are you saying...?!`
+char_eri: ` I‐if you're doing this out of pity for me, I don't need your help!"`
+char_but: `"Quiet.`
+char_but: ` You're no challenge on your own and it's boring me stiff.`
+char_but: ` So zip it, you non‐detective detective."`
+char_eri: `"......Ghh.................."`
+char_dla: `"The Red Key has an extremely close relationship with the red {f:5:truth}.`
+char_dla: ` ......If and only if a "truth" is provided, I am permitted to draw the Red Key for items that pertain to {f:5:it}."`
+char_but: `"What do you mean by a "truth"...?"`
+char_dla: `"...........................`
+char_dla: ` ......For example, ......there are Lady {f:5:Erika}'s duct tape {f:5:seals}."`
+char_but: `"Ah, ......those."`
+char_dla: `"Lady {f:5:Bernkastel} has already acknowledged that those seals are equivalent in value to the red {f:5:truth}.`
+char_dla: ` Therefore, I am authorized to draw the Red Key for truths pertaining to those {f:5:seals}."`
+char_but: `"Those caused me a lot of trouble last time,`
+char_but: ` so I had all the sticky duct tape removed from the game board this time around."`
+char_dla: `"......A splendid {f:5:move}."`
+char_but: `"............Erika was proud to be able to call herself the detective, wasn't she?"`
+char_dla: `"{f:5:Yes}...`
+char_dla: ` ......Though her only goal was to irresponsibly reveal mysteries, ......it was a matter of pride for {f:5:her}."`
+char_but: `"Then, she must really be suffering now that she can't make that proclamation."`
+char_dla: `"...............Only she could tell you {f:5:that}."`
+char_but: `"................................."`
+char_non: `Battler took a deep breath, then hung his head in thought for a time.`
+char_non: `......Erika was his enemy,`
+char_non: ` but she was the player on the {y:0:Human}{n:0:human} side, and without her, there would be no game.`
+char_non: `It had been the same way with the old Beato.`
+char_non: `Battler had one‐sidedly viewed Beato as the enemy.`
+char_non: ` However, though Beato had thought of him as the opposing player, she hadn't considered him to be an enemy on a personal level.`
+char_non: `......I will fight my rival ruthlessly in accordance with the rules.`
+char_non: `However, that doesn't mean I need to hate Furudo Erika herself.`
+char_non: `....................................`
+char_non: ` ......I will not {i:misplay} Beato's game.`
+char_but: `"Erika.`
+char_but: ` You're free not to make the detective proclamation.`
+char_but: ` So do what you want and fight me with just your {y:0:Human}{n:0:human} powers."`
+char_eri: `"I've been prepared to do that from the beginning...!"`
+char_but: `"However, you have talented people on your side.`
+char_but: ` ......Dlanor, ......Gertrude, and Cornelia.`
+char_but: ` You aren't alone.`
+char_but: ` You have allies."`
+char_eri: `"Except that they're unreliable, powerless, and useless pukespittle."`
+char_but: `"Dlanor.`
+char_but: ` ......Just like I was supported by {f:5:Virgilia} and Ronove in the past, Erika needs support as well.`
+char_but: ` I know from repeated experience that playing for the {y:0:Human}{n:0:human} side is tough."`
+char_dla: `"......{f:5:Yes}.`
+char_dla: ` I will assist her with all the power I {f:5:possess}."`
+char_ger: `"For your attention: we are in agreement."`
+char_cor: `"For your attention: know that it is our job."`
+char_eri: `"Hmph.`
+char_eri: ` You can't even use the red truth!"`
+char_but: `"Erika.`
+char_but: ` ......I will give power, not to you, but to your allies."`
+char_eri: `"Huh?!`
+char_eri: ` Wh‐what do you think you're doing...?!`
+char_eri: ` I'd rather die than receive your pity!!"`
+char_but: `"For the trio of Dlanor, Gertrude, and Cornelia,`
+char_but: ` ......Erika,`
+char_but: ` I will allow you to use three rooms' worth of those duct tape seals."`
+char_non: `To fully seal one room, multiple seals are needed to cover all the doors and windows.`
+char_non: `If he had just said "three seals", she would only be able to fully seal up one room at best.`
+char_non: `So, Battler was generous and measured them by room instead of by seal...`
+char_dla: `"......Lord {f:5:Battler}......"`
+char_but: `"As the Game Master, I will also acknowledge that these seals have the same effect as the red truth.`
+char_but: ` ......This way, you'll also be able to wield that red longsword in battles based around those seals.`
+char_but: ` Right...?"`
+char_dla: `".........{f:5:Yes}...`
+char_dla: ` .........But...are you {f:5:certain}?"`
+char_but: `"Winning against Erika when she's less than a detective is hardly a victory.`
+char_but: ` If Erika's upping the stakes, then I should have the right to do the same."`
+char_lam: `"Whew, what a man!`
+char_lam: ` Aren't you lucky, Erika?!`
+char_lam: ` Now you can use a bit of red without making the detective proclamation and irritating your master."`
+char_eri: `".........Y‐...you'll regret this...`
+char_eri: ` ......These three seals......will be your death......!"`
+char_but: `"Sounds like fun.`
+char_but: ` Come and kill me."`
+char_eri: `"......Gah.........khhhh..."`
+char_non: `Though it was only for three rooms, it was the red truth that Erika had been dying to use.`
+char_non: `Now, she finally had enough leeway to fight as she pleased.`
+char_non: `......She ground her teeth at being pitied by Battler, but her tears were not those of shame.`
+char_dla: `"......{f:5:Understood}.`
+char_dla: ` Three rooms' worth of duct tape seals, {f:5:accepted}.`
+char_dla: ` ......Regarding this matter, should we consider them as being accepted retroactively, back when Lady {f:5:Erika} received the non‐sticky duct tape from {nobr:Mrs. Kumasawa}?"`
+char_non: `Erika had borrowed duct tape from Kumasawa to make seals with.`
+char_non: `However, Battler had made it so that those were not sticky...`
+char_non: `If he made it so that there never was any problem with the stickiness of that duct tape, the transition could be made smoothly.`
+char_but: `"Sure, that's fine.`
+char_but: ` ......I'll rewrite the tale.`
+char_but: ` ......The duct tape that Erika received from Kumasawa‐san late at night on the first day was sticky enough to work as a seal,`
+char_but: ` but there was only enough left to use on three rooms.`
+char_but: ` ......I'll apply that from here on out."`
+char_dla: `"{f:5:Understood}.`
+char_dla: ` ......Lady {f:5:Erika} will also retroactively adjust her movements, starting before the discovery of the first twilight and taking into account that the application of this privilege is now {f:5:possible}.`
+char_dla: ` ......As soon as these changes affect the progression of the game, they will be reported to the Game {f:5:Master}."`
+char_but: `".........Letting you do it retroactively, even though you know which rooms the crime will occur in...`
+char_but: ` ...That gives you a pretty big advantage.`
+char_but: ` You won't have to waste tape on other rooms."`
+char_ber: `"It seems you've grown quite arrogant since becoming Game Master.`
+char_ber: ` You're having fun, aren't you?`
+char_ber: ` Giving out charity to your pathetic opponent."`
+char_but: `"Quiet.`
+char_but: ` And don't misunderstand.`
+char_but: ` ......I'm not being arrogant or going easy on her.`
+char_but: ` .........Erika, use this weapon and fight me with all your strength.`
+char_but: ` And I will crush you with all of mine.`
+char_but: ` So hold your head high as you use those three.`
+char_but: ` That is all."`
+char_non: `Battler made to leave the room with a flick of his cape.`
+char_non: `As he did, he thought he heard Erika let out a strained voice calling him to a stop.`
+char_but: `".....................`
+char_but: ` ......What is it?"`
+char_eri: `".............................."`
+char_but: `"If you have no business with me, I'm going.`
+char_but: ` Make sure you talk with Dlanor.`
+char_but: ` Don't listen to those obnoxious witches, whatever they tell you.`
+char_but: ` As long as they're on this game board, they'll obey my rules."`
+char_eri: `".........Tha‐.........thank you........."`
+char_but: `"..........................."`
+char_eri: `"...Thank you......`
+char_eri: ` ......I'll...fight with all I've got...`
+char_eri: ` I'll come at you with all my strength, .........so, ...I'll defeat you no matter what, so,`
+char_eri: ` ......so, ......if you do win against me, .........please...`
+char_eri: `......crush me with all your strength...`
+char_eri: ` *hic*......`
+char_eri: ` ......Please......don't leave......a speck of me behind.........`
+char_eri: ` ......*hic*......!"`
+char_but: `".....................`
+char_but: ` .........You got it.`
+char_but: ` ...And don't you go easy on me, either.`
+char_but: ` ......This is the final game.`
+char_but: ` I'm playing to prove to Beato that I've reached the truth.`
+char_but: ` ......At this point, who wins and who loses has no effect on that."`
+char_but: `"I've accepted you as a worthy adversary, and now I simply want to settle the score.`
+char_but: ` .........In the game, let us suspect each other over everything as enemies.`
+char_but: ` But as fellow players, let's trust each other.`
+char_but: ` ......That's how this game is supposed to be played."`
+char_eri: `"......Yes......`
+char_eri: ` ......Thank you......`
+char_eri: ` .........Thank you............uuughhu......"`
+char_non: `Battler departed into the darkness, became a cloud of gold butterflies, and vanished...`
+char_non: `{n}Erika remained behind, sobbing......`
+char_eri: `......uuughhu......*hic*......`
+char_eri: ` Just`
+char_eri: ` kidding{p:0:☆}`
+char_eri: `"You're easy pickings, you stupid man.`
+char_eri: ` ......You fell right for it and gave me the tape...!`
+char_eri: ` ......You gave...the great Furudo Erika...`
+char_eri: `......duct tape...!!"`
+char_non: `It was hard to imagine that the person who had been sobbing pathetically and this person now were the same individual.`
+char_non: ` ......That's how vile her face contorted to be...`
+char_non: `The two witches were also cackling with ugly smiles...`
+char_lam: `"I totally feel him.`
+char_lam: ` When you become Game Master, it feels like you've become God and you get all sure of yourself, you kno~w?"`
+char_ber: `".........It was the same for you, wasn't it, Lambda?`
+char_ber: ` ......You lost because you made a bonehead mistake involving walking corpses.`
+char_ber: ` .........Bonehead Game Masters, bonehead blunders, bonehead arrogance, bonehead beatings, bonehead Battler, billions of boneheads.`
+char_ber: ` *giggle*giggle*giggle*giggle*!!"`
+char_eri: `"Bonehead beatings, bonehead Battler, billions of boneheads.`
+char_eri: ` Ahahahahaha, I like the way it rolls off the tongue.`
+char_eri: ` Nice one, my master.`
+char_eri: ` *giggle*giggle*!`
+char_eri: ` Bonehead Battler, billions of boneheads, bonehead Battler, billions of boneheads."`
+char_ber: `"If that bonehead Battler honestly thinks that Erika's at a disadvantage, then it was nice knowing him.`
+char_ber: ` ......A detective proclamation isn't what you need to kill an idiot."`
+char_lam: `"Just a corner of tofu for them to hit their head on?"`
+char_eri: `"Make that {i:soft} tofu."`
+char_ber: `"Add some gochujang chili paste and you've got a snack that'd go great with some wine.`
+char_ber: ` *giggle*giggle*giggle*!"`
+char_non: `The three giggled together...`
+char_non: `It had all been an act to get the duct tape for the seals from Battler...`
+char_non: `Even though he had taken pains to ensure that the duct tape that had tormented him so much in the last game was rendered unusable in this one,`
+char_non: ` ......he had fallen for Erika's act,`
+char_non: ` ......and she had gotten what she wanted, even if it was only three rooms' worth.`
+char_non: `The illusion that Erika was at an overwhelming disadvantage was just an act.`
+char_non: `......A trap to trick Battler and make him hand over the duct tape.`
+char_eri: `"With this, I can kill Battler perfectly...!`
+char_eri: ` I figured out his moronic locked rooms long ago...!`
+char_eri: ` A perfect locked room?`
+char_eri: ` Dumb{-}aa{-}a{-}a{-}a{-}a{-}a{-}a{-}a{-}a{-}a{-}a{-}ass!!"`
+char_eri: `"I'll show you a real perfect locked room!`
+char_eri: ` And I could cry for joy at the fact that you gave me the weapon that will finish you...!`
+char_eri: ` My master! And Lady {f:5:Lambdadelta}...!`
+char_eri: ` Thank you so much for assisting with my performance!"`
+char_lam: `"It was fun.`
+char_lam: ` No need to thank me."`
+char_ber: `"......Plus I wasn't acting.`
+char_ber: ` *giggle*giggle*."`
+char_non: `Despite getting the feeling that {f:5:Bernkastel} had just said something a little curious, Erika was in too high spirits to care.`
+char_non: `That pudding‐for‐brains moron, thinking he's done something so noble!`
+char_non: `I'll make you regret it, kuhihihi!!`
+char_eri: `"Alright!`
+char_eri: ` Let's use these seals at our leisure...!`
+char_eri: ` You were a great help too, Dlanor.`
+char_eri: ` It seems that Battler trusts you, so he believes every word you say."`
+char_dla: `"..........................."`
+char_eri: `"Don't tell me your conscience is hurting.`
+char_eri: ` You little murder doll."`
+char_dla: `"............{f:5:No}."`
+char_non: `Dlanor looked at Erika in a slightly lonely way.`
+char_non: `......Then, after shaking her head slightly, her gaze turned hard, and she looked at the darkness Battler had disappeared into.`
+char_dla: `".........You knew that this was a no‐holds‐barred {f:5:fight}...`
+char_dla: ` .........Foolish, Lord {f:5:Battler}.`
+char_dla: ` This is, without a doubt, the result of your {f:5:arrogance}."`
+char_dla: `............{nobr:Mr. Battler}, ...this will prove {f:5:fatal}......`
+char_zep: `"First of all, congratulations are in order, wouldn't you say, Furfur?!"`
+char_fur: `"Yes, because we have learned that each and every one of the lovers possesses a strong will!"`
+char_non: `""This is a victory for love...!`
+char_non: ` That, we shall celebrate!!""`
+char_non: `......Everyone had long since gotten used to these two overdramatic demons.`
+char_non: `George spoke quietly with an annoyed expression.`
+char_geo: `"We'll only celebrate that after we've passed your trial and someone has been given the miracle of magic."`
+char_jes: `"I agree...`
+char_jes: ` ......We've all passed the first trial.`
+char_jes: ` What's next?`
+char_jes: ` ...I won't hold back anymore... I'll do whatever it takes..."`
+char_kan: `"......Yes. We won't lose."`
+char_sha: `"Neither will we."`
+char_geo: `"Yeah.`
+char_geo: ` ......And of course, the same goes for Battler‐kun's group."`
+char_but: `".........Of course.`
+char_but: ` I doubt anyone here is so naive that they hope to win by having the others relinquish victory."`
+char_bea: `"Right...`
+char_bea: ` ......Anyone weak enough to drop out wouldn't be qualified to be here right now."`
+char_non: `Even Beato, who seemed to be the shakiest one of the six, was strongly determined.`
+char_non: `The two demons nodded, taking note of the six's continued resolve.`
+char_geo: `"So, what's the next trial?`
+char_geo: ` Don't tell me you still haven't decided..."`
+char_zep: `"Well, we thought at least some of you would drop out."`
+char_fur: `"We didn't think that you all would remain.`
+char_fur: ` This is a happy miraculous miscalculation due to love!"`
+char_jes: `"Cram it.`
+char_jes: ` ......So?`
+char_jes: ` Are we going to play musical chairs or something to make sure someone drops out this time?"`
+char_non: `""Yes, precisely that!""`
+char_zep: `"We've decided to have this trial eliminate one group no matter what!"`
+char_fur: `"For this trial, we will borrow from the second twilight of the epitaph—"`
+char_non: `""‘Tear apart the two who are close!!’`
+char_non: ` Ahaha{0}ha{0}ha{0}ha{0}ha{0}ha{0}ha{0}ha{0}ha{0}ha{0}haha!""`
+char_kan: `"......I don't understand."`
+char_sha: `"Zepar‐sama, Furfur‐sama......what sort of trial is this?`
+char_sha: ` ......Do you mean we're going to kill each other...?"`
+char_but: `"That'd settle things quickly."`
+char_geo: `"Though it's not exactly civilized."`
+char_jes: `"Love is carnivorous."`
+char_bea: `"......We can't all just find happiness together......can we..."`
+char_geo: `"This is what they call a zero‐sum game.`
+char_geo: ` It's an economic term, but maybe you've heard of it...?"`
+char_bea: `"N‐...no, my apologies......"`
+char_but: `"In a zero‐sum game...all the wins and losses cancel out to zero.`
+char_but: ` ......In order for someone to win, someone else must be forced to lose.`
+char_but: ` ......It's the ruthless way of this world."`
+char_jes: `".........Heh.`
+char_jes: ` ......If only everyone...`
+char_jes: `could be happy.`
+char_jes: ` .........But I guess......there's no way an ideal world like that could exist."`
+char_fur: `"No, there is!"`
+char_zep: `"That is the Golden Land!"`
+char_jes: `"......The Golden Land...?`
+char_jes: ` What are you talking about......?"`
+char_but: `".........That's right.`
+char_but: ` If you reach the Golden Land, ......all love will be satisfied.`
+char_but: ` ......However, like heaven and hell, that's not a place in this world."`
+char_geo: `"That's an offer I would have to refuse.`
+char_geo: ` ......Love has meaning because we find it in this world.`
+char_geo: ` I could never support a sad lovers' double suicide where we are only united after death.`
+char_geo: ` ......I will see my love through, alive.`
+char_geo: ` I won't lose to anyone."`
+char_sha: `"......George‐san..."`
+char_non: `The door to the Golden Land is opened by solving the epitaph's riddle......`
+char_non: `It is said to be a place where love and lives are all whole and can be revived......`
+char_kan: `"We're straying from the point.`
+char_kan: ` ......Tell us about the second trial already."`
+char_jes: `"Right.`
+char_jes: ` ......What're you trying to make us do with this "tear apart the two who are close" thing...?"`
+char_zep: `"It is quite simple!"`
+char_fur: `"The only possible way to tear apart two lovers is by the sad farewell of death!"`
+char_zep: `"The second trial is to kill one of the six!"`
+char_fur: `"Of course, any lover with their partner killed is disqualified."`
+char_zep: `"In short, one pair of lovers must drop out during this trial!"`
+char_but: `"......You say "kill" so simply.`
+char_but: ` ......What are we supposed to do?"`
+char_zep: `"You can fight to the death—"`
+char_fur: `"Or you can decide by a lottery of some sort."`
+char_jes: `"Like hell we're gonna choose by drawing lots.`
+char_jes: ` Let's have a duel, fair and square."`
+char_geo: `"......Though if we do that, I imagine that Battler‐kun, who is the Game Master,`
+char_geo: ` and {f:5:Beatrice}, who is still the Golden Witch despite having no memory, ......will have a substantial advantage."`
+char_bea: `"Ah, ......w‐......well, I wonder about that..."`
+char_zep: `"Don't worry!`
+char_zep: ` For this trial, we have made everyone's powers completely equal."`
+char_fur: `"Even the Game Master, Lord {f:5:Battler}, is taking this trial on an even footing with everyone else."`
+char_bea: `"In that case, ......it's fair......"`
+char_geo: `"Is it completely and purely even?"`
+char_non: `""Yes, perfectly even!`
+char_non: ` In a one‐on‐one fight, the luck of the moment would determine the outcome!""`
+char_zep: `"As all is perfectly equal—"`
+char_fur: `"It'll probably take a while to finish a fight."`
+char_zep: `"So perhaps the trick would be to attack in advantageous circumstances?"`
+char_fur: `"Duels that take time are, of course, wonderful too!"`
+char_jes: `"Why would anyone leave it up to luck?`
+char_jes: ` .........Of course we want the fight to be in our favor."`
+char_bea: `".........In that case, ......a three‐way struggle...?`
+char_bea: ` ......Wouldn't that mean we'd all be stuck...?"`
+char_non: `Beato was the first to notice.`
+char_non: `If all six of them were truly on an even footing, and they wanted to fight so that they could win, they would have to fight as pairs and concentrate their attacks on a single person.`
+char_non: `However, if they did so, that person's partner would naturally join in to fight back as a pair.`
+char_non: `In other words, it would never end up as two against one.`
+char_non: `It would be two against two, and a battle like that could go either way.`
+char_non: `However, if that were to happen, the third pair watching all this...`
+char_non: `could team up with whichever pair they liked with no risk to themselves, defeating the opposing pair with certainty...`
+char_geo: `"Sounds troublesome.`
+char_geo: ` ......It means that it isn't to your advantage to move first."`
+char_non: `If you take the initiative to fight, it's a matter of luck.`
+char_non: `{n}If you sit and wait for the others to start fighting, it's certain victory.`
+char_non: `......The fight would never begin in circumstances like this...`
+char_kan: `"......Maybe we could just have everyone fight the person next to them one on one.`
+char_kan: ` ......Then, as soon as one fight is settled, the trial will be over."`
+char_non: `Unless everyone could abandon any naive hopes for a two‐on‐one fight,`
+char_non: ` this trial would never begin and never end.`
+char_non: `In that case, they could make a gentlemen's agreement and have everyone duel at once,`
+char_non: ` which would be no different from drawing lots, ......but at least it would be fair...`
+char_sha: `"That won't work.`
+char_sha: ` If we do that, everyone will just defend instead of fighting proactively.`
+char_sha: ` All they need to do is wait for someone to lose before they do."`
+char_non: `Shannon's point was a sound one.`
+char_non: `If both fighters just glared at each other without attacking,`
+char_non: ` then neither would lose.`
+char_non: `They would only have to wait for someone other than themselves to lose first.`
+char_non: `This brought them back to the starting point.`
+char_non: ` ......No one would fight proactively.`
+char_bea: `"In the end, no one will move, and nothing will be resolved..."`
+char_but: `".........Since we're in this mathematical situation where we all have the same strength, ......it's almost like a puzzle."`
+char_geo: `"True.`
+char_geo: ` ......Dueling would have been an interesting proposition if our strengths were unknown.`
+char_geo: ` ......However, since we've been told that we're perfectly even, a duel would be no different than rock‐paper‐scissors."`
+char_sha: `"......In that case, ......why not use rock‐paper‐scissors to decide it......?"`
+char_jes: `"Are you crazy...?! I'm not gonna do that!`
+char_jes: ` Even if someone does lose, there's no way they'd accept their loss!"`
+char_kan: `".........If they don't accept it, then they will be attacked by the four winners.`
+char_kan: ` ......In a world where all are equal, the losers will have no chance of surviving..."`
+char_but: `"True.`
+char_but: ` ......Huh.`
+char_but: ` Is rock‐paper‐scissors actually the most reasonable way to settle this?"`
+char_geo: `"It is extremely reasonable.`
+char_geo: ` However, if you were to ask me whether I'd be reckless enough to entrust my fate to a random number generator, the answer would be no."`
+char_zep: `"Please do consider that problem...!"`
+char_fur: `"This is the second trial we have set for you!"`
+char_non: `""Think, and fight to the death!`
+char_non: ` Please decide who the sacrifice will be!!""`

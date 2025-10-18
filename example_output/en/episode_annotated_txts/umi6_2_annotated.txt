@@ -1,0 +1,797 @@
+char_non: `At one time, only Beato and her fellow witches had gathered in this smoking room to chat.`
+char_non: `Now, however, an unusually large number of people were present.`
+char_lam: `"Ehheheheheh.`
+char_lam: ` I wonder what kind of game Battler's going to show us."`
+char_ber: `"......I don't care what...`
+char_ber: `as long as it's fun enough to relieve my boredom as I crush it."`
+char_eri: `"Leave everything to me, my master!`
+char_eri: ` I will perform to my fullest and give you the results you desire!"`
+char_ber: `"Yeah, you'd better.`
+char_ber: ` ......I kept making strange faces all the time last game thanks to you...`
+char_ber: ` Thought I might start getting wrinkles."`
+char_eri: `"Th‐there's no need to worry.`
+char_eri: ` The beauty of your face is without peer, no matter how wrinkly it may get."`
+char_ber: `"........................!!!"`
+char_lam: `"Eheheheh!`
+char_lam: ` It's rare to see Bern in such high spirits.`
+char_lam: ` Beato's game board really is something else."`
+char_dla: `"......How sad it is that the master of this game board is no longer with {f:5:us}."`
+char_lam: `"A tiger dies and leaves behind its hide.`
+char_lam: ` Looks like Beato has died and left behind her game."`
+char_ber: `"Even though chess still exists, no one knows the name of the person who invented it."`
+char_lam: `"Oh, you're right!`
+char_lam: ` Kyahahaha, poor game creato~rs!"`
+char_eri: `"Come to think of it, Battler‐san is really keeping us waiting, isn't he?`
+char_eri: ` Is he still setting up the sixth game?"`
+char_dla: `"......Gertrude.`
+char_dla: ` How are Lord {f:5:Battler}'s preparations {f:5:progressing}?"`
+char_ger: `"For your attention: I beg to inform you of the following.`
+char_ger: ` ......Know that he will be finished very soon."`
+char_eri: `"He must have a lot of confidence in what he's creating to keep us waiting this long.`
+char_eri: ` ......He really humiliated me in front of my master last time.`
+char_eri: ` I'll defeat him no matter what it takes...!`
+char_eri: ` And you in particular! Make sure you don't screw up again...!"`
+char_cor: `"......I will meet the challenge with all of my strength."`
+char_non: `The previous Game Master, {f:5:Lambdadelta},`
+char_non: ` had confirmed that Battler understood everything about Beato's game.`
+char_non: `However, in order to prove it,`
+char_non: ` Battler would have to run this game by himself and carry it through to completion.`
+char_non: `In other words, if Erika could crush this game of Battler's,`
+char_non: ` she would, in effect, wipe away the dishonor of that last game.`
+char_non: `Though Erika was chomping at the bit to get started,`
+char_non: ` it was taking Battler quite some time to show himself.`
+char_non: `Then, a swarm of gold butterflies swelled out of nothing and formed a human shape.`
+char_non: `From the shape of that familiar dress, everyone immediately realized who it was.`
+char_eri: `"Ah, look, it's {f:5:Beatrice}‐san.`
+char_eri: ` And I thought you'd died and disappeared last time."`
+char_ber: `"......Beato the player is the one who disappeared.`
+char_ber: ` This is probably just a piece...Battler's piece."`
+char_dla: `"Even if she is a piece, it does not change the fact that it is {f:5:her}."`
+char_non: `{f:5:Beatrice} gave an elegant curtsy as she appeared.`
+char_non: `This humble entrance was so vastly different from her usual high‐pitched laugh...`
+char_non: `that it created a sense of tension as they waited for the start of the sixth game to be announced at last...`
+char_bea: `"Father will be here very soon.`
+char_bea: ` I ask that you wait for just a short while longer......"`
+char_lam: `"...............`
+char_lam: ` ...Aha.`
+char_lam: ` Father? What's that?`
+char_lam: ` This game's new twist on things?"`
+char_non: `Not only had Beato started talking in an unusually polite manner,`
+char_non: ` she had also used the word "Father"...probably referring to Battler.`
+char_non: `For an instant, everyone was stunned into silence,`
+char_non: ` but they quickly realized that this was part of something bigger, and they grinned.`
+char_non: `Beato wasn't the type who could keep up this kind of act for long.`
+char_non: `It would probably fall apart in a few seconds, leaving her laughing and cackling rudely at everyone.`
+char_non: `Erika, who was itching for a fight, went for Beato almost at once.`
+char_eri: `"I never expected that incompetent Battler‐san...`
+char_eri: `to reach the truth of your game."`
+char_bea: `"......It must be Father's talent that led him to his profound understanding.`
+char_bea: ` He really is clever."`
+char_eri: `"...............`
+char_eri: ` You're pretty lucky, aren't you?`
+char_eri: ` If Battler hadn't become the Game Master, you would never have revived again.`
+char_eri: ` You certainly have the luck of the devil."`
+char_bea: `"......The devil?"`
+char_eri: `"In any case,`
+char_eri: ` I'm going to pay you back in full for last time.`
+char_eri: ` You're just one of Battler's delusions, fantasies... I'll erase every part of you and knock you down into the abyss of oblivion."`
+char_bea: `"Well, {ruby:watashi:I} also intend to hold my own.`
+char_bea: ` ......I, um, look forward to having a good, clean fight."`
+char_eri: `"...........................???"`
+char_non: `By this point, everyone realized that something weird was going on.`
+char_non: `There was no doubt that the face, the dress, and the hair were all {f:5:Beatrice}'s.`
+char_non: `......However, ......her expression was different.`
+char_non: `Even though she had Beato's face, Beato would never show anyone an expression like that.`
+char_ber: `"....................."`
+char_lam: `"......Just who...are you?"`
+char_non: `There was a heavy silence.`
+char_non: `......{f:5:Lambdadelta} spoke for everyone there.`
+char_non: `At first, Beato wore a smiling yet confused expression.`
+char_non: ` ......However, when she realized that the mood had gone suddenly stiff, her expression finally darkened, and she hung her head.`
+char_eri: `"Who......are you?"`
+char_dla: `"......You appear to be Lady {f:5:Beatrice}...`
+char_dla: `...but is that {f:5:true}...?"`
+char_non: `Even Dlanor was forced to ask despite the rudeness of the question.`
+char_non: `That was how much...`
+char_non: `this woman...`
+char_non: `who appeared to be Beato...`
+char_non: `was not.`
+char_bea: `".........Am I somehow different from the {f:5:Beatrice}...`
+char_bea: `...that all of you were expecting?"`
+char_lam: `"What......are you talking about?"`
+char_eri: `"Wait a second,`
+char_eri: ` don't tell me you have amnesia or something...?"`
+char_bea: `"I, ...I was only born recently, so I have no memories at all.`
+char_bea: ` ......B‐but I...!`
+char_bea: ` I'm studying hard...in order to become the {f:5:Beatrice} you all expect—"`
+char_but: `{a:c:`
+char_but: `"Beato.`
+char_but: ` ......I thought I told you to stay in your room."}`
+char_but: `Battler's voice came out of nowhere.`
+char_but: `......His tone was very slightly cold.`
+char_but: `{n}Beato's expression looked like that of a young girl being scolded.`
+char_but: `With a swirl of gold butterflies,`
+char_but: ` ......Battler appeared.`
+char_but: `His dignified bearing and appearance were fitting for the ruler of this game.`
+char_but: `......However, his expression was gloomy...`
+char_but: `and his gaze was directed at Beato.`
+char_but: `"......Go back to your room.`
+char_but: ` You aren't supposed to be here."`
+char_bea: `"I, ...I just wanted to help you however I could, Father......"`
+char_but: `"Go. To your room."`
+char_non: `He spoke both softly and forcefully.`
+char_non: ` Battler didn't leave her any room for debate.`
+char_non: `Beato hung her head and curtsied as she prepared to leave the room...`
+char_but: `"Also."`
+char_bea: `"Y‐yes, what is it, Father?"`
+char_but: `"......My name is Battler.`
+char_but: ` ...Never call me by another name again."`
+char_bea: `"...Y‐`
+char_bea: `.........yes."`
+char_non: `Beato melted into a swarm of butterflies and disappeared.`
+char_non: `This was the first part of the tale with Battler as the Game Master.`
+char_non: `The witches had all expected him to come forward with some flashy, big developments, ...so they were all fairly confused.`
+char_non: `......Their mouths were still hanging open.`
+char_ber: `"......This is an unusual approach."`
+char_but: `"Pardon me.`
+char_but: ` ......Please forget what you saw just now."`
+char_eri: `"Hmph, so, are you trying to trick us with this?`
+char_eri: ` You're scheming to give us the wrong impression, like another North Wind and the Sun strategy, aren't you?"`
+char_dla: `"......Is there something {f:5:wrong}?"`
+char_but: `"Don't worry about it.`
+char_but: ` It has nothing to do with you people."`
+char_lam: `"I see.`
+char_lam: ` Then it doesn't matter.`
+char_lam: ` Alright, Battler! Please start up the new game right away!`
+char_lam: ` You've kept us waiting so long, it's gotten totally boring!"`
+char_but: `"......Sure.`
+char_but: ` Let's start the sixth game.`
+char_but: ` ......Erika, and you too, {f:5:Bernkastel}.`
+char_but: ` This will be my tale, proof that I've reached the truth about Beato.`
+char_but: ` ...{f:5:Lambdadelta}.`
+char_but: ` Please oversee this game, as a former Game Master."`
+char_lam: `"Sure, looking forward to it. What's the title?"`
+char_but: `"......‘Dawn’.`
+char_but: ` ...As in, the Dawn of the Golden Witch."`
+char_ber: `"Of course, the winter sun is quick to sink back below the horizon."`
+char_eri: `"Of course, my master.`
+char_eri: ` I'll drag it back down for you right away.`
+char_eri: ` At least your title is <good>, Battler‐san. I'll give you that much."`
+char_but: `"I'm glad you like it.`
+char_but: ` ...Then let's get started.`
+char_but: ` The sixth game will now begin."`
+char_non: `Battler solemnly announced the start of the game.`
+char_non: `......Compared to his fired‐up attitude at the end of the last game, where he and Erika had sworn to settle everything next time,`
+char_non: ` he was extremely quiet now......`
+char_fea: `"......Ange.`
+char_fea: ` Beato seems very different from the way she was before."`
+char_enj: `"I'm surprised too.`
+char_enj: ` ......I don't have a clue what's going on.`
+char_enj: ` In fact, I don't even get why Beato's revived in the first place.`
+char_enj: ` I just finished reading it a little while ago, ......but at the end of the previous tale,`
+char_enj: ` didn't she die just before Onii‐chan reached the truth?"`
+char_fea: `"There are two kinds of death in this world.`
+char_fea: ` ......One of them is when a piece is taken from the game board.`
+char_fea: ` This is only a death within the bounds of the game, and these lives can revive over and over again each time you start a new game."`
+char_enj: `"......And that's why the witches are so merciless when it comes to taking those lives..."`
+char_non: `To the witch players,`
+char_non: ` the lives of those characters who appear on the game board are no different from pieces on a chess board that take other pieces and get taken.`
+char_non: `After all, these pieces will be set up again when the next game starts.`
+char_fea: `"Maria's Sakutarou is a prime example of these."`
+char_enj: `"......Sakutarou is Onee‐chan's piece...?"`
+char_non: `Yes, ......that does make sense.`
+char_non: `On the game board that represents the inside of Onee‐chan's head, Sakutarou certainly does exist,`
+char_non: ` and is a piece which always stays by her side.`
+char_non: `Though he's nothing more than a stuffed animal in the real world,`
+char_non: ` on Onee‐chan's game board, he is a full piece, no different from any other piece.`
+char_enj: `"But, ......I wonder.`
+char_enj: ` ...On the witches' game board, it's easy to revive a piece, right?`
+char_enj: ` ......But Onee‐chan was unable to revive Sakutarou in her world."`
+char_fea: `"......That's because she lost that completely unique stuffed animal that was his vessel.`
+char_fea: ` Because of this, the conditions for that piece's existence were violated, and it became impossible to revive him on Maria's game board.`
+char_fea: ` ......The only reason you were able to revive Sakutarou on the game board was because you once again satisfied the conditions for his existence, correct?"`
+char_enj: `".........True."`
+char_non: `Maria onee‐chan...`
+char_non: `was only unable to revive him because she had lost the stuffed animal that was his vessel.`
+char_non: `......If, like my family on Beato's game board,`
+char_non: ` she hadn't needed a "vessel" for him, she would have been able to revive him as often as she wanted.`
+char_enj: `"Got it.`
+char_enj: ` ......I see that Sakutarou might be considered Onee‐chan's piece.`
+char_enj: ` At least, as long as his vessel was okay, he could have been revived over and over again."`
+char_fea: `"Correct.`
+char_fea: ` As long as the vessel is safe, it can be revived over and over again.`
+char_fea: ` That's what the life of a piece is like..."`
+char_enj: `"......That's the first kind of death in this world.`
+char_enj: ` ......What's the second?"`
+char_fea: `"That's the death of beings outside the game board.`
+char_fea: ` To continue with the Sakutarou example, this would be like Maria's death."`
+char_enj: `"Not the piece,`
+char_enj: ` ......but the real Onee‐chan's death, right?"`
+char_fea: `"It doesn't have to be her death.`
+char_fea: ` Loss of interest or concern would have the same effect.`
+char_fea: ` ......When Maria grows up from playing with stuffed animals, then "Maria the game player" will die.`
+char_fea: ` It's as quick and easy as turning off the switch on a TV when you get bored of it."`
+char_enj: `".........I see.`
+char_enj: ` In that case, "Beato the player" completely gave up on winning during the last game,`
+char_enj: ` ......so she died and vanished.`
+char_enj: ` ...Which means that if Beato thinks she has a chance of defeating Onii‐chan again, she'll come back to life, right?"`
+char_fea: `"Logically, that is true.`
+char_fea: ` It's the same for people, witches, and even gods.`
+char_fea: ` If they lose interest and concern, they can die at any time.`
+char_fea: ` And if they regain that interest, they can revive at any time.`
+char_fea: ` ......However, though the concept of time does not exist in the world of gods, who can revive whenever they want,`
+char_fea: ` time shoots by like an arrow in the human world, and it is not so easy there..."`
+char_enj: `"That's true.`
+char_enj: ` Skipping school for one day might not be a problem, but if you skip for three days in a row, it'd be really hard to convince yourself to go back."`
+char_fea: `"And what if that stretched out for a month, a year, a decade?`
+char_fea: ` What if it lasted for a thousand years, like the world of witches?"`
+char_enj: `"......I see.`
+char_enj: ` If you skipped for that long, it would mean your "death" as far as society is concerned.`
+char_enj: ` ......If you remained dead for that long,`
+char_enj: ` not only would you be unable to catch up on all you missed in the world at large, you'd also lose any motivation you might've had when you left."`
+char_enj: `"......So, even though you'd be alive, you could say that you'd died once.`
+char_enj: ` You would never again......be able to regain the self that you once were. It would never revive."`
+char_fea: `"Beato lost any chance or hope of winning.`
+char_fea: ` ......Even though she knew this, she pretended not to and kept on fighting for many, many games.`
+char_fea: ` So, Beato will not return.`
+char_fea: ` Her hopes were crushed.`
+char_fea: ` She's spent all of the willpower that she might have used to regain the will to fight.`
+char_fea: ` Therefore,`
+char_fea: ` ......`
+char_fea: `{p:1:that {f:5:Beatrice} will never revive again}."`
+char_non: `That Beato, who just sat around the whole time with empty eyes in the fifth game...`
+char_non: `...must have been her corpse.`
+char_non: `She had managed to remain on the game board despite it all,`
+char_non: ` ......but then even that corpse was wiped away...`
+char_non: `If Beato had been the Game Master at that time instead of {f:5:Lambdadelta},`
+char_non: ` the game board itself would have vanished at that moment, and everything would have ended.`
+char_non: `Come to think of it, Beato started to lose the will to fight back near the end of the fourth game.`
+char_non: `When Beato loses her will to fight, ......the world of this game disappears.`
+char_non: `However, the witches wanted to keep playing in this game board world,`
+char_non: ` so {f:5:Lambdadelta} bound Beato in place with the curse of that shackle.`
+char_non: `She used that shackle to make sure that the game board wouldn't disappear,`
+char_non: ` even if Beato did lose the will to fight.`
+char_non: `In chess, this would be the equivalent of removing the set time limit for each turn,`
+char_non: ` making it endless.`
+char_non: `However, simply having the game endlessly paused on Beato's turn would cause the witches to die from their illness of boredom.`
+char_non: `That's why {f:5:Lambdadelta} took the position of Game Master.`
+char_non: `......Starting then, Beato's existence was no longer one of the conditions necessary for the game to exist.`
+char_non: `That's probably why the shackles binding her to the game board were released.`
+char_non: `And that explains why she disappeared in the fifth game...`
+char_enj: `"......So,`
+char_enj: ` when Onii‐chan managed to reach the truth,`
+char_enj: ` ...it was one game too late for him to tell Beato about it."`
+char_fea: `"The fifth game was a form of charity on {f:5:Lambdadelta}'s part.`
+char_fea: ` ......She merely showed Battler some mercy as the Witch of Certainty, acknowledging his strong desire to reach the truth no matter what..."`
+char_enj: `".........How can you call that charity?`
+char_enj: ` It's just those fickle witches killing time.`
+char_enj: ` ......Let's get back to the point.`
+char_enj: ` So, that means this weird Beato isn't the player Beato.`
+char_enj: ` She's just a piece Beato."`
+char_fea: `"Yes.`
+char_fea: ` ......And if that is so, you would expect her to turn out as the Beato everyone knows well.`
+char_fea: ` ......That should also be the kind of Beato that Battler wants..."`
+char_enj: `".....................`
+char_enj: ` ......You mean,`
+char_enj: ` ...he wasn't satisfied with just a doll?"`
+char_non: `When playing with dolls,`
+char_non: ` one can project the personality they most desire onto the doll.`
+char_non: `......However, since you are acting out their part, nothing unexpected can ever happen.`
+char_non: `You cannot hope for any unanticipated happiness.`
+char_non: `In the human world, there is nothing so boring as predictability.`
+char_non: `That's why, though a doll can become a person's best friend in the world,`
+char_non: ` ......people eventually get bored and outgrow them...`
+char_non: `Onii‐chan only wants the real Beato.`
+char_non: `He couldn't bear having a doll that he could only make act like Beato...`
+char_fea: `".........A Beato born as Battler's piece...`
+char_fea: `would probably move exactly according to Battler's wishes."`
+char_enj: `"She is a piece, so that's only natural.`
+char_enj: ` Pieces move according to their player's directions.`
+char_enj: ` ......And they are incapable of moving in any other way.`
+char_enj: ` ......I see what it is Onii‐chan wants.`
+char_enj: ` Then, just who is this weird Beato?"`
+char_fea: `"......Battler might be trying to revive Beato in the truest sense.`
+char_fea: ` ......It is the never‐dying dream held by the children of man."`
+char_enj: `"You just used the red to say that wasn't possible."`
+char_fea: `"......{i:That Beato} has no chance of reviving.`
+char_fea: ` However, that doesn't mean that it is impossible to create "Beato" again...`
+char_fea: ` Have you forgotten?`
+char_fea: ` I believe that {f:5:Bernkastel} herself revealed Beato's true form at the end of the first game..."`
+char_enj: `"........................`
+char_enj: ` ......Now I remember.`
+char_enj: ` ...She said something about how Beato exists as the incarnation of the rules."`
+char_fea: `"Rules and information, brought together,`
+char_fea: ` ultimately took the form of the witch known as {f:5:Beatrice}.`
+char_fea: ` If that pattern is followed once more, the same {f:5:Beatrice} will be born again,`
+char_fea: ` and perhaps one could call that a resurrection..."`
+char_enj: `".........In other words, that weird Beato...`
+char_enj: `...is like an egg of Beato, ...or else a chick."`
+char_fea: `"That interpretation is probably accurate...`
+char_fea: ` ......In short, this Beato is a chick that might become that Beato."`
+char_enj: `"And that means,`
+char_enj: ` .........this pure and lovable kid will eventually grow into that screwed up, crazy witch."`
+char_non: `In other words, that Beato is a baby version of the Beato we all know.`
+char_non: `So, just like how no person is born evil,`
+char_non: ` ......the newborn Beato isn't evil either.`
+char_non: `Even though she really is a different person, .........if you measure her by her basis...her soul...`
+char_non: `...then maybe you really could call this a resurrection.`
+char_non: `......However, ......this reality can't possibly be easy to accept.`
+char_non: `Though she may technically be Beato herself,`
+char_non: ` ......she is also, without a doubt, ......a different person.`
+char_non: `And that way she acts...would make anyone feel as though something's out of place......`
+char_fea: `"How entertaining...`
+char_fea: ` ......Hearing you read aloud is far from boring."`
+char_enj: `"......I wonder if you even really need someone to read aloud for you.`
+char_enj: ` ...It looks like you already know everything."`
+char_fea: `"I only reached that thought because I am engaged in a conversation with you.`
+char_fea: ` ......My thoughts are more numerous than the stars in the sky.`
+char_fea: ` I only appear to know everything to a child of man like you.`
+char_fea: ` ......However, without you here, I am nothing but a weak, sickly person without even the power to think..."`
+char_enj: `"If you'd just said that in the first place, I'd have agreed to read for you a lot more easily."`
+char_fea: `"......My mood just happened to improve.`
+char_fea: ` ...Don't get an over‐swelled impression of yourself.`
+char_fea: ` I think of your life as nothing more than a leaf one may lose after using it as a bookmark..."`
+char_enj: `"‘Please continue reading’,`
+char_enj: ` is how I choose to interpret that.`
+char_enj: ` OK?"`
+char_fea: `"Heh......`
+char_fea: ` Far from boring.`
+char_fea: ` ...You really do make an excellent miko."`
+char_non: `{f:5:Featherine} rocked back in her rocking chair and looked up at the ceiling,`
+char_non: ` laughing as though the conversation itself was pleasant for her.`
+char_non: `Ange was slowly figuring out how to deal with this strange witch.`
+char_non: `......This person was also...bored.`
+char_non: `When a sick person has been in bed for a long time and gets too bored, they sometimes act in a rebellious way.`
+char_non: `{n}On the other hand, they also get a little bored of being treated kindly all the time.`
+char_non: `She may want to be respected for her superiority,`
+char_non: ` but it's probably more interesting for her when she's spoken to a little rudely.`
+char_non: `......What a coincidence.`
+char_non: ` That's exactly how I used to be.`
+char_enj: `"Anyway.`
+char_enj: ` ......From what we learned in the fourth game, there's no doubt that there was some kind of bad blood between Beato and Onii‐chan in the past.`
+char_enj: ` Learning about this Beato might give us a key towards finding the truth."`
+char_fea: `"It does seem so.`
+char_fea: ` ......It has caught my interest as well.`
+char_fea: ` ...Let us read her tale too."`
+char_enj: `"Oh, sure, as you wish, my master."`
+char_non: `Ange raised her hands like a conductor, and the bookshelves in this bizarre study responded.`
+char_non: `......Once again, several books floated out and began to swirl around Ange......`
+char_non: `Kinzo's study is the room belonging to the master in the {y:0:Human}{n:0:human} world.`
+char_non: `So, this study in the world of nonhumans belonged to the master of the game board...`
+char_non: `...and was a place where he could look down upon the {y:0:Humans}{n:0:humans}...`
+char_non: `Therefore, it was understandable that one might mistake the imposing, robe‐clad man in the center of the study for Kinzo,`
+char_non: ` if only for a second.`
+char_non: `It wasn't Kinzo.`
+char_non: `......It was Battler, the one who had taken up the position of Game Master,`
+char_non: ` and who had become the new territory lord of this world.`
+char_but: `"................................."`
+char_non: `Around Battler was a swirl of glowing fragments, sparkling like the night sky,`
+char_non: ` ......and on the floor was what appeared to be a red magic circle.`
+char_non: `To an outsider, it would have appeared to be nothing more than an incomprehensible geometric shape.`
+char_non: `But to Battler, who stood at its center,`
+char_non: ` it was the outline for a new tale...`
+char_non: `A new line grew across the magic circle, following Battler's gaze.`
+char_non: `Then, at the instant it connected with a complicated symbol, the entire magic circle flashed brightly.`
+char_but: `"......So,`
+char_but: ` ......how does it look?"`
+char_gen: `"It is splendid, my lord.`
+char_gen: ` ......The sixth game is complete."`
+char_non: `As Battler wiped his forehead and finally relaxed,`
+char_non: ` Genji, who was standing behind him and watching over his every move, nodded deeply in response.`
+char_but: `"......I always thought being a Game Master meant you could make the tale however you want,`
+char_but: ` ......but this is seriously harder than I thought it'd be."`
+char_gen: `"You must write up multiple tales and make the inner and outer sides of the story match.`
+char_gen: ` ......And yet, you have displayed such skill, it is hard to believe that this is your first time.`
+char_gen: ` ......I believe even Erika‐sama will be satisfied with this game."`
+char_but: `"Well, hopefully it matches that great detective's tastes.`
+char_but: ` ......Still, ...I've got to honestly respect Beato now.`
+char_but: ` ...I can hardly believe that she managed to create such complicated stories so easily."`
+char_gen: `"......It was not easy.`
+char_gen: ` ......{f:5:Beatrice}‐sama spent a long, long time deliberating, and each time she created a tale, she would worry over various contradictions.`
+char_gen: ` She was constantly battling with logic errors."`
+char_but: `"Logic errors?"`
+char_gen: `"That is when the two sides of the tale do not meet, creating a contradiction.`
+char_gen: ` ......When this happens, it becomes a fatal violation of the rules known as a logic error, and the game board will immediately collapse and be destroyed.`
+char_gen: ` It is the greatest and worst form of error that the witch side can make, and one which must always be avoided."`
+char_but: `"And Beato...`
+char_but: `got close to bumping into those several times in her games...?"`
+char_gen: `"......She fought with them every time she created a game.`
+char_gen: ` ...I believe it grew even more difficult for her as you became a more effective opponent."`
+char_but: `"............So,`
+char_but: ` ......do you think this game I've made...`
+char_but: `...is good enough to show Beato?"`
+char_gen: `"......Yes.`
+char_gen: ` ......Of course."`
+char_but: `"...............`
+char_but: ` ......Has Beato...`
+char_but: `still not woken up?"`
+char_gen: `"..........................."`
+char_but: `"It's been a while since her body was formed as a personification of the rules.`
+char_but: ` Is she still not awake...?"`
+char_non: `After remaining silent for a while longer, Genji answered.`
+char_gen: `"......She woke up three days ago.`
+char_gen: ` You were concentrating on the construction of the sixth game, so I decided to wait before telling you...`
+char_gen: ` My sincere apologies..."`
+char_but: `"Oh, really?`
+char_but: ` Yeah, I'll bet she's still all drowsy after sleeping so long.`
+char_but: ` I've really wanted to show her my game!`
+char_but: ` No, it's more than that, I have to show her my game.`
+char_but: ` I need to tell her that I've understood everything."`
+char_non: `Battler's face broke into a smile.`
+char_non: `There was no trace in his expression of the hatred he had once felt towards Beato for murdering his family...`
+char_enj: `"......In a way,`
+char_enj: ` ...that was the final mystery of the fifth game."`
+char_fea: `"Yes.`
+char_fea: ` ......When Battler reached the truth, there was a great change in his impression of Beato."`
+char_enj: `"Does that mean it's fair to assume that there really was some kind of connection between Onii‐chan and Beato,`
+char_enj: ` and that he forgot all about it...?"`
+char_non: `However, Battler suspected this in the fourth game and asked Beato about it.`
+char_non: `And within the story,`
+char_non: ` this was denied by the red truth:`
+char_non: ` "Six years ago, no person called {f:5:Beatrice} existed for Battler"...`
+char_fea: `"......We can read this as saying that Beato did not exist six years before,`
+char_fea: ` or it could simply mean that she had no connection to Battler at that time.`
+char_fea: ` However, either way, Battler did not visit Rokkenjima at all for the next six years..."`
+char_enj: `"October 4th, 1986 should have been the first time {f:5:Beatrice} and Onii‐chan met.`
+char_enj: ` ......If so, why was there already some kind of bad blood between them?`
+char_enj: ` I don't have a clue what it means."`
+char_fea: `"......That "Ushiromiya Battler's sin", which Beato questioned Battler about in the fourth game,`
+char_fea: ` might give us a clue.`
+char_fea: ` ...The result of that might have been {f:5:Beatrice} herself."`
+char_enj: `"The result?`
+char_enj: ` The result of Onii‐chan's sin was...Beato...?"`
+char_non: `That almost sounds as though...`
+char_non: `Onii‐chan created the witch called {f:5:Beatrice} himself...`
+char_fea: `"Almost as though...`
+char_fea: `...{f:5:Beatrice} was Battler's piece."`
+char_enj: `"......Huh...?"`
+char_fea: `"Six years earlier, Battler committed a sin.`
+char_fea: ` Because of that sin, people died.`
+char_fea: ` The killer was {f:5:Beatrice}.`
+char_fea: ` ......If you consider the possibility that everything is connected to Battler's sin six years before,`
+char_fea: ` ......then the one who created {f:5:Beatrice} was Battler himself.`
+char_fea: ` I thought it sounded almost as though she was Battler's piece..."`
+char_enj: `"I don't get it.`
+char_enj: ` If Onii‐chan sinned in some way, it must have been something much lighter than murder, at the very least.`
+char_enj: ` If someone caused this huge massacre in retaliation for that,`
+char_enj: ` that's totally out of proportion."`
+char_enj: `"Beato killed our family.`
+char_enj: ` Dad, Mom, Onii‐chan, everyone.`
+char_enj: ` ......I can't believe that Onii‐chan's sin was anything deserving of that."`
+char_fea: `"The weight of a sin depends on the person measuring it.`
+char_fea: ` Even a sin so light that Battler might have forgotten...`
+char_fea: `could have been so serious to Beato that she hated him enough to massacre his whole family a full six years after the fact."`
+char_fea: `"......Well, even I think that a bit excessive, and more importantly, if she were a person like that,`
+char_fea: ` I would find it hard to accept that Battler would act so friendly towards her after discovering the truth..."`
+char_enj: `".............................."`
+char_non: `{f:5:Featherine}'s observation was extremely interesting.`
+char_non: `In a past game,`
+char_non: ` Beato said clearly that Onii‐chan's sin six years before was the cause of this two‐day tragedy.`
+char_non: `I still don't know what kind of sin that was.`
+char_non: `However, he figured it out at the end of the fifth game,`
+char_non: ` ......and he even apologized to Beato.`
+char_non: `Even though she was the witch who had massacred his entire family in retaliation for his sin of six years before,`
+char_non: ` ......Battler apologized to her.`
+char_non: `......Of course, it was the player Battler who apologized,`
+char_non: ` not the piece Battler whose family had been murdered over and over again.`
+char_non: `But even so, ......Battler must have remembered something at the end of the last game...`
+char_non: `that made him feel like apologizing...`
+char_enj: `"......This sin from six years before.`
+char_enj: ` ......Does this mean that it's hidden somewhere in the tale so far...?"`
+char_fea: `"...I have already formed a theory about it."`
+char_enj: `"Oh?`
+char_enj: ` Let me hear it."`
+char_fea: `"Heheheheheh, I can't tell you yet.`
+char_fea: ` I want to enjoy being the only one who knows the answer for a little while longer..."`
+char_enj: `"......Well then, I guess I'm done reading for you."`
+char_fea: `"Hahaha, well, we can't have that, can we?`
+char_fea: ` ......Have some patience and read a bit further.`
+char_fea: ` My theory is still nothing more than a guess.`
+char_fea: ` ......Once I'm certain of it, I'll tell you."`
+char_enj: `"Okay, okay, my master.`
+char_enj: ` I actually do want to hear what comes next, after all."`
+char_non: `Onii‐chan and {f:5:Beatrice}...`
+char_non: ` Just what kind of connection is there between them?`
+char_non: `......Learning that will probably be the ultimate key to the truth of this world.`
+char_non: `After all, remembering that...`
+char_non: `was what enabled him to reach the truth.`
+char_but: `"{f:5:Beatrice}...!!"`
+char_kum: `"Welcome, my lord...`
+char_kum: ` {f:5:Beatrice}‐sama is waiting for you.`
+char_kum: ` This way, please......"`
+char_non: `This place was a villa set aside for {f:5:Beatrice}'s use.`
+char_non: `It was a sacred site for her only, built so that she could spend her days without being affected by the outside world.`
+char_non: `My heart began to race.`
+char_non: ` ......I'm so glad that she was able to revive...and that everything's okay...`
+char_non: `Beato is a personification of the rules.`
+char_non: `So, even though she was destroyed once, it is possible for her to be reborn again...`
+char_non: `Battler had quickly succeeded in reviving Beato's body, but he had had trouble summoning her soul back.`
+char_non: `However, during the time he had spent immersed in the creation of the sixth game, she had woken up.`
+char_non: ` And this had happened three days ago.`
+char_non: `Battler let himself be led into the dining hall.`
+char_non: `The dining hall had been set up for his and Beato's use.`
+char_non: `......It existed so that they could enjoy some black tea while discussing the truth, now that he had finally reached it in its entirety.`
+char_non: `I want to tell her.`
+char_non: `I want to tell Beato that I've found the truth.`
+char_non: `Battler couldn't hold back his excitement over this miracle he had been granted, that Beato was waiting for him in the dining hall to hear what he had to say...`
+char_but: `"How is {f:5:Beatrice}?`
+char_but: ` Same as usual?`
+char_but: ` Is she in high spirits?"`
+char_kum: `"Oh yes, she is in very high spirits now.`
+char_kum: ` She has been waiting for you all this time, my lord. Oh yes."`
+char_but: `"Is she in the dining hall? Is she eating or something?`
+char_but: ` Ah, that's alright, it doesn't matter either way...!"`
+char_kum: `"Hoh‐hoh‐ho, you'll be surprised..."`
+char_but: `"{f:5:Beatrice}...!!"`
+char_non: `When he swung open the doors to the dining hall,`
+char_non: ` ......Battler was greeted by a wonderful sight.`
+char_non: `Though the food laid out on the table wasn't particularly sensational,`
+char_non: ` it was arranged beautifully, and a champagne bottle stood there waiting.`
+char_non: `......Then, ......the person clad in that familiar dress with the beautiful golden hair bowed deeply in greeting.`
+char_but: `"......B‐......{f:5:Beatrice}..."`
+char_bea: `"You have my sincerest gratitude for giving me this form."`
+char_but: `"Ha...hahahaha...`
+char_but: ` Come on, don't worry about that......`
+char_but: ` ...I'm so glad...`
+char_but: ` Beato........."`
+char_non: `Battler rushed up to Beato and hugged her tightly.`
+char_non: `Just to make sure her body wasn't just mist or an illusion...`
+char_but: `"......I...`
+char_but: `...solved...`
+char_but: `your riddle for you......`
+char_but: ` But then,`
+char_but: ` before I could tell you about it,`
+char_but: ` you went and disappeared......"`
+char_bea: `"......I am right here...`
+char_bea: ` I will not disappear..."`
+char_but: `"It's okay, you can stop talking like that.`
+char_but: ` I'm not going to ask you for anything in return.`
+char_but: ` ......Anyway, I want to apologize.`
+char_but: ` And I want to talk with you.`
+char_but: ` ......I don't even know where I should start."`
+char_bea: `"You have done nothing that you need to apologize for, Father.`
+char_bea: ` ...I'm glad just to be of service to you."`
+char_but: `".........Beato......?"`
+char_bea: `"I was born for your sake, Father.`
+char_bea: ` Please, let me support you.`
+char_bea: ` And Father,`
+char_bea: ` congratulations on completing the sixth game."`
+char_but: `"I told you, stop talking like that.`
+char_but: ` It's totally creepy."`
+char_bea: `"......Do you find this style of speech displeasing?`
+char_bea: ` Please forgive my rudeness..."`
+char_but: `"Well, I don't "find it displeasing", but it's not like you.`
+char_but: ` I guess I like the way you usually talk best."`
+char_bea: `"....................."`
+char_non: `Beato smiled vaguely.`
+char_non: `To Battler, it probably looked as though they were both smiling over the same joke.`
+char_non: `......However, Beato's smile was literally vague and uncertain.`
+char_non: `After all...she didn't know how she was supposed to talk...`
+char_but: `"Anyway, Beato.`
+char_but: ` Just what kind of joke is this?`
+char_but: ` Don't tell me that the great {f:5:Beatrice}‐sama decided to cook for me...?"`
+char_bea: `"When I heard that you had completed the sixth game,`
+char_bea: ` I wanted to see if I could prepare a modest reward to congratulate you......"`
+char_kum: `"...Hoh‐hoh‐ho.`
+char_kum: ` {f:5:Beatrice}‐sama really worked hard to make this.`
+char_kum: ` I didn't even need to lend a hand at all, no I didn't!"`
+char_non: `The food set on the table really was modest and inexpertly made.`
+char_non: `You could tell by looking at it that Beato, who wasn't particularly skilled with cooking, had given it her all when making it...`
+char_non: `However, signs of discomfort and irritation were beginning to appear on Battler's face......`
+char_but: `"......What...`
+char_but: `......is this all about...?"`
+char_kum: `"Well, as she said, {f:5:Beatrice}‐sama decided that she would like to congratulate......"`
+char_non: `Sweat was starting to show up on Kumasawa's forehead...`
+char_non: `......She was also feeling uneasy.`
+char_non: `When he noticed, Battler realized that it wasn't just his imagination.`
+char_non: `Beato turned her back to Battler and stuck a corkscrew into the champagne bottle.`
+char_non: `Then, she showed it to Battler.`
+char_bea: `"Father, congratulations on the completion of the sixth game.`
+char_bea: ` In the hopes that you will prove victorious over your longtime rival, Furudo Erika..."`
+char_non: `Pop.`
+char_non: `When presented with a champagne bottle and a sound like that, anyone would think that the cork had been pulled out.`
+char_non: `However, it wasn't the cork......it was the bottom of the bottle.`
+char_non: `The high‐quality champagne that Beato had procured splashed out all over the floor and her dress.`
+char_non: `Then, the same sound repeated several more times.`
+char_non: `......Each time, one of the plates of food on the table was knocked into the air.`
+char_bea: `"F‐`
+char_bea: `......Father,`
+char_bea: ` ......did you find the food displeasing...?"`
+char_but: `"Who......are you...?"`
+char_bea: `"...I, ......I am {f:5:Beatrice}.`
+char_bea: ` ...I was born for your sake, Father..."`
+char_but: `"No..."`
+char_bea: `"Huh...?"`
+char_but: `"Who is this?!`
+char_but: ` This isn't Beato...!!`
+char_but: ` And don't call me Father...!!`
+char_but: ` What's going on here?!`
+char_but: ` What is this?!`
+char_but: ` Didn't I revive Beato?!`
+char_but: ` Genji, what's this all about?!!"`
+char_gen: `"......My apologies,`
+char_gen: ` but that is indeed {f:5:Beatrice}‐sama."`
+char_but: `"Like hell it is!`
+char_but: ` How is this supposed to be Beato?!`
+char_but: ` She's totally wrong, a fake!!"`
+char_gen: `"No, that is {f:5:Beatrice}‐sama.`
+char_gen: ` It is, without a doubt, {f:5:Beatrice}‐sama, who was born in accordance with the rules of the game board."`
+char_but: `"No, this isn't anything like Beato...!!`
+char_but: ` Beato would always talk in this weird way, she'd laugh rudely, and more, and more...!!"`
+char_gen: `"No, this is unquestionably {f:5:Beatrice}‐sama herself."`
+char_but: `"Then why is she talking like that?`
+char_but: ` Why is she calling me Father?!"`
+char_kum: `"B‐{f:5:Beatrice}‐sama was only born a short while ago...`
+char_kum: ` It would be far too cruel to expect her to act as she once did so soon..."`
+char_but: `"Are you saying that her memory hasn't returned yet?"`
+char_gen: `".........My lord.`
+char_gen: ` This person is most certainly {f:5:Beatrice}‐sama herself.`
+char_gen: ` However, she is not the {f:5:Beatrice}‐sama you know so well."`
+char_but: `"What are you talking about...?!`
+char_but: ` I'm the Game Master, right?!`
+char_but: ` Why can't I revive Beato...?!"`
+char_kum: `"Oh yes, she most certainly has revived.`
+char_kum: ` However, the old {f:5:Beatrice}‐sama had lived for a thousand years.`
+char_kum: ` ......This {f:5:Beatrice}‐sama, on the other hand, was only born a short while ago...!`
+char_kum: ` If she appears to be a different person, well, that just can't be helped...!"`
+char_but: `"Then, ...how can I revive that Beato?!`
+char_but: ` Her body is right here!`
+char_but: ` How can I revive her soul?!"`
+char_gen: `"......If she lives the same thousand‐year life again, she should become the same {f:5:Beatrice}‐sama she was before."`
+char_but: `"So I'm supposed to wait a thousand years...?!"`
+char_kum: `"A, a person's personality isn't decided solely by their birth.`
+char_kum: ` It can change drastically based on how they live and what they experience..."`
+char_bu3: `"......Do you understand?`
+char_bu3: ` Even though she is the same Beato, she is not the same."`
+char_enj: `"I get it.`
+char_enj: ` ......Even if you had two of the exact same person, they could change enormously depending on their upbringing."`
+char_bu3: `"Even though they might both be the same human to start with, their upbringing could change them so much that they effectively become two completely different people.`
+char_bu3: ` ......Usually, we use the term "person" to refer to a person, not their personality.`
+char_bu3: ` However, since {y:0:Human}{n:0:human}s recognize a person by their personality, they might as well be two different people, from a {y:0:Human}{n:0:human} perspective..."`
+char_ama: `"......That's so true.`
+char_ama: ` If that tragedy twelve years ago hadn't happened, missy here might have been a cute girl who could smile without looking weird."`
+char_enj: `"That's rude.`
+char_enj: ` I'm cute enough right now, thank you very much."`
+char_non: `......I understand.`
+char_non: `If a personality is what makes a person a person in our eyes,`
+char_non: ` you could say that a second personality is a different person entirely, even if it inhabits the same flesh body.`
+char_non: `At the very least,`
+char_non: ` I'm a completely different person than I used to be twelve years ago.`
+char_non: `And if my family had come home twelve years ago,`
+char_non: ` ......then the Ange that resulted would surely be a completely different person from me.`
+char_non: `Even the same human can become different people.`
+char_non: `{n}In fact, depending on their upbringing and endless possibilities, they can become an endless number of different people.`
+char_non: `......So, just because this is the same Beato,`
+char_non: ` ......that's no guarantee at all that she'll be the Beato that Onii‐chan knows so well.`
+char_enj: `"And on top of that, {f:5:Beatrice} is a witch who lived a thousand years.`
+char_enj: ` ......A person can die and be reborn in the span of just three days.`
+char_enj: ` A thousand years.........is just too long."`
+char_bu3: `".........It seems you're quite a skilled reader.`
+char_bu3: ` ...For most of my readers, it would be necessary to devote several hundred pages to explaining how a single human...`
+char_bu3: `can become different people depending on their upbringing and the passage of time."`
+char_enj: `"Don't underestimate your readers.`
+char_enj: ` We aren't just reading.`
+char_enj: ` We read...and we think."`
+char_bu3: `"......If I give my work to a hundred people to read, ninety will actually be able to.`
+char_bu3: ` However, only fifty will actually understand what it means.`
+char_bu3: ` And not even twenty will be capable of thinking beyond that.`
+char_bu3: ` ......Yet all I am asking is that they chew before they swallow.`
+char_bu3: ` ...Nothing more than that. *giggle*"`
+char_bu3: `"However, it seems that "you" are one of those precious twenty readers...`
+char_bu3: ` That's why I invited you here, child of man..."`
+char_non: `It was hard to actually like this Hachijo Tohya person.`
+char_non: `......However, though this forgery she had written was still in its first stages,`
+char_non: ` ......it definitely felt as though it had something very similar to the tales in those message bottles.`
+char_non: `Speaking metaphorically, ......one might call it a scent.`
+char_non: `An indescribable stern atmosphere, ......like a stuffy library.`
+char_non: `The "{f:5:Beatrice}" who wrote the message bottles and Hachijo Tohya are different people.`
+char_non: `......And yet, this has the same scent as that tale...`
+char_non: `......I see.`
+char_non: ` This is why some of those curious Witch Hunters are so intensely devoted to her...`
+char_non: `Their keen sense of smell was able to sniff out that familiar scent......`
+char_bu3: `"Very well then.`
+char_bu3: ` ......Please continue reading.`
+char_bu3: ` There could be nothing more entertaining than watching your face as you glance over the words.`
+char_bu3: ` That, and speaking with you..."`
+char_enj: `"I guess it's true that writers are always starving for opinions on their works.`
+char_enj: ` ......Sorry to disappoint you, but I don't have time to read all the way through this thick manuscript.`
+char_enj: ` More importantly, I came here to............"`
+char_bu3: `"......But you have all the time in the world......"`
+char_non: `Both the second hand and the pendulum on the ornate clock behind Hachijo had been moving the whole time.`
+char_non: `However, ......absolutely no time had passed for a while now.`
+char_non: `Only about three minutes had gone by since the time she had entered the room...`
+char_bu3: `"See?`
+char_bu3: ` Time isn't something you have to worry about.`
+char_bu3: ` ......Time everywhere will leave you alone until you've finished reading..."`
+char_enj: `"................................."`
+char_ama: `"Next page, missy, next page."`
+char_non: `Amakusa badgered me to turn the page, ......so I returned to the world of the tale once more.`
+char_non: `......Why does her tale have the same scent as {f:5:Beatrice}'s, I wonder...`
+char_non: `Is it because......she actually has reached the truth, as she claims?`
+char_non: `Does this mean that anyone who knows the truth could create an endless number of message bottles?`
+char_non: `......Is that what the cat box world is like...?`
+char_non: `I see.`
+char_non: ` ......Maybe she really is an Endless Witch herself.`
+char_non: `In fact,`
+char_non: ` ......maybe anyone who knows the truth can become an Endless Witch.`
+char_non: `An endless tale created by Endless Witches.`
+char_non: `{n}The two days starting on October 4th, 1986, where my family is being toyed with endlessly.`
+char_non: `......I have to end it.`
+char_non: `I have to find a hint of the truth from within this story......and end this endless tale.`
+char_but: `"What do you think, Beato?`
+char_but: ` How's this sixth game I've made?"`
+char_bea: `"........................"`
+char_but: `"Well, you're not the type to give me an honest compliment anyway, are you...`
+char_but: ` You'd probably say something more like "not bad for an incompetent fool like you"."`
+char_bea: `"*cackle*cackle*.`
+char_bea: ` Not bad for an incompetent fool like you."`
+char_but: `"Heh.`
+char_but: ` Now that I've seen what it's like to be a Game Master, I understand everything.`
+char_but: ` ......You really had to work hard during each and every game."`
+char_bea: `"........................"`
+char_but: `"‘Creating a game is not such an easy thing.`
+char_but: ` To think the day would come when we would both congratulate each other like this.’"`
+char_bea: `"Creating a game is not such an easy thing.`
+char_bea: ` To think the day would come when we would both congratulate each other like this."`
+char_but: `".............................."`
+char_bea: `".............................."`
+char_but: `"......All wrong...`
+char_but: ` ......This......isn't Beato..."`
+char_non: `Battler slammed hard on the desk, but the piece Beato showed no reaction.`
+char_non: `......After all, Battler hadn't ordered her to react.`
+char_non: `It was easy to revive that Beato as a piece.`
+char_non: `{n}However, it would only move according to Battler's wishes.`
+char_non: `......Having a conversation with it...`
+char_non: `...was no different...`
+char_non: `...from talking to himself......`
+char_non: `The Game Master could summon any kind of piece.`
+char_non: `{n}He could move those pieces in any way he wanted, reigning as an absolute god.`
+char_non: `......However, for that very reason,`
+char_non: ` ......they were just pieces.`
+char_non: `That made it unbelievably lonely...`
+char_non: `...and sad.`
+char_but: `"......You created many kinds of furniture, as well as several tales in the past.`
+char_but: ` ......When I saw that, ......I was sure you were having a great time doing it."`
+char_non: `""‘But that's wrong.’""`
+char_but: `"You were......unbelievably lonely."`
+char_non: `"‘It must have been such a relief for you to have an opponent in me who could actually go against you.`
+char_non: ` I'm painfully aware of that now.’"`
+char_but: `".........That weird, polite Beato...`
+char_but: `...she {i:is} you, I don't doubt that.`
+char_but: ` ......The way you were a thousand years ago."`
+char_non: `""‘However,`
+char_non: ` ......she is a separate person.’""`
+char_but: `"The way she looks just like you is what I really can't get over...!`
+char_but: ` I can't stand it......"`
+char_non: `"‘However, she isn't a piece, so she can go against my will.’"`
+char_but: `"Sure, unlike the piece {i:you} are, that Beato is much more alive.`
+char_but: ` I acknowledge that!`
+char_but: ` But it's all wrong!!`
+char_but: ` That isn't you!`
+char_but: ` She's a completely separate person, like a long‐lost little sister or something!`
+char_but: ` And that's why...`
+char_but: `...I just can't accept her...!!"`
+char_non: `......As much as he hated this piece Beato...`
+char_non: `Battler felt an even stronger dislike...`
+char_non: `...for the "chick" Beato.`
+char_non: `Even after a whole thousand years,`
+char_non: ` she still wouldn't become the original Beato.`
+char_non: `Even if she were ordered to act like the original Beato, ......it would just be an imitation.`
+char_non: `This was a very similar but separate person, and definitely not Beato herself.`
+char_non: `......Then, .........in the previous game,`
+char_non: ` ......Beato really did disappear for all eternity...`
+char_non: `Even after becoming the Game Master,`
+char_non: ` .........there was no way to revive her.........`
+char_but: `"......Laugh.`
+char_but: ` Laugh at how pathetic I am."`
+char_bea: `"............`
+char_bea: ` ......Heheheheh,`
+char_bea: ` *cackle*cackle*.`
+char_bea: ` Pfft,`
+char_bea: ` hya`
+char_bea: `hah`
+char_bea: `ha{0}ha{0}ha{0}hah{0}ha{0}ha{0}haa{0}a{0}aah!!"`
+char_non: `Just give it a rest already......`
+char_non: `You're just an illusion who won't laugh unless I order it...`
+char_non: `...and who can't even continue to laugh unless I keep on ordering it...`
+char_non: ` ......Just disappear!!`

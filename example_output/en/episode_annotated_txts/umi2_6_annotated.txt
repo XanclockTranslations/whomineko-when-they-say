@@ -1,0 +1,771 @@
+char_bea: `".........Who is it?"`
+char_kan: `"Excuse me...`
+char_kan: ` I have brought lunch."`
+char_bea: `"Enter."`
+char_kan: `"......Excuse me."`
+char_non: `After receiving approval, Kanon entered the VIP room, pushing the lunch serving cart.`
+char_non: `...The servants called this room the witch's VIP room.`
+char_non: `That was because they had been strictly ordered by Kinzo to always keep it cleaned so that it could be used at any time.`
+char_non: `...And yet, guests were never allowed into this room, no matter who they were.`
+char_non: `...That's why, at some point, the servants had started calling it the witch's VIP room,`
+char_non: ` supposed to be set aside only to welcome the special person Kinzo was waiting for—the witch from that portrait.`
+char_non: `And today, Kanon learned that this was entirely correct...`
+char_non: `When he entered the room, .........the witch with golden hair was gazing out the window.`
+char_non: `Outside, the rain had already started to gather strength.`
+char_non: `...As she looked out at the beautiful rose garden, which had taken several days' work to make ready for today, and saw the winds and rain ravage it,`
+char_non: ` was she lost in some sentimental feelings?`
+char_non: `Kanon was not able to infer anything more from her back that faced him.`
+char_kan: `"...I will prepare your meal.`
+char_kan: ` ...{f:5:Beatrice}‐sama."`
+char_non: `So Kanon went out of his way to call out the witch's name, ......because he wanted to make her turn around.`
+char_non: `He wanted to know.`
+char_non: ` ......He wanted to know whether the witch who had tempted him and Shannon in the past......really had appeared again.`
+char_non: `...When he did, ......the witch whose name had been called kept her back to him, ......and laughed.`
+char_non: ` Laughed, in a subdued voice.`
+char_non: `Kanon was startled...`
+char_non: `{n}It was almost as though she had read his mind, and knew that he had called to her out of a desire to make her turn around...`
+char_bea: `".........It smells good.`
+char_bea: ` It appears that Krauss has employed a good cook."`
+char_kan: `"........................`
+char_kan: ` ......Yes.`
+char_kan: ` ...He is a cook called Gohda, who was employed in recent years."`
+char_bea: `"...There's nothing better than being skilled at cooking.`
+char_bea: ` ...Gourmet food forms one of the three pillars of the pleasure of life in the human world.`
+char_bea: ` The secret to not tiring of a thousand years is to have it in sufficience.`
+char_bea: ` ...*cackle*cackle*cackle*cackle*."`
+char_non: `Kanon and the witch's eyes met.`
+char_non: `...And she grinned...`
+char_non: `There could be no doubt.`
+char_non: ` Not even the slightest...`
+char_non: `{n}This was without a doubt the witch from that day, {f:5:Beatrice}...`
+char_non: `The witch that was once visible only to him and Shannon now finally held a form, and had arrived openly through the entrance hall as a guest...`
+char_kan: `".........{f:5:Bea}...{f:5:trice}......`
+char_kan: `......sama."`
+char_bea: `"It has been a long time.`
+char_bea: ` .........Furniture called Kanon.`
+char_bea: ` ...*cackle*cackle*cackle*cackle*cackle*!"`
+char_kan: `"...............It has...`
+char_kan: `...been a long time..."`
+char_non: `Kanon tried not to forget a modicum of courtesy towards the guest.`
+char_non: `{n}...But dark clouds had begun to enshroud his heart because of the visit of this suspicious witch, and on the day of the family conference at that...`
+char_bea: `"It looks to me that you are dying to know my purpose in appearing here.`
+char_bea: ` ......Isn't that so...?"`
+char_kan: `"................................."`
+char_non: `Kanon didn't force himself to answer.`
+char_non: ` ...This witch probably reads minds.`
+char_non: `{n}...So it would be pointless to go to all the trouble of saying it out loud.`
+char_non: `.........Of course, even that rebellious spirit of his would be read.`
+char_non: `So the witch snickered at Kanon's childish resistance.`
+char_bea: `"......I came to resolve my final promise with Kinzo."`
+char_kan: `"Your final promise with......the Master...?"`
+char_bea: `"......I lent Kinzo a mountain of gold.`
+char_bea: ` ...When Kinzo gives that up, it will be returned to me with interest.`
+char_bea: ` .........I came here tonight to receive that."`
+char_kan: `"...............I don't know what you are talking about."`
+char_non: `However, anxiety began to gather in his heart.`
+char_non: `{n}......This witch never had anything good to say.`
+char_bea: `"......*cackle*cackle*cackle*cackle*!`
+char_bea: ` You are not wrong!`
+char_bea: ` Witches have nothing good to say.`
+char_bea: ` You are correct."`
+char_bea: `"Be that as it may, witches, like blunt scissors, can be put to use.`
+char_bea: ` ...Sometimes, there are people like King Solomon who succeed in great exploits."`
+char_bea: `".........In most cases, one does not meet with a good fate such as those described in fairy tales, of course?`
+char_bea: ` *cackle*cackle*...!`
+char_bea: ` .........But Kinzo is crafty.`
+char_bea: ` He has incorporated even my collection of interest into his own ritual."`
+char_bea: `"Is he a tremendous mage, surpassing even me?`
+char_bea: ` ......Or else a fool possessed by madness?`
+char_bea: ` ...Interesting.`
+char_bea: ` Truly interesting...!"`
+char_non: `Kanon couldn't guess what the witch was muttering and laughing about.`
+char_non: `...All he knew was...`
+char_non: `...that anything this witch deemed worthy of laughter...`
+char_non: `must have the exact opposite meaning to the rest of them.`
+char_non: `......And rising to the back of his mind were the horrifying words the witch had spat at him in the past.`
+char_non: `Did you think I would lend them that power without any compensation?`
+char_non: `{n}I'll lend a hand in love.`
+char_non: ` And my compensation shall be one ticket to watch the cruel fate that the two of them will eventually meet.`
+char_non: `Even after one thousand years, no better show exists...!`
+char_kan: `".................................`
+char_kan: ` ...Could it be... ...You......"`
+char_bea: `"*cackle*cackle*cackle*cackle*!`
+char_bea: ` Gehehehhahahahahahahahaha...!!"`
+char_bea: `".........Behold the sweetfish river, running through my beloved home of old.`
+char_bea: ` You who seek the Golden Land, follow its path downstream in search of the key."`
+char_non: `The witch suddenly began to recite a bizarre poem...`
+char_non: `{n}It was something he remembered hearing.`
+char_kan: `"Could that be............the witch's epitaph..."`
+char_non: `There was no doubt.`
+char_non: `{n}...It was the epitaph accompanying the portrait of the witch that had been hung by Kinzo.`
+char_non: `The relatives imagined that it almost certainly pointed to the location of the hidden gold,`
+char_non: ` but no one knew what it meant.`
+char_non: `The witch had suddenly begun reciting that epitaph.`
+char_bea: `"...Kanon.`
+char_bea: ` As furniture, you must have heard about this from Kinzo.`
+char_bea: ` .........The day when everything will be returned to the Golden Land...has come."`
+char_bea: `"Rejoice.`
+char_bea: ` ...The time has finally come for your shameful days as furniture to end."`
+char_kan: `"........................hh."`
+char_bea: `"I believe you have been wanting that for a long time.`
+char_bea: ` ...To furniture, whose existence has no value, just existing day to day must be nothing but agony."`
+char_bea: `"......For those with souls, the world of the living is worth clinging onto, but those without find it to be nothing but suffering.`
+char_bea: ` *cackle*cackle*...!"`
+char_non: `Complicated expressions flitted across Kanon's face.`
+char_non: `......It was the day of release that he had been looking forward to.`
+char_non: `{n}...However, the coming of this day had been mercilessly sudden.`
+char_non: `And the hateful tone of the witch, who had proclaimed this day of rest, made it somehow difficult to accept.`
+char_non: `...Kanon wasn't even able to decide what emotion he should feel...`
+char_bea: `"......Why are you not happy?`
+char_bea: ` Could you actually still have some attachments to this world?`
+char_bea: ` ......As furniture?"`
+char_kan: `"............I have no...`
+char_kan: `...attachments.`
+char_kan: ` Because I am...`
+char_kan: `.........furniture."`
+char_bea: `"*cackle*cackle*cackle*cackle*.`
+char_bea: ` ...You truly are a model piece of furniture.`
+char_bea: ` ......Very good, very good.`
+char_bea: ` ......However, to have no lingering regrets at all... How deeply uninteresting this is."`
+char_kan: `"......Are you saying that regrets are your pleasure?"`
+char_bea: `"Precisely!`
+char_bea: ` Most witches who live for a thousand years get tired of life!`
+char_bea: ` In order to escape boredom, I adorn people's fates with fruit and brandy and cook them like cakes.`
+char_bea: ` I find humans dancing through oppressive fates inside an oven to be so very entertaining...!"`
+char_bea: `"*cackle*cackle*!`
+char_bea: ` I've made somewhat of a name for myself in this field, you know?`
+char_bea: ` ......So much so that unexpected guests occasionally come from afar to witness my culinary skills.`
+char_bea: ` ...Heheheheh, mere furniture can't understand this—I am wasting my time."`
+char_non: `Kanon wasn't able to understand what the witch was saying.`
+char_non: `However, he realized well enough that this was a terrifying being who treated the fates of humans as a show,`
+char_non: ` and was getting enjoyment out of doing them some kind of harm.`
+char_non: `......However, furniture had no soul or life, much less a fate.`
+char_non: ` Pitiful "furniture" did nothing but serve until the day they would be released from the world.`
+char_non: `...To furniture like that, the witch, who had come to release them from everything, was also a being overflowing with mercy...`
+char_non: `Even though the day that Kanon had been waiting impatiently for had come, he was unable to readily accept it, and this greatly bewildered him.`
+char_non: `...Why was that...?`
+char_non: `{n}.........The face of Shannon, the person he loved as a sister, rose to his mind.`
+char_non: `{n}......And for some reason, Jessica's face did too.`
+char_kan: `".....................kh."`
+char_non: `Kanon bit his lower lip painfully.`
+char_non: `......Thinking of Jessica was not permitted for furniture.`
+char_non: `{n}He had been aware of that, and had found fault with Shannon's relationship, ...so how could he remember Jessica at a time like this?`
+char_non: `......He felt a little ashamed by how weak he was.`
+char_non: `{n}And to forget about Jessica, he turned his thoughts to Shannon.`
+char_non: `Shannon is also furniture.`
+char_non: `{n}......On the day everything returns to nothing, there was no reason she shouldn't be happy.`
+char_non: `......But Shannon,`
+char_non: ` .........through her relationship with George, had come to know an emotion that shouldn't be known by furniture.`
+char_non: `Even though she wasn't qualified to be bound with him, she was still wallowing in a dream that she wasn't permitted to have.`
+char_non: `Could Shannon...`
+char_non: `......accept something like this, now, with open arms?`
+char_non: `......Impossible.`
+char_non: ` ...Shannon would have lingering regrets.`
+char_non: `{n}......That would probably become a great source of pain and torture for Shannon.`
+char_non: `And those regrets.........had been planted by none other than this witch.`
+char_non: `Why?`
+char_non: ` Just because that would be "more interesting"......!`
+char_kan: `"......Shannon......should have been waiting impatiently for this day, but now she will have emotions that she must not know,`
+char_kan: ` ......and will probably have a very hard time forced upon her.`
+char_kan: ` .........I...thank you for gifting us furniture the day of our release."`
+char_kan: `"......And...I hate you for making this day difficult for Shannon to accept...!"`
+char_bea: `"I wanted to make you feel pain from your regrets as well, just like Shannon.`
+char_bea: ` ......However, with stubborn simplicity you continued to remain furniture, and never allowed me to lead you on."`
+char_bea: `"............However, it looks like you loved Shannon too dearly, didn't you?`
+char_bea: ` *cackle*cackle*cackle*cackle*!`
+char_bea: ` Shannon's regrets became your regrets.`
+char_bea: ` ......Will that turn into hatred for me...?"`
+char_kan: `"................................."`
+char_bea: `"If you want to kill me, you can try.`
+char_bea: ` ......*cackle*cackle*cackle*cackle*!`
+char_bea: ` As Kinzo's furniture, you should have that much power, at least?`
+char_bea: ` However, if you kill me, the day of rest for you furniture will not come for all eternity."`
+char_bea: `"......Could you withstand that......?`
+char_bea: ` Can you really reject your release by me......?`
+char_bea: ` *cackle*cackle*cackle*!!`
+char_bea: ` .........Kneel!!"`
+char_kan: `"Wh‐......what...?!"`
+char_bea: `"Kneel and kiss my shoes.`
+char_bea: ` .........Otherwise, I will leave this place.`
+char_bea: ` ...I will go back and never show myself again for all eternity."`
+char_bea: `"............So, Kanon?`
+char_bea: ` Could you withstand that...?"`
+char_kan: `".....................khh......"`
+char_bea: `"If the door to the Golden Land is opened, your life as furniture, that has been full of hardship, will end.`
+char_bea: ` ......If you desire, I will even give you life as a human.`
+char_bea: ` After that, you will be on the same level as Jessica!`
+char_bea: ` Surely you want to know of it, the taste of love...!"`
+char_bea: `".........I know even if you try to hide it, you see...?`
+char_bea: ` You grew jealous seeing Shannon wallow in the swamp of sweet love.`
+char_bea: ` ...You are sorely tempted to know the taste of love...`
+char_bea: ` *cackle*cackle*!!"`
+char_kan: `"......Stop it...... Stop it...!`
+char_kan: ` Are you trying to lead me on again......?!`
+char_kan: ` I won't be reduced to a toy to please you...!"`
+char_bea: `"Hoh.`
+char_bea: ` Then I will make do with Shannon.`
+char_bea: ` You weren't the only seed I sowed.`
+char_bea: ` There are sometimes those that don't bear fruit."`
+char_bea: `".........You who laid hand upon the key must journey as follows to the Golden Land.`
+char_bea: ` On the first twilight, sacrifice the six chosen by the key.`
+char_bea: ` On the second twilight, those who remain shall tear apart the two who are close..."`
+char_non: `The witch recited the epitaph again.`
+char_non: `{n}It was so sudden, and diverged so strongly from the current topic.`
+char_non: `However, her challenging smile made it seem almost as though she were using that epitaph as a threat to Kanon.`
+char_bea: `".........Do you not understand?`
+char_bea: ` ...For the ritual of the epitaph to succeed, on the "second twilight", two who are close must be sacrificed."`
+char_bea: `"............It could be any two who are close.`
+char_bea: ` A husband and wife, ......or even a pair of lovers.`
+char_bea: ` ......Who will be selected is up to me to decide on a whim, following the rules of the ritual."`
+char_bea: `"......Don't you think that there is no one more fitting to be a sacrifice for the second twilight than Shannon as she is now...?`
+char_bea: ` *cackle*cackle*cackle*cackle*cackle*!!"`
+char_kan: `".........Wh‐......what a dirty........."`
+char_non: `Kanon learned, then.`
+char_non: ` ...He had thought that he had given up everything, and lived until today as furniture, like furniture should.`
+char_non: `...But in reality, that wasn't true.`
+char_non: `He had loved Shannon too dearly.`
+char_non: ` ...And so, when Shannon was in pain, Kanon shared in that.`
+char_non: `If only Shannon had continued to exist as furniture,`
+char_non: ` living indifferently like Kanon, without any attachments to this world, they wouldn't have had to be in so much pain...!`
+char_non: `The witch planned to toy with Shannon, who had learned the taste of love—`
+char_non: `no, who she had taught the taste of love—as she killed her.`
+char_non: `She would not invite her to the Golden Land as a merciful release,`
+char_non: ` but would make her a sacrifice for that evil ritual, after dealing her the limits of torture and pain...!`
+char_non: `And this witch would probably actually make Shannon meet this horrible fate, for no other reason than it would be interesting for her.`
+char_non: `......Furthermore, she was threatening to do that so that she could make Kanon, who hadn't submitted to the witch even once until now, finally surrender......`
+char_non: `It was that simple.`
+char_non: ` ...In the end, though he had tried resisting the witch to avoid pleasing her, he had only made things interesting for her.`
+char_non: `......After all, he was furniture.`
+char_non: ` No, a toy.`
+char_non: ` ......They were nothing but toys meant only to distract her from her boredom...!`
+char_kan: `"...............Damn......it.................."`
+char_bea: `"What will you do, Kanon...?`
+char_bea: ` If you kneel, I may even hold back from choosing Shannon as a sacrifice...`
+char_bea: ` *cackle*cackle*cackle*cackle*cackle*!`
+char_bea: ` I always wanted the chance to break a toy like you.`
+char_bea: ` *cackle*cackle*cackle*cackle*cackle*, kuhihihihihihihihi!!"`
+char_non: `Without even a fragment of elegance, the witch sneered at Kanon with a vulgar laugh.`
+char_non: `...Yes, even before Kanon had made up his mind, she had seen through to his surrender...`
+char_kan: `".................................kh..."`
+char_non: `......Kanon...............got down on one knee, and chose to genuflect before the witch...`
+char_non: `He didn't care what happened to himself.`
+char_non: `...However, ......just the fact that Shannon,`
+char_non: ` who during his days as furniture had given him his only reason to live, was being toyed with,`
+char_non: ` ......that alone was something that he couldn't overlook...`
+char_non: `Therefore,`
+char_non: ` ......something like kissing the shoes of the witch...was an easy oath for Kanon to make.`
+char_non: `......At the time that his quivering lips actually touched the witch's shoe...`
+char_non: `...{f:5:Beatrice}, after allowing a look of ecstasy to rise to her face, ...let out an ear‐splitting laugh.`
+char_non: `In that moment, the witch who had tired of a thousand years of life was completely filled with the evil emotion that was her only raison d'être......`
+char_non: `Lunch had ended, and the relatives had moved to the parlor.`
+char_non: `Rosa had bought a high‐class brand of black tea from a famous store in Ginza.`
+char_non: ` That had been served, and the inside of the parlor was filled with a very nice aroma...`
+char_non: `Since the children were together with the adults,`
+char_non: ` the adults were, at least on the surface, interacting like relatives, talking peacefully about recent events and how their children were growing up.`
+char_non: `It had started raining outside, so the children were unable to go out,`
+char_non: ` and had no choice but to sit here like this, watching TV.`
+char_non: `Like a true TV‐kid,`
+char_non: ` Maria was watching vapid daytime programs one after another without getting bored, and was giggling all to herself.`
+char_non: `It seemed that Battler had joined in at first, deepening his relationship with Maria,`
+char_non: ` but he had gotten up early that morning, and so was gradually attacked by waves of drowsiness...`
+char_but: `"......fuaaaaaah..."`
+char_geo: `"Oh, that's a big yawn.`
+char_geo: ` Did you get up really early this morning?"`
+char_but: `"...Well, something like that.`
+char_but: ` I started to relax and release all my tension, and then I got sleepy while I was listening to the sound of the rain."`
+char_jes: `"Tension?`
+char_jes: ` Heheh, you go around making yourself the center of attention and now you're saying you were tense?"`
+char_but: `"That's me, I guess.`
+char_but: ` ......fuaaaaaaaaaaaaaaaaah......"`
+char_non: `Battler gave a great yawn once again, and slowly lay down on the sofa.`
+char_non: `He really did look tired.`
+char_non: `George and the others had started talking to him, taking his yawns as a sign of boredom, but when they realized he really was sleepy, they decided to let him be.`
+char_kum: `"My, my.`
+char_kum: ` They say that if you lie down right after eating, you'll become a mackerel.`
+char_kum: ` Hoh‐hoh‐ho...!"`
+char_but: `"......Stop kidding around.`
+char_but: ` Gohda‐san said that tonight would be calf steak.`
+char_but: ` In a minute it's gonna end up as mackerel steak."`
+char_jes: `"Kumasawa‐san.`
+char_jes: ` The guy really does look tired.`
+char_jes: ` You think you could bring him a blanket?"`
+char_kum: `"Hoh‐hoh‐ho.`
+char_kum: ` Here you go."`
+char_non: `Kumasawa brought a blanket over from the shelf.`
+char_non: `{n}...The spacious parlor wasn't cold, but the air had gotten a little chilly.`
+char_non: `So when the blanket was placed over Battler, he immediately wrapped himself up in it, and curled up like a turtle retreating into its shell.`
+char_geo: `"...You really were sleepy.`
+char_geo: ` When do you want to wake up?`
+char_geo: ` I'll take care of it."`
+char_but: `"......Nah, I don't care when.`
+char_but: ` ......You can wake me up if there's something you want,`
+char_but: ` ...and if there's nothing, you can let me sleep forever.`
+char_but: ` ......Good night..."`
+char_mar: `"Uu?`
+char_mar: ` Battler sleeping?`
+char_mar: ` Naptime?`
+char_mar: ` Naptime?`
+char_mar: ` Uu‐uu, me too!"`
+char_jes: `"H‐hey, Maria.`
+char_jes: ` Battler's sleepy, so you gotta leave him alone.`
+char_jes: ` Kumasawa‐san, could we get another blanket?"`
+char_non: `It was doubtful that Maria really wanted to take a nap.`
+char_non: `{n}She probably just saw Battler wrapped up in a blanket and wanted to do the same.`
+char_non: `When she received the blanket from Kumasawa, she joyfully wrapped herself up in it and set up camp again in front of the TV.`
+char_jes: `"Sheesh.`
+char_jes: ` ...Even though all us cousins are finally together after six years.`
+char_jes: ` Dude doesn't have a clue that he's the main guest of this family conference, does he?"`
+char_but: `"......I can hear youuu...`
+char_but: ` ...I've had a nice peaceful lunch, and there's even a typhoon and rain outside.`
+char_but: ` ......There's nothing to do, and what that means is: it's not my turn yet."`
+char_geo: `"I wonder about that.`
+char_geo: ` If you have a passive attitude like that, and don't do anything unless something happens, your life will be pretty boring, you know?"`
+char_but: `"......No, that's not what I mean.`
+char_but: ` ...How should I say it?`
+char_but: ` ...In times like this, I've decided to think this way.`
+char_but: ` ......It isn't my turn."`
+char_but: `"If this were a play, it wouldn't be my turn to go on stage.`
+char_but: ` ......So the best thing to do is stay on the wings."`
+char_jes: `"You're always the main character of your own life, right?`
+char_jes: ` Why are you acting like a supporting actor?`
+char_jes: ` ...You have to get up on the stage yourself without being pushed."`
+char_but: `".........That's not what I mean.`
+char_but: ` I'm just saying it's not my turn right now...`
+char_but: ` kuaaaaaaaaaaah......`
+char_but: ` Sorry, I'm sleepy and my mind's a mess.`
+char_but: ` Just let me be......`
+char_but: ` *mumble*......"`
+char_geo: `"So it seems.`
+char_geo: ` You're so sleepy that you aren't making any sense.`
+char_geo: ` ...Let's leave him alone now."`
+char_jes: `"I can't let that one slide.`
+char_jes: ` ...You are always the main character in your own life.`
+char_jes: ` I kinda want to have a serious argument with Battler about that!"`
+char_geo: `"He's just half‐asleep.`
+char_geo: ` Don't take him too seriously."`
+char_jes: `".........I dunno why, but...`
+char_jes: ` That kind of personality, saying you don't want to get up on the stage because you can't be the main character.`
+char_jes: ` ......Something about that really pissed me off..."`
+char_non: `With distant eyes, Jessica gazed out the window at the gray rose garden obscured by rain...`
+char_non: `When she put her forehead up against the glass, it felt as though the pleasantly cool sensation would chase away memories that she didn't want to remember...`
+char_jes: `"............It wasn't your turn yet, was that it?`
+char_jes: ` ...Then, ......when {i:will} you get up on the stage......"`
+char_non: `In that case, who {i:is} the main character on this stage...?`
+char_but: `".........You're just doing whatever you goddamn want!`
+char_but: ` ...What the shit is this?`
+char_but: ` ......This is just demented...!!"`
+char_bea: `"*cackle*cackle*cackle*cackle*...!`
+char_bea: ` Your argument regarding 18 or 19 people, which you use as a basis to deny me, was truly ludicrous, you see.`
+char_bea: ` So I merely tried a different move."`
+char_bea: `"...The greatest basis upon which you deny me is simply that I was not laid out as a piece on the game board.`
+char_bea: ` In that case, I can simply play the queen first like this, can I not?`
+char_bea: ` ...Isn't opening the path for the queen in the first move one of the classic plays in chess?"`
+char_but: `".........Real fucking funny...`
+char_but: ` How the hell...can I accept something like this?!`
+char_but: ` A witch just came walking in right through the entrance hall?!`
+char_but: ` What a royal load of bullshit!!"`
+char_bea: `"What's this...?`
+char_bea: ` In the last game, I let you make moves as and when you pleased, you know...?`
+char_bea: ` All I have done on this occasion is to move a piece to match your moves.`
+char_bea: ` .........Are you resigning already on the very first turn...?"`
+char_but: `"......U‐.........up yours...`
+char_but: ` Like hell I am!`
+char_but: ` Who's gonna resign?!`
+char_but: ` Great move, why don't you just keep on playing however you like."`
+char_but: `"I get it, your turn is far from over.`
+char_but: ` ...Move however you like!`
+char_but: ` Form a huge battle formation while you can."`
+char_but: `"I will definitely endure.`
+char_but: ` I will definitely corner you!!`
+char_but: ` Come at me as best you can—I don't want you to have any excuses."`
+char_but: `"......This much isn't even close to enough to make me accept something like a witch."`
+char_but: `"...That's right, just now, it looked like you fixed Maria's candy with magic,`
+char_but: ` but you might have actually had another one of the same candy hidden in your pocket, and switched them with some fancy showmanship, making it only look like you had fixed it with magic!`
+char_but: ` Yeah, that's right, that has to be it, and it's no good, it's no goddamn good...!"`
+char_bea: `"......Hohoh?`
+char_bea: ` Rosa saw the moment when the candy split into butterflies, did she not?"`
+char_but: `"Whatever, I don't care!!`
+char_but: ` That was a hallucination or a trick, or...otherwise, she just saw it wrong!!`
+char_but: ` That isn't a big problem!!"`
+char_bea: `"*cackle*cackle*cackle*cackle*!`
+char_bea: ` So you throw out the part you can't explain as trivial?`
+char_bea: ` ......I see, is that your move in response to mine...?"`
+char_bea: `"*cackle*cackle*cackle*cackle*... You've dug your own grave.`
+char_bea: ` ...Ushiromiya Battler...`
+char_bea: ` Fuhahahahahahahahahahaha...!!`
+char_bea: ` It still isn't your turn yet.`
+char_bea: ` Allow me to continue my move for a little longer.`
+char_bea: ` It has barely begun, the Turn of the Witch!!"`
+char_non: `When they started hearing Battler's snores, the relatives went their separate ways, leaving the parlor and letting Battler sleep in silence.`
+char_non: `Even though it had been so lively in the parlor with so many people gathered there,`
+char_non: ` ......when all of them scattered at once and were sucked into the vast mansion, it created an eerie silence, with no sound except that of the rain...`
+char_rud: `"Nope.`
+char_rud: ` I've never once met a person like that.`
+char_rud: ` ...Aneki?"`
+char_eva: `"...I've never met her.`
+char_eva: ` ......Kyrie‐san, is that true?"`
+char_kir: `"......Even I only greeted her quickly when she came into the entrance hall.`
+char_kir: ` She looked like she was a little over twenty.`
+char_kir: ` I told her my name, but she didn't tell me hers.`
+char_kir: ` ...She was being guided by Genji‐san, and I saw her go up to the second floor."`
+char_hid: `"So it'd probably be faster to find Genji‐san and hear the story from him directly.`
+char_hid: ` ......Still, what a strange turn of affairs..."`
+char_non: `The mystery woman had spoken to Kyrie.`
+char_non: `{n}Without naming herself, she had sneered that Kyrie already had a vague idea of who she was.`
+char_non: `......And the person that brought to mind...`
+char_non: `{n}...was her look‐alike, the witch of the portrait...`
+char_rud: `"Was she trying to say that she's...`
+char_rud: `...the witch of the portrait?"`
+char_kir: `"That's what I understood her to be laughing at.`
+char_kir: ` ......Even though it was our first meeting, she spoke as though she knew I'm your second wife."`
+char_rud: `"......Aneki.`
+char_rud: ` You really don't know someone like that?"`
+char_eva: `"Stop asking me that.`
+char_eva: ` I have never seen a blonde woman like that go in or out of this mansion!"`
+char_hid: `"None of that matters.`
+char_hid: ` ...The problem is what happens if that woman starts callin' herself {f:5:Beatrice}, if she starts callin' herself the manager of Father's assets."`
+char_eva: `"Or, ...maybe she plans to call herself his mistress's daughter, and demand a portion of the inheritance.`
+char_eva: ` ......Either way, an outrageous joker has been slipped into the deck.`
+char_eva: ` .........Did Nii‐san call her?`
+char_eva: ` ...Or did Father...?"`
+char_rud: `"This is bad.`
+char_rud: ` ...We've been thinking that if we did a good enough job cornering Aniki in our discussion, we might be able to work things out.`
+char_rud: ` ......But this takes us back to square one."`
+char_kir: `"............`
+char_kir: ` ...I don't know what kind of schemes you've been plotting when I'm not around, baby,`
+char_kir: ` ......but it looks like we've been given a little time to form a counter‐strategy."`
+char_rud: `"...Yeah.`
+char_rud: ` Thinking about what would have happened if Miss Blondie had suddenly appeared at the dinner table and scared the shit out of us,`
+char_rud: ` we should be glad we've at least been given a little time to discuss a counter‐strategy."`
+char_hid: `"...There's only so many counter‐strategies we can use if we don't know what she came to do.`
+char_hid: ` ......What could she be after...?"`
+char_eva: `"Isn't it obvious!`
+char_eva: ` It's to claim that she's the rightful heir to Father's inheritance!`
+char_eva: ` Father is still captivated by {f:5:Beatrice}.`
+char_eva: ` If the two of them had a daughter, he'd be bound to say he wants to hand her all of his assets!`
+char_eva: ` She might even thrust some strange will before us!"`
+char_eva: `"...Sure, if we took it to court, we might be able to claim a quarter of a half of it...`
+char_eva: ` ......But we probably wouldn't be able to split the inheritance until that was resolved."`
+char_eva: `"...That's a problem.`
+char_eva: ` For me and for Rudolf!`
+char_eva: ` And of course, for Rosa too, right?"`
+char_rud: `"......For all of our various situations, we need a large sum of money urgently.`
+char_rud: ` ...It's our biggest weak point.`
+char_rud: ` Then, ......what are they after?`
+char_rud: ` Kyrie, ...can you tell?"`
+char_kir: `".................................`
+char_kir: ` ......It's the first I've heard of it, but one of the premises here is that we have an urgent need for a large sum of money, right?"`
+char_rud: `".....................nn......"`
+char_hid: `"......Kyrie‐san.`
+char_hid: ` When you're on the offensive in a man's business, that's the time you need funding.`
+char_hid: ` Please understand that."`
+char_eva: `".........What's thiiis, Rudolf?`
+char_eva: ` You hadn't told Kyrie‐san about it?"`
+char_rud: `"...Sorry.`
+char_rud: ` I wasn't really hiding it.`
+char_rud: ` ......The truth is, we've been having a bit of a—"`
+char_kir: `"It's alright.`
+char_kir: ` You decided it wasn't necessary to tell me about it,`
+char_kir: ` so I won't press you about it here."`
+char_kir: `"......What's more important is finding out what the Golden Witch is after, right?"`
+char_rud: `"Yes...`
+char_rud: ` .........Putting together everything we've said, can you see what move the enemy will make against us?"`
+char_non: `Rudolf had a certain measure of trust in Kyrie's unique thinking technique, "chessboard thinking".`
+char_non: `Of course, it didn't give him any more peace of mind than fortune telling,`
+char_non: ` but every time Rudolf was concocting some important strategy, he would give a great deal of thought to Kyrie's advice...`
+char_non: `For a while, Kyrie pressed her finger against her forehead, considering...`
+char_kir: `".........Judging by the fact that her coming here was kept hidden until today,`
+char_kir: ` one of her goals is some kind of surprise that she wants to give us."`
+char_kir: `".........We can't know whether that has something to do with assets or being recognized as a relative."`
+char_kir: `"However, because her visit was kept hidden until today,`
+char_kir: ` maybe we can say that she didn't want to get hit with a countermeasure by notifying us in advance.`
+char_kir: ` Which means that it seems her goal is one where it would be disadvantageous to her if we did take some countermeasure.`
+char_kir: ` ...Understand?"`
+char_rud: `"I get it...`
+char_rud: ` For example, if it was something like a will which Dad had written previously, or acknowledgement as a blood relative plus accompanying proof,`
+char_rud: ` if we assume she's brought something like that..."`
+char_rud: `"......then if it was completely unshakeable—if it was rock‐solid proof—you'd think she'd actually have announced it beforehand."`
+char_eva: `"...That's right.`
+char_eva: ` Since we are in a position to doubt her, she should have made us bring our lawyers and experts,`
+char_eva: ` and thrust some completely undeniable proof before us.`
+char_eva: ` If she could."`
+char_hid: `"Hmmmm.`
+char_hid: ` ...So just given that the enemy's aimin' for a surprise attack, that alone tells us she couldn't beat us with an honest attack from the front.`
+char_hid: ` Makes sense.`
+char_hid: ` If you've got a trump card that'll win for sure, you gotta play it out boldly.`
+char_hid: ` Play it in a roundabout way, and odds are you're goin' to tarnish its impact."`
+char_kir: `"......To skip to the conclusion,`
+char_kir: ` ...we should probably expect that some huge surprise will be thrust in front of us,`
+char_kir: ` something related either directly or indirectly to the inheritance problem that everyone is so infatuated with.`
+char_kir: ` ...The other party is probably under the impression that they will be able to overpower us with the impact of this alone."`
+char_kir: `"......However, even if this carries with it a significant impact, it is not absolute."`
+char_eva: `"In other words, ......we have enough leeway to take advantage of this."`
+char_hid: `"You've really got brains!`
+char_hid: ` Even understandin' just this much is really reassurin'!`
+char_hid: ` So you're tellin' us not to get sucked into our opponent's pace."`
+char_kir: `"...In the end, it's an extremely simple conclusion.`
+char_kir: ` No matter what the opponent brings up, interact calmly, without panicking.`
+char_kir: ` ......That's Negotiation 101.`
+char_kir: ` I really can't call that predicting our opponent's thoughts."`
+char_rud: `"Come on.`
+char_rud: ` ...Just like usual, that was pretty good.`
+char_rud: ` .........Now that we know that we have a little leeway to attack, it gives us a little more room to relax."`
+char_kir: `"What we don't know is how she is connected to Krauss nii‐san.`
+char_kir: ` ......Is it a surprise for Krauss nii‐san too, or was the person who called her here none other than Krauss nii‐san himself?"`
+char_kir: `"......If it's the latter, it might make things very troublesome."`
+char_eva: `"............Yes.`
+char_eva: ` ...Secretly calling a mystery woman on the day of the family conference.`
+char_eva: ` ...That detestable style somehow feels like Nii‐san."`
+char_rud: `"Aneki, let's handle it like this.`
+char_rud: ` ...As long as she can't clearly prove her identity, we won't acknowledge her as having any status whatsoever."`
+char_eva: `"That would be best.`
+char_eva: ` ......In point of fact, she hasn't even named herself to Kyrie‐san.`
+char_eva: ` ...We can't let our conference be disturbed by the statements of some unknown woman."`
+char_hid: `"......She might show us proof that she's a blood relative or something.`
+char_hid: ` If she can show that Father's blood runs through her veins, like with a maternity record document, there's nothin' we can do."`
+char_rud: `"We can suspect any proof of being fake.`
+char_rud: ` Even if it is the real thing, in order to prove that she is the person mentioned, we would need to involve a hospital.`
+char_rud: ` ...At the very least, it will be impossible to prove that now, on Rokkenjima."`
+char_eva: `".........Yes, that's it exactly.`
+char_eva: ` In other words, what it boils down to is this:`
+char_eva: ` No matter what is shown to us now on Rokkenjima, it can't be accepted as truth."`
+char_eva: `"So we can't believe anything until the typhoon passes and they prove it to us at the proper place.`
+char_eva: ` ...*giggle*."`
+char_rud: `"Constantly finding fault like that is your speciality, Aneki.`
+char_rud: ` This is gonna be all down to you."`
+char_eva: `"Are you an idiot?`
+char_eva: ` You'll be helping too.`
+char_eva: ` ......We need money.`
+char_eva: ` And quickly, and a large sum!`
+char_eva: ` We're all in this together."`
+char_eva: `".........There's no way I'm having my prospects of an inheritance destroyed now by some mystery woman who popped out of nowhere...!"`
+char_non: `It was only at a time like this that Rudolf and Eva united as siblings,`
+char_non: ` sickened by the idea that their own inheritance might be snatched away by an outsider.`
+char_non: `Kyrie noticed how indomitable they looked, shook her head slightly, and gave a small sigh as she looked out the window.`
+char_non: `Outside, there was still a strong rain falling, and everything was gray, having lost all vibrance.`
+char_non: `It felt like the lush garden that the sun had shone on earlier had never existed.`
+char_non: `For some reason, the words Eva had said just a short while ago kept repeating in Kyrie's head.`
+char_non: `.........It boils down to this.`
+char_non: ` No matter what is shown to us now on Rokkenjima, it can't be accepted as truth.`
+char_non: `There was an odd nuance to those words.`
+char_non: `Right now, this island was closed off by the typhoon and isolated.`
+char_non: `{n}There were no official institutions here, and no hospital.`
+char_non: `So, no matter what institution had issued what kind of documentation, on this island, one could claim that it was all fiction.`
+char_non: ` It was impossible to prove that something was the truth.`
+char_non: `They were cut off from the outside world, and all truths proven in the outside world would be called "fiction"...`
+char_non: `So did that mean...`
+char_non: `...that now, on this Rokkenjima, there was nothing that was truthful?`
+char_non: `......That everything would be controlled by "fiction"?`
+char_non: `It almost gave the illusion...`
+char_non: `...that separate from the human world made from truth...`
+char_non: `was another world called fiction, in which they had been shut away.`
+char_non: `......Kyrie remembered what that woman had looked like one more time.`
+char_non: `And she remembered the woman's figure, and the witch of the portrait.`
+char_non: `On this island, which had been isolated from the world of humans, and shut away in the world of nonhumans, ......a nonhuman being had visited.`
+char_non: `No matter what she did, Kyrie couldn't help think of the smile that had appeared on that woman's face as anything other than ominous......`
+char_non: `In trying to understand that ominous smile,`
+char_non: ` ...it feels like my chessboard thinking mistook a vital premise.`
+char_non: `...That's right,`
+char_non: ` that smile seemed like that of something nonhuman looking down on me.`
+char_non: ` I had reasoned based on the assumption that our opponent was a "human" like us.`
+char_non: `......However,`
+char_non: ` just like this island now, she may be a being that is not human, and human values may not apply to her.`
+char_non: `In that case...`
+char_non: `......all reasoning is useless.`
+char_non: `{n}For what reason was the witch invited here today?`
+char_non: `.........Only one thing is certain.`
+char_non: ` ...Right this very moment, she is staying somewhere in this vast mansion...`
+char_ros: `"......Maria.`
+char_ros: ` ......Around lunchtime today, we.........met someone outside, right?`
+char_ros: ` A woman.`
+char_ros: ` Who......was she?"`
+char_mar: `"...Uu.`
+char_mar: ` Said it a lot.`
+char_mar: ` ...{f:5:Beatrice}."`
+char_ros: `"Maria, have you ever met {f:5:Beatrice} before...?"`
+char_mar: `"Uu.`
+char_mar: ` See her every year."`
+char_ros: `"Every year...?`
+char_ros: ` In this mansion on Rokkenjima?"`
+char_mar: `"Uu."`
+char_ros: `"...I don't know what "uu" means!`
+char_ros: ` Is that true?!"`
+char_mar: `"......Yeah."`
+char_ros: `"How long have you been seeing her?`
+char_ros: ` How many years ago did it start?!"`
+char_mar: `"...Uu.`
+char_mar: ` ......Dunno."`
+char_ros: `"You don't know?!`
+char_ros: ` Why?!`
+char_ros: ` Last year?`
+char_ros: ` Two years ago?!"`
+char_mar: `"......Longer.`
+char_mar: ` ......Uu."`
+char_non: `Rosa was aghast.`
+char_non: ` ...Only the Ushiromiya mansion existed on this island.`
+char_non: ` So there was no way that there were any humans other than themselves on this island.`
+char_non: `And yet, Maria said that she had been meeting with that suspicious woman every year during the family conference......`
+char_non: `If what Maria said was the truth,`
+char_non: ` ......then that strange woman called {f:5:Beatrice} had been at the family conference every year.`
+char_non: `......That's insane.`
+char_non: `Is she saying that some eerie woman was at the family conference every year, and none of us ever noticed it...?!`
+char_non: `Even though Rosa had just met her herself a couple of hours ago in the rose garden,`
+char_non: ` she was overcome with a strange emotion which told her not to accept her existence...`
+char_non: `"What" in the world did I meet with earlier today in the rose garden, as the typhoon grew close and the winds blew strong......?`
+char_ros: `"......Maria.`
+char_ros: ` So, you said that you see her every year.`
+char_ros: ` ...What do you do together?"`
+char_mar: `"Uu.`
+char_mar: ` Sing songs, learn magic.`
+char_mar: ` Learn how to draw magic circles."`
+char_ros: `"Re‐...really?`
+char_ros: ` That's incredible.`
+char_ros: ` ......Maria, you often scribble—`
+char_ros: `sorry, draw magic circles, in your notebook, right?`
+char_ros: ` Did she teach you that?"`
+char_mar: `"Uu!`
+char_mar: ` {f:5:Beatrice} draws what they should look like!`
+char_mar: ` Look! Look!"`
+char_non: `Maria joyfully fished around in her handbag.`
+char_non: `......Then, she took out a notebook and started opening its pages.`
+char_non: `Most of the pages were covered with drawings that were literally scribbles.`
+char_non: `All of them were occult‐like things,`
+char_non: ` and while it might sound rude to Maria who was joyfully flipping through the pages, they were all creepy.`
+char_mar: `"Look! Here!`
+char_mar: ` {f:5:Beatrice} drew these for me!!`
+char_mar: ` Uu!!"`
+char_non: `On each page Maria opened to, there was another eerie magic circle that had been drawn.`
+char_non: `......Furthermore, at a glance, Rosa realized that Maria hadn't drawn them.`
+char_non: `The strength of the strokes, the thickness of the lines, how clean the shape was.`
+char_non: `{n}......This by itself wasn't enough to guess the background of the person who had drawn it,`
+char_non: ` but it was enough for Rosa to understand that it was definitely someone older than Maria.`
+char_non: `Rosa had to accept it now.`
+char_non: `...There really was a person on this Rokkenjima who she hadn't even known existed,`
+char_non: ` and this person had been playing with Maria during the family conference every year.`
+char_ros: `".........Maria.`
+char_ros: ` Umm, does this witch {f:5:Beatrice} live here...?`
+char_ros: ` Or does she live outside the island like us...?"`
+char_mar: `"Uu.`
+char_mar: ` ......{f:5:Beatrice} is the witch of Rokkenjima, so she lives on this island."`
+char_ros: `".........So, you're saying that she's on the island even when it isn't the family conference, ...right......?"`
+char_mar: `"Uu."`
+char_ros: `"I don't know what "uu" means!!`
+char_ros: ` Well?!"`
+char_mar: `"...!`
+char_mar: ` ............Yeah.`
+char_mar: ` ...Uu."`
+char_non: `Oh......oh my gosh, oh my gosh.........`
+char_non: `{n}I can't believe it, I can't believe it...!`
+char_non: `How long has this unknown witch been living on this island?!`
+char_non: `I used to live on this island.`
+char_non: `{n}I lived on this island, passing the time in the mansion, in the rose garden.`
+char_non: `And even so, I never encountered a witch like that,`
+char_non: ` ......never,`
+char_non: ` ......I think.....................`
+char_mar: `"Mama......?`
+char_mar: ` Mama......?`
+char_mar: ` What's wrong......?`
+char_mar: ` Mama...?!"`
+char_ros: `"......My head.........hurts..."`
+char_non: `...I was probably getting a little mixed up with my memories from when I was a young girl.`
+char_non: `When I was a young girl, unlike Maria, I was very frightened of witches.`
+char_non: `{n}So for me, the name {f:5:Beatrice} was a synonym for something frightening.`
+char_non: `......So it must be that my feeling of fear from my days as a young girl has been revived, because a woman calling herself that has appeared...`
+char_non: `......She couldn't be a witch.`
+char_non: ` ......She's obviously a {i:human} calling herself {f:5:Beatrice}, right?`
+char_non: `Oh, yes...`
+char_non: ` ......That witch entrusted me with an envelope...`
+char_non: ` What in the world could that be?`
+char_non: `Rosa pulled that Western envelope out of her pocket.`
+char_non: `...It was the Western envelope which bore the Ushiromiya crest which Kinzo used on his personal letters.`
+char_non: ` ......And it had even been sealed with the red sealing wax by the Head's Ring, which Kinzo held.`
+char_non: `.........Which meant...this envelope belonged to the Ushiromiya head.`
+char_non: `{n}...In other words, it was from Father.`
+char_non: `Why was a woman calling herself {f:5:Beatrice} holding it, and why did she give it to me?`
+char_non: `That's right,`
+char_non: ` I'm sure she said to read this aloud at dinner.`
+char_non: `{n}.........What in the world could be written inside...?`
+char_non: `Anxiety gripped Rosa,`
+char_non: ` as if opening this envelope might release some kind of monumental disaster...`
+char_non: `......However, at the same time, a little curiosity sprouted up, causing her to want to find out what was written inside before the other siblings.`
+char_non: `Using common sense, .........one could guess that a huge decision somehow related to Father's inheritance was probably written inside.`
+char_non: `Actually, ...since he had given it to a woman calling herself {f:5:Beatrice}, there was no way that wasn't related.`
+char_non: ` ......Did this mean that he wanted the inheritance split not between four, but between five, including her?`
+char_non: `..................I need a large sum of money, ...and I can't wait long.`
+char_non: `I do feel like a sinful daughter for discussing the distribution of Father's inheritance while he's still alive.`
+char_non: ` ......However, I'm no longer at a stage where I can afford to keep everything pretty.`
+char_non: `...And I'm even consulting with Rudolf nii‐san and Eva nee‐san in order to get some money out of Krauss nii‐san.`
+char_non: ` With myself in this situation, .........I can't help but sense something ominous in the appearance of the witch...`
+char_non: `.........What could be written in here?`
+char_non: `{n}......I'm sure there must be something frightening written.`
+char_non: `.........Shall I first read it secretly myself?`
+char_non: `The witch had requested it be done at the dinner table, when everyone was gathered.`
+char_non: ` ......However, in that case, couldn't she just read it aloud at the dinner table herself?`
+char_non: `Why did she go to all the trouble of entrusting it to me?`
+char_non: ` .........Did that mean, basically, that it didn't matter whether I secretly read it beforehand...?`
+char_non: `......It would be better to secretly read the contents first.`
+char_non: `{n}...I understand that it would be breaking my promise.`
+char_non: `......But this is no longer the time to keep things pretty...`
+char_non: `It would probably be good to discuss it with Eva nee‐san and Rudolf nii‐san, depending on the contents...`
+char_non: ` ...Nee‐san and the rest are always really good thinkers when it comes to this kind of thing......`
+char_non: `As I gulped, ......and put my hand to the red sealing wax...`
+char_non: `...Something suddenly pulled on my sleeve, and I let out a small shriek.`
+char_ros: `".........Wha‐what?!`
+char_ros: ` M‐.........Maria.`
+char_ros: ` Don't scare me like that.`
+char_ros: ` What?"`
+char_mar: `"...Uu.........`
+char_mar: ` ............No."`
+char_ros: `"Huh......?"`
+char_non: `Maria was making the same ominous expression Rosa had seen on the witch, sending a tingle up her spine...`
+char_mar: `"......{f:5:Beatrice} told you to read that letter during dinner, Mama.`
+char_mar: ` ......You can't break a promise with a witch.`
+char_mar: ` ............Kihihihi{0}hi{0}hi{0}hi{0}hi{0}hi{0}hihihi..."`
+char_ros: `"Tha‐...that's not it.`
+char_ros: ` I just wanted to look at the envelope for a second.`
+char_ros: ` ......I'll keep my promise.`
+char_ros: ` ......After all, Mama always tells you to keep your promises.`
+char_ros: ` ...Of course Mama will keep her promise..."`
+char_mar: `"Yep.`
+char_mar: ` Mama's a good girl.`
+char_mar: ` ...Kihihihihihihihihihi..."`
+char_ros: `"Th‐`
+char_ros: `......that laugh.`
+char_ros: ` ......It isn't cute, so stop it."`
+char_mar: `".........Uu."`
+char_ros: `"Come to think of it, you received a letter too, Maria.`
+char_ros: ` .........What was written inside?"`
+char_mar: `"Haven't opened it.`
+char_mar: ` ...{f:5:Beatrice} said I mustn't open it until it's time to open it.`
+char_mar: ` So taking good care of it.`
+char_mar: ` ...Uu."`
+char_ros: `"I, ......I see.`
+char_ros: ` ...You listen well to what {f:5:Beatrice} says, don't you, Maria."`
+char_mar: `"Uu.`
+char_mar: ` I'm {f:5:Beatrice}'s disciple, so I listen well to what my master says."`
+char_ros: `"......I, .........I see."`
+char_ros: `"......?!"`
+char_non: `Rosa realized something.`
+char_non: ` ......Mixed in with Maria's gaze...was the light of a person other than Maria.`
+char_non: `...If she broke the rules, and opened the envelope here, {f:5:Beatrice} would definitely find out about it.`
+char_non: `......Because Maria was the witch's disciple.`
+char_non: `{n}.........Maria communicated with that witch......`
+char_ros: `"...Mama will keep her promise.`
+char_ros: ` So tell {f:5:Beatrice} not to worry, okay?"`
+char_mar: `"Uu!`
+char_mar: ` I'll tell her."`
+char_ros: `"...Hey, Maria.`
+char_ros: ` ...I want to speak with {f:5:Beatrice}, so what could I do to meet her, I wonder...?"`
+char_mar: `"Don't know.`
+char_mar: ` ......{f:5:Beatrice} is very fickle, so she always shows herself suddenly.`
+char_mar: ` I don't know a way to get her to meet me."`
+char_mar: `"......But you know, she's always watching me.`
+char_mar: ` So when I get in trouble, she'll definitely save me afterwards.`
+char_mar: ` ...She's gone invisible, and is hiding close to me, I just know it.`
+char_mar: ` ......Kihihi{0}hi{0}hi{0}hi{0}hi{0}hi{0}hi{0}hi{0}hi{0}hi{0}hi{0}hi{0}hi{0}hi{0}hi{0}hi{0}hi{0}hi{0}hi{0}hi{0}hi{0}hi{0}hi{0}hi{0}hihihi."`
+char_ros: `"D‐......don't I always tell you to stop that laughing!!"`
+char_non: `Rosa reflexively hit Maria on the head.`
+char_non: ` ......That put a stop to Maria's laughing voice, ...but it wasn't able to erase the ominous color that had risen to her eyes.`
+char_non: `Rosa made a pact with herself.`
+char_non: ` ...She swore that, at least until they left this island, she would not leave Maria alone.`
+char_non: `.........She couldn't allow an unknown being to make direct contact with her daughter anymore......`

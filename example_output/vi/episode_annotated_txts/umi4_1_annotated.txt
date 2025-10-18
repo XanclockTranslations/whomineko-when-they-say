@@ -1,0 +1,484 @@
+char_ron: `"Good morning, Milady.`
+char_ron: ` My, my, you do appear to be in a good mood.`
+char_ron: ` What a pleasant awakening you seem to have had."`
+char_bea: `"‘Pleasant awakening’...!`
+char_bea: ` I was so excited, I couldn't sleep a wink.`
+char_bea: ` After all, the curtain is rising on the oh‐so‐fun fourth game...!"`
+char_non: `It seemed that she truly had been so excited that she hadn't gotten any sleep.`
+char_non: `And yet she showed absolutely no signs of tiredness; was that due to her youth, or her low mental age?`
+char_non: `Ronove chose not to say that aloud, and laughed with a {nobreak:"pu ku ku"} instead.`
+char_bea: `"I really ran that Battler into the ground last time!`
+char_bea: ` Ah, that look of "you tricked meee" all over his face!`
+char_bea: ` He looked so pathetic!`
+char_bea: ` In any case, I do hope he's not still feeling down?"`
+char_ron: `"Feeling down, you say...?"`
+char_bea: `"Mm, well, how to put it.`
+char_bea: ` ...You know how he is a bit too sincere for his age?"`
+char_ron: `"Indeed I do.`
+char_ron: ` Although one could call that his charm.`
+char_ron: ` Pu ku ku..."`
+char_bea: `"*cackle*cackle*cackle*!`
+char_bea: ` You could, you certainly could!`
+char_bea: ` Well, speaking of that.`
+char_bea: ` You know how he completely fell for the thing I pulled the last time?"`
+char_ron: `"Oh, yes, completely and splendidly.`
+char_ron: ` ...His pure, rosebud‐like innocence, arising from never once having been tricked by another since birth, you unreservedly violated."`
+char_ron: `"............Even the joy of running around a field covered with beautiful new snow on a winter morning and trampling it utterly wouldn't even begin to compare."`
+char_ron: `"You took Battler‐sama's innocent heart, Milady,`
+char_ron: ` and thrillingly, splendidly, atrociously, mercilessly, and in quite the uncultured manner, enough to make one think "maybe I went a teensy little bit overboard...?",`
+char_ron: ` you most assuredly perpetrated the very worst of atrocities against it."`
+char_ron: `"I am quite sure most people {i:would} start to feel down.`
+char_ron: ` Pukkukukuku, so much so, that I doubt they would ever want to see your face again."`
+char_bea: `"S‐so you understand...!"`
+char_bea: `"I also, umm, considering that the fourth game is finally getting underway,`
+char_bea: ` I thought that it would be such a pain if he was so disheartened that he wouldn't join us at the table,`
+char_bea: ` and so, you see, I asked you first, thinking that it would be better to prepare a countermeasure beforehand...!"`
+char_ron: `"Hmmmm...`
+char_ron: ` In that case, indeed, I do think you would be well served to prepare such a countermeasure.`
+char_ron: ` Most unfortunately, due to your "North Wind and the Sun Strategy", it appears that Battler‐sama has received quite a shock."`
+char_bea: `"H‐hoh...`
+char_bea: ` ......A shock, you say... How badly...?"`
+char_non: `Beato lowered her voice slightly, asking timidly.`
+char_non: `{n}Ronove went along with that, and lowered his voice in the same way.`
+char_ron: `"......In truth, he has been curled into a ball clutching his knees for some time now.`
+char_ron: ` I called out to him several times, but he did not answer.`
+char_ron: ` I also carried him something to eat, but he does not appear to have touched it."`
+char_bea: `"...Th‐that is...troublesome......`
+char_bea: ` Is he really feeling that down......?"`
+char_ron: `"Pukkukukuku.`
+char_ron: ` It is only natural.`
+char_ron: ` ...After all, you`
+char_ron: ` {nobreak:com‐`
+char_ron: `pre‐`
+char_ron: `hensively}`
+char_ron: ` destroyed him, Milady.`
+char_ron: ` That would turn most anyone into a misanthrope."`
+char_bea: `"Hoh, distrust of {y:0:Human}{n:0:human}s? How convenient!`
+char_bea: ` Let him give up on {y:0:Human}{n:0:human}s and trust witches, wahahaha...`
+char_bea: ` ...............O‐...oh,`
+char_bea: ` *cough*.`
+char_bea: ` Sorry, I took it too far."`
+char_non: `Beato had tried to joke about it, but it seemed that the situation was quite serious, and after picking up on this, she hid her laughter.`
+char_bea: `"......Is it really that serious...?`
+char_bea: ` Sh‐should we wait just a little longer before beginning the fourth game...?"`
+char_ron: `"Because Lady {f:5:Bernkastel}'s guest will be coming,`
+char_ron: ` it may be more appropriate to open the fourth game quickly.`
+char_ron: ` However, it might be useful if you were to show him a little consideration, Milady."`
+char_bea: `"Consideration!`
+char_bea: ` Consideration, you say?!`
+char_bea: ` How should I show that...?!`
+char_bea: ` He is feeling down, so,`
+char_bea: ` ...h‐how about...I cheer him up, or something?!"`
+char_ron: `"When a person's heart is closed off to the light, it is useless to interact with them in a gloomy fashion.`
+char_ron: ` You can do nothing but shine with a brightness stronger than the dark."`
+char_but: `"Damn iiiiiiiiiiiiiit, quit messing arooooooooouund...!!!"`
+char_rg6: `"Kyaahhahaha!!`
+char_rg6: ` Battler‐kuun, over he~re!`
+char_rg6: ` A croissant baked by Ronove‐sama would be wasted on the likes of youuuu!`
+char_rg6: ` Maybe I'll enjoy it aaalll myself?"`
+char_non: `Battler's stomach involuntarily growled at the fragrant smell of the croissant.`
+char_non: `His breakfast plate was empty, but he hadn't eaten any of it.`
+char_non: `{n}...The biggest glutton of the Seven Sisters of Purgatory,`
+char_non: ` Beelzebub, had waited for Ronove to leave, and had then come to snatch the food away.`
+char_non: `Battler had discovered her in the process, and they had been charging about causing a crazy amount of noise ever since.`
+char_non: `Even though Beelzebub could have ended it by either giving it back already or else throwing it into her own mouth,`
+char_non: ` she intentionally ran around in circles, making fun of Battler.`
+char_but: `"Give me my breakfast back, damn iiiiiiit!!`
+char_but: ` If you give it back now, I'll let you off with a single flick to the forehead.`
+char_but: ` But just you try eating it!!"`
+char_rg6: `"What, are you gonna eat me inste~ad?!`
+char_rg6: ` Kyaha!`
+char_rg6: ` Try it if you think you can! I'll bet I'd be as sweet as honey pancakes.`
+char_rg6: ` ...kya!"`
+char_but: `"Gotcha!!`
+char_but: ` Right now, I'm more interested in that bread than your thighs.`
+char_but: ` Be a good girl and give it heeeeeeeeere,`
+char_but: ` fugagigigigi...!!`
+char_but: ` So, you resist until the eeeeeeeeeend...!!"`
+char_rg6: `"Ugugugugu!!`
+char_rg6: ` No way, no way, I won't give it to yo~u!!`
+char_rg6: ` Even the croissant wants me to eat i~~t!!!"`
+char_bea: `"Y‐yaa~y, yoo‐hooooooooo, g'moooooorning, Battleeee~r!!`
+char_bea: ` Get a load of this guy, first thing in the morning and he's back to moping already~?!?!`
+char_bea: ` It's the beginning of a new day, and a new game, you know, so get your spirits up and let's get this party starte{-}e{-}e{-}e{-}e{-}e{-}e{-}e{-}e{-}eeddd!!"`
+char_non: `...The door opened forcefully.`
+char_non: `Like a marathon runner drawn on a {c:86EF9C:certain caramel box},`
+char_non: ` with her hands held high and with an idiotic cheeriness,`
+char_non: ` ......Beato appeared.`
+char_non: `For some reason, countless country flags and confetti scattered everywhere, creating what was clearly intended to be the perfect party atmosphere.`
+char_non: `......Battler and Beelzebub, who had been grappling on the floor over the croissant, completely forgot about their argument and stared at her speechless.`
+char_rg6: `"Kya‐...kyahahahaha!`
+char_rg6: ` Good morning, {f:5:Beatrice}‐sama!`
+char_rg6: ` Well, that's all for me!`
+char_rg6: ` Here, Battler‐kun, say aa~h!"`
+char_but: `"Mggmffff!!"`
+char_but: `"Mmmffmmmff, *munch*munch*, ...*gulp*.`
+char_but: ` .....................`
+char_but: ` ......H‐hey, morning, Beato...`
+char_but: ` ......Glad to see you're in perfect form this morning."`
+char_non: `....................................`
+char_non: `Beato and Battler looked at each other.`
+char_non: `{n}...It seemed that neither had a clue what was going on with the other.`
+char_bea: `"B‐......Battlerr......?`
+char_bea: ` Wh‐wh‐what is this, Ronoveeeee,`
+char_bea: ` he looks like he's in high spiriiiiiiits!!`
+char_bea: ` He isn't clutching his knees!`
+char_bea: ` And he's answering!`
+char_bea: ` {i:And} he was even in the middle of eating!!"`
+char_ron: `"Pukkukukukuku!!`
+char_ron: ` No, no, he certainly was clutching his knees, under the blanket as he slept like a baby.`
+char_ron: ` I informed him that it was time for him to wake up, but he just wouldn't get out of bed.`
+char_ron: ` As for his food, it seems that he was rather too preoccupied with the naughty cat that had wandered in.`
+char_ron: ` Pu ku ku, puu ku ku ku ku!"`
+char_bea: `"G‐`
+char_bea: `.........gwaaaaaaaaaaaaaaahhh...!!!`
+char_bea: ` You tricked meeeeeeeeeee...!!"`
+char_but: `"Heh, you should talk.`
+char_but: ` Weren't you the one who played that massive trick on me last time?`
+char_but: ` I don't have a clue what's going on, but I'm glad to see you started your morning with a helping of just deserts.`
+char_but: ` ...Well, anyway, nice one, Ronove."`
+char_ron: `"Pukkukuku, I am much obliged, Battler‐sama."`
+char_non: `The two stuck up their thumbs as though they had forged some kind of male bond, chuckling together.`
+char_non: `For a while, Beato acted very energetically, trying to hide her embarrassment......`
+char_but: `"Heh.`
+char_but: ` Don't take me so lightly.`
+char_but: ` You thought I'd still be hiding in a corner, holding my knees?"`
+char_bea: `"*cackle*.`
+char_bea: ` Then who was that person crying their eyes out in frustration last time?`
+char_bea: ` I should've collected your copious tears in a bottle and used it as eau de toilette."`
+char_but: `"Sh‐shut up.`
+char_but: ` That was, uh, you got me a bit with your crappy acting and crazy plot twist, that's all.`
+char_but: ` I made an ass of myself, but you'd better not think that same move is ever gonna work again."`
+char_bea: `"Naturally.`
+char_bea: ` Don't disappoint me by falling for the same move over and over again, alright?`
+char_bea: ` *cackle*cackle*!"`
+char_but: `"Ihihi, yeah, just you watch.`
+char_but: ` I'll teach you that I'm a guy who gets stronger every time he's beaten down."`
+char_but: `"............But Beato."`
+char_bea: `"Mm, what is it?"`
+char_but: `"Never do it again."`
+char_bea: `"Hoh?`
+char_bea: ` And why is thaaat?`
+char_bea: ` So you really are weak against the rear attack?"`
+char_but: `"............You and I are enemies,`
+char_but: ` and we'll never, ever join forces.`
+char_but: ` ...I now understand that clearly.`
+char_but: ` ......So never again do something as unpleasant as trying to make me confused about that fact."`
+char_bea: `"*cackle*cackle*!`
+char_bea: ` You say that, but now that I know it's your weak point, ........."`
+char_non: `Beato thought they were still joking around, ...but that had disappeared from Battler's expression some time ago.`
+char_non: `Beato felt as though his eyes were like the surface of black tea gone cold...`
+char_but: `"You hear me?`
+char_but: ` Never do it again."`
+char_bea: `"..................`
+char_bea: ` ......You never know...`
+char_bea: ` I might do it again when you've forgotten..."`
+char_but: `"Never do it again."`
+char_bea: `"............nn, ..............."`
+char_non: `Pierced by his strong and forceful gaze, Beato held her tongue.`
+char_non: `She may have thought that Battler would surely be the one to break that silence with laughter.`
+char_non: `...However, Battler's serious expression didn't change in the slightest.`
+char_non: `So, to break that silence, Beato had no choice but to start laughing herself.`
+char_bea: `"*cackle*cackle*, hahha{0}ha{0}ha{0}ha{0}ha{0}ha{0}ha{0}ha{0}ha{0}ha{0}ha{0}hahaha...!!`
+char_bea: ` As things should be.`
+char_bea: ` You and I are worthy adversaries.`
+char_bea: ` No matter how favorable our relationship, we shall never cross that line defining us as enemies.`
+char_bea: ` If you have not mistaken this, that is enough for me."`
+char_but: `"...That's right.`
+char_but: ` I almost forgot that you were my enemy for just a second.`
+char_but: ` I won't show such a disgraceful display again.`
+char_but: ` ......I won't fall for your rear attack again.`
+char_but: ` Ever...!"`
+char_bea: `"...........................`
+char_bea: ` ...Heh!`
+char_bea: ` Hahhahahyahhahha!!`
+char_bea: ` It seems that I am not the only one who cannot wait for the fourth game.`
+char_bea: ` I am pleased, Battler.`
+char_bea: ` Come, take your seat."`
+char_but: `"...Sure.`
+char_but: ` Bring it on.`
+char_but: ` ......Clever little tricks aren't gonna work anymore."`
+char_bea: `"Stop acting so tough.`
+char_bea: ` You remain in a state of surrender for the last mystery in the previous game, the mystery of Nanjo's murder...!"`
+char_but: `".........I'm still holding off on an answer for that one.`
+char_but: ` But that doesn't mean I've lost heart.`
+char_but: ` I will break your "red truth" and deny witches—I guarantee it...!"`
+char_bea: `"Hmph.`
+char_bea: ` A good disposition.`
+char_bea: ` You truly are a man like a phoenix.`
+char_bea: ` You don't betray my expectations!`
+char_bea: ` With that, let us raise the curtains on the fourth game."`
+char_bea: `"But before that,`
+char_bea: ` it seems that we must welcome a new guest."`
+char_but: `"A guest......"`
+char_bea: `"I am sure you must remember.`
+char_bea: ` That mystery woman, who appeared at the very end of the last game without an invitation and spoiled my performance."`
+char_but: `"......Her........."`
+char_bea: `"She says that she wants to join our game, you see.`
+char_bea: ` I took the liberty of sending her an official invitation to join us.`
+char_bea: ` Ronove, call the guest."`
+char_enj: `"......There's no need.`
+char_enj: ` I'm already here."`
+char_non: `The voice that answered Beato's call came from the darkness in a corner of the room.`
+char_non: `Battler turned around in surprise to discover that the mysterious woman was suddenly there.`
+char_bea: `"Goodness gracious.`
+char_bea: ` How rude.`
+char_bea: ` If you were here, the least I would have expected is a simple greeting."`
+char_enj: `"I don't make a habit of greeting people before punching them.`
+char_enj: ` But I will give one after I punch."`
+char_bea: `"Hoh, and what will that be?"`
+char_enj: `"<Good night,`
+char_enj: ` have a nice dream>."`
+char_bea: `"*cackle*cackle*, hahhahhahahahahahaha!`
+char_bea: ` Entertaining, truly entertaining...!"`
+char_non: `Beato cackled and clapped her hands.`
+char_non: `But that was only Beato, and nothing rose to Battler's face except an uncertain smile.`
+char_but: `"......Whew.`
+char_but: ` So you're the "punch first, ask questions later" type, huh."`
+char_enj: `".............................."`
+char_non: `Battler met eyes with the woman, shrugging his shoulders as he spoke.`
+char_non: `{n}But the woman didn't answer, giving only a cold stare in return.`
+char_but: `"......You helped me out last game when things were really coming down to the wire.`
+char_but: ` I'm grateful."`
+char_enj: `"I don't need gratitude.`
+char_enj: ` The way you were acting was just {i:flaccid}.`
+char_enj: ` I only told you to get a clue."`
+char_bea: `"Kuhhyahhyahhya!`
+char_bea: ` Yesss, Battler is flaccid indeed, hyahhyahha!"`
+char_non: `Beato tried to laugh in agreement, but the woman wasn't listening.`
+char_non: `She did absolutely nothing except stare at Battler with ice‐cold eyes.`
+char_but: `"...............Well, it looks like someone hates me."`
+char_enj: `"I'm just annoyed that you aren't fighting seriously."`
+char_but: `"You say I'm not serious......?"`
+char_enj: `"You can't possibly mean that the mess you got yourself into earlier was you being {i:serious}?`
+char_enj: ` ......What do you take me for?`
+char_enj: ` How long do you intend to go along with this witch's farce?"`
+char_but: `"...I am fighting Beato in my own way.`
+char_but: ` And yes, I'm serious about it."`
+char_enj: `"Serious?`
+char_enj: ` .........Don't make me laugh.`
+char_enj: ` You keep on drinking tea and chatting with a witch for all eternity and call that fighting seriously?`
+char_enj: ` Keep the jokes to just your hairstyle."`
+char_but: `"......I mean, sure, I wasn't used to this witch's game in the beginning, and I've had a hell of a rough time, I'll admit.`
+char_but: ` But now, I'm finally starting to see how to fight and the knack to doing it.`
+char_but: ` ...If the pathetic way I've been acting makes it look to you like I haven't been serious, you're mistaken."`
+char_enj: `".........Am I?"`
+char_but: `"Of course, I know I've gotta close in a lot more before I can grab Beato by the collar."`
+char_but: `"But no matter how long that distance is, it is finite.`
+char_but: ` And with each passing game, I am steadily closing that distance step by step!"`
+char_but: `"No matter how long it takes, I will close in on that witch, and I'll definitely checkmate her.`
+char_but: ` ......Borrowing one of her common phrases, it might even take me "a thousand years".`
+char_but: ` ...But even so, eventually, I will definitely win."`
+char_but: `"Why?`
+char_but: ` Because I will never accept losing.`
+char_but: ` I will never stand still, and I'll keep closing in on her!`
+char_but: ` So in other words, there's just one thing I can say for sure."`
+char_but: `"......I will definitely win against that witch someday!`
+char_but: ` That's how it is."`
+char_enj: `"You sure are patient.`
+char_enj: ` Are you even trying to win?`
+char_enj: ` Even the finite can become infinite if it's treated the wrong way.`
+char_enj: ` You've already become Achilles, unable to even outstrip a tortoise."`
+char_enj: `".........Now I get it. So this is why I'm needed.`
+char_enj: ` At this rate, there's no way you could win against the Endless Witch even after a billion years."`
+char_but: `"......Who are you?`
+char_but: ` It wouldn't kill you to tell me your name."`
+char_enj: `"................................."`
+char_non: `At that point, the woman fell silent, gazing straight into Battler's eyes.`
+char_non: `At first, Battler faltered under the firmness of that look and his gaze wavered slightly, but as her eyes continued to stare into his, gradually, he found himself becoming lost in them.`
+char_non: `......And in their depths, he saw a light that he had seen at some time before...`
+char_non: `Battler was struck by how strongly they resembled the eyes of a girl who definitely couldn't be here,`
+char_non: ` ......but that was completely impossible.`
+char_but: `"...I know it's stupid,`
+char_but: ` ......but for some reason, I'm getting that feeling.`
+char_but: ` But that can't be right.`
+char_but: ` ......She's supposed to still be six years old.`
+char_but: ` ............You couldn't possibly be...`
+char_but: `.........Ange, could you............?"`
+char_enj: `"........................`
+char_enj: ` If I said yes, ...would you believe me?"`
+char_but: `"Nn..............."`
+char_enj: `"I'll put it another way.`
+char_enj: ` If I said "I am on your side, so trust me",`
+char_enj: ` would you believe me?`
+char_enj: ` Would you unconditionally trust some unknown woman you're meeting for the first time just because she looks a little like someone you know?"`
+char_enj: `"......It's because you're so trusting that you were tricked so easily in the last game and cried so bitterly."`
+char_enj: `"......You said it yourself.`
+char_enj: ` That kid is six, right?`
+char_enj: ` Do I look like I'm six?`
+char_enj: ` And despite that, if I were to claim that I'm that kid, you'd still just swallow that story?"`
+char_but: `"......When you put it like that,`
+char_but: ` ...I guess you're right."`
+char_but: `"...Sorry.`
+char_but: ` Yeah, I am too trusting.`
+char_but: ` The last game should have taught me that.`
+char_but: ` ......Is this what you meant when you said I wasn't serious?"`
+char_enj: `"Yes.`
+char_enj: ` You may think you're fighting against the witch, but all you're doing is making friends with her and having fun.`
+char_enj: ` ......You're just competing in a friendly game of chess."`
+char_enj: `"That may be a serious contest for you two,`
+char_enj: ` but looking at it from far away, I only see you two playing around like you're good friends, protected by the rules."`
+char_but: `".....................`
+char_but: ` ......Ihihihi.`
+char_but: ` That's harsh."`
+char_enj: `"But as long as you can't win this game, you won't be released from this place.`
+char_enj: ` ......That's why I came.`
+char_enj: ` To bring this game to its conclusion.`
+char_enj: ` ......You claim that you're closing in on the witch, but you're just like a hamster running around in a wheel."`
+char_bea: `"*cackle*cackle*!`
+char_bea: ` Oh, those? Those things that run around and around in a wheel night after night?"`
+char_enj: `"At a glance, you might think that running around in a wheel is endless.`
+char_enj: ` ......Endless Witch, {f:5:Beatrice}.`
+char_enj: ` You are just like that wheel.`
+char_enj: ` And he is the one running around in the wheel forever, thinking he's fighting, but actually just making a fool of himself."`
+char_enj: `"......This isn't a game.`
+char_enj: ` This is nothing more than a cage to keep him imprisoned for all eternity."`
+char_bea: `"Hoh.`
+char_bea: ` ......You would liken my infinity to a mere wheel that a mouse plays in?`
+char_bea: ` Interesting, interesting, *cackle*..."`
+char_enj: `"Something that's infinite in a certain dimension tends not to be infinite in a higher one.`
+char_enj: ` A Menger sponge may have infinite surface area, but that only applies in a world of less than three dimensions.`
+char_enj: ` In the three‐dimensional world of reality, it has zero mass.`
+char_enj: ` Not only is it not infinite, it can't even exist."`
+char_bea: `"*cackle*cackle*cackle*...!`
+char_bea: ` What an assertive woman.`
+char_bea: ` It seems you are worthy of calling yourself my enemy."`
+char_but: `"............Who...are you?"`
+char_enj: `"I am your ally.`
+char_enj: ` And an enemy of witches.`
+char_enj: ` .........Of course, you don't have to believe it."`
+char_enj: `"No one can prove that I really am your ally.`
+char_enj: ` In fact, it would be preferable if you stayed on your guard strongly enough to find me very suspicious."`
+char_but: `".........You're right.`
+char_but: ` I got burned bad the last time.`
+char_but: ` I've got to be at least that careful.`
+char_but: ` ...I'm done with getting tricked."`
+char_bea: `"*cackle*cackle*cackle*cackle*......!"`
+char_non: `Beato laughed with true satisfaction in a way that was insulting only to Battler.`
+char_enj: `"People don't just get tricked out of the blue.`
+char_enj: ` They neglect to check things for themselves, and entrust that to other people—and that's when they get tricked.`
+char_enj: ` ......Saying that you thought the light had turned green just because you saw other people start crossing is no excuse for getting into an accident.`
+char_enj: ` Get it...?"`
+char_but: `"Yeah... I get it.`
+char_but: ` ......You're telling me not to swallow information given to me by others, but to think for myself.`
+char_but: ` .........I've just been swallowing the magic that Beato showed me."`
+char_but: `"{i:I'd stopped thinking}.`
+char_but: ` That's why it was no good."`
+char_non: `Battler grimaced as he remembered his many painful losses.`
+char_non: ` ...Seeing that, the witch laughed audaciously once again.`
+char_enj: `"I will advise you in a way that will be to your advantage.`
+char_enj: ` Of course, you shouldn't just swallow the things I say.`
+char_enj: ` Because no one can provide absolute proof that I'm on your side."`
+char_non: `In the last game, {f:5:Virgilia}, who I'd thought was an ally, turned out to be on the witch's side after all.`
+char_non: `......Battler couldn't get that eerie smile worn by {f:5:Virgilia}, who he had even thought of as dependable, out of his head.`
+char_enj: `"So you don't have to unconditionally trust me.`
+char_enj: ` Therefore, taking my advice as nothing more than an opinion to be considered is absolutely fine.`
+char_enj: ` After all, ......the player who's fighting in a game against the witch {i:is you}."`
+char_but: `"...Yeah, you're right.`
+char_but: ` Saying I lost because I followed the moves of an outsider would be just too pathetic of an excuse."`
+char_bea: `"Indeed it would!`
+char_bea: ` My opponent is Battler.`
+char_bea: ` You are nothing more than an outsider.`
+char_bea: ` It is good that you understand that.`
+char_bea: ` *cackle*!"`
+char_enj: `"No, I'm not an outsider.`
+char_enj: ` {f:5:Beatrice}, Ushiromiya Battler,`
+char_enj: ` ...and me with my bird's‐eye perspective over you...will fight in a formation almost like a triangle.`
+char_enj: ` At a glance it might not seem to be a united front, but fighting together is not the only way to form a united front."`
+char_bea: `"Hoh.`
+char_bea: ` What an odd thing to say."`
+char_enj: `"Just now, he described fighting with you as closing the distance.`
+char_enj: ` But you can't measure distance with a single eye.`
+char_enj: ` Only with two eyes are things visible in three dimensions, and only then can distance be measured."`
+char_enj: `"......And having two viewpoints is meaningless if they're in the same place.`
+char_enj: ` You can gauge the witch more accurately if they're far apart."`
+char_but: `"......Shooting from different positions and different angles.`
+char_but: ` ...So, like crossfire, then.`
+char_but: ` Heheh, interesting."`
+char_enj: `"We will shoot from different positions...and different angles.`
+char_enj: ` ......So I won't make friends with anybody.`
+char_enj: ` In order to separate my own position and catch the witch in a pincer attack."`
+char_bea: `".........Are you sure about this, Battlerr?`
+char_bea: ` This woman may actually be an ambush I set up, you know?`
+char_bea: ` She might just be saying something plausible to gain your trust, you know...?"`
+char_but: `"......Maybe.`
+char_but: ` She's been saying that over and over again herself.`
+char_but: ` ...So, of course, I can't blindly accept her advice."`
+char_but: `"But I can think for myself and decide whether it's worthy of being trusted or not.`
+char_but: ` As long as I don't stop thinking for myself, I won't be tricked by anyone again...!"`
+char_bea: `"*cackle*cackle*cackle*!!`
+char_bea: ` Impressive confidence, Ushiromiya Battleerr!`
+char_bea: ` After you've said so much, it makes me want to...`
+char_bea: `trick you all over again, you see...?`
+char_bea: ` And I want to see what kind of face you'll make when you realize that you've been tricked yet again!`
+char_bea: ` I like it, kuhha{0}ha{0}ha{0}ha{0}ha{0}hahaha!!"`
+char_but: `"......So, it looks like you know my name, but I don't know yours.`
+char_but: ` ...Tell me your name."`
+char_non: `For a while, the woman remained silent without the slightest change in her expression.`
+char_non: `...She looked as though she couldn't decide whether to say her name or not, or possibly, as though she was deciding what to call herself on the spot.`
+char_enj: `"......Gretel."`
+char_but: `"Girdle?`
+char_but: ` You wear one?"`
+char_enj: `"That's my name, dumbass.`
+char_enj: ` Call me Gretel."`
+char_but: `"Then should I call myself Hansel?`
+char_but: ` Ihihihi, just kidding, I'm Ushiromiya Battler!`
+char_but: ` Just call me Battler."`
+char_enj: `"............Nice to meet you.`
+char_enj: ` ...I hate handshakes.`
+char_enj: ` Don't take it personally."`
+char_but: `"...Yeah, you're right, sorry.`
+char_but: ` I mean, it isn't a sure thing that you're on my side.`
+char_but: ` ......And you only just told me to keep my guard up, too."`
+char_non: `Battler drew back the right hand he had stuck out.`
+char_non: `His bitter smile disappeared, and was replaced with a strong expression of resolve for the new game, now in its fourth iteration.`
+char_enj: `"Battler.`
+char_enj: ` ......Think deeply about why you must win against this witch.`
+char_enj: ` ......You can't stop with something abstract, like "She annoys me so she's going down".`
+char_enj: ` ......Have a deep conviction that you'll definitely defeat the witch and escape from this world."`
+char_enj: `".........Because there is definitely...`
+char_enj: `......someone waiting for you to come back.`
+char_enj: ` ......For her sake as well, you...`
+char_enj: `..........................."`
+char_non: `Maybe she had something on her mind.`
+char_non: ` Gretel clenched a fist in front of her chest and hung her head in silence, at a loss for words for a short while.`
+char_non: `Beato spoke up in a forceful voice, shattering that silence.`
+char_bea: `"Good, that should be enough of an introduction for Gretel or whoever!`
+char_bea: ` Come, try to remember, what happened on October 4th!`
+char_bea: ` Kuhhihihihihihihi, the curtain opens on the fourth game!!"`
+char_non: `In unison with her voice, the clock, which had been turned back to October 4th, 1986, ......started to move, as though blown by a suddenly raging storm.`
+char_non: `While we remained in the witch's tea room, the blue‐gray sea and the green Rokkenjima spread out beneath us,`
+char_non: ` ......and we could see the boat heading there, trailing a wake behind it.`
+char_non: `The sky was already cloudy, and it seemed that the barrier of the typhoon would soon shut the island away.`
+char_non: `The boat docked in the harbor,`
+char_non: ` .........and Gohda, who had been waiting there, could be seen helping to unload it.`
+char_non: `And finally,`
+char_non: ` ......the boat dropped off all of the passengers,`
+char_non: ` .........and began to separate from the island.`
+char_non: `The relatives started to get swallowed up by the island.`
+char_jes: `"Ahhahahaha!`
+char_jes: ` You're as energetic as ever, Maria."`
+char_geo: `"Maria‐chan, you'll trip if you don't look out.`
+char_geo: ` Be careful...!"`
+char_mar: `"Uu‐uu‐uu!!`
+char_mar: ` Gonna faaall gonna faaall, gonna siiink gonna siiink, *giggle*!"`
+char_non: `...All my fondly remembered cousins I had loved so much dashed away through the beach,`
+char_non: ` ......disappearing as they were sucked into the forest path leading to the mansion.`
+char_non: `And of course, Onii‐chan could be seen among them too.`
+char_but: `"......Dammii~it!!`
+char_but: ` Hold it, hold it, Mariaaaa!!`
+char_but: ` You nimble little brat!"`
+char_mar: `"*giggle*! Uu‐uu‐uu!`
+char_mar: ` *giggle*giggle*!"`
+char_non: `Maria onee‐chan, who I had loved, dashed away, and Onii‐chan chased after her.`
+char_non: `They were swallowed up by the forest.`
+char_non: `Following in pursuit, Mom and Dad were also swallowed up.`
+char_non: `The rest of my relatives were swallowed up, too...`
+char_non: `......Swallowed up, leaving only me behind...`
+char_enj: `You idiot......`
+char_enj: `How long are you going to joke around and play with a witch in a place like this......`
+char_enj: `Come back quickly, ......Onii‐chan......!`
+char_enj: `{n}`
+char_enj: `Don't leave me all alone...!`
+char_enj: `And realize.`
+char_enj: `Realize what a cruel and lonely world I end up isolated in...`

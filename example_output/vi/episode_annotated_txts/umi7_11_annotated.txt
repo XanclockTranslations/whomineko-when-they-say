@@ -1,0 +1,495 @@
+char_cur: `"Yeah, seriously.`
+char_cur: ` Not only was Yasu slow‐witted, that kid also lost stuff all the time."`
+char_cur: `"But even so, Yasu always had this look that said "I didn't lose it! I put it down and someone took it away!"`
+char_cur: ` It really pissed me off!"`
+char_cur: `"That kid just didn't know how to concentrate.`
+char_cur: ` If you do things without thinking, it's no surprise that your actions grow careless."`
+char_sha: `"But it was only like that in the beginning, right...?`
+char_sha: ` After some time, that kid started concentrating, and all of that bad stuff stopped happening......"`
+char_non: `"Hmm, really?`
+char_non: ` Well, it was all stuff that anyone should be able to do anyway."`
+char_kum: `"Learning to do things that everyone can do is part of growing up.`
+char_kum: ` I doubt the rest of you were so clever about everything when you first started, yes?"`
+char_non: `"......Are you kidding?`
+char_non: ` If we weren't clever, we'd never have been selected to work for the Ushiromiya family."`
+char_non: `"We're supposed to be the elite!!`
+char_non: ` The fact that Yasu was young was no excuse."`
+char_non: `"That's right.`
+char_non: ` ......If Yasu is supposed to learn cleverness by growing up, then that should be done before coming to work for the Ushiromiya family."`
+char_sha: `"Come on...`
+char_sha: ` That kid worked really hard to balance school and work...`
+char_sha: ` I think you're all being too harsh..."`
+char_non: `"We were selected because we made it through a harsh process, right?`
+char_non: ` There's no need for us to pamper Yasu."`
+char_non: `"I'm sick of this.`
+char_non: ` I don't get why someone as dull‐witted as Yasu was chosen!"`
+char_cur: `"Being selected as an Ushiromiya family servant was an achievement that all Gospel children respected.`
+char_cur: ` The older servants had achieved glory by making it through the strict selection process.`
+char_cur: ` Yasu was so clumsy that they all wondered why that child had been selected."`
+char_cur: `"......Of course, Yasu was working very hard for a child of that age.`
+char_cur: ` However, the older servants were unsatisfied,`
+char_cur: ` and before long, they started being mean to Yasu whenever they got the chance.`
+char_cur: ` Even after getting used to life on Rokkenjima, Yasu could not make a single friend.`
+char_cur: ` At least, not any {y:0:Human}{n:0:human} friends......"`
+char_kum: `"Hoh‐hohohoho.`
+char_kum: ` Yes, that can sometimes happen, and always when you're busy.`
+char_kum: ` Perhaps a fairy is pulling pranks on you."`
+char_non: `"......It's a witch pulling pranks on me.`
+char_non: ` I mean, I know I put it right there, and all I did was glance around a bit, ...and it disappeared..."`
+char_non: `The witch pranked me again.`
+char_non: `I left my master key behind,`
+char_non: ` Madam found out, and I got in a lot of trouble.`
+char_non: `......Why, when I always put my master key back in my pocket after I use it...`
+char_non: ` ......Why was it in a place like that......?`
+char_non: `And this is the third time it's happened.`
+char_non: `The first two times, I realized that it wasn't in my pocket, and managed to find it before anyone found out.`
+char_non: `But the third time, Madam found it.`
+char_non: `I was really mad and frustrated with that witch in the red dress.`
+char_kum: `"Hoh‐hoh‐ho, {f:5:Beatrice}‐sama's pranks can be quite troublesome.`
+char_kum: ` But if you're dealing with a witch, shouldn't you be able to use some sort of charm?"`
+char_non: `"A charm...?"`
+char_non: `Kumasawa‐san started fishing through the kitchen cupboards, saying "now where did that get to".`
+char_non: `The thing she finally found and brought to me...was a kite string.`
+char_non: `She stretched it out for me to see, then used a knife to cut off a 50 cm piece.`
+char_kum: `"Try tying this end to the key,`
+char_kum: ` then tie the other end to your pocket button or some other place that doesn't stick out.`
+char_kum: ` ......This is the spiderweb charm."`
+char_non: `"Spiderwebs?`
+char_non: ` Like the ones the evil spirits of Rokkenjima fear?"`
+char_kum: `"Good, I'm glad you remember.`
+char_kum: ` It is said that the spiderwebs on this island are imbued with magical power, and that they are very effective at repelling evil.`
+char_kum: ` See? If you stretch it out like this, it looks like a spiderweb, doesn't it?`
+char_kum: ` Hoh‐hoh‐ho, this way, that spiderweb‐hating {f:5:Beatrice} won't be able to prank you anymore."`
+char_non: `That......does make sense.`
+char_non: `It really does look like a spiderweb when pulled tight.`
+char_non: ` .........Since Kumasawa‐san says so, it must have some pretty strong evil‐repelling power.`
+char_non: `I can just ask her to make several of these kite strings for me, and then I can tie them to everything I don't want to lose.`
+char_non: `......But, clearly, that won't be very practical.`
+char_non: `I'd have strings all over me.`
+char_non: `"What about things I can't keep tied to me,`
+char_non: ` ......like pencils and erasers?"`
+char_kum: `"Hoh‐hoh‐ho, for times like that, there's a different charm.`
+char_kum: ` All you have to do is make a house for {nobr:Mr. Pencil} and {nobr:Mr. Eraser}."`
+char_non: `Make a house...?`
+char_non: ` ......You mean, build a roof and a bed and stuff??`
+char_kum: `"You aren't actually building a house, you're giving them one.`
+char_kum: ` ......For example, take {nobr:Mr. Knife} here, who I cut the string with.`
+char_kum: ` "{i:I wanna go ho~me!}" he says.`
+char_kum: ` Eheheheh, he gets lonely when he's left alone, so he always wants to go home right away.`
+char_kum: ` So, if you leave him anywhere else, he'll be lost and start crying."`
+char_kum: `"......See, I left {nobr:Mr. Knife} lying around, and now he's gotten lonely and started to cry."`
+char_non: `"......Poor thing.`
+char_non: ` We need to get {nobr:Mr. Knife} home..."`
+char_kum: `"Here is {nobr:Mr. Knife}'s house.`
+char_kum: ` See, his whole family of knives is waiting for him.`
+char_kum: ` "{i:Mama~, I'm ho~me.}" "{i:Welcome ba~ck.}" See?"`
+char_non: `Kumasawa‐san returned the knife to the knife‐holder under the sink.`
+char_non: `Even though she had done something so ordinary, I felt slightly moved, as though the lost little knife had finished his adventure and finally returned home.`
+char_non: `Once he slid into the spot he was supposed to be in,`
+char_non: ` ......everyone in the knife family was together again, and they all started talking happily...`
+char_non: `Then, Kumasawa‐san said we should give them their privacy,`
+char_non: ` and shut the door...`
+char_kum: `"The poor things hidden by the witch must get lonely easily.`
+char_kum: ` So, when the witch tells them she'll take them somewhere fun, they're just happy to go along with her.`
+char_kum: ` How do you think we can stop this from happening?"`
+char_non: `"Take them home right away......"`
+char_kum: `"Exactly.`
+char_kum: ` They're lonely, naughty kids, so they'll go with the witch if they get the chance.`
+char_kum: ` So, you must always take them home quickly."`
+char_kum: `"......Look at {nobr:Master Key} there you just tied to a string.`
+char_kum: ` He's sitting there all alone, crying and asking you to put him in his home in your pocket."`
+char_non: `{i:*sob*sob*}......`
+char_non: ` {i:I'm lonely.}`
+char_non: `The voice of the lonely master key finally reached my ears.`
+char_non: `I hurried to pick it up,`
+char_non: ` took the other end of the string and tied it to my pocket button, and put the key in my pocket.`
+char_kum: `"See, "{i:I'm ho~me}".`
+char_kum: ` {nobr:Master Key} gets lonely so easily, so let's take him home right after we use him, okay?`
+char_kum: ` If you keep making little friends like this, even {f:5:Beatrice}‐sama won't be able to prank you much longer..."`
+char_non: `Jangle, thud.`
+char_non: `When break time was over and I stood up to see what I should help with next,`
+char_non: ` I felt a tug, and the key ring with the master key fell to the floor.`
+char_non: `......Once again, I had left the master key on the side of the sofa...`
+char_non: `and forgotten it was there.`
+char_non: `The instant I stood up, the string pulled on it and it fell to the floor.`
+char_non: `Without Kumasawa‐san's spiderweb charm,`
+char_non: ` I would probably have left that master key lying here again.`
+char_non: `The master key left all alone would have been led away by the witch and disappeared...`
+char_non: `Whew, that was close...`
+char_non: `And, once again, I heard the master key, who had almost been left alone, cry and tell me that it wanted to go home...`
+char_non: `".........I'm sorry.`
+char_non: ` Come on, let's go back home to my pocket..."`
+char_non: `{i:Yay, I'm home!}`
+char_non: ` {i:Back at last!}`
+char_non: `..............................`
+char_non: `......Thank goodness.`
+char_non: ` ...I almost got pranked by the witch again......`
+char_non: `"Oh, what's this...?!`
+char_non: ` Nice trick, using string like that!"`
+char_non: `All of a sudden, I heard a wild, shocked voice from over my shoulder.`
+char_non: `It was a voiceless voice.`
+char_non: ` A witch's voice, the kind you can't hear unless you try.`
+char_non: `".........{f:5:Beatrice}...?"`
+char_bea: `"That's me, my friend.`
+char_bea: ` You forgot about your key again, so I was just about to use it to toy with you...!"`
+char_non: `"It's a spiderweb charm that Kumasawa‐san showed me.`
+char_non: ` It seems to work very well."`
+char_bea: `"Indeed.`
+char_bea: ` I hate to admit it, but it does.`
+char_bea: ` I have no desire to touch that.`
+char_bea: ` After all, you wouldn't want to put your finger on a razor and slide it across, would you?"`
+char_non: `"......Uwa, ......that's a scary example...`
+char_non: ` My finger hurts just thinking about it..."`
+char_bea: `"But good for you.`
+char_bea: ` You managed to avoid Natsuhi yelling at you for losing your key.`
+char_bea: ` *cackle*cackle*, you should be thanking me!"`
+char_non: `"Why?"`
+char_bea: `"You learned about the charm because I annoyed you, did you not?`
+char_bea: ` Thanks to that charm, you have managed to take care of the forgetfulness that made you leave keys lying around.`
+char_bea: ` In other words, it is all thanks to me.`
+char_bea: ` Wahahahaha, it is only natural that I be thanked, don't you agree?"`
+char_non: `"Nn, ......nnnnn......"`
+char_non: `I really don't like it, but she does have a point.`
+char_non: `Because of all the trouble {f:5:Beatrice} caused me, I told Kumasawa‐san and learned the charm from her.`
+char_non: `Even without the witch's pranking,`
+char_non: ` ......if I didn't have the charm, I would have gone to my next job and left the master key here.`
+char_non: `If that happened, ......then surely, I wouldn't have been able to find the key, and it would've been a big mess.`
+char_bea: `"This is what they call punishment to teach someone a lesson.`
+char_bea: ` By magnifying your mistakes, I've shown you what they are, as a friend.`
+char_bea: ` And you have grown splendidly as a result."`
+char_non: `"......Nn, nnnn......`
+char_non: ` I get the feeling that Kumasawa‐san's the one I should be thanking, not you."`
+char_bea: `"My, my.`
+char_bea: ` What a thankless job we witches have.`
+char_bea: ` *cackle*."`
+char_non: `"Anyway,`
+char_non: ` I win this time.`
+char_non: ` Okay, I need to get back to work now."`
+char_bea: `"Very well, my friend.`
+char_bea: ` We'll call this your victory."`
+char_bea: `"However, giving up is not my forte.`
+char_bea: ` I shall keep watching you, even more closely now, until I can even the score.`
+char_bea: ` Prepare yourself.`
+char_bea: ` There are countless small items that a person like you is likely to forget.`
+char_bea: ` You can't attach string to all of them.`
+char_bea: ` *cackle*cackle*...!"`
+char_non: `"The spiderweb charm isn't the only one I have.`
+char_non: ` ......I also learned the "take them home" charm.`
+char_non: ` I won't let you have your way anymore."`
+char_bea: `"Hmph.`
+char_bea: ` Let us see how well you can actually do.`
+char_bea: ` On another matter,`
+char_bea: ` that's quite the bright smile you've got there.`
+char_bea: ` When a witch comes, that's a time to cry, not laugh.`
+char_bea: ` Your break time is over.`
+char_bea: ` See if you can manage to do your job today without slowing down the older servants."`
+char_non: `"Sure. Today is Sunday, and the weather is wonderful.`
+char_non: ` I'd better do my best."`
+char_bea: `"Go do whatever you can.`
+char_bea: ` Oh, that's right, Reine ({p:0:玲音})'s been in a bad mood all morning.`
+char_bea: ` I suggest you avoid eye contact with her.`
+char_bea: ` Also, your fortune for the day is "water hazard".`
+char_bea: ` Make sure you take care when standing near buckets of water.`
+char_bea: ` ......I am well aware of your weaknesses.`
+char_bea: ` I will be waiting for you to knock over a bucket and get scolded just like usual."`
+char_non: `"*giggle*.`
+char_non: ` ......Thank you, {f:5:Beatrice}."`
+char_non: `Back when I could not yet {y:1:‘see’}{n:1:see} her...`
+char_non: `{n}I simply hated this prank‐loving witch.`
+char_non: `But now that I could talk with her, ......it seemed to me that she was not all bad.`
+char_non: `Of course, I felt no need to be grateful to her.`
+char_non: `The witch {f:5:Beatrice} despises boredom, and subsists on mocking the misfortune of others.`
+char_non: `{y:0:Human}{n:0:Human}s and witches are different.`
+char_non: ` Incompatible beings.`
+char_non: `And yet, ......it felt as though we could become friends.`
+char_non: `Of course, she was still a witch.`
+char_non: ` I could not afford to be careless.`
+char_non: `However, not being careless is a very good thing.`
+char_non: `Using charms and tricks to pay attention, so that her pranks would no longer work on me, was not a bad thing by any means.`
+char_non: `Those techniques would be useful for my job and my life, even without the witch's pranks.`
+char_non: `Yes, this witch called {f:5:Beatrice} would go to any lengths to make a point.`
+char_non: `{n}I learned that it was possible to build up a friendship through verbal abuse...`
+char_sha: `"Ever since then, there was an incredible change in that kid."`
+char_zep: `"Because of all the charms?!"`
+char_kum: `"Hoh‐hohoho.`
+char_kum: ` That's right.`
+char_kum: ` What an assiduous child.`
+char_kum: ` All of the charms I taught were followed with great dedication."`
+char_fur: `"With strings attached to everything?`
+char_fur: ` Or else that "going ho~me" thing?"`
+char_sha: `"Yes.`
+char_sha: ` That kid would sometimes say it out loud.`
+char_sha: ` It was really cute, like watching someone play house with a bunch of tools."`
+char_zep: `"Just like a kid!"`
+char_fur: `"The kid {i:was} a kid, silly!"`
+char_non: `""Ahhahahahahahahahahahaha!!""`
+char_kum: `"With adults, you can say something one way and all of them will understand.`
+char_kum: ` However, there really are many different types of kids, and you need many different ways to teach them things.`
+char_kum: ` If you can find just the right way, they learn quite easily."`
+char_sha: `"Some kids learn better when they're punished, and some learn better when they're praised."`
+char_kum: `"I used to scare a neighborhood kid and tell him that a fairy would take his things if he didn't put them away after using them.`
+char_kum: ` Hoh‐hoh‐ho, this was the same, except the fairy became a witch......"`
+char_zep: `"Still, doesn't that sound like fate?!"`
+char_fur: `"After all, you knew this kid was Beatrice's child, didn't you?"`
+char_kum: `"Yes, I did know."`
+char_sha: `"So you told Beatrice's child that "the witch {f:5:Beatrice} will play pranks on you unless you put your stuff away neatly"...`
+char_sha: ` ......That's kind of funny, isn't it?"`
+char_kum: `"Hoh‐hoh‐hoh‐ho......`
+char_kum: ` I just thought of it after the child came and told me that a witch was stealing things and pulling pranks."`
+char_kum: `"I took it as a sign that the late Beatrice‐sama had become a witch...`
+char_kum: `and was coming to teach her child to keep track of things.`
+char_kum: ` ......That's why I thought this the best way to teach that child."`
+char_sha: `"That kid started out with a bad reputation for forgetting and losing things,`
+char_sha: ` but got a lot more cheery after overcoming those bad habits."`
+char_kum: `"By overcoming weaknesses, those weaknesses become strengths,`
+char_kum: ` and that is how people gain confidence and grow up.`
+char_kum: ` ......Those tiny spurts of growth, day by day, were precious to watch over.`
+char_kum: ` Yes, it was as though I was watching the growth of my very own grandchild."`
+char_non: `"""Thank you, Genji‐sama."""`
+char_gen: `"......Good work with the big cleanup today.`
+char_gen: ` The guest rooms are rarely used, but we can never predict when an important guest might stay the night.`
+char_gen: ` You must not allow yourselves to become complacent when cleaning them."`
+char_non: `"Of course.`
+char_non: ` All of us are fully aware of this fact."`
+char_gen: `"......I wish that were the case.`
+char_gen: ` When I looked around, I found this.`
+char_gen: ` Whose is it?"`
+char_non: `Genji took a master key ring out of his pocket.`
+char_non: `{n}......Apparently, someone had dropped their master key.`
+char_non: `All of the servants swung around to look at me, the usual offender.`
+char_non: `"Come on. Yasu again?"`
+char_sha: `"Y‐you shouldn't be so quick to judge."`
+char_non: `"I have mine, of course.`
+char_non: ` There's no way I'd drop something that important.`
+char_non: ` And the rest of you?!"`
+char_sha: `"I have mine..."`
+char_non: `"Got it!"`
+char_non: `"So, it {i:was} you, Yasu!`
+char_non: ` Do you still not get it, even after that scolding Madam gave you?!`
+char_non: ` You're just so...!"`
+char_cur: `"......Normally,`
+char_cur: ` I would cower and apologize under their glares, whether I was guilty or not.`
+char_cur: ` However, I had changed.`
+char_cur: ` So, I proudly held up the key with the spiderweb string still attached......"`
+char_gen: `".....................Hoh.`
+char_gen: ` ......You tied it up to keep yourself from dropping it.`
+char_gen: ` A laudable attitude."`
+char_non: `Genji‐sama's face was as expressionless as ever.`
+char_non: ` However, those were unmistakably words of praise.`
+char_sha: `"*giggle*, that's right.`
+char_sha: ` You won't drop them anymore.`
+char_sha: ` After all, you have your charm now."`
+char_non: `......That's right.`
+char_cur: `"I nodded proudly, a huge smile on my face.`
+char_cur: ` The proud experience of that day, of that moment,`
+char_cur: ` would inscribe an unforgettable page in the memory of my young life......`
+char_cur: ` In that case, whose key did Genji find......?"`
+char_non: `"...............!"`
+char_non: `There was only one servant who hadn't raised their key.`
+char_non: `As she muttered "It has to be Yasu's key!`
+char_non: ` Of course it's not mine",`
+char_non: ` and fished in her pocket, her face went pale...`
+char_gen: `"There is no room for complacency in the everyday duties of a servant.`
+char_gen: ` Nevertheless, mistakes do happen.`
+char_gen: ` I will not criticize you for a single mistake; however, blaming a fellow servant instead of reflecting on your own actions is not an attitude I would consider praiseworthy."`
+char_non: `"M‐`
+char_non: `my...`
+char_non: `...apologies..."`
+char_non: `The older servant turned red and hung her head.`
+char_non: `Behind her, ......though no one else could see it, was the witch.`
+char_bea: `"*cackle*!`
+char_bea: ` My friend will not make the same mistake again.`
+char_bea: ` I am ever on the lookout for signs of weakness, yet even I have not yet been presented a single further opportunity!`
+char_bea: ` But this is a shame.`
+char_bea: ` If I had known this girl here would lose her key, I could have pranked her this time...!"`
+char_non: `"Please don't prank people other than me."`
+char_sha: `"Huh?`
+char_sha: ` Did you say something?"`
+char_non: `"N‐no, nothing......"`
+char_cur: `"I tried not to feel schadenfreude,`
+char_cur: ` but after being called dull‐witted for so long, I was finally able to hold my head up high.`
+char_cur: ` After that day, I was at last able to feel as though I had become accustomed to life as a servant of the Ushiromiya family......"`
+char_zep: `"When people compliment you, you feel like you've been accepted!"`
+char_bea: `"It is very important.`
+char_bea: ` People cannot grow without it."`
+char_fur: `"And what happens when people grow?"`
+char_bea: `"Firstly, the mind is freed up.`
+char_bea: ` You become able to carry out jobs with confidence, jobs that you initially carried out while worrying that you might be doing them the wrong way."`
+char_zep: `"You're right!`
+char_zep: ` Once you become comfortable in your work, that does free up the mind!"`
+char_fur: `"And what happens once the mind is freed up?"`
+char_bea: `"You can then enjoy your days more.`
+char_bea: ` To use Genji's words, you might say that it gives you the freedom to be a little bit complacent."`
+char_zep: `"If you're tense all the time, that just wears you out!`
+char_zep: ` It's good to relax a bit, if you can!"`
+char_fur: `"You mean, you learn so much that you can start slacking off on the job?"`
+char_bea: `"It sounds bad when you put it that way.`
+char_bea: ` However, there is nothing wrong with skillfully carrying out your tasks quickly and using your free time to enjoy yourself.`
+char_bea: ` Times like that are what enrich a person's life."`
+char_zep: `"Come to think of it, Gohda plays crosswords a lot between jobs!"`
+char_fur: `"He also invents dishes with leftover ingredients!"`
+char_bea: `"Playing a bit and refreshing yourself can also be good for your efficiency.`
+char_bea: ` You might say that inventing dishes combines work and play."`
+char_bea: `"Even Genji slacks off when no one's looking.`
+char_bea: ` He'll watch TV or swipe some of his master's drink.`
+char_bea: ` And he reads complicated books."`
+char_non: `""Even Genjiiiiiii?!""`
+char_bea: `"*cackle*cackle*!`
+char_bea: ` In short, it's all about cleverly using the gaps between jobs to play.`
+char_bea: ` If it goes too far, it can be called complacency.`
+char_bea: ` However, people only become mature when they learn to balance work with pleasure.`
+char_bea: ` Simply put, if all you care about is work all the time, you're not fully mature."`
+char_fur: `"So, that kid learned how to play between jobs?"`
+char_zep: `"It's hard to imagine that serious kid slacking off at work!"`
+char_bea: `"It started with interaction.`
+char_bea: ` That kid formed a relationship with Kumasawa, the person who was always kind,`
+char_bea: ` and started borrowing books from her and talking together about them."`
+char_cur: `"Even I had friends at school, but because of my work, there was no chance to deepen our friendship.`
+char_cur: ` Jessica never concerned herself with her status and was always kind to me, but there was Natsuhi's stern order to think of, so we were unable to play together very much."`
+char_cur: `"......So, at that time, it was Kumasawa, the one who was always as kind as a mother to me, who was the person I felt closest to."`
+char_bea: `"The two of them were as distant in age as a grandmother and her grandchild.`
+char_bea: ` They did not run around and play together.`
+char_bea: ` Instead, the child developed an interest in Kumasawa's hobby."`
+char_fur: `"And what's Kumasawa's hobby?!"`
+char_bea: `"Books.`
+char_bea: ` It might be hard to believe, but Kumasawa was a pretty big fan of mystery novels."`
+char_zep: `"The kid wanted to find out what sorts of books they were and started reading them?"`
+char_bea: `"That's right.`
+char_bea: ` The nice thing about mystery novels is that you can talk about them while you read them.`
+char_bea: ` Even Kumasawa, who already knew the answer, must have enjoyed listening and hearing...`
+char_bea: `what sorts of theories a young intellect could create."`
+char_cur: `"Of course, I didn't start right away with the difficult books Kumasawa read.`
+char_cur: ` First, I asked for her recommendations and got books from the school library.`
+char_cur: ` I would even bring them into the servant room and read a bit during every break."`
+char_cur: `"Every time a new theory popped into my head, I told Kumasawa about it,`
+char_cur: ` and she, who already knew the answer, would give non‐committal responses and grin.`
+char_cur: ` ......That was a lot of fun for me."`
+char_sha: `"Are you going to take a bath?`
+char_sha: ` Bath time's almost over."`
+char_non: `"......Yeah, ...just a bit more......`
+char_non: ` Another one of the figures just disappeared..."`
+char_sha: `"*giggle*.`
+char_sha: ` You've become a total mystery nut.`
+char_sha: ` If you get too excited reading, you won't be able to sleep again."`
+char_non: `".........According to Kumasawa‐san, the culprit has already appeared...`
+char_non: ` But I don't have a clue who it is..."`
+char_sha: `"What kind of story is it?"`
+char_non: `"It starts with everyone receiving an invitation to a small island.`
+char_non: ` No boat is coming to pick them up, and one by one, they're being found dead in a way that's connected to the nursery rhyme, and each time, one of the figures disappears......`
+char_non: ` ......It's really interesting.`
+char_non: ` Almost like it's a crime happening on Rokkenjima."`
+char_sha: `"Yes, that's a really famous mystery novel.`
+char_sha: ` Wasn't that one a perfect crime, at least until the culprit confesses to the truth in a message bottle at the end?`
+char_sha: ` An incredible book."`
+char_non: `"Shhh,`
+char_non: ` shhh!`
+char_non: ` I'm enjoying myself, so don't spoil me!`
+char_non: ` Go take a bath now, I'll go by myself later...!"`
+char_sha: `"Okay, okay.`
+char_sha: ` ......See you later then.`
+char_sha: ` Don't forget to take a bath, okay?"`
+char_non: `Shannon picked up a change of clothes and smiled amusedly as she left the room.`
+char_non: `I probably won't be able to read the whole thing tonight.`
+char_non: `Even though I know that, I just keep turning the pages, unable to find a good place to stop.`
+char_non: `My new joy, the mystery genre.`
+char_non: `{n}The mental game of thinking and theorizing.`
+char_non: `And also talking about it with Kumasawa‐san.`
+char_non: `......All of that left me enraptured.`
+char_bea: `"You've become a complete bookworm.`
+char_bea: ` Well, if you do stay up and get sleepy, that just makes my job all the easier."`
+char_non: `"We can't have that.`
+char_non: ` I'd better find a place to stop soon."`
+char_bea: `"*cackle*.`
+char_bea: ` .........In the times of old when I was born, there were no such pleasures as mystery novels.`
+char_bea: ` I have been reading over your shoulder, and this really is an interesting book."`
+char_non: `"Beato, who do you think is the culprit?"`
+char_bea: `"In the book you are reading?"`
+char_non: `"Yeah.`
+char_non: ` Who is the sender of the message bottle, I wonder..."`
+char_bea: `"The culprit who lured the victims to the island, of course."`
+char_non: `"There are only ten people on this island.`
+char_non: ` And the sender of the message bottle is "UNKNOWN"......"`
+char_bea: `"No doubt the person who stranded the ten of them there is somewhere far away, waiting patiently for all of them to starve to death."`
+char_non: `"No, that's not right.`
+char_non: ` He or she is on the island.`
+char_non: ` They're one of the ten.`
+char_non: ` I just don't know who..."`
+char_bea: `"How do you know that there are only ten people on the island?"`
+char_non: `"......That's just how it is."`
+char_non: `Since if you don't trust that, what can you trust, or it's just one of the assumptions of the mystery genre, ......or...hmmm...`
+char_bea: `"It is the owner of the island, correct?`
+char_bea: ` They might be hiding in some hidden room.`
+char_bea: ` Or maybe they're like me!`
+char_bea: ` They may be a thousand year old witch!`
+char_bea: ` No, no, if they had to go to all this trouble just to kill ten people, they couldn't be a thousand years old.`
+char_bea: ` 495 years old at most, I'd say. *cackle*cackle*!"`
+char_non: `"Locked rooms do appear a lot in mystery novels.`
+char_non: ` And books often use a phrase like "it could only conceivably have been done with magic" to describe them.`
+char_non: ` ......And here I am, with a witch right before my eyes. It's a complicated feeling."`
+char_bea: `"Pft, *cackle*cackle*!`
+char_bea: ` Very entertaining, these locked‐room murders.`
+char_bea: ` ......Once you read the answer, it becomes a tale about humans, or a mystery novel.`
+char_bea: ` But, if you rip out the part that reveals the answer and throw it away,`
+char_bea: ` it becomes a tale about witches, or a fantasy novel."`
+char_non: `".........Hmmm?`
+char_non: ` That's an interesting way to look at it.`
+char_non: ` So, you're saying that there's only a razor‐thin margin between human novels and witch novels when it comes to mysteries?"`
+char_bea: `"If a trick exists, it is a human novel.`
+char_bea: ` If not, it is a witch novel.`
+char_bea: ` If you just tear out the last few pages of that book you're reading,`
+char_bea: ` you might think of that person as {f:5:Unknown}, a witch on the same level as me...!"`
+char_non: `"......That might be surprisingly wise, coming from you.`
+char_non: ` ......So, the culprit of detective novels without an answer is a witch."`
+char_bea: `"All of the dark places in this world belong to us witches.`
+char_bea: ` Therefore, I could reign as the culprit of all detective novels old and new across the world."`
+char_non: `"Except, if you reason it out right and find the true answer, then the witch is done for."`
+char_bea: `"*cackle*cackle*.`
+char_bea: ` Detective novels are quite interesting, it seems.`
+char_bea: ` This looks to be a truly entertaining mental game."`
+char_non: `"That's right.`
+char_non: ` This is a mental game.`
+char_non: ` You fight against the book, make a theory, and then have debates to battle friends who have also read the book."`
+char_bea: `"Not only that. It is also a battle between witch and human.`
+char_bea: ` Will you allow my locked‐room murders, my magic, to withstand scrutiny.....or will you deny it?`
+char_bea: ` A mystery is a game of chess by another name!"`
+char_non: `"........................`
+char_non: ` ......So, I'm not reading a book alone, but playing a game against you?"`
+char_bea: `"Indeed!`
+char_bea: ` As Shannon said a short while ago,`
+char_bea: ` this story apparently has the truth revealed by a message bottle at the end.`
+char_bea: ` In other words, if you cannot expose the truth of the tale before that point, you lose."`
+char_bea: `"After all, the message bottle just happened to drift somewhere that it could be seen.`
+char_bea: ` If it got smashed and sank before anyone saw it, this would be a perfect crime,`
+char_bea: ` a crime impossible for humans to accomplish—a crime committed by a witch."`
+char_non: `"......That's a fun way to look at it.`
+char_non: ` A battle between me and the witch.`
+char_non: ` ............Yeah.`
+char_non: ` I really like thinking of it that way."`
+char_bea: `"*cackle*!`
+char_bea: ` Starting now, and until you finish reading,`
+char_bea: ` I am {f:5:Unknown}, the 495‐year‐old witch!`
+char_bea: ` Can you see through my deserted island murder tricks?`
+char_bea: ` Ahi{0}hhya{0}ha{0}ha{0}haha!"`
+char_non: `"......I have formed one theory.`
+char_non: ` You want to play with me, don't you?`
+char_non: ` I've been reading books so much, you've gotten lonely."`
+char_bea: `"That too!"`
+char_non: `"Pft—"`
+char_non: `""Hahahahahahahahahahaha......""`
+char_non: `......Incidentally...`
+char_non: `The game Beato and I played with this book ended with my defeat.`
+char_non: `In the end, I wasn't able to build a satisfying theory, and I had to learn the truth from the message bottle.`
+char_non: `Luckily, it did manage to drift into human hands.`
+char_non: ` If it had sunk to the bottom of the ocean, as Beato had suggested, I would have had no way of knowing the truth.`
+char_non: `In other words, I would have been forced to accept that the sender of the message bottle was a witch.`
+char_non: `Mystery—I once thought it was just a genre for novels.`
+char_non: `To think that it could so easily become a fight between witches and humans, truth and fantasy.`
+char_non: `I was instantly enraptured by this new "game".`
+char_non: `As the months passed by, I read through all of the mystery novels in the school library,`
+char_non: ` and started to read mystery novels for adults.`
+char_non: `I discussed them with Kumasawa.`
+char_non: ` I discussed them with Shannon.`
+char_non: `{n}I played my game of theory chess, the fight between witches and the truth.`
+char_non: `How enjoyable those days were......`
+char_non: ` Oh, I am one yet many.`
+char_non: `Here's to the fun game of the mind that enraptured me......`

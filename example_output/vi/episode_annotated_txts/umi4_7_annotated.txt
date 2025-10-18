@@ -1,0 +1,980 @@
+char_non: `That's right.`
+char_non: ` Just once in the past, I underwent training in order to step into the world of witches.`
+char_non: `I accepted that the only power which could save me from my sad, painful days at Saint Lucia Academy...`
+char_non: `was the thing called magic, and I received Maria onee‐chan's introduction to the basics......`
+char_enj: `"...............Imagine...a vast space......`
+char_enj: ` ......The scenery when I looked down at the base of the mountain, from the rest stop at the peak......"`
+char_enj: `".........Like this......?"`
+char_non: `I projected that scene from a memory into my mental world.`
+char_non: `......Normal little girls get over their admiration of magical girls during elementary school.`
+char_non: `Training in absolute earnest to use magic at this age......I have to say, I'm embarrassed of myself.`
+char_non: `But even that embarrassed emotion felt pleasant to me now.`
+char_non: `Right now, I was learning mental concentration from Maria onee‐chan in order to use magic.`
+char_non: `But it wasn't going very well.`
+char_non: ` ......It was about as hopeless as going to a person who can wiggle their ears,`
+char_non: ` asking them how they do it, and expecting to learn anything at all from their demonstration...`
+char_non: `It seems that you need to imagine a vast space to gain the mental concentration for using magic.`
+char_non: `So I remembered the time from my younger days when my family had gone on a small vacation,`
+char_non: ` and I had looked down towards the base of a mountain from a viewing platform at a rest stop on the peak—and I tried painting this scene in my mental world.`
+char_mar: `"No, still far too small.`
+char_mar: ` Imagine a much, much wider space.`
+char_mar: ` And create your very own mental world."`
+char_mar: `"Your image is still far too foggy.`
+char_mar: ` There's no temperature in the air, and there's no wind.`
+char_mar: ` No smells either.`
+char_mar: ` The world is still very thin.`
+char_mar: ` ......You can leave those for later, so for now, just imagine a wider space."`
+char_sak: `‘Uryu.`
+char_sak: ` ......Why do you have to imagine a wide space?’`
+char_mar: `"From the time they're born, {y:0:Human}{n:0:human}s have inside them a toxin that blocks magic.`
+char_mar: ` If you don't purge yourself of that toxin, you can't use magic well.`
+char_mar: ` ...One effective method of achieving this is to imagine a vast space."`
+char_enj: `".........Just now, I thought of the world as seen from the window of an airplane, but that didn't work either.`
+char_enj: ` ......A world more vast than that,`
+char_enj: ` ......I can't even imagine."`
+char_sak: `‘In that case, Maria, why don't you just tell Ange about the vast world you have...!`
+char_sak: ` Won't that make it easy for Ange to imagine as well?`
+char_sak: ` Uryu!’`
+char_enj: `"......That's right.`
+char_enj: ` And I'm interested in the kind of world you imagine when you use magic, too, Onee‐chan.`
+char_enj: ` ...I'll use it as a reference as well."`
+char_mar: `"Uu, won't work.`
+char_mar: ` The mental world must be vast and isolated.`
+char_mar: ` A world with absolutely no obstructions other than yourself."`
+char_mar: `"......Which means, if you tell someone about that world, it won't be isolated anymore.`
+char_mar: ` So you can't reveal your mental world to anyone.`
+char_mar: ` So if you manage to draw up a good mental world, you have to keep it a secret only for yourself."`
+char_sak: `‘Uryu...`
+char_sak: ` Maria's a meanie‐face...’`
+char_enj: `"Thanks, Sakutaro.`
+char_enj: ` I guess there are no shortcuts in training.`
+char_enj: ` ......I'll make an effort.`
+char_enj: ` It's alright, I've been given plenty of hints."`
+char_sak: `‘Uryu...!`
+char_sak: ` Do your best, Ange...!’`
+char_non: `I had come to think that there was no way I could be saved by something like magic.`
+char_non: `{n}After all, magic doesn't exist in this world.`
+char_non: `{n}That kind of thing should be nothing more than a fantasy, a delusion, a daydream.`
+char_non: `......However, Maria onee‐chan had shown that she could fill her own world with happiness using a power that was impossible for me.`
+char_non: `I had been looking down on that happiness as an empty happiness.`
+char_non: `......I had been denying it all, thinking that because I didn't accept magic, I couldn't accept the happiness that came from it either.`
+char_non: `But Maria onee‐chan's world grew happier and happier.`
+char_non: `In the past, I had disparaged it, calling it painful to look at.`
+char_non: `But......that might have been nothing more than jealousy.`
+char_non: `{n}It was time for me to admit that.`
+char_non: `And doing so was my first step in my search for happiness...`
+char_non: `A vast space.`
+char_non: ` A dry wind that can blow unobstructed by everything.`
+char_non: `{n}......Let me feel that wind blowing through my hair.`
+char_non: `......Oh...yes, even the ground might block me as I am now.`
+char_non: `Then I don't need it.`
+char_non: `............Push the ground away, downwards, downwards.`
+char_non: `In other words, ......it was as though I had floated up, leaving the ground far behind.`
+char_non: `After pushing it further and further downwards,`
+char_non: ` ...the ground grew foggy and faint, ......and for the first time, I began to feel the sky.`
+char_non: `.........Then, I understood its vastness.`
+char_non: `In that instant, I felt the vivid wind pass straight through my body—in other words, blow through without any resistance.`
+char_mar: `"....................................`
+char_mar: ` ......Yes.`
+char_mar: ` Maintain that sensation."`
+char_enj: `"......Yes, I can feel it.`
+char_enj: ` ......I can tell that I've been......released from all hindrances."`
+char_sak: `‘You did it, Ange, you did it, Ange...!`
+char_sak: ` You've taken your first step into the world of witches...!’`
+char_enj: `"..................This is...the world of witches......?"`
+char_mar: `"Yeah.`
+char_mar: ` So, let's try practicing the magic that you've always wished for, Ange.`
+char_mar: ` .........Magic to summon friends.`
+char_mar: ` ......Magic to create allies who will save you from your loneliness, and thereby bring you happiness."`
+char_sak: `‘Will Ange also be able to summon friends like me?!`
+char_sak: ` Uryu‐uryu!’`
+char_mar: `"......As Ange is now, it's still far too early for her to summon a friend of your caliber from the sea of zero.`
+char_mar: ` ......For now, let's just start by practicing with friends that are easier to summon."`
+char_enj: `".....................`
+char_enj: ` ...What will we begin with...?"`
+char_mar: `"Because you are a witch of Mariage Sorcière,`
+char_mar: ` you are also permitted to use those who are employed by other witches in the alliance."`
+char_mar: `"......For example, Sakutaro is my friend, but since you're in the same alliance, Ange, he's your friend too, and you can summon him.`
+char_mar: ` ......You wanna try summoning Sakutaro one of these days?`
+char_mar: ` When you're feeling all alone and it's really getting you down, I'm sure Sakutaro will cheer you up."`
+char_non: `Oh, right.`
+char_non: ` You could call Sakutaro a being employed by Onee‐chan.`
+char_non: `So as a witch in the same alliance as Onee‐chan, it's also possible for me to summon Sakutaro......`
+char_non: `I met Sakutaro's gaze.`
+char_non: `......What a joy it would be to have him just be sitting there by my pillow,`
+char_non: ` so he could talk to me a bit on lonely nights.`
+char_enj: `"......If I call out, will you appear,`
+char_enj: ` ......and talk to me......?"`
+char_sak: `‘Uryuu!`
+char_sak: ` I'm looking forward to you summoning me!`
+char_sak: ` Uryu‐uryu‐uryu!’`
+char_non: `Looking happy, Sakutaro playfully pressed and rubbed his head against me like a cat.`
+char_non: `Suddenly getting this cute younger brother......left me feeling a bit confused, a bit embarrassed, and a bit happy.`
+char_non: `.........Unable to understand why I hadn't been able to honestly accept this feeling, I felt tears well up in my eyes.`
+char_enj: `"Okay.`
+char_enj: ` ......I'll give it all I've got, Onee‐chan."`
+char_mar: `"Then let's try and practice.`
+char_mar: ` .........Let's try summoning the furniture of a witch from the same alliance—{f:5:Beatrice}."`
+char_enj: `"............{f:5:Beatrice}'s...furniture."`
+char_non: `Hearing {f:5:Beatrice}'s name mentioned gave me a slightly strange feeling.`
+char_non: `When it came to the crime on Rokkenjima, the public had made a lot of noise about it being a witch's sacrificial ritual or something like that.`
+char_non: `......And that witch was {f:5:Beatrice}.`
+char_non: `So {i:if} the culprit of that crime was a witch,`
+char_non: ` ......it would mean that this very woman was the culprit who took away my family.`
+char_non: `However, according to Maria onee‐chan, {f:5:Beatrice} was a good witch.`
+char_non: `If I held negative emotions towards {f:5:Beatrice},`
+char_non: ` she would get mad, argue with me and call me mean, and refuse to talk to me for a while.`
+char_non: `......Onee‐chan was my only close friend right now.`
+char_non: `...So to avoid worsening the mood of my close friend,`
+char_non: ` I had decided to think of {f:5:Beatrice} as nothing more than Onee‐chan's magic master...`
+char_non: `......And anyway, my belief is that the crime was a murder plot hatched by Aunt Eva.`
+char_non: `......Someday I'm definitely gonna bring that all to light.........`
+char_mar: `"Ange.`
+char_mar: ` Obstructions are mingling inside your body again."`
+char_enj: `".........Sorry, I lost my concentration.`
+char_enj: ` ...One more time..."`
+char_non: `Onee‐chan is really something...`
+char_non: `{n}She instantly noticed that I was being overcome with idle thoughts.`
+char_non: `After shaking my head just once, I reimagined the wind blowing through the vast sky...`
+char_enj: `"............The Seven Sisters of Purgatory?`
+char_enj: ` That's a pretty creepy name."`
+char_mar: `"But they're very energetic and fun girls.`
+char_mar: ` They might become your new friends, Ange.`
+char_mar: ` ......I'll summon them first.`
+char_mar: ` Watch."`
+char_non: `Maria onee‐chan lifted both hands up to the level of her head, and quietly unified her mind.`
+char_non: `......The state that I could not attain without meditating for a long period of time, she reached in the span of a few quick breaths.`
+char_non: `Then, a pale blue light began to gather in her palms, .........and one by one, the girls began to show themselves.`
+char_non: `One, two, three.`
+char_non: ` Four, five, six, seven...`
+char_non: `The way they were summoned one after another in a line was overwhelmingly impressive.`
+char_non: `......Incredible.`
+char_non: ` The Seven Sisters of Purgatory, ......just like the illustrations in Onee‐chan's grimoire...`
+char_non: `The younger sisters were behind the eldest, Lucifer, who saluted Onee‐chan.`
+char_rg1: `"The Seven Sisters of Purgatory, right here...!`
+char_rg1: ` Lady {f:5:Maria}, it has been quite some time."`
+char_mar: `"Yep.`
+char_mar: ` Long time no see.`
+char_mar: ` Are you all doing okay...?"`
+char_rg1: `"We furniture are furniture because we are used.`
+char_rg1: ` I consider it an honor from my very heart to have been summoned again for the first time in a long while!"`
+char_rg7: `"Kyaa{p:0:♪} Sakutaroo!`
+char_rg7: ` It's been so looong!"`
+char_rg6: `"You look as deli—I mean—cute as ever~!!"`
+char_rg5: `"I'm fi~rst!!`
+char_rg5: ` Kyaa, he's so fluffy, squishy, and cuuu~te!"`
+char_rg2: `"A~h!!`
+char_rg2: ` Let me hug him too, let me hug him too~!"`
+char_sak: `‘U‐uryuu!`
+char_sak: ` Can't brea~the!`
+char_sak: ` I won't run away, so let me go, everyo~ne!’`
+char_rg3: `"Hey!!`
+char_rg3: ` Are you trying to break Lady {f:5:Maria}'s furniture?!`
+char_rg3: ` Just get away from him, hugging is prohibited!!"`
+char_rg4: `"......And yet you're the one who looks like you want to hug him the most.`
+char_rg4: ` *snicker*."`
+char_rg3: `"Wh—?!`
+char_rg3: ` I, I don't have any i‐interest in something so...fluffy and...squishy and...cuddly, okay?!"`
+char_rg1: `"Hey!!`
+char_rg1: ` Be silent in the presence of Lady {f:5:Maria} and Ange‐sama, you cretinous sisters!!"`
+char_non: `They were so energetic...`
+char_non: `{n}The sudden burst of activity as soon they appeared left me stunned.`
+char_non: `And even greater than that was my surprise that the innocent Sakutaro was on such good terms with the Seven Sisters.`
+char_enj: `"......That's unexpected.`
+char_enj: ` To think that Sakutaro would be so loved by such a dangerous bunch of people."`
+char_mar: `"They're fellow members of the same alliance.`
+char_mar: ` There's nothing to be scared of, you know?"`
+char_enj: `"But if Sakutaro were to do something to upset them, it looks like they could finish him off in an instant..."`
+char_mar: `"It's alright.`
+char_mar: ` The witches of the alliance and their furniture are all friendly with each other.`
+char_mar: ` So Sakutaro can play without worrying.`
+char_mar: ` ......Of course, that goes for you and me too, Ange."`
+char_non: `One of the treaties of Mariage Sorcière.`
+char_non: `{n}"Mutual nonaggression and noninterference".`
+char_non: `Member witches must respect each other's magic and creations.`
+char_non: `Even the sisters, who were normally extremely combative and dangerous, interacted with fellow alliance members as friends.`
+char_non: `So to the Seven Sisters, Sakutarou was a common friend.`
+char_non: `He was loved by all of the Seven Sisters, and they were even trying to steal him away from each other.`
+char_non: `This scene as they all surrounded him and loved him was actually a bit charming.`
+char_enj: `"......I see.`
+char_enj: ` They're fellow members of Mariage Sorcière."`
+char_non: `At a glance, you'd think that Sakutaro's easygoing atmosphere and the Seven Sisters' unsettling one would be like water and oil.`
+char_non: ` They looked like they'd never be compatible.`
+char_non: `And yet, they were interacting in such a friendly way, as if it was completely natural......`
+char_non: `If all the peoples of the world could be joined in this wonderful alliance,`
+char_non: ` ......I wonder if the whole world could immediately become friends.`
+char_mar: `"All you Seven Sisters, listen.`
+char_mar: ` Right now, Ange is in the middle of magic training.`
+char_mar: ` So I want all of you to lend her your power."`
+char_rg1: `"Certainly, Lady {f:5:Maria}.`
+char_rg1: ` ...But what specifically?"`
+char_mar: `"I will move the magical power manifesting you from me to Ange.`
+char_mar: ` I want you to stay close by her all the time in that state.`
+char_mar: ` All you have to do is talk with her and stuff like that."`
+char_rg1: `".........My apologies,`
+char_rg1: ` but with Ange‐sama's magical power, I suspect that it will not be easy for her to continually summon all seven of us around the clock..."`
+char_non: `The oldest sister, Lucifer, gauged my reaction as she advised this, speaking reservedly.`
+char_non: `...In short, she was saying that the burden might be too heavy for me at this point in time.`
+char_mar: `"That's the kind of training it is.`
+char_mar: ` Ange has more talent and magical power than you all imagine.`
+char_mar: ` I think it'll be a little bit tough, but I think it's worth it for Ange to take this challenge as she is now."`
+char_mar: `"......Ange.`
+char_mar: ` I will now switch the magic power manifesting them over to you.`
+char_mar: ` ......Basically, you'll be in the same state as if you'd summoned them yourself."`
+char_non: `So what Maria onee‐chan was trying to say was something like this.`
+char_non: `To keep the Seven Sisters manifested, you are burdened continuously with a significant amount of magical power.`
+char_non: `......Maybe you could say it was like training while wearing weighted wristbands.`
+char_sak: `‘Uryu......`
+char_sak: ` Doing all of the Seven Sisters will be pretty tough......`
+char_sak: ` Isn't that asking a lot of Ange all of a sudden...?’`
+char_enj: `"Thanks, Sakutaro.`
+char_enj: ` But this is my training to become a witch.`
+char_enj: ` I want to give it my best."`
+char_non: `......The seven of them certainly do seem boisterous.`
+char_non: ` But even if they're doing it for the sake of my training,`
+char_non: ` having them be with me will surely distract me from my loneliness, at least a little.`
+char_non: `I understood it would be an ordeal, but before anything else, I wanted to give it a shot.`
+char_mar: `"Don't overdo it if it gets tough, alright?`
+char_mar: ` And everyone, if Ange looks like she's having a hard time, tone it down for her."`
+char_rg1: `"Certainly.`
+char_rg1: ` You got that, people?!"`
+char_non: `""""""Yeeees, Onee‐samaa!""""""`
+char_rg1: `"Well then, Ange‐sama.`
+char_rg1: ` We, the Seven Sisters of Purgatory, will now become your furniture.`
+char_rg1: ` .........Lady {f:5:Maria}, if you would."`
+char_mar: `"Yeah.`
+char_mar: ` ......Okay, Ange.`
+char_mar: ` Can we start?"`
+char_enj: `"......Sure.`
+char_enj: ` ...I'm a little nervous."`
+char_sak: `‘Uryu...`
+char_sak: ` This might be tough all of a sudden...`
+char_sak: ` If you feel like you're getting a headache, lower your magic power right away......’`
+char_mar: `"Okay, I'll move the source of magic power over to you now, Ange............"`
+char_mar: `"....................."`
+char_enj: `"...............gh—"`
+char_non: `Instantly, the inside of my head felt very heavy.`
+char_non: `......This is......`
+char_non: `yes,`
+char_non: ` .........it's tough...`
+char_non: `Until then, the inside of my head had been used only for myself.`
+char_non: `{n}It was almost like it was now also being used for seven other people.`
+char_non: `......Their mere presence there, blinking, or even letting out a single breath, was placing an enormous weight on the inside of my head...`
+char_rg4: `"......Lady {f:5:Maria}.`
+char_rg4: ` My apologies, but I fear that the burden of all of the Seven Sisters at once might be too great after all."`
+char_enj: `"I, ......I'm alright.........`
+char_enj: `......ack........."`
+char_mar: `"...Mmmm...`
+char_mar: ` Maybe it's no good after all.`
+char_mar: ` You're using all of your energy to manifest them.`
+char_mar: ` If it's such a burden that you can't balance it with your everyday life, there's no point.`
+char_mar: ` I mean, this is a little...unrefined for a witch."`
+char_sak: `‘Uryu...`
+char_sak: ` I said doing so many all of a sudden was impossible...`
+char_sak: ` Everyone, disappear a little bit and make it easier for her...’`
+char_rg1: `"Yes.`
+char_rg1: ` It seems it would be better to lower the number of people.`
+char_rg1: ` ......Asmo, erase yourself."`
+char_rg7: `"Me agaaain?`
+char_rg7: ` I'm opposed to youngest‐sister‐bullyi~ng!!`
+char_rg7: ` Start from the top every once in a whi~le!"`
+char_rg2: `"But that would mean {i:I'd} have to disappear {i:second}!`
+char_rg2: ` No no noooo!"`
+char_rg3: `"Don't make a ruckus, Asmo and Levia‐nee!!`
+char_rg3: ` That kind of disturbance will put even more strain on Ange‐sama!!"`
+char_rg1: `"The noise you're making is straining her as well, stupid Satan!!"`
+char_rg3: `"Eek!"`
+char_enj: `".........aah, .........ack......`
+char_enj: `......gah........."`
+char_non: `The Seven Sisters started arguing over who should vanish first.`
+char_non: ` ......All the energy of that fight became a burden, imposing an even greater headache upon Ange...`
+char_non: `In the end, they decided the order with rock‐paper‐scissors, and they began to disappear—one of them...two...three.`
+char_non: `But even at that level, Ange was still far from comfortable.`
+char_non: `In the end, I was finally able to calm my breathing once six of them had erased themselves.`
+char_non: `With my magical power, forget the Seven Sisters, just one of them is my limit...`
+char_rg5: `"......Aaa~aah, this way it's not the Seven Sisters, it's just me.`
+char_rg5: ` You're not very dependable, Ange‐sama."`
+char_non: `Mammon, who had won her way through the rock‐paper‐scissors and received permission to remain until the end, complained.`
+char_sak: `‘Uryu...`
+char_sak: ` Mammon, you mustn't say such a thing...`
+char_sak: ` Ange is still just starting her training.`
+char_sak: ` ......Are you okay, Ange?`
+char_sak: ` Is your headache okay...?’`
+char_non: `Sakutaro stretched on his tiptoes and did little hops trying to pat Ange's head.`
+char_non: `Watching this, Maria scratched her head, acknowledging that this sudden training had been too difficult.`
+char_mar: `"Uu.`
+char_mar: ` Maybe that was a little too austere.`
+char_mar: ` This much is no problem at all for me, though.`
+char_mar: ` The more friends you have, the more fun it is, after all."`
+char_enj: `".........Now I'm even more aware of how incredible you are, Onee‐chan..."`
+char_non: `According to Maria onee‐chan, when you reach her class, you can even summon enough people at once to make up an orchestra.`
+char_non: `And yet she calls herself a witch {i:apprentice}—that's awe‐inspiring...`
+char_rg5: `"Are you alright?`
+char_rg5: ` Ange‐samaa?"`
+char_enj: `"...............I'm sorry...`
+char_enj: ` It looks like summoning you is the most I can do."`
+char_rg5: `"Well, I guess I'm alright with that.`
+char_rg5: ` After all, of all the Seven Sisters, I get the role of Ange‐sama's furniture all to myself.`
+char_rg5: ` ......What do you think, Ange‐sama?`
+char_rg5: ` Will I be a burden by myself?"`
+char_enj: `"No, I can manage you alone somehow..."`
+char_rg5: `"Great!`
+char_rg5: ` Then please train a lot and cultivate a lot of magic power.`
+char_rg5: ` And someday, please let me serve you as one of the fully assembled Seven Sisters.`
+char_rg5: ` Promise?"`
+char_non: `After checking that there was at least nothing wrong with her own manifestation,`
+char_non: ` Mammon immediately returned to a good mood, and tried to make me promise to work even harder.`
+char_non: `Yes, I can see the greed in her.`
+char_non: `{n}...But maybe you could also call it positivity.`
+char_enj: `"......Yes.`
+char_enj: ` I promise.`
+char_enj: ` ...I have to be able to do at least that much someday."`
+char_rg5: `"Thank you, Ange‐sama!`
+char_rg5: ` Until that day, I, Mammon the Covetous, will serve you without fail...!"`
+char_non: `My headache finally abated, and I relaxed both hands, which had been clutching at my head.`
+char_non: `{n}Then Mammon stuck out her hand, and helped me to stand back up...`
+char_sak: `‘Uryu?`
+char_sak: ` ......Ah.`
+char_sak: ` ......Maria, Ange, look at the time.`
+char_sak: ` You'll get told off if you don't go back to the room now.’`
+char_enj: `".........Huh?`
+char_enj: ` ............Oh..."`
+char_non: `I hadn't expected Sakutaro to talk about the time.`
+char_non: `{n}......I was brought back into reality.`
+char_non: `As though the light had disappeared from it, the vast world sank into the darkness,`
+char_non: ` .........and I was in a tiny, tiny bathroom stall, sitting on a toilet...`
+char_non: `Onee‐chan's grimoire was open on my lap.`
+char_non: `I looked at the clock.`
+char_non: ` ......It was almost 8 p.m., time for lights out.`
+char_non: `If I show up late for the roll call before lights out, not only do they make an annoying fuss about it, but it causes trouble for my roommates and floormates as well.`
+char_non: `......I couldn't care less about causing them trouble, but I'd rather not have to deal with the annoying interference that would come as a result...`
+char_non: `Hahh............`
+char_non: ` That's the end of my me‐time for today.`
+char_non: ` I'll go to bed, wake up, tomorrow will begin, and another long, long, gray‐colored day will repeat again.`
+char_non: `I closed the grimoire and rose from the toilet seat...`
+char_non: `Onee‐chan appeared again and spoke.`
+char_mar: `"......Come on, Ange.`
+char_mar: ` You're forgetting your training.`
+char_mar: ` ............Take Mammon with you."`
+char_non: `I'd forgotten.`
+char_non: ` ...The moment I'd returned to reality, I'd stopped manifesting Mammon...`
+char_non: `One more time, I created a strong image of the existence of Mammon in my mind...`
+char_rg5: `"Sheesh, you're so mean, Ange‐sama.`
+char_rg5: ` Erasing me suddenly like that...!`
+char_rg5: ` At this rate, you're going to find it pretty hard to call all of the Seven Sisters, you know!"`
+char_enj: `"............I'm sorry.`
+char_enj: ` I got careless."`
+char_rg5: `"It's been a super long time since I've manifested in the human world, so I'm interested in absolutely everything.`
+char_rg5: ` I'm feeling a little bit excited.`
+char_rg5: ` Where is this?"`
+char_enj: `".........The Saint Lucia Academy dormitory.`
+char_enj: ` This is a stall in the communal bathroom.`
+char_enj: ` ......Each room has its own bathroom, so no one comes here.`
+char_enj: ` It's quiet, and perfect for reading books."`
+char_rg5: `"In this dorm, you have to hide in a toilet stall even to read a book?`
+char_rg5: ` Do they burn them or something?"`
+char_non: `..................`
+char_non: `I have a double room, so my roommate is always there.`
+char_non: `{n}Our relationship is strained, and it feels like I'm always being ignored.`
+char_non: `{n}......The atmosphere's bad, so it's really not a place I can relax.`
+char_non: `And it's good for her as well—as long as I'm not there, she can go all out, call her friends and have a chatting party.`
+char_non: `It's more convenient for her too if I don't return until just before lights out.`
+char_non: `There's also the library, but the group that uses that as a meeting place is constantly whispering about me.`
+char_non: `So I don't like to go to the library either.`
+char_non: `......During lunch, it's the bushes behind the school building.`
+char_non: `{n}During the night, it's the stall in the communal bathroom in the dorms.`
+char_non: `Those are the only hideaways where I can be given peace...`
+char_non: `I opened the door to the stall, ......and went out.`
+char_non: `I turned around, signaling with my eyes for Mammon to come with me.`
+char_rg5: `"............I'm not sure I really understand, but I get the point that you find it pretty hard to call this place comfortable.`
+char_rg5: ` Let's hurry up and get out.`
+char_rg5: ` I hate the air here."`
+char_enj: `"Really?`
+char_enj: ` .........You can't breathe this easy anywhere else."`
+char_non: `When I left the bathroom and exited into the corridor,`
+char_non: ` because it was near lights out, all the girls who had gone to play in other rooms were dashing back to their own.`
+char_non: `When it came time for lights out, we had to change into uniform pajamas that we hated and called prison clothes,`
+char_non: ` line up in the hallway, and go through the dorm leader's roll call.`
+char_non: `......If by some chance someone were to be late for this,`
+char_non: ` we would be made to take collective responsibility, and all of us floormates would have to undergo a punishment that went by the name of volunteer work...`
+char_non: `As long as I took care to avoid this, the girls would disregard me coldly, but they wouldn't get in my way.`
+char_non: `......That alone was enough for me.`
+char_non: `Mammon looked at the passing girls and the furnishings of the dorm with interest.`
+char_non: `......Without paying her any particular attention, I hurried back to my room.`
+char_non: `In front of my room was my roommate, who had already changed into her prison clothes, chatting with some girls from the room next door.`
+char_non: `When they noticed me hurrying back, they blatantly changed the topic of their conversation.`
+char_non: `They lowered their voices, stealing glances at me.`
+char_non: `I acted like I didn't notice, went into my room, changed.`
+char_non: `{n}And hurriedly went out into the corridor.`
+char_non: `Everyone was already lined up.`
+char_rg5: `".........Hey, this is weird.`
+char_rg5: ` Isn't this a school for rich girls?`
+char_rg5: ` It's like a prison.`
+char_rg5: ` This is dumb."`
+char_enj: `"It is, isn't it?`
+char_enj: ` I think so too.`
+char_enj: ` And you could say the thing that makes it even harsher than a prison is that you don't get out early for good behavior."`
+char_non: `......After bitching for a bit, I noticed.`
+char_non: `Having someone to listen to your complaints...`
+char_non: `...feels surprisingly good.`
+char_non: `Fortunately, Mammon's form can only be seen by the summoner, me.`
+char_non: `{n}And of course, there's no need to speak out loud for this conversation.`
+char_non: `All I have to do is speak inside my mind, so no one can listen in.`
+char_non: `.........Magic, and the friends created by it,`
+char_non: ` ......might actually not be so bad.`
+char_rg5: `"These guys, all of them look so scrawny.`
+char_rg5: ` It's like they're not even alive.`
+char_rg5: ` Kyahahaha."`
+char_enj: `"Stop it.`
+char_enj: ` If they happen to see you, it'll be pretty bad..."`
+char_rg5: `"Humans without a fragment of hopes or dreams are like a lump of anti‐magic.`
+char_rg5: ` They'll never be able to see me.`
+char_rg5: ` They're inferior life‐forms who can't even see.`
+char_rg5: ` *giggle*giggle*!"`
+char_enj: `".........Are you alright being around so many {y:0:Human}{n:0:human}s with that anti‐magic toxin?"`
+char_rg5: `"I'm fine as long as you continue to manifest me, Ange‐sama."`
+char_rg5: `"......Although, you probably have to keep concentrating to do that, so there's a chance you'll neglect your daily life.`
+char_rg5: ` ......Look, aren't you being called by that girl you're sharing a room with?"`
+char_enj: `"......Huh?`
+char_enj: ` .........Ah—"`
+char_non: `"Ushiromiya‐san, are you listening?`
+char_non: ` It's us two on duty next week—I wanted to have a little talk..."`
+char_non: `......Probably about pushing a few more chores onto me.`
+char_non: `{n}My roommate, who normally would never even look me in the eye, was smiling at me unpleasantly.`
+char_non: `But I'll have a much easier time having the weekly duty pushed onto me and doing it alone, rather than being forced to do it with her.`
+char_non: `That's a small price to pay to have her continue to ignore me...`
+char_non: `Yet after the shameless excuses,`
+char_non: ` she transitioned into pushing a completely different point, insisting on flipping the issue on its head, as if I should have come forward and done it of my own initiative.`
+char_non: `......One of the special traits of this academy is that it's full of girls who don't know how to ask a favor.`
+char_rg5: `"......What's {i:her} problem?`
+char_rg5: ` She pisses me off.`
+char_rg5: ` I'd love to just gouge her right in the forehead."`
+char_enj: `"Yes.`
+char_enj: ` I'll take you up on that sometime."`
+char_non: `...........................`
+char_non: ` ......Yeah.`
+char_non: ` Having a friend nearby all the time to complain to......makes me happier than I thought it would.`
+char_non: `The Seven Sisters really were lively when they were all gathered together.`
+char_non: `......I'm sure that just watching them mess around would be a lot of fun.`
+char_non: `......I've decided. I'll do all I can to quickly gain the magical power to summon all of the Seven Sisters at once.`
+char_non: `And then I'll keep training, more and more and more,`
+char_non: ` ......and summon...`
+char_non: `......the thing that I really want to summon.`
+char_rg5: `".........?`
+char_rg5: ` What is it that you really want to summon, Ange‐sama?"`
+char_non: `Mammon noticed my conversation with myself inside my head, and asked about it blankly.`
+char_non: `I hesitated over whether to talk about it, but then thought that it wasn't anything to hide, and told her.`
+char_enj: `"..................My family.`
+char_enj: ` .........Dad.`
+char_enj: ` Mom.`
+char_enj: ` Onii‐chan."`
+char_rg5: `"So you mean, the souls of the dead...?`
+char_rg5: ` Calling forth a resident of another world is called "summoning", but calling back the souls of the dead is "resurrection", and they're completely different.`
+char_rg5: ` ......Resurrection is supposed to be very high‐level magic."`
+char_non: `I know.`
+char_non: ` ......So much so that even Maria onee‐chan can't do it at all.`
+char_non: ` But that's the thing I most want to call with magic.`
+char_non: `......I've been warned that it's a very difficult high‐level magic.`
+char_non: `{n}...So great that, in the worst case, I might not necessarily reach that point even after training for my whole life.`
+char_non: `Furthermore, I have no vessel.`
+char_non: ` A vessel is something vital for making magic succeed, whether it be summoning or resurrection.`
+char_non: `Because I don't have one, .........what would already have been difficult magic instead became hopeless.`
+char_non: `That's right.`
+char_non: ` I have nothing to remember Mom or Dad by.`
+char_non: `However, ......by an extraordinary coincidence...`
+char_non: `{n}I do have something to help me remember Onii‐chan.`
+char_non: `And that's.........this.`
+char_rg5: `"......That hair accessory with the pink beads?`
+char_rg5: ` What {i:is} that? Sorry to say it, but it looks a little cheap for you."`
+char_enj: `"Long ago, without telling Dad,`
+char_enj: ` I went with Mom to see Onii‐chan, and we went to play at an amusement park.`
+char_enj: ` ......This is a prize from the crane game there."`
+char_non: `I know it's something cheap, I realize that it doesn't match my style, and I get that it's too childish.`
+char_non: `......But this hair accessory is the only thing that makes me feel as though Battler onii‐chan is by my side.`
+char_non: `The inside of the glass case...`
+char_non: `had been filled with plastic capsules packed with fun‐looking things.`
+char_non: `It seemed that each of those capsules had some kind of cute little object inside.`
+char_non: `The game was to grab those with the crane, ......but I was young, and it was too hard for me.`
+char_non: `No matter how many times I tried, I didn't even get close.`
+char_non: `Mom told me that whatever was inside was probably cheap anyway, and we didn't even know what it was,`
+char_non: ` so there was no point in getting all upset over it.`
+char_non: `But whether it was something cheap or not wasn't the issue.`
+char_non: ` ......The process of grabbing happiness with my own hands...`
+char_non: `felt very important and sacred to me.`
+char_non: `So I wanted that capsule with its unknown cheap little object more than anything.`
+char_non: `Then, Battler onii‐chan came over after finishing with a game where you shoot soldiers with a gun,`
+char_non: ` ......and had a go in my place.`
+char_non: `...The happiness that was beyond my reach, Onii‐chan stretched out for with his longer arms, and he grasped it for me.`
+char_non: `......Onii‐chan really was coordinated.`
+char_non: `{n}Apparently he often played at the arcade with his friends.`
+char_non: `After only one or two attempts with the crane, he grasped that thing on the other side of the glass that I hadn't even been able to touch,`
+char_non: ` .........and dumped it into the exit chute.`
+char_non: `When Onii‐chan tossed me that capsule,`
+char_non: ` I remember feeling like I could count on him for {i:anything}.`
+char_non: `For the next several days, I felt like the capsule was too precious to open up.`
+char_non: `Then, one day, I finally opened it.`
+char_non: `......And when I did, what revealed itself from inside was this pink‐bead hair accessory.`
+char_non: `Since that day...`
+char_non: `this has been a symbol of Onii‐chan.`
+char_non: `My young mind thought that getting that four‐person family together, with Battler onii‐chan included,`
+char_non: ` was a precondition for a happy family.`
+char_non: `So I wanted Onii‐chan and Dad to make up quickly.`
+char_non: `......In my own way, I had made this hair accessory a charm to bring my whole family together.`
+char_non: ` That's why I always used to wear it.`
+char_non: `Because I wanted to feel my reliable, funny, and wonderful onii‐chan by my side all the time,`
+char_non: ` and give him a place in our house.`
+char_enj: `"But......my memories of Onii‐chan...are so distant.`
+char_enj: ` ......I can't do it as easily as Maria onee‐chan created Sakutarou from a lion stuffed animal."`
+char_enj: `"......One day, I will learn the high‐level magic to revive the souls of the dead.`
+char_enj: ` And the only key, the only vessel, that can make that successful...is this."`
+char_rg5: `"...........................`
+char_rg5: ` ......I see.`
+char_rg5: ` I did feel an incredible magical power from that hair accessory, and that explains it."`
+char_enj: `"Magical power...?`
+char_enj: ` Magical power resides in this thing of Onii‐chan's...?"`
+char_rg5: `"Maybe I should say that you are imbuing it with that power.`
+char_rg5: ` ......Your strong desire to call your brother to you is giving you magical power."`
+char_rg5: `"......Resurrection certainly is a high‐level magic,`
+char_rg5: ` but there can be no mistake that you are steadily and unconsciously climbing the stairs towards that magic."`
+char_enj: `"............I'm glad.`
+char_enj: ` It's nice to hear someone other than myself acknowledge that."`
+char_non: `Your own effort isn't something that you can observe by yourself.`
+char_non: `In that sense,`
+char_non: ` ......even though these words came from a dangerous demon girl who governs one of the seven deadly sins,`
+char_non: ` ......they made me very happy.`
+char_rg5: `"Well, I can't guarantee that you will attain the magic of resurrection before your life is over.`
+char_rg5: ` ......However, your power as a witch will be proportional to the height of the mountain you dare to climb."`
+char_rg5: `"If you don't lose heart, I'm sure that one day you'll be able to rival even our former master,`
+char_rg5: ` {f:5:Beatrice}‐sama, as a Great Witch."`
+char_enj: `"......I wonder if I can.`
+char_enj: ` Become a Great Witch and revive Onii‐chan,`
+char_enj: ` ......no, my family."`
+char_rg5: `"The Witch of Resurrection, Lady {f:5:Ange}...!"`
+char_rg5: `"Kyaah, how wonderful!`
+char_rg5: ` A Witch of Resurrection is a very rare kind of witch.`
+char_rg5: ` Having a witch like that as my master would make me pretty proud.`
+char_rg5: ` Actually, I'd love for that to happen.`
+char_rg5: ` Because furniture's worth is also proportional to the rank of its master!"`
+char_rg5: `"Please zip right on by {f:5:Beatrice}‐sama and become a Great Witch like the world has never seen!`
+char_rg5: ` On behalf of the Seven Sisters of Purgatory, I support you from the bottom of my heart! Kyaha!"`
+char_non: `...............I'd thought that if a magical friend were to appear for me too, I'd like a cute kid like Sakutarou.`
+char_non: `But even this fifth sister of the frightening Seven Sisters who govern the seven deadly sins was enough to calm my heart this much all by herself.`
+char_non: `......Maria onee‐chan probably knew this long ago.`
+char_non: ` That's why she recommended the world of witches to me over and over and over again.`
+char_non: `And I kept on stubbornly rejecting it......`
+char_non: `I should have given in and started my training as a witch sooner.`
+char_non: `A year as a child compares with ten in old age...was it...?`
+char_non: `At this point, I find my past self deplorable for wasting precious time doing nothing but complaining.`
+char_non: `Long after I turned off the lights and slipped into bed, Mammon continued to talk to me beside my pillow.`
+char_non: `......I promise.`
+char_non: ` One day, for sure, I'll develop a magical power that can summon the Seven Sisters.`
+char_non: ` And I'll let them have a lively and fun time.`
+char_non: `The seven of them make a single whole.`
+char_non: ` ......None can be left out.`
+char_non: `Family must be together.`
+char_non: `{n}I must......bring them together.........`
+char_enj: `"...................................."`
+char_non: `My awareness began to return slowly.`
+char_non: `I hadn't been able to stand watching Aunt Rosa and Maria onee‐chan's relationship,`
+char_non: ` ......and had run away from Beato and Onii‐chan's game, hadn't I...`
+char_non: `......I've got to go back.`
+char_non: `I've got to go back, support Onii‐chan, and quickly bring him back from this world and its crazy witch games.`
+char_non: `Because as long as I'm here, ......I'm not permitted to call myself Ange.`
+char_non: `......Suddenly, I felt someone's presence.`
+char_non: `When I turned around, .........there stood Mammon.`
+char_rg5: `"Gretel‐sama.`
+char_rg5: ` {f:5:Beatrice}‐sama says that if you do not return soon, it will become a hindrance to the progression of the game.`
+char_rg5: ` I beg that you return swiftly."`
+char_enj: `"............Thanks.`
+char_enj: ` ...I'll go back now."`
+char_rg5: `"Isn't it great?"`
+char_enj: `"What is...?"`
+char_rg5: `"You being able to meet Battler onii‐chan."`
+char_enj: `"..................Sarcasm?"`
+char_rg5: `"If it sounds that way to you, you can take it that way if you want?"`
+char_enj: `".........I'm sorry.`
+char_enj: ` I should accept it literally.`
+char_enj: ` ...Yes, it is.`
+char_enj: ` Even in this screwed‐up world, being able to see Onii‐chan makes me happy from the bottom of my heart."`
+char_rg5: `"And you'll win against {f:5:Beatrice}‐sama, for your onii‐chan's sake...?"`
+char_enj: `"Yes.`
+char_enj: ` ......Can't have him playing around in a world like this forever.`
+char_enj: ` ......It's about time for him to return home.`
+char_enj: ` That's why I came to call him."`
+char_rg5: `"...............Please do the best you can.`
+char_rg5: ` Although I can't support you, seeing as my current master is {f:5:Beatrice}‐sama."`
+char_enj: `"I know.`
+char_enj: ` Until October 5th, 1986, ...you are {f:5:Beatrice}'s furniture.`
+char_enj: ` And eventually, you become my friend."`
+char_rg5: `"And eventually, you throw that friend away.`
+char_rg5: ` After all, ......ng, .........ghkh..."`
+char_non: `Mammon moaned as if she had bit her tongue, staggering as she clutched her chest.`
+char_non: ` Apparently, the rule applies to people other than me as well.`
+char_enj: `"Are you alright?`
+char_enj: ` That's pretty...painful."`
+char_rg5: `".....................`
+char_rg5: ` ......I do apologize.`
+char_rg5: ` G‐...Gretel‐sama."`
+char_enj: `"That's alright.`
+char_enj: ` Thanks."`
+char_rg5: `".........?"`
+char_enj: `"I'm happy.`
+char_enj: ` That I was able to meet Onii‐chan.`
+char_enj: ` That's the answer to your original question.`
+char_enj: ` .........Well, let's go back.`
+char_enj: ` If I grumble too much, you'll get in trouble with your current master."`
+char_rg5: `"Yes.`
+char_rg5: ` Thank you for understanding.`
+char_rg5: ` Well then, th"`
+char_enj: `"..................Mammon?`
+char_enj: ` ............Huh?"`
+char_non: `I'm sure Mammon had been about to say "Well then, this way..."`
+char_non: `But......she stopped dead, as though the film had been torn off.`
+char_non: `It looked like she had suddenly frozen.`
+char_non: `...Then I noticed.`
+char_non: ` She wasn't the only thing that had frozen.`
+char_non: `{n}......Even the air and floating bits of dust had frozen in place.`
+char_non: `A world where it seemed like even time itself had frozen.`
+char_non: `......Yes.`
+char_non: ` It resembled what would usually happen just before {f:5:Bernkastel} appeared.`
+char_non: `But the atmosphere was different somehow.`
+char_non: ` Then I understood.`
+char_non: `.........It wasn't {f:5:Bernkastel}.`
+char_non: `{n}...It was the other witch.`
+char_lam: `"How are you doing, Ange...?"`
+char_enj: `"...............{f:5:Lambdadelta}.`
+char_enj: ` ......The rule doesn't apply to you, I see."`
+char_lam: `"Duh?`
+char_lam: ` Rules exist to bind others.`
+char_lam: ` What kind of idiot would bind themselves with them?"`
+char_non: `{f:5:Bernkastel} is a witch who supports me, ......but this girl is different.`
+char_non: `This witch supports {f:5:Beatrice}.`
+char_non: `{n}...In other words, she's on the side of the enemy.`
+char_non: `But there's some kind of difference between her and {f:5:Beatrice}.`
+char_non: `There's something elusive about {f:5:Lambdadelta}'s existence, and {f:5:Bernkastel}'s as well.`
+char_non: ` ......How should I put it... Maybe like they're beings from a higher dimension...`
+char_non: `In any event, I'm still unsure about how to deal with her.`
+char_non: `......The only thing that I'm certain about is that she is my enemy.`
+char_non: ` ...No, just knowing that might be enough...`
+char_enj: `"So, ......do you have some business with me?"`
+char_lam: `"Kinda.`
+char_lam: ` I was listening in on your conversation and it started to get a bit interesting.`
+char_lam: ` I thought I'd let you hear something good."`
+char_enj: `"You're supposed to be my enemy.`
+char_enj: ` I can't think of any reason for you to tell me something that would benefit me.`
+char_enj: ` ......So the moment I start listening to you, I lose.`
+char_enj: ` Goodbye, <see you next time>."`
+char_lam: `"Don't get the wrong idea.`
+char_lam: ` My opponent is Bern, not you.`
+char_lam: ` ......So it is possible for there to be a topic that benefits both you and me."`
+char_enj: `".....................Sorry,`
+char_enj: ` but I don't feel like listening."`
+char_non: `......That said,`
+char_non: ` I probably won't be released from this frozen time until {f:5:Lambdadelta} is happy.`
+char_non: `......That itself might be proof that she's a higher‐dimensional being than me.`
+char_non: `{n}I haven't been given the option of not listening to her.`
+char_non: `About the only thing I can do is strengthen my mental guard, and try not to be shaken by anything she says.`
+char_non: `She'll probably either try to make me believe something disadvantageous to me,`
+char_non: ` or threaten me...`
+char_lam: `"*giggle*giggle*.`
+char_lam: ` Seriously, you don't need to get so defensive.`
+char_lam: ` I just came to fix your misunderstanding.`
+char_lam: ` ......Well, actually, no.`
+char_lam: ` I came thinking I'd tell you about the lie {f:5:Bernkastel} told you."`
+char_enj: `".........{f:5:Bernkastel}.........lied?"`
+char_lam: `"I'll bet Bern made it sound like, if you defeated Beato, your big brother would come back?"`
+char_enj: `"..................`
+char_enj: ` Who knows.`
+char_enj: ` ...I don't have any intention of talking about it with you."`
+char_non: `My brother coming home...`
+char_non: `{n}I hadn't been promised anything that dream‐like.`
+char_non: `It was a promise with considerably low prospects, where I could end up with maybe one person and only if I was lucky.`
+char_non: `But that's enough for me.`
+char_non: `......Since I was promised an eternity of isolation,`
+char_non: ` this faint but still non‐zero chance was like a blindingly bright beacon to me.`
+char_lam: `"In a way, that promise of Bern's wasn't a lie.`
+char_lam: ` ......If that's what Bern promised, then I'm sure that if you defeat Beato, Battler and your parents will be released and come back to you."`
+char_enj: `"Then there's no problem, is there."`
+char_lam: `"............Seriously?`
+char_lam: ` .........That girl, you'd never think she was that cruel, you know?`
+char_lam: `{n}`
+char_lam: ` {i:To deceive you on purpose}."`
+char_enj: `".........How are you saying I was deceived?"`
+char_non: `Shoot...`
+char_non: `I've let her take the initiative.`
+char_non: `...But I won't be released until I lend an ear to her story.`
+char_non: ` ...So it's something I'll have to hear anyway...`
+char_non: `Even though I realized that I could be on the verge of falling into a trap, I urged her onwards.`
+char_lam: `"What year is it now?"`
+char_enj: `"......You're talking about the world of the game board?`
+char_enj: ` ...In that case, it's October 4th, 1986."`
+char_lam: `"That's right.`
+char_lam: ` So, if you win against Beato, then on October 6th, when the typhoon has passed, the people who were trapped on the island will return.`
+char_lam: ` ......On October 6th, 1986, that is."`
+char_enj: `"...............So what?"`
+char_lam: `"How was your October 6th, 1986?`
+char_lam: ` ............You were at a relative's house, weren't you?"`
+char_non: `......I had been at the house of the only Sumadera my mother trusted—Grandpa.`
+char_non: `.........We got a call.`
+char_non: `While I was playing with building blocks in the tatami room, we got that call...`
+char_non: `After watching to see that I had remembered,`
+char_non: ` ......{f:5:Lambdadelta} smiled unpleasantly,`
+char_non: ` ......and spoke.`
+char_lam: `"WELLLL?`
+char_lam: ` ON YOUR OCTOBER 6TH, 1986, DID BATTLER ONII‐CHAN COME HOOOME?"`
+char_enj: `"...................................."`
+char_non: `Even though I didn't understand what I was being told, I noticed an unpleasant sweat seeping out all over my face...`
+char_non: `......Aaah, I don't understand.`
+char_non: ` I DON'T UNDERSTAND.`
+char_non: `{n}......What is this witch......saying.........?`
+char_lam: `"Okay, so, it's like...`
+char_lam: ` If you defeat Beato, Battler {i:will} certainly be released.`
+char_lam: ` And yep, he'll probably return home.`
+char_lam: ` To his home in 1986."`
+char_lam: `"I mean, he would, right?`
+char_lam: ` Battler is imprisoned in the two days of the 4th to the 5th of October, 1986.`
+char_lam: ` Obviously he'd return to the next day if he was released, right?"`
+char_lam: `"......And who are you?`
+char_lam: ` A person from 1998.`
+char_lam: ` You're Ushiromiya Ange of the year 1998 in which {i:Battler did not return}.`
+char_lam: ` Get it?"`
+char_enj: `"............What...are you talking about?`
+char_enj: ` .........If my family came back home on October 6th, ...that would be wonderful, wouldn't it?`
+char_enj: ` I would come home from Grandpa's house right away.`
+char_enj: ` And then we'd meet.`
+char_enj: ` ......And everyone would live happily ever after..."`
+char_lam: `"Yes.`
+char_lam: ` Ushiromiya Ange probably would be able to reunite with her family.`
+char_lam: ` ......{i:The six‐year‐old Ushiromiya Ange from 1986} would, right......?"`
+char_enj: `".........Who am I?"`
+char_lam: `"Ushiromiya Ange.`
+char_lam: ` An eighteen‐year‐old one."`
+char_lam: `".........No, that's not it.`
+char_lam: ` You aren't Ushiromiya Ange.`
+char_lam: ` ......You're a witch's piece with that name.`
+char_lam: ` Strictly speaking, a completely different person, with the name {f:5:Ange Beatrice}.`
+char_lam: ` ......Get it?"`
+char_non: `I'm...starting to think I don't......`
+char_non: `.........Huh?`
+char_non: ` ......Huh?`
+char_non: ` ......Who...`
+char_non: `......am I?`
+char_non: ` ............Huh?`
+char_lam: `"......And thaaat's why I think Bern's cruel.`
+char_lam: ` No, I think she's a meanie.`
+char_lam: ` It's not like she hasn't had that experience herself."`
+char_enj: `".........Am I............`
+char_enj: `......somehow...`
+char_enj: `......being tricked.........?"`
+char_lam: `"Ah, but please don't blame Bern, okay?`
+char_lam: ` After all, depending on how you look at it, she isn't lying."`
+char_lam: `"......If you defeat Beato, your family will be returned.`
+char_lam: ` Returned to Ushiromiya Ange.`
+char_lam: ` ......But she probably didn't say that this Ushiromiya Ange would be you, right...?"`
+char_non: `Was it like that... Was it like that......?`
+char_non: `{n}What did {f:5:Bernkastel} say to me, again......?`
+char_non: `Your assistance is needed.`
+char_non: ` ......Your family needs it.`
+char_non: `{f:5:Bernkastel} had started by saying that.`
+char_non: `Then I had responded.`
+char_non: `{n}If I save them, does that mean my family will come back?`
+char_non: `{n}......And how had {f:5:Bernkastel} answered that, again......?`
+char_non: `Umm, umm......`
+char_non: `{m:-5:—}—I cannot promise that.`
+char_non: `Uh, umm......!`
+char_non: `{n}That kid did promise me.`
+char_non: `{n}In exchange for accepting this fight...!`
+char_non: `{n}Yes, this is what she said!`
+char_non: `{m:-5:—}—In exchange, I will search for the fragment with the ideal world that you wish for,`
+char_non: ` the world where your family comes home.`
+char_non: `............Yes, that's right.`
+char_non: ` ......She only said she'd search for it.`
+char_non: `{n}She didn't say she'd find it.`
+char_non: ` ......But I've been...prepared for that from the beginning.`
+char_non: `Even so, ......she did promise that as long as I didn't give up, there was a faint chance of it happening......`
+char_non: `And, ......in the end, she said this.`
+char_non: `{m:-5:—}—I'm giving you a chance for revenge.`
+char_non: ` ...In exchange, I promise to find and bring you the happiest resolution that it is possible for you to receive.`
+char_enj: `".....................`
+char_enj: ` ......I've known it was a tough bet from the very beginning.`
+char_enj: ` ......After all, I have no family in my 1998."`
+char_enj: `"If I could have a small chance of shaking that certain zero,`
+char_enj: ` ......that alone would make it worth it for me.`
+char_enj: ` I was warned beforehand that even if I succeeded in my revenge, it might be a wasted effort.`
+char_enj: ` ......So, .........umm............"`
+char_lam: `"Yes, there's no lie in that part.`
+char_lam: ` Beato's game board is perfect.`
+char_lam: ` No matter what moves you make,`
+char_lam: ` the chances of Beato losing are so slim that it's doubtful you could even dream of it happening once in your life."`
+char_lam: `"In other words, that chance of winning is so absolutely virtually zero that it could be regarded as infinitely close to zero.`
+char_lam: ` So it's not really Bern's fault that she had to say it in such an evasive manner."`
+char_lam: `"......But I can say for sure that she was tricking you when she let you get your hopes up.`
+char_lam: ` 'Cause, I mean, even if you managed to overcome the astronomical odds and win,`
+char_lam: ` the person your family would return to is not you."`
+char_lam: `"It's the six‐year‐old Ange that exists in this 1986—the rightful Ushiromiya Ange.`
+char_lam: ` Not {i:you}."`
+char_lam: `"......Even so, Bern will still probably go around billions of fragments, searching for the most acceptable world for you.`
+char_lam: ` And didn't she tell you?`
+char_lam: ` That she planned on bringing it to you as a present, but wasn't able to find it?"`
+char_enj: `"............She did......"`
+char_lam: `"Hehheheheheh, *giggle*giggle*giggle*...!!`
+char_lam: ` Finally starting to realize...?`
+char_lam: ` There's no reward waiting for you in this battle."`
+char_lam: `"No, to the contrary, if you defeat Beato, her game board will disappear.`
+char_lam: ` Then {i:you, as a piece, will disappear as well}."`
+char_lam: `".........There's no goal you'll be capable of appreciating—such a thing is {i:utterly}...`
+char_lam: `.........no.`
+char_lam: ` I'll proclaim it upon my name.`
+char_lam: ` Upon the name of the Witch of Certainty, the Witch of the Absolute, {f:5:Lambdadelta}!`
+char_lam: ` I proclaim, {i:with absolute certainty}, that such a thing does not exist...!"`
+char_enj: `".....................No........."`
+char_lam: `"That's Bern's lie.`
+char_lam: ` ......Or should I call it speaking in riddles?`
+char_lam: ` She made you misunderstand and think that there was some salvation for you.`
+char_lam: ` I came to clear that up."`
+char_enj: `"...............So,`
+char_enj: ` ......no matter how I fight,`
+char_enj: ` no matter what victory I secure,`
+char_enj: ` ......my family won't come back to me.........?"`
+char_lam: `"No, they won't!`
+char_lam: ` For {i:certain}!`
+char_lam: ` Oh‐hoh‐hoh‐hoh‐hoh‐ho!!`
+char_lam: ` The Witch of Certainty is telling you it's for certain!"`
+char_lam: `"Do you know how incredible that is?`
+char_lam: ` There have been several ancient kings who dedicated historical buildings to me because they wanted me to give them certainty!`
+char_lam: ` And I'm generously giving it to you as a present."`
+char_lam: `"Isn't this so lovely, cute and marvelous?`
+char_lam: ` Ohhh‐hoh‐hoh‐hoh‐hoh‐ho!!`
+char_lam: ` Buuut!`
+char_lam: ` I do have one nice little proposal for you."`
+char_non: `.........Not good.`
+char_non: `{n}...I'm getting completely swept up......`
+char_non: `I knew I shouldn't have listened, ......and now the witch {f:5:Lambdadelta} is starting to suck me in......!`
+char_lam: `"My opponent is Bern, not you.`
+char_lam: ` I said just now that it's possible for there to be a subject that benefits us both.`
+char_lam: ` I've been saying since the beginning that that's what I want to talk about.`
+char_lam: ` So listen to me.`
+char_lam: ` You have no choice but to...!"`
+char_enj: `"..................Alright, I'll listen...`
+char_enj: ` I'm listening......`
+char_enj: ` ......I'm listening, okay, are you happy now?!!"`
+char_non: `I finally lost control over my emotions and exploded from the inside.`
+char_non: `I don't have a clue anymore.`
+char_non: `{n}......I believed that I was Ange.`
+char_non: `But at some point, I stopped being Ange.`
+char_non: `That's right, I'm {f:5:Ange}.`
+char_non: ` Not Ange...!`
+char_non: `Who am I?`
+char_non: ` I'm not my parents' daughter, nor my brother's little sister.`
+char_non: ` .........I'm just a piece......in a witch's game...!`
+char_lam: `"There's no need to be so pessimistic.`
+char_lam: ` ......I mean, think about it, okay?`
+char_lam: ` Right now, you're together with Battler onii‐chan."`
+char_lam: `"While it's true that you can't tell him your name,`
+char_lam: ` you're at least positioned as his ally in a game of fighting against witches,`
+char_lam: ` ......and you're able to be with him for all eternity.`
+char_lam: ` ......Get iiiiiit......??"`
+char_non: `.........Frustratingly,`
+char_non: ` .........I do...`
+char_non: `In other words, .........as long as Onii‐chan keeps getting a draw in this game, it will be repeated forever.`
+char_non: `Continuing to draw means the game will continue for eternity,`
+char_non: ` and it means that I, a game piece, can remain with Onii‐chan.`
+char_non: `......But if Onii‐chan wins, or else loses, and the curtain closes on the game...`
+char_lam: `"You, a piece, will disappear."`
+char_enj: `".............................."`
+char_lam: `"What is the happiness of a game piece?`
+char_lam: ` ......Nothing more than being played with in the game.`
+char_lam: ` It doesn't come when the game's shut in the closet, gathering dust, right?"`
+char_non: `......In the past, the Seven Sisters of Purgatory said it as well.`
+char_non: ` Furniture's happiness is being used, not being stored away.`
+char_non: `That's right.`
+char_non: ` ......I am now...`
+char_non: `.........the witch's...`
+char_non: `......furniture.`
+char_lam: `"Lemme change the subject a bit, 'kay?`
+char_lam: ` ......Actually, I {i:want} this game to continue as a draw for all eternity.`
+char_lam: ` An unending game is an eternal cage.`
+char_lam: ` ......An absolute locked room, which will never open for all time, and which will finally make Bern surrender."`
+char_lam: `"......The thing is, Beato does want to win, in a way.`
+char_lam: ` By making Battler surrender.`
+char_lam: ` But that's actually a problem for me."`
+char_lam: `"I mean, if the game ends, the locked room will fall apart.`
+char_lam: ` ......So I'm going easy on Battler to a certain degree, to make sure that he doesn't surrender."`
+char_lam: `"Don't worry, okay?`
+char_lam: ` When Battler starts surrendering, I'm even supporting him and stuff."`
+char_lam: `".........The only thing is,`
+char_lam: ` I get the feeling Beato is faintly starting to realize that.`
+char_lam: ` ......I think she's starting to realize that her victory in this game might not come for all eternity."`
+char_lam: `"But we're okay there, 'cause, she's the Endless Witch.`
+char_lam: ` Beato's stupid, so she optimistically thinks that even so, she'll surely win eventually,`
+char_lam: ` and just has to repeat this game on and on endlessly until that happens."`
+char_lam: `"Blonde‐haired girls are almost always stupid, *giggle*giggle*!"`
+char_enj: `".........Then, in this game of witches,`
+char_enj: ` .........there's no such thing...`
+char_enj: `as victory or loss......"`
+char_lam: `"I won't let her win.`
+char_lam: ` And I won't let her lose.`
+char_lam: ` With certainty!"`
+char_lam: `"......Bern realizes that.`
+char_lam: ` So she found you to be the most powerful piece for breaking that deadlock, and threw you in.`
+char_lam: ` To bring this game to an end, you see?"`
+char_enj: `".........To bring this game...to an end......"`
+char_lam: `"When it ends, what role do the pieces have?`
+char_lam: ` .........I'll state it clearly.`
+char_lam: ` Your existence is a contradiction.`
+char_lam: ` ......Your reason for existing is to bury yourself in the darkness and despair...!"`
+char_non: `My goal is to defeat Beato and release my captive family.`
+char_non: `......And yet, even if I succeed, I won't be rewarded.`
+char_lam: `"You cannot lose.`
+char_lam: ` And you won't be rewarded if you win.`
+char_lam: ` ......So I've brought you a third choice.`
+char_lam: ` And that choice will allow our interests to align."`
+char_non: `............Continuing the draw...forever.........`
+char_lam: `"Yes.`
+char_lam: ` ......As long as they continue to draw for all eternity, this world will not collapse."`
+char_lam: `"......What is this world?`
+char_lam: ` .........It is the world of the game with the witch.`
+char_lam: ` A world where Beato and Battler fight forever."`
+char_lam: `"......And at the same time,`
+char_lam: ` it is a world where you can be with Battler forevermore......!!"`
+char_enj: `"..................uu...`
+char_enj: `.........uu`
+char_enj: `......ah`
+char_enj: `............"`
+char_non: `My brain turned to mush.`
+char_non: `I could feel the chaos pouring from my eyes as a hot liquid...`
+char_non: `{n}The heat of it......felt like it was going to burn my face...`
+char_lam: `"Think about it......`
+char_lam: ` {f:5:Ange Beatriceeeee}...`
+char_lam: ` Since {f:5:Bernkastel}'s goal is to end the game and end the world where you and Battler can interact, why should you be on her side...?"`
+char_lam: `"......That girl was tricking you, you know?`
+char_lam: ` She made it look like you might be saved if you became her piece.`
+char_lam: ` But I won't deceive you there!"`
+char_lam: `"......So I'll say it, {f:5:Ange}.`
+char_lam: ` Become my chess piece.`
+char_lam: ` Unlike Bern, I won't offer you false rewards that you'll absolutely never receive."`
+char_lam: `"As long as you become my piece, and help me so that this game is {i:certain} never to end,`
+char_lam: ` I'll grant you a {i:certain} promise, upon my name, that this world will {i:certainly} continue!"`
+char_lam: `"That's not all.`
+char_lam: ` I'll add on a bonus, too.`
+char_lam: ` The rule that binds you.`
+char_lam: ` .........I'll clear it away for you.`
+char_lam: ` Well, of course, that's only after you've sworn to become my piece, alright?"`
+char_non: `My throat......made a heavy, loud gulping sound......`
+char_non: `Aah, I shouldn't have listened......`
+char_non: ` If I hadn't listened, I could have remained an innocent little sister, praying for my brother's victory.`
+char_non: `......But I might be different now.`
+char_non: `...I might have degraded into a witch's furniture,`
+char_non: ` .........satisfied merely to be by Onii‐chan's side......`
+char_lam: `"......I'm not telling you to betray your brother, alright?`
+char_lam: ` If it looks like Battler's gonna lose, you can save him with all you've got.`
+char_lam: ` ......On the other hand, when Battler closes in on Beato too much, I just want you to hold back a little,`
+char_lam: ` ......and that's all I'm asking, okay?"`
+char_lam: `"Don't worry, there's no need to go so far that you're actually betraying Battler.`
+char_lam: ` ......Battler can't win against Beato alone.`
+char_lam: ` That's why Bern threw you in, right?`
+char_lam: ` ......As long as you don't lend a hand, Battler will be unable to win against Beato for all eternity."`
+char_lam: `"See?`
+char_lam: ` See how eeeeasy it is?`
+char_lam: ` ......*giggle*giggle*, hohhohohoho, ahhah{0}haha{0}ha{0}ha{0}haha‐hah‐hah‐hah‐hah‐hah‐hah!`
+char_lam: ` Kah‐hah‐hah‐hah‐hah, kyaaa‐hah‐hah‐hah‐hah‐hah‐hah‐hah‐hah‐hah‐hah‐hah!!"`

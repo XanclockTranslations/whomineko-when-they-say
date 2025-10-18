@@ -1,0 +1,770 @@
+char_eva: `"Three months left to live.`
+char_eva: ` It was last year when you said that, Doctor Nanjo..."`
+char_nan: `"......I, I only spoke of what I had determined from his overall physical condition at the time.`
+char_nan: ` As a result, it has just worked out that this year, he has—"`
+char_rud: `"Despite the doubt being cast on whether Father can make it to the end of the year, the fact is that even now, he's still enthusiastically immersed in his occult research.`
+char_rud: ` And still you would say he has only three months left, Doctor?"`
+char_nan: `"A‐as I've been saying, Kinzo‐san's—"`
+char_cla: `"Is it not a wonderful thing that our respected father still has his vitality?`
+char_cla: ` Out of parental respect, all of you desire to greet Father so badly that you scarcely know what to do with yourselves.`
+char_cla: ` So you cannot accept the fact that he will not see you."`
+char_nat: `"...Given that you have all begun to prematurely divide up the inheritance while the sun is still in the sky,`
+char_nat: ` I completely understand why it is that Father does not wish to see you."`
+char_ros: `"Y‐you've got it wrong, Natsuhi nee‐san.`
+char_ros: ` ......We just, umm—"`
+char_rud: `"Not even Dad is immortal—he's gonna die {i:someday}.`
+char_rud: ` We aren't telling him to die. We're just saying that he will die {i:someday}.`
+char_rud: ` We're just talking together about how to prepare for that."`
+char_nat: `"And that is precisely what is so disrespectful!!"`
+char_cla: `"Stop it.`
+char_cla: ` You'll make your headache worse."`
+char_non: `Krauss told Natsuhi, who had risen from her chair in agitation, to sit down.`
+char_non: `Trying to smooth over the atmosphere, which had suddenly started crackling with hostility,`
+char_non: ` Hideyoshi put on a cordial smile and motioned for everyone to calm down.`
+char_hid: `"......Natsuhi‐san, don't get us all wrong.`
+char_hid: ` Doesn't this country have a proverb, "a departing bird leaves the nest unsoiled"?`
+char_hid: ` So we're just talkin' about seein' that bird off.`
+char_hid: ` We're discussin' this so we can see Father off cleanly when he eventually leaves on that inevitable journey."`
+char_cla: `"Hahaha...`
+char_cla: ` That's just like you, Hideyoshi‐san.`
+char_cla: ` Even though you're saying the same thing, you make it sound so intellectual."`
+char_eva: `"Yes, that's right.`
+char_eva: ` Unlike you, Nii‐san."`
+char_rud: `"Stop it.`
+char_rud: ` That won't get us anywhere.`
+char_rud: ` .........So like we're saying, Aniki.`
+char_rud: ` We can just forget all of this about the inheritance.`
+char_rud: ` It doesn't even matter if Dad hits us."`
+char_rud: `"To make a long story short, all we want is to meet Dad directly and say hello.`
+char_rud: ` Even if Dad says he doesn't want to.`
+char_rud: ` If he's locked up in his study, we'll borrow a key from Genji‐san if we have to.`
+char_rud: ` Right, Rosa?"`
+char_ros: `"...Oh, ...well, umm...it's not like we're forcing you...`
+char_ros: ` ......It's just...we haven't said hello to Father in such a long time."`
+char_ros: `"If his remaining life really is short, then there's even a chance we might never be able to see him again...`
+char_ros: ` ......Today might be our final opportunity to exchange words with Father..."`
+char_eva: `"Yes, just like Rosa says.`
+char_eva: ` You do realize that if he only has three months left, it wouldn't be odd for him to pass away any time now?"`
+char_eva: `"And you're telling us we don't even have the right to talk with him one last time?`
+char_eva: ` ......I think that is a bit much, don't you...?"`
+char_nat: `"......If the conversation you all intended to have with Father really was a greeting, I am sure he would see you gladly."`
+char_nat: `"But Father has already heard exactly what kind of disrespectful topic you have lowered yourselves to!`
+char_nat: ` Father would not be the only one who would prefer not to see you under such conditions.`
+char_nat: ` If you wish to blame anyone for Father not seeing you, you need look no further than yourselves, wouldn't you say?"`
+char_cla: `"Heheheh.`
+char_cla: ` Exactly.`
+char_cla: ` I should think you would be able to understand why Father doesn't wish to see your faces without racking your brains over it.`
+char_cla: ` Father has seen through all of your stringent financial situations."`
+char_eva: `".........What are you talking about?`
+char_eva: ` ...I don't have a clue what you're going on about, Nii‐san."`
+char_cla: `"Heheheheh!`
+char_cla: ` Do you think I don't know about all of your circumstances...?"`
+char_non: `Eva and the rest realized that he had seen through to the dire straits they were in,`
+char_non: ` and they entered into a back‐and‐forth argument, at first putting on a bold front and denying it,`
+char_non: ` and then ultimately returning to the original point, and objecting by repeatedly demanding to be allowed to see Kinzo.`
+char_non: `...The sweet smell of the black tea Rosa had gone out of her way to buy had been completely wasted.`
+char_non: `The only good thing she could take away from this was that the children weren't here to see it.`
+char_non: `......The fact that they had gone to play at the beach right after lunch was the sole redeeming aspect.`
+char_non: `Eva was attempting to get violent with Krauss, and Hideyoshi and Kyrie had cut in between them, trying to calm both sides.`
+char_non: `......Then, Kyrie sighed deeply and spoke.`
+char_kir: `"............I'm sorry, Krauss nii‐san.`
+char_kir: ` I know I'm an outsider, but I wonder if you would let me speak for a moment.`
+char_kir: ` I have a proposition."`
+char_cla: `"What is it, Kyrie‐san?"`
+char_kir: `"......First, and this includes my husband as well,`
+char_kir: ` for many years, we have made light of the efforts you have made by living with Father and taking care of him.`
+char_kir: ` ...Don't you think so?"`
+char_rud: `".........Well, I guess so.`
+char_rud: ` ...We've got it easy since we get to go out into the world, but Aniki's been babysitting Father for decades now, and sure, that must have taken a lot of effort.`
+char_rud: ` ......I'll accept that, but what's your point, Kyrie?"`
+char_kir: `"We must acknowledge that Krauss nii‐san is Father's caregiver.`
+char_kir: ` ......Isn't that true?`
+char_kir: ` We have always feared Father, and have been pushing the task of taking care of him onto Krauss nii‐san.`
+char_kir: ` I believe everyone here would acknowledge his efforts."`
+char_kir: `"Wouldn't you?`
+char_kir: ` Eva nee‐san?"`
+char_eva: `".....................`
+char_eva: ` ......And so what?`
+char_eva: ` Nii‐san is Father's caregiver?`
+char_eva: ` Who is an outsider like you to decide things?!"`
+char_hid: `"O‐...OK, calm, calm.`
+char_hid: ` ......Kyrie‐san, what are you talking about?"`
+char_rud: `".................................`
+char_rud: ` ......Kyrie, please continue."`
+char_kir: `"We should be more grateful towards Krauss nii‐san and Natsuhi nee‐san.`
+char_kir: ` ......We should say thank you for always taking care of Father."`
+char_kir: `"It's because we have no feelings of gratitude that we have these unproductive clashes.`
+char_kir: ` ......Isn't that right, Krauss nii‐san?"`
+char_cla: `"Hoh.........now this is a surprise.`
+char_cla: ` I did not think you would be able to understand our efforts,`
+char_cla: ` which even my true siblings have not stopped to consider."`
+char_nat: `"......It is a natural duty for the successor to the Ushiromiya family head."`
+char_kir: `"Yes.`
+char_kir: ` It {i:is} a responsibility of the successor to the head, isn't it?`
+char_kir: ` ......And it's precisely because you take care of Father that we must acknowledge you as the successor."`
+char_eva: `"Excuse me!!`
+char_eva: ` Am I going to be consulted on this at any point?!!`
+char_eva: ` You outsider, what gives you the—"`
+char_rud: `"Wait, Aneki!!`
+char_rud: ` .........She's right.`
+char_rud: ` It's just like Kyrie says.`
+char_rud: ` You are the successor, Aniki, because you're taking care of Dad.`
+char_rud: ` It's just like you said."`
+char_ros: `"..................ah—"`
+char_eva: `"...............nn—"`
+char_non: `Rosa noticed, and then Eva too.`
+char_non: `Eva's barking demeanor towards Kyrie for advancing the discussion on her own disappeared in a flash,`
+char_non: ` and she instead stared at Krauss and Natsuhi.`
+char_non: `......Natsuhi couldn't understand that sudden change, and was slightly flustered.`
+char_kir: `"Krauss nii‐san.`
+char_kir: ` ......If you would accept just a few conditions,`
+char_kir: ` we won't ask you to let us meet Father again until he dies."`
+char_kir: `"Of course, we won't tell you to let us see him at the moment of death, either.`
+char_kir: ` ......We could even be absent at the funeral."`
+char_cla: `"......Oh?`
+char_cla: ` .........I haven't a clue what this is about.`
+char_cla: ` But very well, I will humor you.`
+char_cla: ` Tell me the conditions."`
+char_kir: `"First.`
+char_kir: ` ......The term successor to the head refers to the caregiver of the current head, Ushiromiya Kinzo."`
+char_cla: `".........Mhmm.`
+char_cla: ` Go on?"`
+char_kir: `"Second.`
+char_kir: ` The duty of the caregiver is to look after Ushiromiya Kinzo for the rest of his life.`
+char_kir: ` ......To make things simple, the caregiver's job is to care for him until his final moments.`
+char_kir: ` You were prepared to do that from the beginning, Krauss nii‐san, so there are no problems."`
+char_cla: `"Naturally.`
+char_cla: ` I have no objections whatsoever to either of those conditions.`
+char_cla: ` I am already carrying them out."`
+char_kir: `"Third.`
+char_kir: ` In the remote chance that the caregiver is neglectful in his responsibilities of supervision, he will be stripped of his rights as a caregiver."`
+char_non: `With that sentence, all slack disappeared from Krauss's face.`
+char_non: `{n}...Natsuhi alone was still having trouble understanding what it meant.`
+char_cla: `"......Hoh.`
+char_cla: ` And these "responsibilities of supervision" that the caregiver bears,`
+char_cla: ` ......just what exactly are they?"`
+char_kir: `"It means supervising so that Father can live in good health until the end of his natural lifespan.`
+char_kir: ` ......I'll go into more detail.`
+char_kir: ` In the case that Father dies anything other than a natural death, the caregiver will be stripped of his rights as a caregiver, and will lose his rights as successor to the head.`
+char_kir: ` In that situation, the next highest ranked, Eva nee‐san, is to be selected as the successor."`
+char_nat: `".........What...did you say......`
+char_nat: ` H‐how dare you speak such nonsense!!"`
+char_cla: `"Hohoh.`
+char_cla: ` My, my, a caregiver's responsibility is grave indeed..."`
+char_cla: `"However, people can die in many ways.`
+char_cla: ` For example, the old and infirm sometimes die by getting food caught in their throats.`
+char_cla: ` I have no doubt that this would ordinarily fall under the broad definition of death by old age."`
+char_cla: `"But with your argument, that would become a "death by accident", and I would be made to bear the responsibility as supervisor.`
+char_cla: ` ......This is unjustly disadvantageous to me."`
+char_kir: `"I don't have the slightest intention of splitting hairs in such a way.`
+char_kir: ` The kinds of things that I'm imagining are just things the caregiver could have prevented beforehand by taking good care of Father and keeping their eyes on him."`
+char_kir: `"It may be the caregiver's job to carry food to Father's mouth, but whether he swallows it down or not is clearly outside the caregiver's responsibility.`
+char_kir: ` I have absolutely no problems with the case you raise, Krauss nii‐san."`
+char_cla: `".........Hoh.`
+char_cla: ` Then what kind of case {i:do} you imagine would cause the caregiver to be blamed for making a blunder?"`
+char_kir: `"For example,`
+char_kir: ` ......if he disappeared."`
+char_cla: `".....................`
+char_cla: ` ...............Hoh?"`
+char_kir: `"Father seems to be of sound mind right now,`
+char_kir: ` but he could lose the ability for rational thought and decision‐making at any moment, and it would come as no surprise."`
+char_kir: `"......He could wander around when you aren't looking and get into some kind of accident,`
+char_kir: ` ......or he could get lost in the forest and go missing, never to be found again."`
+char_kir: `"......Isn't this type of case clearly the responsibility of the caregiver...?"`
+char_nat: `"Father's mind is perfectly healthy!`
+char_nat: ` Of all things, what an outrageous...!"`
+char_kir: `"You might say that one day, suddenly, you saw Father go into the forest.`
+char_kir: ` You chased after him, but you couldn't find him.`
+char_kir: ` Despite calling the police and searching, seven years pass, unable to find him, and after that time a court declares him legally dead.`
+char_kir: ` I am trying to say that we won't accept that kind of series of events."`
+char_cla: `"......................................."`
+char_kir: `"When Father passes away, an autopsy must be carried out,`
+char_kir: ` and it must be verified that he died of old age in the most general meaning, within the bounds of common sense.`
+char_kir: ` ......A death for any other reason will be held as the caregiver's responsibility."`
+char_kir: `".........See?`
+char_kir: ` They're nothing more or less than the things you have already been toiling at up to today.`
+char_kir: ` They aren't strange conditions or anything of the sort, right...?"`
+char_nat: `"Y‐you are mocking us, insulting us!!`
+char_nat: ` I find it difficult to imagine why my husband must be coerced into a rule that disgraces him in this way!!"`
+char_kir: `".........Actually, I've been suspecting it since last year.`
+char_kir: ` No, everyone here probably suspects it.`
+char_kir: ` Eva nee‐san, Hideyoshi nii‐san.`
+char_kir: ` Rudolf‐san, and Rosa‐san too.`
+char_kir: ` Everyone has suspected it the whole time, but it was so dreadful to imagine that no one actually said it."`
+char_cla: `"Heh.`
+char_cla: ` ......Heheheheh, hahahahaha...!!`
+char_cla: ` I see, so {i:this} is what you're trying to say?`
+char_cla: ` ......That Father is already dead, and that I have been hiding it!"`
+char_but: `"......Yeah, that's right.`
+char_but: ` This is one of the theories I thought of as the key to solving the final mystery in the previous game."`
+char_enj: `".........You mean the last one in the previous game,`
+char_enj: ` the mystery of who killed Doctor Nanjo?"`
+char_but: `"Yeah.`
+char_but: ` ......The witch definitely did say a lot in red.`
+char_but: ` ...She mentioned the names of all 18 people and announced whether they were alive or dead, and stated definitively that there are no more humans than that.`
+char_but: ` ......But with this theory, I can weave my way through that gap...!"`
+char_enj: `".....................`
+char_enj: ` ......I see.`
+char_enj: ` So this is one of the answers that don't cause those two to contradict.`
+char_enj: ` .........I see."`
+char_but: `"You understand what I'm getting at?`
+char_but: ` ...You catch on pretty quick, don't you.`
+char_but: ` It's nice that I don't have to explain."`
+char_enj: `"No 19th person exists on this island.`
+char_enj: ` But this gimmick lets us mix in an unknown new person X despite that.`
+char_enj: ` ......Basically, "the names of all 18 people" just have to not match "the 18 people on the island"."`
+char_but: `"Exactly...!`
+char_but: ` In red, the witch mentioned the names of 18 people one after another, and announced whether they were alive or dead.`
+char_but: ` And on top of that, she declared that the number of humans on the island doesn't exceed 18.`
+char_but: ` ......There was a single illusion in there."`
+char_non: `It was never guaranteed that {i:the 18 names = the 18 people on the island}.`
+char_but: `"When she named off all 18 people and announced who was alive and who was dead,`
+char_but: ` she kept the name of the culprit X hidden, and instead mixed in someone who isn't on this island...!"`
+char_but: `"By doing that, even though the culprit is on the island, she was able to leave him or her out of the list of the 18 alive or dead people!`
+char_but: ` The person who was mixed in isn't on the island, so he doesn't count towards the total number of people on the island."`
+char_but: `"Therefore, even though the culprit counts towards the total of 18 people on the island, it was possible for his or her name to not be listed!`
+char_but: ` The two statements in red are completely independent, so this theory has no contradictions......!"`
+char_enj: `"The name which is used to hide the name of the culprit has several conditions to fulfill.`
+char_enj: ` ......First of all, it has to be someone who isn't on the island, and yet whom we believe to be on the island.`
+char_enj: ` ......Otherwise, she wouldn't be able to trick us."`
+char_enj: `"And it would be preferable for that person to be dead.`
+char_enj: ` ......After all, no alibi exists that is more perfect than death.`
+char_enj: ` Because the mystery at that point was based on the crime being impossible for all 18 people.`
+char_enj: ` ............Something like that?"`
+char_but: `"Yeah, that's it...!`
+char_but: ` And that person...`
+char_but: `......was Grandfather.`
+char_but: ` ......What Kyrie‐san is trying to say right now is just one simple thing."`
+char_but: `"......We're being told that Grandfather is locked up in his study, saying that he doesn't want to meet anyone,`
+char_but: ` ......but there is the possibility that he's actually already dead,`
+char_but: ` and that Uncle Krauss is lying when he claims that he's alive...!"`
+char_non: `That's right.`
+char_non: ` Grandfather has been closed up in his room this whole time, and no one's seen his face!`
+char_non: `Maybe he's already dead,`
+char_non: ` and Uncle Krauss and the rest are conspiring together to trick everyone into believing he's alive...!!`
+char_enj: `"............If Kinzo dies, the distribution of the inheritance occurs.`
+char_enj: ` ...However, if Kinzo doesn't die,`
+char_enj: ` ......no,`
+char_enj: ` if he dies, but {i:it isn't announced}, the distribution of the inheritance doesn't occur."`
+char_but: `"In other words, Uncle Krauss could have all of Grandfather's wealth to himself...!`
+char_but: ` That's right, he's got plenty of motive!"`
+char_non: `Sure, maybe a 19th person X really doesn't exist on this island.`
+char_non: `But the person X did exist.`
+char_non: `{n}......And that person was the 18th person!`
+char_but: `"In other words, there were originally 17 people on this island, not 18.`
+char_but: ` Then an unknown person X snuck in and committed the crime."`
+char_but: `"......How's that, Beato?!`
+char_but: ` Get your ass out here, I've just solved the final, biggest mystery from the last game!!"`
+char_non: `As Battler declared that forcefully, the crisp sound of clapping came out of nowhere, and their surroundings turned bright,`
+char_non: ` becoming the usual witch's tea room.`
+char_bea: `"*cackle*, hahahahahahaha...!`
+char_bea: ` <Bravo, bravo>.`
+char_bea: ` I cannot deny the sense of it being long overdue, but in any event, despite your incompetence, you have managed to produce a single answer."`
+char_bea: `"Cessation of thought is possible even for a lump of concrete!`
+char_bea: ` So you have now finally evolved into a being with intelligence."`
+char_bea: `"......You could say that you've finally taken a step forward from the crying creature that you were before, just licking my shoes and grinding your teeth.`
+char_bea: ` *cackle*cackle*!"`
+char_but: `"......I can't believe I let this stupid wordplay make a fool of me in the last game.`
+char_but: ` My lameness pisses even me off!"`
+char_but: `"Alright, Beato, time for a repetition request!!`
+char_but: ` Declare that Grandfather's included in the 18 people on the island, if you caaaaaan!!"`
+char_but: `"Yeah, never in a million years.`
+char_but: ` Because he's already dead.`
+char_but: ` This is the end of your deceptiooooooooooon!!"`
+char_bea: `"*cackle*cackle*cackle*cackle*, ahhaha{0}ha{0}ha{0}ha{0}ha{0}ha{0}hahaha...!!`
+char_bea: ` Well now, what to do here.`
+char_bea: ` .........Shall I slice that in twain with the red truth?"`
+char_bea: `"No, no, it might also be good to hold back for now and let you get all excited.`
+char_bea: ` If I'm going to push you off a cliff anyway, it would be much more interesting to lure you to a higher place first.`
+char_bea: ` *cackle*!"`
+char_non: `As Beato sneered obnoxiously, it even looked to me as if she was still searching for the perfect expression to tick me off even more.`
+char_non: `As though she was saying that the answer I had finally reached was entirely too ridiculous.`
+char_non: `In contrast to my visible annoyance with the witch's attitude, Gretel had a blank and composed expression on her face.`
+char_non: `...Almost as though she had expected the witch would act that way.`
+char_enj: `"........................`
+char_enj: ` I see.`
+char_enj: ` ...So just like Battler learns and grows, so does the witch."`
+char_but: `"What's wrong, Beato!`
+char_but: ` Quit stalling!!`
+char_but: ` Can you repeat it or not?!`
+char_but: ` Answer!!"`
+char_bea: `"*cackle*cackle*cackle*..."`
+char_enj: `"......Stop it, Battler.`
+char_enj: ` The witch won't answer so easily.`
+char_enj: ` ......As long as she doesn't think it will benefit her."`
+char_but: `"What?!`
+char_but: ` What do you mean......?"`
+char_enj: `"Because you've been at the mercy of this "red truth" in the games so far, the witch has used it over and over again."`
+char_enj: `"But now, the situation is different.`
+char_enj: ` You are luring the red truth out, and are instead using it as your weapon.`
+char_enj: ` In a situation like that, there's no way the witch will keep firing off the red without reason.`
+char_enj: ` .........Right?"`
+char_bea: `"Gretel, or whoever you are.`
+char_bea: ` ...It seems that you are quite sharp, unlike Battler.`
+char_bea: ` I have welcomed in a fearsome enemy."`
+char_bea: `"That is correct!`
+char_bea: ` When Battler is expecting me to use the red truth, why do I have a responsibility to answer to his expectations?!"`
+char_bea: `"I have no such thing!`
+char_bea: ` I don't even have a crumb from that croissant you ate this morning's worth of responsibility to please yooooou!!"`
+char_but: `"Y‐you bitch.........!!"`
+char_bea: `"Yes, yes, oh yes, that's the faaaaace!`
+char_bea: ` I started playing with the red truth just because I wanted to see that face!`
+char_bea: ` If I cannot witness that expression of yours, then I have no reason whatsoever to play around...!"`
+char_but: `"......Heheh.`
+char_but: ` You're just being a sore loser, aren't you?`
+char_but: ` If you think you can just say a bunch of crap to trick me because you can't respond to my repetition request, it's not gonna work!!"`
+char_bea: `"Don't be so full of yourself!!`
+char_bea: ` An answer like that, I could cut into pieces with no trouble at all!!`
+char_bea: ` But I will deliberately refuse to speak in red.`
+char_bea: ` I will refuse to speak because that is what you want.`
+char_bea: ` Do you understand why?"`
+char_enj: `"............You just said it.`
+char_enj: ` You want to push him off at the sweetest spot.`
+char_enj: ` This ill‐natured witch is saying that she won't use the red anywhere you ask for it any more."`
+char_enj: `"In other words, she won't play along with your game of repetition requests any more."`
+char_bea: `"*cackle*cackle*!`
+char_bea: ` Exactly, exactly!`
+char_bea: ` Unlike Battler, everything goes quickly with this woman, there's never a need to explain!`
+char_bea: ` I will speak as I like with the red truth, at the time that I desire!"`
+char_enj: `"Yes.`
+char_enj: ` The use of the red truth is basically a {i:right} the witch has, to exercise as she pleases.`
+char_enj: ` It's not a responsibility that she has to fulfill at whatever time the human side desires.`
+char_enj: ` ...............But that depends on the details."`
+char_but: `"......The details......?`
+char_but: ` What do you mean...?"`
+char_enj: `"The witch has no responsibility to respond to your repetition requests.`
+char_enj: ` But when and only when your claim would destroy the witch theory, it {i:does} become her responsibility.`
+char_enj: ` Because in this court without a judge, that which is not refuted becomes the "truth"."`
+char_enj: `"......In just the same way that whenever you've stopped thinking,`
+char_enj: ` and been unable to make a counterargument against the witch theory asserted by the witch, it has immediately become truth."`
+char_but: `"Then, ...since she doesn't have a counterargument to my reasoning, that means it's right?!`
+char_but: ` I'm correct in my deduction that the culprit is the mysterious 18th person X, and Grandfather is already dead?!"`
+char_enj: `"......At least, until the witch argues back.`
+char_enj: ` Truth loses to new truths farther in the future.`
+char_enj: ` ......The tricky part is that even the timing of the counterargument is up to the witch."`
+char_enj: `"...In other words, maybe your reasoning just now is correct,`
+char_enj: ` or maybe the witch is holding off on arguing back even though you're mistaken."`
+char_enj: `"......Or else, the witch may be ignoring it because it doesn't shake the basis of the witch theory in the first place.`
+char_enj: ` The point is, we can't tell the difference at the current time.`
+char_enj: ` .........Is that more or less it?"`
+char_bea: `"*cackle*cackle*, *cackle*cackle*cackle*!`
+char_bea: ` Damn you, Lady {f:5:Bernkastel}, for throwing in such a troublesome piece.`
+char_bea: ` Thanks to that, I'm losing all my lines!"`
+char_enj: `"The witch has learned to respond to your repetition requests at a separate time.`
+char_enj: ` ......Maybe you could also call it a "delay"."`
+char_but: `"......G‐goddamn her......`
+char_but: ` ...So even if I offer some mistaken reasoning, there's a possibility that Beato will intentionally let me flounder about without disproving it,`
+char_but: ` and at the very end, after I've built it up even more into some grand expansive theory, she can chop it off at the base,`
+char_but: ` and turn everything over......?!"`
+char_non: `A single piece of reasoning becomes a bridge to the next piece.`
+char_non: `{n}Through my repetition requests, I've been able to strengthen my position and advance bit by bit.`
+char_non: `But thanks to that damned Beato learning this strange delay tactic,`
+char_non: ` ......I can no longer confirm or deny my reasoning.`
+char_non: `It's like I finally got myself a cane to help me search around in the pitch‐black darkness, and now I've had it taken away from me.`
+char_non: ` ......Now I'm just...stuck, aren't I......?!!`
+char_bea: `"Now, now, Battler, if you make a despairing face like that, I won't be able to stop drooling, you knowwww{p:0:♪}`
+char_bea: ` From the beginning, that cane was nothing more than something I gave you because you were so ineffectual."`
+char_bea: `"This just means that you can finally challenge me without a handicap, right?`
+char_bea: ` Kuhhi{0}hi{0}hi{0}hi{0}hi{0}hihihi!"`
+char_enj: `"......But that doesn't change the fact that repetition requests are one of Battler's methods for fighting back.`
+char_enj: ` As I already said, as long as it's something fatal that would destroy the witch theory,`
+char_enj: ` the witch is obligated to argue back, and therefore, to speak with the red truth."`
+char_enj: `"......While the timing of that counterargument is up to the witch, it must be performed eventually.`
+char_enj: ` .........Right?"`
+char_bea: `"Hmm, that would seem to follow.`
+char_bea: ` If I cannot deny the "tricks done by humans" theory Battler lays out by the time the game ends,`
+char_bea: ` Battler will use that as a reason to deny me, and it will be possible for him to proclaim his victory."`
+char_enj: `".........So, then, the "trick theory" laid out by the human side,`
+char_enj: ` in other words, his repetition requests, must be countered during the game, i.e., during the episode—we can view this as a restriction on the witch side to that effect?"`
+char_bea: `"That is so.`
+char_bea: ` ......Battler's goal is to show that he can explain with humans the entire pleasant game I have laid out on this island and deny me.`
+char_bea: ` If Battler succeeds in that, at that time, Battler shall become the victor of this game."`
+char_enj: `"Let me confirm the rules.`
+char_enj: ` ......Am I OK to interpret "the time the game ends" as referring to 24:00 on October 5th, 1986, going by the time of the Rokkenjima in the game?"`
+char_bea: `"There are no problems with that."`
+char_enj: `"If, at the time the game ends, the human side can assert a trick theory for all of the mysteries,`
+char_enj: ` {i:and} there is no counterargument from the witch side, then the human side can declare victory.`
+char_enj: ` ......Any problems?"`
+char_bea: `".........Let us be a little more rigorous.`
+char_bea: ` At the time the game ends, the witch side shall be given the opportunity to argue back."`
+char_enj: `"I'll set a time limit on that.`
+char_enj: ` One minute.`
+char_enj: ` If the counterargument is not carried out within one minute, victory will be declared."`
+char_bea: `"Then allow me to impose the same rule on you.`
+char_bea: ` At the time the game ends, the human side will be given one minute to counter the mysteries it has been given.`
+char_bea: ` If there is even a single mystery that has not been countered within that time, it becomes a victory for the witch side, and that game is over."`
+char_bea: `"......It would spoil things terribly to have the game stopped for lengthy consideration, you see."`
+char_but: `"............Goddamn you both.`
+char_but: ` Moving things along without me...`
+char_but: ` But I more or less get what's going on.`
+char_but: ` So even if my repetition requests aren't countered instantly, they must be countered eventually."`
+char_enj: `"Yes, that's right.`
+char_enj: ` ......And that must happen before 00:01 on October 6th."`
+char_enj: `"......But be careful.`
+char_enj: ` The witch only has to cut up a single one of your repetition requests.`
+char_enj: ` You can't declare victory unless you can solve all of the mysteries."`
+char_bea: `"Just as I can use the red,`
+char_bea: ` Battler, from now on, I will permit you to use the blue."`
+char_bea: `"When explaining my magical murders with human tricks, you can make declarations in blue.`
+char_bea: ` I will be under obligation to counter your blue with the red by the end of the game."`
+char_but: `"Blue......`
+char_but: ` ......So basically, I'll speak my repetition requests in blue...?"`
+char_bea: `"Not exactly.`
+char_bea: ` It was possible to use repetition requests for anything, no matter how trivial.`
+char_bea: ` But the blue is a little more restrictive.`
+char_bea: ` It is only valid if it denies witches on its own."`
+char_but: `"..........................."`
+char_non: `It's starting to get confusing, ...but it's more or less something like this.`
+char_non: `Let's take one of the repetition requests I made during a past mystery as an example.`
+char_non: `{n}"The number of master keys is five".`
+char_non: `It had been claimed that there were only five master keys, so I made this request to confirm that the number really was five.`
+char_non: `But since that by itself doesn't deny the witch, I can't say it in blue.`
+char_non: ` So, in order to speak in blue, I would need to say something like this.`
+char_non: `{i:"The actual number of master keys was greater than five.`
+char_non: ` The culprit used one of those extra keys to get in and out of the room!"}`
+char_non: `......And only then would the witch, who claims that it was a locked‐room murder with magic, be responsible for making a counterargument.`
+char_non: ` In other words, I can't use it to demand that she repeats things in order to check the premises of my reasoning.`
+char_non: `.........That will probably put me at a significant disadvantage.`
+char_non: `Crap...`
+char_non: ` It's enough to make me think that all those red declarations that Beato's been making to toy with me were extremely merciful......`
+char_but: `"...Damn it.`
+char_but: ` That means, even if I create a theory for a particular locked room and speak it in blue,`
+char_but: ` if Beato denies it at the very, very end, I won't even have time to create my next theory...!`
+char_but: ` This rule is awful... It's all disadvantage for me and me alone..."`
+char_enj: `".........Are you going to surrender before the fight begins again?`
+char_enj: ` Calm down.`
+char_enj: ` No one's said that you can only use the blue once for each mystery.`
+char_enj: ` Do you understand what that means?"`
+char_but: `"N‐no.`
+char_but: ` ......What does it mean...?"`
+char_enj: `"In the pitiful way you've been fighting up until now, you've made a single theory, gauged the witch's reaction,`
+char_enj: ` and if that one didn't work, you'd then start making another theory.`
+char_enj: ` You won't corner a witch like that."`
+char_but: `"Then how am I meant to fight......`
+char_but: ` .........You don't mean—"`
+char_enj: `"Yes, that's right.`
+char_enj: ` ......You don't challenge the mysteries with an individual point.`
+char_enj: ` {i:You assault them with a wall}.`
+char_enj: ` You said yourself in an earlier game that that's what the attitude behind reasoning should be like."`
+char_non: `Assault...with a wall.`
+char_non: ` That's right, I said so myself before.`
+char_non: `The act of trying to uncover the mystery by reasoning is like trying to shoot a distant target with an arrow.`
+char_non: `Until now, I've been shooting off a single flimsy arrow every time,`
+char_non: ` asking the witch if I scored a hit,`
+char_non: ` and then, once told that I missed, preparing my bow again, and shooting off another flimsy arrow.`
+char_non: `There's no way I'll hit at that rate...`
+char_non: `{n}Bullets might be a better example than arrows.`
+char_non: `If you take one shot after another at a distant target with a handgun, you probably won't hit it easily.`
+char_non: `......So how can you hit it?`
+char_non: `If a handgun doesn't work,`
+char_non: ` ......use a shotgun!`
+char_non: ` Instead of a single bullet, blast her with "shot" filled with countless projectiles at once...!`
+char_non: `Shot scatters, so it impacts a wide area.`
+char_non: ` So it's very well suited for shooting small, fast targets like birds.`
+char_non: `That's right, there's no rule that says reasoning has to be like a pistol, shooting one shot off at a time.`
+char_non: `......Making a single theory and just hoping that it hits is like stopping your own thinking.`
+char_non: `Blast away with a massive number of bullets, of pieces of reasoning, and make them impact like a wall, so you only need just one of them to find its mark.`
+char_but: `"............Blue, huh...`
+char_but: ` ......I get it.`
+char_but: ` If your red truth is a razor‐sharp katana, then it looks like my blue is a shotgun.`
+char_but: ` No, ......a machine‐gun with firepower enough to honeycomb witches."`
+char_bea: `"He that is always shooting must something something.`
+char_bea: ` *cackle*cackle*!`
+char_bea: ` That sort of crude analogy is just like you."`
+char_but: `"The climax of a detective novel is always the same.`
+char_but: ` ......The great and famous detective gathers all the suspects in one place, and unveils a single trail of logic which is proven correct in spectacular fashion."`
+char_but: `"Almost like William Tell expertly shooting through an apple with a single arrow.`
+char_but: ` That's why I mistakenly thought of it like a virtue."`
+char_non: `......Sure, that probably would be magnificent.`
+char_non: `{n}If I could shoot through the truth with a single guess.`
+char_non: `But that isn't realistic.`
+char_non: `Just look at real wars.`
+char_non: ` Do I really think everyone pulls long guns out of the trench, aims reeeeeally well, and takes a single shot at a time at the other side?`
+char_non: `They don't, right?!`
+char_non: ` They fire rapidly, they fire all over the place, they pin down the enemy with a barrage!`
+char_non: `Reasoning was the same way.`
+char_non: `Because of that weird virtue, I had been stuck thinking that I could only take one line of reasoning at a time.`
+char_non: `We humans can fire off countless guesses and possibilities!`
+char_non: `Imagination is ammunition.`
+char_non: ` Suspension of thought is a clogged barrel...!`
+char_non: `{n}The pathetic way I've been reasoning up until now is like a peashooter.`
+char_non: `Incredibly awkward, like I've been weakly firing off a shot, getting it denied in red, and then receiving the next bullet and reloading.`
+char_non: `My "blue truth" that claims that human tricks are the truth...`
+char_non: `...will overwhelm its target, the fantasy told by the witch, with all the firepower of my imagination...!`
+char_non: `This is my...`
+char_non: `Ushiromiya Battler‐style way of fighting...!`
+char_but: `".........Thanks to you, I've figured out the real way to fight.`
+char_but: ` Thanks, Gretel!!"`
+char_enj: `"You're welcome."`
+char_but: `"It's enough to make me think how pathetic I was before.`
+char_but: ` ......Yeah, it's like Beato said.`
+char_but: ` I've had the benefit of a handicap up until now.`
+char_but: ` I'll acknowledge that...!!`
+char_but: ` New rule, understood!!`
+char_but: ` I have my own way to fight!`
+char_but: ` And I'll show it to you!!"`
+char_bea: `"*cackle*cackle*cackle*cackle*!!`
+char_bea: ` Excellent spirit, I like it!`
+char_bea: ` Then try using it right away, this blue truth of yours...!!"`
+char_but: `"......I'll use it, all right.`
+char_but: ` With this blue truth, I can break apart your witch theory, which states that only a witch culprit was possible because everyone had alibis!!"`
+char_but: `"This is my truth!`
+char_but: ` {p:2:Ushiromiya Kinzo is already dead}.`
+char_but: ` {p:2:Therefore, the true number of people on the island is 17}!`
+char_but: ` {p:2:By adding an unknown person X to that, it becomes 18 people}.`
+char_but: ` {p:2:By supposing that this person X exists, the crime is possible even if all 17 people have alibis}!!"`
+char_kir: `"......In short, if you keep preventing us from meeting with Father, we will have to form the following theory.`
+char_kir: ` Simply: Father is already dead.`
+char_kir: ` But you are hiding that because you don't want the inheritance to be distributed. See?"`
+char_cla: `"....................................`
+char_cla: ` ...Ridiculous."`
+char_nat: `"Th‐that is correct, this is worse than ridiculous!!`
+char_nat: ` I have never been so insulted!!"`
+char_kir: `"It's even possible for us to force you to allow us to check whether he's alive or dead in the presence of the police.`
+char_kir: ` Isn't it, Eva nee‐san...?"`
+char_eva: `"......Y‐......yes...`
+char_eva: ` That's right, Nii‐san.`
+char_eva: ` We could come up with any number of excuses for it.`
+char_eva: ` We could easily set it up so that you have to arrange a meeting with Father under the supervision of a third party...!"`
+char_kir: `"Still.`
+char_kir: ` I think that would be very shameful for the Ushiromiya family."`
+char_kir: `"That's why I'm making this proposal.`
+char_kir: ` The responsibilities and duties of the caregiver.`
+char_kir: ` A penalty in the worst‐case scenario.`
+char_kir: ` If you consent to that, we will be able to refrain from doing something like dragging Father outside."`
+char_rud: `"...Yeah, that's right, Aniki...`
+char_rud: ` Didn't you just say it...?`
+char_rud: ` You are carrying out your natural duties as Father's caregiver.`
+char_rud: ` Kyrie's conditions shouldn't be anything to worry about, right?`
+char_rud: ` Why the overreaction?"`
+char_rud: `"......Are you really that worried about having your position of successor dragged out from under you if Dad dies something other than a natural death?"`
+char_eva: `"Or whaaaat?`
+char_eva: ` Do you have an idea of some way Father could die other than a natural death...?"`
+char_cla: `"Of course I don't.`
+char_cla: ` ......I see, now I too understand how Father feels.`
+char_cla: ` What pitiful final years, unable to even die as he pleases."`
+char_kir: `"Yes, truly pitiful final years.`
+char_kir: ` ......And what we suspect is that those "final years" are already in the past."`
+char_kir: `"......You could completely clear this suspicion just by letting us meet with Father.`
+char_kir: ` ...So even after all this humiliation, you still won't allow us to meet with him, Krauss nii‐san.........?"`
+char_cla: `"................................."`
+char_kir: `"Father is probably already dead.`
+char_kir: ` You disposed of the body in absolute secrecy, most likely.`
+char_kir: ` ......And after taking all of the wealth for yourself as Father's agent,`
+char_kir: ` you will make it so that he "disappeared" and spend seven years making Father a corpseless member of the deceased."`
+char_kir: `"............I'm sorry, please don't take it badly, alright?`
+char_kir: ` I'm just playing detective here."`
+char_nat: `"H‐......how rude can one be!!`
+char_nat: ` You have no right to stay in this mansion!!`
+char_nat: ` Leave immediately!!`
+char_nat: ` I will never again permit you to cross the threshold of this house!!"`
+char_kir: `"It worked last year, but you've used up your luck if you thought it would work this year too.`
+char_kir: ` ......Father is in a bad mood, so he can't meet with us?`
+char_kir: ` That was plenty suspicious last year, and yet you do it again this year."`
+char_kir: `"If you wanted to fake being Father's agent and grab up all his assets, you should have done it a little more speedily,`
+char_kir: ` and made him disappear without waiting for today's family conference.`
+char_kir: ` You really are naive, Krauss onii‐sama......"`
+char_cla: `"............I have no idea what you are—"`
+char_kir: `"However!`
+char_kir: ` ......If it is a fact that Father is in a bad mood,`
+char_kir: ` and you are preventing us from meeting him as part of your responsibilities as his caregiver, that is a very virtuous thing to do.`
+char_kir: ` In that case, if you just accept the conditions I've provided, everything will be settled here and now."`
+char_kir: `".........After all, you care so greatly for Father, Krauss nii‐san.`
+char_kir: ` There's no way that Father will die in a manner that leads to trouble during the autopsy."`
+char_kir: `"Father hates hospitals in any case, so he'll pass away in his study, right?`
+char_kir: ` An autopsy will certainly be carried out in any event.`
+char_kir: ` ......The only way to {i:kill him without an autopsy} would be for him to disappear."`
+char_eva: `".........Kyrie‐san. I wonder if you would mind not bullying Nii‐san so much...?"`
+char_non: `Eva rebuked Kyrie in an sickeningly kind voice.`
+char_non: `...Considering the situation, that was impossible.`
+char_non: `{n}Which is why it was so sickening...`
+char_eva: `"Nii‐san must have all kinds of situations of his own to deal with, as well as his pride.`
+char_eva: ` Even though it may be an obvious duty to Nii‐san,`
+char_eva: ` if we put it down on paper and even assign penalties,`
+char_eva: ` ...that's bound to be unpleasant for him.`
+char_eva: ` Don't you agree, Rosa......?"`
+char_ros: `"......Yes, that's right.`
+char_ros: ` .........We might have made light of Krauss nii‐san's pride as the eldest son too much.`
+char_ros: ` ......It might be a bit cruel to make him sign a memorandum regarding the duties of the caregiver as Kyrie‐san suggests."`
+char_rud: `"Yeah, I agree.`
+char_rud: ` You're doing a good job, Aniki.`
+char_rud: ` Taking that into account, all that stuff about signing strange papers and worst‐case penalties,`
+char_rud: ` it might be possible for us to consider skipping all that and just leaving everything to you."`
+char_cla: `"Y‐............you people............"`
+char_non: `Not just Eva, but Rudolf and Rosa as well began closing in on Krauss, with unnerving smiles on their faces as though they had planned this beforehand.`
+char_non: `They now understood perfectly how Kyrie had cornered Krauss, and exactly where she was prepared to compromise...`
+char_kir: `"......The memorandum regarding the responsibilities of the caregiver.`
+char_kir: ` You can make it so that you don't need to sign, and we will never demand a meeting with Father again.`
+char_kir: ` ......If you can guarantee that you are fit to be the caregiver even without the document, that is."`
+char_cla: `"Are you telling me.........to pay security money?`
+char_cla: ` Hehheheheh, hahha{0}ha{0}ha{0}hahaha...!`
+char_cla: ` This is ludicrous!`
+char_cla: ` Wahhaha{0}ha{0}ha{0}ha{0}ha{0}hahaha!"`
+char_kir: `"The security money, paid to Eva‐san, Rudolf‐san, and Rosa‐san, will be 3 billion yen each.`
+char_kir: ` As a deposit, you will transfer ten percent of that, 300 million yen each, before the year is out."`
+char_cla: `"9 billion?!`
+char_cla: ` I don't have that kind of money!!!"`
+char_kir: `"After Father passes away, you should be able to work it out.`
+char_kir: ` Our investigations have told us at least that much.`
+char_kir: ` And even the deposit of 900 million yen, you should be able to manage in your current financial situation."`
+char_kir: `"And it should even be possible for you to {i:borrow it from Father}, right?`
+char_kir: ` ...There's no need for this obvious charade."`
+char_cla: `"............H‐how unpleasant.`
+char_cla: ` Truly unpleasant...!!"`
+char_nat: `"I‐it is at that!!`
+char_nat: ` And it was disrespectful enough just with the discussion of Father's inheritance!`
+char_nat: ` Father is already dead?`
+char_nat: ` My husband is hiding that and keeping all the money to himself?!"`
+char_nat: `"I have had enough of this!!`
+char_nat: ` None of you are qualified to bear the name Ushiromiya any longer!!"`
+char_hid: `"Calm down, Natsuhi‐san...!`
+char_hid: ` And the rest of you, that's enough talk for now!`
+char_hid: ` Why don't we just leave it at that for the time bein', huh...?!`
+char_hid: ` This is a big ol' topic, and sudden, too.`
+char_hid: ` We might be gettin' a little worked up ourselves!"`
+char_hid: `"Why don't we take a break for a while and cool our heads?`
+char_hid: ` Krauss nii‐san probably needs a little time himself.`
+char_hid: ` Right, Krauss‐san?"`
+char_cla: `"......Time...?`
+char_cla: ` And why would I need something like that?"`
+char_hid: `"OK, OK, OK!`
+char_hid: ` Look, deep down, none of us are actually thinkin' anythin' serious like that!`
+char_hid: ` It just seemed like you weren't goin' to let us see Father no matter what, so we felt like makin' a few bitter comments, that's all...!"`
+char_hid: `"And Krauss‐san, the things we said made you angry and you argued back on instinct, I know reeeeal well what that's like...!`
+char_hid: ` That's not how you really feel either, you're actually thinkin' fine, I'll let you see him if you're goin' to be that pig‐headed about it!"`
+char_hid: `"Right?`
+char_hid: ` Isn't that right?`
+char_hid: ` But after all we've said, you just couldn't help gettin' stubborn, and now you're havin' trouble sayin' it's alright to see him, that's all.`
+char_hid: ` Isn't that it?`
+char_hid: ` Right? Right?"`
+char_nat: `"......I‐...it certainly does seem that, like the rest of you, my husband has slightly lost his composure.`
+char_nat: ` ......We are firmly refusing only out of respect for Father's desire not to meet with you all."`
+char_cla: `".....................`
+char_cla: ` ......Hmm, that's right.`
+char_cla: ` It just started turning into another sibling fight like the old days, and I grew stubborn as well.`
+char_cla: ` .........Let us cool our heads."`
+char_cla: `"...I understand now how strongly you all desire to meet with Father.`
+char_cla: ` ...I will pass that on to him.`
+char_cla: ` .........I will find some way of convincing him so that he will see you.`
+char_cla: ` .........How is that?"`
+char_ros: `"......Right.`
+char_ros: ` I think it's alright to give Krauss nii‐san some time to persuade Father."`
+char_rud: `"Yeah.`
+char_rud: ` ......We're counting on you, Aniki.`
+char_rud: ` Please do a good job of persuading him so that he'll meet with us.`
+char_rud: ` After all, you're Dad's caregiver."`
+char_eva: `"About persuading him...let's set a limit on it to sometime tonight, alright?`
+char_eva: ` When tomorrow comes, we'll confirm Father's well‐being, even if we have to break down the door to his study.`
+char_eva: ` .........You have no problems with that, right?`
+char_eva: ` Nii‐san...?"`
+char_cla: `"......Do as you like.`
+char_cla: ` I see, it seems that I am not even given much time to persuade him.`
+char_cla: ` ......Come on, Natsuhi.`
+char_cla: ` We shall ask him to at least be with us for dinner."`
+char_nat: `"Y‐yes...!"`
+char_non: `Krauss left the parlor accompanied by Natsuhi.`
+char_non: `Once their footsteps disappeared,`
+char_non: ` Hideyoshi breathed out heavily, and flopped onto a sofa, smirking...`
+char_hid: `"............Kyrie‐san.`
+char_hid: ` ...You are...a frightening person."`
+char_kir: `"Sorry for speaking out of turn.`
+char_kir: ` I apologize."`
+char_rud: `"......No, no, you cornered him in a different way from the original plan, but in the end, this was even better.`
+char_rud: ` ...Just like always, I have to bow my head to you..."`
+char_ros: `"But...can he really prepare 900 million yen......?`
+char_ros: ` We estimated that 750 million would be the most Krauss nii‐san could afford with his current financial situation...`
+char_ros: ` ......Isn't 900 million gouging him too much...?"`
+char_kir: `"It's alright if it's impossible for him.`
+char_kir: ` If we do something like lowering it to 750 million so Krauss nii‐san can save face, it will look like we're compromising and it'll be easier to settle, right?`
+char_kir: ` And if he really does come out with 900 million, that's even better."`
+char_eva: `"Nii‐san is probably having a strategy meeting with Natsuhi‐san about now.`
+char_eva: ` ......It will be truly interesting to see what kind of twisted logic our proud Nii‐san comes up with as an excuse."`
+char_kir: `"Convince Father......?`
+char_kir: ` There's no way he can."`
+char_non: `There's no way to convince someone who doesn't even exist...!`
+char_cla: `"..................All my siblings have taken time out of their schedules to come here to this annual family conference."`
+char_non: `Krauss and Natsuhi could be seen in Kinzo's dimly lit study.`
+char_non: `Every once in a while, thunder could be heard, and the dimly lit room flickered with light.`
+char_non: ` ......It seemed that the island would be closed off by the storm very soon.`
+char_nat: `"......Father...!`
+char_nat: ` Please, just this once, show those disrespectful people the majesty of the head...!"`
+char_kin: `"It's no good........."`
+char_kin: `The large figure standing by the window, his majestic back facing them,`
+char_kin: ` quietly yet forcefully...gave his answer.`
+char_kin: `His head was hung slightly, and he appeared to be trembling.`
+char_kin: ` ...Eventually, a mumbling laugh reached them from over his shoulder.`
+char_kin: `"Heh‐heh‐heh‐heh‐heh‐heh, hah‐hah‐hah‐hah‐hah‐hah!!`
+char_kin: ` It's no good, it's no goddamn good at all...!!`
+char_kin: ` Wahha{0}ha{0}ha{0}ha{0}ha{0}ha{0}ha{0}hahaha!!"`
+char_non: `.........Three months left to live...?`
+char_non: ` A senile old man not long for this world...?`
+char_non: `{n}Just who are you referring to?`
+char_kin: `"Brain‐dead fooool!!`
+char_kin: ` Your siblings intimidated you, so you come crawling over here, is that it?`
+char_kin: ` You are a disgrace!!"`
+char_non: `As Kinzo spun around and brandished his cloak, a blast of wind shook up the stale air inside the room.`
+char_non: `That air pressure expressed clearly the majesty and willpower of Ushiromiya Kinzo.`
+char_non: `It was no wonder at all that Krauss landed on his backside, as if that pressure had literally blown him to the ground.`
+char_non: `As though showing consideration for Krauss, who looked as though his legs had been swept out from under him, Natsuhi also crouched down.`
+char_non: `Then,`
+char_non: ` ......with a thunk,`
+char_non: ` ......and another thunk,`
+char_non: ` Kinzo's footsteps approached with a heft that signified his majesty.`
+char_cla: `"F‐......Father........."`
+char_kin: `"Yoou fooooooooool......!!`
+char_kin: ` I heard it all from Kanon, just how pathetically your siblings made you dance like a puppet!!!!"`
+char_nat: `"F‐Father...!`
+char_nat: ` My husband is doing his best to protect your honor—"`
+char_non: `Without lending an ear to Natsuhi's words, Kinzo extended his palm to Krauss's collar, as the latter sat on the floor.`
+char_non: `...No, he curled up his fingers, leaving only his index finger out, and then, with that one remaining finger.........`
+char_non: `he pressed hard into Krauss's collar,`
+char_non: ` ......twisted it,`
+char_non: ` ..................and slowly,`
+char_non: ` with just one finger,`
+char_non: ` ......he raised Krauss high into the air.`
+char_kin: `"...Truly, what a pathetic creature you aaaare.`
+char_kin: ` ......You even need your wife to speak in your defense?`
+char_kin: ` If you have an excuse, man up and show me you can give it yourself!!"`
+char_cla: `"Ggggg, .....................gahahhk......!!"`
+char_non: `Krauss's feet scrabbled at the air.`
+char_non: `Kinzo's brawny finger was choking him.`
+char_non: `{n}He couldn't even open his mouth, much less talk.`
+char_non: `However, even if he had been allowed to open his mouth,`
+char_non: ` as he was now, there was no way he would be able to think up an excuse that Kinzo would accept...`
+char_non: `Still, ......what incredible power he possessed...`
+char_non: `{n}No one would call Kinzo an old man after seeing this superhuman strength...`
+char_nat: `"......Father...!!`
+char_nat: ` My husband, he has his own way of fighting...!!`
+char_nat: ` I beg you to forgive him...!!"`
+char_kin: `"............Natsuhii.`
+char_kin: ` ......Fighting is the process you undergo before you achieve victory.`
+char_kin: ` ......You cannot call it fighting if it ends in a loss."`
+char_kin: `"Just one word, we call that humiliation!!`
+char_kin: ` Wahha{0}ha{0}ha{0}ha{0}ha{0}hahaha, and {i:this} is my successor?`
+char_kin: ` Wahha{0}ha{0}ha{0}ha{0}hahaha, wahhah{0}hahha{0}ha{0}ha{0}ha{0}ha{0}ha{0}hah{0}haaaaaaah!!"`
+char_non: `As thunder roared, Kinzo laughed heartily as though there could be nothing more amusing.`
+char_non: `And at the end of his laugh, he threw his feckless son away like he was scrap paper,`
+char_non: ` slamming him against the wall...`
+char_cla: `"Ghaghh, ......uuuuuuuuunnghh......"`
+char_nat: `"My love, my love...!! Just breathe......"`
+char_non: `Krauss slid down the wall, rubbing his throat in pain...`
+char_non: `{n}Natsuhi ran up to him and cared for him...`
+char_non: `But Kinzo showed no interest in the two of them,`
+char_non: ` and he returned to the space near the window, as though he had been there the whole time, and looked up at the ominous thunderclouds.`
+char_kin: `"............I thought that as long as I could meet {f:5:Beatrice}, I would have no regrets in my life,`
+char_kin: ` but it seems that things won't go so smoothly."`
+char_kin: `"......It was promised from the beginning that nothing received from the witch would remain.`
+char_kin: ` However, the Ushiromiya name is not the property of the witch."`
+char_kin: `"......Who is fit to succeed that name?`
+char_kin: ` It seems that this alone must be resolved by my own hand.`
+char_kin: ` ......Rejoice, Krauss!!`
+char_kin: ` I have changed my mind."`
+char_cla: `".........F‐Father...`
+char_cla: ` .........Then you'll......?"`
+char_kin: `"I have no desire to have dinner with you cowards.`
+char_kin: ` However, I will attend the family conference afterwards!"`
+char_nat: `"F‐Father...`
+char_nat: ` Thank you very much......!"`
+char_kin: `"There, I shall make an important announcement regarding the succession of the headship.`
+char_kin: ` I will resolve your foolish quarrel myself!!`
+char_kin: ` Uuhhahahahahahaha, waaahah‐hah‐hah‐hah‐hah‐hah‐hah‐hah‐hah‐hah‐hah!!!"`

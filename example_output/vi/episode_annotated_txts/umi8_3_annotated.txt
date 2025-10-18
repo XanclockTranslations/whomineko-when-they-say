@@ -1,0 +1,620 @@
+char_non: `The VIP room was filled with the sweet smell of pumpkin tea...`
+char_non: `and packed with smiles and laughter.`
+char_kin: `"Ahha{0}ha{0}ha{0}ha{0}ha{0}ha{0}ha{0}ha{0}ha!!`
+char_kin: ` Simply splendid.`
+char_kin: ` I am glad to see you in such high spirits...!"`
+char_bea: `"I could say the same for you.`
+char_bea: ` What idiot said you're reaching your last years?"`
+char_kin: `"I just borrow a bit of cheer from you.`
+char_kin: ` Once I return to my study, I will be little more than a withering, senile old man."`
+char_bea: `"Enough with your lies!`
+char_bea: ` Give it up and swear that you'll be living it large until you're a hundred."`
+char_but: `"Same here. I haven't seen you for six years, but I was surprised to see how little you'd changed."`
+char_kin: `"Wahahahaha, you little brat.`
+char_kin: ` So, it seems you've learned flattery these past six years!`
+char_kin: ` Sorry to disappoint you, but you're hardly a fair judge in the matter.`
+char_kin: ` I have grown quite old indeed."`
+char_bea: `"I'll bet a thousand yen that Kinzo's still doing great when he turns a hundred."`
+char_but: `"Yeah, me too.`
+char_but: ` Grandfather won't be any different when he's a hundred."`
+char_kin: `"Wahhahahaha!`
+char_kin: ` Don't think you'll get any more presents for complimenting me!"`
+char_non: `Kinzo laughed cheerily.`
+char_non: `{n}Beato, who sat next to Battler, was also laughing merrily.`
+char_non: `Ange stood all alone by the window,`
+char_non: ` ......staring at the others and trying to figure out what sort of relationship the witch of the portrait had with her grandfather.`
+char_non: `There was a knock on the door.`
+char_kin: `"Is that you, Genji?`
+char_kin: ` Come in!"`
+char_gen: `"......Pardon the intrusion.`
+char_gen: ` Krauss‐sama and Natsuhi‐sama are here."`
+char_cla: `"Father—oh, and Battler‐kun's here too."`
+char_nat: `"It has been some time, {f:5:Beatrice}‐san.`
+char_nat: ` Has there been any news?"`
+char_bea: `"I'm just the way I used to be.`
+char_bea: ` Come, have a seat.`
+char_bea: ` And Ange, why are you standing by the window like that?`
+char_bea: ` Come over here and sit down."`
+char_but: `"Ange. Come on over."`
+char_enj: `".........I'll just watch from here."`
+char_non: `Ange grasped the candy she had gotten from Beato tightly,`
+char_non: ` and with a still wary gaze, she continued to stare.`
+char_non: `Genji offered her a chair, but Ange just shook her head.`
+char_kin: `"Let her do as she pleases.`
+char_kin: ` Come, Krauss, Natsuhi, and sit."`
+char_but: `"......Is it something important?`
+char_but: ` I guess Ange and I should leave."`
+char_bea: `"Hey, if you leave, who's going to back me up here...?!`
+char_bea: ` Kinzo, you don't mind if Battler stays, do you?"`
+char_kin: `"I have nothing to hide.`
+char_kin: ` I do not mind."`
+char_non: `However, he had called Krauss and Natsuhi to the VIP room to meet {f:5:Beatrice}, the Golden Witch.`
+char_non: `It was hard to imagine that Kinzo wanted to have a casual conversation......`
+char_non: `After Kinzo said he didn't mind, Beato also asked Battler to stay, so he decided to do so.`
+char_non: `In order to avoid getting in the way of their conversation, Battler stood up from the sofa and walked over to Ange's window.`
+char_non: `When the big brother finally came back to Ange, she clung to his waist, as though determined not to let him go away again.`
+char_bea: `"Oh, I see.`
+char_bea: ` That must be why Ange doesn't like me."`
+char_but: `"Huh? What do you mean?`
+char_but: ` I don't really think she dislikes you."`
+char_bea: `"*cackle*cackle*.`
+char_bea: ` You never could understand women, Battler."`
+char_non: `Beato smiled at Ange, but the latter turned to look the other way...`
+char_bea: `"*cackle*cackle*!`
+char_bea: ` Even a young woman is a woman nonetheless."`
+char_non: `When Beato stopped laughing, the conversation switched gears.`
+char_non: `Why on Earth did Kinzo summon Krauss and Natsuhi to the VIP room, and what was he going to talk about?`
+char_non: ` Everyone fell automatically silent.`
+char_kin: `"{f:5:Beatrice}, Golden Witch.`
+char_kin: ` Each and every day, I remember the debt owed by the Ushiromiya family for the time it was saved on the brink of destruction."`
+char_bea: `"*cackle*cackle*!`
+char_bea: ` Yeah, you'd better thank me."`
+char_but: `"Well, it's actually your grandmother he's thanking."`
+char_bea: `"Shut up, you."`
+char_cla: `"No, it comes to the same thing.`
+char_cla: ` All of that gold has been lent to the Ushiromiya family for three generations.`
+char_cla: ` And for no compensation."`
+char_nat: `"......We truly...cannot be grateful enough."`
+char_bea: `"Gold is no more than a pile of bricks to me.`
+char_bea: ` It was a relief to have Kinzo hold onto it, since I had nowhere to put them."`
+char_but: `"Whoa.`
+char_but: ` I'd like to say that just once before I die."`
+char_enj: `".........Is the Golden Witch...a rich person...?"`
+char_but: `"Hmm?`
+char_but: ` Well, yeah.`
+char_but: ` After all, she just went and lent Grandfather ten tons of gold."`
+char_kin: `"Precisely.`
+char_kin: ` I've been borrowing it for several decades, always promising to return it someday.`
+char_kin: ` The debt of gratitude I owe for that favor is now far beyond my ability to repay."`
+char_nat: `"The head family has never forgotten its gratitude.`
+char_nat: ` Isn't that right, dear?"`
+char_cla: `"Of course.`
+char_cla: ` If the {f:5:Beatrice}s hadn't so generously lent it to us for three generations,`
+char_cla: ` the Ushiromiya family would have fallen long ago.`
+char_cla: ` Even someone as shrewd as Father couldn't do anything without funds to start with."`
+char_kin: `"By now, my money is making money, and the gold that made up my original funds can sleep in peace.`
+char_kin: ` .........Krauss.`
+char_kin: ` Do you know what I am about to say?"`
+char_non: `Since the moment Krauss had been summoned here, he had guessed about the things Kinzo's words now hinted at.`
+char_non: `All things borrowed must someday be returned.`
+char_non: ` That day had finally come.`
+char_cla: `"......Yes, I understand.`
+char_cla: ` Father."`
+char_kin: `"{f:5:Beatrice}.`
+char_kin: ` I do not have many years ahead of me.`
+char_kin: ` In fact,`
+char_kin: ` ......this may be the last family conference that we will attend together."`
+char_bea: `"How fainthearted you sound.`
+char_bea: ` You must be joking."`
+char_non: `Beato alone laughed.`
+char_non: `She looked at Battler, so he laughed along with her, but Kinzo and the others remained silent.`
+char_non: `Apparently, there existed some major concerns about Kinzo's health......`
+char_kin: `"Of course, I do not intend to die as soon as next year.`
+char_kin: ` However, I don't believe I can make any certain promises about meeting you again next year.`
+char_kin: ` Not once have I ever made a promise that I cannot keep."`
+char_bea: `"If you say it so proudly like that, I'm in no position to disagree.`
+char_bea: ` ......Are you serious about this?"`
+char_kin: `"{f:5:Beatrice}.`
+char_kin: ` I want to make amends.`
+char_kin: ` And I must do it while I still have the energy.`
+char_kin: ` For that reason, I made the decision to do it today."`
+char_enj: `".........What's Grandfather talking about...?"`
+char_but: `"Quiet.`
+char_but: ` .........Grandfather is......about to talk about something very important."`
+char_non: `By now, even Battler understood what Kinzo was about to propose.`
+char_non: `Beato probably realized it too...`
+char_non: `At one time, the Ushiromiya family had ruled the skies like an eagle...before being crushed in the Great Kanto Earthquake.`
+char_non: `The eagle had one of its wings torn off, and it crawled in the mud, on the point of death.`
+char_non: `Then, they were saved by the Golden Witch's golden miracle.`
+char_non: `{n}Under the Golden Witch's protection, the eagle had nursed its wounds for many years.`
+char_non: `And now, finally, it was time for the eagle to leave the nest the witch had provided......`
+char_kin: `"All of the gold that your grandmother lent me,`
+char_kin: ` I will return to you.`
+char_kin: ` .........Krauss, you have no objections, correct?`
+char_kin: ` That gold did not belong to the Ushiromiya family in the first place."`
+char_cla: `"Of course.`
+char_cla: ` I have no objections whatsoever."`
+char_bea: `"Are you sure, Krauss?`
+char_bea: ` You're an investor, aren't you?`
+char_bea: ` You could always do with more money, right?`
+char_bea: ` Didn't you want Kinzo to hand the gold over to you?"`
+char_cla: `"Hahahaha...`
+char_cla: ` Yes, now that you mention it, it's hard to deny what you say.`
+char_cla: ` However, the contract was always between you and Father, and the gold was yours to begin with."`
+char_nat: `"After all, my husband is the successor.`
+char_nat: ` Just as Father rebuilt the family in one generation,`
+char_nat: ` I am sure my husband will make the family thrive in his.`
+char_nat: ` And this is something the two of us will do together."`
+char_kin: `"Hmm, well said.`
+char_kin: ` That's the spirit."`
+char_bea: `"......So, you have no regrets in leaving behind ten tons of gold.`
+char_bea: ` I must say, that is quite impressive.`
+char_bea: ` What can a witch do against an opponent who cannot be swayed by the golden magic?"`
+char_kin: `"I will return the gold to you.`
+char_kin: ` However, that will not change the fact that the Ushiromiya family will always be supremely indebted to {f:5:Beatrice}, the Golden Witch."`
+char_bea: `"......................................."`
+char_non: `To return the gold once lent by the Golden Witch.`
+char_non: ` It was both simple and clear.`
+char_non: `However, the expression worn by the Golden Witch herself was slightly lonely.`
+char_non: `Ange couldn't understand why this was.`
+char_bea: `".........I can hardly refuse what is being returned to me.`
+char_bea: ` Ah, well."`
+char_non: `Beato rose from the sofa.`
+char_non: `Then, she walked up to the window and looked down at the rose garden waving in the wind.`
+char_kin: `"Krauss.`
+char_kin: ` I have also decided to present you and the others with my inheritance while I still live."`
+char_cla: `"F‐Father......"`
+char_kin: `"When I die, you will not only be busy with the funeral, but I imagine that you will have Eva and the others at your throats over the inheritance issue.`
+char_kin: ` If all is divided now, the funeral will be less trying for you.`
+char_kin: `......Krauss, write this down.`
+char_kin: ` And Genji, please be our secretary.`
+char_kin: ` I will now lay out the distribution of my assets."`
+char_non: `Kinzo immediately began explaining how the inheritance would be split up.`
+char_non: `Battler, realizing that he shouldn't be listening in on this conversation,`
+char_non: ` walked over to where Beato was loitering by the window...`
+char_but: `"Hey, rich person.`
+char_but: ` If you've got too much gold on your hands, I'd be happy to lighten the load."`
+char_bea: `"Gold...would be no less useful if you turned it to firewood and used it to cook a stew."`
+char_but: `"What's the matter?`
+char_but: ` You're looking a bit miserable."`
+char_bea: `"So, this day has finally come.`
+char_bea: ` .........I do feel a bit lonely."`
+char_but: `".........You do?"`
+char_bea: `"My magic revived the Ushiromiya family and created Rokkenjima.`
+char_bea: ` ......And now, it seems the Ushiromiya family no longer has any need for the power of my gold.`
+char_bea: ` It has taken flight, leaving the nest of my magic behind."`
+char_but: `"Yeah.`
+char_but: ` ......That's pretty much it."`
+char_bea: `"I have called Rokkenjima the witch's island—`
+char_bea: `my island."`
+char_but: `".........Yeah."`
+char_bea: `"And now, Rokkenjima is returning the gold to me.`
+char_bea: ` .........The day has come...for Rokkenjima to awaken from my magic."`
+char_but: `"...........................`
+char_but: ` ......I guess it has."`
+char_bea: `"I...knew that this would be the last game.`
+char_bea: ` ......However, for that subject to be broached, even in a manner such as this, .........is surprisingly hard to handle."`
+char_but: `"You're the type of person who looks totally carefree, but who's actually full of lingering attachments and regrets."`
+char_bea: `"The cruel and obstinate ones are usually the quickest to grow attached...and then to feel lonely."`
+char_but: `"That's right.`
+char_but: ` That's the kind of person you are."`
+char_bea: `"............It was...a game for you and me."`
+char_but: `"It was fun.`
+char_but: ` It's a game you polished to perfection during those six years..."`
+char_bea: `"I once likened it to an eternal torture for the both of us."`
+char_but: `"......Eternity...is happiest when you can still believe that it's eternity.`
+char_but: ` But all things must end.`
+char_but: ` And we have to be aware of that."`
+char_bea: `"So, we must not avert our eyes."`
+char_but: `"Just as the sun always rises,`
+char_but: ` there's no sun that doesn't set."`
+char_enj: `"................................."`
+char_non: `Of course, Ange didn't have the slightest idea what her brother and the witch were talking about.`
+char_non: `......However, even as young as she was, she could feel that the pair had spent an incredibly long time together...`
+char_non: `and that they understood each other so well that they might as well be a married couple...`
+char_non: `Then,`
+char_non: ` Beato noticed her reaction.`
+char_bea: `".........Ange.`
+char_bea: ` At one point, the two of us wove games for each other.`
+char_bea: ` However, that time is already over.`
+char_bea: ` This game has been made, not for our sake, but for yours."`
+char_non: `They were talking in riddles again.`
+char_non: `{n}Grasping the key that hung by her chest, Ange looked at her brother's face...`
+char_but: `"We need to show you the contents of the cat box that is this day.`
+char_but: ` ......That key I gave you is for opening it."`
+char_enj: `"............What do you mean......cat box...?"`
+char_bea: `"He means this day."`
+char_but: `"You wanted to reach this day so much.`
+char_but: ` Using the miracle of magic, I've brought you here.`
+char_but: ` .........You must continue telling the story of this day, as the final witch."`
+char_enj: `"Does that mean............that I mustn't remain here...?"`
+char_non: `Ange's tone was slightly tense.`
+char_non: `{n}She understood what her brother meant, and it made her frown.`
+char_enj: `"Just how long have I suffered, wishing that I could return to the Rokkenjima of 1986...`
+char_enj: ` And now, I finally made it here!`
+char_enj: ` So why are you chasing me out...?!`
+char_enj: ` You said I could decide for myself!"`
+char_but: `"That's right.`
+char_but: ` I did say that."`
+char_enj: `"I'm not leaving.`
+char_enj: ` And please, stop trying to spoil me with this strange, made‐up tale...!`
+char_enj: ` I want to know the truth of this day!!"`
+char_bea: `"She is a moody kid, be it twelve years in the future or twelve years in the past."`
+char_enj: `"Shut up. I didn't ask you...!`
+char_enj: ` And what the hell do you think you're doing...?!`
+char_enj: ` Didn't the Golden Witch come here to perform her resurrection ritual?!"`
+char_enj: `"Didn't you appear on the island with a crash of thunder and try to offer up thirteen people as sacrifices?!`
+char_enj: ` Why are you acting so happy and casual?!`
+char_enj: ` It doesn't make sense!"`
+char_bea: `"You're the one that doesn't make sense.`
+char_bea: ` What are you thinking?`
+char_bea: ` Do you want me to be a murderer?"`
+char_enj: `"You wrote tales about it, sealed them in message bottles, and threw them into the sea!`
+char_enj: ` Two of them were discovered later on...!`
+char_enj: ` Both of them were stories of cruel serial murders!"`
+char_bea: `"What a shame that only two of them made it to shore...!`
+char_bea: ` How sad that "Land", my greatest masterpiece, was never seen by human eyes."`
+char_but: `"I've been wanting to ask this for a while, but what's up with those message bottles?"`
+char_bea: `"As I was working out the details for my game against you, I began creating those tales along the way.`
+char_bea: ` Once I realized that I could create endless different tales out of the same game board, it really started to get fun...!"`
+char_but: `"So, you wrote them down, hoping that I would read them someday."`
+char_bea: `"Precisely!`
+char_bea: ` They were so good, I just couldn't bear to wait for your return...!`
+char_bea: ` Inspired by those classic works set on isolated islands, I tried sealing them in bottles and throwing them into the ocean.`
+char_bea: ` Mysterious, don't you think?!"`
+char_enj: `"Don't mock me...!!!`
+char_enj: ` Those were your plans for the crime!`
+char_enj: ` You used the location of the hidden gold to fan up discontent between the family members...`
+char_enj: `as you planned your brutal serial murders...!!"`
+char_bea: `"Sheesh,`
+char_bea: ` is that how I've become in the year 1998?`
+char_bea: ` ......Well, I guess I can't blame them, *cackle*cackle*."`
+char_enj: `"Huh?!`
+char_enj: ` What's with the sudden change of character...?!!`
+char_enj: ` Is this some scheme to make me let my guard down?!`
+char_enj: ` I'm not gonna be fooled, {f:5:Beatrice}! Onii‐chan!!"`
+char_enj: `"You want to make me surrender and say that witches exist, don't you?!`
+char_enj: ` You think I'll fall for that...?!`
+char_enj: ` I'll find the truth without your help!"`
+char_bea: `"Even though that truth is all around you right now?`
+char_bea: ` You once called yourself Gretel, but it seems the name Mytyl would be more fitting."`
+char_enj: `"Enough!!!"`
+char_non: `Ange tried to slap Beato's cheek.`
+char_non: `However, the difference between their heights was so great that Beato dodged before the hand could reach her.`
+char_enj: `"Stupid......`
+char_enj: ` Stupid......!`
+char_enj: ` I won't acknowledge it...`
+char_enj: ` I'll never.........acknowledge this farce as the truth...!!"`
+char_non: `After Ange yelled those words, her eyes grew cloudy.`
+char_non: `They cleared up almost immediately.`
+char_non: ` By that time, she had already gone back to her six‐year‐old self...`
+char_bea: `"............You're right, Ange.`
+char_bea: ` This is the sin I left behind, ...and the reason for this final tale's existence."`
+char_enj: `"...........................?"`
+char_non: `As Ange stared blankly, uncomprehending, Beato gently patted her head.`
+char_bea: `"Indeed.`
+char_bea: ` This tale is a farce.`
+char_bea: ` It could not be true.`
+char_bea: ` ......Yet, he was prepared to look past that—`
+char_bea: `no, to make it that way on purpose—`
+char_bea: `for the sake of the message that he wants to convey to you."`
+char_but: `"Beato.`
+char_but: ` I'm already showing it to her.`
+char_but: ` I don't want to force it on her."`
+char_bea: `"I see."`
+char_enj: `"...............I don't understand what you two are talking about.`
+char_enj: ` .........I'm sleepy."`
+char_but: `"You're right.`
+char_but: ` We should probably be going."`
+char_bea: `"Kinzo.`
+char_bea: ` Must I remain here longer?"`
+char_kin: `"My apologies, but I must ask you to stay a little longer.`
+char_kin: ` ......Moving on, Krauss,`
+char_kin: ` the continued support of the Gospel House should be viewed as your responsibility as the Ushiromiya family head..."`
+char_bea: `"......What a pain.`
+char_bea: ` Forgive me, Battler.`
+char_bea: ` It seems I cannot go with you.`
+char_bea: ` ......Genji.`
+char_bea: ` Would you mind taking these two to the guesthouse?"`
+char_gen: `"As you wish.`
+char_gen: ` ......Battler‐sama, Ange‐sama, please follow me."`
+char_but: `"Thanks.`
+char_but: ` ......Okay, Beato.`
+char_but: ` I'll see you later."`
+char_bea: `"Of course!`
+char_bea: ` I have a mountain of things I wish to discuss with you.`
+char_bea: ` And I'd like us to have some time alone tonight.`
+char_bea: ` We must act the part of a couple every now and then...!"`
+char_but: `"Wh‐what do you mean, act the part of a couple?`
+char_but: ` Ihihi...!"`
+char_non: `Because Ange had gotten so bored, she had grown very sleepy.`
+char_non: `It would probably be best for her to take a quick nap.`
+char_non: `Battler walked through the windy rose garden, pulling her by the hand.`
+char_non: `When he questioned their guide, Genji, ......he learned that the old servant had known beforehand of Kinzo's desire to return the gold to Beato...`
+char_non: `and settle the inheritance problem early.`
+char_gen: `"......The Master decided to start preparations early for his final task in this world, the ending of his life."`
+char_but: `"Most people don't think much about what happens after they die...`
+char_but: ` ......Haah.`
+char_but: ` Guess Grandfather's just on a whole different scale."`
+char_gen: `"Today marks the day of a new flight, when the Ushiromiya family will depart from the Golden Witch's patronage."`
+char_but: `".........That's true.`
+char_but: ` Heheh, that's a pretty cool way to say it."`
+char_non: `Apparently, a grand Halloween party was to be held tonight,`
+char_non: ` and Gohda and the others had been ordered to start getting ready for it.`
+char_non: `However, it wouldn't just be a party.`
+char_non: `It would be a ceremony to mark the return of {f:5:Beatrice}'s gold.`
+char_non: `At the start of dinner, Grandfather would make the announcement,`
+char_non: ` and the Ushiromiya family would give thanks and applause to the three generations of {f:5:Beatrice}s for their generosity over the years.`
+char_non: `Apparently, this was what he had planned.`
+char_but: `"Is this still being kept secret from Dad and the others?"`
+char_gen: `"Technically, it is a secret.`
+char_gen: ` ......However, the Master did not suddenly begin thinking in this way today.`
+char_gen: ` He has often considered this day for many years, and has even discussed certain matters with his children.`
+char_gen: ` I doubt that any will be surprised to hear this night's announcement."`
+char_but: `"Well, as for my old bastard,`
+char_but: ` he's been running all over the place trying to get money for his company.`
+char_but: ` I guess he'll be dancing with joy when he hears that he's gonna get to unwrap Grandfather's inheritance present early."`
+char_gen: `"I rather think that Rudolf‐sama will be galvanized by a sense of great responsibility.`
+char_gen: ` ......He has succeeded splendidly since he left the island.`
+char_gen: ` However, his success so far has been supported by the Master's wealth."`
+char_but: `"......And now that he's suddenly getting his inheritance money, he'll have to keep going by his own strength alone in the future.`
+char_but: ` .........Heheh, in fact, it might actually put pressure on him."`
+char_gen: `"The siblings must have suffered for decades because of their father's excess of success and ability.`
+char_gen: ` ......Simply having a parent who is too successful can be a great burden to a child."`
+char_but: `"And tonight,`
+char_but: ` ......they'll be leaving the nest, truly becoming adults for the first time."`
+char_gen: `"It seems the Master plans to call this night a ceremony to return the gold.`
+char_gen: ` ......However, he first intended to call it a living funeral."`
+char_but: `"Sounds pretty depressing, having a funeral while you're still alive.`
+char_but: ` I'll admit that calling it a day of a new journey and leaving the nest fits the Ushiromiya family much better."`
+char_enj: `"...............Onii‐chan, ......I'm sleepy......"`
+char_but: `"Look, we're almost to the guesthouse.`
+char_but: ` Do you want to go to Mom's room?`
+char_but: ` Or to the cousins' room?"`
+char_enj: `"I don't care......`
+char_enj: ` ......I'll............sleep until dinner......"`
+char_non: `Ange, still holding her brother's hand, crouched down and looked as though she was about to fall asleep.`
+char_non: `Battler lifted her onto his back and carried her.`
+char_non: `As she felt the warmth and safety of her brother's back, Ange drifted off into sleep......`
+char_non: `What happened that day......?`
+char_non: `Just what on Earth happened on October 4th and 5th, 1986?`
+char_non: `Because of the massive size of the Rokkenjima Explosion Accident, the time the explosion occurred was known almost exactly, down to the minute.`
+char_non: `The time was...`
+char_non: `...the stroke of midnight on October 5th.`
+char_non: `The sheer improbability of that time proved that the explosion was produced by artificial means.`
+char_non: `Later on, the following statements were collected from individuals who knew Ushiromiya Kinzo when he was alive.`
+char_non: `During his lifetime, Ushiromiya Kinzo built a clock rigged to blow up the island at exactly midnight.`
+char_non: `This clock was apparently inside his secret study.`
+char_non: ` When he felt mentally cornered and wanted to think up a brilliant plan,`
+char_non: ` he would activate that device and use the tension of the approaching midnight to bring some flash of inspiration to him.`
+char_non: `While Ushiromiya Kinzo still lived, this was only thought of as a tall tale about this eccentric man,`
+char_non: ` ......but the fact that the Rokkenjima Explosion Accident occurred at exactly midnight supported the story...`
+char_enj: `"......It sounds crazy."`
+char_pro: `"He must have hoped to gain some sort of mystical power from those short periods of madness.`
+char_pro: ` If we think of it as being his source of high‐output mental power, the story isn't that difficult to swallow."`
+char_non: `Professor Ootsuki spoke passionately.`
+char_non: `Witch Hunters.`
+char_non: `{n}Enthusiasts who treat the mad fantasy surrounding Rokkenjima as their plaything.`
+char_non: `Ange had no reason to love these people, who embellished the deaths of her family just for the fun of it.`
+char_non: `And yet, how ironic it was for Ange, who wanted to know what happened that day,`
+char_non: ` that these people were the ones who knew most about that island.`
+char_enj: `"If someone used that device, the island would be blown away without a trace.`
+char_enj: ` ......There would be nothing left.`
+char_enj: ` No matter what had happened there, they could erase it."`
+char_pro: `"Theories that Ushiromiya Eva masterminded some kind of plot sprang up very early on.`
+char_pro: ` However, no one was able to explain how she set off such a massive explosion."`
+char_enj: `"And the rigged clock proves that such a thing was possible..."`
+char_pro: `"Correct.`
+char_pro: ` We can theorize that Ushiromiya Eva, fully aware of the timing and radius of the explosion, took refuge in Kuwadorian."`
+char_enj: `"......To get all of the family wealth to herself,`
+char_enj: ` she killed everyone, and used the explosion to remove all evidence..."`
+char_pro: `"That idea gives the most logical explanation for the Rokkenjima mystery.`
+char_pro: ` It also conforms with the fact that Eva never spoke to anyone about the events of that day."`
+char_non: `Where was that rigged clock, and how did Eva find it?`
+char_non: `Several Forgeries have speculated on this matter.`
+char_non: ` There's no need for me to waste time thinking about it.`
+char_non: `Eva activated the clock device, hid in Kuwadorian to escape the blast,`
+char_non: ` and was therefore the only one to survive.`
+char_non: `That was everything, the answer, which eloquently told the whole story.`
+char_non: `......When Eva first adopted me,`
+char_non: ` our relationship wasn't as bad as it later became.`
+char_non: `I asked her several times:`
+char_non: ` What happened that day?`
+char_non: `Every single time she answered, it was to say that she didn't remember.`
+char_non: `But...well, she must have been flustered at the time.`
+char_non: `{n}The very first time I asked, she answered like this:`
+char_non: `"I can't tell you about it."`
+char_non: `It was a slip of the tongue.`
+char_non: ` She knew what had happened that day.`
+char_non: `And she left this world without telling even a bit of the truth.`
+char_non: `She sealed the truth in a cat box...`
+char_non: `and left this world, taking the key with her.`
+char_non: `There can be only one answer.`
+char_non: `She was behind everything.`
+char_non: `{n}She got all of the family wealth to herself and became super‐rich.`
+char_non: `And afterward, she lamented the fact that her beloved son would never inherit any of what she had created, ...and she cursed me.`
+char_non: `......Just remembering that old bitch makes me want to vomit.`
+char_non: `What happened that day?`
+char_non: ` That's what I want to know.`
+char_non: `It's my only goal, the one reason I'm still alive.`
+char_non: `However, later on, I had to come to grips with the fact that my goal was an abstract one.`
+char_non: `After all, even if I don't know what happened that day...`
+char_non: `As for {i:who} did the crime—the whodunit—`
+char_non: `that is already clear.`
+char_non: `Ushiromiya Eva.`
+char_non: ` She's the culprit.`
+char_non: `That has never changed since the beginning.`
+char_non: `Yes.`
+char_non: ` I'm not trying to find out what happened that day.`
+char_non: `I'm trying to find out what Ushiromiya Eva did that day.`
+char_non: `If I can reveal that, then I can expose Eva's evil, even though she has already died.`
+char_non: `That...is my true goal.`
+char_non: `The police also suspected that a crime might have taken place, and they did investigate.`
+char_non: `However, no matter how much they inspected the crater that had once been Rokkenjima, they didn't find anything at all.`
+char_non: `The public and the Witch Hunters cornered Eva with several pieces of circumstantial evidence, but they were unable to find a single piece of physical evidence...`
+char_non: `...and so, though Eva was only the merest fraction of a shade away from guilty, they were unable to expose her crime......`
+char_non: `My goal isn't anything as vague as learning what happened that day......`
+char_non: `It's to expose the crime Ushiromiya Eva committed that day...and to have my revenge.`
+char_non: `I can't expose Ushiromiya Eva's crime, so people are treating the events on the island as though some bizarre Golden Witch did it all.`
+char_non: `Defeating the Golden Witch means exposing Ushiromiya Eva's crime for what it was.`
+char_non: `I won't forgive Ushiromiya Eva.`
+char_non: `{n}I swear...... I swear............`
+char_non: `{n}I will hate her and take revenge for my family.`
+char_non: `That is Ushiromiya Ange's one and only reason for living......`
+char_ama: `"Hahhahahaha.`
+char_ama: ` If she knew she was hated that much, the president'd probably be rolling around laughing in the next world."`
+char_enj: `"......Shut up.`
+char_enj: ` I'll expose that old bitch's crime.`
+char_enj: ` ......I'll never accept that she blew all the evidence away and committed the perfect crime. I refuse."`
+char_ama: `"In other words, this journey of yours is a journey to take revenge for your family."`
+char_enj: `"Got a problem with that?"`
+char_ama: `"You must be joking.`
+char_ama: ` It's great to know that you have a purpose in life."`
+char_enj: `"......Could you turn that off?"`
+char_ama: `"Oh?`
+char_ama: ` You don't like M.Zakky?"`
+char_non: `Amakusa turned the radio off.`
+char_non: `The dull sound of the engine became the BGM that filled the car.`
+char_enj: `"Is there something strange about it?`
+char_enj: ` A fight for revenge."`
+char_ama: `"Not really.`
+char_ama: ` I've met people who live for that reason many times on the front."`
+char_enj: `"......You've been on battlefields many times as a mercenary, right?"`
+char_ama: `"Well, I've seen a few."`
+char_enj: `"So, are people who fight to take revenge for their families...`
+char_enj: `strong?"`
+char_ama: `"No doubt about it.`
+char_ama: ` ......Some people'll even strap bombs to themselves and commit suicide to take revenge for their families.`
+char_ama: ` Humans are more than capable of dying for vengeance."`
+char_enj: `"......That's right.`
+char_enj: ` I could do it too."`
+char_ama: `"Have you heard of child soldiers?"`
+char_enj: `"You mean kids who fight like soldiers?"`
+char_ama: `"That's it.`
+char_ama: ` Kids who've lost their parents and have nowhere to go sometimes get picked up by groups of armed insurgents and become soldiers.`
+char_ama: ` ......They get a gun thrust in their hands, and they're taught how to take revenge.`
+char_ama: ` ......But in the end, children are expendable.`
+char_ama: ` Anyone can be a soldier in a battlefield if they can pull a trigger."`
+char_enj: `"Are you trying to say that I'm like that?"`
+char_ama: `"Revenge can be a reason for living.`
+char_ama: ` It can also give you the strength to become a soldier.`
+char_ama: ` ......Like a miracle, it can turn a girl who could do nothing but sob over her parents' corpses into a soldier, almost overnight.`
+char_ama: ` ......Nothing gives you more power than revenge does."`
+char_enj: `"I guess so.`
+char_enj: ` And that's what I'm like."`
+char_ama: `"Do you know about the child soldier problem?"`
+char_enj: `"No."`
+char_ama: `"Child soldiers who are given guns and taught how to take revenge make that their reason for living.`
+char_ama: ` Well, that's not exactly right.`
+char_ama: ` It becomes their reason for shooting their guns.`
+char_ama: ` ............But revenge is something that never ends.`
+char_ama: ` At some point, they no longer have any reason for shooting their guns."`
+char_enj: `"......What do you mean?"`
+char_ama: `"They used to shoot for revenge.`
+char_ama: ` But, eventually, they keep on shooting for no reason at all."`
+char_enj: `"Because they've forgotten about their revenge?"`
+char_ama: `"When revenge is impossible, they eventually tire of it and forget their original purpose.`
+char_ama: ` When that happens, they have nothing except their gun.`
+char_ama: ` Eventually, they'll keep shooting just so they can eat."`
+char_enj: `"......You're saying that child soldiers who started using guns for revenge...`
+char_enj: `end up as bandits or something?"`
+char_ama: `"After all, they've never even gone to school, and they haven't been taught any useful skills as far as employment is concerned."`
+char_non: `They only learned how to shoot guns.`
+char_non: `{n}And they were only ever praised when they killed the enemy.`
+char_ama: `"Eventually, your reason for living stops being revenge...and becomes the means you used to try and take it.`
+char_ama: ` ......It's sad, really."`
+char_enj: `"Are you saying that I'll eventually get tired of revenge, and...`
+char_enj: `...uh, what would it be in my case?"`
+char_ama: `"You'll get tired of exposing the truth...`
+char_ama: `and your life will become entirely devoted to hating Ushiromiya Eva."`
+char_enj: `"Well, that's true already. Got a problem with it?"`
+char_ama: `"Hyahha...!`
+char_ama: ` Come to think of it, that's right."`
+char_non: `I'm not sure what Amakusa is trying to say.`
+char_non: `{n}Probably something annoying.`
+char_non: `So I'm not interested.`
+char_enj: `".........Revenge is stupid.`
+char_enj: ` Is that what you're trying to say?"`
+char_ama: `"You still have a long life ahead of you, missy.`
+char_ama: ` With your youth, you could do anything.`
+char_ama: ` ......I get the feeling that this journey might be a waste of that precious youth."`
+char_enj: `"It's none of your business.`
+char_enj: ` ......I already jumped, remember?`
+char_enj: ` Off a skyscraper."`
+char_ama: `"And you were lucky enough to come out of that alive."`
+char_enj: `"Back then...`
+char_enj: `I died.`
+char_enj: ` So, I'm already a ghost.`
+char_enj: ` And my only purpose is to expose the truth of that day to take revenge on my family's killer."`
+char_ama: `"......I see.`
+char_ama: ` That's an iron will you've got there, missy."`
+char_enj: `"There's no way a flippant man like you could understand how I feel."`
+char_non: `After that, Amakusa was forced to shut his mouth.`
+char_non: `He shrugged, but Ange didn't see.`
+char_non: `Even so, Amakusa spoke once more.`
+char_ama: `"On the first day we started this journey,`
+char_ama: ` ......you said something.`
+char_ama: ` You said you wanted to know what happened on that island that day."`
+char_enj: `"It's the same now.`
+char_enj: ` What's changed?"`
+char_ama: `"Now, you're saying...`
+char_ama: `that you want to know what happened on that island that day so you can expose Ushiromiya Eva's crime."`
+char_enj: `"And isn't that exactly the same?"`
+char_ama: `"......Well, that's true."`
+char_enj: `"I'm tired, so I'll sleep now.`
+char_enj: ` Would you mind staying quiet for a bit?`
+char_enj: ` Tell me when we get there."`
+char_ama: `"Roger that."`
+char_non: `I wasn't particularly tired, really.`
+char_non: `{n}I just said that because I didn't like talking about this.`
+char_ama: `"Don't become one.`
+char_ama: ` A child soldier."`
+char_non: `Ange, who had decided to feign sleep, ignored him.`
+char_non: `{n}But Amakusa kept talking.`
+char_non: ` He wanted to make sure she heard at least this much.`
+char_ama: `"You started on a journey to learn the truth.`
+char_ama: ` It's becoming more and more a journey of revenge.`
+char_ama: ` .........A journey to have revenge by exposing the truth.`
+char_ama: ` But, as you know, there's nothing left on Rokkenjima.`
+char_ama: ` There aren't even any traces left.`
+char_ama: ` ......Exposing the truth might not be a picnic."`
+char_non: `......I know what Amakusa's trying to say.`
+char_non: `The police searched the scene so thoroughly just after the crime, and even they weren't able to find any physical evidence proving that Ushiromiya Eva was the culprit.`
+char_non: `And a full twelve years have passed since then.`
+char_non: `......If the truth could be discovered by a girl like me, waving wads of cash around to pick up a bit of info from those who were somehow related to the incident,`
+char_non: ` then someone would have exposed the truth long ago.`
+char_non: `I might not be able to reach the truth.`
+char_non: `If so, .........then my first desire—to expose the truth—will probably fade away.`
+char_non: `After that, only my hatred for Eva will remain.`
+char_non: `Just like the child soldiers, who forget their original purpose and live just to shoot...`
+char_non: `...I will forget my original purpose...and live just to hate.`
+char_non: `For all my hate of Ushiromiya Eva, ......my revenge of exposing the truth will have been foiled,`
+char_non: ` ......but I will go on hating her anyway, and that will become all there is to my life.`
+char_non: `......Is there any difference between shooting for revenge and shooting to live?`
+char_non: `When you pull the trigger, someone dies either way.`
+char_non: `And what about my case?`
+char_non: `Is there any difference between hating Eva as I expose the truth...and hating Eva after I've given up?`
+char_non: `There's no difference.`
+char_non: `In the end, whether I find the truth or not, I'll just keep on cursing Eva, over and over, until I die.`
+char_non: `............What a crappy life.`
+char_non: `{n}But now...that's all I have left.`
+char_non: `Ushiromiya Eva stole my family.`
+char_non: `So, I'll take revenge.`
+char_non: ` ......By exposing her crimes and showing the world.`
+char_non: `......My consciousness was slowly drifting away into sleep......`
+char_non: `Why is Onii‐chan showing me such a bizarre Rokkenjima...?`
+char_non: `Is this supposed to be the truth?`
+char_non: `Enough with this farce.`
+char_non: `Why is even Onii‐chan trying to hide the truth from me?`
+char_non: `I'm trying to find it so that I can avenge him and the others.`
+char_non: `.........Or would Onii‐chan say the same thing as Amakusa?`
+char_non: `That revenge is meaningless, so I should stop.`
+char_non: `Is that why......he's speaking in riddles, trying to make everything more confusing......?`
+char_non: `.........That's none of his business.`
+char_non: `I'm not just trying to take revenge for their sakes.`
+char_non: `I'm doing it for my sake too.`
+char_non: `{n}After all, that's the only thing I'm living for.`
+char_non: `Taking revenge...is my reason to live.`
+char_non: `..............................`
+char_non: `I don't have a clue...`
+char_non: `...what Onii‐chan is thinking.`

@@ -1,0 +1,496 @@
+char_non: `......The sound of crashing waves.`
+char_non: `The sound of the tide surging.`
+char_non: ` The noise of the sea breeze.`
+char_non: `Whenever my headache torments me, these are the sounds that fill my head......`
+char_non: `My inability to bear a successor placed me in a very difficult position within the Ushiromiya family...`
+char_non: `I tried every medication that was said to promote fertility, every incense or herb,`
+char_non: ` ......but nothing I tried had any effect.`
+char_non: `Until I was blessed with Jessica 18 years ago,`
+char_non: ` ......I was ashamed to even call myself a wife.`
+char_bea: `"......The creation of a child depends on the efforts of two people and the whims of heaven.`
+char_bea: ` It's not fair to place all the blame on yourself."`
+char_nat: `"I still don't know what caused my inability to become pregnant.`
+char_nat: ` I even went to see noted physicians.`
+char_nat: ` I underwent humiliating examinations.`
+char_nat: ` ......But I was always just told that they didn't understand the reason..."`
+char_bea: `"Even though quite some time had passed since your marriage, you still couldn't bear a child.`
+char_bea: ` ......I see.`
+char_bea: ` It's only natural that Eva, who secretly aspired to become the next head, would start getting ideas..."`
+char_non: `Eva tried to convince Father that I was a failure as a future head's wife.`
+char_non: `It was a time when Kinzo was also very disappointed in my husband's repeated business failures.`
+char_non: `On the other hand, Eva's husband Hideyoshi's business was growing well, completely the opposite of my husband's business.`
+char_non: `......He was the only person who could bring Father good news.`
+char_non: `In that case, perhaps there could be no blame placed on Father if he decided to lend an ear to Eva's words...`
+char_non: `...or even accept them without question.`
+char_non: `It was all my fault, because I couldn't bear a child...`
+char_bea: `"You are sinless.`
+char_bea: ` Aren't babies of this country carried here by storks?`
+char_bea: ` If anyone is to be judged, it should be the stork."`
+char_nat: `"...............Thank you.`
+char_nat: ` However, ...even though he was still in good health then, the head was already well past his prime,`
+char_nat: ` and it's not hard to imagine that he wanted to see his grandchildren's faces as soon as possible..."`
+char_bea: `"Who cares.`
+char_bea: ` If he wanted a grandchild, he could have just done what he wanted with that appalling amount of money he had.`
+char_bea: ` ......This is Kinzo, the man who always bragged about how money could create anything.`
+char_bea: ` If he wanted a grandchild, why couldn't he just manage something with that money he was so proud of...?!"`
+char_nat: `"..................Yes, ......that's right.`
+char_nat: ` ......The head......gave up on me when I couldn't bear a child...`
+char_nat: `...and did just that."`
+char_non: `......Thinking it the duty of anyone in possession of large amounts of money, the head gave a lot to charities.`
+char_non: `One among these, the facility known as the "Gospel House", had been given an especially large donation, possibly because he had old ties with that place.`
+char_bea: `"Ah, the Gospel House.`
+char_bea: ` ......Furniture came from that place quite often."`
+char_nat: `"As part of their work training and public activity,`
+char_nat: ` the head employed Gospel House children with exceptional grades as servants.`
+char_nat: ` ......All of the servants in the mansion with the character "{ruby:in/on/non:{p:0:音}}" in their names—Shannon, Kanon, Lunon, Manon, Lenon, and more besides—`
+char_nat: `were children from there."`
+char_bea: `"......There were quite a lot of them, weren't there...`
+char_bea: ` Though most quit after just a few years."`
+char_nat: `"That's probably because a few years of wages from working here would earn them more than enough to live on their own.`
+char_nat: ` ......Experience as a servant for the Ushiromiya family is a wonderful thing to add to one's resumé.`
+char_nat: ` I'm sure it was also the head's desire for them to gain this for themselves and then spread their wings in society."`
+char_bea: `"............I see.`
+char_bea: ` ......So, an adopted child........."`
+char_nat: `".............................."`
+char_nat: `"F‐Father......`
+char_nat: ` What......did you just say......?"`
+char_kin: `"Accept this infant as my grandchild."`
+char_kum: `"Ohhh...... There, there.`
+char_kum: ` There, there..."`
+char_non: `Apparently, the baby Kumasawa was trying to soothe didn't like the air in the study at all.`
+char_non: `...It kept on crying as if it hated it here......`
+char_nat: `"M‐...my apologies, Father...`
+char_nat: ` ......I'm not sure what you want me......"`
+char_kin: `"Accept this infant as my grandchild.`
+char_kin: ` You shall raise it to be the one who succeeds Krauss."`
+char_nat: `"......In other words, ......you want my husband and I to raise this baby...as our own child......?"`
+char_kin: `"That's right.`
+char_kin: ` It's clear by now that you are barren.`
+char_kin: ` ......Your body must have some sort of defect."`
+char_kum: `"Ooh... There, there.`
+char_kum: ` Ooh, there, there......"`
+char_non: `As though she couldn't hear our discussion in the slightest, Kumasawa kept on persistently trying to cuddle the baby.`
+char_non: `This made its crying get even louder......`
+char_bea: `"............That's nonsense.`
+char_bea: ` If all the responsibility of giving birth rested with the woman, this world would have no need for men."`
+char_nat: `"I've never forgotten the bitter pain I felt that day......`
+char_nat: ` ......Of {i:course} I wanted a child......`
+char_nat: ` ......But no matter how much I prayed, I couldn't get pregnant......`
+char_nat: ` Thinking that something to do with my body might be the cause, I went to see several famous doctors.`
+char_nat: ` But even so, no matter how hard I tried, ......I couldn't become pregnant......"`
+char_bea: `"After all that, ......for this to be how you were treated...`
+char_bea: ` ............I understand."`
+char_non: `The baby had been picked up by the Gospel House just recently.`
+char_non: `Of course, it wasn't that I didn't feel compassion for the child,`
+char_non: ` who was so young and who had already lost its parents' affection.`
+char_non: `However, .........the pain and sadness I felt were far greater.`
+char_non: `It would have been another story if I had suffered to bear this child,`
+char_non: ` ......but why...`
+char_non: `...did I have to cradle this baby,`
+char_non: ` who not only shared none of my blood,`
+char_non: ` but who was not related to my husband in the slightest either......?`
+char_nat: `"I don't hate Father.`
+char_nat: ` ......If anything, ......I only hated my own body...!`
+char_nat: ` I detested it!`
+char_nat: ` I truly detested my own body for being unable to bear a child......!!`
+char_nat: ` So I prayed.`
+char_nat: ` I prayed to both angels and demons!!`
+char_nat: ` And my wishes were granted by both...!"`
+char_bea: `"......What did you pray to the angels?"`
+char_nat: `"I prayed for a miracle in my body...!`
+char_nat: ` If there was something wrong with my body, I could accept that.`
+char_nat: ` But I wanted to overcome that defect and somehow be granted the miracle of my husband's child...!"`
+char_gap: `"......That wish came true.`
+char_gap: ` ......The next year, you gave birth to Jessica."`
+char_bea: `"And......what did you pray to the demons?"`
+char_nat: `"I couldn't stand it,`
+char_nat: ` I couldn't stand it......`
+char_nat: ` I cursed this body of mine...!`
+char_nat: ` And I cursed this baby,`
+char_nat: ` ......who was the living reminder of my failure...!!"`
+char_ron: `".........What did you wish for?"`
+char_nat: `"For the first time in my life, I prayed and wished to demons...!!`
+char_nat: ` I wished that this baby would simply disappear!!"`
+char_non: `......Of course, that wish was also granted...by demons.`
+char_non: `On that day, I left the baby with one of the older servants and went to think about the future in the rose garden.`
+char_non: `No, that's a lie.`
+char_non: ` ......I just wanted to clear my mind of everything.`
+char_non: `The baby's cries were aggravating,`
+char_non: ` so I ordered the servant to take the baby to a place where I couldn't hear.`
+char_non: `......By a place where I couldn't hear, I meant somewhere far away.`
+char_non: `Yes, I wished.`
+char_non: `......I wished for the servant to take the baby far away and never return...!!`
+char_ron: `"I see......`
+char_ron: ` ......So, a passing demon heard your wish, Natsuhi‐sama."`
+char_bea: `"And then, ......what happened next?"`
+char_nat: `"After that...was a bizarre accident that could only have been granted me by a demon..."`
+char_non: `The woodland path from the rose garden to the harbor is certainly well suited for a pleasant walk.`
+char_non: `......And from time to time, if the mood took you, it would undoubtedly feel good to veer off the path and take a walk through the trees.`
+char_non: `However, .........wouldn't that be venturing a little too far for a walk with a baby in your arms...?`
+char_nat: `"There was a cliff on the other side.`
+char_nat: ` It was......about ten meters high, I think.`
+char_nat: ` It was rocky below.`
+char_nat: ` ...There was even a fence there!`
+char_nat: ` Are we to suppose that the servant deliberately walked all the way over there holding the baby,`
+char_nat: ` and then leaned against the fence...?!`
+char_nat: ` The only conceivable explanation is that she was lured there by the beckoning of a demon!!"`
+char_gap: `"............So she was lured there.`
+char_gap: ` ......A demon who heard your wish lured that servant there......"`
+char_ron: `"So then, ......the servant and the baby..."`
+char_nat: `"They died...!!`
+char_nat: ` They fell from the cliff, down to the rocks below...!`
+char_nat: ` No, they died because I wished it!`
+char_nat: ` That means this is my—"`
+char_bea: `"It isn't your fault!`
+char_bea: ` There's no need to think about it any further."`
+char_nat: `"But it happened because I wished it......!!"`
+char_bea: `"No, that's wrong!`
+char_bea: ` Making wishes is one thing, but it is only at the whims of gods, demons, and witches that they may be granted!`
+char_bea: ` You bear no sin.`
+char_bea: ` {y:0:Human}{n:0:Human}s bear no sin.`
+char_bea: ` You can even claim that I killed them if you so desire.`
+char_bea: ` No, I did kill them!`
+char_bea: ` I took pity upon your misery, and I lured the servant with the baby to the cliff and led them down it!"`
+char_ron: `"It was simply an unfortunate accident.`
+char_ron: ` If you cannot accept that explanation, then blame it on us.`
+char_ron: ` That's why demons exist."`
+char_gap: `".........That's right.`
+char_gap: ` We're here for your sake.`
+char_gap: ` .....It's not like you killed them.`
+char_gap: ` We killed them.`
+char_gap: ` So you are sinless.`
+char_gap: ` ......So please, don't blame yourself, Natsuhi."`
+char_nat: `"Is that true......?`
+char_nat: ` Am I truly sinless......?!"`
+char_bea: `"Yeah, you are.`
+char_bea: ` Fuhhahahahaha!!`
+char_bea: ` Young one who claims revenge for 19 years ago.`
+char_bea: ` If you're going to curse someone, curse me.`
+char_bea: ` However, witches have a patent on curses...!`
+char_bea: ` Let me take on this fight you're trying to pick with Natsuhi!!"`
+char_bea: `{e:090:I am the Ushiromiya family alchemist, {f:5:Beatrice} the Golden}!`
+char_bea: `{n}`
+char_bea: `{e:090:If anyone picks a fight with the master I serve, I will fight in my master's stead}!`
+char_bea: `{n}`
+char_bea: `{e:090:Revenge for 19 years ago, you say}?`
+char_bea: `{n}`
+char_bea: `{e:090:I'll make you learn that's not even a blink of an eye for a witch who's lived a thousand years}!!`
+char_bea: `{e:090:Gahahahahahaahahahahahahahaha}!!`
+char_bea: `{n}`
+char_bea: `{e:090:So, you hate Natsuhi for wishing your death 19 years ago}?!`
+char_bea: `{e:090:Let me make you remember just who it was that lured you off that cliff}...!!`
+char_bea: `......As the middle‐aged female servant cuddled the sobbing baby, she walked on a small path through the trees...`
+char_bea: `Natsuhi had told her that the baby was too loud, so she tried to get as far from the rose garden as she could.`
+char_bea: `......She was completely unaware as to why she'd gone out of her way to head in this direction.`
+char_bea: `However, the sobbing baby...`
+char_bea: `...suddenly stopped crying.`
+char_bea: `Something was reflected in its eyes, but the servant couldn't tell what.`
+char_bea: `However, thinking that the baby had stopped because it had taken an interest in something,`
+char_bea: ` ......she headed in the direction of the baby's gaze...`
+char_bea: `The baby had seen......a group of gold butterflies disappearing off into the trees.`
+char_bea: `And.........on the other side of the trees, ...the servant saw a woman.`
+char_bea: `.........Who?`
+char_bea: ` It was someone she didn't recognize, someone who couldn't possibly have been there.`
+char_bea: `The baby stopped crying and stared in that direction.`
+char_bea: `{n}...Then, the servant's legs started to automatically carry her that way...`
+char_bea: `"Come this way, woman.`
+char_bea: ` .........Bring that cursed baby with you."`
+char_non: `"...........................Ah......"`
+char_non: `The woman couldn't disobey.`
+char_non: `......She was completely overwhelmed by Beato's gold‐glowing eyes...`
+char_non: `She walked lightly, as though through a dream world.`
+char_non: `......At some point, the scenery around her had changed,`
+char_non: ` ......but she did not notice.`
+char_non: ` She could not notice...`
+char_non: `Though this should have been Rokkenjima,`
+char_non: ` ......at some point, it had become the garden of a mansion she had never seen before.`
+char_non: `It was a garden she had never seen before, even grander than the great rose garden of the Ushiromiya family......a garden of gold roses.`
+char_non: `There stood an arbor,`
+char_non: ` ......and a woman wearing an elegant dress beckoning her.........`
+char_non: `...There was a man who looked like a butler, and the tea he poured with a beautiful gesture had a very nice and enticing smell.`
+char_non: `It was as though they were telling her to join their tea party......`
+char_non: `She couldn't disobey.`
+char_non: `.........She had to go to the master of this golden rose garden...`
+char_non: `......and give this child as an offering......`
+char_bea: `"Forgive me, woman.`
+char_bea: ` Curse your bad luck for being entranced by a witch.`
+char_bea: ` ......And, surrounded by these gold roses, which you would never be able to enjoy in this world, sleep.`
+char_bea: ` .........Gaap."`
+char_gap: `".........Yes, understood."`
+char_non: `When Gaap snapped her fingers,`
+char_non: ` ......a pitch‐black hole opened at the woman's feet, and she was swallowed up along with the baby.`
+char_non: `The sight that the woman and the baby witnessed in the very next moment probably burned itself into their eyes forever.`
+char_non: `The two floated in the air......and looked down at the gold rose garden spread out below them.`
+char_non: `Below their feet was not the ground, but an unobstructed view of a golden rose garden which stretched as far as the eye could see.`
+char_non: `If one could have this scene imprinted in their mind as their last memory, that would be such a merciful way to die......`
+char_non: `Then, the woman and the baby were swallowed up by the golden sea.`
+char_non: `The {i:thud} was remarkably plain, and remarkably quiet for the sound of two lives being taken.`
+char_non: `......However, it was a perfect fit for the entertainment at a tea party of witches.`
+char_non: `Darkness swallowed the woman and the baby, ......and slowly expanded to engulf the entire rose garden...`
+char_non: `The sound of the wind grew stronger bit by bit.`
+char_non: `...Was that TV static?`
+char_non: ` What was that noise...?`
+char_non: `......It was the roar of the sea.`
+char_non: `The two who had died after falling from a great height into a thicket of golden roses...`
+char_non: `...were gradually engulfed by the roar of the sea, engulfed by the scenery of the beach below the cliff...`
+char_bea: `"I guarantee it.`
+char_bea: ` You are completely sinless!!`
+char_bea: ` If someone wants revenge for 19 years ago, they need look no further than me!!`
+char_bea: ` Wahha{0}ha{0}ha{0}ha{0}ha{0}ha{0}ha{0}hahaha!!"`
+char_nat: `"...Ee......eeeeeeeeeeeeekkk.........!"`
+char_nat: `When I spotted the two of them on the rocks below, ......I went pale.`
+char_nat: `Then, I dashed back to the mansion......and there was a great uproar.`
+char_nat: `We urgently rushed them to hospital by boat, ......but from that height, it was a miracle that they had even avoided an instant death.`
+char_nat: `Both the servant...`
+char_nat: `...and the baby...`
+char_nat: `......died.`
+char_nat: `In less than three days from the time Father had entrusted me with the baby, ......I had killed it...!`
+char_nat: `My husband was on a business trip.`
+char_nat: `Rosa‐san, who still lived on the island at the time, was away traveling with her friends.`
+char_nat: `......Father and I were the only ones on Rokkenjima!!`
+char_nat: `And before anyone except Father and I knew,`
+char_nat: ` ......a baby had appeared out of nowhere...and then disappeared again!!`
+char_nat: `That's right, it was a dream...a nightmare!!`
+char_nat: `I was convinced that Father would blame me.`
+char_nat: `{n}`
+char_nat: `...However, his reaction was somehow strange...!`
+char_kin: `"Heh, ......heh{0}eh{0}eh{0}eh{0}eh{0}eheh, fwaha{0}ha{0}ha{0}ha{0}ha{0}ha{0}ha{0}ha{0}ha{0}hahha{0}hhahaha!!`
+char_kin: ` I saw this coming, I {i:knew} this would happen!`
+char_kin: ` How long must you struggle?`
+char_kin: ` To what lengths will you go to escape being mine?!!`
+char_kin: ` Waha{0}ha{0}ha{0}haa{0}ha{0}ha{0}ha{0}ha{0}haha!!`
+char_kin: ` I have no interest in an empty cage!`
+char_kin: ` Throw it away!!"`
+char_non: `When Father learned of the accident,`
+char_non: ` he kept on laughing and laughing, as though nothing could be more amusing, to the point that just listening to him disturbed me.`
+char_non: `Perhaps something had come loose in his mind......`
+char_non: `That was the day that changed him.`
+char_non: `Father shut himself up inside the world of the occult even more than he ever had before......`
+char_non: `When my husband came back, he was astonished to see how eccentric Father had now become.`
+char_non: `However, ......he had already accepted that this would happen sooner or later.`
+char_non: `Of course, my husband had heard about the baby.`
+char_non: `However, he told me that it was surely just some whim of Father's, and to forget the whole episode.`
+char_non: `So I forgot it!`
+char_non: `It was an unfortunate accident.`
+char_non: `No, there wasn't an accident at all!`
+char_non: `I forgot everything, even that the baby had existed in the first place...!!`
+char_non: `After all, it was a twisted nightmare which lasted not even three days!`
+char_non: `{n}That's right, it was all a nightmare...!!`
+char_non: `I don't want to remember any of it!!`
+char_non: `The cliff, the broken fence, the roar of the sea,`
+char_non: ` and......the wailing of that baby.........!!!`
+char_gap: `"So, that baby.........is the baby of 19 years ago?"`
+char_bea: `"Of course not!`
+char_bea: ` I killed that baby!`
+char_bea: ` It no longer exists in this world!"`
+char_ron: `"......However, there is no red truth in the {y:0:Human}{n:0:human} world.`
+char_ron: ` In the {y:0:Human}{n:0:human} world, nothing can be trusted."`
+char_gap: `"............That's right.`
+char_gap: ` Beato, you definitely killed that baby.`
+char_gap: ` But in the {y:0:Human}{n:0:human} world, it might still be considered alive.`
+char_gap: ` ......Whether {i:it's really alive or not}, catch my drift?"`
+char_nat: `"Are you saying.........that it actually was alive?!`
+char_nat: ` After falling to the rocks from that height......?!"`
+char_bea: `"I don't know.`
+char_bea: ` But calm down.`
+char_bea: ` ......No matter how much that person hates you, the truth is that it was an accident.`
+char_bea: ` If he does hate you, that hatred is completely unjustified...!"`
+char_nat: `"But, but...!`
+char_nat: ` Even if I didn't lay a finger on him, ......inside my heart, I...!!"`
+char_bea: `"Calm down.`
+char_bea: ` ......No matter who the man from 19 years ago hates or what he yells, there's no way the sin he's after actually occurred.`
+char_bea: ` So calm down.`
+char_bea: ` Why don't I welcome the man from 19 years ago as my guest?`
+char_bea: ` *cackle*cackle*cackle*!"`
+char_bea: `"And just when the riddle was solved and I thought my job was finished.`
+char_bea: ` I've got to entertain this final guest of mine!!`
+char_bea: ` Kuhhya{0}hya{0}hya{0}hya{0}hya!!"`
+char_ron: `"It's getting interesting.`
+char_ron: ` ......Not only are you protecting Lord {f:5:Goldsmith}'s secret, but you also have a 19th guest and a man from 19 years ago."`
+char_gap: `".........That's right—to us who claim that Kinzo is alive, Erika is number 19.`
+char_gap: ` And in addition to that 19th piece, we have a man from 19 years ago?`
+char_gap: ` How interesting. I'm getting all excited."`
+char_bea: `"We have no lack of opponents!!`
+char_bea: ` And I was just thinking it a shame to have only one guest at my tea party!!`
+char_bea: ` Come, you fools!!`
+char_bea: ` Kuhha{0}ha{0}ha{0}haa{0}ha{0}ha{0}ha{0}ha{0}ha{0}haa{0}hahah!!"`
+char_non: `Furudo Erika is Lady {f:5:Bernkastel}'s piece.`
+char_non: `{n}In that case, whose piece is the man from 19 years ago......?`
+char_non: `The voice which could be faintly overheard through the receiver...was Natsuhi's.`
+char_nat: `"I, ......I understand.`
+char_nat: ` I'll sleep right now.`
+char_nat: ` I won't leave my room, and I won't pick up the phone...!`
+char_nat: ` So please, don't tell my husband and daughter......!"`
+char_non: `When heard through a receiver, even these begging screams which would have shaken the heart of anyone who heard them...`
+char_non: `......could be listened to with a heart of ice...`
+char_non: `"As long as you keep our promise, I'll keep your secret, Mother.`
+char_non: ` ......Don't break our promise.`
+char_non: ` .........I'm already very close by.`
+char_non: ` I can easily tell whether you've turned your lights off and whether you're on the phone.`
+char_non: ` ...If I wished to, I could even kiss your sleeping face."`
+char_nat: `"I'll keep it!`
+char_nat: ` I'll keep my promise!!`
+char_nat: ` So stop it, just stop it!`
+char_nat: ` Stop iiii{-}i{-}i{-}i{-}i{-}i{-}i{-}i{-}i{-}i{-}iittt!!"`
+char_non: `The receiver was set down violently.`
+char_non: `......“He” knew very well how bad an aftertaste you could leave for the other side just by the way you hung up the phone...`
+char_lam: `"Okay, good night, Mother.`
+char_lam: ` ............And there you go!`
+char_lam: ` Now Natsuhi won't come out of her room tonight."`
+char_ber: `".........That's a clever trick.`
+char_ber: ` You can change your voice?"`
+char_lam: `"*giggle*!`
+char_lam: ` Anyone can change their voice.`
+char_lam: ` A sweet voice when begging Papa for a favor{p:0:♪}`
+char_lam: ` A hoarse‐sounding voice when taking the day off school.`
+char_lam: ` An apologetic voice when turning down a friend that you actually hate!`
+char_lam: ` {f:5:If you want}{p:0:♪},`
+char_lam: ` {p:0:I can do~}`
+char_lam: ` {p:0:{nobr:ａｎｙ} {nobr:ｖｏｉｃｅ☆}}`
+char_lam: ` at all~!"`
+char_ber: `".........You should stop being a witch and become a voice actress."`
+char_lam: `"Heheheheheheheh!`
+char_lam: ` So, are all the pieces set up for both of us now?`
+char_lam: `............‘Furudo Erika’.`
+char_lam: ` What a wonderful piece.`
+char_lam: ` She suits you so much more than Ange did, Bern."`
+char_eri: `"............Your praise honors me, Lady {f:5:Lambdadelta}."`
+char_lam: `"The pleasure is mine.`
+char_lam: ` ......Mmm, she really is wonderful.`
+char_lam: ` Super adorable.`
+char_lam: ` I'm dying to break her spirit with my witch illusions and see her face twist in humiliation."`
+char_ber: `"......Hear that?`
+char_ber: ` ......Don't embarrass me, okay?`
+char_ber: ` Show me that you're a much more useful piece than Ange was."`
+char_eri: `"Yes, leave it to me.`
+char_eri: ` Lady {f:5:Bernkastel}, my master.`
+char_eri: ` ......I'm nothing like that gloomy, dull, utterly charmless piece."`
+char_lam: `"*giggle*giggle*giggle*!`
+char_lam: ` She's so right.`
+char_lam: ` The only useful thing that Ange did was get turned into meat chunks to fire Battler up!"`
+char_lam: `"We have no interest at all in family love or sibling love!`
+char_lam: ` The game we want to see is more gruesome and sticky!`
+char_lam: ` A <grotesque>, <pop>, and <cute> murder case!!"`
+char_ber: `".........If Natsuhi is the king, then I wonder if Beato is the queen.`
+char_ber: ` *giggle*.`
+char_ber: ` The pack of witches and furniture guarding Natsuhi is less like a set of chess pieces and more like—"`
+char_lam: `"Bowling pins, right?!`
+char_lam: ` Kyahha{0}ha{0}ha{0}ha{0}ha{0}ha{0}ha{0}ha{0}haha!!`
+char_lam: ` Illusions of Natsuhi and Beato,`
+char_lam: ` Kinzo and the worthless furniture!`
+char_lam: ` Entertain us a bit, will you?!"`
+char_lam: `"Especially Beato!`
+char_lam: ` We're bored of you now!`
+char_lam: ` That "Legend of the Witch" murder game of yours is over!`
+char_lam: ` And your time is up too!!"`
+char_lam: `"This game board is Bern's and mine now.`
+char_lam: ` It'll suit you to be reduced to one of our pieces and toyed with for all eternity!!"`
+char_ber: `"*giggle*giggle*giggle*giggle*giggle*.`
+char_ber: ` Both Natsuhi and Beato are sacks of filthy, rotten truth, just entrails wrapped up in a thin layer of skin.`
+char_ber: ` ......Tearing that to shreds and dragging the insides out will be one of my—`
+char_ber: `no, one of {i:our} few pleasures."`
+char_lam: `"Yes, you can have a lot of fun with it.`
+char_lam: ` Hey, are you watching?`
+char_lam: ` {f:5:Beatrice}?`
+char_lam: ` Look at how much fun can be had playing with your board.`
+char_lam: ` I'll show you.`
+char_lam: ` A fifth game that's actually fun!!"`
+char_ber: `".........It's a bit sad if we're the only ones having a pleasant chat.`
+char_ber: ` Why don't you let Beato talk too?"`
+char_lam: `"Hear that?`
+char_lam: ` I'll give you special permission to talk.`
+char_lam: ` What do you hope to gain from this latest game?!"`
+char_bea: `"......................................."`
+char_lam: `"Ahahahaha!`
+char_lam: ` Nothing, she says!`
+char_lam: ` That's right, that's right!`
+char_lam: ` You're the loser who got crushed by Battler!`
+char_lam: ` Leave it to me, okay?`
+char_lam: ` I'll put the witch side on top in a snap!`
+char_lam: ` But I'm gonna be sacrificing you as a piece in the process!!"`
+char_eri: `"What a dreadful loss of face for {f:5:Beatrice}, keeper of the gold, to have her epitaph so easily solved before the first twilight.`
+char_eri: ` ......*giggle*giggle*!!"`
+char_ber: `"......Isn't it great that you've been left as a piece as part of Natsuhi's fantasy?`
+char_ber: ` ......Well, except that we're treating you as a pin now instead of a piece."`
+char_lam: `"The Golden Witch {f:5:Beatrice} is out of the picture now!`
+char_lam: ` In my game, you and your furniture only have a teeny‐tiny role, a loser's role!!`
+char_lam: ` You can enjoy getting tossed and thrown around and made into toys for me and Bern!!"`
+char_ber: `".........If that's not what you want, just tell us to stop.`
+char_ber: ` And we'll stop."`
+char_bea: `"......................................."`
+char_lam: `"She doesn't mind!`
+char_lam: ` *giggle*giggle*!!`
+char_lam: ` Pin confirmed!!"`
+char_ber: `"Ahhahaha...ahhahahahahaha!"`
+char_non: `""Kyahhha{0}hah{0}hah{0}ha{0}ha{0}ha{0}ha{0}hah{0}hha{0}ha{0}hah{0}gwa{0}hyah{0}haha{0}aah!!!""`
+char_non: `There's no need for a Golden Witch anymore.`
+char_non: `All that's needed is a sacrificial doll so that we two witches can enjoy some time playing.`
+char_non: `Die, die, disappear.`
+char_non: `Confess to your filthy past and your crimes,`
+char_non: ` pour out your sob story of regret and repentance as you throw yourself off a cliff and die!!`
+char_non: `There will be no more appearances for the Golden Witch......!!`
+char_non: `Ahhah{0}ha{0}ha{0}ha{0}ha{0}haah{0}hah{0}haa{0}ha{0}ha{0}ha{0}ha{0}haa{0}ha{0}ha{0}ha{0}ha{0}ha{0}haha...!!`
+char_bea: `"......................................."`
+char_but: `"...............Beato..."`
+char_non: `This will be......a most horrible game.`
+char_non: `On the surface, it does look very similar to the usual tales.`
+char_non: `However, ......there is no respect given to the true main characters of this tale.`
+char_non: `This is supposed to be the tale to which the Golden Witch {f:5:Beatrice} invited Ushiromiya Battler.`
+char_non: `However, the host has been lost, and there is no longer a guest.`
+char_non: `{n}......With both inviter and invitee now gone, only the worst kind of tale remains.`
+char_non: `{a:c:Welcome to the fifth game:`
+char_non: `{n}End of the Golden Witch.`
+char_non: `{n}Welcome to a party with neither host nor guests,{nobr: hijacked by wicked witches......}}`
+char_lam: `".........Ready, Battler?`
+char_lam: ` The second day is about to start.`
+char_lam: ` Heheheheh! I hate Beato's kind of slow, plodding storytelling!"`
+char_but: `"Do your worst.`
+char_but: ` ......No matter how much you mess things up, I'm still gonna reach the truth of this game."`
+char_eri: `"*giggle*.`
+char_eri: ` .........As you must.`
+char_eri: ` For the sake of your little sister, if nothing else."`
+char_but: `".............................."`
+char_eri: `"Don't worry.`
+char_eri: ` ......Lady {f:5:Lambdadelta} may be a far more terrifying opponent than that fool {f:5:Beatrice},`
+char_eri: ` but I'll be giving you plenty of support, so there won't be any problems.`
+char_eri: ` ......Let's work together, and this time we'll expose the witch illusions for what they really are."`
+char_but: `".........I don't give a damn about you.`
+char_but: ` I won't accept anything or anyone that wasn't a part of Beato's games, and I don't need your help."`
+char_eri: `"Is now really the time to act tough?`
+char_eri: ` .........Oh well, let's both give it our all, okay?`
+char_eri: ` Together, let's tear the witch illusions to shreds.`
+char_eri: ` *giggle*giggle*!"`
+char_non: `Erika brazenly put her hand out for me to shake.`
+char_non: `...Instead of just passively ignoring this,`
+char_non: ` I gave her an active and clear answer by knocking her hand aside.`
+char_ber: `".........*giggle*.`
+char_ber: ` Looks like he hates shaking hands.`
+char_ber: ` Just like Ange."`
+char_eri: `"Don't worry.`
+char_eri: ` I'm a far more useful piece than Ange.`
+char_eri: ` ......I'm nothing at all like shredded meat that couldn't accomplish anything besides restoring Battler‐san's fighting spirit."`
+char_but: `"..........................."`
+char_lam: `"*giggle*...!`
+char_lam: ` Isn't it great that you've been blessed with such helpful‐looking allies?!`
+char_lam: ` In the past, it was {f:5:Virgilia} and Ronove.`
+char_lam: ` Then Ange came as well."`
+char_lam: `"And now you have Bern and Erika!`
+char_lam: ` There are so many pieces supporting you!`
+char_lam: ` And despite all of that, you still can't get even a glimpse of the truth! How does it feel to be that incompetent?! How does it feel?!"`
+char_but: `".........It doesn't matter.`
+char_but: ` This battle is between me and Beato.`
+char_but: ` Everyone else besides us...doesn't matter."`
+char_lam: `"Oh, is that true?`
+char_lam: ` Are you finally standing on your own?!`
+char_lam: ` You've always had someone helping you or showing you mercy, so I wonder just how far you'll get on your own!`
+char_lam: ` I'm gonna enjoy watching this!"`
+char_but: `"......I'm taking it back.`
+char_but: ` .........This is our game.`
+char_but: ` ......You two aren't invited!!"`
+char_ber: `"*giggle*.`
+char_ber: ` Yes, that's true.`
+char_ber: ` .........This is your game.`
+char_ber: ` Then show us you're capable of reclaiming it.`
+char_ber: ` ......You couldn't even win Beato's games when she went easy on you at every turn.`
+char_ber: ` Show us how far you can take Lambda's completely ruthless game without anyone's help!"`
+char_lam: `"Now awaken, Ushiromiya Battler!! Welcome to the morning of October 5th!!"`

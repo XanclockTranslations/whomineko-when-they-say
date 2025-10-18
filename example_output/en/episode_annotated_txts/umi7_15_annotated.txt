@@ -1,0 +1,608 @@
+char_cur: `"Totally!`
+char_cur: ` Why do guys turn into total morons when they get together?!"`
+char_cur: `Jessica's room was filled with laughter.`
+char_jes: `"It was one hell of a reality check...!`
+char_jes: ` I thought this guy was a bit cool, a bit mature.`
+char_jes: ` And then I see him with some of the other guys in our class, talking about dirty stuff with this creepy laugh!"`
+char_sha: `"It's true that boys always act like little kids when they're together."`
+char_non: `"Well, it's not like girls are any better!"`
+char_non: `""Ahhahahahahahaha!!""`
+char_non: `The fun chat between girls continued without end.`
+char_non: `Tonight, Krauss and Natsuhi were out late at a meeting on Niijima.`
+char_non: `Normally, Natsuhi was always watching, so Jessica would make sure to be curt with the young servants,`
+char_non: ` but when Natsuhi wasn't around, Jessica never did that.`
+char_non: `She had invited the servants of similar age to her room, and they were chatting away noisily...`
+char_non: `All of them were at the age when they wanted to know about love.`
+char_non: `Jessica enjoyed talking about love all the more thanks to the rigid and constricting way she had been brought up, and she seized upon this chance...`
+char_non: `"What about you, Milady? You've got charm, you're the right age...`
+char_non: ` Aren't there any boys you're interested in?"`
+char_jes: `"W‐well, I'd like to fall in love, but there really aren't any...g‐good ones around...!"`
+char_non: `"I think you should be a bit more proactive when it comes to love.`
+char_non: ` You act relaxed now, but it won't last long!`
+char_non: ` Once one of your friends starts going out with someone, it'll turn your world upside down."`
+char_jes: `"Th‐there's no way that'll happen...`
+char_jes: ` None of my friends are traitors...`
+char_jes: ` I, I think."`
+char_non: `"Ah, no, no, no!`
+char_non: ` The one thing you definitely can't count on from a girl you call your friend is that she won't fall in love before you!`
+char_non: ` If you met someone you liked, you'd betray your friends and go out with the guy without a second thought, wouldn't you?!"`
+char_jes: `"A‐ahahahahahahahahahaha......`
+char_jes: ` Wh‐what about you, Shannon...?!`
+char_jes: ` It's not fair if I'm the only one who has to talk!"`
+char_sha: `"I, umm, ......don't have anyone like that around..."`
+char_non: `......Not around.`
+char_non: `He's far, far away, ......and like Orihime and Hikiboshi, I don't get to see him very often.`
+char_non: `In fact, ......I don't even know when I'll be able to see him again.`
+char_non: `......However, I believe that he'll come for me someday.`
+char_non: ` ......I believe it.`
+char_jes: `"Don't you betray me, okay, Shannon?!`
+char_jes: ` If we get boyfriends, we'll get them together, okay?!`
+char_jes: ` Right? Right? We promised, right?!"`
+char_non: `"Oh, you wouldn't think it, but it's girls like Shannon‐chan...`
+char_non: `who are the type to beat you to the punch!`
+char_non: ` *giggle*giggle*!"`
+char_jes: `"Shannon, fess up!!`
+char_jes: ` You aren't going out with anyone, are you?!`
+char_jes: ` You aren't, right?!"`
+char_sha: `"I, I'm not. Really......"`
+char_jes: `"Really?!"`
+char_sha: `"R‐really..."`
+char_jes: `"We'll get boyfriends together, okay?`
+char_jes: ` No matter what happens, okay?!`
+char_jes: ` Cross your heart and hope to die, stick a needle in your eye!!"`
+char_sha: `"Y‐yes......`
+char_sha: ` I promise......"`
+char_non: `"That's the face of a liar!`
+char_non: ` I'm willing to bet Shannon‐chan's the first of us all!`
+char_non: ` I can tell.`
+char_non: ` It's always the quiet ones that go first...!"`
+char_jes: `"Shannon, how could you?!`
+char_jes: ` Fess up, fess up!!"`
+char_sha: `"P‐please stop, Milady...!`
+char_sha: ` Th‐that tickles...!`
+char_sha: ` A‐ahahahahaha...!!"`
+char_non: `......Amid cheerful laughter, another lazy Sunday afternoon passed by.`
+char_non: `I worked my way out of the fight and looked up at the sky through the window.`
+char_non: `......I wonder if Battler‐san is somewhere out there right now...`
+char_non: `surrounded by his friends and chatting about the same topic we are.`
+char_non: `I only hope that you're thinking of me...`
+char_non: `...the same way that I'm thinking of you...`
+char_non: `But if I beg for that, it's the same as admitting that I don't trust you.`
+char_non: `.........I'll wait.`
+char_non: `And when you do come for me, I'll announce then and there that I'm quitting my job.`
+char_non: `I've already prepared myself for it.`
+char_non: `{n}......But...you haven't come yet.`
+char_non: `That isn't because you won't come, ......but because I'm not resolved enough yet, right?`
+char_non: `It's because I haven't clearly envisioned a future with you, right?`
+char_non: `I'll wait.`
+char_non: ` ......No matter how long.`
+char_non: `......Until you come for me, riding a white horse...`
+char_non: `I will always treasure our promise.`
+char_non: `{n}The promise of our precious resolve......`
+char_non: `"No, never make a promise with a guy.`
+char_non: ` You can't count on them!"`
+char_non: `Thinking that she had read my mind, I spun around.`
+char_non: `Of course, she hadn't...`
+char_jes: `"Well, as far as that goes,`
+char_jes: ` I think guys and girls have different ideas of what's important."`
+char_non: `"They do, they do! {i:Totally} different.`
+char_non: ` On the whole, girls tend to be dreamers, and guys just do stuff without thinking."`
+char_jes: `"I guess understanding between the sexes is pretty much impossible after all."`
+char_non: `"At least, I think it's pretty hard.`
+char_non: ` Girls often have the bad habit of thinking they know exactly what the guy is thinking right away.`
+char_non: ` They search for hidden meanings behind words that guys say for no reason in particular,`
+char_non: ` and just get the wrong idea."`
+char_jes: `"Ah, yeah, I've known girls like that.`
+char_jes: ` Girls who've taken what anyone could tell them was just some meaningless comment as a sign that the guy is totally into them.`
+char_jes: ` Yeah, I see it all the time."`
+char_non: `"It's painful to watch when a girl gets the wrong idea."`
+char_non: `Ahhahahahahahahaha.`
+char_non: ` The pair of them laughed together.`
+char_non: `......When a girl...gets the wrong idea.`
+char_non: ` Could that be......me...?`
+char_non: `No, that can't be.`
+char_non: `{n}After all, Battler‐san made a clear promise to me.`
+char_non: `{n}He said he'd come for me riding a white horse.`
+char_non: `......I mustn't doubt.`
+char_non: `I'm sure this conversation I'm hearing is just another one of God's trials.`
+char_non: `So, I won't listen.`
+char_non: ` I won't even think twice about it.`
+char_jes: `"If there's one thing I never want to be, it's one of those embarrassing girls who thinks a guy's heart is linked to hers for no reason."`
+char_non: `"Ahhahahahahahahahahahaha."`
+char_non: `Those demonic sneers tormented me and tried to lead me astray.`
+char_non: `{n}......I'm sure he'll come to the next family conference......`
+char_non: `But Battler‐san didn't come to the 1982 conference either......`
+char_non: `More and more things keep changing away from the way they were at the last family conference he came to.`
+char_non: `Kyrie‐sama, Rudolf‐sama's new wife, now blends in perfectly here,`
+char_non: ` ......coming down off the boat with a familiar stride.`
+char_non: `Her daughter, Ange‐sama, is growing well, and all of the family focus their attention on her.`
+char_non: `Also, Maria‐sama, who was so small at the time, is already five years old.`
+char_non: ` She is full of energy, and old enough to enjoy playing with George‐sama.`
+char_non: `Neither Jessica‐sama nor George‐sama brought up Battler‐san's absence.`
+char_non: `The other relatives were the same way.`
+char_non: ` ......No one touches upon the subject, as though they've forgotten that Battler‐san is missing.`
+char_non: `Maria‐sama was only three when she last saw Battler‐san.`
+char_non: `I doubt whether she even remembers him.`
+char_non: `......In just two short years...`
+char_non: `All trace of your existence......has been erased from the Ushiromiya family conference.`
+char_non: `That made me sad.`
+char_non: ` And so I said...`
+char_sha: `"......It looks like Battler‐sama didn't come back this year either."`
+char_geo: `"True.`
+char_geo: ` ......Do you miss having him here?"`
+char_sha: `"Well, ......umm......"`
+char_geo: `"Uncle Rudolf and Auntie Kyrie don't even bring him up anymore.`
+char_geo: ` ......It looks like Battler‐kun was much more serious than we thought."`
+char_jes: `"I wonder if he really will stay away forever."`
+char_geo: `"Looks like it was leaving the nest after all.`
+char_geo: ` He's spread his wings and left for a new stage of life.`
+char_geo: ` That's my assumption."`
+char_jes: `"......He's always been crazy and reckless.`
+char_jes: ` Well, what more'd you expect from a guy?"`
+char_geo: `"Well, we know Battler‐kun.`
+char_geo: ` I'm sure he's adapted to his new life and is enjoying himself.`
+char_geo: ` So, there's no reason to worry."`
+char_non: `Even though George‐sama said that with a smile, his words disconcerted me.`
+char_non: `He's "enjoying himself", so there's "no reason to worry"...?`
+char_non: ` .........What is that supposed to mean......?`
+char_jes: `"This is Battler we're talking about, so you can bet he's forgotten all about us and is having a great time."`
+char_geo: `"Yeah, I'm sure that's the case.`
+char_geo: ` And I think that's best for him.`
+char_geo: ` Battler‐kun must have given a lot of thought to himself, his family, and his late mother, and made the independent decision to start a new life.`
+char_geo: ` So, I hope he lives that new life with conviction.`
+char_geo: ` Forgetting about the Ushiromiya family would do him a lot of good."`
+char_non: `George‐sama smiled at me, expecting me to agree.`
+char_non: `......After a moment of shock, I smoothed my expression over and found the expression he was expecting.`
+char_non: `Is Battler‐san......living happily,`
+char_non: ` ......having forgotten about the family, about me, about our promise......?`
+char_non: `That can't be true. It just can't be.`
+char_non: `Battler‐san must be striving to reach that day of resolve just like me.`
+char_non: `I'm not mistaken about that.`
+char_non: `He promised me.`
+char_non: `{n}He said he'd come riding a white horse.`
+char_non: `I never asked him to say that.`
+char_non: `{n}He said he'd come for me on the day I resolved to live life for his sake.`
+char_non: `He made that promise himself.`
+char_non: `For two years,`
+char_non: ` I've believed that.`
+char_non: `I've done all I could to make it through God's trials and the whisperings of demons that tried to throw me from my path.`
+char_non: `And yet, ......the things both George‐sama and Jessica‐sama are saying...are so cruel.`
+char_non: `Battler‐san has forgotten about us and has started a new life?`
+char_non: `Why are they telling such obvious lies......?`
+char_non: `But that night...`
+char_non: `{n}I dreamed of Battler‐san for the first time in a long while.`
+char_non: `The Battler‐san in my dream.........wasn't the Battler‐san I believed in.`
+char_non: `......It was the Battler‐san that George‐sama and Jessica‐sama had spoken of,`
+char_non: ` .........the one who had forgotten everything and started a new life.`
+char_non: `Morning arrived.`
+char_non: ` I woke up with a tear‐stained face.`
+char_non: `The me in the mirror......whimpered through tears that she couldn't wait any longer.`
+char_non: `If you've managed to wait this long, why can't you wait any longer...?`
+char_non: `{n}This is a trial.`
+char_non: ` ......We have to believe in him and wait.`
+char_non: `But the me in the mirror spoke.`
+char_non: ` ......It was sharper than a fragment of glass.`
+char_non: `.........We talk about this promise, ......but did we actually {i:make} a promise with him...?`
+char_non: `Don't you remember what Jessica‐sama said?`
+char_non: ` ......That some girls are dreamers who get the wrong idea?`
+char_non: `Don't you remember what George‐sama said?`
+char_non: ` ......That Battler‐san has gotten used to his new life......and has forgotten about the Ushiromiya family?`
+char_non: `.........He wouldn't be the only one to forget.`
+char_non: `{n}Without me asking about Battler‐san, everyone on this island would have forgotten his name.`
+char_non: `{n}Even Rudolf‐sama doesn't say his name anymore.`
+char_non: `If I weren't here to remember his face,`
+char_non: ` ......perhaps his existence would have been erased from the hearts and minds of everyone here.`
+char_non: `......I don't believe it.`
+char_non: ` So, I won't doubt him.`
+char_non: `Battler‐san must still remember our promise.`
+char_non: `We're both waiting for the day of resolve, the day we'll be together.`
+char_non: ` ............Battler‐san.`
+char_non: `{n}My mind is firmly made up.`
+char_non: `Does the fact that you're not here mean that I'm {i:still} not resolved enough?`
+char_non: `No.`
+char_non: ` ......It's because you and God are testing me, isn't it?`
+char_non: `In that case, I will endure.`
+char_non: `{n}Until that promised day inevitably comes.`
+char_non: `.........So, ......please.`
+char_non: ` Battler‐san.`
+char_non: `I want some sign......that you haven't forgotten me.........`
+char_non: `That...was the crack that ran across my ceramic heart.`
+char_non: `At last, I had to acknowledge the possibility.`
+char_non: `......The possibility that something terrible and dreadfully sad was happening......and I was pretending not to notice.`
+char_non: `Battler‐san...makes me yearn for him.`
+char_non: `{n}Battler‐san...makes me sad.`
+char_non: `{n}Battler‐san...makes it hurt.........`
+char_non: `Battler‐san.`
+char_non: `......Do you still remember me, now.........?`
+char_non: `And then......came the third family conference since Battler‐san left.`
+char_non: `If the number of beds was going to increase, we would be told about that when setting up.`
+char_non: `The fact that nothing has changed in particular......means that he probably won't be here this year either.`
+char_non: `Clinging to a final bit of hope, I stood by the docks, watching the boat draw closer.`
+char_rud: `"Hey, Shannon‐chan.`
+char_rud: ` You're looking as pretty as ever."`
+char_kir: `"Careful, Ange.`
+char_kir: ` Watch your step."`
+char_geo: `"Hey, Shannon. You know, I love visiting Rokkenjima...!`
+char_geo: ` Uncle Krauss really should hurry up with his plans to turn it into a resort."`
+char_eva: `"Why bother?`
+char_eva: ` It'd be such a waste."`
+char_ros: `"Eheheh, maybe it would.`
+char_ros: ` How have you been, Shannon‐chan?`
+char_ros: ` I think you've gotten a bit taller since last time."`
+char_sha: `"......Thank you very much."`
+char_hid: `"And the weather's good again this year...!`
+char_hid: ` We should count our blessin's that we can bring the whole family together like this without a single one of us missin'."`
+char_sha: `"Please allow me to guide you to the mansion......"`
+char_non: `So, after all, ......Battler‐san has been so thoroughly forgotten that he might as well not have existed in the first place.`
+char_non: `The sadness must be showing on my face.`
+char_non: `Not wanting anyone to see it, ......I turned my back to the family and led the way up to the mansion.`
+char_non: `Then, ......suddenly, someone mentioned Battler‐san's name, and I jumped.`
+char_geo: `"What, you saw Battler‐kun?"`
+char_jes: `"Is he doing well...?!"`
+char_kir: `"Yes,`
+char_kir: ` he's doing very well.`
+char_kir: ` I took Ange and had some tea with him the other day."`
+char_non: `I was surprised.`
+char_non: ` ......So, Kyrie‐sama was in touch with Battler‐san.`
+char_non: `According to her, the fight between Battler‐san and Rudolf‐sama had calmed down a long time ago,`
+char_non: ` but both were so stubborn that they hadn't found a good chance to make up.`
+char_non: `And since Battler‐san had gotten used to living with his grandparents and going to school near there,`
+char_non: ` it wasn't going to be easy to get him to come back home, especially considering that the grandparents were adding extra complications.`
+char_kir: `"......It's just too bad.`
+char_kir: ` I think Asumu‐san's parents were even more angry than Battler‐kun was.`
+char_kir: ` This isn't just an issue between Battler‐kun and Rudolf‐san anymore."`
+char_jes: `"Then will Battler be coming back sometime soon?"`
+char_kir: `"He will make up with Rudolf‐san, but it looks like he doesn't intend to return to the Ushiromiya family.`
+char_kir: ` ......Such a shame.`
+char_kir: ` Though I do understand how he feels."`
+char_non: `It was a bit of a relief to hear that some of the bad feeling had died down in these three years.`
+char_non: `Taking Asumu‐sama's parents into account, it's no surprise that things haven't gone as well as they could.`
+char_non: `But if Battler‐san doesn't hate Rudolf‐sama anymore, ......then someday...`
+char_non: `......Surely he'll come back.`
+char_non: ` He'll have grown so much.`
+char_non: `My resolve will never waver again.`
+char_non: `For some nights these past three years, I've felt sad and resentful.`
+char_non: `But now, ......it feels as though those three years were something I needed.`
+char_non: `After all, ......the seeds of love, the faint feelings I once had for you...`
+char_non: `...have budded powerfully, waiting for the day that we'll be reunited.`
+char_non: `This is how honest my feelings for you are now.`
+char_non: `.........I...love you.`
+char_non: `I want to see you again as soon as I can.`
+char_non: `Until that time, ......I'll keep this sprout of love warm and growing for you......`
+char_non: `I won't doubt the coming of that day anymore.`
+char_non: `Just as I think of you, under the same sky...`
+char_non: `...I believe that you are thinking of me.`
+char_non: `......I'm sure this news about him is a sign that God is cheering me on.`
+char_non: `So, I asked God one more time, inside my heart.`
+char_non: `Since my feelings for Battler‐san have not wavered for a day these past three years...`
+char_non: `Let me know that he feels the same way.`
+char_non: `I know that asking for that is a sin.`
+char_non: `However, now that we've reached a three‐year turning point,`
+char_non: ` ......I want some gift from God, any gift, to show that I have not waited in vain.`
+char_non: `That is what I prayed.`
+char_kir: `"Oh, that's right.`
+char_kir: ` It's been so long since Battler‐kun last saw you all, right?`
+char_kir: ` I thought you might be feeling lonely, so I told him to write you letters.`
+char_kir: ` Here they are."`
+char_non: `..................Huh...?`
+char_non: `Did God......really hear my prayers?`
+char_non: `{n}I felt as though my heart was going to leap out of my chest.`
+char_jes: `"A letter from Battler?`
+char_jes: ` Awesome!`
+char_jes: ` What'd he write?!"`
+char_geo: `"Did he say anything about how he's been doing lately?`
+char_geo: ` I can't wait to read it."`
+char_non: `Kyrie‐sama pulled a brown envelope out of her bag and handed it to George‐sama.`
+char_non: `Just one?`
+char_non: `When George‐sama opened it, several folded letters came out.`
+char_geo: `"Looks like this one's addressed to me.`
+char_geo: ` ......They all have different names on them.`
+char_geo: ` Here, this one's yours, Jessica‐chan."`
+char_jes: `"Thanks!"`
+char_geo: `"And this one's for Maria‐chan.`
+char_geo: ` Will she be able to read it...?"`
+char_ros: `"I'll read it to her later.`
+char_ros: ` Thank you."`
+char_geo: `"There's even one for Ange‐chan.`
+char_geo: ` Now of course she can't read."`
+char_kir: `"*giggle*.`
+char_kir: ` I'll give it to her when she does learn."`
+char_jes: `"He says he's doing great and having a blast...!`
+char_jes: ` That's awesome."`
+char_sha: `"......Umm,`
+char_sha: ` ......is that...`
+char_sha: `all of them...?"`
+char_geo: `"Yep.`
+char_geo: ` Looks like that's all of them.`
+char_geo: ` Thanks a lot."`
+char_non: `George‐sama handed me the empty envelope.`
+char_non: `......Apparently, he thanked me because he thought I was offering to throw it away for him.`
+char_non: `And, clearly, ......there was nothing inside it.`
+char_non: `There was no letter for me...`
+char_geo: `"Whoa.`
+char_geo: ` The more I read, the more fun it looks like Battler‐kun's been having.`
+char_geo: ` Living every day to the fullest."`
+char_jes: `"That's what it looks like in mine, too.`
+char_jes: ` If he's happy, then I guess that's what counts."`
+char_ros: `"*giggle*.`
+char_ros: ` That's so mean of Battler‐kun.`
+char_ros: ` It sounds like he forgot about us until you told him to write those letters."`
+char_kir: `"Well, you know what he's like.`
+char_kir: ` Battler‐kun enjoys life.`
+char_kir: ` And I hear he's popular with the ladies at school, too."`
+char_geo: `"Wow...!`
+char_geo: ` Incredible!"`
+char_jes: `"There should be plenty of girls who like those hilarious, melodramatic lines of his.`
+char_jes: ` Makes sense to me."`
+char_ros: `"I wonder if he really does plan to stay away."`
+char_geo: `"It looks like he does.`
+char_geo: ` In my letter, it says that he doesn't plan to return to Rokkenjima."`
+char_non: `I know that all these letters and the things written inside them...`
+char_non: `...are trials from God.`
+char_non: `The absence of a letter for me,`
+char_non: ` the information that he's enjoying life and has forgotten about Rokkenjima,`
+char_non: ` ......are all just trials upon trials.`
+char_non: `He is...`
+char_non: ` God is...`
+char_non: `...testing me.`
+char_non: `The fact that I'm the only one without a letter is proof of that......`
+char_non: ` ............I...`
+char_non: `............wanted to believe that............`
+char_non: `......But...`
+char_non: `......at last.........`
+char_non: `I couldn't believe any longer...............`
+char_wil: `"......It might've been an important promise to you,`
+char_wil: ` ......but it looks like it wasn't for Battler."`
+char_cur: `"................................."`
+char_rio: `"......No way.`
+char_rio: ` ......Then, that promise about him coming on a white horse was..."`
+char_cur: `"I was a dreamer... It was just an illusion I created......"`
+char_wil: `"To Battler, they were probably just meaningless words to make him sound cool."`
+char_non: `......What a ludicrous story it might seem to an outside observer.`
+char_non: `{n}That promise with Battler might have been an illusion the whole time.`
+char_non: `We don't even know......if they felt the same way about each other in the first place.`
+char_non: `Love is an illusion.`
+char_non: `When both sides see the same illusion, the love becomes true.`
+char_non: `However, when the feelings of each side are different, ......then it's nothing more than a joke.`
+char_wil: `"This is Battler's sin."`
+char_rio: `"......That he created the illusion......of a promise."`
+char_wil: `"No."`
+char_rio: `".........Huh?"`
+char_wil: `"......It's that he didn't even remember."`
+char_cur: `"If he had simply broken his promise, ......I could have confronted him about it.`
+char_cur: ` I could have regretted, or I could have recovered.`
+char_cur: ` .........However, since he didn't even remember, I am unable to question him about it."`
+char_rio: `".............................."`
+char_cur: `"I am unable to hate Battler‐san.`
+char_cur: ` ......After all, Battler‐san didn't even break his promise."`
+char_wil: `"There just wasn't......any promise from the beginning."`
+char_cur: `"......It was nothing more than a sad.........joke."`
+char_non: `.........I kept on crying and crying.`
+char_non: `{n}I dug my fingernails into my pillow, soaking it with my tears.`
+char_non: `How much easier it would be to hate something...`
+char_non: `But I can't hate anything.`
+char_non: `I just couldn't get over my miserable arrogance,`
+char_non: ` ......which had led me to believe for three whole years that he felt the same as I did.`
+char_bea: `"......I am to blame for this.`
+char_bea: ` ......My irresponsible words led you to believe that Battler made a promise..."`
+char_sha: `"No.........`
+char_sha: ` This isn't anyone's fault.`
+char_sha: ` ......It's all because I assumed that he felt the same way I did..."`
+char_bea: `"Battler did not make a promise.`
+char_bea: ` However, that does not mean his feelings were anything to be laughed at!`
+char_bea: ` Though there might have been a difference in degree when compared to yours,`
+char_bea: ` it is true that he liked you!`
+char_bea: ` Of that, there can be no doubt."`
+char_sha: `"......Please, ......just stop it......`
+char_sha: ` ......I've believed that he liked me the way I liked him, ......without ever doubting that.`
+char_sha: ` .........Please don't try to cheer me up.`
+char_sha: ` ......I'd rather......that you mocked me........."`
+char_non: `Before I knew it......`
+char_non: `a dull inescapable pain had pierced my chest.`
+char_non: `{n}When I pressed my hand against my chest, I realized what that pain was.`
+char_non: `It was the bud of love, which I had sown the seeds of and raised in my heart.`
+char_non: `Its roots had spread throughout my chest,`
+char_non: ` ......tormenting me like a metal wire wrapped around my heart.`
+char_non: `Rather than roots, ......they looked more like fissures running through my heart.`
+char_non: `The only way to kill the pain would be to tear out the roots of love.`
+char_non: `But no matter how much I clawed at them, it was only my heart that got torn and scratched.`
+char_non: ` ......The roots of love didn't move at all.`
+char_non: `If my feelings for Battler‐san were to turn to hate, without any lingering interest or regrets,`
+char_non: ` ...I'd be able to pull out these roots easily.`
+char_non: `They would probably leave a hole behind, but at least they wouldn't hurt me anymore.`
+char_non: `But they won't come out.`
+char_non: ` ......Even though it hurts so much, those roots of love are still stuck in my heart.`
+char_bea: `"......Shannon..............."`
+char_sha: `"I...`
+char_sha: ` .........Even now,`
+char_sha: ` ......I love Battler‐san...`
+char_sha: `......so much.`
+char_sha: ` ......I miss him.`
+char_sha: ` I want him to come back......`
+char_sha: ` I believe he will come back someday,`
+char_sha: ` ......and I want to wait for him...`
+char_sha: ` ......But...`
+char_sha: `...now it's just...`
+char_sha: `...too much........."`
+char_non: `As I sobbed, the tightness in my chest grew even stronger.`
+char_non: `As long as I love Battler‐san, that pain will always continue.`
+char_non: `Because I love him, I want to hold onto that pain forever.`
+char_non: `But......it was written right there in the letters for George‐sama and the others.`
+char_non: `Battler doesn't plan on returning to the Ushiromiya family.`
+char_non: `He's forgotten about me and Rokkenjima,`
+char_non: ` ......and has started a new life with a different name.`
+char_non: `I have to endure all this aching, biting, agonizing pain...`
+char_non: `......and wait forever for someone who will never return...`
+char_sha: `"Is this another trial......?`
+char_sha: ` To wait for him forever?`
+char_sha: ` ......Is that what God is asking of me......?`
+char_sha: ` I can't do that......`
+char_sha: ` I...`
+char_sha: `...want to be with Battler‐san.`
+char_sha: ` But if this is the trial...`
+char_sha: `that I must go through for that...`
+char_sha: `...it's just...`
+char_sha: `......too painful......"`
+char_bea: `"...................................."`
+char_non: `{f:5:Beatrice} hung her head in shame.`
+char_non: `If she hadn't encouraged Shannon so much, it probably wouldn't have been this painful.`
+char_non: `Shannon may have been the one to sow the seed of love in her heart.`
+char_non: `{n}However, {f:5:Beatrice} had irresponsibly watered it and told Shannon not to give up.`
+char_non: `......{f:5:Beatrice} scratched at her chest, trying to share Shannon's pain...`
+char_bea: `"........................This is...my fault."`
+char_non: `{f:5:Beatrice} mumbled to herself.`
+char_sha: `"......How can any of this be your fault?"`
+char_bea: `"For three years, I tortured you with the illusion of a promise that never happened.`
+char_bea: ` ......If I had not nourished the bud of love within you, ......you would not have suffered so."`
+char_sha: `"................................."`
+char_bea: `"Shannon.`
+char_bea: ` This may sound harsh, ......but listen."`
+char_sha: `"...............What is it...?"`
+char_bea: `"Forget Battler.`
+char_bea: ` ......There was no bud of love in the first place."`
+char_sha: `"......No.`
+char_sha: ` I'm the one who nourished it.`
+char_sha: ` ......No matter how painful it is, I can't forget it."`
+char_bea: `"But you cannot bear that pain any longer, can you......?"`
+char_sha: `"......................................."`
+char_non: `Wordlessly, Shannon held her chest and hung her head.`
+char_non: `I......yearn for Battler.`
+char_non: `Even now, that feeling burns inside me,`
+char_non: ` ......and no matter how much it hurts, I can't let it go.`
+char_non: `I've spent three years pretending not to notice that pain.`
+char_non: `Now, I know that I feel it.`
+char_non: `And now that I know, ......it's unbearable...`
+char_bea: `"So, you cannot throw away your bud of love for Battler?"`
+char_sha: `"..................I can't."`
+char_bea: `"However, at this rate,`
+char_bea: ` ......the bud...the roots...will kill you."`
+char_sha: `".............................."`
+char_bea: `"People need a universe to survive.`
+char_bea: ` ......And one person cannot create that universe alone.`
+char_bea: ` Two are needed."`
+char_sha: `".........A universe......"`
+char_bea: `"Together with Battler, you created the universe of that bud of love.`
+char_bea: ` ......Now that one half of that pair is gone, your universe has crumbled.`
+char_bea: ` ......People cannot......complete a universe on their own."`
+char_sha: `"But...`
+char_sha: `...the other person who creates my universe,`
+char_sha: ` ......Battler‐san, won't come back..."`
+char_bea: `"Then you must create a new universe with someone else."`
+char_sha: `".........You mean, ......create one with someone other than Battler‐san?"`
+char_bea: `"I will give you that someone."`
+char_sha: `"......Who are you.........talking about......?"`
+char_bea: `"A creature to bury the pain in your heart and heal you.`
+char_bea: ` ......He will not betray you.`
+char_bea: ` ......Yes, ......let it be a sibling.`
+char_bea: ` ............I will give you a little brother."`
+char_sha: `"A little brother..............."`
+char_bea: `"A boy you have always been close to at the Gospel House, whom you love as if he were your real brother.`
+char_bea: ` ......That, I shall give to you.`
+char_bea: ` ......Together with him, you will create a new universe."`
+char_sha: `"......Will that little brother......make me forget about the pain of my love for Battler‐san......?"`
+char_bea: `"Indeed.`
+char_bea: ` .........You need a universe."`
+char_sha: `"Then, ......what will happen to the bud of love...`
+char_sha: `...in my heart?`
+char_sha: ` .........My feelings for Battler‐san won't change.`
+char_sha: ` ......I can't make them wither."`
+char_bea: `"..............................`
+char_bea: ` ......I shall accept that bud and those roots...`
+char_bea: `in your place."`
+char_sha: `"......You will............?"`
+char_bea: `"You can forget the pain of love and create a new universe.`
+char_bea: ` ......I will accept the bud of love in your place.`
+char_bea: ` ......It means that I will accept the pain as well, ......but I will also learn of the single element I do not possess,`
+char_bea: ` ......the element of love."`
+char_non: `{f:5:Beatrice}......wanted to know love.`
+char_non: `{n}She wanted to feel what Shannon had felt in the world of humans.`
+char_bea: `".........And,`
+char_bea: ` if Battler ever does return,`
+char_bea: ` if the bud still has not withered and you still desire it,`
+char_bea: ` I shall return it to you.`
+char_bea: ` ......What do you think of that?"`
+char_sha: `"...................................."`
+char_non: `Still hanging her head, ......Shannon gave a small nod, but said nothing.`
+char_non: `It would mean release from this unbearable pain.`
+char_non: `And...it would mean giving the bud of love to the witch, to hold in her place......`
+char_non: `Shannon spread the hands that she had held to her chest.`
+char_non: `As she did, a faint light slipped out of her chest and floated in the air,`
+char_non: ` ......gradually swallowing everything with its brightness.`
+char_non: `As the brilliant light began to fade away, Shannon and {f:5:Beatrice}, still facing each other,`
+char_non: ` were now inside a vast, starry sphere, like a planetarium.`
+char_non: `They were the only ones in this pitch‐black starry sea.`
+char_non: `.........Shannon felt as though she had seen this place once before, but she could not remember.`
+char_non: `Then, I made another announcement.`
+char_bea: `"The world shall be modified.`
+char_bea: ` ......Let the bud of love travel from Shannon to {f:5:Beatrice}."`
+char_non: `This way, Shannon won't be tormented by the bud of love anymore.`
+char_non: `On top of this, so that Shannon can create a new universe, ......I'll give her a little brother.`
+char_non: `The backstory for the little brother will be a younger boy at the Gospel House with whom Shannon was close.`
+char_non: `For a name, ...............let there be the {ruby:on:{p:0:音}} character, as Gospel House rules state.`
+char_non: `............Yeah, I've decided.`
+char_non: `{n}......That's a perfect name to go with Shannon's.`
+char_non: `He'll be......a quiet, reticent boy.`
+char_non: `{n}He'll come to Rokkenjima as a new servant.`
+char_non: `There, he'll establish an immediate rapport with Shannon.`
+char_non: `As a duty‐minded boy who loves Shannon like a big sister, he'll always be there for her......`
+char_non: `Let's have him be a special servant like Genji, who is permitted to serve Kinzo directly.`
+char_non: ` ......Yeah.`
+char_non: ` That sounds kinda cool.`
+char_non: `Then, {f:5:Beatrice}.`
+char_non: `{n}From now on, you will carry the bud of love.`
+char_non: `In other words, ......the role of being infatuated with Battler and waiting for his return will go to you.`
+char_non: `While you are still the witch who reigns over Rokkenjima's night...`
+char_non: `{n}You have also been waiting for Ushiromiya Battler, ever since that day three years ago.`
+char_non: `Along with this change in setting, I'll give you a new form as well...`
+char_non: `He did tell us what his ideal woman would look like once, remember?`
+char_non: `......A woman with a great figure and long, golden hair, like a foreign model.`
+char_non: ` Golden hair.`
+char_non: ` Long hair.`
+char_non: ` A great figure.`
+char_non: `......Yeah.`
+char_non: ` Something like that.`
+char_non: `{n}That's what the new {f:5:Beatrice} will look like.`
+char_non: `Come now, hold that bud of love in your heart as you wait for Battler.`
+char_non: `......You will learn of love at last...and pay the price of pain.`
+char_non: `Yes, this will be the setting for my new world.`
+char_non: `For Shannon, a new servant like a little brother will come.`
+char_non: `{n}He will be a silent, reticent boy.`
+char_non: ` A duty‐minded kid who loves Shannon as a sister.`
+char_non: `And the bud of love that has tortured Shannon......will go to the witch, {f:5:Beatrice}.`
+char_non: `She will just be holding onto the bud of love for the time being.`
+char_non: `However, while she holds onto it, she will be a maiden in love with Battler.`
+char_non: `For that time, you will be able to learn what love is......`
+char_non: `Come, let the world be modified.`
+char_non: `{n}Oh, I am one yet many.`
+char_non: `Awaken, us.`
+char_non: `And stretch your wings in this new world......`
+char_non: `.........Slowly, .........I opened my eyes to the gentle rays of the morning sun.`
+char_non: `..............................`
+char_non: `How long has it been since I woke to such a pleasant morning?`
+char_non: `......The face in my mirror is tear‐stained and pathetic.`
+char_non: `However, ......my heart is as clear as the morning sun.`
+char_non: `I could still clearly remember that strange dream.`
+char_non: `{n}However, I could feel myself forgetting it rapidly...`
+char_non: `The place I'd been in my dreams......had been such a strange place.`
+char_non: `A peaceful, calm place.`
+char_non: `......There, ......I had left behind the pain I had carried in my chest until yesterday.`
+char_non: `So this morning, my heart was at peace...`
+char_sha: `"Good morning, me........."`
+char_non: `My tear‐stained face really looked pathetic.`
+char_non: `{n}However, my expression was bright and cheery.`
+char_non: `I still do...`
+char_non: `...love...`
+char_non: `Battler‐san.`
+char_non: `But, ......I think I'd say...`
+char_non: `......I've calmed down.`
+char_non: `It feels like I've put something precious safely away in the place it belongs.`
+char_non: `............Battler‐san.`
+char_non: ` When will you come back, I wonder...`
+char_non: `{n}When you do, I'd like to talk about mystery novels again.`
+char_non: `......Oh, I almost forgot.`
+char_non: `{n}A new boy servant will be coming today, won't he?`
+char_non: `One of the rare servants who will serve the Master directly.`
+char_non: `{n}What kind of kid will he be?`
+char_non: ` I hope we get along well......`
+char_non: `What was his name again?`
+char_non: `{n}I think......it was......`

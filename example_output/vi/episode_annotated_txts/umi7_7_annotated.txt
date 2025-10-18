@@ -1,0 +1,935 @@
+char_jes: `"So...heheh...about earlier,`
+char_jes: ` sorry you had to see me acting like that... I blame the {i:future heir}......"`
+char_wil: `"It's not going to leave a mark, is it?`
+char_wil: ` Talk about merciless."`
+char_rio: `".........Did you say something, Jessica?"`
+char_jes: `"O‐of course not...!`
+char_jes: ` I've already, uh, learned my lesson, okay?!"`
+char_non: `Lion, who had apparently been chatting with the adult siblings, spun around with a smile and stared at Jessica.`
+char_non: ` ......Looks like the older sibling's firmly in control around here.`
+char_wil: `"......Those are some sharp ears.`
+char_wil: ` I think I finally get this Lion person."`
+char_jes: `"Yeah, yeah, yeah!`
+char_jes: ` The future heir's always been annoyingly sharp!`
+char_jes: ` Not to mention the favorite of all the adults!`
+char_jes: ` I'm always compared against this kid, at home and at school!"`
+char_geo: `"Come to think of it, Lion was the student council president for both middle school and high school.`
+char_geo: ` And the head of the badminton team too."`
+char_wil: `"So everywhere you go, you get compared to Lion, and it doesn't work out too well for you."`
+char_jes: `"I said it as soon as I got into middle school.`
+char_jes: ` The future heir was already the vice‐president of the student council.`
+char_jes: ` I said "if you're planning to become council president next year, that'll just put more pressure on me, so stop it!""`
+char_jes: `"But the next year rolls around, and guess who signs up as a candidate and wins in a landslide?!`
+char_jes: ` Same thing happened when I started high school!`
+char_jes: ` I said "please, just give it a rest this time", but by that point, the future heir was {i:already} the vice‐president!`
+char_jes: ` Then, senior year? Immediately president of the student council!"`
+char_jes: `"Dad was oh so proud!`
+char_jes: ` Mom kept saying "now you make sure you do your best as the little sister", over and over and over again!!`
+char_jes: ` Nngyaa{-}a{-}a{-}a{-}a{-}a{-}a{-}a{-}a{-}ahhhh!"`
+char_geo: `"But even so, you're still proud to be Lion's little sister, aren't you?"`
+char_jes: `"I‐i‐it's not like I ever thought about that!`
+char_jes: ` Nope, never! Not even once...!"`
+char_wil: `"It can be tough to be compared against perfection.`
+char_wil: ` Still, other people are other people, and you are you.`
+char_wil: ` There's no need to feel dwarfed.`
+char_wil: ` You should live the way you want to with all you've got."`
+char_jes: `"Of course!`
+char_jes: ` But Mom and the others are always going on about how I need to follow in the footsteps of Ushiromiya Lion as the younger sibling.`
+char_jes: ` ......They keep telling me to go join the student council, go play badminton......"`
+char_wil: `"Don't you play in a band?"`
+char_jes: `"Wh‐......wha?!`
+char_jes: ` Sh‐shhhhhhh!`
+char_jes: ` That's a secret! No one knows...!"`
+char_non: `Apparently, she's keeping it a secret from her family.`
+char_non: `Interesting.`
+char_non: ` ......People often like to blame their family for what they've grown up to be like,`
+char_non: ` but even in a different world with a different family, the interests of the girl called Jessica are the same as ever.`
+char_non: `It's admirable that she has such a true and constant interest in something.`
+char_wil: `"I love that kind of stuff.`
+char_wil: ` "Pettan, pettan".`
+char_wil: ` "Sweets, sweets"."`
+char_jes: `"Wah, wah, wah!!`
+char_jes: ` Shh, shh, shh!!"`
+char_non: `Nothing wrong with the extraordinarily accomplished sort, like Lion, but kids who act their age do have their charms.`
+char_wil: `"That's the best way to go through life.`
+char_wil: ` Enjoy your youth to the fullest."`
+char_jes: `"W‐well, uh......thanks."`
+char_non: `Apparently, no one had ever told Jessica that they approved of how she lived,`
+char_non: ` and the direct way Will had put it made her turn red and hang her head in embarrassment.`
+char_wil: `"I want to ask you two now."`
+char_geo: `"The same thing you just asked Maria‐chan?"`
+char_wil: `"Yeah.`
+char_wil: ` Please tell me everything you know about {f:5:Beatrice}."`
+char_geo: `"......Well, you can see how much Maria‐chan likes witches and the occult.`
+char_geo: ` For her, {f:5:Beatrice} is a symbol to be admired, like an anime heroine.`
+char_geo: ` She believes every little thing is some sort of prank caused by a witch's magic."`
+char_wil: `"You are an adult.`
+char_wil: ` And the fact that you never say this to Maria is also very adult of you."`
+char_geo: `"Of course.`
+char_geo: ` Childhood dreams only happen when you're a kid.`
+char_geo: ` I think respecting that precious experience is an adult's responsibility."`
+char_wil: `"Looks like the two of us will get along well."`
+char_non: `George's position was that {f:5:Beatrice} was nothing more than a fairy tale.`
+char_non: `However, that phrase—“respecting a child's dreams is the adult thing to do”—that might be worthy of further scrutiny.`
+char_non: `When she got a candy from {f:5:Beatrice} by magic, Maria probably got excited and told George and the others.`
+char_non: `Then, the adults followed his lead and positively went along with her story "as adults should".`
+char_non: `However, there could be other ways this sort of reaction could occur, other than as an adult's response to a child's claims.`
+char_non: `For example, it could be an inferior's response to the claims of their superior.`
+char_non: `......If Kinzo, tyrant of the Ushiromiya family, claimed that {f:5:Beatrice} existed and had revived,`
+char_non: ` perhaps the other members of the family would positively go along with his story "as his inferiors should".`
+char_non: `Though {f:5:Beatrice} only appeared directly in front of a limited number of people,`
+char_non: `......it's probably safe to say that the concept of her existence penetrated deeply within the Ushiromiya family, even among those who had never seen her.`
+char_non: `However, no matter how deeply that concept penetrated, she was only viewed as a sort of fairy tale character.`
+char_non: `It would be necessary to transform the concept of that character from an imaginary fairy tale into reality.`
+char_non: `So, a person attempting to do this would need to perform something that could only conceivably be done by magic.`
+char_non: `And that something......was the series of witch incidents that started with the nighttime window‐opening pranks played by Beato the Elder...`
+char_non: `...and ultimately escalated to locked‐room murders.`
+char_non: `......Beato the Elder referred to this, saying that the anti‐magic power filling the mansion would be weakened bit by bit the more she made her existence known.`
+char_non: `{f:5:Beatrice}.`
+char_non: `Why did you desire so greatly to make all others accept your existence?`
+char_non: `Because the imaginary becomes the truth if everyone accepts it?`
+char_non: `Because at that moment, the being called {f:5:Beatrice} will be acknowledged and will become {y:0:Human}{n:0:human}?`
+char_non: `In that case, before {f:5:Beatrice} is acknowledged by all people, she's less than {y:0:Human}{n:0:human}.`
+char_non: ` She's furniture.`
+char_non: `Why would furniture want to become {y:0:Human}{n:0:human}?`
+char_non: `It feels like this was the theme of the previous game.`
+char_non: `Because they want to gain the right.`
+char_non: `Furniture cannot ____.`
+char_non: `{n}So, they try to become {y:0:Human}{n:0:human} for the right to ____.`
+char_non: `...........................`
+char_non: `It really is quite simple.`
+char_non: `......It's directly connected to the reason the chick Beato was born in the first place.`
+char_wil: `".....................`
+char_wil: ` ......I see.`
+char_wil: ` ......I do understand, but it's complicated."`
+char_non: `I can't......ignore the heart.`
+char_geo: `"I feel bad for saying this at {f:5:Beatrice}'s funeral,`
+char_geo: ` ......but, truth be told, I don't know enough about {f:5:Beatrice} to explain her.`
+char_geo: ` My apologies."`
+char_geo: `"As far as that goes, Jessica‐chan does live here, so she might know a little more than I do.`
+char_geo: ` ......Speaking of which, have you introduced yourself to this gentleman yet, Jessica‐chan?"`
+char_jes: `"Nah, not yet.`
+char_jes: ` ......There's this idiot going around pinching people's butts, so I didn't really have the chance yet...ehehe..."`
+char_non: `A bit late, Jessica looked embarrassed for acting rudely in front of an unfamiliar guest.`
+char_non: `She cleared her throat and made a beautiful bow that didn't fit well with her normal attitude.`
+char_non: ` She even lifted the corners of her skirt in a curtsy.`
+char_jes: `"P‐pleased to meet you.`
+char_jes: ` ......My name is Jessica.`
+char_jes: ` Allow me to welcome you to the Ushiromiya family on this splendid day......`
+char_jes: `umm, I mean, please enjoy our hospitality...and......."`
+char_wil: `"......Willard.`
+char_wil: ` Call me Will."`
+char_jes: `"Huh?`
+char_jes: ` .........Huh?`
+char_jes: ` ...............Wah—"`
+char_non: `Jessica's greeting had been of the old‐fashioned sort,`
+char_non: ` so Will also treated her like an old‐fashioned lady.`
+char_non: ` He bent down on one knee, took Jessica's right hand, and kissed the back of it.`
+char_jes: `"Wah, wah......waah........."`
+char_non: `Not expecting her greeting to be returned in such an old‐fashioned and formal way, Jessica turned red and was unable to speak.`
+char_non: `......However, Will had returned the greeting in what he thought was a perfectly serious way,`
+char_non: ` so he didn't understand what was making Jessica's face glow.`
+char_wil: `"Have I done something strange?"`
+char_jes: `"No, no, I just didn't...ah, ahahaha..."`
+char_wil: `"I want to hear what you know about {f:5:Beatrice}.`
+char_wil: ` ...............nn."`
+char_non: `A glow leaked from Will's right hand, which was grasping Jessica's.`
+char_non: `Looks like the theatergoing power is having its effect on Jessica.`
+char_non: `......Didn't mean for that to happen.`
+char_non: ` Oh well...`
+char_jes: `"{f:5:Beatrice}, is it...?`
+char_jes: ` W‐well, I can tell you, .........but will you promise me something?`
+char_jes: ` Promise you won't laugh.`
+char_jes: ` Thinking about it now, ......it sounds more than a little crazy."`
+char_wil: `"What is it you know?`
+char_wil: ` I won't laugh.`
+char_wil: ` Tell me."`
+char_jes: `"S‐sure...`
+char_jes: ` .........Umm, where should I start......."`
+char_non: `To me, the Golden Witch {f:5:Beatrice} is...`
+char_non: `...sort of like one of the "seven mysteries" of the Ushiromiya family.`
+char_non: `You've heard of those, right? Almost all schools have a set of tall tales or ghost stories that get passed down.`
+char_non: `Like "on some days, the piano in the music room will start playing by itself", or "the skeleton in the science room dances around at night".`
+char_non: `Everyone's heard of them.`
+char_non: ` But of course, that doesn't mean they believe in them.`
+char_non: `The stories about {f:5:Beatrice} were the same.`
+char_non: `It was just one of those strange tales about our way‐too‐big mansion.`
+char_non: `The servants would sometimes talk about seeing things or whatever during their night patrols.`
+char_non: `Sometimes, I felt a bit annoyed about them turning my home into a place for ghost stories, but I didn't pay it any more attention than that.`
+char_non: ` That's how little it mattered to me.`
+char_non: `So, during my normal, everyday life, I would completely forget about the name "{f:5:Beatrice}".`
+char_non: `Of course, when that huge portrait was first hung, I was definitely creeped out.`
+char_non: `Even I tried not to meet her eyes after dark,`
+char_non: ` so yeah, I don't blame the servants for finding it eerie.`
+char_non: `But that only lasted for a short while.`
+char_non: `{n}I mean, I walked by that portrait every day.`
+char_non: `I gradually got used to it, and eventually bored of it.`
+char_non: `It was just a portrait that Grandfather blew a bunch of money on, showing the mistress from his delusions... I was past caring.`
+char_wil: `"I get that.`
+char_wil: ` I'll bet it was different for the other relatives, who only came a few times a year."`
+char_jes: `"Exactly.`
+char_jes: ` That's why every time the family came for a family conference, they'd always stand in front of that portrait and talk about {f:5:Beatrice}.`
+char_jes: ` So, I was reminded of it every year."`
+char_mar: `"Uu, {f:5:Beatrice}!!`
+char_mar: ` I've come to play again...!`
+char_mar: ` I've drawn another new spell.`
+char_mar: ` Take a look at it later, okay?! Uu!"`
+char_geo: `"You really do like {f:5:Beatrice}, don't you?`
+char_geo: ` You've been in such high spirits ever since Grandfather had this portrait hung."`
+char_jes: `"Huh?`
+char_jes: ` Where's Ange?"`
+char_geo: `"She went back with Aunt Kyrie to take some medicine."`
+char_jes: `"Ange gets sick so easy.`
+char_jes: ` ......Totally the opposite of Battler."`
+char_geo: `"She's the sort that gets sick whenever she's stressed.`
+char_geo: ` I also used to get sick on big holidays or days when we were going to the movies."`
+char_jes: `"Maria's really tough by comparison.`
+char_jes: ` ......She's been talking about {f:5:Beatrice} non‐stop since we left Niijima.`
+char_jes: ` ......Don't you think she's taking this a bit too far?"`
+char_geo: `"It's not so bad, right?`
+char_geo: ` It's normal for kids to have an active imagination.`
+char_geo: ` If a kid told you that she'd met Santa Claus,`
+char_geo: ` would you tell her she's a liar?"`
+char_jes: `"......Well, of course I wouldn't go that far."`
+char_non: `Maria kept talking to the portrait as though it was an old friend.`
+char_non: `She promised to play with it later, as if she was talking to a living human.`
+char_non: `George, a man, seemed to think that this behavior from a younger member of the opposite sex was cute.`
+char_non: `......But, to be perfectly frank...`
+char_non: `...Jessica, who was the same sex as Maria,`
+char_non: ` found this behavior a bit unpleasant regardless of Maria's age.`
+char_non: `At one time, even I was fascinated by anime heroines and other fictional characters.`
+char_non: `However, ......Maria's behavior seems to signify something more direct than mere fascination.`
+char_non: ` ......It's something much more definite,`
+char_non: ` ......more vivid.`
+char_non: `Am I the only one who notices something odd about her?`
+char_non: `......I'll bet the others all notice too, but try to ignore it because of that adult dignity George nii‐san is always talking about.`
+char_cla: `"......My apologies, everyone.`
+char_cla: ` The head is quite busy with his noble research.`
+char_cla: ` He wishes to eat lunch in his study today."`
+char_non: `Until a second ago, Kinzo's children were complaining that eating lunch with their father would give them indigestion.`
+char_non: `But now that they knew he wasn't coming, they started grumbling about how he should at least spare the time to come down during the annual family conferences.`
+char_goh: `"Then let us begin lunch, everyone.`
+char_goh: ` I, Gohda, have made use of all my talent and experience to make sure that all of you,`
+char_goh: ` who have come from so far away, will be entirely satisfied with your meal..."`
+char_non: `No one's stomach would fail to rumble after hearing that from the great Chef Gohda.`
+char_non: `By the time the splendid dishes were laid out, everyone had stopped talking about Kinzo's absence...`
+char_non: `It was now Ange's absence that was being discussed.`
+char_non: `Apparently, her stomachache had gotten so bad that neither she nor Kyrie could make it to lunch.`
+char_nat: `"Poor thing.`
+char_nat: ` ......Gohda.`
+char_nat: ` Make sure you talk to Kyrie‐san later and have some porridge made."`
+char_rud: `"Thanks a bunch for the concern.`
+char_rud: ` ......Really sorry about this.`
+char_rud: ` Seems she just can't handle much stress."`
+char_hid: `"That's how it is when they're young.`
+char_hid: ` They're cute, at least when they're not regurgitatin'."`
+char_eva: `"George used to do that all the time.`
+char_eva: ` He really was frail, way back then.`
+char_eva: ` Right?"`
+char_geo: `"Let's not talk about the past...`
+char_geo: ` It's not exactly a mealtime topic."`
+char_mar: `"Uu.`
+char_mar: ` Poor Ange.`
+char_mar: ` She doesn't get to eat this yummy food?"`
+char_jes: `"Yeah, poor girl.`
+char_jes: ` Let's make sure we play with her a lot when she gets better."`
+char_mar: `"Uu, can't.`
+char_mar: ` She can't play with me."`
+char_jes: `"Wh‐what are you talking about?`
+char_jes: ` Why?"`
+char_mar: `"Because I'm gonna play with {f:5:Beatrice}, of course.`
+char_mar: ` So I can't play with Ange."`
+char_jes: `"Play with {f:5:Beatrice}...`
+char_jes: ` ......You mean you're gonna go off on your own again to mumble to yourself and read some book?"`
+char_non: `Jessica slightly regretted that she hadn't been more tactful.`
+char_non: `However, she couldn't wipe away that uncomfortable feeling she got every time Maria talked about {f:5:Beatrice},`
+char_non: ` and that feeling slipped out through her words...`
+char_mar: `"Uu!!`
+char_mar: ` I don't do it on my own!`
+char_mar: ` Beato is there too!!"`
+char_non: `Maria may have been young, but she already knew how to read a person's tone.`
+char_non: `She immediately burst out in anger, drawing the attention of everyone in the room...`
+char_non: `Normally, Rosa would have stopped her at this point.`
+char_non: `However, Rosa happened to have gone to the bathroom.`
+char_non: ` So, there was no one to calm Maria down...`
+char_mar: `"Kihihihihi!!`
+char_mar: ` Poor Jessica, you're just a clump of the toxin!`
+char_mar: ` With Beato's weak magical power now, she'd burn to a crisp if she ever appeared in front of you!`
+char_mar: ` But she will appear before you eventually.`
+char_mar: ` Yes, in front of everyone else too!!"`
+char_mar: `"Kihihihi, and then the door to the Golden Land will open!!`
+char_mar: ` But who knows if you'll be invited in?`
+char_mar: ` Of course, she will take me there, to the Golden Land!`
+char_mar: ` But not Jessica, not Jessica!!`
+char_mar: ` Not someone who makes fun of {f:5:Beatrice}, not an unenlightened, stupid, confused, filthy, toxin‐stained {y:0:Human}{n:0:human}!!`
+char_mar: ` Kihi{0}hi{0}hi{0}hi{0}hi{0}hi{0}hi{0}hi{0}hi{0}hhi{0}hhi{0}hhi{0}hhi!!"`
+char_jes: `".........When someone makes fun of {f:5:Beatrice}, it's like Maria becomes a totally different person."`
+char_wil: `"There was a theory about Maria having multiple personalities, wasn't there?"`
+char_jes: `"Multiple personalities!`
+char_jes: ` Yeah, that probably describes it perfectly.`
+char_jes: ` Maybe that was Maria's idea of her ideal personality."`
+char_wil: `"You mean that thing about "creating another self", the way you want to be...?"`
+char_jes: `"Huh? ...How'd you know my motto?"`
+char_wil: `"Don't think too hard on it.`
+char_wil: ` You'll just get a headache."`
+char_non: `That was something Jessica had once told Kanon.`
+char_non: `She had been talking about how anyone can create another self that they can really grow to like.`
+char_non: `......I think we heard those words somewhere near the beginning of the second game.`
+char_non: `Now that I think about it, some very interesting topics have been talked about since very early on...`
+char_jes: `"Everyone has something they really want to become.`
+char_jes: ` But they never do it.`
+char_jes: ` ......The restrictions on their everyday life are what made them who they are today,`
+char_jes: ` so they have no way of changing themselves."`
+char_wil: `"True.`
+char_wil: ` Changing yourself means changing your environment.`
+char_wil: ` ......That's not easy to do."`
+char_jes: `"So, my idea was to leave "who I am now" unchanged...`
+char_jes: `...and create another "self" to be the person I want to be."`
+char_wil: `"You felt suffocated, forced to live the life of a rich family's daughter,`
+char_wil: ` and you thought up a "self" that you wanted to be."`
+char_jes: `"But I couldn't do anything outlandish at home, of course.`
+char_jes: ` Nothing fun about having Mom yell at me all the time.`
+char_jes: ` ......So, I made my plan.`
+char_jes: ` At home, I would obediently do as my parents said,`
+char_jes: ` ......but I would also create a second "self" to do what I wanted."`
+char_wil: `"At home, you do everything your parents tell you, and outside, you do what you want.`
+char_wil: ` That's a good way to live.`
+char_wil: ` You should be proud."`
+char_jes: `"Heheh, thanks...`
+char_jes: ` And, well, ......if there's something you really want to be, and you really work for it, it's easier to do than you'd think.`
+char_jes: ` I figured Maria was pretty much the same."`
+char_wil: `"You think Maria's doing the same thing when she gets excited and starts talking and talking?"`
+char_jes: `"That's the person Maria really wants to be,`
+char_jes: ` is how I think about it sometimes."`
+char_wil: `"......As the youngest member of the family, she is adored, but not respected."`
+char_jes: `"Every time she learns something, there's always someone in the family who already knows it.`
+char_jes: ` She doesn't get to show off her knowledge about anything.`
+char_jes: ` ......Whenever she does learn something new, we try to smile and praise her,`
+char_jes: ` ......but that might actually have hurt her."`
+char_wil: `"So, Maria wanted to become an authority on something?"`
+char_non: `It's something that all young boys and girls, who want to shake off their childhood, think.`
+char_non: `It's not a bad feeling when you learn something new and your parents praise you.`
+char_non: ` ......But when you realize that your parents already knew that thing, it sometimes feels like they're talking down to you.`
+char_non: `When a kid learns their one‐digit times table, their parents will probably praise them.`
+char_non: `However, inconsiderate parents will sometimes ask mean questions, like "then what is 11 times 11?"`
+char_non: ` or "what is 16 times 16?"`
+char_non: ` or something similar.`
+char_non: `If that happens, the kid will lose his feeling of accomplishment and start to feel as though he could never surpass his parents...`
+char_jes: `"So, it's easy to guess why Maria got interested in the occult, something no one else knew about,`
+char_jes: ` and started learning more and more about it.`
+char_jes: ` ......I think the person Maria wants to be...`
+char_jes: `is an authority on the occult who is respected by everyone."`
+char_wil: `"And if she talked about the occult all the time during her everyday life, Rosa'd smack her.`
+char_wil: ` ......So, like you, she's been hiding this other "self" most of the time."`
+char_jes: `"That's what I think she's doing at times like this.`
+char_jes: ` ......Maybe I should say that this is her real self slipping through the cracks to cover up her normal self."`
+char_jes: `"Actually, I've had some experience with that myself.`
+char_jes: ` ......I used to admire the image of a delicate, sheltered lady and wanted to seem more frail......so I'd pretend to cough a lot, and it sort of became a bad habit."`
+char_wil: `"Because everyone would be nice to you if you started having coughing fits?"`
+char_jes: `"Haha, no...... Whenever the conversation turned to something I didn't like, or something that made me feel uncomfortable, I could do that to change the subject."`
+char_wil: `"I see.`
+char_wil: ` And that's another "self" you wanted to become."`
+char_jes: `"Haha, I'd appreciate it if you didn't tell anyone about that."`
+char_non: `Then, ......just what is...`
+char_non: `...the "other self" in Maria's case?`
+char_non: `An authority on the occult who can out‐argue even adults?`
+char_non: `{n}Or else, ......someone who converses and mingles with witches?`
+char_non: `......Either way, denying {f:5:Beatrice} in front of Maria is clearly taboo.`
+char_non: `.........In her search for something more than her everyday life,`
+char_non: ` Maria had found it in {f:5:Beatrice} and inside herself.`
+char_non: `Then, is going to the Golden Land with {f:5:Beatrice}...`
+char_non: `...Maria's...wish?`
+char_non: `....................................`
+char_jes: `"Looks like we've gone off track.`
+char_jes: ` Anyway, Maria kept up that tantrum until Auntie Rosa got back.`
+char_jes: ` ......It was my fault too, arguing back when I should've let her be."`
+char_wil: `"And you said there was no way {f:5:Beatrice} could exist?"`
+char_jes: `"Something like that.`
+char_jes: ` "If she exists, then just let me see her".`
+char_jes: ` ......Of course, once Maria started crying, I realized I'd gone too far."`
+char_wil: `"And then?"`
+char_jes: `"At the end of the family conference, I was the only one still upset.`
+char_jes: ` ......Maria acted as though nothing had happened.`
+char_jes: ` Instead, she went off somewhere on her own, and came back talking happily about how she had played with {f:5:Beatrice} again."`
+char_jes: `"Everyone, me included, decided not to contradict her.`
+char_jes: ` By that time, it was best to just accept it and ignore it."`
+char_wil: `"Is that all you have to say about the family conference?"`
+char_jes: `"About the conference, yes.`
+char_jes: ` What I wanted to talk about was what happened after the conference was over and everyone left."`
+char_non: `Even after the conference ended, I still felt a bit uncomfortable.`
+char_non: `If Maria had just stayed mad,`
+char_non: ` we'd have made up with each other and I could've put it all behind me.`
+char_non: `But since Maria got over it, it felt like I was the only one unsatisfied...`
+char_kum: `"Oh, Milady.`
+char_kum: ` Why the gloomy face?"`
+char_jes: `"......Oh, it's you.`
+char_jes: ` It's nothing important.`
+char_jes: ` ......Did everyone make it back okay?"`
+char_kum: `"If they're still on schedule, they should have reached the Niijima airport by now.`
+char_kum: ` ......You've done your part well, Milady."`
+char_jes: `"I haven't done anything.`
+char_jes: ` It's you servants who've done a great job."`
+char_kum: `".....................`
+char_kum: ` Is the argument you had with Maria‐sama yesterday still playing on your mind?"`
+char_jes: `"Nn, .........sorta."`
+char_kum: `"Come now, she's just a child.`
+char_kum: ` It's not something you need to worry about, all grown up and in high school."`
+char_jes: `"That stuff Maria was talking about, do you think it's all just a kid's nonsense?"`
+char_kum: `"......About {f:5:Beatrice}‐sama,`
+char_kum: ` ......you mean?"`
+char_jes: `"See, even you call her {i:sama}."`
+char_non: `{f:5:Beatrice} is the name of Grandfather's mistress, the person he's still infatuated with.`
+char_non: ` ......I realize that, as a servant, Kumasawa‐san can't speak of her indiscreetly.`
+char_non: `Still, ......that's now become the name of the fictitious witch who lives in the mansion,`
+char_non: ` .........and it's almost normal for people to call her "sama".`
+char_jes: `"{f:5:Beatrice} is just a ghost story created by the adults to stop us from wandering into the forest.`
+char_jes: ` ......Maria just thought it was interesting one day and decided to pretend it was true."`
+char_kum: `"Hoh‐hoh‐ho...`
+char_kum: ` You'll end up cursed if you say such things.`
+char_kum: ` After all, {f:5:Beatrice}‐sama "exists"."`
+char_jes: `"Come on, we both know that isn't true.`
+char_jes: ` I don't need George nii‐san to tell me not to make a fuss about Santa not existing.`
+char_jes: ` But that doesn't mean Santa actually exists."`
+char_kum: `"......You'll find you're wrong there, Milady."`
+char_jes: `"Wrong...?"`
+char_kum: `"Oh yes.`
+char_kum: ` The gods do dwell in all things.`
+char_kum: ` ......In the same way, {f:5:Beatrice}‐sama dwells on this island, in this mansion.`
+char_kum: ` Like the gods, {f:5:Beatrice}‐sama will do you no harm if you respect her."`
+char_kum: `"As you say, it is as though she doesn't exist...`
+char_kum: ` However, if you ever fail to show proper respect, it will most certainly come back to haunt you.`
+char_kum: ` ......Of course, that can be said of more than {f:5:Beatrice}‐sama."`
+char_jes: `"Heh, if there's a curse, let's see it.`
+char_jes: ` I'd just love to meet her."`
+char_kum: `"M‐Milady...!`
+char_kum: ` You mustn't say such things...!"`
+char_sha: `"Ah, Milady..."`
+char_goh: `"You were splendid today..."`
+char_jes: `"Shannon, Gohda‐san.`
+char_jes: ` You guys know about {f:5:Beatrice}, right?"`
+char_sha: `"......Huh?"`
+char_goh: `"W‐well, I do know of her, of course.`
+char_goh: ` ......Why do you ask?"`
+char_non: `The two looked at each other.`
+char_non: `They looked like a pair who had just heard a clueless person suddenly utter a forbidden word...`
+char_jes: `"Let's have it straight.`
+char_jes: ` Does she exist?`
+char_jes: ` That ghost?!"`
+char_goh: `"......If it's a question of whether she exists or not,`
+char_goh: ` ......I would have to say she doesn't...`
+char_goh: `probably."`
+char_sha: `"I,`
+char_sha: ` ......I really do think...`
+char_sha: `...she does exist."`
+char_jes: `"And why do you say she "exists"?!`
+char_jes: ` Have you ever met her?"`
+char_sha: `"I, ......I've never met her directly, ......but..."`
+char_non: `Shannon talked in detail about how she would sometimes feel a strange presence...`
+char_non: `or see a silhouette while doing the midnight rounds.`
+char_non: ` Jessica dismissed each example as it was given, saying Shannon must have seen it wrong or been mistaken.`
+char_jes: `"You haven't met her either, right, Gohda‐san?!"`
+char_goh: `"O‐......of course...`
+char_goh: ` ......However,`
+char_goh: ` .........well......"`
+char_non: `He was being very evasive.`
+char_non: `Even a man as big as Gohda was apparently unable to deny the existence of someone he'd never met.`
+char_non: `.........This really didn't sit well with Jessica.`
+char_non: `She was herself a resident of this mansion.`
+char_non: `They were acting as though someone else, someone she didn't know, was living here.`
+char_non: ` ......Of course she didn't like it.`
+char_jes: `"Nn, wait a sec.`
+char_jes: ` Tell that one again."`
+char_goh: `"Huh?`
+char_goh: ` Y‐you mean...?"`
+char_sha: `"Th‐the story about the VIP room...?"`
+char_non: `Gohda and Shannon had been recounting several ghost stories about {f:5:Beatrice}.`
+char_non: `One of those drew a reaction from Jessica...`
+char_jes: `"Yeah, that one.`
+char_jes: ` Sounds pretty cool...!"`
+char_non: `Gohda and Shannon glanced at each other.`
+char_non: ` They hadn't been trying to talk about anything "cool".`
+char_goh: `"The VIP room...`
+char_goh: `...is never to be entered at two in the morning—`
+char_goh: `is that the one you mean?"`
+char_sha: `"The one about how {f:5:Beatrice}‐sama returns to the VIP room at two o'clock every morning,`
+char_sha: ` ......so you mustn't go near it?"`
+char_jes: `"Yeah, that's it.`
+char_jes: ` Pretty cool.`
+char_jes: ` All the other stories are about people saying they heard or saw something they thought was {f:5:Beatrice}, but this one isn't.`
+char_jes: ` This one says that, if you go to the VIP room at two in the morning, you can actually meet {f:5:Beatrice}‐sama...!"`
+char_sha: `"W‐well, ......I, I wonder......"`
+char_goh: `"Milady...`
+char_goh: ` They say that servants who speak ill of {f:5:Beatrice}‐sama will be cursed.`
+char_goh: ` Furthermore, the VIP room is {f:5:Beatrice}‐sama's room..."`
+char_sha: `"......Even you, Milady, ......should probably reconsider......"`
+char_jes: `"The VIP room is locked now, right?`
+char_jes: ` Where's the key?"`
+char_goh: `"Was that key......in the key box...?"`
+char_sha: `"I, I think Genji‐sama keeps that key by his own chair."`
+char_jes: `"The master key can open it, right?`
+char_jes: ` Let me borrow yours."`
+char_sha: `"I, I cannot do such a thing...!"`
+char_goh: `"Milady, you mustn't approach an ill‐omened place without reason..."`
+char_jes: `"Hold it, don't you go calling my house ill‐omened.`
+char_jes: ` Anyway, I've made up my mind.`
+char_jes: ` If you can't give me your master key, there's still that key for the VIP room, right?`
+char_jes: ` Let me borrow it."`
+char_sha: `"............M‐...Milady......"`
+char_non: `To Jessica, it was their two expressions that felt more like an ill omen than anything else did.`
+char_non: `It wasn't the witch or the VIP room that felt foreboding to Jessica.`
+char_non: ` It was {i:them}, Maria and the others who believed in witches.`
+char_non: `In the end, Jessica forced them to agree, and she made them bring her the key to the VIP room...`
+char_wil: `"A classic test of courage, to see if {f:5:Beatrice} would really appear in the VIP room or not."`
+char_jes: `"Pretty much.`
+char_jes: ` ......Still, I wonder why I was so stubborn about it.`
+char_jes: ` It must have been because of my fight with such a little girl."`
+char_non: `......Of course, the weather just had to be terrible on that particular night.`
+char_non: `To be honest, I slightly regretted sticking my nose into something so pointless.`
+char_non: `But I'd already said so much, and even borrowed the key from them.`
+char_non: `I couldn't just go to Shannon the next day, let her ask me how it went,`
+char_non: ` and answer "well, I got scared so I gave up,`
+char_non: ` tehehe......"`
+char_non: ` That'd just be pathetic.`
+char_non: `Normally, I go to sleep long before {nobr:2 a.m}.`
+char_non: `If Mom found me wandering the corridors at that time of night, she'd definitely yell at me.`
+char_non: `So, I waited in my room, staring at the hands of my clock as it ticked closer to {nobr:2 a.m}.`
+char_non: `Outside, the rain was incredible, and the wind strong.`
+char_non: `{n}The swaying, rustling trees were particularly creepy.`
+char_non: `I'd complained to Shannon and Gohda about making up ghost stories for my house,`
+char_non: ` ......but I was starting to feel as though they had a bit of a place after all.`
+char_non: `......The Ushiromiya mansion is huge.`
+char_non: `Honestly, I can't think of the entire mansion as my own house.`
+char_non: `As Mom says, the hallways of the Ushiromiya mansion should be treated like public roads.`
+char_non: `In other words, my own room is part of my home, ......but the hallways and the rooms I don't usually enter are "outside".`
+char_non: `So, while part of me felt that this VIP room ghost story was ridiculous,`
+char_non: ` ......the other part of me was so creeped out that it kept trying to convince itself that the first part of me was right.`
+char_non: `Ten to two.`
+char_non: `If I want to greet {nobr:2 a.m.} inside the VIP room, I need to have already gone in there before then.`
+char_jes: `"......Guess it's time.`
+char_jes: ` ......Sorry, but I'm not giving up that easy."`
+char_non: `Nothing's going to happen.`
+char_non: ` I know that.`
+char_non: `{n}It'll just be a stupid waste of time for a few minutes.`
+char_non: `I touched the doorknob to the door of my room...`
+char_non: `...and was startled by how unpleasantly cold it was.`
+char_non: `As long as I stayed in this room, I could laugh off anything.`
+char_non: `After all, this was {i:my} room.`
+char_non: `But it wouldn't be like that in the hallway.`
+char_non: ` ......That's...outside my territory.`
+char_non: `And the doorknob, the barrier between the two, was ice‐cold...`
+char_non: `......Idiot...`
+char_non: ` What are you so scared of, me?`
+char_non: `You aren't taking Shannon's, Gohda‐san's, ...or maybe Kumasawa‐san's gossip seriously, are you...?`
+char_non: `I'll prove it! There's nothing strange in the VIP room...!!`
+char_non: `The corridor was only dimly lit.`
+char_non: `The hallways were brighter before "lights out".`
+char_non: `But to avoid wasting energy or something like that, we kept the lights to a minimum at night.`
+char_non: `So, even though I was inside my own house,`
+char_non: ` ......it was very obviously the middle of the night here.`
+char_non: `......If Mom found out that I was wandering around at a time like this to do a test of courage in the VIP room, which I'm not supposed to go in,`
+char_non: ` I'd get in a lot of trouble.`
+char_non: `To make sure she didn't find out, I tried to hide my breathing and my footsteps.`
+char_non: `{n}......So, the silence felt unbelievably loud.`
+char_non: `Even though it was so quiet, ......the eerie sound of the wind was loud in my ears.`
+char_non: `The sound of twigs rustling.`
+char_non: ` The sound of some pillar in this old mansion creaking.`
+char_non: `What's that sound like a beak tapping against glass?`
+char_non: `Though it was so quiet, ......all of the little, suspicious sounds felt obnoxiously loud.`
+char_non: `Damn, I'm an idiot.`
+char_non: ` Why couldn't I have brought a flashlight, at least?`
+char_non: `A flashlight to use inside my own home?`
+char_non: `{n}......Hah, that's even more idiotic...`
+char_non: `I mumbled this to myself, hoping it would drown out the sound of the wind just a little...`
+char_non: `.........Then, ......I saw it.`
+char_non: ` The door to the VIP room.`
+char_non: `......The VIP room was supposedly reserved for important guests.`
+char_non: `However, as far as I knew, it had never been used.`
+char_non: `None of the guests who came to this mansion......had ever been given the right to use this room.`
+char_non: `Though I'd been clutching the key all this time, it didn't feel warm at all.`
+char_non: `{n}The icy metal tormented me ruthlessly.`
+char_non: `Maybe that was a warning.`
+char_non: ` ......“If you go back to your comfortable room and hide in your bed, this night will pass like any other...”`
+char_jes: `"......Like hell I'm doing that.`
+char_jes: ` I can't give up after coming this far."`
+char_non: `The key had been freezing in my hand, urging me to turn back.`
+char_non: `{n}......But the keyhole made no further attempt to stop me.`
+char_non: `All that's left...`
+char_non: `......is to turn the knob,`
+char_non: ` open the door,`
+char_non: ` ......and I'll be inside the VIP room.`
+char_non: `......It's not like I've {i:never} been in the VIP room.`
+char_non: `Long ago, when I would often play hide‐and‐seek or go exploring,`
+char_non: ` this room that I rarely entered had seemed unusual and exciting.`
+char_non: `However, I got in trouble for going in, and was told that this room was important, so one mustn't enter without reason.`
+char_non: ` After that, they made a rule of locking up unused rooms, and I couldn't go in anymore.`
+char_non: `......So, ...it's probably been several years since I last went into the VIP room.`
+char_non: ` In fact, ......it might be more than a decade.`
+char_non: `The inside of the room is probably different from how it was when I knew of it.`
+char_non: `......Come to think of it, even then, I felt that there was something unsettling about this room...`
+char_non: `Slowly, I pushed the door open.`
+char_non: `It was light, ......and even after I let go of it, it kept opening by itself, as though beckoning me in...`
+char_non: `Beyond it......was a darkness as thick and heavy as ink...`
+char_non: `Even the dim light that seeped in from the corridor seemed bright in contrast.`
+char_non: `......Swallowing hard,`
+char_non: ` ......I stuck my head in, feeling about for the light switch next to the doorway.`
+char_non: `This was a horribly unnatural and awkward way to do it.`
+char_non: `{n}......All I really had to do was step inside and search for the switch from there.`
+char_non: `Unwilling to take even a single step into the room,`
+char_non: ` ......I timidly stuck just my arm into the darkness and felt along the wall...`
+char_jes: `"............There..."`
+char_non: `Click.`
+char_non: `The switch, which was hardly ever used, felt stiff and lifeless.`
+char_non: `However, once the light turned on, the darkness vanished in an instant.`
+char_non: `And there,`
+char_non: ` ......exactly as it had been,`
+char_non: ` ......as though not a thing had changed in all these years,`
+char_non: ` ...was the VIP room.`
+char_non: `......The curtain and bed cover might have been slightly different, and maybe the chairs and the like had changed too.`
+char_non: `Still, .........if I had to put it in words, I'd call it the feel.`
+char_non: `{n}......The stiff, lifeless feel of this room hadn't changed.`
+char_non: `If I hang around here, someone might find me.`
+char_non: ` ......I'd rather not have Mom find me here.`
+char_non: `I readied myself,`
+char_non: ` ......and though I hadn't even been able to bring myself to enter this room with the lights out,`
+char_non: ` .........I finally entered.`
+char_non: `As soon as I closed the door, I felt an oppressive, suffocating sensation.`
+char_non: `Alright, ......I've shut myself in the VIP room.`
+char_non: ` Come out, {f:5:Beatrice}.`
+char_jes: `"......What time is it now...?"`
+char_non: `I looked around the room, but I couldn't see any clock.`
+char_non: `I'm not in the habit of wearing a watch around the house.`
+char_non: ` ......Damn.`
+char_non: ` Now I'm not sure what time it is.`
+char_non: `Still, I know it's only a few minutes at most.`
+char_non: `I tried to suppress my desire to use "going to get a clock" as an excuse to run away from this place...`
+char_non: `......Even so, just standing around like this was boring.`
+char_non: `When I looked around again, searching for something to sit on, ......I found something strange.`
+char_jes: `"............What's this?"`
+char_non: `It had been placed on the side table next to the bed.`
+char_non: `......If this room had been used often by someone, I'd have thought it was just one of their personal belongings.`
+char_non: `But there was no one living in this room.`
+char_non: `{n}So, ......it was impossible for this to belong to the room's owner.`
+char_jes: `"......What is this, an offering or something?`
+char_jes: ` ......Creepy..."`
+char_non: `It did look like an offering.`
+char_non: `A small French doll was sitting on the side table.`
+char_non: `The doll's hair...was gold.`
+char_non: ` ......It was wearing a black dress.`
+char_non: `Just who managed to find this doll, and where?`
+char_non: `There's no doubt that someone placed the doll here to symbolize {f:5:Beatrice}.`
+char_non: `Does that mean...this doll is supposed to be the owner of this room, or something...?`
+char_non: `And, as though it was an offering to that owner,`
+char_non: ` ......there sat a small plate with several cookies and wrapped chocolates.`
+char_non: `It was all set out neatly, and there was no dust piled up on the doll.`
+char_non: `......In other words, both the doll and the offering were being taken care of on a regular basis by the servants,`
+char_non: ` and kept in good condition along with the rest of the room.`
+char_non: `Taken care of?`
+char_non: ` ......No, it was more than that.`
+char_non: `It looked like an offering...no, like some sort of worship,`
+char_non: ` a prayer saying "please don't curse us"...`
+char_non: `......So, while the doll was eerie enough by itself,`
+char_non: ` ......psychologically, it was even more unnerving to think about how it must have been kept safe and worshiped in a place like this.`
+char_jes: `"Stupid.`
+char_jes: ` ......Am I supposed to clap my hands together and say "please don't curse me"?"`
+char_non: `Jessica forced herself to look away from the bizarre doll.`
+char_non: `......She couldn't bring herself to sit on a bed that wasn't hers.`
+char_non: `{n}Then again, she didn't really feel like sitting down on a chair either.`
+char_non: `She had lost any desire to sit on anything in this room.`
+char_non: `Wandering about aimlessly,`
+char_non: ` ......I peeked out the window through the gaps in the curtains to stare at the dark, rainy night.`
+char_non: `......What the hell am I doing?`
+char_non: `Hanging about in the VIP room this late just because that fight with Maria is still eating at me...`
+char_non: ` ......This is beyond stupid... I'm disappointed in myself.`
+char_non: ` {f:5:Beatrice}, huh...`
+char_non: `Just when did that strange witch start living in this mansion...?`
+char_non: `......Grandfather's always yelling about {f:5:Beatrice}.`
+char_non: `Since it's apparently the name of his dead mistress, people started talking about how her ghost must haunt this mansion.`
+char_non: `There's that kids' horror story about the witch in the forest,`
+char_non: ` which might be a ghost story made by the adults to stop the kids from going in there.`
+char_non: `The portrait Grandfather had hung in April was really striking.`
+char_non: `And there was also that weird epitaph.`
+char_non: ` ......The creepy words on that, which sounded like some sort of ritual with human sacrifices, made the name of {f:5:Beatrice} seem all the more unnerving.`
+char_non: `At some point, those stories mixed together, and they now say that the witch {f:5:Beatrice} exists.`
+char_non: `......I don't believe in {f:5:Beatrice}...`
+char_non: `because I know she's just a fictional person made by the fusion of a few horror stories.`
+char_non: `The "Beatrice" who was Grandfather's mistress probably did exist.`
+char_non: `But she wasn't a witch.`
+char_non: `The story of the witch of the forest was made up by the adults to prevent their kids from getting lost in the woods.`
+char_non: ` But that was just a made‐up story, not reality.`
+char_non: `In fact, I've heard that kids were once threatened about wolves living in the forest.`
+char_non: ` Apparently, the kids realized that wolves couldn't exist on the island, so it was changed to the witch.`
+char_non: `When the portrait was hung,`
+char_non: ` ......that once‐vague character suddenly had a face,`
+char_non: ` and people acted as though she'd been around since long ago.`
+char_non: `......That's right, it's all a ghost story someone made, a fiction.`
+char_non: `And Maria calls {f:5:Beatrice} her best friend, and the servants worship her like a household shrine.`
+char_non: `I just don't get it, and it creeps me out......`
+char_jes: `".........! ..........................."`
+char_non: `The sudden ring of the phone made me jump so hard I thought my heart would explode.`
+char_non: `There was a phone on the bedside table across from the one with the doll,`
+char_non: ` and it was ringing noisily.`
+char_non: `However, I was only surprised by the first ring.`
+char_non: `By the time it had rung three times, I'd regained my cool enough to grumble about this being a prank done by someone trying to scare me.`
+char_non: `......If I rush to pick it up, I'll probably hear someone laughing at me, saying "were you scared?"`
+char_non: `I thought about ignoring it instead, .........but it kept on ringing incessantly.`
+char_non: `It's a pretty loud sound to have going on and on this late at night.`
+char_non: ` If Mom somehow manages to hear it from her room, I'm screwed.`
+char_jes: `"......Okay, okay, I've got it, I've got it.`
+char_jes: ` Might as well say "ya scared me" or whatever..."`
+char_non: `I decided to pick up the receiver.`
+char_non: `I'll just say "that surprised me, wahahaha",`
+char_non: ` and maybe follow that up with "looks like {f:5:Beatrice} didn't show up after all".`
+char_non: `After all, this is my victory, in a sense.`
+char_jes: `".........Hello?"`
+char_mar: `‘Uu!`
+char_mar: ` Hi, {f:5:Beatrice}...!’`
+char_jes: `"Huh?`
+char_jes: ` M‐......Maria...?!"`
+char_non: `I don't get it.`
+char_non: `Did I hear that wrong...?`
+char_non: ` Why would Maria be calling here...?!`
+char_jes: `"H‐hello...?!"`
+char_mar: `‘Thanks for teaching me that fun song last time.`
+char_mar: ` In return, I'm gonna sing you a song, {f:5:Beatrice}.`
+char_mar: ` I just learned this one!`
+char_mar: ` Uu!’`
+char_non: `The voice, the intonation, the manner of speech—all of it clearly belonged to Maria.`
+char_non: `{n}But......what's she talking about, all by herself...?`
+char_non: `Maria just kept on talking happily as I stood there, stunned and unable to interrupt.`
+char_non: `Eventually, Maria started singing an old, familiar kids' song that even I knew.`
+char_non: `I don't...get it.`
+char_jes: `"......Maria? Hello...?`
+char_jes: ` Wait a sec, stop singing...!`
+char_jes: ` What's going on?`
+char_jes: ` I don't get it...!`
+char_jes: ` Hello?!`
+char_jes: ` Ah—"`
+char_non: `The voice, the lights—everything disappeared.`
+char_non: `{n}In the pitch‐black, I couldn't see anything, couldn't tell what was happening.`
+char_non: `{n}I don't get it, what's going on?!`
+char_jes: `"What...`
+char_jes: `.........the hell...`
+char_jes: `.........was that......?"`
+char_non: `Does being in darkness really slow us humans down so much...?`
+char_non: `I know it's dark, ......but I really do have absolutely no idea what just happened.`
+char_non: `......What was that shuffling sound just now?`
+char_non: ` I, I'm not sure... I can't explain it.`
+char_non: `It was a loud sound like someone crawling out of bed.`
+char_non: `I wouldn't say something as non‐committal as I "felt like" I heard it.`
+char_non: ` I wouldn't say something as vague as I "sensed a presence".`
+char_non: ` I definitely heard it, right next to me, clearly.`
+char_non: `However, there was no change to the bed.`
+char_non: `{n}No one had been sleeping there in the first place, and the sheets were still perfectly straight.`
+char_non: `Someone had crawled out of the bed,`
+char_non: ` .........and had laughed in a creepy voice before leaving the room......`
+char_non: ` ............That's...`
+char_non: `...what it felt like.`
+char_non: `Felt like?`
+char_non: ` I'm here, and the bed's right there.`
+char_non: `I'm not only in the same room, I'm right next to it.`
+char_non: ` ......So, why am I so unsure about what happened just a few seconds ago?!`
+char_non: `I gripped the receiver, which had gone completely silent,`
+char_non: ` .........and waited there alone, unable to move, in a quiet room that seemed exactly identical to the one I had first entered...`
+char_non: `............Huh?`
+char_non: ` ............What............?`
+char_non: `If nothing had changed since the beginning, ......I could just pretend that the last minute or so didn't happen.`
+char_non: `However,`
+char_non: ` ......if something had changed,`
+char_non: ` ......that would be proof that something really did happen...`
+char_jes: `"......The hell?`
+char_jes: ` ......Where'd...`
+char_jes: `......it go......?"`
+char_non: `Did it fall to the floor...?`
+char_non: ` No, it's not there.`
+char_non: ` ......No matter where I look, from whatever angle, ......it's not there.`
+char_non: `Though the offering plate with the cookies and chocolate is still here,`
+char_non: ` .........the thing they were being offered to,`
+char_non: ` the doll, is gone.`
+char_jes: `"......No way.................."`
+char_non: `Then, ......what just happened......?`
+char_non: `Is the {f:5:Beatrice}‐sama doll supposed to have cackled out loud and left the room...?`
+char_non: `No, that crawling sound was too loud to have been made by a doll.`
+char_non: `It was a noisy sort of sound, like a kid playing with a blanket and using it as a cape.`
+char_non: `Then, what......?`
+char_non: `Is that {f:5:Beatrice}‐sama doll...`
+char_non: `supposed to have turned into a human...`
+char_non: `......and then run cackling from the room...?`
+char_jes: `"No......way....................."`
+char_non: `After that, nothing happened.`
+char_non: `{n}The doll alone disappeared, .........and nothing else changed.`
+char_non: `In a VIP room that had remained completely unchanged and was filled only with the sound of wind and rain,`
+char_non: ` ......I stood there, too shocked to move......`
+char_wil: `"Did you ever find that doll?"`
+char_jes: `"......I looked everywhere, even under the bed.`
+char_jes: ` I literally crawled in there looking for it.`
+char_jes: ` ......But I didn't find it."`
+char_wil: `"Just what do you think happened in that room?"`
+char_jes: `"I don't think it was actually "{f:5:Beatrice}‐sama's curse".`
+char_jes: ` ......It might have been a prank done by the servants."`
+char_wil: `"A prank?"`
+char_jes: `"Maybe they recorded Maria's voice on a cassette tape or something ahead of time.`
+char_jes: ` They then called at exactly {nobr:2 a.m.} and pushed the play button.`
+char_jes: ` They could've cut the power at the breaker or something."`
+char_jes: `"......Then, someone who had been hiding in the VIP room beforehand would make a creepy laugh, take the doll, and leave.`
+char_jes: ` .........If that was how it happened, everything does fit."`
+char_wil: `"Doesn't sound like you're really convinced it happened that way."`
+char_jes: `"Can you blame me?`
+char_jes: ` ......I mean, if that was just a prank to scare me, it was way too elaborate."`
+char_non: `They made Maria sing beforehand and recorded it.`
+char_non: `Then, someone called the VIP room and replayed that recording.`
+char_non: `Then, someone waited until exactly the right time and tripped the breaker for the VIP room.`
+char_non: `To turn off the power to the VIP room, you'd have to go down to the basement.`
+char_non: ` ......There's a breaker box down in the boiler room.`
+char_non: `There's no phone line down there, so you'd need a different person to play back Maria's tape.`
+char_non: `And you'd need another person to hide in the VIP room and cackle before leaving.`
+char_non: `And......just how long would this last person have to hide in the VIP room beforehand...?`
+char_non: `How long would they have to hide in the pitch‐black VIP room—under the bed, for example—`
+char_non: `waiting to scare Jessica, who might or might not come...?`
+char_jes: `"......There's no way it could be a witch's curse.`
+char_jes: ` ......But still.`
+char_jes: ` Imagining that so many people planned everything down to the slightest detail...`
+char_jes: `and waited for several hours in the darkness just to scare me...?`
+char_jes: ` To me, that's even creepier......"`
+char_wil: `"I agree.`
+char_wil: ` I'd much prefer a curse.`
+char_wil: ` ......Did you ask the servants about that later on?"`
+char_jes: `"What's the point? They'd just play dumb, of course.`
+char_jes: ` ......And there had to have been at least three of them...`
+char_jes: ` On that day, only Genji‐san, Gohda‐san, Kumasawa‐san, and Shannon stayed the night.`
+char_jes: ` So three of those four helped out with that creepy prank?`
+char_jes: ` It doesn't make sense...!`
+char_jes: ` That's why......I couldn't ask about it."`
+char_wil: `".............................."`
+char_non: `True, it had been a strange experience for her, but it wasn't something completely impossible for humans to do.`
+char_non: `......Even so, it really must have been more unnerving to imagine a large number of people planning so carefully just to scare Jessica.`
+char_non: `......It's no surprise that she found this scarier than {f:5:Beatrice}'s curse.`
+char_wil: `"Do you still believe the servants pulled a fast one on you?"`
+char_jes: `".........No.`
+char_jes: ` I probably......just freaked out and mistook what I saw and heard.`
+char_jes: ` The doll probably just fell somewhere, and I just had trouble finding it."`
+char_wil: `"Are you trying to say you imagined the whole thing...?"`
+char_jes: `"Other than the doll disappearing, there was no other proof that anything had changed.`
+char_jes: ` ......Later on, I talked to Maria, and she said she didn't know anything about that song or the phone call.`
+char_jes: ` I don't know if she was lying or not, of course.`
+char_jes: ` ......Anyway, what happened that night...`
+char_jes: `...is just something I thought happened...`
+char_jes: `...and there's no proof of any kind."`
+char_wil: `"That's ironic.`
+char_wil: ` Even if you had met {f:5:Beatrice} directly, you wouldn't have been able to prove that either."`
+char_jes: `"For a while, I was pretty rattled about it, ......but as time went on,`
+char_jes: ` I began to think that lightning or something had shut off the power for a second and spooked me,`
+char_jes: ` ......and maybe one of the trees in the garden fell while making rustling sounds, which I mistook for someone crawling out of bed because I was already scared."`
+char_wil: `"And the laugh?"`
+char_jes: `"Maybe some strange bird.`
+char_jes: ` ......Anyway, I might have misheard something to get that sound..."`
+char_jes: `".........I act tough, but it turns out I'm actually an unbelievable coward.`
+char_jes: ` ...That's why I let my imagination get ahold of me.`
+char_jes: ` ......I decided to think about it that way......and kept firmly repeating it to myself to help me forget everything that happened that night."`
+char_wil: `"So it all remains in darkness..."`
+char_jes: `".........People are actually pretty good at forgetting things if they try.`
+char_jes: ` ......Ever since that night, I feel uncomfortable every time I hear the word "{f:5:Beatrice}".`
+char_jes: ` But I try hard to not let it show on my face."`
+char_wil: `"...................................."`
+char_jes: `"............That's all.`
+char_jes: ` I can't tell you any more than that."`
+char_jes: `"It's really embarrassing, so please don't tell anyone.`
+char_jes: ` .........I don't want them knowing what a huge chicken I was."`
+char_wil: `"You got it.`
+char_wil: ` ......I have one last question."`
+char_jes: `"About the VIP room?"`
+char_wil: `"No.`
+char_wil: ` About the dining hall."`
+char_jes: `"The dining hall?"`
+char_wil: `"On the day of the family conference, just before your ghost story, all of the relatives were gathered in the dining hall, right?"`
+char_jes: `"Yeah.`
+char_jes: ` Except Battler hadn't come back to the family yet.`
+char_jes: ` Everyone else was there.`
+char_jes: ` ......Everyone except Grandfather, of course."`
+char_wil: `"And Ange wasn't in the room because of her stomachache.`
+char_wil: ` ......Her seat was next to yours, wasn't it?"`
+char_jes: `"Yep."`
+char_wil: `"Was that the seat to your right?"`
+char_jes: `"Yeah, the seat to my right.`
+char_jes: ` Why does it matter?`
+char_jes: ` ...............?`
+char_jes: ` ......Hm?`
+char_jes: ` Wait...`
+char_jes: ` ......That's strange, why to the......?"`
+char_wil: `"That's enough.`
+char_wil: ` ......Try not to think. You'll just get a headache."`
+char_rio: `"What's up, Jessica?`
+char_rio: ` Why the confused look...?"`
+char_jes: `"......Well, uh...`
+char_jes: `......right...`
+char_jes: `...left...`
+char_jes: ` .........???"`
+char_rio: `"Hahah, you're so weird.`
+char_rio: ` How is it going, Will?`
+char_rio: ` Have George nii‐san and Jessica told you anything useful?"`
+char_wil: `"A bit.`
+char_wil: ` That ghost story about {f:5:Beatrice} was pretty fun."`
+char_rio: `"Ghost story?`
+char_rio: ` What are you talking about?"`
+char_wil: `"The one about {f:5:Beatrice}'s ghost appearing in the VIP room at two in the morning.`
+char_wil: ` Pretty scary story."`
+char_rio: `"I've never heard of that.`
+char_rio: ` ......I don't know who put that out there, but that'd be really rude, making up ghost stories about the woman our head is indebted to."`
+char_wil: `"A model answer.`
+char_wil: ` ........................"`
+char_rio: `".........?`
+char_rio: ` What?"`
+char_wil: `"Do you know about the epitaph, Lion?"`
+char_rio: `"Epitaph?`
+char_rio: ` What epitaph?"`
+char_wil: `"That epitaph by {f:5:Beatrice}'s portrait."`
+char_rio: `".........My apologies,`
+char_rio: ` but I have no idea what you mean."`
+char_wil: `"‘Behold the sweetfish river, running through my beloved home of old’."`
+char_rio: `".........Just what...`
+char_rio: `are you talking about?"`
+char_wil: `"So, in your world, ......no, in this world,`
+char_wil: ` the portrait exists, but not the epitaph?"`
+char_rio: `"Of course, I know about the large portrait of Beatrice hanging in the entrance hall.`
+char_rio: ` ......But I haven't heard of this epitaph.`
+char_rio: ` What is it?"`
+char_wil: `"........................`
+char_wil: ` ......That's a very interesting difference.`
+char_wil: ` .........You've lived on Rokkenjima all your life, right?"`
+char_rio: `"Of course.`
+char_rio: ` What's your point?"`
+char_wil: `"When you were a little kid, you were warned not to go near the woods."`
+char_rio: `"Yes.`
+char_rio: ` They always said to stay away, since it would be dangerous if we got lost."`
+char_wil: `"Because a witch lives in the forest?"`
+char_rio: `"A witch?`
+char_rio: ` What witch?"`
+char_wil: `"The Golden Witch, ruler of Rokkenjima's night.`
+char_wil: ` {f:5:Beatrice}."`
+char_rio: `"......Beatrice is a woman to whom Grandfather owes a great debt.`
+char_rio: ` Don't you think it's a bit rude to treat her like a witch or a ghost?"`
+char_wil: `"...............You don't know about the witch {f:5:Beatrice}?"`
+char_rio: `"I know about the Beatrice who came here in a submarine along with the gold, and about her daughter, who was raised in the hidden mansion.`
+char_rio: ` We just learned about those two together a short while ago, right?`
+char_rio: ` Where does a witch come in?"`
+char_wil: `"...........................`
+char_wil: ` I see, so that's it.`
+char_wil: ` ......Then how did they scare you...to keep you from going into the woods?"`
+char_rio: `"They said that wolves lived in the forest."`
+char_wil: `".........Not a witch,`
+char_wil: ` ...but wolves.`
+char_wil: ` ......Of course.`
+char_wil: ` Very interesting."`
+char_rio: `"It isn't interesting to me.`
+char_rio: ` What are you talking about?`
+char_rio: ` What is this witch?"`
+char_wil: `"I'm just talking to myself.`
+char_wil: ` I have one more question."`
+char_rio: `"Please, go ahead."`
+char_wil: `"During the family conference, who sits to your right at the dining table?"`
+char_rio: `"My little sister, Jessica, sits across from me.`
+char_rio: ` The next in rank is Aunt Eva's son.`
+char_rio: ` So, George nii‐san is the one on my right... What's your point?"`
+char_wil: `"I get it.`
+char_wil: ` ......It's all mashed together in a confusing mess.`
+char_wil: ` But it is interesting."`
+char_rio: `"Well, I don't have a clue."`

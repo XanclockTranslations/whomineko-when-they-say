@@ -1,0 +1,786 @@
+char_non: `..........................................`
+char_sak: `‘........................Uryu...`
+char_sak: ` .........Maria, ...answer me......’`
+char_mar: `"..........................."`
+char_sak: `‘.........Uryu...`
+char_sak: ` ......So I really am...`
+char_sak: `...a stuffed animal...?`
+char_sak: ` ......I'm made of cloth and cotton,`
+char_sak: ` ......so there's no way I can...`
+char_sak: `talk......?`
+char_sak: ` ......Is that why...`
+char_sak: `...I can't talk to you.........?’`
+char_non: `Sakutaro looked up at Maria sadly.`
+char_non: `Maria's face was covered with tears, and she looked as though she had even lost the emotion of sadness......`
+char_mar: `"............Uu.`
+char_mar: ` ......I can hear you, Sakutaro.`
+char_mar: ` ......You aren't a stuffed animal made of cloth and cotton.`
+char_mar: ` .........You're my...friend.`
+char_mar: ` ..................Hate Ange.`
+char_mar: ` ......Uuu{0}u{0}u{0}u{0}u{0}u{0}u{0}uuu......"`
+char_sak: `‘Uryu... I'm sorry Maria, I'm sorry Maria......!`
+char_sak: ` Uryu......!’`
+char_non: `Sakutaro felt regret.`
+char_non: ` By freezing her heart, Maria had finally been able to escape from her sadness.`
+char_non: `...By speaking up and calling her back, he had caused her to become overwhelmed with sadness again...`
+char_non: `Sakutaro tried toddling up to Maria and hugging her, then letting go,`
+char_non: ` gazing at her appearance uneasily and trying it again, lost as to how he could bring Maria's spirits up.`
+char_non: `......He might have looked a little humorous doing that.`
+char_non: `As a result, that was able to divert Maria's feelings from sadness......`
+char_mar: `"Sorry.`
+char_mar: ` .........More crying won't help anything."`
+char_sak: `‘You got in a fight with Ange, but you still have a lot of friends, Maria...`
+char_sak: ` Not just me.`
+char_sak: ` .........You have everyone else too.`
+char_sak: ` Sakusuke and Sakukichi, the animal band, and many, many more......’`
+char_non: `Maria looked at the many stuffed animals around her pillow, which were gathered together as though they were having a conference.`
+char_sak: `‘......They're all...worried about you, Maria.`
+char_sak: ` They've all been discussing and discussing how to cheer you up, you know......?’`
+char_mar: `"....................................`
+char_mar: ` ......They won't......go away...like Ange...?"`
+char_sak: `‘They won't.`
+char_sak: ` We'll always be together.’`
+char_mar: `".........Really?`
+char_mar: ` You're all only with me at home.`
+char_mar: ` Can't go out together when Mama's with us, and can't go together to school."`
+char_sak: `‘We aren't allowed to go to school, so you'll get in trouble if the teacher finds out.`
+char_sak: ` But if no one finds out, we can be together at any time.’`
+char_mar: `"......Sakutaro, you're big, so you'd be found."`
+char_sak: `‘Then you can take some of the kids that are small enough to walk around with.`
+char_sak: ` ......For example...what about them?`
+char_sak: ` If you take the friends in the forest band,`
+char_sak: ` ......look, they're small, so they can hide in your pocket and go to school with you.’`
+char_mar: `".........There's a lot of them in the band.`
+char_mar: ` Can't fit them all in my pockets."`
+char_non: `She gathered all of the forest band pieces that were scattered across her bed.`
+char_non: `There were about as many of them as pieces in a chess set, so it would probably be impossible to fit them all in her pocket...`
+char_sak: `‘In that case, you can just take friends that you're especially close with.`
+char_sak: ` ......Why don't you take the four rabbits, the ones you're closest to in the forest band?’`
+char_mar: `"......Four could fit in my pocket.`
+char_mar: ` ......Yeah.`
+char_mar: ` This way, they won't be found."`
+char_sak: `‘So this way, you won't be alone even at school, Maria.`
+char_sak: ` Those kids will be with you even where I can't go.’`
+char_mar: `"...............Yeah.`
+char_mar: ` ......Maybe...won't be lonely that way.`
+char_mar: ` ......Maybe I can hold out......until I get home from school..."`
+char_sak: `‘As long as we aren't found by the teacher or Mama, we can be with you at any time.`
+char_sak: ` So let's be together forever, play together forever.`
+char_sak: ` We definitely won't leave you all alone, Maria.`
+char_sak: ` Uryu!’`
+char_non: `Maria's expression finally regained a little of its brightness.`
+char_non: `......That's right.`
+char_non: ` Thinking about it, my world didn't start out with Ange in it.`
+char_non: `Even without Ange, everyone was together and it was fun.`
+char_non: `So it's weird to suddenly get sad just because Ange's gone when she was the last to come in.`
+char_non: `...All that's happened is that I've returned to the world right before Ange entered it.`
+char_non: `{n}......So there's nothing to be sad about.`
+char_mar: `"......Yeah.`
+char_mar: ` Not lonely.`
+char_mar: ` Sakutaro and everyone else is with me."`
+char_sak: `‘Uryuu!`
+char_sak: ` Loooove you, Maria...!’`
+char_mar: `"I won't let any more {y:0:Human}{n:0:human}s come into my world.`
+char_mar: ` ......Mariage Sorcière is an alliance only between me and {f:5:Beatrice}."`
+char_mar: `"......Even Beato opposed letting Ange join in the beginning.`
+char_mar: ` .........It's alright this way.`
+char_mar: ` Ange was still too young."`
+char_sak: `‘......Until you can be friends with Ange again, I think it's okay to forget about her for now.`
+char_sak: ` Just wait until you've regained your high spirits, and then play with her again.`
+char_sak: ` Until then, all of us will be by your side.’`
+char_mar: `".........Thanks.`
+char_mar: ` ......Sakutaro, ......everyone."`
+char_non: `Then, I once again regained my former world.`
+char_non: `{n}I regained the world where I wasn't lonely, and where I was surrounded by many friends.`
+char_non: `As always, I didn't have any {y:0:Human}{n:0:human} friends at school, but my magic friends were always with me.`
+char_non: `Even during class, I could hear the rabbit band hiding in my pocket talking together and giggling, and they sounded like they were having a lot of fun.`
+char_non: `Just listening to that added a lot of color to those lonely school hours.`
+char_non: `I made sure that my other friends, too, were always with me, as long as Mama and the teacher wouldn't find out.`
+char_non: `When Mama told me to go play outside, I would secretly pack Sakutaro and Sakusuke and the rest into my bag, and play together at the library or somewhere.`
+char_non: `And when Mama was late coming home and I went shopping for dinner, I always went with them.`
+char_non: `The men working at the convenience store were always nice to Sakutaro.`
+char_non: `{n}Sometimes they even gave me two extra things for free, one for me and one for Sakutaro.`
+char_non: `Whenever Mama found out, I would get in trouble for bringing Sakutaro and the rest outside.`
+char_non: `Whenever the teacher found out, I would get in trouble for bringing toys to school.`
+char_non: `The toxin must be strong in Mama and the teacher.`
+char_non: ` That's why Sakutaro and the others just look like normal stuffed animals to them.`
+char_non: `After all, the men at the convenience store say hello to Sakutaro.`
+char_non: `.........Not all {y:0:Human}{n:0:human}s are worthless.`
+char_non: ` There are a ton of people who, unlike Ange and Mama and my teacher, can say hello to magic friends like I can......`
+char_non: `"Oh, Maria‐chan.`
+char_non: ` Welcome.`
+char_non: ` Is your mama late coming home tonight too...?"`
+char_mar: `"Yeah.`
+char_mar: ` ......But Sakutaro's with me, so I'm not lonely.`
+char_mar: ` Right, Sakutaro?"`
+char_sak: `‘Uryuu.`
+char_sak: ` It's not just me today.`
+char_sak: ` Other friends are also with us.’`
+char_non: `"Oh, other friends?`
+char_non: ` What kind of friends are with you today?"`
+char_mar: `"Today, the rabbits from the forest band are also with me.`
+char_mar: ` ......Look, they're in my pocket."`
+char_non: `Maria began to line up four ceramic rabbit dolls on the register.`
+char_non: `As the owner of the shop looked at them with a smile, he signaled a part‐timer with his chin.`
+char_non: `The sign on the other register that said "closed" was taken down, and the part‐timer called out for everyone to move over there.`
+char_non: `All of the people in line behind Maria formed a new line over there instead...`
+char_non: `"Yes, I see.`
+char_non: ` You sure have a lot of friends, Maria‐chan.`
+char_non: ` But I hope your mama comes home soon."`
+char_mar: `"Uu.`
+char_mar: ` Mama is busy with work again, so she's staying at the company.`
+char_mar: ` She's very busy lately.`
+char_mar: ` ......She hasn't even been able to get much time to talk to me on the phone."`
+char_mar: `"But I'm not lonely!`
+char_mar: ` I have Sakutaro and all the rest!`
+char_mar: ` Right?"`
+char_sak: `‘Uryuu!!’`
+char_mar: `"All of the rabbits in the band are with me too.`
+char_mar: ` Look.`
+char_mar: ` Kyuu‐kyuu{p:0:♪}"`
+char_non: `"Is kyuu‐kyuu the sound a rabbit makes?`
+char_non: ` Come to think of it, I've never heard one."`
+char_non: `After smiling at Sakutaro, who was poking his head out of her knapsack,`
+char_non: ` she played around with the rabbit band on the register, making them frolic around.`
+char_non: `Even as he gazed at this heartwarming sight, the shop manager had a slightly pitying look on his face.`
+char_non: `......This was apparently a family without a father, and where the mother had to work hard and couldn't come home very often.`
+char_non: `On top of that, it looked like this girl didn't even have any friends.`
+char_non: `As he watched this girl play around happily with her dolls and claim that she wasn't lonely despite everything,`
+char_non: ` he couldn't help but feel a kind of compassion.`
+char_non: `And actually, this wasn't limited to him alone.`
+char_non: ` Maria had become very famous in this shopping district...`
+char_non: `"Maria‐chan, you should eat some oden every once in a while.`
+char_non: ` You won't grow if you don't eat your eggs and fish paste."`
+char_mar: `"Uu?`
+char_mar: ` Can't get a cream roll...?"`
+char_sak: `‘Uryu.`
+char_sak: ` You need variety or you won't get big.`
+char_sak: ` How about oden for today?’`
+char_mar: `"Uu.`
+char_mar: ` ......Okay, I'll have oden."`
+char_non: `"Yep yep, that's the ticket.`
+char_non: ` Why don't I stick a whole bunch in there.`
+char_non: ` Want mustard?"`
+char_sak: `‘Uryuu.`
+char_sak: ` I can't handle spicy things......’`
+char_non: `"Alright, I see.`
+char_non: ` Then, you make sure you don't let it spill on the way home.`
+char_non: ` Best eat it while it's hot."`
+char_mar: `"Uu.`
+char_mar: ` Thank you."`
+char_non: `She had planned on getting some sweet pastries for dinner like usual, but since oden had been recommended to her, she would be having that tonight instead.`
+char_non: `Letting someone else determine the menu makes for an unexpected and interesting meal.`
+char_non: `......Very often, Maria had to decide on her own what to have for dinner, so it was easy for the menu to get a little one‐sided.`
+char_non: ` So it felt fun to look forward to a meal she hadn't anticipated...`
+char_sak: `‘Uryuu!`
+char_sak: ` Thanks for giving us extra, mister!’`
+char_non: `"Send my regards to your other friends at home.`
+char_non: ` No nibbling at it on the way home, now.`
+char_non: ` Go straight home and eat it there."`
+char_mar: `"Uu!`
+char_mar: ` Thanks, mister!!"`
+char_non: `Maria held the bag with the oden container high for all to see......`
+char_mar: `".................................`
+char_mar: ` .........Huh......?"`
+char_sak: `‘......Uryu?`
+char_sak: ` What is it, Maria?’`
+char_mar: `".........The key isn't in my pocket."`
+char_non: `Standing in front of the door to her house, Maria searched and patted all over her body.`
+char_non: `{n}......The key to the house wasn't there.`
+char_non: `She always methodically put it in the same pocket.`
+char_non: ` So there was no way she had put it in another pocket, but she searched her whole body just in case.`
+char_non: `......It really wasn't there.`
+char_sak: `‘Did you drop it when you took your wallet out......?’`
+char_mar: `"No.`
+char_mar: ` Definitely felt it when I took my wallet out.`
+char_mar: ` Also definitely felt it when I checked my pocket on the way home."`
+char_mar: `"......It was there until partway.`
+char_mar: ` Didn't drop it!`
+char_mar: ` Uu‐uu‐uu...!"`
+char_non: `The late autumn wind had been made bearable by the thought of the heater that was waiting at home,`
+char_non: ` but now that Maria had lost her key and had no idea what to do, she was really feeling it.`
+char_non: `But no matter how hard she searched, she couldn't find her key.`
+char_non: ` She turned out all her pockets, and even tried taking off her jacket and hitting it, but to no avail.`
+char_non: `......Of course, she also turned the knapsack Sakutaro was in upside down, but no key came out.`
+char_mar: `".........Uu.`
+char_mar: ` .........Uu‐uu‐uu!!!"`
+char_non: `Something that should have been there...wasn't where it was supposed to be.`
+char_non: `{n}Why isn't the key there, when I didn't do anything wrong?`
+char_non: `......Why isn't it?!`
+char_non: `{n}Why?!`
+char_non: ` Why...?!!!`
+char_non: `Maria stamped on the ground, cold and frustrated and angry...`
+char_non: `{n}The bottom of her foot throbbed, but even so, it didn't lessen her frustration.`
+char_non: `......Before long, bitter tears were pouring down her face.`
+char_mar: `"......Uu.`
+char_mar: ` ......Uu!!`
+char_mar: ` Uuuu!!"`
+char_non: `It wasn't her fault.`
+char_non: ` So it was someone else's.`
+char_non: `But Maria didn't know who that someone was, and could do nothing but continue to let out a moan of anger.`
+char_sak: `‘......Uryu......`
+char_sak: ` You must have dropped it partway...`
+char_sak: ` Let's look for it, okay?`
+char_sak: ` Let's go back the way we came and search, okay...?’`
+char_mar: `"......Uu...`
+char_mar: ` I was excited to buy oden, ......and I got eggs and stuff for free......`
+char_mar: ` Can't eat it while it's hot......`
+char_mar: ` .........Uuuuu!!!"`
+char_sak: `‘...Maria......I know it's frustrating, but let's search, okay...?`
+char_sak: ` It's no one's fault... Let's search...’`
+char_non: `Maria finally lent an ear to Sakutaro's words, and began to plod back the way she came.`
+char_non: `......The wind was colder than it had been, and felt like it was blowing in through the gaps in her jacket to spite her...`
+char_sak: `‘Uryu...`
+char_sak: ` Let's watch our feet closely and search, okay...?`
+char_sak: ` And then let's get home quickly, and eat oden while getting warm by the heater, okay?`
+char_sak: ` I'm sure it'll taste good.’`
+char_mar: `".........Uu.`
+char_mar: ` ......Not here.`
+char_mar: ` ......Uu.`
+char_mar: ` ......Not here..."`
+char_non: `As Sakutaro encouraged her, Maria searched for the key...`
+char_non: `But she made it all the way back to the convenience store where she'd bought the oden.`
+char_non: `{n}......She hadn't found it.`
+char_non: `Just in case, she asked the man at the convenience store whether they had found a dropped key,`
+char_non: ` but they hadn't found anything.`
+char_non: `......One more time, she returned home, paying close attention to the area around her feet.`
+char_non: `{n}But still—she didn't find it.`
+char_non: `She was no longer frustrated enough to stomp her feet.`
+char_non: `{n}......But hot tears dripped down her face.`
+char_non: `The oden was stone cold.`
+char_non: `...Even though the man at the shop had said to eat it while it was hot, she hadn't been able to.`
+char_non: `......He had given her so much extra stuff for free......`
+char_sak: `‘......Uryu......`
+char_sak: ` Don't cry......`
+char_sak: ` ......Mama isn't coming back tonight.`
+char_sak: ` ......Let's do our best to search......’`
+char_mar: `".........Why can't I find it...`
+char_mar: ` ......Uuuu............uuuuuuuu!"`
+char_sak: `‘Maria, don't cry...!`
+char_sak: ` Let's do our best to search...!`
+char_sak: ` .........Maria......’`
+char_non: `Maria was no longer able to hold back her tears.`
+char_non: `Sobbing, clutching Sakutaro, and with the oden bag in her hand, she returned once more down the road she had come by.`
+char_non: `Perhaps because it was now later at night, and more houses and stores had turned their lights off by now, it was even darker and harder to search than before.`
+char_non: `......And, once again without finding the key, she returned to the convenience store.`
+char_non: `"Maria‐chan,`
+char_non: ` ......you still can't find your key...?"`
+char_mar: `"...Uu...`
+char_mar: ` ......Key, ......gone..."`
+char_non: `"Your mother was away for the night?`
+char_non: ` You can't get into your house without a key?"`
+char_mar: `"Uu......`
+char_mar: ` ......Can't get in......"`
+char_non: `"Well, that is a pretty pickle...`
+char_non: ` Did you try going to the police?`
+char_non: ` It might have been handed in."`
+char_mar: `"...............Mama said not to talk to policemen, even if they start talking to me."`
+char_non: `"Hm? Now why on Earth is that?"`
+char_mar: `"................................."`
+char_non: `It was probably because Rosa felt guilty for making such a young girl as Maria watch over the house by herself,`
+char_non: ` and because she knew that this was not socially acceptable.`
+char_non: `So she had indoctrinated Maria into changing the stores she bought things at so that she didn't catch the eyes of adults,`
+char_non: ` and saying no more than a greeting to policemen, even if they talked to her.`
+char_non: `Maria had obediently done as she was told.`
+char_non: `Instead of considering why she had to do that,`
+char_non: ` honestly obeying because her mother had told her so was far more important to her.`
+char_non: `But the manager of the convenience store probably didn't think of it that way.`
+char_non: `......Naturally, seeing such a young girl being forced to watch over the house alone,`
+char_non: ` and so frequently, would cause anyone to worry......`
+char_non: `......And then.`
+char_non: ` After making the round trip between her home and the store once more, and arriving at the convenience store for a third time...`
+char_non: `...a policeman was there.`
+char_non: `"That's the girl.`
+char_non: ` ......Maria‐chan, did you find your key?"`
+char_mar: `".........Uu...`
+char_mar: ` ......Can't find it......"`
+char_non: `"What's your name, little girl?"`
+char_mar: `"........................"`
+char_non: `The policeman asked her name, but Maria didn't answer.`
+char_non: `"Did your mother tell you not to talk with policemen?`
+char_non: ` Hahah.`
+char_non: ` Don't worry, no need to be scared of me.`
+char_non: ` Have you eaten dinner yet, little girl?"`
+char_mar: `".........Bought it, but can't get into the house, so I can't eat it."`
+char_non: `"What's your mother doing?`
+char_non: ` Is she not coming home today?`
+char_non: ` Is she working?"`
+char_mar: `"..................Uu."`
+char_non: `"Do you know how we can contact your mother's work?"`
+char_mar: `"........................"`
+char_non: `Maria hung her head limply.`
+char_non: `......She didn't understand why the policeman was getting mad at her.`
+char_non: `No, he probably wasn't getting mad at her, but if this reached her mother's ears, she would definitely be in trouble.`
+char_non: `Even if she didn't understand the reason why she would be in trouble, she at least understood that much.`
+char_non: `But the policeman wouldn't let Maria go.`
+char_non: `{n}And her head was swimming from hunger.`
+char_non: `The policeman noticed that, and it was decided that they could talk as they ate in the police box.`
+char_non: `......I was taken to the police box.`
+char_non: ` I had my oden heated in a microwave oven, and there were even {ruby:shio daifuku:salty rice cakes} and hot tea brought out for me.`
+char_non: `I'd been told not to talk to policemen,`
+char_non: ` ......but as I answered questions about Sakutaro, I started to feel like he wasn't a bad person, and...`
+char_non: `...I wouldn't be able to return home anyway, so I didn't know what to do, so...`
+char_non: `.........I told him Mama's work phone number,`
+char_non: ` ......which I wasn't supposed to tell anyone, and was told to use only in a very, very serious situation.`
+char_non: `In the tatami room inside the police box, as I ate the oden that was so hot it felt like it would burn me,`
+char_non: ` I watched the policeman making the phone call, and lazily thought, "......aah, I'm probably going to get in trouble..."`
+char_mar: `"............Is Mama...going to be mad at me.........?"`
+char_sak: `‘......Uryu.........’`
+char_non: `He must have been listening to the phone ringing for a very long time.`
+char_non: ` With the receiver up to his ear, the policeman looked up at the clock and grumbled.`
+char_non: `"............Maybe they aren't picking up because their business hours are over.`
+char_non: ` ......Hmmmmmm.`
+char_non: ` ......Ah.`
+char_non: ` Hello?`
+char_non: ` Hello?`
+char_non: ` Is this Auntie Rosa Co., Ltd.?"`
+char_non: `"This is the Komatsugawa Police Department police box in front of Senbonzakura Station.`
+char_non: ` Is President...umm, {c:86EF9C:Udaikan}...no, sorry, President Ushiromiya‐san available?`
+char_non: ` ............Yes.`
+char_non: ` ......Whaat?`
+char_non: ` {i:Vacation}?"`
+char_non: `"Yes.`
+char_non: ` The president's off for three days starting yesterday.`
+char_non: ` Umm, perhaps I could be of assistance...?"`
+char_non: `"Oh no no no, that's quite alright.`
+char_non: ` So, do you know where she may be?`
+char_non: ` Have you heard how she can be contacted, by any chance?"`
+char_non: `"Uhh, ......would you mind waiting for just a moment?`
+char_non: ` ...............Hey, anyone know where the president's taking her vacation?`
+char_non: ` How to get hold of her?"`
+char_non: `"Heard she was going for all‐you‐can‐eat crabs in Sapporo with her boyfriend.`
+char_non: ` Lucky girl, cold places are great for bringing a couple closer together, don't you think?`
+char_non: ` Haven't heard how to get in touch with them."`
+char_non: `"Okie‐dokie.`
+char_non: ` ......Uhh, hello.`
+char_non: ` I hear she went to Sapporo, but I'm not sure about how to reach her.`
+char_non: ` ......Can I take a message?"`
+char_non: `"Hmm, I see... That's awkward.`
+char_non: ` Well, if you make contact with her again, could you tell her that we called?`
+char_non: ` Yes, that's right."`
+char_non: `......After that, I was taken to the police station, which was bigger than the police box,`
+char_non: ` and they said I could spend the night there.`
+char_non: `And they asked me all kinds of things about myself.`
+char_non: `A lady who called herself the district welfare officer came by and asked about various things.`
+char_non: `And she said to me, "You poor thing".`
+char_non: `{n}When I heard that, I learned for the first time.`
+char_mar: `"............Am I.........a poor thing......?"`
+char_sak: `‘......Uryu......`
+char_sak: ` That's not true... You're happy, Maria......’`
+char_mar: `"...............Uu..."`
+char_non: `And......Rosa came back.`
+char_non: `Maria was told to go to her room,`
+char_non: ` ...but on her way back from the bathroom, she hid by the entrance to the living room and listened in on the exchange.`
+char_non: `The person who had come to visit...was the female district welfare officer who had asked Maria various questions the other day.`
+char_ros: `"Don't be so pushy!!`
+char_ros: ` Maria's heart is too innocent and delicate, so if there was an insensitive kid there, she could be hurt!!`
+char_ros: ` Please stop your unwanted meddling!!"`
+char_non: `"But in that case, ma'am,`
+char_non: ` if the child is so delicate, why leave her home all alone?`
+char_non: ` Shouldn't a mother be there for her child?"`
+char_ros: `"I am here for her as much as I can be!!`
+char_ros: ` I have no idea what makes you think I need ordering around...!!"`
+char_non: `"Really?`
+char_non: ` She is very well known in this area, you know.`
+char_non: ` They say that your daughter frequently goes out at night to buy things and eat.`
+char_non: ` Everyone was worried and looking out for her."`
+char_ros: `"How do you know that was my child?!!`
+char_ros: ` Children are a dime a dozen around town!!`
+char_ros: ` Don't just assume that it's my Maria!!"`
+char_ros: `"Kids sometimes walk around outside at night, don't they?!`
+char_ros: ` How can you prove that all of those are my child?!"`
+char_non: `"A girl holding a lion stuffed animal often came around to eat dinner and buy things.`
+char_non: ` She was very famous around the shopping district."`
+char_non: `"Everyone treated Maria‐chan with care out of concern for her.`
+char_non: ` Sometimes, people even escorted her home, thinking the streets might be dangerous at night."`
+char_ros: `"Y‐you can find lion stuffed animals anywhere!!`
+char_ros: ` It was none of their business, escorting her home!!`
+char_ros: ` Are they thinking of kidnapping her or something?!"`
+char_ros: `"Don't fuss over Maria!!`
+char_ros: ` Maria is my child.`
+char_ros: ` I am raising her!`
+char_ros: ` I have absolutely no intention of putting her in some strange institution!!`
+char_ros: ` Stop your needless meddling!!"`
+char_sak: `‘U‐......uryu......`
+char_sak: ` Does that lion stuffed animal...`
+char_sak: `...mean me......?’`
+char_mar: `"......It's alright.`
+char_mar: ` I'm the one who's in trouble...`
+char_mar: ` It has nothing to do with you, Sakutaro......"`
+char_non: `Maria hugged Sakutaro, continuing to watch her mother fearfully...`
+char_ros: `"I, I also wish I could be with Maria every day!"`
+char_ros: `"But I'm a single mother, so I have to work!`
+char_ros: ` I may not look it, but I'm a president of a company, and I bear the responsibility for my employees' well‐being!!`
+char_ros: ` I'm busy with my work all year round, there's no time for me to rest!!"`
+char_non: `"{i:Really}?`
+char_non: ` But you've been off work for the last three days, haven't you?"`
+char_ros: `"I, I have not been off work!`
+char_ros: ` I've been staying at my company for several nights working!!`
+char_ros: ` There's a mountain of matters to be taken care of that the other unreliable employees can't handle!!"`
+char_non: `"Why are you lying like that?`
+char_non: ` The people at your company told us that you were taking a three‐day vacation, you know?`
+char_non: ` You went to Hokkaido with your boyfriend, right?`
+char_non: ` Leaving your daughter by herself for three whole days...!"`
+char_ros: `"I, I don't know anything about any boyfriend I don't know anything about Hokkaido!!!`
+char_ros: ` Why are you coming out with all this nonsense?!`
+char_ros: ` Why, why?!`
+char_ros: ` Do you have any proof?!`
+char_ros: `[@][lv 0*"12"*"41400166"]`
+char_ros: `"I love Maria, I have my own way of loving her, so just keep your mouth shut!!`
+char_ros: ` I didn't go on a vacation, I was working the whole time, I was working!!"`
+char_ros: `"I was trying to finish things up at work with all my strength, all my strength because I wanted to see Maria as soon as I could!!`
+char_ros: ` I stayed at the company working and working and working and working and working, working and working and working and working!!"`
+char_ros: `"I don't know anything I don't know anything, I don't know anything about Hokkaido, don't come in saying all this!!! Uuuaaaa{0}a{0}a{0}a{0}a{0}a{0}a{0}a{0}a{0}a{0}a{0}AAa{0}a{0}aAA{0}A{0}A{0}A{0}A{0}AAHHH!!!`
+char_ros: ` Please, just go!!`
+char_ros: ` Just go!!!!!`
+char_ros: ` What is wrong with you?!?!`
+char_ros: ` Just go!!`
+char_ros: ` JUST GO{-}O{-}O{-}O{-}O{-}O{-}O{-}OOO!!!"`
+char_non: `Rosa raged, her hair flying wildly.`
+char_non: `She stood up with such force that her teacup fell over,`
+char_non: ` and far louder than that noise was the sound of her beating the table with both hands.`
+char_non: `When faced with this rage that could accurately be described as wide‐eyed derangement,`
+char_non: ` the female welfare officer couldn't help but be taken aback.`
+char_non: `......And the same went for Maria, who was secretly watching this from the hallway.`
+char_non: `She had seen her mother enraged several times before.`
+char_non: `{n}But she had never seen her go this berserk with anger.`
+char_non: `Seeing this, Maria was sure.`
+char_non: `{n}......This was no longer her mother.`
+char_non: `It was some other evil being that was possessing her mother's body...`
+char_non: `And then, the evil being discovered her.`
+char_non: `{n}Maria learned that she was being reflected in the evil being's eyes.`
+char_non: `Her mind went blank, and she felt as though her field of vision was racing off into the distance......`
+char_non: `After fiercely closing in on Maria, Rosa mercilessly bore down on her small shoulders,`
+char_non: ` ......and dropped her gaze onto the stuffed animal Maria was holding: Sakutaro.`
+char_ros: `".........Maria.`
+char_ros: ` Even though I told you so many times not to bring that outside,`
+char_ros: ` ......you brought it with you, didn't you?"`
+char_sak: `‘U‐......uryu.........`
+char_sak: ` I‐it's not Maria's fault......`
+char_sak: ` I said I'd come with her......’`
+char_mar: `"Th‐that's not true......!`
+char_mar: ` I brought Sakutaro on my own because I was lonely...!`
+char_mar: ` So Mama, it's not Sakutaro's fault...!!"`
+char_sak: `‘Uryu...... Maria.........’`
+char_mar: `"It's not Sakutaro's fault!!`
+char_mar: ` It's not Sakutaro's fault!!"`
+char_non: `The brunt of Rosa's anger was aimed, not at Maria, but at the lion stuffed animal Maria was holding.`
+char_non: `......A girl came shopping in the middle of the night, always clutching a lion stuffed animal.`
+char_non: `Because of that, she had become well known in the shopping district...`
+char_ros: `"I,`
+char_ros: ` ......I,`
+char_ros: ` ...I told you not to take stuffed animals with yo{-}o{-}o{-}o{-}o{-}o{-}o{-}o{-}ouuu!!!`
+char_ros: ` Why—!!`
+char_ros: ` Can't you—!!`
+char_ros: ` Listen to what Mama says!!"`
+char_ros: `"Why?!`
+char_ros: ` Why, why?!`
+char_ros: ` Why can't you follow Mama's ru{-}u{-}u{-}u{-}u{-}u{-}ules!!"`
+char_non: `With every single word, she stamped her heel and banged furiously on the wall.`
+char_non: `......Admittedly, she wasn't making direct contact with Maria.`
+char_non: `However, the violence of that harsh sound certainly beat against her.`
+char_non: `"M‐Ma'am...... Stop that......!!"`
+char_ros: `"Let go!!`
+char_ros: ` I said let go, damn iiiiiiiiiiiit!!"`
+char_non: `The welfare officer had come back to her senses and put Rosa in a full nelson.`
+char_non: `But the instant Rosa was touched, she went wild, furiously throwing the welfare officer off.`
+char_non: `......She hit the table and fell to the ground.`
+char_non: ` A teacup on the table smashed on the floor, making a violent sound...`
+char_sak: `‘M‐......Maria didn't do anything wrong......!`
+char_sak: ` It's my fault!`
+char_sak: ` So don't scold Maria......!!’`
+char_mar: `"I'm the one who brought Sakutaro...!!`
+char_mar: ` It's not Sakutaro's fault!!`
+char_mar: ` It's not Sakutaro's fault!!`
+char_mar: ` So don't look at Sakutaro with those scary eyes!!`
+char_mar: ` Don't look at hiiiiiiiiiiiiiiiiim!!"`
+char_sak: `‘Don't scold Maria...!`
+char_sak: ` Don't scold Maria...!!`
+char_sak: ` Uryuuu!!!’`
+char_ros: `"........................Wh‐.........what in the...`
+char_ros: ` Just what do you think you're doing?"`
+char_ros: `"Did you...also play with dolls like that......outside?`
+char_ros: ` Did you do it in front of the people at the store......?"`
+char_ros: `"........................`
+char_ros: ` Then OF COURSE they remembered yoooooooou,`
+char_ros: ` THINK a little, you idiot!! Why are you such a DUMBAA{-}A{-}A{-}A{-}A{-}A{-}A{-}A{-}AAASSS!!!"`
+char_ros: `"Answer me honestly.`
+char_ros: ` When you went out shopping, you always walked around with that stuffed animal without telling Mama, right?"`
+char_sak: `‘.........U‐......uryu.........’`
+char_ros: `"Stop using that weird stuffed animal talk!!!`
+char_ros: ` Speak with your own words, not a stuffed animal's!!!"`
+char_mar: `"S‐Sakutaro isn't a stuffed animal!!`
+char_mar: ` He's my friend!!`
+char_mar: ` Don't call him a stuffed animal......`
+char_mar: ` Dooo{-}o{-}o{-}o{-}o{-}o{-}o{-}o{-}o{-}o{-}o{-}o{-}o{-}o{-}o{-}o{-}oon't!!"`
+char_ros: `"Yes, yes, fine, Sakutarou, it was called Sakutarou!`
+char_ros: ` You took that Sakutarou doll with you all the time when you went shopping, without telling Mama, right?"`
+char_mar: `"Y‐......yeah..............."`
+char_non: `Maria admitted it honestly.`
+char_non: `If she hadn't admitted it, then Sakutaro would have said something to take the blame,`
+char_non: ` so by admitting it right away, she was protecting her small friend.`
+char_ros: `"Only Sakutarou?`
+char_ros: ` Any others?`
+char_ros: ` ......You haven't...been bringing weird things to school too, have you...?"`
+char_non: `"......M‐Ma'am!!`
+char_non: ` This is not your daughter's fault!`
+char_non: ` Stop this interrogation at once!"`
+char_ros: `"You bite your tongue!!!`
+char_ros: ` I am talking with my daughter!!!`
+char_ros: ` ......Alright, Maria, look at Mama when you talk.`
+char_ros: ` What's the answer to Mama's question?"`
+char_mar: `"U‐......uu......`
+char_mar: ` ......Not just Sakutaro.`
+char_mar: ` ......All the rabbits too......"`
+char_ros: `".........Do you have them with you now......?"`
+char_mar: `"Uu........."`
+char_non: `Maria fished around in her pocket,`
+char_non: ` ......and pulled out those four ceramic rabbits with her tiny hand...`
+char_non: `The rabbits were her precious friends, who could go to school with her in Sakutaro's place.`
+char_non: `But when Rosa saw that, she shook her head slightly as though dizzy...`
+char_non: `In Maria's {c:86EF9C:communication booklet}, a note had been written that Maria was apparently bringing toys to school and playing with them,`
+char_non: ` and it requested Rosa to give her home instruction to try to prevent this.`
+char_non: `But Rosa had dismissed the teacher's comment as faultfinding, and on the contrary, had phoned the school to make a complaint of her own.`
+char_non: `...Saying that there was no way her child would bring toys to school.`
+char_non: `For nearly an hour, she had shouted at the vice principal to stop making false accusations about her daughter.`
+char_non: `......To a certain degree, the school grasped that Maria was a pitiful girl.`
+char_non: `They knew that the small toys she brought in were her only friends.`
+char_non: `......So they had done their best to overlook it.`
+char_non: `But when the other students caught sight of them,`
+char_non: ` some of the boys started complaining that only she was allowed to bring toys, and the school had racked their brains on how to cope with this......`
+char_non: `They had tried to gently send a warning by way of the mother,`
+char_non: ` but after Rosa's overreaction, even Maria's teacher had decided to overlook it.`
+char_non: `.........But now Rosa knew.`
+char_non: `She had been the one who was wrong, ...and her daughter really had been bringing toys into school.`
+char_non: `.........And the school...`
+char_non: `had seen the sorry sight of her bringing toys into school and playing with them as her only friends.`
+char_non: `To Rosa, who knew her daughter was a little different from normal children,`
+char_non: ` having this peculiar side of her daughter exposed and found fault with was more unbearable than anything.`
+char_non: `.........So she howled.`
+char_non: ` She raged.`
+char_non: `The welfare officer tried to cut between Rosa and Maria again,`
+char_non: ` but she only met with Rosa's wrath again.`
+char_non: `Rosa once again threw the woman off with a face like a demon,`
+char_non: ` and when even that failed to curb her anger, she stomped on the ground over and over again so forcefully that it seemed she might break through the floor.`
+char_non: `Then, after seeming to come back to her senses for just a second,`
+char_non: ` .........she suddenly froze her rough breathing, and asked Maria.`
+char_ros: `"........................`
+char_ros: ` ......Maria.`
+char_ros: ` Those rabbits in the band, are they your close friends?"`
+char_mar: `"U‐.........uu........."`
+char_ros: `"I see.`
+char_ros: ` I'm glad you have a full four friends."`
+char_non: `As she said that, Rosa took one of the rabbits from Maria's hand.`
+char_non: `Then, she shoved it in front of Maria's eyes so she could see it very well.`
+char_non: `......It was a cute little doll, like a chess piece, of a rabbit holding a trumpet.`
+char_non: `She slowly lifted it into the air.`
+char_non: `......Of course, Maria's and Sakutaro's eyes also followed it......`
+char_non: `And then, with a speed that the eye couldn't follow, she hurled it against the wall.`
+char_mar: `"Eek—!!!!"`
+char_sak: `‘...............!!!’`
+char_non: `She had half‐imagined that this worst possible thing might happen.`
+char_non: `{n}So she instantly realized what had been done.`
+char_non: `......So Maria let out a short, despairing scream...`
+char_non: `It was in pieces.`
+char_non: `It had been small and sturdy, but not enough to accept her mother's fierce rage.`
+char_ros: `".........Because you didn't listen to what Mama told you, one of them broke.`
+char_ros: ` From now on, every time you disobey something Mama says, I'll break another one.`
+char_ros: ` ......Remember that!!!"`
+char_non: `"You......you call yourself a mother after doing something like that?!!`
+char_non: ` You think you can do something like that without hurting your daughter?!"`
+char_ros: `"Hurt {i:Maria}?!`
+char_ros: ` I'm hurting too, you know?!`
+char_ros: ` Who's gonna take responsibility for {i:my} wounds?!`
+char_ros: ` Weeeell?!`
+char_ros: ` WHOOOOOOOO!!!`
+char_ros: ` I told you to bite your tongue!!!!!"`
+char_mar: `"S‐stop it, Mama......!`
+char_mar: ` It's my fault...!`
+char_mar: ` Don't get mad at this lady......!"`
+char_sak: `‘It isn't Maria's fault... It's mine......!`
+char_sak: ` Don't get mad at Maria...!`
+char_sak: ` Uryu, uryu‐uryu‐uryu, uryuuu!’`
+char_ros: `"I, .........I told you to stop playing make‐believe with that stuffed animaaaaaaaal!!`
+char_ros: ` In the first place, it's disturbing, a stuffed animal is your friend? Just how old are you this year?!`
+char_ros: ` How old?!`
+char_ros: ` Weeelll?!"`
+char_ros: `"This is just a gross, crappy stuffed animal made of cloth and cotton!!`
+char_ros: ` Is this the only kind of friend you have?!`
+char_ros: ` If you have enough time on your hands to play make‐believe friends with this monstrous stuffed animal, go out and make some real human friends instead!!"`
+char_ros: `"Why is it that time goes on and on and you still can't make any friends?!!`
+char_ros: ` That's why your class always treats you like a weirdo and makes fun of you!!`
+char_ros: ` Cut it out, give it a rest, get ahold of yourself already!!`
+char_ros: ` Grow up from this stuffed‐animal play!!"`
+char_sak: `‘Uryu......`
+char_sak: `uryu.........’`
+char_ros: `"I said...stop playing make‐believe...with that stuffed animaaaaaaaal!!"`
+char_mar: `"Aaah!!`
+char_mar: ` Mama, Mama!!`
+char_mar: ` Give him back!`
+char_mar: ` Give Sakutaro baaaaaaaaaaack!!"`
+char_sak: `‘Uryuu!!`
+char_sak: ` Uryuuu!`
+char_sak: ` Uryu‐uryuu!’`
+char_non: `Mama grabbed hold of Sakutaro's head, and snatched him from me...`
+char_non: `{n}Then.........she smashed him against the wall, over and over.`
+char_sak: `‘Uryuu!!`
+char_sak: ` It hurts, it hurts, ow‐ow‐ow‐ow...!!’`
+char_ros: `"Fucking STOP!!`
+char_ros: ` Fucking STOP playing make‐believe with this stuffed animal!!!!!`
+char_ros: ` It's because of this stuffed animal!!"`
+char_ros: `"That's why you can never make any friends!`
+char_ros: ` That's why you're the only one in your class who sticks out like a sore thumb, and gets treated like a weird kid!!`
+char_ros: ` I should never have given you a stuffed animal like this!!`
+char_ros: ` I should never have given you this disgusting stuffed animal!!"`
+char_mar: `"Stop iiiiiiiiiiiit!!"`
+char_mar: `"Give Sakutaro back, give Sakutaro back!!`
+char_mar: ` WaaaA{0}A{0}A{0}A{0}a{0}a{0}a{0}a{0}a{0}A{0}A{0}A{0}A{0}a{0}a{0}a{0}A{0}a{0}a{0}AahHH!!`
+char_mar: ` Sakutaro is my friend!!`
+char_mar: ` My best friend!!`
+char_mar: ` I don't need anything else if I just have Sakutaro!`
+char_mar: ` So give him back!!`
+char_mar: ` Give him baaaaaaaack!!"`
+char_non: `......For some reason, my frantic request just added oil to the fire of Mama's anger......`
+char_non: `As I pulled on Sakutaro trying to take him back, Mama pushed my arm aside,`
+char_non: ` and in a bizarre way, she stuck her fingernails on both hands deep into Sakutaro, twisting him......`
+char_non: `The red scarf, which I had carefully wrapped for him every day, came undone and fell to the floor...`
+char_non: `......Sakutarou, who had been so, so precious to me......`
+char_non: `He was crumpled, twisted, torn at with fingernails so much......`
+char_non: `He was twisted in pain...`
+char_non: `his face grimacing...`
+char_non: `so sadly.........`
+char_non: `Then Mama's fingernails...`
+char_non: `...found a stitch on the neck`
+char_non: `......and tore it...`
+char_non: `......With the fingernails of both hands`
+char_non: `......she tore him apart............`
+char_non: `In that instant,`
+char_non: ` .........Sakutaro's yellow cloth,`
+char_non: ` .........and the cotton inside, ...burst apart......`
+char_non: `It looked almost like moist cotton candy......`
+char_sak: `‘......U‐...............ryu.....................’`
+char_mar: `"...kutaro............?"`
+char_sak: `‘......Ma......ria.........’`
+char_mar: `".........Sakutaro............"`
+char_sak: `‘U......ryu......{m:-5:―――}’`
+char_mar: `"...............kutaro............"`
+char_sak: `‘{m:-5:―}―...... . . .   .         ’`
+char_mar: `".........ta...ro........."`
+char_non: `‘’`
+char_non: `...`
+char_non: `.........The crumpled yellow cloth and the cotton candy that was flowing out were thrust right in front of my eyes.`
+char_non: `Then, ......through Mama's face, the evil being...stated it clearly.`
+char_ros: `"{i:Sakutarou is dead}."`
+char_non: `mabapennedbisgeck.`
+char_non: `gikuguki`
+char_non: `......kutaro`
+char_non: `......sakuta`
+char_non: `...o`
+char_non: `...ecknaped.........`
+char_non: `......uuuuu.`
+char_non: `uwaaaaaaaaaaaaauuuuuuuuuu......`
+char_non: `{n}waaaaaaaaaaaaauuuuuuuuuuuu......`
+char_non: `gudaro......`
+char_non: `sagudaro......`
+char_non: `......waaaaaaaaaaaaaaauuuuuuuuu............`
+char_bea: `"{f:5:Maria}...... ......{f:5:Maria}.........`
+char_bea: ` ...Do not cry......"`
+char_mar: `"{f:5:Beatrice}, {f:5:Beatrice}...!!`
+char_mar: ` Waaaaaaaaaaaaaaaaaahhh!!`
+char_mar: ` Waaaaaaaaaaaaaaahhh!!"`
+char_bea: `"Sakutarou was a good friend...`
+char_bea: ` As long as you do not forget that, he will always be with you...`
+char_bea: ` So do not cry..."`
+char_mar: `"Bring him back to life!!`
+char_mar: ` You can use a lot of magic, Beato!!`
+char_mar: ` You can bring Sakutaro back to life as well, right?!"`
+char_bea: `"............A‐about that......`
+char_bea: ` ...Of course, if Sakutarou had been my furniture, it would be easy.`
+char_bea: ` However, Sakutarou is your furniture.`
+char_bea: ` ......That makes it difficult for me."`
+char_mar: `"Difficult but not impossible, right?!`
+char_mar: ` Bring him back to life!!`
+char_mar: ` Bring him back to life with the Endless Magiiiiiic!"`
+char_bea: `".........Hmm...`
+char_bea: ` ......To tell the truth...`
+char_bea: ` Sakutarou's vessel was a stuffed animal Rosa made herself, correct...?`
+char_bea: ` That Rosa has denied Sakutarou.`
+char_bea: ` ......A life that is not permitted by its own mother cannot exist..."`
+char_non: `{f:5:Beatrice}'s words were feeble.`
+char_non: `...Because she knew that, no matter what the excuse,`
+char_non: ` it wouldn't be enough to calm Maria and make her accept it.`
+char_non: `But she had to communicate the painful truth to her disciple and close friend.`
+char_non: `.........She had to tell her the fact...`
+char_non: `...that even with all of her own magic, even she could not revive Sakutarou.`
+char_bea: `"As long as you continue to strongly believe in Sakutarou's existence, his soul will not disappear......`
+char_bea: ` So, {f:5:Maria}, ...please, do not be sad...`
+char_bea: ` Even now, look, ...you must believe that Sakutarou is smiling right over there......"`
+char_mar: `"No!!!`
+char_mar: ` No`
+char_mar: ` no`
+char_mar: ` no!!`
+char_mar: ` You have to bring Sakutaro back to life!!`
+char_mar: ` No no no!`
+char_mar: ` WaaA{0}AAa{0}a{0}a{0}aAAa{0}a{0}aAa{0}aAahhhh!!"`
+char_bea: `"Give up...!!`
+char_bea: ` There is no magic to revive Sakutarou...!`
+char_bea: ` You must strongly believe that even in spite of that, Sakutarou will continue to exist as your close friend...!!`
+char_bea: ` That power will become magic...!"`
+char_mar: `"That's not magic, that's not magic!!`
+char_mar: ` You have to bring Sakutaro back to life...!!"`
+char_mar: `"Can't you do it because Mama made him herself?`
+char_mar: ` Why did Mama make Sakutaro?`
+char_mar: ` Wasn't it to give him to me as a present?`
+char_mar: ` Wasn't it to make him my friend?"`
+char_mar: `"But why...did Mama make him herself...and break him herself?`
+char_mar: ` Why did Mama create him herself, and try to break him herself?`
+char_mar: ` Don't get it, don't get it!!"`
+char_mar: `"Hate Mama, hate Mama...!!`
+char_mar: ` Can't stand it, can't stand it, it's too much, it's too much...!!`
+char_mar: ` Want to twist Mama up like she did to Sakutaro...!`
+char_mar: ` Want to stick my fingernails in and tear her, turn her into cloth and cotton!!"`
+char_mar: `"Waaaaaaaaaaaaaaahhh!!`
+char_mar: ` Can't stand it, I can't stand it, {f:5:Beatriceeee}!!`
+char_mar: ` Waa{0}a{0}a{0}a{0}a{0}a{0}a{0}a{0}a{0}a{0}a{0}a{0}aahhh, Sakutaroooooooo!!!!"`
+char_non: `From the darkness behind Maria's back, two massive jet‐black arms crept out,`
+char_non: ` coiling around Maria as she sobbed in anger.`
+char_non: `Then massive fingernails stuck into Maria's chest and stomach......`
+char_non: `Maria could not see them.`
+char_non: `{n}......But Beato could.`
+char_non: `Anger and sadness without any place to go will tear you apart.`
+char_non: `......Beato knew that.`
+char_non: ` She could see that.`
+char_non: `Yes.`
+char_non: ` ......In the end, those massive arms were Maria's own.`
+char_non: `Those fingernails slowly started to dig into her chest and stomach......`
+char_non: `......With their immense size and strength,`
+char_non: ` those arms would probably tear Maria into bits easily......`
+char_non: `But Maria herself couldn't notice.`
+char_non: `Drowning in a sea of her own tears, ......she couldn't notice that her own arms were trying to tear apart her own chest......`
+char_mar: `"Can't stand it, can't stand it...!!!`
+char_mar: ` If Sakutaro can't be brought back to life no matter what, ......I want revenge!!`
+char_mar: ` Want to make the same thing happen to Mama!!`
+char_mar: ` Want to make her suffer the same thing as Sakutaro...!"`
+char_mar: `"{f:5:Beatrice}!!`
+char_mar: ` Teach me magic for that!!`
+char_mar: ` Teach me magic to get back at Mama...!!"`
+char_bea: `".................................`
+char_bea: ` ......Are those your true feelings?"`
+char_mar: `"I'll kill Mama!!`
+char_mar: ` I'll kill her!!`
+char_mar: ` No, that's not Mama!`
+char_mar: ` It's the bad witch possessing Mama!`
+char_mar: ` I'll kill the witch Mama!!`
+char_mar: ` Uuu{0}u{0}u{0}u{0}u{0}u{0}u{0}u{0}u{0}u{0}u{0}u{0}u{0}u{0}u{0}uuu!!"`
+char_bea: `"........................`
+char_bea: ` ......Very well.`
+char_bea: ` I shall give you that power.`
+char_bea: ` ......If you, beautiful of heart, shall otherwise be torn asunder by your own hand...`
+char_bea: `...then I find your heartless mother, who brought such suffering upon you, considerably more deserving of such a fate."`
+char_bea: `"...............I shall teach you.`
+char_bea: ` ......Of the abyss in the world of witches, of the depths where no light reaches......"`
+char_mar: `"Uuuuuuuu, Sakutaro, Sakutaro...!!`
+char_mar: ` I hate everyone, I hate them, I HATE THEM!!`
+char_mar: ` Hate Mama, hate Ange!!`
+char_mar: ` Hate everyone, EVERYONE!!`
+char_mar: ` Uuuuuuwaa{0}a{0}aaAAA{0}A{0}A{0}A{0}A{0}A{0}AAAAHHH......!!"`

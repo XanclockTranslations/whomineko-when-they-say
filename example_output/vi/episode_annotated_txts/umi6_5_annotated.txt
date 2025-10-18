@@ -1,0 +1,615 @@
+char_sha: `"......Back then I was, and I guess I still am, a bit of a klutz...`
+char_sha: ` I'd always forget where I'd put things...`
+char_sha: `or intend to lock something but then forget......I caused a lot of trouble."`
+char_geo: `"Hahaha, I remember how Aunt Natsuhi used to get mad at you all the time."`
+char_jes: `"But eventually, Shannon managed to overcome her forgetfulness."`
+char_but: `"Oh, and how'd you do that?"`
+char_sha: `"......Heheh.`
+char_sha: ` It wasn't anything big, ......but I got into the habit of writing things down.`
+char_sha: ` I'd write down wherever I put something important.`
+char_sha: ` ......For things that were part of the daily routine, I made a checklist and always made sure to check it......"`
+char_eri: `"So?`
+char_eri: ` Did you see {f:5:Beatrice} or didn't you?"`
+char_sha: `"Oh, umm,`
+char_sha: ` ......I didn't see her directly,`
+char_sha: ` ......but, umm,`
+char_sha: ` ......some very strange things did happen..."`
+char_non: `She was talking about a certain summer night.`
+char_non: `It was when Shannon was doing the nightly rounds......`
+char_non: `{n}From her perspective, it was a ghost story.`
+char_non: `From the witch's perspective, ......it was just the story of a little summer's night prank...`
+char_be3: `"My little sister.`
+char_be3: ` Do you understand the anti‐magic toxin that {y:0:Human}{n:0:human}s possess?"`
+char_bea: `"N‐no.`
+char_bea: ` What is that, Onee‐sama?"`
+char_be3: `"Hmm.`
+char_be3: ` The time of witches has long since passed.`
+char_be3: ` ......Those vile {y:0:Human}{n:0:human}s who claim to control everything came to deny our existence and possess a strong toxin."`
+char_bea: `"Is that toxin harmful to us...?"`
+char_be3: `"It is extremely dangerous.`
+char_be3: ` If it got to us, our forms would probably evaporate in an instant.`
+char_be3: ` However, one thing we do have in our favor is the fact that our existence is still extremely weak.`
+char_be3: ` Because of that, the toxin does not affect us greatly.`
+char_be3: ` At worst, it can only transform us into mist for a time."`
+char_bea: `"However, we'd rather avoid it if we can, right?"`
+char_be3: `"Correct.`
+char_be3: ` Yes, I see that you are me.`
+char_be3: ` You understand quickly."`
+char_non: `The older sister appeared to be haughty at first,`
+char_non: ` .........but, perhaps because she was so happy to have met her double and little sister, she was more than willing to teach her anything she wanted to know.`
+char_non: `The first thing she had taught her was that they were witches,`
+char_non: ` a different type of being than {y:0:Human}{n:0:human}s.`
+char_non: `Beato had thought that she wasn't a witch because she couldn't use magic,`
+char_non: ` but apparently, she was still a witch nonetheless.`
+char_non: `Then she was taught that witches such as her, unlike {y:0:Human}{n:0:human}s, were bound by various restrictions.`
+char_non: `The greatest of those restrictions was the anti‐magic toxin possessed by {y:0:Human}{n:0:human}s.`
+char_bea: `"So, in other words, we mustn't enter a {y:0:Human}{n:0:human}'s field of vision..."`
+char_be3: `"Correct.`
+char_be3: ` You can think of it as though {y:0:Human}{n:0:human} eyes radiate the toxin.`
+char_be3: ` If they see you, it is the same as your body being burnt.`
+char_be3: ` Though they are lesser in extent, being heard or sensed can also result in contact with the toxin."`
+char_bea: `"......So, it's dangerous just for us to get close to {y:0:Human}{n:0:human}s..."`
+char_non: `Wasn't Father a {y:0:Human}{n:0:human}...?`
+char_non: `{n}Why am I not burnt by Father's toxin......?`
+char_be3: `"If we stock up magical power and have it acknowledged by {y:0:Human}{n:0:human}s, that toxin can be reduced drastically.`
+char_be3: ` In other words, by having our existence acknowledged by {y:0:Human}{n:0:human}s, we make them lose their toxin,`
+char_be3: ` making it possible for us to appear before them once more."`
+char_bea: `"I see......`
+char_bea: ` Simply put, as we are now, we can only exist when {y:0:Human}{n:0:human}s aren't around..."`
+char_be3: `"We are still very lacking in magical power,`
+char_be3: ` which makes us inferior to even a stray cat hiding from {y:0:Human}{n:0:human}s in the shadows."`
+char_non: `The main goal of the older sister was to gain a large supply of magical power and be revived as a Great Witch strong enough to have no fear of the anti‐magic toxin.`
+char_non: `For that purpose, she had wandered around the mansion night after night,`
+char_non: ` striving to regain her magical power and reduce the anti‐magic power of the {y:0:Human}{n:0:human}s...`
+char_non: `The powerful previous {f:5:Beatrice}, whom she had read about in {f:5:Featherine}'s library,`
+char_non: ` had appeared openly in front of {y:0:Human}{n:0:human}s and had even toyed with them at will.`
+char_non: `......According to her big sister, such a level of power was most impressive.`
+char_be3: `"To think that a witch could appear openly before humans and use magic at will!`
+char_be3: ` ......A witch like that would be so great that even I can hardly imagine it.`
+char_be3: ` Is that what we will eventually become?"`
+char_bea: `"Yes.`
+char_bea: ` ......She was like a witch from a picture book, appearing openly before the {y:0:Human}{n:0:human}s of the mansion and summoning magic and underlings at will..."`
+char_be3: `"Hmmm, how inspiring.`
+char_be3: ` If that is our future, it means that all of our hard work will be worth it."`
+char_bea: `"Yes, it will.`
+char_bea: ` ......Anyway, Onee‐sama.`
+char_bea: ` What does going around unlocking windows like this have to do with the hard work you're talking about...?"`
+char_non: `It was the middle of the night.`
+char_non: ` They were following behind servants who were checking the locks on the doors and windows and undoing those locks after the servants thought they had locked them.`
+char_non: `......It felt more like a child's prank than the work of a witch...`
+char_be3: `"Heheheh, this is the path that leads to becoming a Great Witch.`
+char_be3: ` All journeys begin with a single step.`
+char_be3: ` To those who cannot understand, that first step may look quite foolish from time to time.`
+char_be3: ` However, it is still a momentous first step...!"`
+char_non: `With pride, as though making the first step for mankind on the surface of the moon,`
+char_non: ` the older sister undid the lock on a window with a click.`
+char_be3: `"Do you not understand, my little sister?`
+char_be3: ` Can you not see what makes something like this momentous?"`
+char_bea: `"............?`
+char_bea: ` No, Onee‐sama.`
+char_bea: ` ......I don't really understand."`
+char_non: `The older sister closed her eyes lightly, smiled, and opened the unlocked window a crack.`
+char_non: `Cool outside air flowed in, making the curtains flutter.`
+char_be3: `"Let us put it in the toxin‐filled words of a {y:0:Human}{n:0:human}.`
+char_be3: ` ......We are not supposed to exist on this island.`
+char_be3: ` I shall go further.`
+char_be3: ` "Right now, there is no one in this corridor".`
+char_be3: ` And yet, the lock has been undone, ......and the window has opened.`
+char_be3: ` ......Can you see how great a miracle, a work of magic, ......a proof of our existence that is?`
+char_be3: ` Even you should understand the coolness of this breeze..."`
+char_bea: `"......I do understand.`
+char_bea: ` It's nice and cool..."`
+char_be3: `"The coolness, the softness of the breeze.`
+char_be3: ` ......And the feel of the fluttering curtain touching your hair.`
+char_be3: ` ...All of these things show that we truly do exist here."`
+char_bea: `"So, ......by unlocking a window like this, we can leave behind proof that we really did exist."`
+char_be3: `"......And that is why I unlock them."`
+char_non: `Of course, it wasn't just small pranks like opening a window.`
+char_non: `......She could also smash windows and vases or leave behind strange fires and mysterious scribbles.`
+char_non: `In fact, one time, she actually did play a large‐scale prank in the kitchen,`
+char_non: ` piling up kitchenware in an eerie manner and leaving behind a bizarre scribble, which scared the servants considerably.`
+char_non: `It had been a complete success.`
+char_non: `It had been truly terrifying, and she had succeeded in making the servants acknowledge the existence of magic, weakening the anti‐magic toxin...`
+char_non: `However, she chose to make her presence known by unlocking windows.`
+char_non: `By doing this, ......she could release herself from the restrictions imposed by the {y:0:Human}{n:0:human}s' toxin.`
+char_be3: `"One day,`
+char_be3: ` I will—no, we will become a single witch and control all of Rokkenjima.`
+char_be3: ` ......When that time comes, we will gain complete freedom and will be capable of stretching our wings as we please."`
+char_non: `We won't have to be afraid of anyone's gaze anymore.`
+char_non: `We'll be able to fly wherever we wish, disappear whenever we want.`
+char_non: ` Laugh however we like, prank however we like, talk with anyone we want to.`
+char_non: `{y:0:Human}{n:0:Human}s might ask things of us from time to time.`
+char_non: `{n}They might fight with us or play with us too.`
+char_non: `What wonderful things for us frail creatures,`
+char_non: ` who cannot appear before anyone, to look forward to......`
+char_be3: `"......Right now, they are little more than pranks.`
+char_be3: ` However, as they pile up, proof that we exist will begin to gather.`
+char_be3: ` The servants already call me the witch {f:5:Beatrice}, master of the night,`
+char_be3: ` and are beginning to believe in me bit by bit."`
+char_bea: `"The more they believe, the more those {y:0:Human}{n:0:human}s will lose their anti‐magic toxin..."`
+char_non: `......I see...`
+char_non: ` So, this means that Father has no anti‐magic toxin.`
+char_non: `And.........that's because he truly believes in the existence of the witch I am, without any doubts.`
+char_non: `I finally realized that, though I'd thought him to be cold, Father did possess a kindness that couldn't be seen......`
+char_bea: `"I'd like to become a great witch and appear in front of everyone soon."`
+char_be3: `"Mm.`
+char_be3: ` Eventually, we will be able to appear openly in front of anyone.`
+char_be3: ` By doing that repeatedly, we will make people believe in us, ...and eventually, we shall display even our magic for all to see.`
+char_be3: ` ......After that happens, we will descend upon Rokkenjima as the Great Witch you told me of. Ahahahahaha!"`
+char_fea: `"......The logic of the witch side is very interesting.`
+char_fea: ` It keeps me entertained."`
+char_enj: `"It does sound credible, in a way.`
+char_enj: ` When {y:0:Human}{n:0:human}s are warned that they're about to enter a famously haunted place, a hot spot for ghosts,`
+char_enj: ` they're likely to start yelling "ghost, ghost!" at the drop of a hat."`
+char_fea: `"That's right.`
+char_fea: ` All phenomena are fundamentally neutral, indifferent, and dull.`
+char_fea: ` ......If one wishes to have them be accepted in a certain manner, they must first create a suitable environment..."`
+char_enj: `"If a person has charisma, people will interpret what they do in a positive way, even when they screw up.`
+char_enj: ` ......I see.`
+char_enj: ` I guess in that sense, the Beatos' small efforts aren't for nothing."`
+char_fea: `"If it were just the mansion's locks being undone, everything could be resolved by saying that someone forgot to lock up or that it was some kind of prank.`
+char_fea: ` ......It is the rumors of a witch wandering about the mansion night after night that give form to the existence of the witch."`
+char_enj: `"An environment was established such that, if anything strange happened in the mansion at night, it would all be viewed as the work of the witch.`
+char_enj: ` ......I get it. If things reached a point where no one questioned that logic,`
+char_enj: ` it would mean the same thing as a witch existing in the mansion at night."`
+char_non: `After the Beatos finished their mischief of unlocking and opening the window,`
+char_non: ` they enjoyed the coolness of the wind and the brightness of the moon, then became gold butterflies and disappeared into the darkness.`
+char_non: `......There was no way of knowing whether the window they had opened had actually been opened by them.`
+char_non: `The servants might have forgotten to lock up,`
+char_non: ` or one of the family might have opened it after the servants had locked up and forgotten to shut it again,`
+char_non: ` or maybe someone had played a prank.`
+char_non: `In the same way that none of those possibilities could be denied,`
+char_non: ` ......it was also impossible to deny the possibility that a witch really had opened a window to enjoy the night breeze......`
+char_enj: `".........An outcome without an observer can possess an endless number of ways in which it might have occurred.`
+char_enj: ` ...Those {y:0:Human}{n:0:human}s who can only conceive of a single possibility are unable to imagine anything."`
+char_fea: `"However, people who believe in the possibility of a witch can imagine that it was a witch's prank.`
+char_fea: ` ......When that happens, the scene of the {f:5:Beatrice}s' prank that we have just seen is etched into the fragment as a fact..."`
+char_enj: `"......That's one of the foundations of magic.`
+char_enj: ` Decorating...the process."`
+char_non: `With just a little magic, even a mass‐produced stuffed animal...`
+char_non: `...can be reborn as a wonderful, unique stuffed animal filled with a mother's love.`
+char_non: `If you doubt it, ......it will be burnt by the anti‐magic toxin.`
+char_non: `{n}If you believe it, the magic will become the truth.`
+char_enj: `"..............................`
+char_enj: ` ......Not all magic is bad.`
+char_enj: ` ......Maria onee‐chan was right.`
+char_enj: ` ......Good magic exists too."`
+char_fea: `"The power to repel evil magic may be necessary for a child of man.`
+char_fea: ` However, it is part of the love of the human world not to burn away and defile love‐filled magic."`
+char_enj: `".....................`
+char_enj: ` ......Well, good magic is the only kind I'm willing to allow.`
+char_enj: ` ......For all other kinds, the best remedy is to deny them and burn them away."`
+char_fea: `"Heheheheheheheh...`
+char_fea: ` A typical answer for a child of man."`
+char_enj: `"Getting back to the point.`
+char_enj: ` ......What all this tells me...`
+char_enj: `is that the ghost {f:5:Beatrice}, who was called the ruler of Rokkenjima's night, doesn't really exist.`
+char_enj: ` It's nothing more than a general term for any inexplicable occurrences that took place in the mansion at night.`
+char_enj: ` In other words, {f:5:Beatrice} isn't the name of a person, it's the name of a phenomenon."`
+char_non: `If anything bizarre happens, it all becomes the work of the Golden Witch...`
+char_non: `Any environment in which "there could be a witch" {i:is}, in fact, {f:5:Beatrice} itself.`
+char_enj: `"......That all piles up until we reach 1986.`
+char_enj: ` ......This is the veil that the true culprit is hiding behind.`
+char_enj: ` And the person hiding behind it is, without a doubt, one of the {y:0:Human}{n:0:human}s."`
+char_fea: `"Let us say that this holds true at this point in the witches' tale of the past.`
+char_fea: ` ......However, I doubt you can use that argument alone to fight all the way through 1986......"`
+char_enj: `"..........................."`
+char_fea: `"Heheheheheheheheh......"`
+char_eri: `"Ridiculous.`
+char_eri: ` Someone obviously must have forgotten to lock up."`
+char_sha: `"W‐......well, you may say that, but...umm...`
+char_sha: `b‐but this isn't just something that happened once or twice..."`
+char_eri: `"In other words, you're a klutz, a fool,`
+char_eri: ` and a moron of a servant who forgot to check not just once or twice, but many times over?"`
+char_geo: `"......Shannon isn't the only one.`
+char_geo: ` That same window was always opened even when other servants did the rounds."`
+char_jes: `"Yeah, Mom even asked me if I'd ever left a window open in the hall at night.`
+char_jes: ` I had absolutely nothing to do with it, but she still got pissed.`
+char_jes: ` Sheesh."`
+char_mar: `"I'm sure {f:5:Beatrice} wanted to gaze at the moon.`
+char_mar: ` Uu."`
+char_but: `"It is a bit creepy to have that happen over and over at the same window.`
+char_but: ` ......And that time where the kitchenware was piled up in the kitchen, with a creepy magic circle scribbled there...that sounds even more freaky."`
+char_sha: `"......Y‐yes.`
+char_sha: ` They said it was an eerie magic circle drawn with something like blood......`
+char_sha: ` Ever since then, people have been scared to patrol the kitchen..."`
+char_eri: `"About the case of the eerie magic circle in the kitchen.`
+char_eri: ` Who witnessed that?"`
+char_sha: `"Well, ......uh, ......it wasn't me...`
+char_sha: ` I, uh......think I heard about it from a servant kid who quit.`
+char_sha: ` I wasn't on duty that day..."`
+char_eri: `"Then there you have it.`
+char_eri: ` In the same way that stories about popular haunted locations become exaggerated, you servants like to have a little fun telling ghost stories about the mansion at night, don't you?`
+char_eri: ` By doing that, you speak as though the witch exists and infect others with that belief."`
+char_but: `"......So, all of the eerie things that were supposedly done by {f:5:Beatrice}...`
+char_but: `are either the result of coincidence and accident, or completely cooked‐up stories that people fabricated for fun.`
+char_but: ` ...Is that what you're trying to say?"`
+char_eri: `"Exactly.`
+char_eri: ` Of course there's no way {f:5:Beatrice} exists."`
+char_mar: `"Uu......`
+char_mar: ` {f:5:Beatrice} exists."`
+char_eri: `"I'm glad you understand so well, Battler‐san.`
+char_eri: ` ......I imagine there does exist some human person with that name, or else multiple specific or nonspecific people who acted under such an alias."`
+char_eri: `"However, this "Golden Witch {f:5:Beatrice}" that we hope and fantasize might exist...`
+char_eri: `is completely and unequivocally impossible."`
+char_mar: `"Uu!!`
+char_mar: ` Uu‐uu‐uu!!`
+char_mar: ` {f:5:Beatrice} exists!`
+char_mar: ` I've met her!!"`
+char_eri: `"Oh? Could you tell me about that in detail?`
+char_eri: ` You met {f:5:Beatrice}?`
+char_eri: ` And did she show you magic or something?"`
+char_mar: `"Uu!`
+char_mar: ` I see her all the time!`
+char_mar: ` Every time I come to Rokkenjima!`
+char_mar: ` And she always shows me fun magic!!"`
+char_non: `Denying the existence of the witch would always have the immediate effect of infuriating Maria.`
+char_non: `However, Erika, who didn't know to avoid this topic, had challenged her head on.`
+char_non: `But no matter how Maria tried to smooth over the matter of {f:5:Beatrice}'s existence, she stood no chance of defeating the ruthlessly intelligent Erika in an argument...`
+char_non: `George and Jessica hurried to calm Maria down, but Maria's anger could not be settled by this point.`
+char_eri: `"<Good>!`
+char_eri: ` So, she showed you magic?`
+char_eri: ` Could you explain in detail what kind of magic?"`
+char_mar: `"She would always use magic to give me candy as a present!!`
+char_mar: ` Beato can create candy with magic!!"`
+char_eri: `"Are you sure she didn't just take it out of her pocket?"`
+char_mar: `"No, she didn't!!`
+char_mar: ` It was magic!`
+char_mar: ` It was incredible!! Tons of candies poured out of an empty cup!"`
+char_but: `"W‐wow, that's some awesome magic..."`
+char_geo: `"That's right, that really would be magic...!"`
+char_mar: `"Yeah, it was magic!!`
+char_mar: ` It really was empty!!`
+char_mar: ` I checked inside it myself!!"`
+char_eri: `"Excuse me?`
+char_eri: ` What do you mean, you checked inside it?"`
+char_jes: `"G‐give it a rest, Erika‐san...`
+char_jes: ` She's just a kid..."`
+char_sha: `"Anyway, Erika‐sama, ...would you like some more t—`
+char_sha: `kyah—"`
+char_eri: `"<No thank you>.`
+char_eri: ` I'm having a seriously intellectual discussion over here.`
+char_eri: ` You outsiders can stay out of this!"`
+char_eri: `"You'll have to tell me in more detail, Maria‐san.`
+char_eri: ` What do you mean when you say that you checked inside it?`
+char_eri: ` Fortunately, we have right here with us a tea cup that's just been overturned and emptied!`
+char_eri: ` Will you do me the favor of recreating the circumstances for me right now?`
+char_eri: ` Let's see it, if you would, let's see it!!"`
+char_non: `After holding the cup of black tea, which she had just overturned and was still dripping, upside down over the table,`
+char_non: ` Erika slammed it down hard and slid it over to Maria.`
+char_non: `Erika's eyes glowed repulsively, like those of a snake about to snap up a frog.`
+char_non: `Those eyes were ice‐cold and had a madness in them that made one want to avert their gaze.`
+char_non: `On the other hand, Maria was glaring furiously,`
+char_non: ` her whole body shaking uncontrollably, in the greatest expression of anger that a human can manage.`
+char_non: `The look on her face was frightening...not at all something one would expect to see on a nine‐year‐old girl.`
+char_sha: `"S‐stop it, both of you...!"`
+char_mar: `"Uuu!!!`
+char_mar: ` I'll show you what {f:5:Beatrice} did!!`
+char_mar: ` Just like this!!`
+char_mar: ` She took the empty cup!!`
+char_mar: ` And she put it upside down on the table!!"`
+char_eri: `"Yes, and then?!`
+char_eri: ` Did she then immediately lift it up and candies flowed out?!`
+char_eri: ` Incredible, that really would be magic! ...{i:If it happened that way}!!!"`
+char_non: `Battler and the others tried to get between the two and calm them down,`
+char_non: ` but it was no use.`
+char_non: `The two violently pushed aside the others,`
+char_non: ` and, glaring at each other from so close that their foreheads banged together, they repeatedly slammed down the upside down cup on the table.`
+char_non: `The sound of their foreheads banging together and the cup being slapped down...shattered the barrier between reality and illusion...!!`
+char_mar: `"It is magic, it is magic!!`
+char_mar: ` Beato used magic to make candies appear!!"`
+char_eri: `"Then why don't you reproduce it for us?!!`
+char_eri: ` Founder of Mariage Sorcière and Witch of Origins, {f:5:Maria{-}a{-}a{-}a{-}a{-}a{-}a{-}a{-}a{-}a{-}a{-}a{-}a{-}a{-}aaa}!!"`
+char_dla: `"Lady {f:5:Erika}, this opponent is not worth your {f:5:time}.`
+char_dla: ` This battle is not worth {f:5:fighting}..."`
+char_eri: `"Shut up, ball‐jointed murder doll!!`
+char_eri: ` Alright!!`
+char_eri: ` How do you claim that the overturned cup was filled with candies?!"`
+char_mar: `"Just turning the cup over won't make candies come out!!`
+char_mar: ` Because you have to use magic to make them come out!!`
+char_mar: ` Beato can use magic because she's a witch!!"`
+char_eri: `"Oh yes, magic, she used magic!!`
+char_eri: ` How did she use magic?!`
+char_eri: ` Did she swing a magic wand and tap the cup to make candies pour out?!`
+char_eri: ` *giggle*, no, that can't be it, right? Right?!"`
+char_mar: `"Beato is a witch so she used magic!`
+char_mar: ` Magic is when you say an incantation and cause a miracle!!`
+char_mar: ` You can't use the magic that makes candy unless you say the incantation!!"`
+char_eri: `"Oh, sure, understood. <Good>, <good>, yes, <good>!!`
+char_eri: ` Let's see this incantation, let's see this magic, come on, what kind of incantation would a witch use? What kind?!?!"`
+char_mar: `"Come, try to picture it!!`
+char_mar: ` The inside of the cup is filled with candies!!`
+char_mar: ` Try to picture such a wonder!"`
+char_eri: `"Ooooooooooh? And then whaaaaaaat?"`
+char_mar: `"Look, the inside of the cup...`
+char_mar: `...is filled with candy!!!"`
+char_non: `Maria grasped the overturned cup so tightly that it nearly cracked,`
+char_non: ` ......and slowly...`
+char_non: `......lifted it up...`
+char_non: `Then, ......from the inside,`
+char_non: ` ......as many cute candies as the cup could hold poured out...!`
+char_non: `Maria looked at Erika with a full smile, as though saying "that showed you".`
+char_eri: `"<Good>!!`
+char_eri: ` Is this what you call {f:5:Beatrice}'s magic?!`
+char_eri: ` Dlanoo{-}o{-}o{-}o{-}o{-}o{-}ooor!!"`
+char_eri: `{e:170:`
+char_eri: `“Beat`
+char_eri: `}{e:170:`
+char_eri: ` her`
+char_eri: `}{e:170:`
+char_eri: ` to`
+char_eri: `}{e:170:`
+char_eri: ` death`
+char_eri: `}{e:170:`
+char_eri: `!!!”}`
+char_dla: `"........................`
+char_dla: ` ......As you {f:5:wish}."`
+char_mar: `"I won't let anyone deny Beato's magic!!`
+char_mar: ` After all, magic is magic!!"`
+char_eri: `"Magic is impossible.`
+char_eri: ` {p:2:You might be telling a lie about something that never happened}!!"`
+char_dla: `"A repetition has been {f:5:requested}.`
+char_dla: ` Failure to respond will be a violation of Knox's seventh {f:5:commandment}."`
+char_mar: `"Ahahaha, I'll respond! This is the truth!!`
+char_mar: ` {p:1:This story really happened}!!"`
+char_eri: `"{p:2:This wouldn't have anything to do with a trick in the actual cup or table, making this just a sleight of hand, right}?`
+char_eri: ` That would be against the rules, wouldn't it?!?!"`
+char_dla: `"Hidden devices and tricks are in violation of Knox's third {f:5:commandment}.`
+char_dla: ` However, if and only if foreshadowing has been presented, these are permitted by Knox's eighth {f:5:commandment}."`
+char_non: `Knox's third commandment prohibits hidden doors and devices that have no clues pointing towards them.`
+char_non: `However, by presenting foreshadowing and clues that point towards the existence of said devices,`
+char_non: ` Knox's eighth commandment allows them to be used.`
+char_mar: `"{p:1:They had no tricks like that in them!!`
+char_mar: ` It was just an ordinary table and an ordinary cup}!!`
+char_mar: ` So it's magic, not a trick!!"`
+char_dla: `"......{f:5:Understood}.`
+char_dla: ` ......By Knox's ninth commandment, Lady {f:5:Maria}'s account of witnessing magic is {f:5:permissible}."`
+char_eri: `"Ahahahahahahahahaha!!`
+char_eri: ` That's right, with the ninth at least!!`
+char_eri: ` Observers are always allowed to speak their personal opinions!"`
+char_eri: `"Otherwise, mysteries where the culprit is seen dressed up as a woman and it's written "I saw a woman" would all be disqualified!!`
+char_eri: ` Sure, that's fine, claim that you saw magic all you want!!"`
+char_eri: `"All truths are nothing more than claims!`
+char_eri: ` So, I'll make a claim separate from yours and smash right through yours!!`
+char_eri: ` That is the detective's duty, and the time we shine the mooooooost!!"`
+char_mar: `"You can't break through this, this is magic!!!"`
+char_eri: `"Since it is magic, only witches can use it, right?"`
+char_mar: `"That's right, only witches can use it!!"`
+char_eri: `"...So, if a {y:0:Human}{n:0:human} like me could use it too,`
+char_eri: ` that would mean it isn't magic, right?"`
+char_mar: `"You can't use it!!!`
+char_mar: ` Only Beato can use magic!!"`
+char_eri: `"<Good>!!`
+char_eri: ` Then why don't I show you?!!`
+char_eri: ` I'll make candy appear from out of this empty cup!!"`
+char_mar: `"I'd like to see you try!!`
+char_mar: ` Impossible, impossible, useless, useless! There's no way a {y:0:Human}{n:0:human} can do it!!"`
+char_eri: `"Then please, please, please just relax and watch!!`
+char_eri: ` Okay, here we have an empty cup.`
+char_eri: ` Is that okay? It is, isn't it?`
+char_eri: ` Then we turn it over on the table like this!!"`
+char_ger: `"......Let it be known that this fight has no point..."`
+char_dla: `"....................."`
+char_eri: `"Okay, I'm going to say the incantation for creating candies now...`
+char_eri: ` In fact, why don't we say it together?`
+char_eri: ` Come, try to picture it!!"`
+char_mar: `"The inside of the cup is filled with candy!!`
+char_mar: ` Try to picture such a wonder!!"`
+char_eri: `"<STOP>!!`
+char_eri: ` Maria‐san.`
+char_eri: ` Why do you close your eyes when you say the incantation?`
+char_eri: ` Why not witness the miracle of magic?"`
+char_mar: `"Humans are stained by the anti‐magic toxin!!`
+char_mar: ` If a lowly {y:0:Human}{n:0:human} saw it, the miracle of magic would be wiped out of existence!!`
+char_mar: ` That's why there's a rule that says lowly {y:0:Human}{n:0:human}s have to close their eyes when using magic!!"`
+char_eri: `"I see, I see. Okay, I understand the protocol used by {y:0:Human}{n:0:human}s performing magic!!`
+char_eri: ` In other words, not once have you ever witnessed the moment the magic happened! Isn't that right?!"`
+char_eri: `"Look, it's done!`
+char_eri: ` Please, lift up the cup...!`
+char_eri: ` After all, I've used the magic to make candies appear."`
+char_mar: `"There's no way someone who makes fun of witches could use the candy magic...!"`
+char_eri: `"Then if it actually did work, all the better."`
+char_non: `After glaring at Erika with the utmost of malice,`
+char_non: ` ......Maria slowly stretched her hand out towards the overturned cup...`
+char_non: `......There was no way that Erika, someone who made fun of witches like this, could ever use magic.`
+char_non: `There was no way that there'd be candy there...`
+char_eri: `"..............................So, how's it look inside?"`
+char_mar: `".....................`
+char_mar: ` ...............Ah—"`
+char_non: `......And there........in a cute wrapper......lay a single...candy......`
+char_eri: `".........See?"`
+char_mar: `".................."`
+char_eri: `"......This is magic, right?"`
+char_non: `Erika smiled gently......`
+char_non: `A look of disbelieving shock rose in Maria's eyes...`
+char_non: `...along with envy for this person who could use the same magic as Beato...`
+char_mar: `"Erika...`
+char_mar: `......you can...use magic too...?"`
+char_eri: `"See? It's magic, isn't it?`
+char_eri: ` What I did there."`
+char_mar: `"Y‐...............yeah!!"`
+char_eri: `"So, in other words—"`
+char_non: `Erika smiled pleasantly.`
+char_non: ` ......She and Maria had finally reached a deep understanding...`
+char_eri: `"You're a MOROOOOOOOOOOOOON!!!`
+char_eri: `"`
+char_eri: `"{p:2:While you had your eyes closed, I just lifted the cup up and tossed a candy in!!`
+char_eri: ` Call that magic?`
+char_eri: ` It's just a third‐rate triiiiiick, hyah{0}ha{0}a{0}a{0}a{0}a{0}aah}!!!"`
+char_eri: `"There's my blue truth as the detective.`
+char_eri: ` And now, as the Witch of Truth, I present to you: my red truu{-}u{-}u{-}u{-}u{-}u{-}u{-}uuth!!!"`
+char_eri: `"{p:1:Your so‐called candy magic is nothing more than sleight of hand!!}`
+char_eri: ` {p:1:A mere trick that the fake witch calling herself {f:5:Beatrice} or whatever claimed was magic}!!"`
+char_eri: `"I mean, seriously, did you really get fooled by such a dumb trick?`
+char_eri: ` The magic your perspective speaks of can't be trusted in the slightest!!!"`
+char_eri: `"{p:2:Everything you ever thought was magic was just a trick that you didn't get!!`
+char_eri: ` There's no way there's such a thing as magic! There's no way magic exii{-}i{-}i{-}i{-}i{-}i{-}i{-}i{-}i{-}i{-}i{-}iists}!!"`
+char_eri: `"......Huuuh?!"`
+char_sak: `"{p:2:P‐putting the candy in this cup might have been your sleight of hand,`
+char_sak: ` but that doesn't prove that Beato's magic was also a sleight of hand}.`
+char_sak: ` Uryuuu!!!"`
+char_eri: `"{p:2:However, you also can't prove that it could only have been done with magic!!`
+char_eri: ` You rotten stuffed animaaaal}!!"`
+char_ger: `"......For your attention: I beg to inform you of the following."`
+char_cor: `"Know that this meaningless battle ends here."`
+char_eri: `"You damn scraps of paper!!`
+char_eri: ` Why'd you have to butt in at the good part...?!!"`
+char_dla: `"That is {f:5:enough}.`
+char_dla: ` Lady {f:5:Maria} has been shown that the magic which makes candy appear in a cup could possibly be a trick that she misunderstood to be {f:5:magic}.`
+char_dla: ` Therefore, her claim that it was magic is {f:5:dismissed}."`
+char_sak: `"{p:2:However, it might really have been magic when Maria saw it...!`
+char_sak: ` Just because it can be done by a sleight of hand doesn't disprove magic}."`
+char_dla: `"......Well done, Lady {f:5:Erika}.`
+char_dla: ` Congratulations on crushing Lady {f:5:Maria}'s witch {f:5:illusion}."`
+char_non: `Witch illusions are an attempt to make others acknowledge the existence of magic by claiming that something would be impossible without it. That is the attack used by witches.`
+char_non: `If someone can argue back and say that it would be possible without magic, the witch illusion is defeated, and the witch must retreat.`
+char_non: `The magic that Maria claimed to have seen had the possibility of being a trick, so it was unqualified to be acknowledged as magic.`
+char_non: `That was only the result of this battle.`
+char_non: ` It was still too early to bring the fight into the domain of denying everything else Maria believed in: the existence of {f:5:Beatrice}, witches, and magic......`
+char_non: `However, battles will always end instantly when your opponent surrenders.`
+char_non: `Erika had wanted to hit Maria with everything at once, defiling the witch and magic she believed in,`
+char_non: ` and crushing it without a fragment of compassion...`
+char_eri: `"........................`
+char_eri: ` ......Tch!!`
+char_eri: ` Just one more step and I'd have been able to take a heart as pure as the smooth sand just after a wave has pulled back...and tear it to bits.`
+char_eri: ` .........What a shame.`
+char_eri: ` This isn't any fun anymore.`
+char_eri: ` ...............Are you satisfied now?!`
+char_eri: ` Ouch, ...owowowow......"`
+char_non: `Erika grumpily punched the arm of Dlanor's that was restraining her.`
+char_non: ` However, that cold, hard, marble‐like arm just made Erika's hand hurt.`
+char_sak: `".........D‐diplomatic immunity...!`
+char_sak: ` This battle is over...!"`
+char_ger: `"For your attention:`
+char_ger: ` diplomatic immunity accepted."`
+char_cor: `"......Know that this fight is childish in the extreme."`
+char_eri: `"Did you say something?!"`
+char_dla: `"She did {f:5:not}.`
+char_dla: ` ......Let us {f:5:withdraw}.`
+char_dla: ` Lady {f:5:Maria} is no match for you, Lady {f:5:Erika}.`
+char_dla: ` There is no need to pay any attention to small fry such as {f:5:this}."`
+char_eri: `"............Hmph.`
+char_eri: ` ......You're right.`
+char_eri: ` How childish of me, tearing a kid's dreams apart.`
+char_eri: ` I'm really sorry, okay?`
+char_eri: ` I apologize for my momentary lack of elegance.`
+char_eri: ` *giggle*giggle*.`
+char_eri: ` Let's go."`
+char_non: `Erika's group turned their backs on Maria, who was still crouching down limply.`
+char_non: `However,`
+char_non: ` ......as detectives in famous mysteries have always done in the past,`
+char_non: ` Erika clapped her hands, stopped, and turned around.`
+char_eri: `"Oh, that's right.`
+char_eri: ` ......Your thoughts...?"`
+char_mar: `"............?"`
+char_eri: `"All it takes is the presence of an overturned cup,`
+char_eri: ` and a deduction like this becomes trivial for Furudo Erika.`
+char_eri: ` .........Your thoughts, ladies and gentlemen?"`
+char_mar: `"...............!!!"`
+char_non: `Erika's merciless words gouged themselves into Maria's heart once more......`
+char_eri: `*cackle*cackle*cackle*cackle*cackle*,`
+char_eri: ` ahha{0}ha{0}ha{0}haa{0}ha{0}ha{0}hah{0}haa{0}haha!!!`
+char_eri: `Erika left, leaving an evil laugh behind her.`
+char_eri: `After bowing to Maria and Sakutarou, Dlanor left too.`
+char_eri: `......Gertrude and Cornelia followed suit...`
+char_eri: `After that, only Maria and Sakutarou were left in the lonely Golden Land......`
+char_sak: `"............Uryuu......"`
+char_mar: `"......Beato......is a witch......"`
+char_sak: `"Uryu...`
+char_sak: ` Beato is a witch..."`
+char_mar: `"It was magic......`
+char_mar: `......*hic*...`
+char_mar: `...it was magic......"`
+char_sak: `"It was magic... Beato used magic to give you candy...`
+char_sak: ` You don't need to doubt that...`
+char_sak: ` ......Uryuu...!`
+char_sak: ` Please believe in Beato...`
+char_sak: ` You know that magic can't bear fruit unless you believe..."`
+char_mar: `"Uuuuu......uuuuuuuuuuwaaaaaaaaahhhh......"`
+char_non: `In the middle of an ice‐cold drizzle, which had started falling at some point,`
+char_non: ` ......Maria sobbed...`
+char_non: `Trying to at least protect her from the rain, Sakutarou used his large sleeves to cover Maria's head...`
+char_non: `...and stayed there by her side......`
+char_jes: `"Okay, let's go, Maria...!`
+char_jes: ` Let's play cards together in the room upstairs..."`
+char_geo: `"......Erika‐san.`
+char_geo: ` As an adult, I cannot condone that conversation just now."`
+char_eri: `"My apologies.`
+char_eri: ` I'm still just a kid, after all."`
+char_mar: `"......*hic*, .........*hic*......"`
+char_non: `After seeing that wonderful candy magic brutally insulted by Erika,`
+char_non: ` ......Maria had been crying this whole time...`
+char_but: `"Haah...`
+char_but: ` ......I started noticing it at the quiz party after dinner,`
+char_but: ` but your personality is screwed up.`
+char_but: ` ......Is this fun for you?!`
+char_but: ` Are you enjoying tearing a little kid's dreams apart?"`
+char_sha: `"P‐please stop, Battler‐sama...!`
+char_sha: ` Please, for my sake, don't push any further here...!`
+char_sha: ` Please...!"`
+char_non: `Shannon, who had been looking flustered, bowed her head deeply and implored Battler to stop.`
+char_non: `{n}George, who didn't want Shannon pressured, fell in line.`
+char_geo: `"Let's go.`
+char_geo: ` Let's spend this year in the cousins' room too.`
+char_geo: ` We can watch TV and play cards."`
+char_jes: `"......I've heard that Erika‐san has her own room.`
+char_jes: ` Shannon, please guide her."`
+char_eri: `"Oh, no need to bother yet.`
+char_eri: ` I'll relax down here for a little while longer.`
+char_eri: ` I want to savor it a bit."`
+char_but: `"......What the hell are you trying to savor...`
+char_but: ` ...Pft."`
+char_non: `Battler and the others could no longer hide their irritation.`
+char_non: `They had no obligation to entertain their uninvited guest any further than this.`
+char_non: `Erika herself understood perfectly well that no place would welcome a detective.`
+char_non: `Battler and the others wanted to leave, and Erika wanted to stay.`
+char_non: `{n}Neither had any desire to stop the other.`
+char_non: `Jessica urged Maria, who was still crying, to come along...`
+char_non: `Then, Maria stopped and spun around.`
+char_eri: `".........Got a problem?"`
+char_mar: `"Kihihihihihihihihihihihihihihihihi{0}hi!!`
+char_mar: ` They do exist here and there...{y:0:Human}{n:0:human}s that are practically lumps of the toxin that doesn't believe in magic!`
+char_mar: ` There are many boys like you in my class!"`
+char_mar: `"They don't believe in witches, or magic, or miracles, or happiness!`
+char_mar: ` You can't become a witch if you let the toxin of people like that burn you to ashes!`
+char_mar: ` I may not look it, but I'm {f:5:Beatrice}'s disciple!`
+char_mar: ` I'm the Apprentice Witch of Origins!`
+char_mar: ` Kihi{0}hi{0}hi{0}hi{0}hi{0}hi{0}hi{0}hi{0}hi{0}hi{0}hi{0}hihi!!!"`
+char_non: `Maria, who had been sobbing until a second ago, seemed to have transformed into an entirely different person.`
+char_non: ` ......She laughed...no, cackled eerily.`
+char_non: `Battler's group stiffened up at this sudden change, but Erika was watching calmly.`
+char_non: `Then, she smiled and gave a small nod in response.`
+char_eri: `"<Good>.`
+char_eri: ` ......You're not a bad opponent.`
+char_eri: ` Good night, Miss {f:5:Maria}.`
+char_eri: ` Let's fight in a more satisfying game next time."`
+char_mar: `"Sure. Let's. It's a promise.`
+char_mar: ` .......Kihi{0}hi{0}hi{0}hi{0}hi{0}hi{0}hi{0}hi{0}hi{0}hihi."`
+char_jes: `"Y‐you stop that too, Maria...!`
+char_jes: ` Come on, let's go."`
+char_geo: `"What about you, Shannon‐chan?`
+char_geo: ` You can play cards with us, if you want."`
+char_but: `"Come on, join us for at least one round.`
+char_but: ` It'll cheer you up."`
+char_sha: `"Uh, ......ah...th‐then, just for a bit......"`
+char_non: `Shannon couldn't remain in this suffocating lounge any longer either.`
+char_non: `In part apologetic and in part trying to escape, she followed after Battler's group...`
+char_non: `After that, Erika was the only one left in the lounge...`
+char_non: `Still wearing a thin smile, she tapped a glass with her finger.`
+char_non: `There was a light chink.`
+char_non: ` ......A surprisingly boring sound.`
+char_non: `Even so, Erika wore a thin smile, as though pleased...`
+char_kum: `"Hoh‐hoh‐ho, sorry to keep you waiting.`
+char_kum: ` I was just in the bath...`
+char_kum: ` ......Oh, where is everyone?"`
+char_eri: `"......You just missed them.`
+char_eri: ` They went upstairs.`
+char_eri: ` I'm the one who called you here.`
+char_eri: ` ......I've heard that you know a lot of stories about Akujikijima and the witch of the forest."`
+char_kum: `"Yes, well.`
+char_kum: ` Hoh‐hoh‐ho.`
+char_kum: ` They are trivial stories, but..."`
+char_eri: `"I don't mind in the slightest if they're trivial.`
+char_eri: ` Would you like a drink to follow your bath?"`
+char_eri: `"......Even I like to be helpful every now and then."`
+char_non: `Erika stood up, opened the refrigerator behind the counter, and put ice into the ice pail......`

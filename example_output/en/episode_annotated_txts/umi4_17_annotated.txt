@@ -1,0 +1,1436 @@
+char_mar: `"......I don't know why you're angry, Battler."`
+char_but: `"You {i:should?!}`
+char_but: ` Everyone was killed, goddammit!!`
+char_but: ` By that goddamned old fart!`
+char_but: ` Saying something incomprehensible about {f:5:Beatrice}'s resurrection ritual or something!!"`
+char_mar: `"Then, that means, thirteen people have been offered as sacrifices,`
+char_mar: ` ......and {f:5:Beatrice} will have revived already, you know?"`
+char_but: `"Yeah, that's perfect!!`
+char_but: ` I'll take {f:5:Beatrice} too and kill them both!!"`
+char_mar: `"............We survived the ritual.`
+char_mar: ` So we'll receive an invitation to the Golden Land from {f:5:Beatrice}, you see......?"`
+char_mar: `"All wishes are granted there.`
+char_mar: ` If you're suffering because your family was killed, then you just have to bring them back to life.`
+char_mar: ` ......That's what I plan to do.`
+char_mar: ` I'm going to revive my really nice real mama, the one that isn't possessed by the black witch."`
+char_mar: `"......So Mama will always be with me from now on.`
+char_mar: ` .........There won't be any more overtime or working on days off.`
+char_mar: ` ...She'll always be with me, and think only of me, kihhihihi, and she'll fight all the time against fearsome enemies for me.`
+char_mar: ` Kihhihi{0}hi{0}hihihi...!"`
+char_but: `"......There's something wrong with you.`
+char_but: ` ......How can you sit there saying such incomprehensible crap in a situation like this...?!"`
+char_mar: `"............Didn't Auntie Kyrie just tell you, Battler...?`
+char_mar: ` ......Didn't she tell you...`
+char_mar: `to believe...`
+char_mar: `...in the witch?"`
+char_but: `".....................Sh‐shit.`
+char_but: ` This isn't the time to get in an argument with you...!!`
+char_but: ` Forget "hostages", at this point, there's no one left alive at all!`
+char_but: ` This dumb‐as‐hell, screwed‐up ritual game is done now...!!"`
+char_but: `"From here on, I'm doing what {i:I} want.`
+char_but: ` Someone might still be alive.`
+char_but: ` Or someone might be hiding!`
+char_but: ` I'll search every nook and cranny of this place, find them, and beat the shit out of them!!"`
+char_non: `In a rage, Battler grabbed his hat‐stand spear and flew out of the room.`
+char_non: `Maria watched him go, looking bored...`
+char_mar: `".........But {f:5:Beatrice} would grant your wishes soon anyway.`
+char_mar: ` ......Stupid Battler.`
+char_mar: ` ......Kihhihihihi."`
+char_non: `Then, the phone rang out again......`
+char_non: `Maria stood up, and grabbed the receiver.`
+char_mar: `"Uu.`
+char_mar: ` Hello.`
+char_mar: ` ......Uu?`
+char_mar: ` Uu!!!"`
+char_non: `Of course, the sound of the phone also reached Battler's ears as he was about to dash out of the guesthouse.`
+char_non: `With a violent forcefulness, he turned around and dashed into the cousins' room...`
+char_but: `"M‐Maria......!`
+char_but: ` The phone call, ......who's it from...?!"`
+char_non: `With a terrifying look on his face, Battler yelled at Maria, who was on the phone.`
+char_non: `You couldn't blame him......`
+char_non: ` Right now, the only humans left alive on the island were himself, Maria, Gohda, and Kumasawa.`
+char_non: `But there was no way those two could call when they were locked up in the gardening storehouse.`
+char_non: `......Which meant.........there was only one person.`
+char_non: `{n}It had to be Kinzo.`
+char_non: `As she happily chatted with the person on the other end of the phone, Maria slowly turned to face Battler.`
+char_non: `.........And, with an unsettling expression on her face, she laughed with a "kihihi{0}hi{0}hi{0}hi{0}hi{0}hihihi".`
+char_non: `{n}......It felt almost as though the person on the other end of the line was chatting about Battler.`
+char_but: `"Maria...who's on the phone?`
+char_but: ` ......Grandfather......?!"`
+char_non: `Battler couldn't imagine that this was the case.`
+char_non: `...After all, it was inconceivable that Maria would be having such a friendly talk with Kinzo,`
+char_non: ` ......chatting to him about Battler with that eerie smile on her face.`
+char_non: `Just what kind of person could be on the phone.........who could make Maria chat with a smile like that?`
+char_non: `.........At that time, in the back of his mind, the words Kyrie had spoken to him drifted up.`
+char_non: `Even if a witch does appear, there is no need to doubt it.`
+char_non: `{n}......Just.........believe in its existence......`
+char_mar: `"Yep.`
+char_mar: ` Battler just came back.`
+char_mar: ` He sure is hasty.`
+char_mar: ` Kihi{0}hi{0}hi{0}hi{0}hi{0}hi{0}hi{0}hihihi......"`
+char_but: `"Maria!!`
+char_but: ` Who's on the phone?!`
+char_but: ` Who?!?!"`
+char_mar: `"......Hand it over?`
+char_mar: ` Sure.`
+char_mar: ` ............Here, Battler."`
+char_non: `After getting the consent of the person on the other end, she held the receiver out to Battler...`
+char_but: `"..................uh."`
+char_mar: `"Here."`
+char_non: `Maria held the receiver out for him to take, ......as though it was perfectly normal.`
+char_non: `Battler felt just a little bit of hesitation towards taking the receiver.`
+char_non: `......Because, .........by acknowledging the existence of the person at the other end,`
+char_non: ` .........he would have no choice but to admit it.`
+char_non: `.........Kyrie had said it.`
+char_non: `......There is no longer...`
+char_non: `...any need...`
+char_non: `...to doubt their existence...`
+char_non: `Battler took the receiver.`
+char_non: `After he did so, Maria briskly headed for the door.`
+char_non: `Battler, who was slightly fearful about finding out for sure who was at the other end of the receiver,`
+char_non: ` questioned Maria before taking the call.`
+char_but: `"H‐hey!`
+char_but: ` Where are you going...?!"`
+char_mar: `"To where my test is.`
+char_mar: ` ......I wonder who the Ushiromiya family head will be, you or me.`
+char_mar: ` Kihihi{0}hi{0}hi{0}hi{0}hi{0}hi{0}hi{0}hi{0}hi{0}hihi."`
+char_but: `".........D‐don't go!!`
+char_but: ` You'll be killed!!"`
+char_mar: `"No I won't.`
+char_mar: ` The ritual's already over.`
+char_mar: ` ...And even if I am, I'll be revived.`
+char_mar: ` ......Whether one of us becomes the head or not, we're already invited to the Golden Land.`
+char_mar: ` See you."`
+char_but: `"Wait!!`
+char_but: ` Maria...!!!"`
+char_non: `Battler stretched his hand out to Maria's back as she left,`
+char_non: ` ......but the cord of the receiver that he was gripping held him back like a chain.`
+char_non: `......He readied himself.`
+char_non: ` ...Battler put the receiver to his ear......`
+char_but: `"...............He‐......hello......?"`
+char_bea: `"<Congratulaatioooooooons>!!`
+char_bea: ` <And I'm fi~ne>!!`
+char_bea: ` <And yoo{-}o{-}o{-}o{-}o{-}o{-}o{-}o{-}oouuuuu>?!`
+char_bea: ` Aaa{0}a{0}ah{0}h{0}h{0}hyah{0}hyah{0}hyah{0}hyaaaaa!!!"`
+char_non: `Screwed up, mocking English filled his ears.`
+char_non: `{n}......It was the voice of a woman he didn't know.`
+char_non: `......Who—`
+char_non: `the inside of his head was starting to freeze up—`
+char_non: `............who............`
+char_bea: `"What do you mean "who", Ushiromiya Battleeeeer...?`
+char_bea: ` The answer, normally, is <ye~s, I'm fine>!`
+char_bea: ` Is it not??`
+char_bea: ` That takes me back...you must have done that one in middle school, right?`
+char_bea: ` That thing you do in pairs!`
+char_bea: ` Uhhya{0}hya{0}hya{0}hya{0}hya{0}hyaaaaahh!!!"`
+char_but: `"Y‐...you're insane......`
+char_but: ` Who are you?!!`
+char_but: ` Answer me!!!"`
+char_bea: `"Say it in Engliiish.`
+char_bea: ` Isn't that your specialtyyyyy?"`
+char_but: `"......Qui‐quit messing with me......`
+char_but: ` Who are you?!!`
+char_but: ` That crazy old bastard's underling?!"`
+char_bea: `"‘Underling’ is a cruel description.`
+char_bea: ` Go the other way and try "captive".`
+char_bea: ` ......I have Kinzo captive!`
+char_bea: ` Ri~~ght?`
+char_bea: ` Wahha{0}ha{0}ha{0}ha{0}ha{0}ha{0}hahaha..."`
+char_non: `That last laugh didn't sound like it was aimed at Battler.`
+char_non: `......It was almost as though Kinzo was right next to the phone, cackling as well...`
+char_but: `"......S‐......say your goddamned name!!`
+char_but: ` Who are you?!`
+char_but: ` Who?!!!"`
+char_bea: `"Try and guess, you could win a invite to Hawaii!`
+char_bea: ` Ahhyah{0}hyah{0}hhyaaaah!!`
+char_bea: ` Fffinally.`
+char_bea: ` FINALLY!!`
+char_bea: ` Mmmmmmm, it was soooo looo{-}o{-}o{-}o{-}ong, the days leading up to today were reee{-}e{-}eeally long...!!"`
+char_bea: `"I seriously waited a thousand years, you know?? For this day to arrive!!`
+char_bea: ` And here it is, all thanks to you,`
+char_bea: ` my BIG resurrection!!`
+char_bea: ` <Thank you>, Kinzo!`
+char_bea: ` Just this once,`
+char_bea: ` I'll let you have that last takeback of yo~urs!!!"`
+char_kin: `"......Hell's bells, do you have to be in this much of a good mood?`
+char_kin: ` Can't you act a little more ladylike?"`
+char_non: `Kinzo and {f:5:Beatrice} sat facing each other over the chessboard on the reception table.`
+char_non: `Also on the table were expensive cheeses and the like to go with drinks.`
+char_non: `{n}And there was a line of several empty wine bottles.`
+char_non: `As {f:5:Beatrice} rolled around in her sofa in an unseemly way,`
+char_non: ` she held a wine glass in one hand, in a good mood,`
+char_non: ` ......and probably, completely drunk.`
+char_bea: `"I'm in the {i:best} mood today, so I'm feeling crazy generous!!`
+char_bea: ` Hey, hey, Kinzo, don't use a well‐aged noble rot wine like this as a decoration!`
+char_bea: ` Hooooly shit, it's a 1947?!"`
+char_bea: `"If you don't open it today, just when are you gonna open it?!`
+char_bea: ` Let's slosh it all over each other for fun!`
+char_bea: ` Then let's whack each other with the empty bottle!`
+char_bea: ` Uhhyah{0}hyah{0}hyahhya!!"`
+char_kin: `"Hahhaha, that would be entertaining.`
+char_kin: ` You are a little too excited.`
+char_kin: ` You're cutting loose too much."`
+char_bea: `"And what about youuuuuu?!`
+char_bea: ` Aren't you happy to be reunited with meee?`
+char_bea: ` Aaah, it's the living world! The earthly world!!`
+char_bea: ` Long live my flesh!!"`
+char_but: `"......What......are you going on about.........?`
+char_but: ` ...Are you saying that you're......B‐{f:5:Beatrice} or something...?"`
+char_bea: `"<Ye~eeeeeeeeeeeeeeess, I aaaaaaaaaamm>!!`
+char_bea: ` Thanks to Kinzo's thirteen‐person murder ritual, I've finally been resurrected...!!`
+char_bea: ` It's nice having a mouth, it's nice having a tongue!`
+char_bea: ` How fun it is to be able to talk to you like this!"`
+char_bea: `"Come to think of it, even though we've hurled insults at each other over and over again,`
+char_bea: ` this is the first time we've had a conversation like this on the board during the game, isn't it?`
+char_bea: ` How very fresh!!"`
+char_bea: `"Oh, did you hear that pop sound?!`
+char_bea: ` He {i:opened} it, the maniac actually went and opened that vintage wine that's expensive as shit!!`
+char_bea: ` Do you know how much a single bottle of that stuff {i:costs}?!`
+char_bea: ` As much as a whole ten‐kilogram ingot, isn't that craaaaaazy?!?!`
+char_bea: ` Hiiiii‐hah‐hah‐hah‐hah‐hah!!"`
+char_but: `"C‐cut the crap...!!`
+char_but: ` {f:5:Beatrice} my ass...!!`
+char_but: ` You say you're the Golden Witch?!`
+char_but: ` That's enough!!"`
+char_but: `"Where the hell are you?!`
+char_but: ` Is that damn old fart with you as well?!`
+char_but: ` I'll beat the shit out of both of you!!`
+char_but: ` Where are you right now?!`
+char_but: ` Answer me!!"`
+char_bea: `"Ohhh, so you want to meeeet me?`
+char_bea: ` Uhhihihihi, sure is tough being a popular woman!`
+char_bea: ` But please, don't try to chat me up when Kinzo's around, okaay?`
+char_bea: ` The guy's a bad egg, he gets seriously jealous, see?"`
+char_bea: `".........But when Kinzo isn't around and we're all alone, I'll love you all you want in secret, alright...?`
+char_bea: ` Uhyaaahya{0}hhya{0}hhya{0}hhya{0}hhya{0}a{0}a{0}a{0}kkya{0}kkya{0}kkyakkya!!!"`
+char_but: `"Y‐you're insane........."`
+char_bea: `"Kinzoo, I've changed my mind.`
+char_bea: ` I won't do Maria's test.`
+char_bea: ` You go."`
+char_kin: `"How fickle.`
+char_kin: ` Then you are saying that you will do Battler's test?"`
+char_bea: `"Nothing wrong with that, ri~ght?!`
+char_bea: ` That guy's so much like a younger you, y'know? It makes my heart race."`
+char_bea: `"Don't worry, I'm not gonna cheat on yooooou.`
+char_bea: ` I'll only be alone with him this one time.`
+char_bea: ` ......I'm always alone with you, riiight...?`
+char_bea: ` But no more tying me up twenty‐four hours a day, alright?`
+char_bea: ` Kuhhyahha{0}hha{0}ha{0}ha{0}hahaha...!!!"`
+char_bea: `"So there you have it, Battlerr!`
+char_bea: ` I, the Golden Witch {f:5:Beatrice}, will be running your test myself!`
+char_bea: ` As for the place...let me see.`
+char_bea: ` At the front entrance to this mansion!"`
+char_bea: `"Battlerr, this headship test, you've seriously gotta full‐ass this one, okaay?`
+char_bea: ` ......I mean, Kinzo's practically dead on his feet.`
+char_bea: ` If you become the next head, you'll be the new owner of everything on this island."`
+char_bea: `"......I wouldn't mind letting you have me all to yourself, you know......?`
+char_bea: ` Just like Kinzo did, ......control me, okay......?`
+char_bea: ` Kuhhihi{0}hi{0}hi{0}hi{0}hi{0}hihi, uhhya{0}hha{0}hha{0}ha{0}ha{0}ha{0}ha{0}haha!"`
+char_but: `"Th‐the front entrance of the mansion......`
+char_but: ` Perfect...!!`
+char_but: ` Listen to me, you stinking drunk!!`
+char_but: ` I'll sober you up.`
+char_but: ` And I've got some {i:hot punch} waiting to help you through your hangover!!`
+char_but: ` Just you wait!!"`
+char_non: `Battler impulsively slammed the receiver down.`
+char_non: `{n}There was no need to talk through a receiver anymore.`
+char_non: `......I'll meet her face to face and settle this!!`
+char_non: `I took the spear I'd made by taking apart the hat stand,`
+char_non: ` and went outside without even an umbrella.`
+char_non: `......It's hard to imagine that the young woman calling herself {f:5:Beatrice} will be waiting for me alone.`
+char_non: `...I should probably assume that she'll be waiting with those supporting troops that Gohda‐san and Kumasawa‐san told us about.`
+char_non: `Going alone would be too reckless...`
+char_but: `"Gohda‐san, Kumasawa‐san...!`
+char_but: ` It's me, it's Battler...!"`
+char_non: `I headed for the gardening storehouse first.`
+char_non: `{n}I need all the help I can get.`
+char_non: `Gohda‐san's a burly man, so I can probably count on him to add some extra brawn.`
+char_non: `{n}Kumasawa‐san's knowledge and familiarity with the area as a senior servant might prove to be a huge weapon.`
+char_non: `Both of them have master keys, and they know more about the mansion than I do.`
+char_non: ` ......They're pretty reliable allies.`
+char_non: `As I banged on the shutter and called out for them to open it, I remembered that there was nothing they could do from the inside.`
+char_non: `I would have to get the key back from them and open the shutter myself.`
+char_non: `I went around to the side, knocked on the small latticed window there, and opened it up.`
+char_but: `"Gohda‐san, Kumasawa baa‐chan...!`
+char_but: ` It's Battler...!!`
+char_but: ` Hey, come on, get up...............h...ey........."`
+char_non: `The scene in the shed, lit by a dim lightbulb, .........was all too......bizarre......`
+char_but: `"......Gohda...`
+char_but: `sa...n......`
+char_but: ` ......Kumasawa......sa...`
+char_but: `......n........."`
+char_non: `From a low ceiling beam...`
+char_non: `......hung two thick ropes,`
+char_non: ` ......and at the ends,`
+char_non: ` ......Gohda‐san and Kumasawa‐san...`
+char_non: `.........were hanging...by their necks.....`
+char_non: `It was dim, and I was looking through a narrow gap between all the various pieces of equipment strewn about, so I couldn't make out any more detail than that.`
+char_non: `......But when they showed not even a tremor after I called out to them,`
+char_non: ` and because of the way the loops around their necks seemed to carry the full weight of their bodies, I could sense no trace of life from them......`
+char_but: `"You've got to be............kidding me......right............?`
+char_but: ` ......Why........."`
+char_non: `The shutter is still closed.`
+char_non: `......And there's only a single key, which I'm sure Gohda‐san took possession of.`
+char_non: `So how did the culprit......open the shutter and kill the two of them inside......?`
+char_non: `No wait, they weren't necessarily killed...`
+char_non: `{n}If this is a suicide......`
+char_non: `......That way, this locked room makes sense, but I don't know why the two of them would hang themselves...!!`
+char_non: `Feebly, ...I slumped down on the spot.`
+char_non: `Now, the only humans alive on this island...`
+char_non: `...are me, Maria,`
+char_non: ` ......and my old bastard's old bastard.`
+char_non: `.........No, there's also that nutso woman calling herself {f:5:Beatrice}...`
+char_non: `Maria's been acting like she's on the witch's side from the beginning.`
+char_non: `{n}And Gramps is the very person who revived the witch.`
+char_non: `{n}Plus there's the witch herself.`
+char_non: `......What the hell... .........Then, it's just as though...`
+char_non: `.........I'm the only one on this island............`
+char_non: `Using my pole as a cane, I feebly rose to my feet.`
+char_non: `......Damn, I can't do it like this...`
+char_non: `{n}I've got to avenge...everyone......`
+char_but: `"Damn iiiiiiiit...... This is no good...`
+char_but: ` Yeah, it's no good, it's no goddamn good at all...`
+char_but: ` Damn iiiiiiiiiiiiitt........."`
+char_non: `I got the crying out of the way while I could...`
+char_non: ` So that all my weak emotions would be squeezed out with my tears...`
+char_non: `Then, ......I straightened up, and gazed into the darkness in the direction of the mansion.`
+char_non: `.........At the entrance to the mansion, the witch is waiting.`
+char_non: `I'll go, ......and settle this.`
+char_non: `I'll find the source of this weird, blood‐soaked night, ......and crush her with my own hands...!`
+char_non: `Amidst the pouring rain, ......I walked through the rose garden without an umbrella, letting myself get soaked.`
+char_non: `......I could see the arbor in the distance.`
+char_non: `According to Jessica, it seemed that George‐aniki had also been killed...`
+char_non: `Well, by this point, there's no need to worry about the lives of any hostages.`
+char_non: `{n}......I left the path, aiming for the arbor.`
+char_non: `Then,`
+char_non: ` ............I saw George‐aniki's weather‐beaten corpse...`
+char_but: `"...............Aniki......`
+char_but: ` ............Shit............"`
+char_non: `The corpse was in front of the arbor.`
+char_non: `If he could have died under the arbor, he would at least have been spared being beaten down upon by the rain...`
+char_non: `There was a gaping hole in Aniki's forehead, as though he had been shot with a gun.`
+char_non: `Perhaps because the rain had washed everything away, his face wasn't covered with blood, ......and so he looked almost like he was sleeping.`
+char_non: `...However, the deep red his clothes were stained still provided the evidence that a large amount of blood had flowed out...`
+char_non: `How happy I'd be if he were sleeping, or else pretending to be dead...`
+char_non: `......But Aniki's eyes remained open, even though the rain sprayed against them.`
+char_non: `......And......the hole in his forehead was, without a hint of a joke,`
+char_non: ` ......the real thing...`
+char_non: `There had been a faint chance...`
+char_non: `that Gohda‐san and Kumasawa‐san hanging by their necks in the gardening shed could have been a bad joke.`
+char_non: `But that naive possibility had now been completely denied.`
+char_non: `And, as I looked at this corpse, I became completely sure.`
+char_non: `Just as Gohda‐san had once said.`
+char_non: ` ......The enemy came to take lives as though these lives were pieces on a chess board.`
+char_but: `".........Yeah, ......there's no mistake.`
+char_but: ` ......It seems that old geezer and the witch...`
+char_but: `......really don't view our lives as anything more than that......"`
+char_non: `...That damn witch, when she was on the phone...`
+char_non: `{n}She talked about us like we were "on the game board"......`
+char_but: `"...Perfect......`
+char_but: ` ......Right, she thinks this is a game, huh......`
+char_but: ` Then, ...in the same way you killed everyone like it was a game,`
+char_but: ` .........it's alright if I kill all of you like it's a game as well, right......?"`
+char_but: `"............Just you wait......`
+char_but: ` ......{f:5:Beatrice}........."`
+char_non: `The lightning caused the mansion's vast shadow to emerge.`
+char_non: `......Finally, ......the mansion.`
+char_non: `As the massive shape came into view, there was no silhouette of any person.`
+char_non: `{n}It seemed that there weren't any underlings waiting for me in a pack, or anything like that.`
+char_non: `.........According to Kyrie‐san, there were a large number of attendants with goat heads.`
+char_non: `At least for now, I couldn't sense...`
+char_non: `any large group like that hiding and staring at me...`
+char_non: `What's this......?`
+char_non: `{n}Beneath the roof of the entrance,`
+char_non: ` .........there's something set down.`
+char_but: `"......What is this?`
+char_but: ` .........A...box?"`
+char_non: `It looked like the kind of small box that girls often keep trinkets in.`
+char_non: `......Or maybe it was the same kind of extravagant cigar case you'd find in a reception room.`
+char_non: `Either way, it didn't look like something that belonged here...`
+char_non: `{n}It clearly looked......as though I was being told to open it.`
+char_non: `But the thought of doing what they wanted me to do was somehow irritating.`
+char_non: `{n}......However, it didn't look like we'd get anywhere if I didn't open it.`
+char_non: `Could it be that it's set up with some trap to make it explode when opened......?`
+char_non: `While thinking things like that, and forgetting even to go under the overhang,`
+char_non: ` I continued to glare at the box as the rain beat down upon me.`
+char_non: `Then, .........mixed in with the thunder, was some kind of......music?`
+char_non: ` ...It sounded like something like that.`
+char_non: `......It was the tone of the big clock in the hall announcing midnight.`
+char_non: `It was also the sound that announced that the crazy day of October 4th had finally ended,`
+char_non: ` ......and that the much more incredibly crazy day of October 5th had begun.`
+char_non: `That sound quietened, ............and I could hear an eerie laugh coming out of nowhere......`
+char_non: `I got the feeling that the voice was coming from the heavens, ......and I looked up at the sky.`
+char_non: `......And there.........was a woman I had never seen before.`
+char_non: `{n}No, it's not true that I've never seen her before.`
+char_non: `{n}......I saw her once today.`
+char_non: `Yes, in the portrait inside the mansion......`
+char_non: `The clothes were different, ......but that face was just like the witch of the portrait......`
+char_non: `Aaah, who am I kidding... I already know who this person is...!!`
+char_but: `"......S‐......so you are {f:5:Beatrice}!!!"`
+char_bea: `"Yooohooooooooo, Battleeeeeeeeeeeeer...!!"`
+char_non: `Leaning over the second floor balcony, ......and waving cheerily from under her umbrella,`
+char_non: ` ......was, without a doubt, ......the witch of the portrait, ...{f:5:Beatrice}.........!!`
+char_non: `Was the plan for the boss to watch on from above as her goat underlings torture me to death...?!`
+char_non: `I adjusted my grip on the spear,`
+char_non: ` and, imagining goats creeping out of the surrounding shadows and the entrance and surrounding me, I raised my guard in all directions...`
+char_bea: `"Ahhaha, be at ease, there's no one here but you and me, see?`
+char_bea: ` There is no goat furniture, there are no demon butlers; Master is not here, nor my close demon friend."`
+char_bea: `"And there are none of the gold butterflies that help compose my physical form, there are no magic circles, and no summoners in attendance!!`
+char_bea: ` ......Do you know what this means?"`
+char_but: `"Not a clue.`
+char_but: ` Quit babbling..."`
+char_bea: `"I have in fact met you several times even in this world.`
+char_bea: ` Almost as though brushing past one another, meeting only for a moment.`
+char_bea: ` ......As you know, this world of {y:0:Human}{n:0:human}s is filled with a toxin just by your existence and your doubting of me."`
+char_bea: `"Almost like solid ramparts strengthening the defense around you, the king!`
+char_bea: ` And through multiple games,`
+char_bea: ` I advanced my pieces one by one, splitting you apart, and cornering you, undermining your ramparts bit by bit."`
+char_bea: `"Then, finally, once I opened a tiny crack, I sent a bishop in, so that it could approach right up next to you.`
+char_bea: ` .........But as you know, bishops are pieces with blind spots."`
+char_bea: `"As long as you stay on the black squares, a black bishop can exert massive influence upon you,`
+char_bea: ` but if you escape just one step to a white square, then even if I close in right next to you, I will not be able to touch you."`
+char_bea: `"That is why I have progressed through these games by sending in various pieces so that you cannot stay on a white square,`
+char_bea: ` forcing you out in front of me, the one who controls the black squares next to you."`
+char_bea: `"Howeeever!!"`
+char_bea: `"There are now holes opened all over your ramparts,`
+char_bea: ` and I was at last able to send in, not a bishop, but a full queen!!`
+char_bea: ` Do you know what kind of piece a queen is?"`
+char_but: `"A rook plus a bishop.`
+char_but: ` ......Is this what you're trying to say?`
+char_but: ` ...Now, you not only control the black squares that are the witch illusions, but have also become able to encroach upon the white squares of the human world at will...?!"`
+char_bea: `"That is correct!!`
+char_bea: ` Where there exist the gold butterflies that are my minions, you have been labeling those squares as witch illusions,`
+char_bea: ` denying them under the hypothesis that they are observerless nonreality, am I right...?`
+char_bea: ` *cackle*cackle*, I am well aware......!!"`
+char_bea: `"For that very reason, I have at last descended thus upon the squares of white!!`
+char_bea: ` Worry not, I'll call plenty of gold butterflies, goats, demons, and witches later on!`
+char_bea: ` If you wish, I will invite you to my Golden Land!!"`
+char_bea: `"There, I will grant you any wish that you desire...!!`
+char_bea: ` Wahha{0}ha{0}ha{0}ha{0}ha{0}ha{0}ha{0}ha{0}ha{0}ha{0}hahaha...!!"`
+char_but: `"......It's starting to look like someone knocked an ink bottle over the chessboard of this island."`
+char_bea: `"I see, that too is a pleasant description...!`
+char_bea: ` *cackle*cackle*, soon, you will be covered in that ink as well.`
+char_bea: ` Before long, you will become dyed pitch‐black, and surely become a black king...!`
+char_bea: ` At this point, you are a pitiful existence drowning in a sea of ink, are you not?"`
+char_but: `"No, I'm not.`
+char_but: ` I'll admit that the island has been stained completely black from your ink bottle,`
+char_but: ` ......but there's still a white square left."`
+char_bea: `"Hoh, and where...?!!"`
+char_but: `"Right under my feet.`
+char_but: ` .........Your magic ink may try to cover the entire island, but it can't cover the ground my feet are standing on.`
+char_but: ` ...Even if this island seems to be stained pitch‐black at a glance, I am me.`
+char_but: ` I am here, with my feet firmly planted on a white square!!"`
+char_non: `It's strange...`
+char_non: ` Until a second ago, I was trembling all over.`
+char_non: `......But now that she's appeared openly right before my eyes like this, my terror has actually lessened.`
+char_non: `It's funny.`
+char_non: ` Ghosts are most terrifying when you can only sense them.`
+char_non: `When you can see them, and they have a face you can plant your fist into, there's nothing scary about it...!!`
+char_non: `......However, she is definitely not a funny or a friendly person.`
+char_non: `......She can kill me instantly while rolling around giggling, just by snapping a finger.`
+char_non: `Whether we interpret the result of her snapping her fingers as magic flying at me or underlings showing up to shoot me, it doesn't matter.`
+char_non: `......In any case, whether this is fantasy or mystery,`
+char_non: ` that queen is in a position where she can kill me just by snapping her fingers......!`
+char_non: `...I see, ......so this is the meaning...`
+char_non: `......of the queen of this island,`
+char_non: ` ...who reigns over both the white and black squares......?!`
+char_bea: `"Now then.`
+char_bea: ` It might be interesting to wait until you catch a cold in all that rain, but it's about time to move to the matter at hand.`
+char_bea: ` .........I am sure that you can tell there is a box there?`
+char_bea: ` Your test is inside of it."`
+char_but: `"Hold it.`
+char_but: ` ......After all that's happened, I'm not interested in some stupid game about who'll be the next head."`
+char_but: `"My game is to take you and the old man, ......and all the rest of you guys who killed everyone, and give every one of you a full‐on punch to the face."`
+char_bea: `"Hoh.`
+char_bea: ` So you will fly through the sky up to my balcony?`
+char_bea: ` Very good, very good, *cackle*!`
+char_bea: ` Come on then, up you come already, come on come on, up up!"`
+char_but: `"......Damn you, acting like you're hot shit just 'cause you're in a completely safe place...`
+char_but: ` I'm coming up there right now, so you better be prepared!!"`
+char_bea: `"Aah, no, no, no.`
+char_bea: ` It's all locked up.`
+char_bea: ` Of course, the shutters are down for all the windows as well.`
+char_bea: ` My castle isn't so fragile that a single knight like you could break in!"`
+char_non: `I tried the front door anyway just in case, ......but, yup, it really was locked.`
+char_non: `{n}When I looked around, I noticed that indeed the shutters were closed on the windows.`
+char_non: `......Normally, they wouldn't be.`
+char_but: `"......Tch.`
+char_but: ` Looks like you prepare for everything.`
+char_but: ` ......Where's the key?!"`
+char_non: `Gohda‐san and Kumasawa‐san probably have master keys, but they're in the locked room of the gardening storehouse.`
+char_non: `......I can only give up for now...!`
+char_but: `"Damn......`
+char_but: ` ......Guess she's no fool herself."`
+char_bea: `"Are you really so dying to be right by my siiiide?`
+char_bea: ` Alright, if you pass your test with flying colors, why don't I grant you an audience?`
+char_bea: ` If you pass, then you will be the successor, and my new master after Kinzo."`
+char_bea: `"......My body and soul will be yours to do with as you will.`
+char_bea: ` Because I am ultimately the Ushiromiya family's furniture!`
+char_bea: ` Ah‐hah‐hah‐hah‐hah‐hah!!"`
+char_but: `"............Well,`
+char_but: ` it looks like you want to make me take this test no matter what.`
+char_but: ` ......Alright.`
+char_but: ` I'm game.`
+char_but: ` ...If I pass, my first prize will be a punch to your face."`
+char_bea: `"Scary, scaary...`
+char_bea: ` But it's not like I mind being controlled by violence, you see?`
+char_bea: ` {i:Grab}...onto my head!`
+char_bea: ` Make my face twist in pain, violate me in the same way a hawk tears apart and scratches at its prey with its talons...!!"`
+char_bea: `"Aaah, remind me of Kinzo in his younger days once more...!!`
+char_bea: ` That single time in my thousand‐year life!`
+char_bea: ` Remind me of that day I was taught the joy of being controlled, of submitting and being reduced to furnituuuuuuuure!!`
+char_bea: ` Uhyaaa{0}hhya{0}hhya{0}hhya{0}hhya!!"`
+char_but: `"......You damn drunk, we aren't getting anywhere."`
+char_non: `Ignoring the stupidly smiling witch, I picked up the box.`
+char_bea: `"Yes.`
+char_bea: ` Open it.`
+char_bea: ` Inside is a letter.`
+char_bea: ` Read it."`
+char_but: `"........................"`
+char_non: `I opened it.`
+char_non: ` ......There was a faint smell of cigarettes.`
+char_non: `{n}Apparently, it really had originally been a cigar case.`
+char_non: `{n}But there were no cigarettes or cigars inside.`
+char_non: `Instead, there was a Western envelope with the One‐winged Eagle crest.`
+char_non: `{n}And when I opened that too, ......there was a letter inside.`
+char_non: `I looked up at the witch.`
+char_non: ` She was grinning down at me.`
+char_non: `......It seemed she was waiting in anticipation to see what kind of reaction I'd have to the contents.`
+char_non: `......Dammit, I'll show her.`
+char_non: ` Its contents were like this...`
+char_non: `{a:c:{e:070:Among the three mentioned below.`
+char_non: `{n}In order to gain two, sacrifice one.`
+char_non: `{n}{n}1. Your life`
+char_non: `{n}2. __'s life`
+char_non: `{n}3. Everyone else's lives`
+char_non: `{n}{n}If you do not choose one, all of the above will be lost.}}`
+char_but: `".........The heck is this?`
+char_but: ` Some pretty creepy stuff's written here.`
+char_but: ` And most importantly, the second one is blank, so I don't even know whose life."`
+char_bea: `"Mm.`
+char_bea: ` That second one is where you put the name of the one that person loves the most.`
+char_bea: ` For Jessica's test, it was Kanon's name, and for George's test it was Shannon's name."`
+char_bea: `"......Since they had obvious feelings for certain people, I was able to write those names in beforehand,`
+char_bea: ` but I don't know who you have feelings for.`
+char_bea: ` So I didn't know whose name to write, and left it blank."`
+char_but: `"That's perfect.`
+char_but: ` I love you, {f:5:Beatrice}.`
+char_but: ` I'll stick your name in here.`
+char_but: ` So my choice is going to be number two.`
+char_but: ` Is that alright?"`
+char_bea: `"Hey, hey, quit joking, quit joking.`
+char_bea: ` Come onnn, please, Battler.`
+char_bea: ` Tell me the name of the person you have feelings for.`
+char_bea: ` If you don't, then this won't be a test, right?"`
+char_but: `"Too bad.`
+char_but: ` I don't have any woman in particular.`
+char_but: ` Even if I did, why the hell would I tell you?"`
+char_bea: `"In that case, this test will not work for you.`
+char_bea: ` Hmmm, what a shame, what a shame.`
+char_bea: ` And I was really wondering what kind of woman was your cup of tea!`
+char_bea: ` *cackle*cackle*!"`
+char_but: `".........What if I said I like young, flat‐chested girls with long, black hair.`
+char_but: ` You don't match in a single area, do you?"`
+char_bea: `"Lies, you breast sommelier!`
+char_bea: ` You prefer a blonde bombshell with a <dynamite body>, don't you?!`
+char_bea: ` I am precisely the embodiment of your ideal, *cackle*cackle*!"`
+char_but: `"If guessing your three sizes is the test to become the successor, I'll take it gladly."`
+char_bea: `"Ah, yes.`
+char_bea: ` This was the test to choose the successor.`
+char_bea: ` Chatting with you is so much fun that I've been getting a bit off topic."`
+char_bea: `"......Then let us begin the headship test.`
+char_bea: ` I will question you to see whether you are qualified to be the next Ushiromiya family head.`
+char_bea: ` Answer with care."`
+char_non: `The witch, who had been joking around like she was drunk until a second ago, suddenly regained her gravitas.`
+char_non: `......She looked as though she truly had stepped out of that imposing portrait...`
+char_bea: `".........I am the Ushiromiya family alchemist, the Golden Witch and the Endless Witch, {f:5:Beatrice}."`
+char_bea: `"......Do you have the qualifications to inherit the Ushiromiya family headship and all of my gold—`
+char_bea: `that is what I will test.`
+char_bea: ` .........State your name."`
+char_but: `"............Ushiromiya...Battler."`
+char_non: `Under that majestic gaze, unimaginable from her manner a short while ago,`
+char_non: ` I answered without any hesitation.`
+char_non: `......She truly was......yes, indeed,`
+char_non: ` ......in the truest sense, she was that worthy of calling herself the queen of this island.`
+char_bea: `"Very good, Ushiromiya Battler.`
+char_bea: ` .........However, you have thrown away that Ushiromiya name for the past six years, have you not...?`
+char_bea: ` Why is that...?"`
+char_but: `".........mgh............`
+char_but: ` ......Because I'd had enough of my dad, the old bastard."`
+char_bea: `"I know.`
+char_bea: ` It was because you felt your father's remarriage disgraced the death of your mother, whom you loved and respected, yes...?"`
+char_bea: `"I see, you have no blood relation to your new mother whatsoever.`
+char_bea: ` It is not as though I cannot understand why you would feel unable to accept that mother.`
+char_bea: ` ......However, no matter who your father remarries with, that does not change the fact that his blood runs in your veins, correct?"`
+char_but: `".........What's your point?"`
+char_bea: `"I can, to an extent, understand the childishness which led you to oppose your father's remarriage out of a desire to have him all to yourself."`
+char_bea: `"However, was throwing away the Ushiromiya name as a means of resistance not a disgrace to your family and blood?"`
+char_bea: `".........You were born and raised Ushiromiya, were you not?`
+char_bea: ` Do you think you were qualified to forget that debt and throw away the Ushiromiya name?"`
+char_but: `"......It has nothing to do with you.`
+char_but: ` This is between me and Dad...!"`
+char_bea: `"The Ushiromiya name does not belong to you and your father alone.`
+char_bea: ` You are a child who simply rebelled, unable to forgive the fact that your father was to be stolen away by an unknown woman.`
+char_bea: ` ......Those six years during which you forsook the Ushiromiya register were a significantly long period where you dragged the Ushiromiya name through the mud.`
+char_bea: ` Know the depths of your sinfulness."`
+char_but: `"..................Well, sorry I'm so childish..."`
+char_bea: `"However.`
+char_bea: ` Even though it was prompted by the deaths of your grandparents, I do commend you for returning to the Ushiromiya register.`
+char_bea: ` Accordingly, I shall give you a chance to purify yourself of that sin.`
+char_bea: ` Now is the time to atone for your sin of six years ago."`
+char_bea: `"Come, try to remember, remember your own sin.`
+char_bea: ` Remember it, confess, and repent.`
+char_bea: ` ............That shall be my test for you."`
+char_non: `......At that moment, a massive thunderclap rang out, making my mind go blank.`
+char_but: `"..............................`
+char_but: ` ......Repent? ...What?`
+char_but: ` .........Are you trying to tell me to apologize?"`
+char_bea: `".........The test has already begun.`
+char_bea: ` You may think as you wish."`
+char_non: `There were no signs from the witch's expression that she was sneering at a person unable to answer the tough question thrust upon them.`
+char_non: `{n}......She was earnestly asking something of him, and he could even feel a quiet determination.`
+char_non: `Even as the rain beat upon him, Battler could not shift his eyes from her gaze.`
+char_non: `......The witch threw her umbrella away.`
+char_non: `{n}She abandoned herself to the falling rain.`
+char_non: `So that the rain would fall on her until Battler answered that question.`
+char_non: `......She had chosen to join him, allowing the rain to beat down on her as well, until he reached an answer.`
+char_non: `For some reason, Battler could tell that.`
+char_non: `{n}......But, even so, ......he didn't understand.`
+char_but: `"W‐......well, ...uh.`
+char_but: ` ......I mean, you're right, I do think I was being childish...`
+char_but: ` All things considered, just 'cause Dad got remarried, that doesn't wipe out what I owe him for raising me."`
+char_but: `"......I hear Dad always kept on sending money over for my living expenses,`
+char_but: ` ......and he even said he wanted to be involved in my school events.`
+char_but: ` .........The only reason he couldn't come is......I told Grandma and Grandpa not to let him come no matter what......"`
+char_bea: `"......................................."`
+char_but: `"......A‐and yeah, ......if you want to just be blunt and say I was being childish and rebellious, I can't argue with that.`
+char_but: ` .........But you know, ...in that case,`
+char_but: ` ......Mom, ......Ushiromiya Asumu, who's gonna set things right for her...?!`
+char_but: ` Mom was so devoted to our family, and did the very best she could...!"`
+char_but: `"But Dad was cheating with Kyrie‐san.`
+char_but: ` He even got her pregnant with Ange...!`
+char_but: ` And then the moment she was born, he rushed them both into his register."`
+char_but: `"......What is that if not a betrayal of Mom?!`
+char_but: ` Who's gonna set things...`
+char_but: `right...`
+char_but: `for her?!!"`
+char_but: `"......But what you're saying is also right.`
+char_but: ` Even though the cheating was a fact, I still owed him for raising me."`
+char_but: `"So I thought I'd cancel those two things out and leave the family, what's the problem with that?!!`
+char_but: ` That's right, I had the right, ......no, the duty to wallop Dad in Mom's place, didn't I?!"`
+char_but: `"I let him get away without that!`
+char_but: ` I left without saying anything, as though I hadn't been there in the first place!!`
+char_but: ` And Dad forgot about me and started a new family with Kyrie‐san and Ange!`
+char_but: ` That settles everything, doesn't it?!!"`
+char_non: `But six years passed after that.`
+char_non: ` ......Time healed the anger.`
+char_non: `Kyrie‐san understood my anger as well,`
+char_non: ` and she tried hard to interact with me despite that, and soften my heart.`
+char_non: `Ange didn't know anything about the situation,`
+char_non: ` and she adored me, believing that I was her real big brother who just lived in a separate house.`
+char_non: `......As for Dad, he was acting like nothing had happened, and told me I could come home any time I wanted.`
+char_but: `"It started to feel more and more stupid keeping it all going!!`
+char_but: ` I thought it was about time for me to cool my head as well.`
+char_but: ` So I said to Dad that if he apologized, I'd call it water under the bridge.`
+char_but: ` On the day of Grandpa's funeral."`
+char_but: `"And that guy, he actually put both his hands on the floor and apologized...!!`
+char_but: ` I couldn't believe how pathetic he looked...!"`
+char_but: `"My dad, who was all about looking cool, actually bowed his goddamn head to me...!`
+char_but: ` ......When I saw that, it felt like it'd be stupid to keep it up any longer."`
+char_but: `"I'm sure Mom would've thought the same thing!`
+char_but: ` Every time Dad and I fought, Mom would always laugh and mediate for us.`
+char_but: ` "Oh, that silly thing is what you were fighting over?"`
+char_but: ` she'd say.`
+char_but: ` ......I could feel Mom saying that and laughing...!!"`
+char_but: `"That's why,`
+char_but: ` ......while I couldn't bring myself to say "I forgive you",`
+char_but: ` .........I thought it might be alright to start over again from zero.`
+char_but: ` So I decided to wind everything back to how it was six years ago.`
+char_but: ` .........And I returned to the Ushiromiya family register...!!`
+char_but: ` I'd cried, raged, and stressed over it for a whole six years!"`
+char_but: `"It might have been the same for Dad, and maybe even for my dead mom.`
+char_but: ` Maybe Kyrie‐san and Ange too.`
+char_but: ` ......So we went back to zero, and I returned to being Ushiromiya Battler!!!`
+char_but: ` That's my immediate family's problem,`
+char_but: ` ......and has nothing the hell to do with the Ushiromiya family!!"`
+char_but: `"You aren't qualified to judge that to be a sin, and I have no duty to show repentance to you!`
+char_but: ` If there was anyone I should have done that for, you've already killed them!!"`
+char_but: `"So I won't apologize for anything!`
+char_but: ` I won't repent!!!`
+char_but: ` That is my answer for this test!!!"`
+char_bea: `"..........................................`
+char_bea: ` ......Is that all...?"`
+char_but: `"What.........?`
+char_but: ` .................."`
+char_non: `I had pretty much fully responded to her provocation,`
+char_non: ` and I was sure that I'd vented out all the stuff that I'd been keeping inside my chest, stuff I hadn't wanted to show anyone.`
+char_non: `That was what the witch had supposedly been hoping for, too.`
+char_non: ` ......And yet, the witch's blank expression didn't change in the slightest.`
+char_non: `I had been sure she would start cackling and guffawing,`
+char_non: ` sneering at my childish, foolish, and shameful past.`
+char_non: `But to the contrary, I could feel a sense of shock about her,`
+char_non: ` ......something you could almost call disappointment.`
+char_but: `".........What do you mean "is that all", ......I've confessed everything inside me!`
+char_but: ` What aren't you happy about?"`
+char_bea: `"The atonement for your sins is still insufficient."`
+char_but: `"Atonement?`
+char_but: ` ......What the hell, are you asking me to prostrate myself right here and apologize like Dad did...?!"`
+char_bea: `"............No.`
+char_bea: ` I have no interest in the home affairs of your immediate family.`
+char_bea: ` Where are we?`
+char_bea: ` Rokkenjima.`
+char_bea: ` The main residence of the Ushiromiya head family.`
+char_bea: ` ......Isn't there a sin you should remember, fitting for this place......?"`
+char_but: `"............Are you......saying that I have...another sin......?"`
+char_bea: `"......Remember, Ushiromiya Battler.`
+char_bea: ` .........And it is your inability to remember which is your sin.`
+char_bea: ` For that reason, I shall forgive you.`
+char_bea: ` If you can remember, I shall forgive you.`
+char_bea: ` .........Remembering that is my test of atonement for you."`
+char_but: `".........That's......a lot easier said than done......"`
+char_bea: `"............Remember.`
+char_bea: ` ......That is why it is a sin."`
+char_but: `"...Sorry, Beato.`
+char_but: ` ......I have absolutely no memory of it."`
+char_but: `"......You make it seem like I caused you trouble six years ago or something,`
+char_but: ` but unless I'm mistaken, this family conference is the first time we met.`
+char_but: ` It's true that your legend did exist six years ago,`
+char_but: ` but I'm pretty confident that we didn't know each other back then."`
+char_bea: `"......Naturally.`
+char_bea: ` On the Rokkenjima of six years ago, I was not yet manifested."`
+char_but: `"Then what kind of sin are you saying I have?`
+char_but: ` ......Are you saying......I've sinned against you somehow...?"`
+char_bea: `"Do not make me repeat myself.`
+char_bea: ` I was not manifested six years ago.`
+char_bea: ` For us to have been acquainted would be an impossibility.`
+char_bea: ` In the world you represent, it was as though I did not even exist."`
+char_non: `......Beato's cold eyes......felt as though they were accusing me of some kind of sin.`
+char_non: `It felt, on the face of it, as though she was still holding a grudge for some way I'd treated her, and was criticizing me for it.`
+char_non: `However, ......I obviously couldn't remember doing anything like that to her, and Beato had said so herself.`
+char_non: `There was no link between us six years ago.`
+char_non: `{p:1:Six years ago, no person called {f:5:Beatrice} existed for me}.`
+char_but: `".........At least give me a hint.`
+char_but: ` ......Does this sin or whatever...have something to do with...`
+char_but: `...you and me......?"`
+char_bea: `"I had no connection to you six years ago.`
+char_bea: ` Remove me from your thoughts already.`
+char_bea: ` ......Why...do you think it is a sin against {i:me}?"`
+char_but: `".........Your......eyes."`
+char_bea: `"Eyes...?`
+char_bea: ` ............Hoh."`
+char_but: `"Your eyes, they're......whispering at me to apologize.`
+char_but: ` ......But I had no connection with you six years ago, and even you admitted that."`
+char_but: `"............Is it true?`
+char_but: ` ......Is it really not a problem between me and you......?"`
+char_bea: `".........I already said it wasn't.`
+char_bea: ` No problem between me and you has anything to do with this."`
+char_but: `"But still, ......your eyes are telling me differently.`
+char_but: ` ............So I don't even have a clue.`
+char_but: ` .........Can you say it in red?`
+char_but: ` Can you declare that the sin you're telling me to remember isn't something between you and me?"`
+char_bea: `"...........................`
+char_bea: ` ......Very well."`
+char_non: `{p:1:The sin I am now demanding that you remember is not between Ushiromiya Battler and {f:5:Beatrice}}.`
+char_but: `".........Then why are you looking at me with those eyes......?"`
+char_bea: `"I do not know.`
+char_bea: ` .........I am simply gazing at you blankly.`
+char_bea: ` If it feels that way to you,`
+char_bea: ` ......perhaps that is because there is something that makes you feel that way."`
+char_but: `"........................`
+char_but: ` .........What the hell kind of sin have I got?"`
+char_bea: `"{p:1:Ushiromiya Battler has a sin}."`
+char_but: `"......I said what kind, dammit.`
+char_but: ` It's probably just some stupid sin, like hitting someone or tricking someone."`
+char_bea: `"{p:1:Because of your sin, people die}."`
+char_but: `"L‐liar...!`
+char_but: ` I've never killed anyone...!!`
+char_but: ` Say it, then!`
+char_but: ` Who did I kill?!`
+char_but: ` When? Who? How?!"`
+char_bea: `"{p:1:Due to your sin, a great many humans on this island die}.`
+char_bea: ` {p:1:None will escape, all will die}."`
+char_but: `"Wh‐.........whaaaaat?!?!`
+char_but: ` Wh‐what the hell are you going on about?!`
+char_but: ` Are you saying {i:I} killed everyone?!`
+char_but: ` I'm a killer?!"`
+char_bea: `"You do not carry it out directly.`
+char_bea: ` .........However, because you committed a sin, the cogs of fate were sent astray, spun a full six years, and due to the deviation that resulted,`
+char_bea: ` ......tonight, this many lives are lost."`
+char_bea: `"{i:You are one of the causes of this tragedy}."`
+char_but: `"......Oh, ......come the fuck on!!`
+char_but: ` {i:I'm} the cause?!`
+char_but: ` Then what?!`
+char_but: ` Are you saying thirteen people died because {i:I} abandoned the Ushiromiya register six years ago?!`
+char_but: ` Are you saying thirteen people died because {i:I} came back to the Ushiromiya family after six years?!"`
+char_but: `"Give me a fucking break!!!`
+char_but: ` For these six years, I've been the man furthest from the Ushiromiya family!`
+char_but: ` What influence could {i:I} have had on {i:anything} and how?!"`
+char_but: `"It's not like I came to the family conference because I wanted to!`
+char_but: ` I'd patched things up with the family after six years, so to like, draw a line under that whole period,`
+char_but: ` I came to Rokkenjima reluctantly...!!`
+char_but: ` It's not like I had some duty to come here today!"`
+char_but: `"I came back, and because of that a tragedy occurred?`
+char_but: ` Then what?!`
+char_but: ` You're saying that if I hadn't come back, no one would've had to die?!"`
+char_but: `"Say it in red!!`
+char_but: ` Can you say in red that if I hadn't come back, this screwed‐up murder case wouldn't have occurred?!`
+char_but: ` ......There's no way you can, because you're the culprit behind everything!!"`
+char_but: `"Repetition requested!!`
+char_but: ` "If Ushiromiya Battler hadn't returned to Rokkenjima, the crime wouldn't have occurred".`
+char_but: ` Go on, say it if you think you can...!!"`
+char_but: `"......Can't do it, can you?`
+char_but: ` There's no way in hell you can, the culprit is you, not me!!`
+char_but: ` Don't you dare try to push the blame for this onto meeeeeeee!!!"`
+char_bea: `"......................................."`
+char_but: `"......Answer, in red!!`
+char_but: ` I said repeat it...!!`
+char_but: ` You can't!`
+char_but: ` My existence has nothing to do with the crime.`
+char_but: ` Stop messing with my heeeaaaad!!!"`
+char_non: `I began to remember that the raindrops pounding down were cold.`
+char_non: `......The rain earlier had just hurt,`
+char_non: ` ......but now I felt a tormenting cold from those raindrops......`
+char_bea: `".................................`
+char_bea: ` ......Is there nothing that you remember?"`
+char_but: `".........Sorry,`
+char_but: ` but I don't have a goddamn clue."`
+char_bea: `".............................."`
+char_but: `"......Look.`
+char_but: ` ......I'm starting to get a little pissed off.`
+char_but: ` ......If there's something you wanna say, then say it.`
+char_but: ` If you have a grudge against me, you just have to come out and say it.`
+char_but: ` ......Don't be nasty about it and demand for me to remember."`
+char_bea: `"............I'll ask one more time.`
+char_bea: ` ......Can you not remember any sin?"`
+char_but: `"No!!`
+char_but: ` I can't remember a goddamn thing...!!"`
+char_bea: `".........So...`
+char_bea: `...he says that he can remember...nothing."`
+char_bea: `With this, are your regrets at an end......?`
+char_bea: `"...........................`
+char_bea: ` ...............m...m..."`
+char_bea: `Even a hopelessly long shot will be a source of regret if not attempted.`
+char_bea: `{n}`
+char_bea: `......That will do.`
+char_bea: `{n}`
+char_bea: `The attempt itself has meaning.`
+char_bea: `".........That may be true.`
+char_bea: ` ...In that case, this is...`
+char_bea: `the end of my regrets, and my game."`
+char_bea: `What will you do...?`
+char_bea: `"...Who knows.`
+char_bea: ` .........I'm not interested at all anymore.`
+char_bea: ` ......Sorry, but I wish to leave the game board now."`
+char_bea: `..............................`
+char_bea: `{n}`
+char_bea: ` ......I see.`
+char_bea: ` ......I understand.`
+char_bea: `"I will take over for the rest of the game.`
+char_bea: ` .........You may rest."`
+char_bea: `"......Mm.`
+char_bea: ` ..............."`
+char_bea: `"All that remains, I will finish.`
+char_bea: ` .........You may forget everything and bury your head in your pillow.`
+char_bea: ` A feather futon should gently protect you from everything."`
+char_bea: `".........Finish up the rest for me, ......please."`
+char_bea: `"Leave it to me.`
+char_bea: ` ......Leave everything else to me, and sleep."`
+char_non: `The witch who had questioned Battler hid herself,`
+char_non: ` and the other witch, who had appeared from behind, remained.`
+char_non: `She was certainly identical, the same witch,`
+char_non: ` .........but her expression was somehow indifferent and ice‐cold,`
+char_non: ` ......a far cry from the one before, who, though apparently drunk, had at least been in high spirits.`
+char_but: `"...............Hey!!`
+char_but: ` Are you listening?!`
+char_but: ` That's enough for that test thing, right?!`
+char_but: ` I don't give a crap whether I passed or failed!`
+char_but: ` The only thing that's gonna help the way I'm feeling is bashing you in the face!!`
+char_but: ` Get the hell down here!!`
+char_but: ` Or else open up this door...!!"`
+char_non: `The witch said nothing back.`
+char_non: `Her eyes were as ice‐cold as Battler's shoulders.`
+char_non: `......She was clearly a different person from the one who had first appeared on that balcony.`
+char_non: `The witch looked hard into my eyes, ......and gave two small shakes of the head.`
+char_non: `Even without words, I was able to gather that she was expressing some kind of disappointment...`
+char_non: `Without saying anything, the witch turned on her heels.`
+char_non: `After that, only Battler remained, the cold rain still beating down on him.........`
+char_non: `The study was in the middle of a lively party.`
+char_non: `It seemed that Gaap was making fun of {f:5:Virgilia}, teasing her over some stupid triviality.`
+char_non: `...They were spitting "Lialialia", "Gapgapgap" at each other.`
+char_non: `Kinzo and Ronove had opened a new bottle and were enjoying the show.`
+char_kin: `"Oh, you're back.`
+char_kin: ` How were the results of Battler's test?!"`
+char_kin: `"Maria's test got passing marks with no complaints, I'll have you know?`
+char_kin: ` I've long held her in contempt as a worthless little urchin,`
+char_kin: ` but lo and behold, surprise surprise, {nobr:my oh} {nobr:my oh} {nobr:my oh} my, not bad, not bad, not bad indeed!`
+char_kin: ` Wa‐hah‐hah‐hah‐hah‐hah!!"`
+char_non: `It seemed like Kinzo was dead drunk.`
+char_non: `{n}He laughed towards Beato with the same level of excitation as the time they'd left for the tests.`
+char_non: `...However, Ronove and {f:5:Virgilia} instantly noticed the change in her enthusiasm.`
+char_non: `Gaap also froze her expression and went silent.`
+char_kin: `"Wahhahahahahahhahha, what is it, {f:5:Beatrice}, my beloved witch?`
+char_kin: ` Not enough to drink? Not enough on the side?`
+char_kin: ` Let's go out in the pouring rain and roast a cow whole, oohhh, not a bad idea!"`
+char_kin: `"Ronove, make the preparations right away!`
+char_kin: ` {f:5:Beatrice}, let's leave the results of Battler's test for later.`
+char_kin: ` Why don't we have a toast with spare ribs first, uwa‐hah‐hah‐hah‐hah‐hah!!"`
+char_bea: `"..................Roast yourself whole."`
+char_kin: `"‐ha‐hah‐hah‐hah,`
+char_kin: ` ......what?"`
+char_non: `As Kinzo doubled over laughing in a great mood, the witch who had spoken bluntly passed him coldly by.`
+char_non: `......Then, behind the witch's back,`
+char_non: ` .........the old summoner's body suddenly went up in flames...`
+char_kin: `"Gyuoaaaaooaahhh!!!!`
+char_kin: ` Gwohh, gah, ......gyah.........w...h...y............?!"`
+char_non: `While spitting crimson flames from his eyes, mouth, nose...every hole on his body, Kinzo rolled around.`
+char_non: `......Even though it was a terrible hellfire, it didn't burn anything except Kinzo.`
+char_non: `Kinzo didn't have a clue what was going on.`
+char_non: `......He rolled around, unable to understand why {f:5:Beatrice}, who had been in such a good mood,`
+char_non: ` had suddenly turned so cold......`
+char_non: `The dancing silhouettes of witches and demons created by that massive rolling torch...`
+char_non: `looked like a group of excited spectators around a burning at the stake.`
+char_non: `However, the eyes of the demons watching over it were indifferent......`
+char_non: `When Kinzo finally stopped moving, the fire disappeared, leaving a pitch‐black corpse.`
+char_non: `The inside of the room was commanded by the stillness of the sound of the rain......`
+char_ron: `"......What has happened, Milady?"`
+char_bea: `"It has lost its thrill.`
+char_bea: ` .........Clean up those bothersome cinders."`
+char_non: `{f:5:Beatrice}'s expression......was unbelievably apathetic.`
+char_non: `...There was an iciness there that told the others that they risked the same fate as Kinzo if they annoyed her.`
+char_gap: `"............Y‐yes.`
+char_gap: ` I will do it..."`
+char_non: `Gaap made a jet‐black pitfall swallow up Kinzo's cinders.`
+char_non: `...If she hadn't carried that out quickly, Gaap might also have been burned.`
+char_non: ` You could feel that thirst for blood.`
+char_non: `No, a thirst for blood probably isn't the best way to describe it.`
+char_non: `......Just like humans don't have any particular emotion when they step on an ant while walking.`
+char_non: `......That was how much, unconsciously and mercilessly, Beato was now filled with a brutal emptiness that wouldn't hesitate to bury a passerby...`
+char_wal: `"......Wh‐what is it, Beato?"`
+char_bea: `"I don't want to answer.`
+char_bea: ` ...............No, I can't even be bothered to answer any more."`
+char_gap: `".........What is it? This isn't like you.`
+char_gap: ` ......Did something happen?`
+char_gap: ` Did Battler say someth—"`
+char_gap: `".........k...g...gyhh—"`
+char_non: `{f:5:Beatrice} hadn't even responded.`
+char_non: ` It seemed that she had even ignored it.`
+char_non: `But there was a change in Gaap.`
+char_non: `From her feet, a crackling, cracking sound rose, like thin ice breaking,`
+char_non: ` ......and in an instant, turned Gaap into a glass sculpture.`
+char_wal: `"G‐......Gaap..."`
+char_bea: `"............Disappear for a while.`
+char_bea: ` I'm in a very bad mood."`
+char_non: `{f:5:Beatrice} spoke in a truly cold voice,`
+char_non: ` ......which froze the heart just to hear it.`
+char_ron: `"......Certainly.`
+char_ron: ` In that case, please allow us to retire.`
+char_ron: ` .........If you need anything, call at any time."`
+char_non: `After a single bow, Ronove turned into a cloud of gold butterflies, and hid himself.`
+char_non: `{f:5:Virgilia} turned Gaap from a sculpture into a group of gold butterflies,`
+char_non: ` and then turned into a cloud of them herself, which mixed in with the others and disappeared.`
+char_non: `............In the study made untidy by drinking,`
+char_non: ` ......{f:5:Beatrice} stood still, alone.`
+char_non: `Since the time she had returned, her expression hadn't changed in the slightest...`
+char_non: `......However, when she saw the fallen empty wine bottles and scattered cheese plates,`
+char_non: ` her brow furrowed, and she looked a bit displeased.`
+char_non: `And when she whispered "disappear", in that instant, the room flashed, and was tidy again, as though nothing had ever happened.`
+char_non: `The reception chairs were neatly arranged, and there was no wine or cheese.`
+char_non: `{n}There were no stains where things had been spilled, nor was there any scattered trash.`
+char_non: `......To the contrary, even the air had frozen over,`
+char_non: ` and, enough to make one doubt whether so many noisy people really had been in this room until just moments ago,`
+char_non: ` .........the study had returned to total silence.`
+char_non: `.........In that silent, ......frigid study where even the air had frozen,`
+char_non: ` {f:5:Beatrice} stood still...`
+char_non: `Then, she called him in a mutter.`
+char_bea: `"..................Battler.`
+char_bea: ` Are you there?"`
+char_but: `"......I've been here for a while.`
+char_but: ` .........What the hell's going on with you?`
+char_but: ` You've been acting strange."`
+char_bea: `"Do I seem strange?`
+char_bea: ` My apologies."`
+char_but: `"............Even though you were having such a good time drinking with that damn old fart, you suddenly burned him up,`
+char_but: ` and your demoness friend is a glass sculpture.`
+char_but: ` ......Even your demon butler and your master got a "disappear and get the hell out".`
+char_but: ` ......Just how fickle and selfish are you?"`
+char_bea: `"Battler. I'm done."`
+char_but: `"With what?"`
+char_bea: `"............I've had enough, now."`
+char_but: `"Wha?`
+char_but: ` .........Well, uh, you were the one who cooked up this game.`
+char_but: ` Heh, if you've had enough, that's great for me.`
+char_but: ` So basically, you're resigning?"`
+char_bea: `"I am not resigning.`
+char_bea: ` I am just ending it.`
+char_bea: ` No, I won't even end it.`
+char_bea: ` The game will simply be abandoned for all eternity."`
+char_but: `"Pretty sure they call that resigning.`
+char_but: ` ......Man, the words "got tired of it and threw it away" fit you perfectly."`
+char_bea: `"Precisely.`
+char_bea: ` I am tired of it and am throwing it away.`
+char_bea: ` I don't care about the rest.`
+char_bea: ` It can remain abandoned and gather dust as much as it likes."`
+char_but: `"........................`
+char_but: ` ......What's up with you?`
+char_but: ` You've been kinda hard to deal with since a short while ago."`
+char_but: `"......Are you still sour over that baffling test?`
+char_but: ` If you've got something against me, all you have to do is say it clearly."`
+char_but: `"You said in red that it has nothing to do with you, but that's got to be a play on words, right?`
+char_but: ` It's written all over your face.`
+char_but: ` You have a grudge against me."`
+char_bea: `"How many times will I have to say I have no grudge against you before you'll understand?`
+char_bea: ` At the time you left your sin behind, I did not exist."`
+char_non: `As Beato spoke with an irritated expression, her face twisted to look even more displeased.`
+char_non: `Fickle.`
+char_non: ` Inconsistent.`
+char_non: ` Moody.`
+char_non: ` Temperamental.`
+char_non: ` ......Selfish and simple‐minded and cruel.`
+char_non: `But even so, she had never shown an expression as strange as this even once before now...`
+char_but: `"............Well, you were the one who instigated this game.`
+char_but: ` I'm a bit let down that it won't get resolved, but feel free to invite me again sometime if you feel like it.`
+char_but: ` But when that time comes, allow me to politely decline, alright?`
+char_but: ` Heheheh."`
+char_non: `He intentionally spoke in a teasing kind of tone, but Beato showed no reaction.`
+char_non: `......Battler hung his head and clicked his tongue...`
+char_but: `"I've circled around October 4th and 5th over and over again, but it looks like I'm finally going to be free of all that now.`
+char_but: ` ......This way, the boat will come tomorrow."`
+char_but: `"...That's right, then the seagulls will return to the harbor.`
+char_but: ` ......I'll finally be able to hear Rokkenjima's signature "nyaa nyaa" cries.`
+char_but: ` After all, when I came to the island, they weren't there at all, maybe because of the weather."`
+char_but: `".........‘When the seagulls cry, everything will end’, basically.`
+char_but: ` ......Done and done, all over, the end.`
+char_but: ` Man, what a relief."`
+char_bea: `".........Exactly what is it that you're misunderstanding?"`
+char_but: `"Hm?`
+char_but: ` What do you mean what?"`
+char_bea: `".........I said that nothing would end.`
+char_bea: ` With this, everything will be abandoned.`
+char_bea: ` The game will be forgotten, and the pieces on the board will be left where they lie.`
+char_bea: ` There will be no advancing, no retreating, no taking or being taken.`
+char_bea: ` No victory, no defeat, not even a tie.`
+char_bea: ` Just abandoned."`
+char_but: `"............Doesn't that mean it's over?"`
+char_bea: `"Wrong.`
+char_bea: ` On my turn, the game will stop for all eternity.`
+char_bea: ` Your turn will not come.`
+char_bea: ` So there will be no victory, nor defeat, nor a tie."`
+char_bea: `".........In the past, I could not allow you to do that to me.`
+char_bea: ` That was because I had the goal of victory against you.`
+char_bea: ` However, I have lost interest in that.`
+char_bea: ` So there is no longer any point in me making any further moves."`
+char_but: `"............What do you mean by...my turn won't come...?"`
+char_non: `I'd thought that Beato getting tired of the game meant I'd be released, and I'd be able to escape Rokkenjima.`
+char_non: `But for some reason, the meaning of Beato's repeated words about the difference between abandoning the game and settling it...`
+char_non: `...was starting to bother me...`
+char_non: `.........Just what has she been saying, ...and why the bad mood......?`
+char_non: `Suddenly, I heard a voice from behind me.`
+char_non: `When I turned around, ......there was someone I thought I might, or might not, remember from somewhere...`
+char_non: `......A mysterious girl, with no light in her eyes, was standing there.`
+char_ber: `".........What she means is something like this.`
+char_ber: ` ......Putting the lid back on this game, leaving the pieces as they are.`
+char_ber: ` Without ending, the game will be locked away for all eternity."`
+char_lam: `"The only way for you to return to your original world is to win against Beato.`
+char_lam: ` .........So Beato abandoning the game would mean...`
+char_lam: ` ......Get it?"`
+char_non: `Suddenly, in another place, there was a girl wearing a bright pink dress.`
+char_non: `......I had a feeling I'd met her somewhere too, but I couldn't remember.`
+char_non: `More important was the meaning of the words she said.`
+char_non: `{n}......The game being abandoned means......huh?`
+char_ber: `".........That's all there is to it.`
+char_ber: ` No match can reach its conclusion without two opposing sides.`
+char_ber: ` .........It means that you'll never be able to win and escape this world for all eternity."`
+char_lam: `"In the end, ......it's kinda like taking the key to the cage that you're locked in,`
+char_lam: ` fastening it to the collar of a pigeon or something and letting it fly, I guess."`
+char_lam: `"............This isn't funny, Beato.`
+char_lam: ` We didn't come all the way here to watch a boring game like this.`
+char_lam: ` Just wrapping it up here? You have to be kidding me."`
+char_ber: `".........I'm with Lambda.`
+char_ber: ` I came here to make Battler win, and to make you thrash about in defeat.`
+char_ber: ` I still haven't achieved that goal.`
+char_ber: ` ......I couldn't bear for the game to be abandoned here, for you to just run away on me."`
+char_bea: `"I acknowledge that the way the curtain has fallen on this game has made for a disappointing end for you ladies.`
+char_bea: ` ......However, I, the host of this tea party, am after all fickle.`
+char_bea: ` Once the fun is gone, I know no way of entertaining.`
+char_bea: ` ......I believe that to be what makes me the witch I am in the first place.`
+char_bea: ` There should be no problems with this...?"`
+char_ber: `"..............................`
+char_ber: ` ......True.`
+char_ber: ` I won't go against your creed."`
+char_lam: `"I won't stand for this...`
+char_lam: ` ......Don't you dare, how much do you think I've supported you...`
+char_lam: ` All that preparation, and you want me just to pack it all in now?`
+char_lam: ` I don't think so...!!"`
+char_bea: `"I am saying that I have tired of it.`
+char_bea: ` Nothing more, nothing less."`
+char_lam: `"That's not happening...`
+char_lam: ` You're going to continue this game.`
+char_lam: ` You want to win against Battler, right?`
+char_lam: ` You want to win and make him submit, right?!`
+char_lam: ` You're almost there!`
+char_lam: ` Isn't she~?!"`
+char_but: `".........D‐don't turn to me for agreement.`
+char_but: ` ......That said, I do have an opinion too.`
+char_but: ` If you'll let me say it."`
+char_bea: `"............What."`
+char_but: `"You brought this fight to my door.`
+char_but: ` I'm prepared to settle this fight one way or the other.`
+char_but: ` ......I've come close to surrendering many times,`
+char_but: ` but I've never had any intention of escaping part‐way through, leaving the match undecided."`
+char_but: `"......As long as I'm here, showing the will to fight,`
+char_but: ` ......don't you go running away, {f:5:Beatrice}."`
+char_enj: `"............I agree.`
+char_enj: ` Getting Battler involved and then leaving without giving him victory or defeat is just beyond irresponsible."`
+char_non: `Suddenly, even Gretel was there.`
+char_non: `{n}......And everyone was criticizing Beato for being irresponsible.`
+char_bea: `"Hoh.`
+char_bea: ` .........It seems that the greatest reason I am being called irresponsible is that Battler will be stuck as an opponent."`
+char_bea: `".........In that case, Battler.`
+char_bea: ` Will you step down from being an opponent, as I shall?`
+char_bea: ` That way, there will be nothing to criticize me for."`
+char_but: `"If I step down, will I be able to leave Rokkenjima...?"`
+char_bea: `"Of course not.`
+char_bea: ` Just be covered in dust and let it pile up on your shoulders."`
+char_enj: `".........Stop being so stupid.`
+char_enj: ` Just how irresponsible are you?`
+char_enj: ` You've killed all this many people.`
+char_enj: ` On top of that, using your witch's power, you've done it over and over.`
+char_enj: ` In gruesome ways!`
+char_enj: ` .........There's no way I can allow you to escape without taking responsibility...!"`
+char_bea: `"Responsibility.`
+char_bea: ` ......Hoh, what is it I should do to take this so‐called responsibility?"`
+char_enj: `"Fight until a resolution is reached.`
+char_enj: ` Battler will sit in the chair across from you, never giving up, and fighting until he beats you.`
+char_enj: ` So you too fight until you're defeated.`
+char_enj: ` If you don't want that to happen, then try and defeat him...!!"`
+char_enj: `"I won't let you...leave everything unresolved and abandon Battler in this chair,`
+char_enj: ` ......lock him up forevermore and never let him return...`
+char_enj: ` .........I won't let you......!!"`
+char_but: `"......Gretel."`
+char_non: `To be perfectly honest,`
+char_non: ` I didn't really understand from what standpoint Gretel was trying to save me.`
+char_non: `......But in her words,`
+char_non: ` I could feel a strong determination to save me from this crazy game world no matter what.`
+char_non: `So, I also responded to that.`
+char_but: `"Beato.`
+char_but: ` Face this way."`
+char_bea: `"....................."`
+char_but: `"I am here.`
+char_but: ` Across from you, in the rival's seat.`
+char_but: ` ......Get it?`
+char_but: ` As long as I continue to sit here,`
+char_but: ` I won't permit you to escape.`
+char_but: ` ......So don't run away. Fight."`
+char_but: `"You started this fight, dammit.`
+char_but: ` All the crap you've pulled, again and again and again, the total shitshow you've turned this whole thing into!`
+char_but: ` And now after all this time you think I can let you end it because you're {i:tired} of it?!!"`
+char_but: `"I am your opponent!!`
+char_but: ` As long as I'm here,`
+char_but: ` there's no way I'm letting you escape!!"`
+char_but: `"Are you listening, you goddamn Witch of Irresponsibility?!`
+char_but: ` Why don't you say some{-}thiii{-}i{-}i{-}i{-}i{-}i{-}i{-}i{-}i{-}i{-}i{-}ing!!!"`
+char_non: `After I yelled at her, ......Beato went silent for a while.`
+char_non: `Whether my words had reached her, or whether she was thinking about something completely different...I couldn't tell.`
+char_non: `But for a while, she was silent,`
+char_non: ` ......gazing at me with an expression I could read no emotion from,`
+char_non: ` ......and when she realized that I noticed, she averted her gaze.`
+char_non: `Then she turned her back to me, ......and said this...`
+char_bea: `"So you ladies say that......since Battler will not quit as my opponent, you cannot accept my abandonment of this game."`
+char_bea: `"............In that case, I shall ask...`
+char_bea: `whether the man over there was qualified to be my opponent in the first place."`
+char_enj: `".........Qualified?"`
+char_but: `"...Probably has something to do with that test or whatever just now."`
+char_ber: `"...............What are you planning to do...?"`
+char_lam: `"...Y‐...you aren't gonna—"`
+char_bea: `"I will now question you to determine whether or not you are qualified to be my opponent."`
+char_bea: `".........Listen, now, Battler.`
+char_bea: ` If those qualifications are acknowledged, I will stay in my seat and continue the game.`
+char_bea: ` And I shall promise to fight for all eternity until the outcome is decided."`
+char_but: `"Heh!`
+char_but: ` I was ready for that from the beginning."`
+char_bea: `"............However,`
+char_bea: ` if you are not qualified,`
+char_bea: ` ......you will disappear.`
+char_bea: ` If the opponent disappears, there is no game.`
+char_bea: ` I can leave this place openly.`
+char_bea: ` .........Are you ladies satisfied?`
+char_bea: ` I will not permit interruptions."`
+char_ber: `"..............................`
+char_ber: ` ......Go ahead, do as you like."`
+char_lam: `"......B‐...Battler...`
+char_lam: ` You......make sure you answer well..."`
+char_but: `"The very reason I'm here is because I'm qualified, right?`
+char_but: ` Heh, there's nothing to be scared of...!"`
+char_enj: `".....................`
+char_enj: ` .........Y‐......you couldn't be......"`
+char_non: `Gretel grew suddenly pale.`
+char_non: ` ......I'd thought her to be the calm, collected type, so her expression surprised me.`
+char_bea: `"......Well then, Battler.`
+char_bea: ` I shall have you repeat in red."`
+char_but: `"Y‐you're giving me a repetition request?`
+char_but: ` Heheh... Damn you, stealing my signature move.`
+char_but: ` ...But can I do the red truth too?`
+char_but: ` How...?"`
+char_lam: `"............Ju‐just will it to be so and you can do it.`
+char_lam: ` It's easy."`
+char_but: `"{p:1:My name is Ushiromiya Battler}.`
+char_but: ` ......Wh‐......whoa, pretty cool."`
+char_enj: `"Stop it!!`
+char_enj: ` I know what you're after...!!`
+char_enj: ` But don't do it!`
+char_enj: ` He's......!!"`
+char_non: `When Gretel yelled, Beato glared at her.`
+char_non: `{n}Then, her form was wiped away in an instant.`
+char_bea: `"Shut up.`
+char_bea: ` You leave your seat for a while.`
+char_bea: ` You too, ladies.`
+char_bea: ` If you are going to interfere, I will not hold back."`
+char_ber: `"...............We won't get in the way.`
+char_ber: ` Go ahead, do as you like."`
+char_lam: `"B‐Bern, this is bad!!`
+char_lam: ` She's trying to erase him, she's trying to erase Battler!!"`
+char_but: `"......What......?`
+char_but: ` What is it she's......scheming here......?"`
+char_bea: `"Well then, I shall question your qualifications.`
+char_bea: ` ............Interesting.`
+char_bea: ` Attack and defense are reversed from a normal game.`
+char_bea: ` This is a very precious experience, coming at the very, very end.`
+char_bea: ` .........Ready? First listen carefully.`
+char_bea: ` I will speak with the red first."`
+char_bea: `{p:1:I am the Golden Witch, {f:5:Beatrice}}.`
+char_bea: `{n}`
+char_bea: `{p:1:And I opened this game in order to fight Ushiromiya Kinzo's grandchild, Ushiromiya Battler}.`
+char_but: `"......I know that.`
+char_but: ` So what?"`
+char_bea: `"Repetition requested.`
+char_bea: ` .........‘Ushiromiya Battler's mother is Ushiromiya Asumu’."`
+char_but: `"Whaa?!`
+char_but: ` ...Why's Mom's name popping up all of a sudden......?"`
+char_bea: `"I do not require chatter.`
+char_bea: ` Just repeat it in red."`
+char_non: `Beato urged me with the same indifferent tone.`
+char_non: `......But I don't have a clue what she's trying to do.`
+char_non: `{n}......I've done absolutely nothing wrong that I'd hate to be confronted with, and there's nothing that I'm hiding.`
+char_non: `There's nothing she could demand for me to repeat that would cause me any trouble.`
+char_non: `{n}......So, why something like this...?`
+char_but: `"Sure, I'll repeat it.`
+char_but: ` {p:1:Ushiromiya Battler's mother is Ushiromiya Asumu}.`
+char_but: ` ......The red sure is convenient.`
+char_but: ` No need to bother myself with bringing a copy of the family register."`
+char_bea: `"I do not require chatter.`
+char_bea: ` I will continue.`
+char_bea: ` "Your name is Ushiromiya Battler"."`
+char_but: `"......Sure.`
+char_but: ` {p:1:My name is Ushiromiya Battler}."`
+char_bea: `"It was from Ushiromiya Asumu that Ushiromiya Battler was born."`
+char_but: `"{p:1:It was from Ushiromiya Asumu that Ushiromiya Battler was born}."`
+char_bea: `"It was from Ushiromiya Asumu that you were born."`
+char_but: `"{p:1:It was from Ushiromiya}...`
+char_but: `{m:-5:—}—...`
+char_but: `...hhnguh...`
+char_but: `...{nobr:{m:-5:——}—}?!`
+char_but: ` {nobr:{m:-5:——}—}?!?!"`
+char_non: `All of a sudden, my throat closed...`
+char_non: `{n}I was suddenly assaulted by a shortness of breath that felt as if I had been choked.`
+char_non: `Wh‐.........what's going on......?`
+char_non: ` O‐......one more time......`
+char_but: `"It was from Ushiromiya Asumu that I was born...`
+char_but: ` ...Dammit...`
+char_but: ` It was from Ushiromiya Asumu that I was born..."`
+char_but: `"............Wh‐what the hell?`
+char_but: ` Even though I was doing it so easily a second ago, I suddenly stopped being able to get the red to work...!"`
+char_bea: `"........................Do you decline to repeat it?"`
+char_but: `"I'm not declining...!!`
+char_but: ` It's not working for some reason...!!`
+char_but: ` It was from Ushiromiya Asumu that I was born...!!`
+char_but: ` Why?!`
+char_but: ` Dammit, why can't I use the red?!`
+char_but: ` What the hell?!?!"`
+char_lam: `"..................tch..."`
+char_ber: `"..........................."`
+char_non: `My Mom is Ushiromiya Asumu!`
+char_non: `{n}Why can't I say that fact in red?!`
+char_non: `{n}What's going on...?!`
+char_non: ` Th‐this is......gghh—!!`
+char_bea: `"If you try to forcefully speak red that cannot be spoken, you will choke.`
+char_bea: ` There is no need to strain yourself.`
+char_bea: ` .........Allow me to use the aforementioned fact to press you in blue."`
+char_bea: `"......Do you remember?`
+char_bea: ` The blue is used to proclaim a theory for the opponent to deny.`
+char_bea: ` They are then burdened with the responsibility of denying that in red, and if they do not, then it is victory.`
+char_bea: ` .........Then let me begin."`
+char_bea: `{p:2:Due to the previous repetition request, and the refusal to repeat,}`
+char_bea: ` {p:2:I proclaim that you are not qualified to be my opponent}.`
+char_bea: `{p:2:After all,}`
+char_bea: ` {p:2:{f:5:Beatrice} opened this game in order to fight with "Ushiromiya Kinzo's grandchild, Ushiromiya Battler"}.`
+char_bea: `{p:2:This gave you the responsibility, as my opponent,}`
+char_bea: ` {p:2:to declare in red that you are "Ushiromiya Kinzo's grandchild, Ushiromiya Battler"}.`
+char_bea: `{p:2:You declined to repeat that}.`
+char_bea: `{n}`
+char_bea: `{p:2:This means the loss of your qualifications}.`
+char_lam: `"......D‐......deny something about that in red...`
+char_lam: ` ...Quickly!!"`
+char_but: `"S‐sure...`
+char_but: ` I,`
+char_but: ` {p:1:I am Ushiromiya Battler}...!`
+char_but: ` Given that I'm able to repeat that in red, that should mean that I'm your opponent!!"`
+char_bea: `"It may be a fact that you have the name Ushiromiya Battler.`
+char_bea: ` However...`
+char_bea: ` {p:2:People's names are not exclusive}.`
+char_bea: ` {p:2:It is possible for multiple humans to have the name Ushiromiya Battler}."`
+char_bea: `"`
+char_bea: `{p:2:What it comes down to is this}.`
+char_bea: ` ......{p:2:You are a different person with the same first and last names as Ushiromiya Asumu's son, Ushiromiya Battler}."`
+char_but: `"Wh‐......what......?!!`
+char_but: ` Don't be so stupiiiiiiiiid!!`
+char_but: ` I'm Mom's kid!!`
+char_but: ` Ushiromiya Asumu's kid!!"`
+char_but: `"`
+char_but: `{p:1:It was from Ushiro}miya Asumu that...`
+char_but: `—...`
+char_but: `hkkhk—`
+char_but: `......nn'g'g'gkkhh......!!!`
+char_but: ` ............*gasp*!"`
+char_but: `"Shit!!`
+char_but: ` Why?!`
+char_but: ` Why can't I say that I was born from my mom?!`
+char_but: ` How could something so stupid be true?!"`
+char_bea: `"No need to suffer.`
+char_bea: ` I will not toy with you.`
+char_bea: ` ......This is checkmate.`
+char_bea: ` {p:1:You are not Ushiromiya Asumu's son}."`
+char_non: `...............Wha—...............`
+char_but: `"You're.........`
+char_but: `kidding......me..............."`
+char_bea: `"Who are you?`
+char_bea: ` What person calling themselves Ushiromiya Battler?"`
+char_but: `"W‐...wait a second...`
+char_but: ` ......I am...Ushiromiya Battler......`
+char_but: ` It was from Ushiromiya Asumu that I was born, and I'm Mom and Dad's son...!"`
+char_bea: `"No.`
+char_bea: ` There is no way that you are the Ushiromiya Battler with qualifications as my opponent.`
+char_bea: ` And as proof..."`
+char_but: `"Proof?!"`
+char_bea: `"You do not know of that sin six years ago."`
+char_but: `".........Uh,`
+char_but: ` .........th‐that's............"`
+char_bea: `"No, if you were the true Ushiromiya Battler, you would not commit a sin.`
+char_bea: ` But consequently, a sin did occur, a span of six years became a blank space,`
+char_bea: ` and a man who knew nothing of that time appeared on Rokkenjima calling himself Ushiromiya Battler.`
+char_bea: ` ............The truth of it all...goes like this."`
+char_non: `Six years ago, ......the true Ushiromiya Battler, qualified to be my opponent, was already dead.`
+char_non: `You were involved in a plot by Rudolf having something to do with distribution of the inheritance...`
+char_non: `a body double set up in Ushiromiya Battler's place.`
+char_but: `"I, ......I've never heard anything so stupid.........`
+char_but: ` .........That's......just......absurd............"`
+char_lam: `"......B‐Battler......!`
+char_lam: ` Get ahold of yourself...!!"`
+char_ber: `"...........................Well.`
+char_ber: ` ...If he can't counter back, there's nothing more to do.`
+char_ber: ` ...Battler did not possess the qualifications.`
+char_ber: ` That's how it is."`
+char_lam: `"A‐are you okay with that, Bern?!`
+char_lam: ` If you accept that, you'll lose too, you know?!"`
+char_ber: `"Uh, and you'll win.`
+char_ber: ` ......Why are you taking Battler's side......?"`
+char_lam: `"Mgh, ............mghhh..."`
+char_ber: `"How disappointing, Battler.`
+char_ber: ` .........It really is disappointing that you didn't have the qualifications to be {f:5:Beatrice}'s opponent.`
+char_ber: ` I was careless myself.`
+char_ber: ` I can't believe I bet on an unqualified piece.`
+char_ber: ` ............You've defeated me utterly, {f:5:Beatrice}."`
+char_bea: `"......There is no victory or defeat.`
+char_bea: ` The opponent will simply disappear.`
+char_bea: ` Perhaps I should say that he was never there in the first place."`
+char_but: `"But then......who.........am I......?`
+char_but: ` Am I......not Mom and Dad's kid......?!"`
+char_but: `"Who am I...... What am I......?`
+char_but: ` ............If I'm not Mom's kid, ......then what, are you saying I'm some total stranger's kid with no relation to them at all?!"`
+char_bea: `"If that is the case, it would mean that you do not share Kinzo's blood.`
+char_bea: ` Either way, you are not qualified to compete in this game."`
+char_but: `"...............Absurd.........`
+char_but: `.........absurd..............."`
+char_bea: `"Enough.`
+char_bea: ` ......I was slightly aware that you might not be Ushiromiya Battler in the first place.`
+char_bea: ` ......So, I had to question you.`
+char_bea: ` I had to ask about something the real Battler would have known."`
+char_bea: `"............What a shame.`
+char_bea: ` I even bet on the one in a quadrillion chance of a miracle,`
+char_bea: ` that you might really be Ushiromiya Battler.`
+char_bea: ` However, it looks like you're a different person with the same first and last names after all."`
+char_but: `"............kh.........uuunghhh............"`
+char_non: `Bit by bit, Battler's form......began to be clouded in darkness...`
+char_non: `No, maybe it was the other way around.`
+char_non: ` ......The whole world was becoming clouded in darkness, leaving only Battler behind...`
+char_non: `Battler was down on all fours, hanging his head and repeatedly questioning himself.`
+char_non: `......However, he would never be given an answer......`
+char_non: `In the world stained with darkness, Beato spoke something, and {f:5:Lambdadelta} ran up to Battler yelling something very quickly,`
+char_non: ` but it already seemed very far away, and it didn't reach his ears...`
+char_non: `............Then he,`
+char_non: ` .........not knowing who "he" was,`
+char_non: ` ............erased...`
+char_non: `himself............`
+char_lam: `"BATTLEEEEEEEEEEER......!! ......nn...gh........."`
+char_bea: `"Now the opponent has disappeared.`
+char_bea: ` ......Well then, if you would excuse me.`
+char_bea: ` And ladies, you should prepare for your journey.`
+char_bea: ` No more festivities are prepared for in my territory.`
+char_bea: ` It was good seeing you.`
+char_bea: ` ......Goodbye."`
+char_non: `Without saying anything more,`
+char_non: ` Beato clouded her own form in darkness as well, and disappeared......`
+char_lam: `"A‐.........are you......alright with this?!`
+char_lam: ` Battler......d‐disappeared, you know?!`
+char_lam: ` Someone who hates losing as much as you do is okay with this?!"`
+char_ber: `"..................Weren't you betting on my defeat?`
+char_ber: ` Then you should be over the moon.`
+char_ber: ` Congrats, Lambda.`
+char_ber: ` Well then, let's meet again in some other world, okay?"`
+char_ber: `"That said, there are endless fragment worlds out there.`
+char_ber: ` The probability of us having some connection again somewhere is probably truly less than one in a quadrillion.`
+char_ber: ` ............Alright, it was fun.`
+char_ber: ` Bye‐bye."`
+char_lam: `"Ah, ...wait up, Bern...!!!"`
+char_non: `Chasing after {f:5:Bernkastel}, who had disappeared first, {f:5:Lambdadelta} disappeared as well...`
+char_non: `Then, after everyone had disappeared, .........there was no one left in the study.`
+char_non: `It returned to silence, almost as though no one had been there from the beginning.`
+char_non: `{n}......No one was here in the first place.`
+char_non: `The silent study told of that wordlessly, and the sound of the wind and rain began to fill the room bit by bit......`
+char_non: `In a world where everything had sunk into darkness, Beato questioned herself.`
+char_bea: `"......The fact is............from the very beginning, magic should only have been used within Mariage Sorcière."`
+char_mar: `"............Yes.`
+char_mar: ` ...I thought that too,`
+char_mar: ` ......when Ange happened."`
+char_bea: `"The witches' alliance began with you and me.`
+char_bea: ` Just two people.`
+char_bea: ` ......Mixing in other people was the first mistake..."`
+char_mar: `".........It was just so much fun.`
+char_mar: ` ...That's why we wanted to add other people close to us into that circle.`
+char_mar: ` And in that way, we wished for the witches' alliance to grow forever larger,`
+char_mar: ` so everyone could have fun using magic together, and all become happy."`
+char_bea: `"But.........in the end, you and I were the only ones able to understand magic."`
+char_mar: `"We're......the only two witches in this world, brought together by a miracle.`
+char_mar: ` .........As long as I have you, Beato, I don't need anyone else anymore."`
+char_bea: `"............Nor I.`
+char_bea: ` As long as you are here, I no longer need anyone else."`
+char_mar: `"In the very first moment that Mariage Sorcière was formed,`
+char_mar: ` ......it was already complete."`
+char_bea: `"...............That is...so.`
+char_bea: ` That is truly so......"`
+char_non: `It was a witches' alliance to make everyone happy together, with magic.`
+char_non: `{n}......I wonder when it got this screwed up?`
+char_non: `What was I trying to do when I started this game?`
+char_non: `{n}......I can't really remember even that.`
+char_non: `No, I may remember,`
+char_non: ` ...but that's a feeling I now wish to throw away to the far side of oblivion.`
+char_mar: `".........It's alright.`
+char_mar: ` Let's just forget everything, okay?`
+char_mar: ` Our little two‐person Mariage Sorcière.`
+char_mar: ` ......We'll accept each other.`
+char_mar: ` And no one will be able to hurt us.`
+char_mar: ` So we won't be hurt anymore. We won't cry."`
+char_mar: `"Let's forget everything.`
+char_mar: ` ............Okay, Beato?`
+char_mar: ` ......We...are eternal......"`
+char_bea: `"..............................Maria......`
+char_bea: ` ............uuuuuuuu, .........uuuuuuuuuuuuu...!!"`

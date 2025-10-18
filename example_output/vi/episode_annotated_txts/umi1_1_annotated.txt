@@ -1,0 +1,600 @@
+char_but: `".........Biết thế mình đã đi thuyền rồi...`
+char_but: `......thuyền......"`
+char_mar: `"Rơi mất thuiii!`
+char_mar: ` Rơi mất thuiii!`
+char_mar: ` Uu‐uu‐uu‐uu!!"`
+char_ros: `"Maria, đủ rồi đấy!"`
+char_ros: `"......Nhưng mà cô cũng thấy bất ngờ quá.`
+char_ros: ` Cô tưởng không có gì làm Battler sợ nổi chứ."`
+char_rud: `"Thằng này cứ đụng đến phương tiện giao thông là chịu không nổi, chẳng hiểu sao.`
+char_rud: ` Toàn la hét về rơi với chìm các kiểu.`
+char_rud: ` Mày đúng là không đáng mặt đàn ông, con ạ."`
+char_but: `"......Hừ, bố thôi đi.`
+char_but: ` Cái máy bay đó rung lắc quá còn gì...`
+char_but: ` Con chỉ hơi căng thẳng tí thôi, vì đây là lần đầu con đi máy bay nhỏ như vậy mà..."`
+char_eva: `"Cháu gọi đấy là "căng thẳng một tí" hả?`
+char_eva: ` Heheheh, chắc sẽ vui lắm nếu được đi du lịch nước ngoài với cháu đó, Battler à.`
+char_eva: ` Cháu có muốn đi Ai Cập với bác không?`
+char_eva: ` Được ngồi máy bay tận 14 tiếng lận đó!"`
+char_kir: `"Ahhahaha!`
+char_kir: ` Ý hay đó.`
+char_kir: ` Battler, cháu nên đi với bác Eva để được "rèn luyện" thêm đi.`
+char_kir: ` Nhưng mà đúng là buồn cười thật đấy!`
+char_kir: ` Ahhahahaha!"`
+char_hid: `"Wahhahaha, nào, nào. Ai cũng có điểm mạnh điểm yếu riêng.`
+char_hid: ` Cười người ta là không tốt đâu.`
+char_hid: ` Wahhahaha...!"`
+char_geo: `"B‐Bố, bố cũng cười nữa kìa.`
+char_geo: ` Này, Maria ơi, em cũng không nên cười nữa nhé."`
+char_mar: `"Không nên cười nữa?`
+char_mar: ` Uu!"`
+char_non: `Gyah, chết tiệt!`
+char_non: ` Mà sợ máy bay thì có gì to tát chứ?`
+char_non: `{n}Giờ chắc ai cũng nghĩ tôi là thằng hề hết rồi...`
+char_non: ` Chậc!`
+char_non: `Chúng tôi chia ra đi taxi từ sân bay ra bến cảng.`
+char_non: `{n}Từ đó, chúng tôi sẽ đi thuyền ra đảo.`
+char_non: `Các đảo ở rất gần nhau, nên cũng không xa mấy.`
+char_non: `{n}Đi thuyền thong thả tầm ba mươi phút là tới.`
+char_non: `Khi chúng tôi đến bến cảng nơi con thuyền đang neo đậu, một bóng người vẫy tay chào xuất hiện.`
+char_jes: `"A, anh George ơiii!`
+char_jes: ` Lâu lắm rồi anh em mình đếch gặp nhau!!"`
+char_geo: `"A, là Jessica, cũng phải một năm rồi anh em mình mới gặp lại nhau nhỉ!`
+char_geo: ` Em lại cao thêm nữa rồi, có phải không?"`
+char_jes: `"Kyahaha, đừng nói mấy câu đấy nữa, năm nào cũng nghe thì ngại lắm!"`
+char_but: `"......N-này, anh George ơi, anh đùa em đấy à.`
+char_but: ` Đấy thực sự là chị Jessica sao?!"`
+char_jes: `"Khoan đã, anh George...`
+char_jes: ` Cái tên to cao này là...`
+char_jes: `là Battler hả?!"`
+char_non: `Hai đứa tôi trừng mắt nhìn nhau.`
+char_non: `...Chị ấy trông chững chạc hơn nhiều so với những gì tôi nhớ, nhưng cái kiểu {c:86EF9C:nói chuyện bốc đồng} ấy thì tôi vẫn không tài nào quên được.`
+char_but: `"Yo, Jessica!`
+char_but: ` Cái gì đây hả!`
+char_but: ` Chị đùa em chắc, nhìn chị ra dáng phụ nữ rồi đấy!`
+char_but: ` Gì đây, vếu à? Chị mà cũng có ngực á!`
+char_but: ` Ihihi, cho em sờ thử một cái đi, nha~!"`
+char_jes: `"Này, em thôi đi nhé, bây giờ chị là đóa hoa tươi tuổi 18 rồi đó!`
+char_jes: ` Đến cả tóc còn mọc dài ra được thì mấy chỗ khác phát triển cũng là điều đương nhiên!`
+char_jes: ` Mày nghĩ chị mày mọc vếu ra là để cho mày sờ mó hả thằng hâm này?!`
+char_jes: ` Còn mày thì sao hả em, sao mày lại to xác thế hử?!`
+char_jes: ` To xác như vậy thì có thịt có cơ gì không thế?!"`
+char_but: `"Đương nhiên là có rồi, để em cho chị thấy thành quả luyện tập suốt mấy năm trời của em luôn nhé!!"`
+char_jes: `"Thôi ông im mẹ cái mồm đi!!`
+char_jes: ` Mày thích chơi gì thì chị mày cũng chiều luôn!"`
+char_non: `Cô nàng cứng đầu này tên là Ushiromiya {p:0:朱志香}.`
+char_non: `......Thật không may là chị ấy và tôi đều dính chung một "lời nguyền", rằng tên của chị cũng kỳ quặc không kém tên tôi là bao.`
+char_non: ` Bạn thấy đấy, {p:0:朱志香} được đọc là "Jessica".`
+char_non: `Chị ấy là con của anh trai bố tôi.`
+char_non: `Mà ông anh ấy lại là con trai cả của gia tộc Ushiromiya, nên về lý mà nói thì chị ấy cũng chính là người thừa kế trực hệ.`
+char_non: `Vì Jessica và tôi bằng tuổi và hay có kiểu ganh đua trai gái,`
+char_non: ` nên mỗi khi họ hàng tụ tập là hai đứa lại có dịp gây lộn và giỡn hớt với nhau như cơm bữa.`
+char_non: `Jessica dậy thì sớm, nên lúc nào cũng hơn tôi về vóc dáng và sức mạnh.`
+char_non: `Vì vậy, mỗi khi vật tay hay đọ sức, phần thắng thường nghiêng về Jessica.`
+char_non: `Nên dù bây giờ tôi to con hơn, thì tôi vẫn có cảm giác là không thể thắng được Jessica về khoản sức lực.`
+char_but: `"Hnng! Ghhh......!!"`
+char_jes: `"............Woh...ah...!`
+char_jes: ` Gì vậy...sao em...lại nghiêm túc thế...?!`
+char_jes: ` Ui da đau quá..."`
+char_but: `"Nè nè nè, như này còn chưa là gì đâu nhá!`
+char_but: ` Jessica à, chị yếu đi rồi đó."`
+char_jes: `"I-im đi.`
+char_jes: ` Chị đây là phụ nữ, mày tin hay không thì tùy.`
+char_jes: ` Làm sao mà chị lúc nào cũng mạnh hơn đàn ông được chứ!"`
+char_but: `"Ờ ha~, điều đó hiển nhiên là đúng rồi!`
+char_but: ` Thịt trên người em dồn hết vào tay, thịt trên người chị dồn hết vào vếu, chứ còn gì nữa~.`
+char_but: ` Có vẻ như trận đọ sức giữa tay em và vếu chị sẽ ngang kèo hơn đó, chị nghĩ sao hử~?!"`
+char_jes: `"Chị bảo mày rồi, vếu chị không phải để cho mày bóp!!`
+char_jes: ` Phải nói về mày nữa chứ! Cao to như người lớn rồi, thế mấy chỗ khác đã lớn chưa, hử?!"`
+char_but: `"Dừng lại, đồ ngốc này! Em sẽ không lấy được vợ mấtttttt! Đừng chạm vào chỗ đó màààààà!!"`
+char_jes: `"Đ‐đừng nói mấy câu dễ gây hiểu lầm như thế!!"`
+char_non: `Thật lòng thì tôi đã sốc vì Jessica trông nữ tính đến mức tôi phải làm trò lố để che giấu sự lúng túng ấy.`
+char_non: `......Ừ thì, nghĩ lại cái hồi chị còn là con bé ngang ngược cách đây sáu năm, ai mà chẳng bất ngờ.`
+char_non: `Và chắc là chị ấy cũng bất ngờ không kém.`
+char_non: `{n}Chắc chắn chị ấy không thể ngờ được việc sẽ thua tôi trong vụ đọ sức ấy.`
+char_non: `Thua dễ dàng như vậy, chắc chị cũng sốc vì tôi lớn nhanh đến mức đó trong sáu năm qua.`
+char_non: `.........Sáu năm.`
+char_non: ` Một lần nữa, tôi lại cảm nhận rõ khoảng thời gian đó dài đến nhường nào.`
+char_jes: `"Giời ạ, thua thật rồi này.`
+char_jes: ` Cứ như chị không đấu nổi với mày nữa luôn ấy."`
+char_geo: `"Không phải đâu.`
+char_geo: ` Đến cả Battler cũng phải có điểm yếu chứ.`
+char_geo: ` Đúng không nào, bé Maria?"`
+char_mar: `"Uu!`
+char_mar: ` Rơi mất thuiii rơi mất thuiii!!"`
+char_but: `"Éccc... Đừng mà Maria~, giữ bí mật cho anh, nhé?"`
+char_jes: `"Rơi gì?`
+char_jes: ` Cái quái gì thế hử?"`
+char_but: `"Heheh!`
+char_but: ` Xin lỗi nhé, nhưng giờ chị không thấy được cái điểm yếu của em nữa đâu!`
+char_but: ` Dù sao thì, cái chuyến bay ác mộng đó đã qua rồi còn gì!`
+char_but: ` Giờ chỉ còn chuyến đi thuyền nhẹ nhàng tình cảm thôi.`
+char_but: ` Không ngờ lại có ngày em yêu cái thuyền rách đó như thế này.`
+char_but: ` Ihihihi!"`
+char_jes: `"Hảảả???`
+char_jes: ` Anh George ơi, thằng này bị ấm đầu hay sao vậy?"`
+char_geo: `"Rồi em sẽ hiểu.`
+char_geo: ` Một lát nữa thôi."`
+char_non: `Lúc đó, tôi vẫn chưa hiểu ý nghĩa nụ cười mỉm kia của anh George...`
+char_kum: `"Có chuyện gì đây nhỉ......ối chà!`
+char_kum: ` Cậu Battler, cậu lớn quá rồi đó...!"`
+char_non: `Lại ai nữa vậy?`
+char_non: ` Là một bà cô lớn tuổi mặc tạp dề.`
+char_non: `{n}.........Ồ, đúng rồi, nhớ ra rồi! Tôi nhớ ra rồi!`
+char_geo: `"Còn nhớ bà ấy không, Battler?`
+char_geo: ` Là bà Kumasawa, gia nhân nhà ta đó."`
+char_but: `"Làm sao mà em quên được bà Kumasawa chứ!`
+char_but: ` Sáu năm rồi mà trông bà chẳng già đi chút nào.`
+char_but: ` Khoan đã, đừng nói là bà trẻ ra đấy nhé~?"`
+char_kum: `"Hoh‐hoh‐ho!`
+char_kum: ` Dạo này da tôi cứ láng mịn như da em bé ấy!`
+char_kum: ` Với lại, cậu nhìn xem, ngực tôi còn to hơn trước nữa đấy.`
+char_kum: ` ...Có muốn sờ thử không?"`
+char_but: `"B-bà vui tính quá đi ạ!`
+char_but: ` Cháu chỉ cho phép mình sờ mấy cô gái trẻ nở nang thôi ạ!"`
+char_kum: `"Hồi còn trẻ tôi cũng nở nang chẳng kém gì đâu nhé cậu~?`
+char_kum: ` Nào nào, cứ tự nhiên mà sờ thử đi!"`
+char_but: `"Thôi ạ, tha cho con đi mà bà ơi!`
+char_but: ` Cháu chỉ thích mấy cô gái trẻ thôi giời ạ!`
+char_but: ` Không phải các bà các cụ đâu!"`
+char_non: `Những trò đùa tôi dùng để trêu chọc Jessica giờ đang bị dùng để trêu đùa với tôi.`
+char_non: ` Nghĩ lại thì, bà ấy xưa nay vẫn là kiểu người hay chọc ghẹo người ta như vậy mà!`
+char_rud: `"Bà Kumasawa ơi, thôi đi ạ.`
+char_rud: ` Sắp xuống lỗ đến nơi rồi mà còn đùa dai làm gì nữa."`
+char_kum: `"Chơi đùa cùng người trẻ là thuốc trường sinh tốt nhất đấy.`
+char_kum: ` Hoh‐hoh‐ho!"`
+char_eva: `"Hiếm khi thấy bà ra tận đây đón tụi tôi nhỉ, bà Kumasawa.`
+char_eva: ` Có chuyện gì lạ à?`
+char_eva: ` Thường thì cứ được giao việc là y như rằng bà than đau lưng mà."`
+char_eva: `"*cười khúc khích*"`
+char_kum: `"Hoh‐hoh‐ho, phu nhân Eva vẫn sắc bén như ngày nào.`
+char_kum: ` Tôi có chút đồ cần mua gấp, tiện thể thì ra đón mọi người luôn.`
+char_kum: ` Nhưng đúng là để một bà lão già khọm như tôi đứng đón khách thì nhìn có phần kém sang thật.`
+char_kum: ` Hoh‐hoh‐ho...!"`
+char_non: `Bác Eva tuy mỉa mai ghê đấy, nhưng kinh nghiệm dày dạn của bà Kumasawa thì cũng không đùa được đâu.`
+char_non: ` Bà ấy có thể xử lý tình huống một cách trơn tru và nhẹ nhàng như thường lệ.`
+char_non: `Thật ra thì... tuy không muốn nói ra, nhưng bà Kumasawa chắc cũng qua thời đỉnh cao làm hầu gái rồi.`
+char_non: `Nhìn thì có vẻ khỏe mạnh đấy, chứ bà hay bị đau lưng, rồi nhức đầu, thân thể cũng xuống cấp nhiều rồi.`
+char_non: ` Nói thật thì, chỉ riêng việc bà ấy vẫn còn đang làm việc đã là một điều đáng nể lắm rồi.`
+char_non: `...Bà ấy năm nay bao nhiêu tuổi rồi nhỉ?`
+char_non: `{n}Chắc cũng gần tám mươi rồi.`
+char_non: `{n}Thật là đáng khâm phục khi bà vẫn còn tươi tắn hoạt bát được như vậy.`
+char_ros: `"Bà trông càng lúc càng khỏe ra đấy.`
+char_ros: ` À đúng rồi, đây này.`
+char_ros: ` Là loại trà mà cháu từng nhắc tới đó.`
+char_ros: ` Cháu đã mua rồi đây.`
+char_ros: ` Bà nhớ uống thử nhé."`
+char_non: `Cô Rosa đưa cho bà ấy túi quà lưu niệm lấy từ trong vali.`
+char_non: `Không ngờ cô vẫn nhớ lời hứa từ tận năm ngoái và cẩn thận mua món trà đó.`
+char_non: ` ...Sự chu đáo này thì quả là phong cách của cô ấy rồi.`
+char_non: `Cô ấy không phải kiểu người "đãng trí" với lời hứa của mình đâu.`
+char_non: `Còn về phần bà Kumasawa, dường như bà thực sự xúc động khi thấy không chỉ vì cô Rosa còn nhớ lời hứa từ tận năm ngoái, mà còn vì món quà ấy lại được đem tặng cho một gia nhân tầm thường như bà.`
+char_non: `Bà lão này là Kumasawa Chiyo ({p:0:熊沢 チヨ}).`
+char_non: `Bà là một gia nhân kỳ cựu đã phục vụ tại nhà chính của gia tộc Ushiromiya từ rất lâu rồi.`
+char_non: `{n}Ở độ tuổi của bà, đương nhiên bà không còn kham nổi mấy công việc nặng nhọc, nhưng từ nấu nướng, lau dọn, cho đến giặt giũ, bà vẫn là kiểu người hầu "đa năng" có thể xoay sở được mọi thứ.`
+char_non: `Điểm yếu duy nhất của bà có vẻ là... hay trốn việc.`
+char_non: `Nghe đâu bà hay viện cớ bệnh tật mãn tính để khỏi phải làm mấy công việc nặng hoặc rắc rối.`
+char_non: `......Trong trường hợp của bà Kumasawa, chắc phải gọi đó là kiểu lười khôn ngoan.`
+char_non: `...Dù vậy thì chắc mấy người trả lương cho bà cũng chẳng thấy vui vẻ gì với việc đó đâu.`
+char_non: `Mà thôi, dù bà có hơi cẩu thả chuyện công việc đi nữa, tôi cũng không thể ghét bà được.`
+char_non: `Chắc là cũng nhờ có sự vui tươi cùng với nụ cười luôn thường trực của bà.`
+char_hid: `"Chà, mừng là bà vẫn khỏe nhé!`
+char_hid: ` Còn cái lưng thì sao rồi bà?"`
+char_kum: `"Dù có uống thuốc rồi, nó cũng chẳng khá lên tí nào đâu.`
+char_kum: ` Bác sĩ bảo là bó tay rồi.`
+char_kum: ` Là bệnh nan y đấy, hoh‐hoh‐ho!"`
+char_rud: `"Nhìn cháu càng ngày càng xinh đẹp như vậy làm chú giật mình đó nha Jessica.`
+char_rud: ` Hãy vui vì cháu đã trở thành người giống như chị Natsuhi nhé."`
+char_jes: `"T-thật ạ...?`
+char_jes: ` Cá nhân cháu thấy cháu chẳng giống mẹ tí nào...`
+char_jes: ` Ý cháu là, cháu cũng không muốn giống bố mẹ ấy.`
+char_jes: ` Vì cháu chẳng kính trọng họ đâu."`
+char_kir: `"Nào, nói vậy là không nên đâu nhé.`
+char_kir: ` *cười khúc khích*, trong cái nhà này, chuyện không muốn giống như cha mẹ mình là chuyện quá đỗi bình thường rồi."`
+char_but: `"À, cháu cũng vậy đó!"`
+char_rud: `"Cho tôi xin, anh đừng có mà giống như tôi.`
+char_rud: ` Nhìn cái mũi anh y xì mũi tôi đã đủ làm cho tôi khó chịu rồi."`
+char_kir: `"Hai người đang nói gì vậy?`
+char_kir: ` Thật hài hước khi hai người giống nhau lắm đấy. Ngoài ra, anh còn giống bố anh nữa kìa."`
+char_rud: `"Thôi mà, em đừng đùa chứ...`
+char_rud: ` Anh giống bố ở điểm nào vậy?"`
+char_eva: `"Chú giống bố y như đúc ở cái khoản ngạo mạn và tự mãn.`
+char_eva: ` Dòng máu của ông ấy chảy mạnh nhất trong người của chú và của anh cả.`
+char_eva: ` Cô có đồng ý với chị không, Rosa?"`
+char_ros: `"Ồ, vâng, tất nhiên rồi.`
+char_ros: ` Anh Krauss and và cả anh Rudolf đều giống bố đến mức khó tin luôn ấy."`
+char_rud: `"Được rồi được rồi, sao tự dưng mình lại bị mấy chị em nhà này "dìm" vậy?`
+char_rud: ` Anh Hideyoshi à, giúp em với."`
+char_hid: `"Ôi chà chà, Rudolf ơi là Rudolf, lúc nào chú cũng được các quý cô quan tâm thôi.`
+char_hid: ` Anh phát ghen với chú đấy!`
+char_hid: ` Wahahahaha!"`
+char_kum: `"Hoh‐hoh‐ho!`
+char_kum: ` Như thường lệ, ngài được quan tâm đến mức tôi cũng phải ghen tị đó.`
+char_kum: ` Bây giờ thì, tất cả đã sẵn sàng lên thuyền luôn chưa nào?`
+char_kum: ` Nào bé Maria ơi, cùng lên thuyền với bà nhé?"`
+char_mar: `"Đi lên thuyền với nhau.`
+char_mar: ` Uu!`
+char_mar: ` Mọi người lên với nhau.`
+char_mar: ` Uu!"`
+char_but: `"Tuyệt thật đấy, lần này em không còn sợ hãi gì nữa đâu.`
+char_but: ` Em đã quen với chuyện mấy con sóng lay thuyền rồi.`
+char_but: ` Với cái thuyền đánh cá rách nát đó thì, em còn lo nó sẽ hỏng mất động cơ rồi trôi dạt, còn hơn là sợ bị sóng đánh nữa nha.`
+char_geo: `"À đúng rồi, Battler này, anh quên mất bảo em.`
+char_geo: ` ...Cái thuyền đánh cá đó đã xuống cấp quá rồi, cho nên chúng ta đã không dùng đến nó được vài năm rồi.`
+char_geo: ` Bây giờ chúng ta sẽ được đưa đến hòn đảo bằng một chiếc thuyền khác."`
+char_jes: `"Ohhh, đúng rồi.`
+char_jes: ` Đây là lần đầu tiên Battler được đi bằng chiếc thuyền mới!`
+char_jes: ` Nó siêu thoải mái luôn!`
+char_jes: ` Và cũng nhanh vãi đạn nữa!`
+char_jes: ` Nó có thể phóng vèo vèo luôn á!"`
+char_but: `"Ohhh...`
+char_but: ` Thế là thời gian đi sẽ ngắn hơn nhỉ?`
+char_but: ` Nghe đã thật đấy!`
+char_but: ` Ý em là, thuyền thì có khi tốt hơn máy bay rồi, nhưng nếu chị bảo em rằng có thể giảm thời gian xuống để giảm nguy cơ chìm khi đang đi, thì thật sự là tuyệt vời đó~."`
+char_mar: `"...Uu.`
+char_mar: ` Lần này Battler có định "rơi mất thuiii rơi mất thuiii" nữa không?"`
+char_but: `"Anh chỉ bị thế khi đi máy bay thôi.`
+char_but: ` Giờ thì mọi thứ ổn cả rồi!"`
+char_jes: `"Chị nghe nói đây là thuyền cao tốc được "độ" lại, nó là niềm tự hào của thuyền trưởng đó!`
+char_jes: ` Hình như ông ấy vọc nó dữ lắm...`
+char_jes: ` cứ khoe khoang với chị đủ thứ, nào là gắn bốn chân vịt hiệu suất cao, nào là nó có thể vượt quá 40 hải lý/giờ hay gì gì đó.`
+char_jes: ` Nói dai đến nỗi chị nghe hoài mà thuộc luôn rồi."`
+char_geo: `"Anh cũng thế. Năm nào ông ấy cũng kể cho anh em mình mà.`
+char_geo: ` Ông ấy kể rằng, từ lúc thua một chiếc thuyền nhập ngoại trong một cuộc đua là ông ấy đã bị ám ảnh với việc độ chế lại thuyền rồi.`
+char_geo: ` Nghe đâu cái ông đối thủ đó chỉ đi thuyền đánh cá thôi mà đã vượt 30 hải lý/giờ rồi đó."`
+char_jes: `"Và để thỏa mãn cái máu phục thù thì ông ý đã tự độ chế ra một chiếc thuyền siêu tốc luôn.`
+char_jes: ` Chị nghĩ là mày sẽ thích nó lắm đấy, Battler ạ."`
+char_non: `...Thuyền s-siêu tốc... được độ chế...?`
+char_non: `......Ban đầu tôi còn nghĩ là "Chà, ít ra còn hơn cái thuyền cũ nát có thể chìm bất kỳ lúc nào"......`
+char_non: `Nhưng sao tự nhiên lại thấy gì đó không ổn thế này...`
+char_non: ` ......Không, chắc là tôi lại nghĩ nhiều thôi.`
+char_rud: `"Này Battler, hay là mày nhảy xuống mà bơi qua đảo luôn đi con."`
+char_geo: `"Battler à, em đừng có thò đầu qua lan can nhiều quá.`
+char_geo: ` Rơi xuống biển bây giờ."`
+char_mar: `"Uu‐uu!!`
+char_mar: ` Rơi mất thuiii rơi mất thuiii!!"`
+char_but: `"Chết tiệt... Hèn chi nãy giờ mấy anh em tụi bây cứ cười tủm tỉm!"`
+char_non: `Chiếc thuyền siêu tốc, được độ tới bến bởi chính thuyền trưởng như một thú vui cá nhân, đúng là không giống tẹo nào với cái thuyền đánh cá cũ nát của sáu năm trước.`
+char_but: `"Whooooooooa, nó lắc quá nó lắc quá nó lắc quá!!`
+char_but: ` Em rơi xuống mất em rơi xuống mất em rơi xuống mất!!"`
+char_mar: `"Uu‐uu‐uu!!`
+char_mar: ` Rơi mất thui rơi mất thui rơi mất thui!!"`
+char_but: `"Em mà rơi xuống biển thì sẽ chết đuối mất – cái dù đâu – à không, cái phao đâu?!`
+char_but: ` Đưa em một cái áo phaooooooo!!"`
+char_jes: `"Waah‐hah‐hah‐hah‐ha!`
+char_jes: ` Cái gì thế hả Battler, làm cái trò gì vậy... waah‐hah‐hah‐hah‐ha!"`
+char_geo: `"Jessica, Maria, trêu người khác là không hay đâu.`
+char_geo: ` Battler à, nếu em sợ thì đừng có đứng ở ngoài boong nữa.`
+char_geo: ` Anh nghĩ là ở trong khoang thuyền có thể em sẽ đỡ sợ hơn đấy."`
+char_but: `"Heheh, em xin khiếu nhé anh ơi!`
+char_but: ` Thuyền mà chìm thì nạn nhân luôn là những người kẹt bên trong đó.`
+char_but: ` Những ai sống sót thì thường lại là những người ở trên boong trong lúc tai nạn xảy ra cơ.`
+char_but: ` Nên là em vẫn sẽ ở lại đây thôi!!"`
+char_but: `"Nhưng mà nó lắc quááááááá!!`
+char_but: ` Em rơi mất bây giờờờờờ!!`
+char_but: ` Whooooaaaaaahhh!!"`
+char_mar: `"Lắc và rơiiiiiii!!`
+char_mar: ` Uu‐uu‐uu!!"`
+char_ros: `"Maria à, mẹ đã bảo là con phải ngoan rồi cơ mà!`
+char_ros: ` ......Nhưng mà Battler à, cô thấy là cháu không chịu được nổi nữa rồi đó...`
+char_ros: ` Để cô bảo thuyền trưởng cho tàu đi chậm lại nhé."`
+char_but: `"Whooooa, cô Rosa ơi, cháu cảm ơn côôôôôôôôô!`
+char_but: ` Dù có ở trên biển thì vẫn phải lái an toànnn, giảm tốc độ, quan sát kỹ càngggggg!!"`
+char_eva: `"*cười khúc khích*!`
+char_eva: ` Đừng làm vậy chứ Rosa.`
+char_eva: ` Phải cho bọn trẻ học cách vượt qua khó khăn thì mới nên người được chứ.`
+char_eva: ` Đúng không hả Battler?`
+char_eva: ` Cháu vượt qua chuyện này được chứ? Dễ ẹc mà, đúng không?`
+char_eva: ` Nếu không thì làm sao đi Ai Cập với bác được!"`
+char_but: `"Whooooa, bác Eva ááááác quááá àààà!!`
+char_but: ` Ối khôngoooo, cháu sắp rơiiiii rồiiiiiiiiii!!`
+char_but: ` Áo phaoooo, dù bayyyyyyy!!`
+char_but: ` Whoooooooaaaaaaahh......!!!"`
+char_but: `"K-không, bình tĩnh mà suy nghĩ ngược lại nào!!`
+char_but: ` Kẻ địch đang nhắm đến cái gì?!`
+char_but: ` Hắn muốn mình sợ như thế này à?!`
+char_but: ` Nếu đó là điều hắn muốn thì tiếc quá, mình sẽ không sợ đâuuuuuu!!`
+char_but: ` Nhưng mà dừng lại đi mààààà, em sắp rơiiiii rồiiiiiii!!!"`
+char_non: `...Vậy là, sau một màn làm trò lố hết sức mình,`
+char_non: ` cô Rosa đã phải nói chuyện với thuyền trưởng, và chiếc tàu đã được giảm tốc để phù hợp hơn cho tôi...`
+char_but: `"............Hahh...`
+char_but: ` Tốc độ này thì đỡ hơn thật...`
+char_but: ` .........Lúc nãy em còn thấy mình như không còn sống nữa cơ......"`
+char_non: `Cái tốc độ mới này, tuy là tôi thấy nó phù hợp rồi, nhưng mà thực sự là nó chậm quá thể.`
+char_non: `...Cơ mà như ban nãy thì điên rồi quá...`
+char_non: `Con thuyền thì cứ lắc qua lắc lại!`
+char_non: `{n}Trượt tới trượt lui trên mặt biển nữa!`
+char_non: `{n}Lúc ấy tôi cứ thấy như mình đang cưỡi trên lưng một con cá khổng lồ cơ mà...`
+char_non: `Jessica vẫn còn ôm bụng cười khi thấy tôi tựa vào lan can, mệt rã rời và rã rượi.`
+char_jes: `"Chị có thua lúc đọ sức với mày ban nãy, nhưng ít ra chị biết chị hơn mày ở điểm nào rồi.`
+char_jes: ` Nhưng mà thật á hả, pfffahahahahah!"`
+char_but: `"Chết tiệt... Chị cứ cười đi.`
+char_but: ` Một ngày nào đó em sẽ tìm ra điểm yếu của chị và báo thù cho chị xem... lúc đó thì cẩn thận hai quả vếu của chị đó......"`
+char_jes: `"Ahahaha, ừ rồi, chị cứ chờ mày nhé?!`
+char_jes: ` Waah‐hah‐hah‐ha!"`
+char_mar: `"Uu.`
+char_mar: ` Battler mệt lắm rồi."`
+char_but: `"Ừm, Battler mệt lắm rồi...`
+char_but: ` Anh muốn chết trên đất liền cơ, chứ không phải ngoài biển hay trên trời đâu..."`
+char_non: `Maria vỗ nhẹ lưng tôi, nên tôi cũng xoa đầu em để đáp lại.`
+char_non: `...Mặt em ấy vẫn đơ như thường, nhưng tôi biết em ấy chỉ muốn an ủi mình mà thôi.`
+char_geo: `"Battler à, thuyền trưởng muốn gửi tới em chút nước thay cho lời xin lỗi đó.`
+char_geo: ` Uống một chút và nghỉ ngơi đi nhé?`
+char_geo: ` Để bình tĩnh lại mà."`
+char_non: `Anh George và bà Kumasawa mang cho mỗi đứa chúng tôi một lon nước mát lạnh, trên vỏ còn đọng mấy giọt nước.`
+char_non: `Nhìn nụ cười toe toét trên mặt bà Kumasawa là biết mấy ông bà phụ huynh trong khoang chắc đang cười lăn cười bò vì cái sự hoảng loạn của tôi ban nãy.`
+char_non: `Chết tiệt, tôi xấu hổ đến mức không dám nhìn mặt họ nữa luôn á...`
+char_non: `Nếu tôi không chuyển chủ đề sớm thì cảm giác sẽ bị trêu suốt cả chuyến đi mất, nên tôi đã cố nghĩ ra chuyện gì khác để nói.`
+char_but: `"...Này, chị Jessica.`
+char_but: ` Bác Krauss và bác Natsuhi dạo này sao rồi ạ?"`
+char_jes: `"Ông già nhà chị với cả mẹ chị á hả?`
+char_jes: ` Không may là họ vẫn khỏe.`
+char_jes: ` Cơ mà mấy nay cứ mở mồm ra là họ lại "học bài đi, học bài đi", nghe mà ngứa cả đít luôn.`
+char_jes: ` Chị ghen tị với mấy nhà khác đó, vì chị thấy hình như chú Hideyoshi với cả chú Rudolf cũng có nói về ba cái chuyện đó đâu."`
+char_geo: `"Hahaha, không phải đâu.`
+char_geo: ` Hồi trước anh lười lúc ôn thi ấy, lúc nào anh cũng bị nghe "ôn bài đi, ôn bài đi" mà.`
+char_geo: ` Hồi đó thì anh thấy phiền lắm, nhưng giờ thì anh lại thấy biết ơn họ."`
+char_but: `"Hah, đúng là anh George mà, cao thượng ghê á...`
+char_but: ` Còn em thì phải tự lo cho mình thôi.`
+char_but: ` Chả ai thèm nói gì hết!`
+char_but: ` Mà có nói thì em cũng không thèm nghe đâu, hihihi!"`
+char_kum: `"Cậu Battler à, cậu vẫn chưa về với nhà mình sao?"`
+char_but: `"...À thì, cháu thì lâu lâu cũng về mà.`
+char_but: ` Vẫn còn quần áo với cả đồ đạc các thứ ở đó chứ."`
+char_mar: `"......Uu?`
+char_mar: ` Battler có tận hai nhà ư?"`
+char_but: `"Ừm,`
+char_but: ` .........hmmm.`
+char_but: ` ......Kiểu kiểu đó."`
+char_mar: `"Tại sao?`
+char_mar: ` Tại sao anh lại có tận hai nhà?`
+char_mar: ` Uu?`
+char_mar: ` Uu?"`
+char_non: `Chỉ có Maria là không hiểu chuyện nên mới đặt câu hỏi ngây thơ như vậy.`
+char_non: `Còn những người khác thì chỉ liếc mắt nhìn nhau đầy lúng túng, không ai trả lời dù đều biết rõ sự thật.`
+char_jes: `"Maria!`
+char_jes: ` Em nhìn kìa, bến ở đằng kia đó...!`
+char_jes: ` Nhìn phía bên kia ấy!`
+char_jes: ` Em thấy không?!"`
+char_mar: `"Uu!`
+char_mar: ` Thấy bến rồi, thấy bến rồi!"`
+char_non: `Có vẻ như chị Jessica đã chuyển đề tài để tránh nhắc đến chuyện vừa rồi.`
+char_non: `......Ờ, thôi kệ.`
+char_non: ` Tôi thì cũng chẳng muốn nói về nó đâu, nhưng mà, thật sự thì tôi cũng chẳng thích khi phải coi nó là một điều cấm kỵ ấy.`
+char_non: `......Giờ thì tôi chẳng nghĩ về điều đó nhiều nữa rồi.`
+char_non: `Tôi là một người của gia tộc Ushiromiya,`
+char_non: ` nhưng thật ra suốt sáu năm qua tôi đã sống với ông bà ngoại nhà mẹ ruột, và thậm chí tôi còn mang họ của mẹ nữa.`
+char_non: `Khi ông bà ngoại lần lượt qua đời, tôi cũng chẳng còn lựa chọn nào khác ngoài việc quay về sống với lão già đó.`
+char_non: `Đừng hiểu nhầm. Không chỉ đơn giản là tôi bỏ nhà đi hay gì đâu.`
+char_non: `{n}Người duy nhất sai ở đây là bố tôi.`
+char_non: `......Còn cô Kyrie‐san thì tôi chẳng oán trách gì mấy.`
+char_non: `{n}Có thể cầm cương mà điều khiển được lão đó thì đã là một chuyện phi thường rồi.`
+char_non: `...Nhưng còn vụ lão phản bội mẹ tôi...`
+char_non: ` ......Thì tiếc là tôi vẫn chưa thể bỏ qua được."`
+char_geo: `"*e hèm*.`
+char_geo: ` Chúng ta sắp đến nơi rồi đấy."`
+char_non: `Anh George khẽ hắng giọng, rõ là để chuyển chủ đề.`
+char_kum: `"......Xin thứ lỗi cho sự vô ý của tôi nhé.`
+char_kum: ` Có vẻ như bà già này đã nói hơi nhiều quá rồi.`
+char_kum: ` Nếu tôi đã lỡ làm cậu buồn thì–"`
+char_but: `"Heheh!`
+char_but: ` Cháu không bận tâm, và cũng chẳng buồn đâu nhé bà ơi.`
+char_but: ` Bà Kumasawa không phải lo ạ."`
+char_non: `Bà Kumasawa có vẻ hối hận vì đã lỡ lời,`
+char_non: ` nhưng tôi thì thấy việc người khác phải lo lắng vì chuyện của mình mới khó chịu, nên tôi đã chủ động bỏ qua cho mọi thứ nhẹ nhàng.`
+char_non: `Sau đó, tôi đã nhấp một ngụm đồ uống và tiến về phía Maria và Jessica. Hai chị em đang chăm chú nhìn vào hình bóng của hòn đảo từ xa.`
+char_mar: `"Uu!`
+char_mar: ` Battler ơi, thấy hòn đảo rồi, thấy hòn đảo rồi!`
+char_mar: ` Ở kia ở kia ở kia!`
+char_mar: ` Uu‐uu‐uu!"`
+char_but: `"Nó ở đâu nhỉ... ồ, anh thấy rồi nè.`
+char_but: ` Dù cho sáu năm đã trôi qua rồi, thì hòn đảo vẫn không thay đổi chút nào luôn."`
+char_non: `Bóng dáng của hòn đảo nhỏ trước mắt đã ở rất gần.`
+char_non: `Tên của hòn đảo này là Rokkenjima.`
+char_non: `{n}Đây là một hòn đảo nhỏ, có chu vi khoảng mười cây số, nằm trong quần đảo Izu.`
+char_non: `Vì người ta hay gọi quần đảo này là "Thất đảo Izu", nên nhiều người nghĩ rằng ở đây chỉ có bảy hòn đảo.`
+char_non: `Thực tế là có nhiều hơn vậy.`
+char_non: `{n}Rokkenjima nằm trong số các hòn đảo nhỏ lẻ không được tính vào.`
+char_non: `Dù là vậy, thì có lẽ cũng phải có rất ít người biết đến hòn đảo này.`
+char_non: `Rốt cuộc thì, chỉ có người của gia tộc Ushiromiya mới đặt chân lên hòn đảo này.`
+char_non: `Nói cách khác, nó hoàn toàn không có mối liên hệ nào với người ngoài hoặc khách du lịch.`
+char_non: `{n}Vậy nên, bạn sẽ không bao giờ tìm thấy tên của hòn đảo này trong một tờ quảng cáo du lịch nào cả.`
+char_non: `Đó là bởi vì toàn bộ Rokkenjima là tài sản riêng của nhà chính gia tộc Ushiromiya.`
+char_non: `Chỉ có gia tộc Ushiromiya sống ở đây, và chỉ những người có liên quan đến họ mới có quyền được lui tới.`
+char_non: `Nơi này chẳng có gì ngoài một bến cảng và một dinh thự.`
+char_non: `{n}Phần lớn diện tích trên đảo vẫn là rừng nguyên sinh chưa được khai phá.`
+char_non: `Thật là phí phạm, trong khi nó hoàn toàn có thể trở thành một sân golf hạng sang.`
+char_non: `{n}Nhưng mà, nếu bạn nhận ra rằng toàn bộ bờ biển là bãi biển tư nhân, thì nghe cũng ngầu đấy chứ.`
+char_non: `Chắc bạn cũng nhận ra rồi, nhưng nói đơn giản thì,`
+char_non: ` ......gia tộc Ushiromiya giàu nứt đố đổ vách luôn.`
+char_non: `Nghe nói, nhà chính của gia tộc sở hữu số tài sản vô cùng lớn,`
+char_non: ` và bố tôi cùng những người khác trong gia tộc cũng đều thành đạt, kiếm được bộn tiền từ công việc kinh doanh riêng.`
+char_non: `Tôi đã sống cuộc sống thường dân suốt sáu năm qua ở nhà ông bà ngoại, nên gần như quên sạch chuyện đó,`
+char_non: ` ...nhưng căn biệt thự của lão già đúng là cực kỳ sang trọng, tất cả mọi thứ đều hợp gu xa xỉ của lũ nhà giàu chảnh choẹ.`
+char_non: `Nghĩ lại thì, tôi, anh George, chị Jessica, và Maria đều là những công tử, tiểu thư chính hiệu.`
+char_non: `Tất nhiên là, không ai trong chúng tôi cảm thấy như vậy cả.`
+char_non: `Tôi thì không xem bản thân là người giàu, còn anh George thì sống rất kỷ luật và không bao giờ quá buông thả.`
+char_non: `Chị Jessica thì lúc nào cũng than thở rằng thà sống ở thành phố còn hơn là làm con nhà giàu,`
+char_non: ` còn Maria thì vẫn chỉ là một đứa trẻ, chẳng quan tâm gì đến tiền bạc cả.`
+char_non: `...Tôi đoán, thái độ của chúng tôi về tiền bạc cũng chính là một dạng đặc quyền.`
+char_non: `{n}Từ góc nhìn của những người đang chật vật từng ngày để có cái ăn cái mặc, thì việc được nghĩ ngợi kiểu đó đã là quá may mắn rồi.`
+char_non: `Chỗ này không phải nơi để nói về chuyện ấy, nên tôi sẽ không thêm nói nữa.`
+char_non: `Thôi thì, chuyện này cũng giống việc ta không thể lựa chọn cha mẹ khi sinh ra.`
+char_non: `{n}Tôi cũng đâu có yêu cầu được sinh ra trong một gia đình giàu có.`
+char_non: `{n}Và tôi cũng chẳng nghĩ đó là lý do khiến người khác có quyền ghét tôi.`
+char_non: `Thật sự mệt mỏi khi bị gắn với những định kiến chỉ vì mình là người giàu có, mà không được người ta xét đến những giá trị đích thực bên trong bản thân mình.`
+char_non: `Trong lúc tôi đang miên man với những suy nghĩ có phần ủy mị đó, Maria đột nhiên nghiêng người ra khỏi lan can và hét lên.`
+char_mar: `"............Uu.`
+char_mar: ` ......Mất tiêu rồi."`
+char_but: `"Sao thế, Maria?`
+char_but: ` Em đánh rơi gì à?"`
+char_mar: `"Uu‐uu!`
+char_mar: ` Mất tiêu rồi, mất tiêu rồi!`
+char_mar: ` Uu‐uu‐uu‐uu!!"`
+char_non: `Maria cứ hét lên "mất rồi, mất rồi".`
+char_non: `Nếu chỉ nghe, người ta sẽ nghĩ rằng chắc em ấy đã đánh rơi thứ gì đó. Nhưng thực tế, khi nhìn vào sự việc, có thể thấy rằng em ấy đang chỉ tay ra ngoài đại dương và hét lớn.`
+char_geo: `"Sao vậy?`
+char_geo: ` Cái gì mất cơ?`
+char_geo: ` Nếu em muốn thì anh sẽ giúp em tìm nó nhé.`
+char_geo: ` Đó là cái gì nhỉ?"`
+char_geo: ` ...............?"`
+char_non: `Nếu Maria làm rơi thứ gì đó, chắc em ấy đã nhìn xuống sàn rồi, nhưng giờ thì em ấy lại đang chỉ tay ra ngoài biển.`
+char_non: `Người ta có thể nghĩ rằng Maria đã nhìn thấy thứ gì đó ngoài khơi, nhưng em ấy cứ lặp đi lặp lại rằng thứ gì đó đã {i:biến mất}.`
+char_non: ` .........Lạ thật.`
+char_non: `Tuy nhiên, vì ký ức cuối cùng của tôi về nơi này là từ sáu năm trước, nên tôi lại nhận ra điều đó trước cả anh George, người năm nào cũng đến đây.`
+char_but: `"............Hả...?`
+char_but: ` ......Nếu em nhớ không nhầm, chẳng phải ở gần đây có một cái {c:86EF9C:cổng torii} nằm trên một mỏm đá nhỏ sao?`
+char_but: ` ...Đúng rồi, chắc chắn là có.`
+char_but: ` Em nhớ rất rõ mà, vì nó giống như một cột mốc chào đón chúng ta khi tiến gần đến đảo."`
+char_jes: `"Wow, Battler giỏi quá.`
+char_jes: ` Sáu năm rồi mà em vẫn còn nhớ đó."`
+char_geo: `"Nó ở đây mà nhỉ...!`
+char_geo: ` Anh cũng nhớ mà.`
+char_geo: ` Trên mỏm đá đó từng có một cái miếu nhỏ và cái cổng torii gì đó đứng lẻ loi.`
+char_geo: ` ......Mà đúng là giờ nhìn lại, không còn nữa thật.`
+char_geo: ` Anh chắc chắn là năm ngoái vẫn còn mà."`
+char_mar: `"Mất tiêu rồi.`
+char_mar: ` Mất tiêu rồi."`
+char_mar: ` Uu‐uu‐uu!"`
+char_but: `"Có thể nó bị sóng đánh bay mất rồi?`
+char_but: ` Mỏm đá đó nhỏ mà, chắc do lâu ngày bị sóng nước bào mòn."`
+char_jes: `"Chị cũng nghĩ vậy.`
+char_jes: ` Thật ra nó biến mất hồi mùa hè này.`
+char_jes: ` Hình như là–"`
+char_kum: `"Một tia sét khổng lồ đã đánh trúng nó vào một buổi tối nọ, phá tan tành ngôi miếu...`
+char_kum: ` ......Mấy ngư dân cứ thì thầm rằng đó chắc chắn là điềm gở – vì không hiểu sao sét lại đánh vào đền thờ thần bảo hộ của chúng ta cơ mà.`
+char_kum: ` ...Cầu cho sấm sét tránh xa, sấm sét tránh xa..."`
+char_non: `Bà Kumasawa như đang trêu chọc tụi tôi, vừa cười khúc khích, vừa xoa hai tay vào nhau.`
+char_non: `Tuy nhiên, Maria lại có vẻ đang nghiêm túc.`
+char_non: ` Em ấy chăm chú nhìn ra phía đại dương, nơi mỏm đá từng có ngôi miếu thờ vị thần bảo hộ.`
+char_mar: `"............Một điềm gở...`
+char_mar: ` ............Uu."`
+char_jes: `"Đủ rồi đó bà Kumasawa.`
+char_jes: ` Maria còn quá nhỏ để hiểu mấy trò đùa như vậy."`
+char_geo: `"Không sao đâu, Maria à.`
+char_geo: ` Chỉ là trùng hợp thôi.`
+char_geo: ` Sẽ không có gì đáng sợ xảy ra đâu."`
+char_non: `Anh George đặt tay lên vai Maria để trấn an, nhưng ánh mắt sắc lạnh của em ấy thì vẫn không hề lay chuyển.`
+char_mar: `"............Điềm gở.`
+char_mar: ` ............Điềm gở."`
+char_non: `Maria cứ lặp đi lặp lại từ đó.`
+char_non: `{n}Nghe nói việc nhắc đi nhắc lại một từ là thói quen của Maria từ lâu rồi.`
+char_non: `Tuy nhiên, vì từ mà em ấy đang nói lại đúng là "điềm gở", nên không khí bắt đầu trở nên rợn rợn.`
+char_but: `"Này này, Maria.`
+char_but: ` Nếu em cứ nói từ đó mãi, thì tai họa thật sự sẽ đến đấy, biết không?"`
+char_non: `Tôi vỗ nhẹ vai còn lại của Maria.`
+char_non: `Ngay sau đó, Maria quay ngoắt đầu lại, nhìn thẳng vào mặt tôi không chớp mắt và nói:`
+char_mar: `"Uu.`
+char_mar: ` .........Tai họa...sắp đến."`
+char_but: `"Hả?`
+char_but: ` Và nó đến từ đâu vậy?"`
+char_non: `Tôi trả lời đùa cợt, định làm dịu bầu không khí nặng nề.`
+char_non: `...Và đáp lại, Maria giơ một ngón tay lên, giơ cao cả cánh tay, ...và chỉ thẳng lên trời.`
+char_non: `Khi tôi ngước nhìn lên, bầu trời vẫn u ám như trước, nhưng đã nặng nề hơn rất nhiều so với sáng nay.`
+char_non: `Đúng rồi, người ta bảo là có một cơn bão đang đến gần.`
+char_non: `...Chúng tôi dự định sẽ ở lại đảo một đêm thôi, nhưng nếu cơn bão này không qua nhanh, tôi sẽ không kịp đi học vào thứ Hai mất.`
+char_non: `{n}Mà cũng hay, có lí do hợp lý để nghỉ học rồi.`
+char_mar: `".....................Uu..."`
+char_non: `...Có vẻ như em ấy đã cảm nhận được điều gì đó bất an dưới bầu trời âm u này.`
+char_non: `{n}Em ấy cứ lẩm bẩm từ nãy đến giờ.`
+char_non: `Các bé gái tầm tuổi Maria thường rất nhạy cảm với những điều kiểu như vậy.`
+char_non: `{n}Đây chính là giai đoạn mà nhiều bé gái bắt đầu hào hứng với mấy chuyện như giác quan thứ sáu, khả năng tâm linh, và mấy điều đại loại thế.`
+char_non: `...Xét theo một khía cạnh nào đó thì việc em ấy trở nên nhạy cảm thế này cũng chẳng có gì bất thường.`
+char_geo: `Không sao đâu, Maria à.`
+char_geo: ` Thời tiết có thể sẽ xấu đi vào lúc tối nay, nhưng ngày mai trời sẽ quang đãng và lại trong xanh như lúc ban đầu thôi."`
+char_mar: `"Uu.`
+char_mar: ` Bầu trời trong xanh.........`
+char_mar: ` .........Uu..."`
+char_geo: `"Đúng rồi đó, đến ngày mai thì trời sẽ trong xanh.`
+char_geo: ` Không có cơn mưa nào là sẽ không dứt, cũng chẳng có đám mây nào là sẽ không tan."`
+char_mar: `"Uu...`
+char_mar: ` .........Cơn mưa sẽ không dứt.`
+char_mar: ` ...Đám mây sẽ không tan.`
+char_mar: ` ..................Uu........."`
+char_but: `"Ừ thì, bão đang đến thật, nhưng rồi nó sẽ biến đi nhanh thôi!`
+char_but: ` Không sao đâu, Maria."`
+char_mar: `"...............Uu.`
+char_mar: ` ...Uu!!`
+char_mar: ` Uu‐uu‐uu!!`
+char_mar: ` Uu‐uu‐uu!!"`
+char_non: `Em ấy bắt đầu la lên "uu‐uu".`
+char_non: `{n}...Trông giống như em đang giận vì chẳng ai hiểu được điều mà em ấy muốn nói.`
+char_non: `Không biết rốt cuộc Maria đang cố cảnh báo tụi tôi điều gì đây?`
+char_non: `Vì không hiểu nổi em ấy, nên tụi tôi chỉ có thể cảm thấy một nỗi bất an mơ hồ...`
+char_non: `......Tôi từng nghe rằng bất cứ ai cũng có thể cảm nhận được những điều siêu nhiên, nhưng khi lớn, khả năng đó sẽ yếu đi rõ rệt.`
+char_non: `Nếu vậy thì, Maria – người nhỏ tuổi nhất trong số tụi tôi – có lẽ vẫn còn giữ được thứ giác quan mà bọn tôi đã đánh mất.`
+char_non: `...Tôi tự hỏi liệu thứ giác quan đó có đang cố đưa ra lời cảnh báo cho em ấy không.`
+char_non: `Lúc đó, bà Kumasawa lặng lẽ mở miệng.`
+char_kum: `".........Người ta đồn rằng...`
+char_kum: `ngày xưa, Rokkenjima đã từng là–"`
+char_jes: `"Bà Kumasawa.`
+char_jes: ` Bây giờ không phải là lúc để nói về chuyện đó đâu."`
+char_non: `Ngay lúc bà Kumasawa định kể một câu chuyện gì đó, chị Jessica ngay lập tức cắt ngang, giọng nghiêm khắc.`
+char_non: `Đối với chị ấy, đó là một phản ứng dứt khoát.`
+char_non: `Tôi cũng muốn gặng hỏi thêm, chỉ vì tò mò thôi,`
+char_non: ` nhưng nhìn cách chị ấy cư xử, không khó để đoán rằng việc đó sẽ chỉ khiến bé Maria thêm lo lắng.`
+char_non: `...Nếu tôi thực sự cố gắng hỏi thêm về chuyện đó, thì khả năng cao là nó sẽ không phải là một câu chuyện vui vẻ gì cả.`
+char_kum: `"......Hoh‐hoh‐ho, cho tôi xin lỗi nhé...`
+char_kum: ` ...Gió ở đây khiến người già khó chịu quá, nên nếu được thì cho tôi xin phép nghỉ ngơi một chút nhé..."`
+char_non: `Mấy người hay buôn chuyện thì chẳng có lý do gì để tiếp tục ở lại sau khi bị nhắc nhở dừng nói.`
+char_non: `Khi bà Kumasawa cuối cùng cũng nhận ra mình đã lỡ lời, bà ấy quay vào bên trong thuyền.`
+char_non: `Sau khi bà rời đi, chú Hideyoshi đã ra ngoài thay chỗ.`
+char_non: `Vì chú vừa mới ra đây nên hoàn toàn không nhận ra bầu không khí căng thẳng đang bao trùm nơi này,`
+char_non: ` và cũng nhờ vậy, chú đã giúp giải tỏa bầu không khí đó.`
+char_non: `Cuối cùng thì, chính việc chú không hiểu được tình hình đã giúp làm dịu đi bầu không khí căng thẳng này.`
+char_hid: `"Có vẻ sắp đến nơi rồi đấy!`
+char_hid: ` Được rồi, chỉ còn một chút nữa thôi!`
+char_hid: ` Hôm nay đi chậm như rùa bò, đúng không nào?`
+char_hid: ` Ai cũng biết là tại người nào rồi đấy!`
+char_hid: ` Wahhahahahaha!"`
+char_but: `"Ôi chú Hideyoshi à, tha cho cháu đi mà~...hahaha~!"`
+char_jes: `"Ahaha, chú cứ tiếp tục xoáy vào đi ạ.`
+char_jes: ` Thật chứ, tại Battler nên mới mất cả kiếp người mới tới nơi được đó~!"`
+char_mar: `".........Uu."`
+char_non: `Maria chắc đã tự kết luận rằng chẳng ai sẽ chịu lắng nghe mình cả.`
+char_non: `Em ấy cúi đầu xuống, nét mặt đầy lo âu.`
+char_non: `Ngay lúc đó, anh George cúi xuống ngang tầm mắt em và nhẹ nhàng nói với Maria:`
+char_geo: `"Maria này.`
+char_geo: ` Không có gì phải sợ cả.`
+char_geo: ` Bởi vì chúng ta đều ở bên nhau mà.`
+char_geo: ` Nếu chúng ta ở bên nhau thì chẳng có gì phải sợ hết.`
+char_geo: ` Em thử nói như anh nào."`
+char_mar: `"............Uu.`
+char_mar: ` ...Không có gì phải sợ...nếu chúng ta ở bên nhau..."`
+char_geo: `"Đúng rồi.`
+char_geo: ` Không có gì phải sợ nếu chúng ta ở bên nhau."`
+char_mar: `"............Uu."`
+char_but: `"Phải đó, anh George nói đúng đấy.`
+char_but: ` Nếu tụi mình ở bên nhau thì chắc chắn sẽ không có gì đáng sợ hết.`
+char_but: ` Đúng không, chị Jessica?"`
+char_jes: `"Ừ, chắc chắn là vậy rồi.`
+char_jes: ` Anh George lúc nào cũng nói thật mà, Maria."`
+char_mar: `"......Uu.`
+char_mar: ` Anh George lúc nào cũng nói thật."`
+char_geo: `"Phải rồi.`
+char_geo: ` Anh không bao giờ nói dối đâu.`
+char_geo: ` Vậy nên hãy tin anh nhé.`
+char_geo: ` Nếu tụi mình ở bên nhau thì chẳng có gì phải sợ cả."`
+char_mar: `"Uu.`
+char_mar: ` ......Anh George không nói dối.`
+char_mar: ` Em tin anh.`
+char_mar: ` Không có gì phải sợ nếu tụi mình ở bên nhau.`
+char_mar: ` .........Uu, không sợ nữa!"`
+char_non: `Maria nhào vào ôm chặt lấy anh George.`
+char_non: `Sau khi anh xoa đầu em ấy nhẹ nhàng, em ấy lại nhảy lùi ra.`
+char_non: `Biểu cảm trên khuôn mặt em thay đổi hoàn toàn, như thể vừa rồi chỉ là một người khác.`
+char_non: `{n}Em ấy lại là Maria thường ngày mà tôi quen.`
+char_mar: `"Uu.`
+char_mar: ` Giờ không còn gì phải sợ nữa, vì tụi mình ở bên nhau.`
+char_mar: ` ...Uu‐uu."`
+char_but: `"Ừ, đúng rồi đó.`
+char_but: ` ...Giờ trông em ổn hẳn rồi.`
+char_but: ` Em mạnh mẽ lắm, Maria, ngoan lắm!"`
+char_mar: `"......Uu!`
+char_mar: ` {c:86EF9C:Em} ngoan mà!"`
+char_hid: `"Này này, có chuyện gì vậy?`
+char_hid: ` Bé Maria không bị say sóng đấy chứ?`
+char_hid: ` Hử?"`
+char_jes: `"Hahaha, đại khái là thế đấy.`
+char_jes: ` Sắp tới nơi rồi này."`
+char_non: `Bến cảng đã hiện ra rất gần trước mắt chúng tôi.`

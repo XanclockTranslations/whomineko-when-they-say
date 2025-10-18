@@ -1,0 +1,894 @@
+char_non: `The boat gave a big shudder.`
+char_non: `Seems we've docked at the harbor.`
+char_non: `{n}The boat driver came out and jumped to the pier with the mooring rope.`
+char_non: `A large man in a tuxedo was waiting there for us with a warm, smiling face.`
+char_non: `......I didn't know him, but judging by his clothes, I guessed that he was a servant of the Ushiromiya head house.`
+char_goh: `"Welcome home, Milady.`
+char_goh: ` You were quite late, and I began to worry."`
+char_jes: `"Ah, thanks for caring!`
+char_jes: ` The boat had Battler scared shitless.`
+char_jes: ` So we had to slow down for him.`
+char_jes: ` Seriously, what a pain in the ass!"`
+char_but: `"S‐shut up... I'll remember this when the shoe's on the other foot someday... ugghh."`
+char_non: `At this rate, the word'll spread around the entire family, and I'll become the big conversation piece during dinner.`
+char_non: `Even without this, everyone'd be talking about me because of that six‐year gap...but now I've provided them with an even juicier topic...!`
+char_non: `Dammit, why does the Ushiromiya main family have to live on this isolated island!`
+char_non: `In the meantime, the boat had finished its mooring.`
+char_non: `{n}A small plank was lowered so that we could get down.`
+char_non: `One by one, our parents came out of the boat.`
+char_goh: `"You must all be quite tired from your long trip.`
+char_goh: ` Madam, please, allow me to assist you."`
+char_eva: `"Thanks.`
+char_eva: ` It's been a while, Gohda‐san, how are you?"`
+char_goh: `"Thank you for your concern.`
+char_goh: ` It is always my pleasure to serve."`
+char_kir: `"Battler‐kun, isn't this your first time meeting Gohda‐san?`
+char_kir: ` If I'm not mistaken, you weren't working here six years ago, right?"`
+char_goh: `"Indeed.`
+char_goh: ` So please, allow me to greet him for the first time.`
+char_goh: ` It is an honor to meet you at last, Battler‐sama."`
+char_but: `"......I'm pretty secure about my height, but you're huge.`
+char_but: ` ...This is definitely our first meeting.`
+char_but: ` If I'd ever met a big guy like you, I'd never forget it...!"`
+char_but: `"It's a pleasure.`
+char_but: ` I'm Battler."`
+char_goh: `"Your return has been keenly anticipated, sir.`
+char_goh: ` I have been working for the Ushiromiya head house since the year before last; my name is Gohda ({p:0:郷田}), your servant."`
+char_goh: `"It is a pleasure to make your acquaintance.`
+char_goh: ` If there is ever anything you need, please feel free to rely on me."`
+char_geo: `"Gohda‐san, it's been some time."`
+char_goh: `"It has been too long, George‐sama.`
+char_goh: ` Please, allow me to assist you."`
+char_hid: `"As usual, you're a reception pro...`
+char_hid: ` If you ever need a job, just give me a holler, okay?`
+char_hid: ` I'd hire you just like that!"`
+char_goh: `"You do me too much honor.`
+char_goh: ` Please allow me to assist you, Hideyoshi‐sama."`
+char_non: `Gohda‐san then lent a hand to everyone as they disembarked, greeting them as they passed.`
+char_non: `His speech and mannerisms had the refined polish of a professional.`
+char_non: `He was very graceful, in contrast with his initially rough‐looking appearance.`
+char_non: `His large size made him seem a bit scary at first, but he was much more polite than my first impression of him had led me to believe.`
+char_non: `He claimed to have served on the island for two years, but he had doubtless worked at a similar job somewhere before.`
+char_non: `After everybody disembarked, the mooring rope was untied, and the boat started to steer away from the harbor.`
+char_non: `It was probably returning to its home port of Niijima.`
+char_non: `The captain waved his hand in farewell.`
+char_non: `{n}Maria conscientiously waved back.`
+char_but: `"............Hmmm, I just realized why something's been feeling out of place to me.`
+char_but: ` I can't hear the cries of the seagulls."`
+char_jes: `"Seagulls?`
+char_jes: ` The birds?"`
+char_non: `I remember that whenever we came to this island, the seagulls always welcomed us with their lively "nyaa nyaa" cries.`
+char_non: `And because of that, whenever I hear the cries of the seagulls in any other place, I get the feeling that I've come to a family conference.`
+char_non: `Except for the small part of the island where those of the Ushiromiya head house live, Rokkenjima had been left uncultivated, apparently transforming into a paradise for wild birds.`
+char_non: `Seemingly, some cliff face or other had become home to a huge seagull colony, and so this island was always full of them.`
+char_non: `Since those seagulls didn't come to greet us, I felt a bit lonely.`
+char_ros: `"What's wrong, Battler‐kun?"`
+char_but: `"Oh, Auntie Rosa.`
+char_but: ` ...Nah, it's nothing really—I was just saying I can't hear the seagulls, so it kinda feels a bit lonely."`
+char_ros: `"Oh, you're right.`
+char_ros: ` They're always so lively, but I can't see hide nor hair of one today."`
+char_mar: `"......Uu?`
+char_mar: ` Why no seagulls?"`
+char_ros: `"Hmmm, maybe it's because the seagulls are having a gathering somewhere too?`
+char_ros: ` Maria, did you want to see the seagulls?"`
+char_mar: `"Uu, wanted to."`
+char_but: `"What happened for them all to disappear?`
+char_but: ` Maybe Jessica made aaall of 'em into shish kebabs and ate 'em!"`
+char_mar: `"......Uu?!"`
+char_jes: `"The hell, don't say disturbing stuff like that!`
+char_jes: ` You'll get Maria all confused!!"`
+char_mar: `"Uu‐uu‐uu!`
+char_mar: ` Jessica onee‐chan made them into shish kebabs, made them into shish kebabs!`
+char_mar: ` Uu!!"`
+char_jes: `"I did not, I did not!`
+char_jes: ` Why the hell would I do something like that?!"`
+char_but: `"That's right, that's ri~ght, Jessica made 'em into shish kebabs!`
+char_but: ` Skin 'n meatballs, liver 'n onio~on!"`
+char_mar: `"Swim in meat dolls!`
+char_mar: ` Liver 'n oniooon!!`
+char_mar: ` Uu‐uu‐uu!`
+char_mar: ` Ahaha, ahaha!`
+char_mar: ` *giggle*giggle*!"`
+char_non: `As I made fun of Jessica, Maria tagged along looking like she was having fun.`
+char_non: `Ooh, she really knows how to join in with things!`
+char_non: `{n}Alright then, starting today I'll make you my number one follower!`
+char_non: `As I smiled at her, she beamed back overjoyed, I guess happy for this little bit of solidarity.`
+char_geo: `"That's not it, Maria‐chan.`
+char_geo: ` I've heard that wild birds are attuned to changes in the weather and atmospheric pressure.`
+char_geo: ` And it looks like the weather will get worse around tonight.`
+char_geo: ` It's possible they hurried back to their nests."`
+char_mar: `"............Uu.`
+char_mar: ` Not kebabs?`
+char_mar: ` Jessica onee‐chan didn't make them into kebabs?"`
+char_jes: `"I did not, I did not!!`
+char_jes: ` I told you, I wouldn't do stuff like that!`
+char_jes: ` Alright, Battler, you admit right now that you lied!"`
+char_geo: `"Battler‐kun.`
+char_geo: ` Maria‐chan is a naive girl, so she takes even jokes seriously.`
+char_geo: ` You should choose your jokes more carefully."`
+char_non: `...George‐aniki gently scolded me.`
+char_non: `...Even though I outstripped Aniki in height, he still commanded respect as my elder.`
+char_non: ` No choice but to obediently apologize.`
+char_but: `"H‐hey,`
+char_but: ` my bad, my bad...`
+char_but: ` Maria, that just now was a joke.`
+char_but: ` It's just today the seagulls are all quiet in their nests."`
+char_mar: `"......Battler lie?`
+char_mar: ` George onii‐chan true?"`
+char_non: `{i:I was having fun, but you were actually just tricking me...?}`
+char_non: `{n}Her pure eyes seemed to accuse me.`
+char_non: `{n}......Maybe I went a little overboard with her after all.`
+char_but: `"Yeeaah, that's right, that's right.`
+char_but: ` What George‐aniki said is true.`
+char_but: ` The weather is bad so they probably went home for today.`
+char_but: ` It doesn't mean they're gone, does it?`
+char_but: ` Right, Auntie?!"`
+char_ros: `"That's right.`
+char_ros: ` Tomorrow, when the weather gets better, I'm sure they'll come back and let you hear their "myaa myaa" cries."`
+char_mar: `"Uu.`
+char_mar: ` I'll wait for the weather to get better so they come back.`
+char_mar: ` Wait for tomorrow.`
+char_mar: ` Wait for the weather to get better.`
+char_mar: ` Uu‐uu!"`
+char_non: `Maria's mood lightened, and she started looking forward to tomorrow, when the seagulls would come back and fill the skies.`
+char_non: `Still, George‐aniki really is amazing at taking care of kids.`
+char_non: `...I think I remember Aniki taking good care of me as well when I was a brat six years ago.`
+char_non: `......Aniki might have quite some talent for this kind of thing.`
+char_ros: `"George‐kun, you're so amazing at taking care of kids.`
+char_ros: ` I think you could work in child‐care!"`
+char_jes: `"Yeah, it's like you were born to do that.`
+char_jes: ` To me, that seems more "you" than doing business in some company president office."`
+char_geo: `"Oh, no.`
+char_geo: ` Child‐care is a very respectable {i:job} of its own.`
+char_geo: ` It's not something you can do merely by liking children."`
+char_ros: `"You're truly modest, George‐kun.`
+char_ros: ` But Battler‐kun, you're quite good with children too, you know!`
+char_ros: ` Earlier, even if it was just for a time, Maria seemed to be having a lot of fun.`
+char_ros: ` Keep on playing with her like you did just now.`
+char_ros: ` Just choose the jokes carefully though, alright?`
+char_ros: ` *giggle*."`
+char_non: `Auntie Rosa winked at me, giggling a little.`
+char_non: `A real mother, I thought to myself, who's happy that Maria looks like she's having fun.`
+char_rud: `"Come {i:on}, Rosa.`
+char_rud: ` And you brats too, what the hell're you doing, get a move on!"`
+char_ros: `"Alright, alright, we're coming."`
+char_non: `The old bastard was beckoning us to hurry up.`
+char_non: `{n}We'd better get moving.`
+char_non: `It's not like it'd be too late to have the same discussion after we got our luggage in our rooms.`
+char_goh: `"Well then, everyone, I shall lead you towards the guesthouse where you will be staying.`
+char_goh: ` Please, this way."`
+char_non: `Gohda‐san called to everyone and started leading us.`
+char_non: `{n}Kumasawa‐san brought up the rear.`
+char_non: `A serpentine, twisting path led through a dim forest.`
+char_non: `{n}It ran a bit uphill.`
+char_non: `I'd guess the path was made twisting so that the slope wouldn't be felt too much,`
+char_non: ` but personally, I'd have been happier if they'd been man enough to make some stairs in a straight line.`
+char_non: `......No doubt they made the path twisting on purpose, to put on airs of distance and importance...`
+char_non: `Before long, we saw garden‐style stone steps.`
+char_non: `...Ahhh, now, I remember how it goes from here.`
+char_non: `{n}Go up these, and...`
+char_non: `At the top of the stone steps, a beautiful guesthouse came into view.`
+char_non: `Its façade was lovely, of course, but even more than that,`
+char_non: ` ......we couldn't help but have our hearts stolen away by the splendor of that beautiful rose garden that spread before it.`
+char_hid: `"Haah~!`
+char_hid: ` It's as beautiful as ever this year...`
+char_hid: ` A real delight for the eyes..."`
+char_non: `As they reached the top of the stone steps, the people welcomed in by the rose garden voiced their appreciation one after another.`
+char_eva: `"Aren't the flowers less lively this year?`
+char_eva: ` It must be because the summer wasn't warm enough."`
+char_goh: `"I also believe that is so.`
+char_goh: ` When one compares with last year's blooming, it is a pity that this year's is somewhat inferior."`
+char_non: `Even so, it was a delightful rose garden.`
+char_non: `{n}I remember that huge amounts of roses used to greet me every year, even over six years ago.`
+char_non: `...This rose garden was the first thing that greeted the people who came to Rokkenjima.`
+char_non: ` Even our parents, who came every year, couldn't help but let their wonder slip out.`
+char_non: `And moreover, it even looked like a "powered‐up" version of the garden from six years ago that was in my memories.`
+char_kir: `"This place is always so amazing.`
+char_kir: ` It would be so wonderful to have a rose garden like this in my own home."`
+char_rud: `"Give it up—who do you think would take care of it?`
+char_rud: ` Roses are a real pain, with bugs and diseases to worry about."`
+char_ros: `"Yes, they are.`
+char_ros: ` In fact, I hear that Kyrie nee‐san attends to her "rose" every day, and makes sure that it doesn't get nibbled at without her knowing it."`
+char_rud: `"Huh?`
+char_rud: ` I haven't heard anything like that, what's this?"`
+char_kir: `"Yes, I do.`
+char_kir: ` Though, with him, it's the rose that goes off after the insects, so it's really more like some nasty carnivorous plant."`
+char_rud: `"...Oh, so that's what you mean.`
+char_rud: ` C'mon, Rosa, can't you give that a rest just for today?`
+char_rud: ` I've put that sort of thing completely behind me."`
+char_ros: `"I wonder.`
+char_ros: ` After all, you are a womanizer on an almost genetic level...!"`
+char_kir: `"No need to worry, Rosa‐san.`
+char_kir: ` If a rose gives me too much trouble, I just chop it off at the root."`
+char_kum: `"Hoh‐hoh‐hoh‐ho...such frightening talk this is."`
+char_hid: `"Guys who're popular with the ladies are always forced to live with danger at their side.`
+char_hid: ` I sure hope I turn out a bit prettier in my next life!"`
+char_rud: `"Hideyoshi nii‐san, as I keep telling you, it isn't like that at all.`
+char_rud: ` ...And Kyrie...stop it, you're freaking me out.`
+char_rud: ` You're making my rose wither."`
+char_geo: `"Hey, Maria‐chan, look over here.`
+char_geo: ` These roses are especially magnificent."`
+char_mar: `"...Roses are magnificent.`
+char_mar: ` ...Uu!"`
+char_but: `"Hmmm~~, smells pretty sweet.`
+char_but: ` Look, this matches my elegance pe~rfectly."`
+char_jes: `"Hey, cut it out!`
+char_jes: ` Maria's gonna imitate you and get hurt by the thorns!"`
+char_non: `She yelled at me as I leaned in with an exaggerated gesture to smell the rose's scent.`
+char_non: `...I thought she was overreacting, but when I turned around, I saw Maria imitating my every movement, and thereby putting a broad smile on George‐aniki's face.`
+char_geo: `"Hey now, Maria‐chan, be careful.`
+char_geo: ` Rose thorns can hurt."`
+char_mar: `"......Uu?`
+char_mar: ` ............George onii‐chan.`
+char_mar: ` This one rose is strange.`
+char_mar: ` Uu."`
+char_jes: `"Strange?`
+char_jes: ` What's wrong?"`
+char_non: `Maria pointed to a single rose.`
+char_non: `{n}I immediately understood why she found it odd.`
+char_non: `In the midst of all these magnificent roses, just one single rose was withering.`
+char_non: `There wasn't any particular reason.`
+char_non: `{n}Some roses flourish, and others wither.`
+char_non: `That's all there was to it, but Maria seemed very concerned about there being only one unhealthy rose in a group of healthy ones.`
+char_non: `...She must be feeling somehow like it's been left out.`
+char_geo: `"So, you feel sad for this rose because it's the only one that isn't healthy...?"`
+char_mar: `"......Uu.`
+char_mar: ` The others are all healthy, but this one's sad."`
+char_jes: `"Well, they all bloom and wither on their own.`
+char_jes: ` I'll bet the only reason that one withered now is because it bloomed earlier than any of the other roses."`
+char_but: `"Yeah, that's right.`
+char_but: ` It probably just bloomed all over the place, fulfilled its duty and went to rest.`
+char_but: ` You shouldn't get so worked up about it."`
+char_mar: `".........Uu."`
+char_non: `It seemed that Maria's pure, sensitive nature was making her feel some emotional pain for the rose that withered alone.`
+char_non: `Even though she understood the logic of it, it still felt lonely to her.`
+char_geo: `"Okay, Maria‐chan,`
+char_geo: ` why don't you look after this rose until we leave, then?"`
+char_mar: `"Uu?"`
+char_non: `George‐aniki straightened up and felt around in his pocket.`
+char_non: `{n}He then took out the wrapping from the candy he had eaten on the plane.`
+char_non: `He twisted it into a thin string, and gently tied it to the rose as a sort of marker.`
+char_jes: `"Heeey, that's pretty cute!"`
+char_geo: `"Let's mark it with this.`
+char_geo: ` Later on, you can come and give it some water.`
+char_geo: ` I'm sure Mr. Rose will be happy."`
+char_mar: `"......Uu!`
+char_mar: ` Come to give it water!"`
+char_geo: `"I think you should give Mr. Rose here a name.`
+char_geo: ` I'm sure that'll make it happy, and you'll get to know it a little better."`
+char_mar: `"Name...?`
+char_mar: ` Name...`
+char_mar: ` ......Uu...uu..."`
+char_non: `Though she still wore her usual sullen face, Maria crossed her arms and began to consider this intently.`
+char_non: `At the very least, she appeared to have been completely pulled out of her slump.`
+char_non: ` Nice going, Aniki.`
+char_jes: `"George nii‐san has always been really understanding.`
+char_jes: ` Can't help but respect him."`
+char_but: `"Yeah.`
+char_but: ` I guess that's just his gift.`
+char_but: ` We've gotta learn some lessons from him!"`
+char_hid: `"Was this garden as fancy as this when you were a kid?"`
+char_eva: `"It was only after I left the house that it became this grand.`
+char_eva: ` Though I was more fond of the previous rustic garden.`
+char_eva: ` Nii‐san fiddled with it too much, with his slightly questionable taste.`
+char_eva: ` It was much better the way it was before."`
+char_hid: `"Eva, you've gotta think positive!`
+char_hid: ` No matter how it might've looked, its beauty now is something to be admired.`
+char_hid: ` You'll be able to relax a lot better if you look at it that way."`
+char_eva: `"I didn't mean it like that...`
+char_eva: ` I was just saying that I would have liked you to have seen the old, more wonderful garden as well."`
+char_goh: `"Now then, everyone, if you please.`
+char_goh: ` I shall be guiding you to the rooms now."`
+char_non: `Gohda‐san called to everyone to ask if we were ready,`
+char_non: ` but our hearts had been completely stolen away by the rose garden after a year of absence, and we didn't lend him an ear.`
+char_non: `Since we weren't a travel group, it wasn't like we had a strict schedule to follow.`
+char_non: `Besides, for our parents, this was their fond old birth home they had returned to, so they felt no obligation to be pressured by anyone.`
+char_non: `Understanding the situation, Gohda‐san continued to wait, with a wide smile, for our parents to lose interest in the roses and tell him to guide us to the rooms...`
+char_hid: `"My...!`
+char_hid: ` Heeey!`
+char_hid: ` If it isn't Kanon‐kun!`
+char_hid: ` It's been so long, how are you doin'?!"`
+char_non: `Uncle Hideyoshi suddenly shouted.`
+char_non: `In the direction he was waving,`
+char_non: ` .........there was a slender boy.`
+char_non: `Meeting him right after a huge man like Gohda probably emphasized his small stature.`
+char_non: `The boy was in the middle of transporting piled‐up gardening tools and the like in a wheelbarrow.`
+char_non: `When he realized he was being called to stop, he set down the wheelbarrow, took his hat off and bowed his head.`
+char_kan: `"..................`
+char_kan: ` .........Good afternoon."`
+char_non: `...I figured he was probably younger than me.`
+char_non: `{n}I realized by the general atmosphere surrounding him that he was a servant too.`
+char_non: `Though he did greet Uncle Hideyoshi back, he himself seemed like he might be unsociable.`
+char_non: `It was a greeting that lacked feeling.`
+char_non: `When Gohda‐san noticed that our interest had shifted towards him, he went to the boy's side and introduced him to us.`
+char_goh: `"Battler‐sama, I shall introduce you.`
+char_goh: ` He is one of the servants who serve the Ushiromiya head house.`
+char_goh: ` ...Kanon‐san, greet our guest."`
+char_kan: `"..................I'm pleased to meet you.`
+char_kan: ` I am the servant............`
+char_kan: `Kanon ({p:0:嘉音})."`
+char_non: `Yep, my first impression wasn't wrong—he gave the feeling that he was unsociable, or maybe a bit of a poor speaker.`
+char_non: `In contrast with Gohda‐san, who was extraordinarily polished as a servant,`
+char_non: ` it was impossible not to feel the immaturity you'd expect of someone his age.`
+char_non: `When Gohda‐san urged him in a whisper to give a bit more of an introduction, the boy named Kanon only cast his eyes downwards.`
+char_goh: `"Kanon‐san.`
+char_goh: ` Could you perhaps give them a little more as a greeting...?"`
+char_kan: `"............I can't.`
+char_kan: ` ............Because we...`
+char_kan: `...are furniture."`
+char_non: `It seemed that he wasn't refusing to greet us out of spite,`
+char_non: ` but rather, he gave the impression that he didn't know what else to add to his greeting, and so could do nothing other than stay silent.`
+char_jes: `"Ah, uh, Kanon‐kun's a man of few words.`
+char_jes: ` He might not be that sociable, but deep down he's really a good person!`
+char_jes: ` Don't get him wrong...!"`
+char_jes: `"You've been working here for three years, was it?`
+char_jes: ` So yeah, you've been here a year longer than Gohda‐san, right, Kanon‐kun?"`
+char_non: `Even though it's not like he made a super bad impression, Jessica hurriedly backed him up.`
+char_non: `...I see, apparently him being unsociable works against him all the time.`
+char_but: `"Cool, nice to meet you.`
+char_but: ` I'm Battler!`
+char_but: ` I'm 18, how old are you?"`
+char_kan: `"..........................."`
+char_non: `A silence, as if evaluating whether it was a question that must be answered or not.`
+char_non: `{n}...But here again, Jessica plowed ahead.`
+char_jes: `"Um, uhh...!`
+char_jes: ` If I remember correctly, he's two years younger than us so...16, right?"`
+char_kan: `"............Yes, ...that is correct."`
+char_non: `It looked like if given a choice, he would have preferred not to tell us his age.`
+char_non: `Him not wanting to tell his age was probably because he thought he would be looked down upon for it.`
+char_non: `...I remember that when I was around his age, I hated being asked how old I was by adults.`
+char_non: `...I see, 16, huh?`
+char_non: `{n}That's gotta be a delicate time.`
+char_non: `{n}...In that case, I asked something I shouldn't have.`
+char_but: `"Heh heh~, I'm glad you're about our age!`
+char_but: ` Just be cool and call me Battler!`
+char_but: ` And I'll call you Kanon!"`
+char_kan: `".........Thank you very much.`
+char_kan: ` But just the sentiment is sufficient, ...Battler‐sama."`
+char_non: `Jessica looked flustered for some reason.`
+char_non: `{n}She seemed to think that my impression of Kanon was worsening because of his rejection.`
+char_non: `Well, I doubt a girl like Jessica understands his fretful male heart.`
+char_non: `As his elder—even by just two years—who would lead him into adolescence, I took it upon myself to understand that.`
+char_goh: `"Kanon‐san, could you perhaps be a little more courteous?`
+char_goh: ` A smiling face is also the duty of a servant."`
+char_kan: `"...............I apologize.`
+char_kan: ` ...I shall make an effort."`
+char_kum: `"Hoh‐hoh‐ho...`
+char_kum: ` Gohda‐san, Kanon‐kun is trying his best, isn't he?"`
+char_non: `It seemed as though he was often warned about his discourtesy.`
+char_non: `{n}And apparently he hadn't improved a bit.`
+char_non: `Gohda‐san kept his business‐smile, but let a small sigh of resignation escape.`
+char_kan: `"......Well then, I still have work to do.`
+char_kan: ` .........If you'll excuse me."`
+char_non: `It looked like Kanon himself was uncomfortable with remaining silent here any longer.`
+char_non: `After another perfunctory bow, he turned on his heels and started pushing the wheelbarrow again.`
+char_non: `Just then, suddenly, the wheelbarrow wobbled and fell, scattering the load.`
+char_non: `I guess the wheelbarrow with its single wheel caught on a pebble and lost its balance.`
+char_goh: `"What have you done...now now, quickly clean it up...!"`
+char_non: `Gohda‐san urged him along in a low voice, as if to remind him that it is a servant's shame to present a clumsy appearance in front of guests.`
+char_non: `Showing that he understood quite well without being told, Kanon‐kun wordlessly reloaded the wheelbarrow with the fallen objects.`
+char_non: `He seemed to be fine with the light‐looking gardening tools, shovels and such, but he looked like he was having trouble getting his arms around and lifting up some sacks of fertilizer.`
+char_jes: `"Are you alright? You're so careless.`
+char_jes: ` Here."`
+char_goh: `"Milady, you will dirty your garments.`
+char_goh: ` Please, leave it to him."`
+char_non: `With an elegant gesture, Gohda‐san took the shovel that Jessica had picked up.`
+char_non: `At his back was the figure of Kanon‐kun having trouble with the sacks of fertilizer.`
+char_mar: `"......Uu.`
+char_mar: ` You'll dirty your garments?"`
+char_but: `"Don't worry, the ones I'm wearing aren't that elegant."`
+char_but: `"Besides, I hate guys who make the waitress pick up the fork they dropped at a restaurant."`
+char_non: `I lifted up the other bags that had fallen.`
+char_non: `{n}Of course, they weren't light, but for me it was a piece of cake.`
+char_non: `Kanon‐kun turned his surprised eyes towards me.`
+char_non: `{n}It was the face of one who would never have expected to receive help from a guest.`
+char_kan: `"............B‐Battler‐sama...`
+char_kan: ` That's not necessary... I'll take care of everything, so..."`
+char_but: `"Don't you worry!`
+char_but: ` I may not look it, but I've got it where it counts!`
+char_but: ` Heheh!"`
+char_non: `Kanon‐kun looked like he hadn't yet gone through his growth spurt, and was stuck with a sorta weak body.`
+char_non: `I guess this kind of weight is a bit much for him.`
+char_geo: `"It's quite heavy, isn't it.`
+char_geo: ` It's natural that it would be difficult for you.`
+char_geo: ` Kanon‐kun, don't worry about it."`
+char_but: `"OK, my time to shine.`
+char_but: ` This makes up for the boat part from before, right?"`
+char_jes: `"Ha!`
+char_jes: ` As if your antics earlier could be written off just like that!`
+char_jes: ` Ah‐hah‐hah‐ha!`
+char_jes: ` I'll tell you all about it later, Kanon‐kun—Battler is a laugh and a half!"`
+char_mar: `"Gonna faaall gonna faaall!!`
+char_mar: ` Uu‐uu‐uu!!!"`
+char_non: `Banter made the job seem quick, and before I knew it, all the stuff had been piled back into the wheelbarrow.`
+char_kan: `"............For letting you see such unsightliness, I beg your forgiveness."`
+char_goh: `"Very well, enough now.`
+char_goh: ` Please, go."`
+char_non: `Letting such a disgraceful thing be seen by the guests who were supposed to be made welcome...must have been hideously embarrassing as a servant.`
+char_non: `Pressed by Gohda to hurry up and exit, Kanon‐kun left.`
+char_eva: `"You're too harsh on him, Gohda‐san.`
+char_eva: ` Wouldn't it have been better if you'd helped him, instead of being a bully?"`
+char_goh: `"...You are quite correct.`
+char_goh: ` I deeply, deeply implore your forgiveness."`
+char_non: `Without even a twitch in his smile, Gohda‐san apologized elegantly.`
+char_hid: `"Kanon‐kun has a ton a things he's good at too.`
+char_hid: ` It's just that bein' young works against him all the time.`
+char_hid: ` It's a cryin' shame."`
+char_rud: `"It's a prickly age.`
+char_rud: ` You be nice to him.`
+char_rud: ` Keeping a tight lip is just what you want in a servant.`
+char_rud: ` Right, Kumasawa‐san?"`
+char_kum: `"Hoh‐hoh‐hoh‐ho, Rudolf‐sama, you truly are harsh!`
+char_kum: ` There is no servant as silent as I, of course!"`
+char_non: `Everyone smiled wryly at that shameless lie.`
+char_non: `{n}Even she herself didn't believe that, not in her wildest dreams.`
+char_non: `{n}She said that to loosen us all up.`
+char_non: `Yeah, that's the kind of character Kumasawa baa‐chan used to be.`
+char_non: `The mood that had stiffened a little was cleared up in a twinkling, thanks to Kumasawa‐san's cheerful smile.`
+char_kir: `"I'd like to put down the luggage soon.`
+char_kir: ` Gohda‐san, how are we to split up for our rooms?"`
+char_goh: `"It shall be the same as last year.`
+char_goh: ` I shall guide you.`
+char_goh: ` Please, this way."`
+char_non: `We headed towards the trim and elegant guesthouse.`
+char_non: `{n}This was going to be our temporary quarters for a night.`
+char_kan: `".........................................."`
+char_non: `Kanon watched over a hedge as the guests all entered the guesthouse.`
+char_non: `Then, he let his eyes fall on those heavy sacks of fertilizer, piled up in the wheelbarrow.`
+char_non: `In his mind, he kept going over his previous mistake.`
+char_non: `{n}Battler, big and strong, had picked up the sacks in front of him, the sacks he couldn't lift himself, as if they were feathers.`
+char_non: `It was extremely difficult for an outside observer to guess what emotions that favor had stirred up in Kanon.`
+char_non: `But as far as you could tell by watching him hang his head from behind, there was something that he just couldn't let go.`
+char_non: `...Muttered words escaped his lips.`
+char_non: `{n}But those words he murmured were so soft that they didn't reach even his own ears.`
+char_kan: `"...............Even I...`
+char_kan: `........................"`
+char_non: `Kanon hung his head, slightly biting his lower lip...`
+char_but: `"I remember the rose garden, but...`
+char_but: `I don't remember this guesthouse at all.`
+char_but: ` Was it built, like, recently?"`
+char_non: `"Toraian" (Visitor's Retreat) was written on a gatepost‐like thing, but since everyone called it the guesthouse, I followed their lead.`
+char_non: `The brand‐new Western‐style guesthouse that stood overlooking the rose garden had a magnificent design carefully done in harmony with the garden.`
+char_geo: `"Correct!`
+char_geo: ` It was built just the year before last.`
+char_geo: ` Since then, we've been having them let us sleep over here."`
+char_jes: `"Hehe, yeah, 'cause people seem to like this place more than that junky old mansion we've had forever.`
+char_jes: ` I wish my room was over here!"`
+char_mar: `"Uu!`
+char_mar: ` I want one too!`
+char_mar: ` Want one too!"`
+char_non: `...I guess you could call my house upper‐class as well, but I was reminded again how completely ordinary it was compared to the head house.`
+char_non: `It showed a shocking display of wealth that they would build this kind of awesome guesthouse for guests who come over like once a year.`
+char_goh: `"Eva‐sama, Hideyoshi‐sama.`
+char_goh: ` Please, do make use of this room.`
+char_goh: ` Rudolf‐sama, Kyrie‐sama, please make use of this room here."`
+char_eva: `"Ah yes, I do appreciate how pretty and elegant this place is.`
+char_eva: ` Western style truly is wonderful."`
+char_hid: `"I can handle the Western style for a few days, but any longer than that and you need the good old Japanese style!`
+char_hid: ` Japanese people just relax best on tatami mats."`
+char_geo: `"...Haha, they've been fighting over making our new house Japanese‐style or Western‐style.`
+char_geo: ` Mother still holds a grudge about Father having started the construction as Japanese‐style, and they bicker all the time about it."`
+char_jes: `"Your parents get along so well, George nii‐san... I'm jealous as hell.`
+char_jes: ` Mine are so frosty.`
+char_jes: ` And yet they're right with each other when it comes to my grades."`
+char_non: `All the rooms seemed to be two‐person.`
+char_non: `{n}I was grateful, because now I wasn't gonna be forced to share the same room with the old bastard for some bullshit reason like "being family".`
+char_non: `Besides, I figure those two wouldn't be able to enjoy themselves with someone like me around, ihihi.`
+char_kir: `"What's that creepy smile all about?`
+char_kir: ` You're thinking about something dirty, aren't you."`
+char_but: `"Ihihihi~!`
+char_but: ` Something diiirrrty? Of coouurse no~t!`
+char_but: ` Please...enjoy your staaay~!"`
+char_but: `"Ow, owowowow!`
+char_but: ` That hurts, you old bastard!"`
+char_non: `Once again, Dad pulled my ears from behind.`
+char_rud: `"Cut the crap.`
+char_rud: ` I'm getting a stomachache, and I'm not in the mood for this.`
+char_rud: ` You're the guest of honor this time around.`
+char_rud: ` You play as nice as possible with Dad and Aniki and the rest."`
+char_rud: `"......At the very least, pay attention to what you say in front of Dad, got it?`
+char_rud: ` 'Cause wisecracks go over like a lead balloon with him.`
+char_rud: ` ......Jessica‐chan, what's the mood of our family head been like lately?"`
+char_jes: `"...Hmm......`
+char_jes: `same as last year, I guess.`
+char_jes: ` ......Considering they keep saying he's got three months left, he's as lively,`
+char_jes: ` grumpy,`
+char_jes: ` and irritable as ever."`
+char_ros: `"Meaning, he's in his usual bad mood again this year.`
+char_ros: ` ......And the only one who's able to take care of him is Genji‐san?"`
+char_kum: `"It seems that the Master will only open his heart to Genji‐san.`
+char_kum: ` Lately, us small people cannot even get an audience..."`
+char_jes: `"He's shut himself up in his study again, probably doing nothing but that weird black magic of his.`
+char_jes: ` What he does for a hobby is his own damn business, but when he starts stinking up the place, it really gets on my nerves.`
+char_jes: ` ...He can just stay in that study and never come out again for all I care.`
+char_jes: ` Heheheh!"`
+char_geo: `"You shouldn't talk like that about the elderly.`
+char_geo: ` We're all indebted to him, since he rebuilt the Ushiromiya family, and a little gratitude wouldn't hurt."`
+char_jes: `"Hm...well...`
+char_jes: ` ......Sorry."`
+char_non: `After being rebuked by George‐aniki, Jessica had no choice but to take back her thoughtless remark.`
+char_non: `The Ushiromiya family was wealthy beyond belief, but that, of course, meant that all its members were eccentric people, completely at odds with the rest of society.`
+char_non: `The Head of the family, standing at its peak—in other words, our Grandfather—seemed to be a particularly eccentric and terrifying person, even for our family.`
+char_non: `Dad had said he was getting a stomachache earlier, but I guess that was what all the adults who came here today were actually feeling.`
+char_non: `No doubt they were jealous of us, the grandchildren, just playing and laughing without a care.`
+char_non: `From the stories Dad told me, the head of the family was a violent man who rained blows on his sons with his own fists and even beat his daughters mercilessly with a wooden sword.`
+char_non: `If he was such a staunch traditionalist with his kids, why wasn't he the same with their names?`
+char_non: `Because of that, even us grandkids have to suffer.`
+char_non: `......Well, I have absolutely no trouble believing the terrifying image they paint of him.`
+char_non: `I don't have many memories of meeting him over the years, but I remember his face was full of menacing thunder‐clouds, always making the people around him shrink away with a sharp look.`
+char_non: `I remember that the room's atmosphere got so tense whenever he was around, you couldn't even breathe.`
+char_non: `What my dad said right now about me being the guest of honor now carries a little more oomph for me.`
+char_but: `".........Six years ago I was in grade school, but I'm a high‐schooler now, there's no getting away from it.`
+char_but: ` If I don't show him respect, things'll probably get serious.`
+char_but: ` ...Ooo, scary."`
+char_geo: `"He does look frightening, but he's not completely terrifying.`
+char_geo: ` He's definitely never unfair.`
+char_geo: ` He's just not a pretty talker, that's all."`
+char_jes: `"But George nii‐san, you've been the family darling since like forever because of your awesome grades, right?`
+char_jes: ` Grandfather treats us completely different!"`
+char_jes: `"Like me, I've gotten slapped with a wooden sword.`
+char_jes: ` On my ass, my ass!`
+char_jes: ` On my maidenly naked ass!"`
+char_geo: `"Well, you're the heiress of the head house, Jessica‐chan.`
+char_geo: ` Grandfather is giving you special attention.`
+char_geo: ` You have to realize that his strictness shows how much he's expecting of you."`
+char_jes: `"Oh, come on.`
+char_jes: ` ...Seriously, I could just turn the succession over to you, George nii‐san.`
+char_jes: ` It's a bit of a heavy burden for me to carry."`
+char_non: `I think I already said it before, but Jessica is the daughter who will inherit the head house.`
+char_non: `{n}The pressure on her shoulders must be different from us cousins of the branch families.`
+char_mar: `".........Uu?`
+char_mar: ` Jessica onee‐chan, heavy?`
+char_mar: ` If I hold it, will it get lighter?"`
+char_jes: `"Hm?`
+char_jes: ` Ahahahaha, thanks.`
+char_jes: ` It's alright, it's not gonna get pushed on you, Maria‐chan."`
+char_jes: `"......I'm gonna bear that cross until my grave.`
+char_jes: ` ...Don't worry."`
+char_non: `While grateful for Maria's innocent consideration, it seemed that Jessica could not easily rid herself of the anxiety for the future that remained visible on her face.`
+char_non: `...I guess I'm no different.`
+char_non: ` Any high‐schooler with exams looming ahead is bound to have an anxiety for the future that they can't hide.`
+char_ros: `"Maria, come here.`
+char_ros: ` You'll be in this room with Mom."`
+char_geo: `"Battler‐kun, apparently you are with me in this room here."`
+char_but: `"Oh?`
+char_but: ` This i~s a surprise!`
+char_but: ` It's bigger than our parents' room, wo~w!"`
+char_jes: `"I figured us cousins are probably all going to gather in one place anyway.`
+char_jes: ` So I went and told them to make it a biggish room."`
+char_mar: `"Uu!`
+char_mar: ` I like here best too!`
+char_mar: ` Here is better than being together with Mama!`
+char_mar: ` Uu‐uu!"`
+char_but: `"Okay, you like it here better too, Maria!`
+char_but: ` Alright, this room is George's and mine, but we'll give you special permission to come in!`
+char_but: ` Keep it a secret from your mom, alright?"`
+char_mar: `"Uu!`
+char_mar: ` Secret!"`
+char_non: `Her mother, Auntie Rosa, was right behind her, but Maria still answered, striking the air with her fists clenched tight.`
+char_non: `After our parents put the luggage in the rooms, they gathered again in the corridor.`
+char_rud: `"So, brats, what're you gonna do?`
+char_rud: ` Are you cousins just gonna stay here and chat?"`
+char_non: `It seemed they were heading to the mansion to announce their arrival.`
+char_non: `...Normally, we would have had to follow them and greet everyone together,`
+char_non: ` but if that had been the case, Dad would just have said "You guys come too!" and been done with it.`
+char_non: `He's telling us that it's alright if we don't come... So what'll we do?`
+char_hid: `"It's gonna be time for lunch soon anyway.`
+char_hid: ` Better let the kids unwind here.`
+char_hid: ` Besides, if worst comes to worst, this might be the last chance they get to play outdoors."`
+char_mar: `"Uu!`
+char_mar: ` I'll go too!"`
+char_ros: `"Maria, you house‐sit for Mama, okay?`
+char_ros: ` You behave yourself and wait here."`
+char_mar: `"......Uu."`
+char_non: `Now that Maria had been told to house‐sit, we couldn't just leave her behind.`
+char_non: `George‐aniki realized that immediately, and gave a clear reply for all of us.`
+char_geo: `"Well, we'll accept your offer and house‐sit.`
+char_geo: ` We have lots of stories to tell each other, after a year."`
+char_kir: `"That would be best.`
+char_kir: ` And Battler‐kun has six years' worth to tell, after all!"`
+char_but: `"Yeah, yeah.`
+char_but: ` I'll take care of the house like a good little boy."`
+char_jes: `"Kumasawa‐san, I'm gonna stay here too!`
+char_jes: ` We'll leave the rest to the adults and us kids'll break rank, heheheh!"`
+char_kum: `"That would be for the best, hoh‐hoh‐ho.`
+char_kum: ` I'll report it to Madam..."`
+char_goh: `"Then, everyone, I will be guiding you to the mansion.`
+char_goh: ` Please, this way."`
+char_eva: `"...The other kids aside, George is an adult now. Wouldn't it be better if he came with us?"`
+char_hid: `"If we make him come, poor George'll be the only one left out.`
+char_hid: ` Interactin' with his cousins is also important.`
+char_hid: ` Well then, see ya, guys!"`
+char_non: `The adults left one after the other.`
+char_non: `Like the time he had guided us from the harbor, Gohda‐san went ahead, with Kumasawa‐san at the rear.`
+char_non: `As we gathered in the cousins' room assigned to us, George‐aniki asked us to excuse him for a second.`
+char_non: ` He rushed over to Kumasawa‐san, who was following behind the disappearing adults, and seemed to be asking her something.`
+char_non: `He soon finished his business and came back.`
+char_but: `"What's up, Aniki?"`
+char_geo: `"Ah, nothing.`
+char_geo: ` I just wanted to ask something."`
+char_mar: `"Uu!`
+char_mar: ` Ask me too!`
+char_mar: ` Ask me tooo!"`
+char_jes: `"......Hm~?`
+char_jes: ` Hmhuhuhuhu.`
+char_jes: ` What could it be that George nii‐san asks Kumasawa‐san and doesn't ask me, I wonder~?`
+char_jes: ` Ah, I don't have a clue~!"`
+char_geo: `"No, you misunderstand...!`
+char_geo: ` I'm not sure what you're misunderstanding but...!"`
+char_non: `Aniki was getting pretty tongue‐tied.`
+char_non: `It's like he has something to hide, and Jessica has the dirt on him.`
+char_non: `...Whatever it is, something only Jessica knows and I don't is no fun at all!`
+char_but: `"Hey, Maria, it's not fair that we're the only ones out of the loop, is it no~w?!`
+char_but: ` We wanna hear what they're talking about, don't we~?!"`
+char_mar: `"Uu!`
+char_mar: ` Battler and me want to know too!`
+char_mar: ` Battler and me want to know too!"`
+char_non: `""Uu‐uu‐uu‐uu!!!""`
+char_non: `I fooled around while "uu‐uu"ing together with Maria.`
+char_geo: `"No, I'm telling you...it's no big deal, ahahaha..."`
+char_but: `"Li~ar!`
+char_but: ` You suck at lying, now confess!`
+char_but: ` Maria, you tickle his right side, I'll tickle his left!"`
+char_mar: `"Uu!`
+char_mar: ` Me on the right side, Battler on the left!`
+char_mar: ` Uu!"`
+char_geo: `"Wait a second!!`
+char_geo: ` Wait you two...!!`
+char_geo: ` Ahahaha, stop,`
+char_geo: ` ahahahahahaha!!"`
+char_non: `George‐aniki rolled around on the bed in an effort to get away, and Maria and I played around chasing him.`
+char_non: `There's something in the back of my mind telling me I'm a high‐schooler now and not a damn kitten, but in spite of that, I missed this kind of fun.`
+char_non: `A warm kind of fun.`
+char_jes: `"Haahahahaha, what George nii‐san was asking Kumasawa‐san, see...`
+char_jes: ` Hmm~?`
+char_jes: ` Well, you know how it is.`
+char_jes: ` It's been a year since he last came to the head house.`
+char_jes: ` Apparently he's really dying to say hi to any servants that might have joined or quit in the meantime, see?"`
+char_mar: `"......Uu?`
+char_mar: ` Say hi, I'll say hi too!"`
+char_but: `"What the hell, that's not anything to feel guilty about, Aniki.`
+char_but: ` ......Hmm~~m?`
+char_but: ` That's not it, is it??`
+char_but: ` Maria, don't be fooled, Aniki's still hiding somethi~ng!`
+char_but: ` Resume interrogation!!`
+char_but: ` Uworyaaa!!"`
+char_geo: `"S‐stop it, seriously!`
+char_geo: ` Aahahahahaha!`
+char_geo: ` Maria‐chan, you too, stop already!!"`
+char_mar: `"Aahahahahaha, aahahahahaha!`
+char_mar: ` *giggle*giggle*!!"`
+char_jes: `"They're probably busy with cleaning or lunch arrangements.`
+char_jes: ` It's alright, we'll go and greet them properly afterwards.`
+char_jes: ` Basically, you wanted Shannon out there to greet you, not that Gohda getting in the way, right?!`
+char_jes: ` Heeheheh!"`
+char_but: `"Shannon?`
+char_but: ` ......Shannon.`
+char_but: ` ......Aaaaaaaaahh...`
+char_but: ` I remember, that girl!`
+char_but: ` She's still a servant now?`
+char_but: ` How is she?!"`
+char_hid: `"By the way, Natsuhi nee‐san.`
+char_hid: ` How's your headache been lately?`
+char_hid: ` It seemed to be pretty serious for a time."`
+char_nat: `"...I have been much better lately.`
+char_nat: ` Thank you for your concern."`
+char_ros: `"Oh, right, here.`
+char_ros: ` A present for you, Natsuhi nee‐san."`
+char_nat: `"......Thank you once again.`
+char_nat: ` I'm always receiving gifts from you.`
+char_nat: ` ...Is this black tea?"`
+char_ros: `"It's herb tea with peppermint and lemon balm.`
+char_ros: ` It's a blend from a famous store and is supposed to be good for headaches.`
+char_ros: ` I thought it might help you too."`
+char_non: `Rosa was always a conscientious woman.`
+char_non: `...Probably because she was the youngest of four, and by quite some distance,`
+char_non: ` she managed to grow up without harboring the venomosity of her siblings.`
+char_non: `Her consideration made Natsuhi soften her expression for just a moment,`
+char_non: ` but it wasn't enough to undo the many years of anxiety that had curdled her expression into one of bland indifference...`
+char_eva: `"Oh yes, you always were saying you get those headaches.`
+char_eva: ` Pull yourself together.`
+char_eva: ` Jessica‐chan will have her exams this year, won't she?`
+char_eva: ` Isn't that a turning point in her life?`
+char_eva: ` How can she count on her mother like that?`
+char_eva: ` Besides, Natsuhi nee‐san, you're three years younger than me.`
+char_eva: ` Can't you pull yourself together?"`
+char_nat: `"............`
+char_nat: ` .........I apologize.`
+char_nat: ` I was born with this discomfort."`
+char_non: `Eva sometimes fails to choose her words carefully, but even though she hid it with a smile, her comments aimed at Natsuhi contained shards of obvious malice.`
+char_non: `Of course, that didn't escape Natsuhi.`
+char_non: `She frantically contained her urge to grimace, and pretended to ignore Eva.`
+char_kir: `"Our Battler‐kun will have his exams this year too, right?`
+char_kir: ` Rudolf‐san, shouldn't you be a little concerned too?`
+char_kir: ` For the sake of your own son, get serious to the point of getting headaches like Natsuhi nee‐san."`
+char_rud: `"If I say anything, he automatically goes against it.`
+char_rud: ` So what should I say—maybe the opposite, that it's okay for him to mess around?`
+char_rud: ` That's probably the only thing he'd obediently listen to."`
+char_rud: `"In your family, Hideyoshi nii‐san, didn't George do really well on his exams?`
+char_rud: ` Please, teach me the secret to controlling children."`
+char_hid: `"Hmm, well...`
+char_hid: ` It's probably because I convinced him why he should study!`
+char_hid: ` Study isn't worth anything on its own."`
+char_hid: `"That's right, the real point of studyin' is to train yourself in the art of researchin' what you don't know!`
+char_hid: ` If you can't do that, you can't be useful to society!`
+char_hid: ` I'm not talkin' about math or writin'.`
+char_hid: ` You need to learn how to learn!"`
+char_nat: `"...That's splendid.`
+char_nat: ` It would be nice if our Jessica could understand that, though.`
+char_nat: ` I don't mean this too seriously, but as it is, as an heiress of the Ushiromiya family, she's—"`
+char_eva: `"Do you really have to force her into becoming the successor?`
+char_eva: ` Women have to find their own happiness.`
+char_eva: ` Parents shouldn't be deciding that for their children, right?"`
+char_hid: `"Hold your horses, Eva.`
+char_hid: ` Each family has its way to raise their children.`
+char_hid: ` You shouldn't be pushy."`
+char_eva: `"I'm sorry.`
+char_eva: ` Natsuhi nee‐san, don't take it the wrong way."`
+char_nat: `"..........................."`
+char_non: `Though the light shining in through the window was quite warm despite the cloudy weather, there was a dark mood about the room,`
+char_non: ` ...which probably caused headaches for other people besides Natsuhi.`
+char_non: `As if to brush away that mood, Kyrie brightly made a suggestion to all present.`
+char_kir: `"Still, this black tea has a really lovely aroma.`
+char_kir: ` Let's drink it at once.`
+char_kir: ` I believe that in Japan, you can't buy something like Leopold's black tea anywhere but Ginza, right?"`
+char_ros: `"Kyrie nee‐san, how knowledgeable of you.`
+char_ros: ` It really was worth buying."`
+char_non: `Kyrie and Rosa stood up from their seats and made as if to prepare the black tea.`
+char_non: `{n}Natsuhi forestalled them.`
+char_nat: `"......Thank you both.`
+char_nat: ` Let us save that for later.`
+char_nat: ` One of our people will soon be coming to bring some tea, so please relax."`
+char_rud: `"Leave it for later, you two.`
+char_rud: ` Let them treat us to a "welcome drink" at least."`
+char_non: `Rudolf gave a subtle signal with his eyes for them to sit down again.`
+char_non: `{n}...Kyrie and Rosa understood instantly and obediently returned to their seats.`
+char_non: `The guests had already been greeted, so it was time for some tea to be prepared for them.`
+char_non: `...That tea was late, and having the guests talk about making some themselves was an embarrassment for the host.`
+char_non: `Natsuhi bit her lower lip, frustrated with the ineptitude of the servants who were taking too long to bring the tea.`
+char_non: `...Seeing her face, Eva, without hesitation, started to giggle.`
+char_non: `......Of course, Shannon had no way of knowing what was taking place in the parlor.`
+char_non: `As she came in pushing a dish cart piled with tea cups,`
+char_non: ` Natsuhi gave her a pained look for no apparent reason, and Shannon couldn't help but flinch without knowing what she had done wrong.`
+char_sha: `"......E‐excuse me.`
+char_sha: ` I shall prepare some tea for you."`
+char_hid: `"Oh, Shannon‐chan, it's been a while!`
+char_hid: ` You keep getting prettier every time I see you!"`
+char_sha: `".........Oh,`
+char_sha: ` ...um,`
+char_sha: ` .........thanks—"`
+char_nat: `"Leave the chatting for after you've set the table.`
+char_nat: ` The tea will get cold."`
+char_sha: `"......I, ...I apologize, Madam."`
+char_non: `She apologized like a small frightened animal, and, bumping against the serving cart, made a jarring racket as she dropped several tea spoons.`
+char_non: `Her clumsiness made Natsuhi's expression even harsher, which made Shannon in turn quail even more.`
+char_eva: `"It's alright, Natsuhi nee‐san.`
+char_eva: ` What does a single greeting matter?`
+char_eva: ` We've already been made to wait for so long, the tea must be quite cold anyway.`
+char_eva: ` Heheheh."`
+char_sha: `"It, ...it's alright...`
+char_sha: ` It's not cold yet, so—"`
+char_nat: `".........Shannon, finish setting the table, quickly."`
+char_sha: `"I, I'm sorry, Madam......"`
+char_non: `It was obvious that Natsuhi was getting irritated.`
+char_non: `...The ineptitude that delayed the tea, the clumsiness of the servant—everything pointed to the incompetence of Natsuhi's everyday guidance, making her lose face.`
+char_non: `As the person in charge of matters of the Ushiromiya head house, allowing that clumsiness to be exposed today of all days was surely nothing less than total humiliation.`
+char_rud: `"Lay off, Natsuhi nee‐san.`
+char_rud: ` Don't you think it's a little harsh to bully Shannon‐chan when she's trying her best?"`
+char_nat: `"I'm not bullying anyone...!"`
+char_kir: `"What a nice smell.`
+char_kir: ` May I ask you the brand of this tea?"`
+char_sha: `"............Umm...`
+char_sha: `......I'm, ...I'm terribly sorry...`
+char_sha: ` I'll find out for you later..."`
+char_non: `Kyrie had tried to be nice to her, wanting to cut through the tense mood.`
+char_non: `...However, instead, Shannon had shown a disgraceful display, darkening Natsuhi's face and the room's mood.`
+char_non: `By this point, Eva's giggles were loud enough to be heard by everyone in the room.`
+char_eva: `"Whaat's thiis?`
+char_eva: ` Shannon‐chan, don't you even know what you're pouring us?`
+char_eva: ` Come now, you mustn't serve something so suspicious to guests.`
+char_eva: ` We'll need a silver spoon at the very least before we can drink this."`
+char_sha: `".........I, ...I'm sorry......`
+char_sha: ` I'll go get one immediately—"`
+char_eva: `"Shannon‐chan?`
+char_eva: ` Do you know what silver spoons are used for?`
+char_eva: ` Or why they have to be silver?`
+char_eva: ` Do you know why?"`
+char_sha: `"...............no...`
+char_sha: `.........umm......"`
+char_non: `Eva's eyes played over Shannon, who was setting the table, as a catty smile floated onto her face.`
+char_non: `...Taken on its own, the expression on Eva's face may have been charming, in an impish sort of way.`
+char_non: `However, the words being spun from her lips held within them the keenness of a razor.`
+char_non: `Shannon tried with all her might to avoid Eva's gaze, which continued to focus on her.`
+char_non: `Grasping that Shannon was hard‐pressed for an answer, Rosa promptly gave some timely help.`
+char_ros: `"They say that silver dims if it is touched by poison.`
+char_ros: ` ...*giggle*, you've learned something, right, Shannon‐chan?"`
+char_non: `The tea was being treated as undrinkable unless it could first be tested for poison.`
+char_non: `In Natsuhi's eyes, this was an insult to both the tea...and herself for serving it.`
+char_non: `Rudolf, laughing flippantly, patted Eva's shoulder.`
+char_rud: `"Haha, you don't need any silver cutlery.`
+char_rud: ` With just one lick of your poisonous tongue, even a silver plate would go pitch black."`
+char_hid: `"Wahahahaha!`
+char_hid: ` I get to hear that poison‐tongue every day, so I must be poison‐proof by now!`
+char_hid: ` Eva, I don't mind you doing it to me, but you've gotta tone it down a smidgen for the poor souls without resistance!`
+char_hid: ` Wahahahaha!"`
+char_eva: `"My, how cruel.`
+char_eva: ` I only gave Shannon‐chan a bit of information about tea, didn't I?`
+char_eva: ` *giggle*."`
+char_non: `Everyone followed the lead set by Hideyoshi's horselaugh and smiled, though sourly.`
+char_non: `There remained a single exception to this in Natsuhi, but even so, for the time being, the conversation inside the parlor could now be mistaken for a lively and friendly chat.`
+char_non: `As Shannon finally finished setting the tea table and made to leave, Kyrie apologized to her in a low voice for not being able to help.`
+char_non: `...Shannon gave a light bow and made a hasty retreat......`
+char_non: `Shannon cast her eyes downwards, pushing the cart down the corridor...`
+char_non: `The pitiful air around her made it obvious that she had borne the brunt of some bullying.`
+char_kan: `"......Don't be sad.`
+char_kan: ` You didn't do anything wrong, Nee‐san."`
+char_sha: `"...............You were watching."`
+char_kan: `"That is my duty."`
+char_sha: `"........................"`
+char_kan: `"Madam and Eva‐sama can go to hell.`
+char_kan: ` ......But the even worse coward is that guy."`
+char_non: `Kanon glared hatefully in the opposite direction of the parlor.`
+char_non: `The preparations for the tea had been delayed by a little bit of trouble in the kitchen.`
+char_non: `That trouble had not been Shannon's fault.`
+char_non: `{n}The truth is that it had been Gohda's mistake.`
+char_non: `In the first place, there was no way that a showoff like Gohda would ever hand over a flamboyant job like carting the tea to the guests.`
+char_non: `He had needed to make the tea all over again, which had made him late.`
+char_non: `So, realizing that he wouldn't be earning any brownie points, he had pushed the task of setting the table on Shannon, who happened to be passing by.`
+char_non: `......One could truthfully call it being shrewd, and one could unquestionably call it cowardice.`
+char_sha: `"......It's alright, Kanon‐kun, thank you.`
+char_sha: ` ...I really don't mind..."`
+char_kan: `"................................."`
+char_non: `Kanon's silence vividly showed that Shannon's words weren't coming from her heart.`
+char_sha: `"............Thank you.`
+char_sha: ` Even if you're the only one who understands, I still feel a bit better, I think."`
+char_kan: `"......You bottle things up too much, Nee‐san.`
+char_kan: ` ......You should be less hard on yourself for once."`
+char_sha: `"Yeah.`
+char_sha: ` ......Thanks."`
+char_non: `Suddenly, they both felt someone's presence and whirled around.`
+char_non: `An elderly man stood there.`
+char_non: `{n}It was Genji, the head servant.`
+char_gen: `"..................What are you doing here?`
+char_gen: ` ...Shannon, hurry back to the kitchen."`
+char_sha: `"Y‐yes.`
+char_sha: ` ......If you'll excuse me......"`
+char_kan: `"................................."`
+char_non: `Shannon humbly obeyed and promptly made to push the cart and leave.`
+char_non: `However, Kanon appealed to Genji in silence, bearing something in his eyes that he could not express in words.`
+char_gen: `"...............What is it?`
+char_gen: ` Did something happen...?"`
+char_kan: `"...Sha‐`
+char_kan: `......Shannon didn't do anything wrong,`
+char_kan: ` but those—"`
+char_sha: `"Stop it, Kanon‐kun..."`
+char_sha: `"......If you'll excuse me.`
+char_sha: ` I'll return to work immediately.`
+char_sha: ` Kanon‐kun, you too, go back to your post.`
+char_sha: ` ......Please."`
+char_kan: `"............If you say so, Nee‐san."`
+char_gen: `"..................`
+char_gen: ` ...If there is nothing, then go."`
+char_kan: `"......Yes.`
+char_kan: ` ......If you'll excuse me."`
+char_non: `From the shadows in the hallway, an old woman wearing an apron watched over them. It was Kumasawa...`
+char_kum: `......How heartrending, Shannon‐san, Kanon‐san...`
+char_kum: `{n}`
+char_kum: `There's no reason for those two to be picked on.`
+char_kum: `{n}`
+char_kum: ` ...But, it cannot be denied that they are disliked by Gohda‐san...`
+char_kum: `Before Gohda‐san was taken in by the Ushiromiya head house, I heard he worked for a fabulous hotel somewhere.`
+char_kum: `I do think the manner of work he learned there was quite something.`
+char_kum: `It's just that...Gohda‐san is the newest servant here.`
+char_kum: `{n}`
+char_kum: `...He must have a lot of pride accumulated from his previous posts.`
+char_kum: `Because Shannon‐san and Kanon‐kun are his seniors here at the mansion, and yet are inexperienced and have gone through much less in life than he has, he picks on them at every chance he gets...`
+char_kum: `And also, ...although it's terrible, they are hated by Madam Natsuhi too...`
+char_kum: `Of course, in terms of experience, Madam has been in the family much longer.`
+char_kum: `However.........I must feel some sympathy for Madam as well in this case.`
+char_kum: `...The Master is a truly cruel person...`
+char_kum: `Why could he not have realized that his trifling whim would pass such an inferiority complex onto Madam...`
+char_kum: `......Naturally, deep inside, even Madam fully acknowledges that there's no reason to treat those two so harshly...`
+char_kum: `...However, the heart has reasons that reason knows not...`
+char_kum: `Ahh, how heartrending...`
+char_kum: `I cannot do anything but watch over them from the shadows......`

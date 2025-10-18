@@ -1,0 +1,1064 @@
+char_enj: `Shannon and Kanon stood guard in front of the door to the Golden Land.`
+char_enj: `They glared quietly and fearlessly at the eerie fleet of ships across the horizon.`
+char_enj: `Shannon slowly lifted her hands.`
+char_enj: `Kanon also raised his right hand, and a blade that trailed red appeared there.`
+char_sha: `"Stop right there.`
+char_sha: ` I forbid you to come any closer."`
+char_kan: `"......If you do, ......I'll kill you."`
+char_non: `They could see a single dinghy leave the fleet and approach them.`
+char_non: `{n}They couldn't tell if it was a messenger or the first wave.`
+char_non: `Shannon and Kanon watched it cautiously...`
+char_non: `At the head of that dinghy rowed by goats......stood Erika.`
+char_non: `...Where had she gotten that headgear from?`
+char_non: ` Maybe she was trying to act the part of the fleet's leader.`
+char_non: ` ......The object on top of Erika's head, as she glared at them with an audacious smile, appeared to be a pirate hat.`
+char_eri: `"I've come to deliver our terms.`
+char_eri: ` There will be room for negotiation.`
+char_eri: ` Please open the gate."`
+char_non: `Shannon and Kanon looked at each other.`
+char_non: `Erika was the one offering this deal.`
+char_non: ` It wasn't likely to be anything agreeable.`
+char_non: `However, if they turned her away, the attack would probably begin at once.`
+char_non: `Since they were in a firmly inferior position, they wanted to buy time by any means they could.`
+char_non: `At Shannon's nod, Kanon erased his sword......`
+char_non: `The Golden Land was filled with a hard downpour accompanied by occasional thunder.`
+char_non: `Realizing that this weather spoke for their emotions, Erika smiled even more boldly.`
+char_non: `At the center of the Golden Land...was the arbor surrounded by the golden rose garden.`
+char_non: `A large number of {y:0:Human}{n:0:human}s and fantasy creatures were there, arguing about something.`
+char_non: `Even without asking, it was easy to guess the nature of the debate by their anguished expressions.`
+char_non: `After all, in this life‐or‐death situation, they didn't have many options they could take......`
+char_non: `In the direction Erika was being led—with her goat guards alongside her—Beato stood waiting, accompanied by the Chiester Sisters troops.`
+char_non: `Noticing Beato, Erika gave a bow that at least {i:appeared} graceful.`
+char_non: `Beato followed suit and gave the sort of graceful bow that was rarely seen from her.`
+char_bea: `"......I am {f:5:Beatrice}, the Golden and Endless Witch, and master of the Golden Land.`
+char_bea: ` ......Announce yourself."`
+char_non: `As though hinting that she was more than ready to go through with this farce, Beato introduced herself boldly and requested that Erika do the same.`
+char_eri: `"We have been dispatched from the Great Witch of Theatergoing, Drama, and Spectating's Noble City of Carefully Selected Books.`
+char_eri: ` I am the Witch of Truth, the commander of the Library Fleet, which is committed to bestowing honor and protection to books.`
+char_eri: ` My name is Furudo Erika.`
+char_eri: ` It is a pleasure to make your acquaintance."`
+char_bea: `"Shall we get down to business?"`
+char_eri: `"You ought to celebrate.`
+char_eri: ` We of the Library Fleet, dedicated to offering honor and protection to books, have come to bring good news to you all.`
+char_eri: ` First,`
+char_eri: ` I would like to announce that, after careful selection, the City of Books has acknowledged and accepted the game board created by the Endless Witch {f:5:Beatrice} as a great and honorable book."`
+char_bea: `"Hoh.`
+char_bea: ` That is indeed a great honor."`
+char_eri: `"This game board is a profoundly entertaining and original masterpiece, worthy of close study.`
+char_eri: ` It deserves to be released for all of our subjects to read.`
+char_eri: ` And so, the City of Books has ordered us to grant eternal honor and protection to this game board."`
+char_bea: `"This is all quite long and boring.`
+char_bea: ` Get to the point."`
+char_eri: `"We demand that you hand the entirety of this game board over to the honorable City of Books.`
+char_eri: ` Doing so will give this board and its pieces the greatest honor and protection imaginable."`
+char_bea: `"And if we refuse?"`
+char_eri: `"You will be prosecuted for the crime of monopolizing a great cultural artifact that ought to be shared among all of our subjects.`
+char_eri: ` We are here to notify you of the impending assault, one which will be waged by us to protect the benefits that are the rightful property of all subjects, not yours alone."`
+char_bea: `"Are you not concerned that the shared property of all subjects might be destroyed in this assault of yours?"`
+char_eri: `"According to the Great Library Protective Regulations, should a criminal guilty of monopolization of a cultural artifact attempt to hold the aforementioned hostage in a refusal to surrender,`
+char_eri: ` the executive fleet may prioritize arrest over its protective duties, provided that they obtain permission from the Great Court.`
+char_eri: ` ......Of course, we have already obtained the Great Court's written authorization."`
+char_bea: `"I imagine the word "arrest" is closely followed by "dead or alive", am I right?"`
+char_eri: `"My, my.`
+char_eri: ` I'm impressed that you can read those tiny letters.`
+char_eri: ` Now, enough fooling around.`
+char_eri: ` ......Let's hear your answer."`
+char_bea: `"What do we have to gain by accepting your conditions?"`
+char_eri: `"Both of us will be saved a troublesome task.`
+char_eri: ` Furthermore, your brave and noble acts will be written down as a glorious final chapter in the City of Books."`
+char_eri: `"......You do understand, right?`
+char_eri: ` You have no chance of winning.`
+char_eri: ` This won't even be a fight.`
+char_eri: ` It will just be you sitting there at the bottom of a well, looking up at the rocks being dropped on you."`
+char_bea: `".........So, you claim that my only option is to decide how the library witches write of my final moments.`
+char_bea: ` *cackle*cackle*......"`
+char_eri: `"The rest is up to you.`
+char_eri: ` If you treasure this game board, you ought to surrender.`
+char_eri: ` The pieces will be treasured by our many subjects for all time, and will be able to continue their roles on into eternity."`
+char_bea: `"Hmph.`
+char_bea: ` ......In other words, the tragedies I created at will shall continue forevermore."`
+char_eri: `"How is that any different from what you've been doing so far?"`
+char_bea: `"...............It isn't.`
+char_bea: ` ......Is there anything else?`
+char_bea: ` If not, allow me to give you my answer."`
+char_eri: `"Go ahead."`
+char_non: `Erika tensed slightly.`
+char_non: `{n}After all, this was the great Lady {f:5:Beatrice} she was dealing with.`
+char_non: `She might shout "here is my answer" dramatically and do something crazy.`
+char_non: `They say a cornered rat is the most dangerous.`
+char_non: `Furthermore, Erika had intel telling her that the great Lady {f:5:Lambdadelta}, witch of the Senate, had been spending her time inside the Golden Land, though only as a theatergoer.`
+char_non: `Erika needed to carry out this noble task that her master had assigned her, and she had to carry it out perfectly.`
+char_non: `If she was honest, .........she wanted to make Beato raise a white flag, even by trickery if necessary.`
+char_non: `So, even though this was a farce, she held back from giving any unneeded provocation.`
+char_non: `She gulped and tried to size Beato up.`
+char_non: `And then, ...............with a pathetic expression on her face, ......Beato let out a sigh.`
+char_bea: `"I'll be honest.`
+char_bea: ` The truth is...I am tired."`
+char_eri: `".........What do you mean by that?"`
+char_bea: `"My game had already achieved its purpose when my fight with Battler ended.`
+char_bea: ` And yet, for various reasons, the game has repeated several times since then.`
+char_bea: ` ......To be perfectly honest, I am tired of it."`
+char_eri: `"......To be honest, I certainly didn't expect that answer.`
+char_eri: ` ......So, you want to surrender?`
+char_eri: ` Really......?"`
+char_bea: `"Simply put, I don't care either way.`
+char_bea: ` ......It doesn't matter whether I surrender or whether we're vanquished by you.`
+char_bea: ` I simply wish to have the curtain closed on this game board and tale, regardless of who does the deed."`
+char_non: `Of course, .........that was a lie.`
+char_non: `{n}She knew she couldn't win even if she fought.`
+char_non: `For now, their best option......was to play for time.`
+char_non: `They would fix Erika's attention to this spot, ......and during that time, Battler and the others would steal the key from {f:5:Bernkastel} while she was completely off her guard.`
+char_non: `......Once they had the key, they would return to the Golden Land, use that key to let Ange open the door to the future, and see her off.`
+char_non: `That was their goal.`
+char_non: `{n}Everything after that...would be inside the cat box.`
+char_non: `Ange would live on into the future, with hope.`
+char_non: ` No one would know whether Beato and the others were alive or dead.`
+char_non: ` ......That was enough.`
+char_non: `The only strategy Beato and the others could use to achieve this...was to buy time.`
+char_eri: `"......If you do surrender, it may be a bit of an anti‐climax, but it will save me a lot of trouble."`
+char_bea: `"But, well, ......it is not so simple.`
+char_bea: ` You see, and this is just between you and me,`
+char_bea: ` ......as you may know, the great Lady {f:5:Lambdadelta} is staying here.`
+char_bea: ` She is, you see, pushing us to show her a dramatic climax."`
+char_eri: `"......That's a pretty cruel whim to force on someone.`
+char_eri: ` How are a few wimpy people like you, the dregs of an already‐solved puzzle, supposed to fight against our fleet,`
+char_eri: ` with its hundreds of thousands of troops?"`
+char_bea: `"Very true, very true...`
+char_bea: ` The gap in strength is overwhelming.`
+char_bea: ` We told her that it wouldn't even be a fight, but......`
+char_bea: ` Well, ......Lady {f:5:Lambdadelta} didn't listen, and just said she would bring some of her friends to support us, so we should fight with everything we had."`
+char_eri: `"......Lady {f:5:Lambdadelta}'s.........friends......?"`
+char_non: `Unlike {f:5:Bernkastel}, who kept to herself, {f:5:Lambdadelta} had many friends.`
+char_non: `Her friends and patrons were all formidable, including monsters that had become legends in their own lifetimes and territory lords commanding vast influence over their respective domains.`
+char_non: `In all seriousness, her "fan club", as she so called it, had enough size and influence that no one would have been overly surprised if it had suddenly declared itself an independent nation right in the middle of the sea of fragments.`
+char_bea: `"......To our dismay, Lady {f:5:Lambdadelta} is very much ready for action.`
+char_bea: ` Without any regard for us, she keeps calling up friends and acquaintances on the phone from all over the place, telling them to come over..."`
+char_non: `.........Of course, this was all a lie.`
+char_non: `{f:5:Lambdadelta} had turned into a small candy comet and was now shooting towards the City of Books with Battler and Ange in tow.`
+char_non: `So, to make sure that {f:5:Lambdadelta}'s and Battler's absences were not noticed,`
+char_non: ` everyone was crowded around the arbor, pretending to argue furiously with each other...`
+char_rg1: `"Battler‐sama, give us your decision!!`
+char_rg1: ` We, the Seven Sisters of Purgatory, are prepared for death at any time!!"`
+char_cla: `"I firmly oppose taking a last stand that would lead to our deaths!`
+char_cla: ` What could possibly be gained by dying?"`
+char_nat: `"How can you be such a coward?!`
+char_nat: ` It is inconceivable that we should live on in shame as prisoners!"`
+char_wal: `"There are times when the mere fact of being alive gives one opportunities."`
+char_kum: `"......Yes, indeed.`
+char_kum: ` A short temper makes a bad leader..."`
+char_rud: `"Battler, if you call yourself a man, now's the time to act like one!`
+char_rud: ` The great {f:5:Lambdadelta}‐sama is even willing to help out, right?!"`
+char_hid: `"I agree!`
+char_hid: ` These are the times when a man has to make a tough decision...!"`
+char_ron: `"......In many cases, the timing of a decision is more valuable than the decision itself."`
+char_sak: `"I‐if we surrender, they might not be violent......"`
+char_rg5: `"You can't be serious!!`
+char_rg5: ` Weren't you supposed to be a lion, and a male one too?!`
+char_rg5: ` Where are your fangs now?!!"`
+char_rg4: `"If death awaits us regardless, I would rather die as a wolf than as a pig."`
+char_rg3: `"Are you stupid?!`
+char_rg3: ` Are you saying you want to die like a dog?!"`
+char_nan: `".........It all depends on the strength of the support {f:5:Lambdadelta}‐san can provide..."`
+char_ros: `"{f:5:Lambdadelta}‐san.`
+char_ros: ` Are your friends really strong enough to win against them...?"`
+char_eva: `".........It's a gamble.`
+char_eva: ` Do we surrender and die, or do we take the gamble and die by losing?"`
+char_kir: `"Interesting.`
+char_kir: ` In that case, our chances for survival must be higher if we gamble on it."`
+char_dla: `"......An honorable surrender will surely cause the Great Court to show {f:5:mercy}."`
+char_wil: `"They're backed by the Senate, aren't they?`
+char_wil: ` Sure, they'll hem and haw, but we'll all see the guillotine in the end."`
+char_rio: `"A‐anyway, let's all calm down...!`
+char_rio: ` Cool your heads...!`
+char_rio: ` I'm opposed to letting our emotions control us!"`
+char_geo: `"Why don't you calm down first?`
+char_geo: ` .........We have another possible strategy: mutually assured destruction.`
+char_geo: ` We might not be able to win, but if we can convince them that we plan on taking enough of them with us, that might force our opponents to show restraint."`
+char_jes: `"Basically,`
+char_jes: ` if they're gonna pick a fight, we'll let them know we aren't going down without doing some damage first!!"`
+char_mar: `"Kihi{0}hi{0}hi{0}hi{0}hi{0}hi{0}hihi!!`
+char_mar: ` All of {f:5:Lambdadelta}'s friends are incredible...!!`
+char_mar: ` She knows lots and lots of witches, beasts, demons, and gods, all of which have really, really huge legends and histories!`
+char_mar: ` Even if those ships outnumbered the stars in the sky, {f:5:Lambdadelta}'s friends would wipe them out in a single blast!`
+char_mar: ` Kihi{0}hi{0}hi{0}hihi!!"`
+char_goh: `".........W‐will this really work?`
+char_goh: ` ......She hasn't seen through our act yet, has she......?"`
+char_gen: `"It is working.`
+char_gen: ` You must speak more forcefully as well.`
+char_gen: ` Do not worry about politeness."`
+char_kin: `"Enough, you gutless swine!!`
+char_kin: ` Do you lack the backbone to finish with a bang?!!"`
+char_goh: `"H‐h‐h‐hold on...!`
+char_goh: ` Don't forget that some of us are opposed to fighting!`
+char_goh: ` I think we should surrender!!"`
+char_kin: `"Whaaa{-}a{-}a{-}a{-}a{-}a{-}a{-}a{-}a{-}a{-}a{-}a{-}a{-}a{-}at?!`
+char_kin: ` Goo{-}o{-}o{-}o{-}o{-}o{-}o{-}o{-}o{-}ohda, you defeatist foo{-}o{-}o{-}o{-}o{-}o{-}o{-}o{-}o{-}o{-}o{-}o{-}ool!!"`
+char_goh: `"Ah, ow, ouch, my lord, it's j‐just an act, gyaa{0}a{0}r{0}r{0}r{0}r{0}gghhh!!"`
+char_zep: `"Well, it looks like the debate has gotten quite heated!!"`
+char_fur: `"Will we surrender?!`
+char_fur: ` Or will we fight back?! Which will it be?!"`
+char_non: `""Nobody knows!!""`
+char_bea: `"Personally speaking, I would like to surrender.`
+char_bea: ` ......If my purpose is to come to an end in any event, I would prefer that my game board be preserved the way I made it.`
+char_bea: ` ......I could not bear to have Lady {f:5:Lambdadelta} continue to use it however she pleases."`
+char_eri: `"............We don't want that either.`
+char_eri: ` I came here to fight you, but I'm no match for Lady {f:5:Lambdadelta}'s friends."`
+char_non: `Secretly, Erika was getting worried at these complicated developments.`
+char_non: `And, she was relieved that she hadn't pushed too hard earlier on.`
+char_non: `She wanted to curry favor with Beato and end this with a bloodless takeover.`
+char_non: `Even the great Lady {f:5:Lambdadelta} probably wouldn't seriously think of picking a fight with the Senate.`
+char_non: `Her motive was probably something much more trivial, a simple desire to watch the game board's final fireworks from a front row seat.`
+char_non: `However, ......if she really did have some fireworks of her own prepared,`
+char_non: ` ......it was at least possible that this could turn into a ruckus that Erika would have no chance of quelling.`
+char_non: `............Beato saw all of this going on in Erika's mind.`
+char_non: `So, she continued to act with an even more pathetic expression on her face.`
+char_non: `Even among witches, her acting ability was top‐notch.`
+char_bea: `".........Might you be willing to lend us some of your strength?`
+char_bea: ` So that my game board's beauty will be preserved?`
+char_bea: ` ......Yes, it was a great error to invite that busybody as a guest.`
+char_bea: ` ......Haha..."`
+char_eri: `".........I understand.`
+char_eri: ` I'd like to end this quietly too, if I can.`
+char_eri: ` So, how can we work together?"`
+char_bea: `"For some time now, we have been arguing over whether we should surrender or resist.`
+char_bea: ` I intend to return to the debate myself to propose that we surrender and ask Lady {f:5:Lambdadelta} not to do anything that might destroy the game board."`
+char_eri: `"That would please me very much.`
+char_eri: ` So, what should I do?"`
+char_bea: `"I would like you to guarantee that we have the necessary time to debate the matter.`
+char_bea: ` ......After all, your ships are surrounding and pressuring us at the moment.`
+char_bea: ` Everyone is so tense at the thought that we may be attacked at any time that they're falling apart."`
+char_bea: `"So, if you guarantee that we will have enough time to discuss this amongst ourselves, everyone will surely be able to keep their composure during that time.`
+char_bea: ` ......Furthermore, I will have enough time to convince Lady {f:5:Lambdadelta}."`
+char_eri: `".............................................`
+char_eri: `......Very well.`
+char_eri: ` About how long do you need?"`
+char_bea: `"Would you be gracious and avoid giving a specific time limit?`
+char_bea: ` ......If a time limit is imposed, everyone will just fall apart again as the limit nears, possibly leading to an agitated decision..."`
+char_eri: `"......You have a point there.`
+char_eri: ` The most important thing about a fuse is whether it's lit or not.`
+char_eri: ` The length of the fuse is a trivial matter."`
+char_bea: `"In that case, ......will you give us the time we need?"`
+char_eri: `"Understood.`
+char_eri: ` I guarantee that you will have time to discuss it.`
+char_eri: ` However, that time will not be unlimited.`
+char_eri: ` I will wait here and listen in on your discussion."`
+char_bea: `"Well, as far as that goes, ......it is true that your mere presence here has everyone on edge......"`
+char_eri: `"I have already made my concessions.`
+char_eri: ` Isn't it your turn now?"`
+char_bea: `"...................................."`
+char_non: `They were some distance away from the arbor, but still just about close enough that one could get a general idea of what was going on.`
+char_non: `It might just barely be possible to hide the fact that Battler and {f:5:Lambdadelta} were missing,`
+char_non: ` to convincingly pretend to be engaged in a white‐hot argument in gridlock.`
+char_non: ` ......But absolutely nothing was safe at this distance.`
+char_non: `If it were possible, they would rather have kept Erika waiting much further away.`
+char_non: `They had planned to set up a seat of honor for their guest at one of the far corners of the garden maze......`
+char_eri: `".........Is there some sort of problem?"`
+char_bea: `"Okay, okay.`
+char_bea: ` Don't make such a scary face...`
+char_bea: ` In that case, please wait here.`
+char_bea: ` ......This is a, um, confidential conference!`
+char_bea: ` So, you must, uh,`
+char_bea: ` come no closer than this line...!"`
+char_non: `Beato drew a line in the ground with her foot.`
+char_bea: `"Help them see me in a good light.`
+char_bea: ` If it's clear that I have obtained a generous agreement from you, that will be a powerful weapon in my hands in the debate."`
+char_eri: `".........Could I get a chair?"`
+char_bea: `"Y‐yes, yes, of course!`
+char_bea: ` Chiester Troops, bring Miss Erika a chair and umbrella at once...!`
+char_bea: ` And a hand towel too!`
+char_bea: ` I'll wipe it nice and clean for you...!"`
+char_eri: `"......................................."`
+char_ron: `"Milady, have there been any developments in our negotiations...?"`
+char_bea: `"Wahahahahaha...`
+char_bea: ` If anything's certain, it's that I'll be winning this year's prize for best actress...!"`
+char_rg2: `"That's our {f:5:Beatrice}‐sama!"`
+char_geo: `"All we can do is argue fiercely, squabble amongst ourselves,`
+char_geo: ` and make it look like things will turn for the worse if negotiations break down."`
+char_kin: `"Indeed.`
+char_kin: ` What we begin now is a fight, as important as any other, to support Battler's group.`
+char_kin: ` Get yourselves ready, everyone.`
+char_kin: ` Let us argue and insult with all we have.`
+char_kin: ` Got it...?!"`
+char_goh: `"Mmm, mmyes, my lord!"`
+char_non: `The sight of Gohda, his cheek red and swollen from being pinched, made everyone snort, but they quickly covered their mouths and put fingers to their lips......`
+char_non: `Then, everyone nodded at each other, and the fake argument resumed.`
+char_non: `Erika was sitting in the chair that the Chiester Sisters had brought her, filling a goat in on the details of the negotiation.`
+char_non: `The goat would probably return and tell the rest of the fleet.`
+char_non: `The fleet would tell {f:5:Bernkastel},`
+char_non: ` and {f:5:Bernkastel} might think of some plan to deal with this situation or give new orders.`
+char_non: `The conversation with the goat ended, and it spun around.`
+char_non: `{n}......It would return to the dinghy and report on this to the fleet.`
+char_non: `It left the rose bushes behind and passed through the garden maze, heading towards the door that led outside......`
+char_non: `.........Would it really be okay to let that goat reach the boats......?`
+char_non: `If it made it back, Erika's report would reach {f:5:Bernkastel}'s ears......`
+char_non: `The Chiester Sisters spoke through a secret channel that only they could use.`
+char_s41: `"............Two seconds nyeh.`
+char_s41: ` Won't even be a sound nyeh..."`
+char_s45: `"......It's just about to leave Erika's sphere of awareness.`
+char_s45: ` ......Can assassinate until it's in range of the goat boatman. ETA ten seconds."`
+char_s00: `"Lady {f:5:Beatrice},`
+char_s00: ` permission to assassinate.`
+char_s00: ` .........We can do it. Erika will sense nothing."`
+char_bea: `"You do not have permission.`
+char_bea: ` ......Do you think an envoy would leave their boat without setting a time limit?`
+char_bea: ` The fleet probably has orders to attack if it isn't contacted within a certain period of time.`
+char_bea: ` Let that goat go."`
+char_s00: `"00, understood."`
+char_non: `The goat passed through the door.`
+char_non: `Then, after receiving a silent bow from Shannon and Kanon, it got on the dinghy and returned to the fleet.`
+char_non: `The fleet would probably follow Erika's orders and stand by until an attack order was given.`
+char_non: `......That gave the residents of the Golden Land a chance to assassinate Erika, .........but of course, that wasn't going to be possible, practically speaking.`
+char_non: `She was {f:5:Bernkastel}'s greatest underling, and a witch who controlled truth.`
+char_non: `Tricking her was all they could hope for.`
+char_non: ` Anything else would be wishful thinking...`
+char_eri: `"Why don't you all have a seat too?"`
+char_s00: `"......You need have no worries about us, ma'am."`
+char_non: `Without any hint that she had just been talking about assassinations,`
+char_non: ` 00 stood upright with her hands clasped behind her back......`
+char_non: `Surrender, or resist until the end.`
+char_non: `The false argument resumed.`
+char_non: `Just how well and how long would they be able to trick Erika?`
+char_non: `Yes. ......The final fight for the Golden Land...had already begun.`
+char_bea: `"............Battler.`
+char_bea: ` You can count on us to handle things here.`
+char_bea: ` ......It's time for you and Ange to take this final game back...!"`
+char_but: `".........This is one freakishly huge library......"`
+char_enj: `"I've heard that each one of these books has a tale like ours inside it."`
+char_but: `"After all, ......this is a world of gods."`
+char_lam: `"You can tell at a glance that it's not a place for the likes of you guys, right?"`
+char_non: `After passing through the barrier, the three of them had finally made it inside the City of Books.`
+char_non: `For some time, they were overcome by the countless otherworldly sights before them, but they quickly remembered their original objective.`
+char_lam: `"Okay, listen up.`
+char_lam: ` First off, don't get the wrong idea.`
+char_lam: ` ......You two came here to fight Bern,`
+char_lam: ` but that doesn't mean walking up to her and attacking her directly, okay?"`
+char_but: `"............We know."`
+char_lam: `"In the first place,`
+char_lam: ` you were only able to fight the great {f:5:Beatrice} on an even footing because the game board protected you with rules that made it that way.`
+char_lam: ` If you leave the game board,`
+char_lam: ` ......you're more like something that'll leave a small stain on her palm when she swats you.`
+char_lam: ` Don't forget that, got it?"`
+char_enj: `"......Makes sense.`
+char_enj: ` ......This isn't the game board we're familiar with."`
+char_but: `"We didn't come here to fight.`
+char_but: ` ......We came here to take something back with us."`
+char_lam: `"Exactly.`
+char_lam: ` ......You're here to prevent the Book of the Single Truth from being exposed to the public.`
+char_lam: ` That is your only goal, your only fight.`
+char_lam: ` You'd better not be confused about that."`
+char_non: `Battler and Ange nodded to show their understanding.`
+char_lam: `"The Book of the Single Truth itself is being displayed openly in the middle of the party, so stealing that'll be impossible.`
+char_lam: ` ......However, bringing in the key is a big part of the ceremony."`
+char_but: `"Which means the key must be stored in a different place."`
+char_enj: `"......But there's no guarantee that it'll be undefended."`
+char_lam: `"After that, it's all up to your luck.`
+char_lam: ` I hope it's good, for your sakes.`
+char_lam: ` ..................! Hide!!"`
+char_non: `{f:5:Lambdadelta} pulled her head back from around the corner of a bookshelf.`
+char_non: `{n}The others hurriedly followed suit.`
+char_non: `......In the distance, they saw emerald‐green lights floating about and leaving trails.`
+char_lam: `"Those are Bern's cat familiars.`
+char_lam: ` ......She's got them patrolling all over the place today."`
+char_enj: `"......Did she guess that we would come?"`
+char_lam: `"No.`
+char_lam: ` Don't forget how huge this place is.`
+char_lam: ` Those are staff cats, out looking for nitwit guests who've gotten lost, so they can be taken to the lost children area."`
+char_but: `"And that's not where we want to go at the moment."`
+char_enj: `".........If it looks like one's about to find us, .........should we take them out...?"`
+char_lam: `"I'd advise against it.`
+char_lam: ` ......Maybe if this were some other territory or game board,`
+char_lam: `......but this is Bern's home base.`
+char_lam: ` That single cat should make you as scared as being surrounded by a crowd of vicious beasts."`
+char_lam: `"......Plus, they're cats.`
+char_lam: ` They've got good senses, and they'll call for their friends.`
+char_lam: `......If they spot you, you'd better prepare yourself for what comes next.`
+char_lam: ` I'm not going to save you.`
+char_lam: ` ......Just taking you here has been troublesome enough."`
+char_lam: `"......As for me, if I surrender,`
+char_lam: ` ......I might get off the hook with being stripped naked and put through a hundred years of all the worst kinds of pukespittle fragments.`
+char_lam: ` ......How wonderful. I think I can sympathize with Bern's feelings a bit now."`
+char_non: `{f:5:Lambdadelta} wasn't laughing.`
+char_non: ` Most likely, even this punishment she spoke of was pretty optimistic.`
+char_non: `Despite saying that she won't offer any more help...`
+char_non: `{n}She's already...`
+char_non: `risking everything.`
+char_non: `And for what?`
+char_lam: `"......Isn't that obvious?"`
+char_non: `{f:5:Lambdadelta} brushed her hair back and grinned.`
+char_lam: `"It's because you're gonna show me the perfect happy ending!"`
+char_non: `{f:5:Lambdadelta} hugged their heads at the same time, making their foreheads bonk together.`
+char_lam: `"You'd better show me, for certain...!"`
+char_but: `"......Yeah.`
+char_but: ` ......We'll show you. A certain...happy ending!"`
+char_enj: `"We'll......certainly take this cat box back...!"`
+char_lam: `"Let's go.`
+char_lam: ` ......This way, and swim quietly."`
+char_non: `The three of them swam out into the darkness of the deep ocean trench that was the City of Books.`
+char_non: `In that massive, vast trench of bookshelves, they vanished into the darkness almost immediately.`
+char_non: `The library defied the common sense of the human world.`
+char_non: `......The City of Books.`
+char_non: `The word "city" was no exaggeration.`
+char_non: `And, it was filled with the green, glowing eyes of {f:5:Bernkastel}'s countless cat familiars.`
+char_non: `Trying to count them would be almost as crazy as counting all the fish in the ocean.`
+char_non: `They formed schools that swam all over the place,`
+char_non: ` ......on the lookout for any fools who might miraculously have managed to slip in and disturb their master's party.`
+char_non: `If Battler's group was found, the cats would report it instantly.`
+char_non: `{n}They would probably form a pack, open their large mouths and swallow them in a single gulp.`
+char_non: `......There would be no fight.`
+char_non: `In this place, Battler's party would be swallowed like tiny fishes if they were discovered.`
+char_non: `The warships surrounding the Golden Land were well more than a hundred strong.`
+char_non: `Each of them had dozens of cannons pointing at the door to the Golden Land.`
+char_non: `The goats that packed the decks of the ships numbered in the tens of thousands.`
+char_non: `Each one of them carried anti‐magic toxin in their fangs, potent enough to completely deny each of the game board pieces one by one.`
+char_non: `This time, they would chew apart and eat away everything.`
+char_non: ` ......The crowd of goats unleashed their rotten breath and dangling drool.`
+char_non: `At that time, Erika, who wanted to avoid trouble and hoped Beato would be able to convince {f:5:Lambdadelta} to surrender peacefully,`
+char_non: ` was sitting alone, calmly enjoying the tea Ronove had poured for her.`
+char_non: `Of course, even Erika wasn't planning to give them unlimited time.`
+char_non: ` In her mind, she had already decided to allow them three yawns before stepping in.`
+char_eri: `".........This actually isn't so bad.`
+char_eri: ` ......Getting to watch Beato try and convince everyone as they call her a coward and a loser."`
+char_ron: `"Indeed, it is impressive that our short‐tempered mistress has managed to become such an adult.`
+char_ron: ` ......Pu ku ku ku."`
+char_eri: `"......What's so funny?"`
+char_ron: `"Oh, pardon me.`
+char_ron: ` ......Are you ready for another cup?`
+char_ron: ` Please feel free to enjoy our collection of great teas from across the globe at your leisure."`
+char_ber: `"Lambda's leading Beato's side into an all‐out resistance...?`
+char_ber: ` And she's gathering her friends?`
+char_ber: ` .........Is this a joke?"`
+char_non: `The messenger cat shook its head, then continued to dispassionately meow its report.`
+char_ber: `"......Even Lambda isn't that stupid.`
+char_ber: ` She should know what it means to have Auau as her enemy..."`
+char_non: `Even as she said this, {f:5:Bernkastel} was chewing away at her thumbnail...`
+char_ber: `"Despite how she looks, that kid has a lot of strange friends...`
+char_ber: ` Absolute monsters who just love to meddle......`
+char_ber: ` .........But even so, to take up arms against the Senate........."`
+char_non: `...............It was possible...`
+char_non: `She could think of many monsters among {f:5:Lambdadelta}'s friends who would love to see a losing side get support and make a comeback victory......`
+char_non: `Before she realized it, the finger {f:5:Bernkastel} was biting was covered with sweat.`
+char_ber: `"......She might do it.`
+char_ber: ` ......She really is a moron sometimes, after all!`
+char_ber: ` Get me a phone, quickly!!"`
+char_non: `The cat leapt away, then flew back with a phone and receiver.`
+char_ber: `"I'm going to call up her friends...!`
+char_ber: ` ......I have to warn them not to get involved in this stupid game...!`
+char_ber: ` Umm, ......phone numbers, phone numbers.......`
+char_ber: ` .........Why don't I have any phone numbers saved in here...?`
+char_ber: ` Oh, right, I have no friends...`
+char_ber: ` Umm, ......how were you supposed to greet people over the phone? Does "hello" work?!"`
+char_non: `"Meow!"`
+char_non: `The golden key was being kept in a room inside the City of Books.`
+char_non: `However, perhaps "room" wasn't a fitting word to use.`
+char_non: `It was large enough that you could probably fit two domed baseball stadiums in it one atop the other.`
+char_non: `Even so, in this city, these were called "rooms".`
+char_non: `Floating in the center of this vast room...were several sacred magic circles.`
+char_non: `Wrapped around by these magic circles......was Ange's gold key.`
+char_non: `Surrounding this were countless emerald‐green stars, which looked like a slowly revolving planetarium.`
+char_non: `Those eyes as numerous as the stars......were all glaring in the same direction.`
+char_ev2: `"............Come on, don't look at me like that.`
+char_ev2: ` I'm on your side. Did you forget?"`
+char_non: `One of the cats kitty‐paddled towards {f:5:Eva},`
+char_non: ` meowing that no one was allowed to enter this room.`
+char_ev2: `"Lady {f:5:Bernkastel} has ordered me to guard that key.`
+char_ev2: ` So, why don't you leave this to me and get lost?"`
+char_non: `After looking at each other with suspicious eyes, the cats glared at {f:5:Eva} again, as though saying that they hadn't heard any such order.`
+char_ev2: `"By the way,`
+char_ev2: ` ......cats have pretty soft bodies, don't they?"`
+char_non: `".........??"`
+char_ev2: `"Much easier to chew that way."`
+char_non: `{f:5:Eva} lifted up her golden staff...and a circular pattern of red lines covered the floor and ceiling of the vast room.`
+char_non: `The reaction from the cats was lightning fast.`
+char_non: ` They realized instantly that this was hostile behavior.`
+char_non: `The entire emerald‐green constellation writhed and became a single, massive, deep‐sea fish, which charged at {f:5:Eva} with its massive mouth open wide.`
+char_non: `However, at the same time, the red lines—the massive spiderwebs—on the floor and ceiling came crashing together and crushed the fish,`
+char_non: ` twisted it, spun it around and around, .........and compressed it to the size of a small ball.`
+char_non: `Then, that ball‐shaped thing burst open, leaving nothing left.`
+char_non: `It all happened in an instant.`
+char_ev2: `"Why don't you just give up and die for{f:5:eva}aa??`
+char_ev2: ` Ahha{0}ha{0}ha{0}haha!!!"`
+char_non: `The Witch Hunters were holding a convention in the event hall.`
+char_non: `After all, once Ushiromiya Eva's diary was opened, ......the endless cat box would be lost, along with the countless imagined stories that had entertained them for so long.`
+char_non: `So, this final convention was a time for them to air their best theories one last time.`
+char_non: `The cat box was soon to be opened, and while that did give them a slightly lonely feeling,`
+char_non: ` they couldn't contain their excitement as intellectual rapists, not when they knew that the Rokkenjima mystery was finally going to be solved once and for all.`
+char_non: `......There was a girl out there......who was going to be hurt by the opening of that box.`
+char_non: `However, their jaws and fangs couldn't care less.`
+char_non: `The witch‐hunting goat nobles kept licking their lips, ......wanting to chew apart the guts of {f:5:Beatrice}'s cat box as soon as they could...`
+char_non: `Seated upon a grand throne the size of a pillar,`
+char_non: ` {f:5:Featherine} listened in on the nonsense being spewed from the mouths of the goat nobles.`
+char_non: `A black cat wearing a cape silently appeared and whispered something into {f:5:Featherine}'s ear.`
+char_fea: `"........................`
+char_fea: ` No, it is fine.`
+char_fea: ` ......Everything is going according to my script.`
+char_fea: ` ......You need not inform my miko."`
+char_non: `The cat bowed humbly and vanished.`
+char_non: `{f:5:Featherine} raised her wine glass high, ......and laughed as she looked through it to the light of the chandelier, which was as beautiful and majestic as the moon.`
+char_fea: `"This should be enough to thank you for your excellent reading, child of man.`
+char_fea: ` ......Well now.`
+char_fea: ` ......Just who is weaving this tale?`
+char_fea: ` ......Am I for you?`
+char_fea: ` Or are you for me?`
+char_fea: ` .........Heh, ......heheheheheheh."`
+char_lam: `".........What do you think?"`
+char_but: `"A trap?"`
+char_non: `......As Battler's group moved forward, darting from bookshelf to bookshelf while avoiding the eyes of the cats, they found something strange.`
+char_non: `Written with a faintly glowing, red substance......was a letter and an arrow.`
+char_non: `{a:c:`
+char_non: `{p:1:{e:200:K←}}`
+char_non: `That's what it looked like to them.`
+char_but: `"......Do you think "K" means key?"`
+char_enj: `"Those marks only appeared when we got close.`
+char_enj: ` ......This is a message aimed at us."`
+char_lam: `"Does this mean there's someone here besides us who's willing to help...?"`
+char_but: `"......Is there really anyone who'd take our side?"`
+char_non: `Ange traced the red arrow with her finger.`
+char_non: ` ......It was written with very faint, thin strings that had been twisted together.`
+char_non: `Sticky red strings that, when touched, melted like cotton candy and clung to the fingers......`
+char_enj: `"There is.`
+char_enj: ` ......Someone......who's always been on my side."`
+char_lam: `"......How can you be so sure?"`
+char_but: `"...........................`
+char_but: ` ......Yeah, I get it too now.`
+char_but: ` ......Lambda.`
+char_but: ` We can trust the person who wrote this.`
+char_but: ` She'll probably be able to guide us to the key safely."`
+char_lam: `"Are you sure?`
+char_lam: ` Then let's go...!`
+char_lam: ` We don't have time to be standing around!"`
+char_enj: `".........Thank you, .........Mom...!"`
+char_non: `In the arbor, the argument over whether they should surrender or fight continued without signs of stopping.`
+char_non: `Every now and then, a small fight would break out, which fortunately ended up delaying Erika's third yawn.`
+char_non: `However, they didn't know how long they would have to continue this fake fight.`
+char_non: `Keeping this high level of tension going was physically stressful.`
+char_non: `The instant they tired out and the tension faded, Erika would probably demand a verdict.`
+char_non: `They had to constantly appear to be trapped and agitated.`
+char_non: `......It was a battle of weariness and tension.`
+char_non: `This was their fight.`
+char_non: `Erika waited patiently.`
+char_non: `Now that she had tired of tea, she was watching Ronove perform some magic tricks, and seemed to be quite enjoying herself.`
+char_non: `......Even Ronove, who was usually aloof from the world, was fighting.`
+char_non: `If Erika got bored and lost her patience with them, an all‐out attack would probably begin at once.`
+char_non: `Even he was putting everything he had into the fight to buy time for Battler's group......`
+char_non: `As the fiercest leader in the argument, Beato wore out the quickest.`
+char_non: `She breathed heavily, and her face was so pale, it seemed she might faint at any moment.`
+char_kir: `"......Beato, hang in there.`
+char_kir: ` Your body won't hold out much longer at this rate."`
+char_eva: `"Pretend to suddenly burst into tears and rest for a while.`
+char_eva: ` We'll pick up the slack."`
+char_bea: `"I am still......fine......`
+char_bea: ` ......Come on...! From the top, one more fierce debate.`
+char_bea: ` Let's go...!!`
+char_bea: ` So, who's up first? Who wants to kick this off?!"`
+char_goh: `"In that case, I, Gohda, am prepared...!!`
+char_goh: ` W‐we must fight!!`
+char_goh: ` It would be outrageous to accept defeat without fighting!!`
+char_goh: ` As I've said from the beginning, fighting with all we have is the only option!!"`
+char_eri: `".........Hold on a second."`
+char_non: `Erika suddenly rose from her chair.`
+char_non: `Ronove tried to coax her back into her seat, but Erika's attention was completely focused on those arguing under the arbor.`
+char_eri: `"............I am...the detective.`
+char_eri: ` My memory of what I hear is as good as a recording."`
+char_bea: `"We are aware of that, of course......`
+char_bea: ` You are quite an excellent detective, after all......"`
+char_eri: `"I'm not interested in you.`
+char_eri: ` ......Gohda‐san.`
+char_eri: ` I have one question for you."`
+char_goh: `"Y‐.........yes, ma'am!`
+char_goh: ` ......Have I done something to cause offense......?"`
+char_eri: `"‘Hold on.`
+char_eri: ` Don't forget that some of us are opposed to fighting.`
+char_eri: ` I think we should surrender.’`
+char_eri: ` .........Those were the first words I heard from you when I arrived here."`
+char_eri: `"However, you just said this:`
+char_eri: ` "We must fight.`
+char_eri: ` It would be outrageous to accept defeat without fighting.`
+char_eri: ` As I've said from the beginning, fighting with all we have is the only option."`
+char_eri: ` ......That's what you said."`
+char_goh: `"W‐well, uh...... Did I say that...?"`
+char_gen: `"............It is hardly strange for an opinion to change in the course of a discussion."`
+char_goh: `"I‐i‐indeed...!`
+char_goh: ` All of us have been feeling doubts about our position lately, so an occasional change of opinion wouldn't be...!"`
+char_eri: `"No.`
+char_eri: ` ......From beginning to end, no one has changed their opinion in this argument.`
+char_eri: ` Just now, Gohda‐san alone flipped his position 180 degrees.`
+char_eri: ` ......Furthermore, if I recall the things that were said to Gohda‐san by the rest of you, I can't imagine any of them sufficient to make him entirely switch position."`
+char_non: `An uncomfortable, damp wind blew by.`
+char_non: `Everyone was silent, frozen as though time had stopped.`
+char_non: `In that silence, Erika continued with a blank expression.`
+char_eri: `".........This can lead us to two conclusions.`
+char_eri: ` First, ......it may be that Gohda‐san has no opinion...and is just a loser who will say anything that goes with the flow.`
+char_eri: ` Second, .........it may be that none of you has an opinion, and that this entire argument exists only for its own sake."`
+char_bea: `"Aren't you.........over‐thinking this a bit...?`
+char_bea: ` Here we are, in a desperate debate that will decide our fate.`
+char_bea: ` I hardly think it strange that some people would act abnormally under such pressure..."`
+char_eri: `"If you have some reason for prolonging a meaningless argument, that can only be to buy time.`
+char_eri: ` .........Do you have anything to gain by buying time?`
+char_eri: ` ......Is it because Lady {f:5:Lambdadelta}'s reinforcements will come?`
+char_eri: ` .........That can't be true either."`
+char_eri: `"After all, for some time now,`
+char_eri: ` I have heard all of you speak to Lady {f:5:Lambdadelta} and Battler occasionally, but not once have I heard them reply.`
+char_eri: ` ............Taking all of this into account, we are left with only one conclusion."`
+char_non: `That Lady {f:5:Lambdadelta} and Battler are not here now.`
+char_non: `And that these people have won Lady {f:5:Lambdadelta}'s assistance, ......with Lady {f:5:Lambdadelta} and Battler probably planning to sneak into the City of Books.`
+char_non: `In which case, their goal is probably to steal back the golden key...and Ange.`
+char_non: `And your plan was to act as bait and buy time until their mission was complete.`
+char_eri: `".........All it takes is a single poorly‐chosen line from Gohda‐san,`
+char_eri: ` ......and a deduction like this becomes trivial for Furudo Erika.`
+char_eri: ` ............Your thoughts?`
+char_eri: ` Ladies and gentlemen......?"`
+char_non: `With a blank......yet ruthless expression, Erika spoke these words and returned to her seat.`
+char_non: `Everyone else was frozen, unable to move.`
+char_non: ` No one spoke.`
+char_non: `......However, time was moving.`
+char_non: `As evidence, ......a bead of sweat dripped down someone's cheek, fell, ......and hit the table with a tiny yet audible splat.`
+char_non: `Then, frozen time shattered, and in the same instant, the white chair Erika had been sitting in broke apart.`
+char_non: `The stakes of the Seven Sisters of Purgatory and the high‐velocity rounds from the Chiester Sisters had obliterated the chair at exactly the same time.`
+char_non: `And a few moments after that, the Erika sitting in that chair faded and vanished.`
+char_s00: `"......Afterimage!!"`
+char_rg1: `"She's fast!! Kill her!!!"`
+char_non: `In an instant, Erika had moved to a spot behind the chair.`
+char_non: `{n}Her expression remained as blank as it had been.`
+char_non: `However, there was now something in her hand that wasn't there before.`
+char_non: `As the seven lightning strikes of the Seven Sisters raced at her once more, she batted all of them away with her scythe.`
+char_eri: `"That was one hell of a farce.`
+char_eri: ` But I will say that the tea was good.`
+char_eri: ` ......Well now, it seems that you've all been in agreement since the start.`
+char_eri: ` ......Allow me to ask for your answer once again."`
+char_non: `Erika lifted her left hand, the one that wasn't holding the scythe.`
+char_bea: `"Very well, then answer I shall...!!`
+char_bea: ` This Golden Land belongs to me, to all of us!!`
+char_bea: ` Those who would enter unbidden will receive the welcome they deserve!!`
+char_bea: ` In other words, to put it elegantly..."`
+char_eri: `"............All cannons, prepare to fire.`
+char_eri: ` Target: the Golden Land."`
+char_bea: `"GO WASH YOUR FACE IN MISO SOO{-}O{-}O{-}O{-}O{-}O{-}O{-}O{-}O{-}O{-}O{-}O{-}O{-}O{-}OOUP!!!"`
+char_eri: `"SHOOT 'EM DEEE{-}E{-}E{-}E{-}E{-}E{-}E{-}E{-}E{-}E{-}E{-}E{-}EAD!!!"`
+char_ber: `"......Yes, thank you.`
+char_ber: ` .........See you around.`
+char_ber: ` ......Meow."`
+char_non: `{f:5:Bernkastel} set down the receiver and crossed out yet another name on a list of {f:5:Lambdadelta}'s notable friends.`
+char_non: `Something was wrong.`
+char_non: ` No one she called had heard anything from {f:5:Lambdadelta}.`
+char_non: `They weren't just playing dumb.`
+char_non: ` They really knew nothing about the strange ruckus {f:5:Lambdadelta} was trying to stir up.`
+char_non: `Even {f:5:Bernkastel} was starting to suspect that something was fishy...`
+char_non: `Then, a black cat leapt in and meowed a frantic report.`
+char_ber: `"Lambda and Battler aren't in the Golden Land...?!`
+char_ber: ` .......................................`
+char_ber: ` ......Hah, .........hahhhha{0}ha{0}haa{0}ha{0}ha{0}hah{0}ha{0}ha{0}hhhaah!!!"`
+char_non: `She tore the phone receiver from its stand.`
+char_non: `The number she dialed was short.`
+char_non: ` It was probably an internal line.`
+char_non: `However, after listening to it ring several times, she slammed the receiver down again, finally managing to break the phone.`
+char_ber: `"......Gather all the cats who aren't busy. This is an emergency!!!`
+char_ber: ` The cats I had guarding the key aren't responding!!!`
+char_ber: ` .........Lambdaa{0}a{0}a{0}a{0}a{0}a{0}a{0}a{0}a{0}a{0}a{0}a{0}a{0}a{0}a{0}a{0}a{0}a{0}a{0}a{0}a{0}a{0}awg!!"`
+char_non: `Overwhelmed with emotion, {f:5:Bernkastel} kicked the table over.`
+char_non: `Then, ......the room finally grew bright.`
+char_non: `It was like green sunlight.`
+char_non: `A bright green light waved about, giving the illusion that a green sun was rising and lighting the room up.`
+char_non: `It was a sign that {f:5:Bernkastel}'s army had been given an emergency summons......`
+char_ber: `"Come, my kitties!!!`
+char_ber: ` It's time for a witch hunt!!`
+char_ber: ` That kid always smells like candy, so you'll find her pretty fast!!`
+char_ber: ` The first cat who finds her gets a human form and a witch's title!!!"`
+char_non: `What was now an emerald‐green nebula let out a roar of delight that shook the bookshelf cliff......`
+char_enj: `"......Something's chasing us..."`
+char_but: `"What...is that......?`
+char_but: ` ......A green.........sun......?"`
+char_lam: `"............Hide!!`
+char_lam: ` They know!!"`
+char_non: `The three of them frantically hid behind a bookshelf.`
+char_non: `The room with the key in it was straight ahead.`
+char_non: `They could see something glowing faintly in the darkness of that room.`
+char_non: `It was a glow different from anything else they had seen so far in this city.`
+char_non: `The color it glowed...was gold.`
+char_non: `They had almost reached the golden key.`
+char_non: `However, if they went towards it, {f:5:Bernkastel} would be right behind them, along with her vast swarm of familiars.`
+char_non: `In other words, they were trapped in a dead end.`
+char_non: `They already knew that the emerald‐green color came from the eyes of the familiars.`
+char_non: `However, ......it was almost beyond comprehension that this undulating green sun could be the same thing, ......and they could do nothing except stare in wide‐eyed shock...`
+char_non: `As the countless cats approached, they passed through the ravine of bookshelves from the very top to the very bottom, painstakingly checking the gaps between each book.`
+char_non: `However, even this mind‐numbingly huge task was accomplished swiftly, thanks to the sheer number of familiars.`
+char_non: `With the speed of a gust of wind, ......they carefully checked every nook and cranny.`
+char_non: `There was no way to hide from this green sun.`
+char_non: `That would have been as foolish as trying to hide from water on a sinking ship.`
+char_enj: `"......Will we be able to hide until they pass us...?!"`
+char_but: `"No...`
+char_but: ` We'll be found no matter where we hide...!"`
+char_non: `Battler was just about to leap out from the shadows, but {f:5:Lambdadelta} grabbed him by the collar an instant before.`
+char_lam: `"Are you thinking of fighting?!"`
+char_but: `"No, but we'll be found if we just stand here...!`
+char_but: ` So we have to move forward!`
+char_but: ` We need to reach the key as soon as possible...!"`
+char_lam: `"You really think there aren't cats guarding the key?!`
+char_lam: ` We're already trapped between them!!"`
+char_enj: `"I believe in Aunt Eva...!`
+char_enj: ` She's the one who's guided us this far...!`
+char_enj: ` I'm sure she took care of the guard cats too!"`
+char_but: `"I agree.`
+char_but: ` If we're just going to be found anyway, then let's try and get there as fast as possible and grab the key.`
+char_but: ` If we can just get that, no one will be able to open that book!!"`
+char_lam: `".........So, you'll rush in there and grab the key.`
+char_lam: ` And then what?!`
+char_lam: ` That place is a dead end!`
+char_lam: ` There'll be nowhere to run, don't you realize that?!"`
+char_enj: `"We know that, but......!!"`
+char_but: `"The key will be our trump card.`
+char_but: ` ......It's vitally important for {f:5:Bernkastel} too.`
+char_but: ` ......If worst comes to worst, we might be able to use the key as a bargaining chip..."`
+char_lam: `"Bargain with Bern?!`
+char_lam: ` ......You're insane!!"`
+char_but: `"But if we hide here, we'll definitely be found.`
+char_but: ` ......In that case, I'll take a bet on that billion to one chance.`
+char_but: ` We'll get the key and have that be our trump card."`
+char_lam: `"So, you're praying for a miracle to win against the Witch of Miracles...?"`
+char_but: `"Picking a winner out of astronomically bad odds.`
+char_but: ` That's the Ushiromiya family magic...!!"`
+char_lam: `"............I've got good eyesight, so let me enlighten you.`
+char_lam: ` Can you see those magic circles around the golden key?`
+char_lam: ` ......That's a simple barrier, but a pretty strong one.`
+char_lam: ` ......On the plus side, it'll break at a touch..."`
+char_lam: `"But it's a really mean‐spirited seal that'll take exactly one hour to fade, whether a Great Witch or a lowly {y:0:Human}{n:0:human} does it.`
+char_lam: ` According to the ceremony schedule, we still have that hour.`
+char_lam: ` ......But it means that we won't even be able to touch the key unless we can buy all that time for ourselves!!"`
+char_enj: `"When Aunt Eva took out the guard cats, she must've broken the magic circle too!`
+char_enj: ` It probably won't take an hour...!"`
+char_lam: `"As far as I can see, the magic circle is still just fine.`
+char_lam: ` Sorry to say it, but even if Eva did do that, it was less than an hour ago."`
+char_but: `"Well, what's an hour?`
+char_but: ` At least we know that we can get it if we can manage to stick around that long!"`
+char_enj: `"Yeah.`
+char_enj: ` ......Sure, let's play tag for an hour.`
+char_enj: ` I'm used to getting chased around by thugs."`
+char_lam: `"You two really are out of your minds...!!`
+char_lam: ` You really think you'll get the luxury of a game of tag out of Bern and all her cats?!"`
+char_enj: `"If there's even a 1% chance!"`
+char_but: `"You can be certain that we'll grab it...!!"`
+char_non: `There was an immense difference in enthusiasm between {f:5:Lambdadelta} and the siblings, who had nothing left to lose.`
+char_non: `However, this was by no means cowardice on {f:5:Lambdadelta}'s part.`
+char_non: `She was a Great Witch of the Senate.`
+char_non: ` ......If she surrendered, she wouldn't be able to escape severe punishment, but she would be forgiven after a few hundred years.`
+char_non: `She had been thrown into a stormy sea while clutching a buoy that could save only her—how could she possibly decide to throw that buoy away?`
+char_non: `There was no way a person with a life to lose could be as determined as those who were already gambling everything.`
+char_non: ` No one could blame her.`
+char_lam: `"...............Ahh, geez, you two really are stupid, you know that?`
+char_lam: ` ......Alright, fine.`
+char_lam: ` I'll tell you a plan that's got a bit more than a 1% chance of working.`
+char_lam: ` Any guesses?"`
+char_non: `The two siblings looked at each other.`
+char_non: `However, they both thought that any plan would be worth listening to, even if it would only raise their chances by 0.00001%.`
+char_lam: `"A sacrifice.`
+char_lam: ` ......Bern is a cat, so although she'll give chase to fleeing prey, she'll also kill prey that doesn't flee.`
+char_lam: ` {i:After} toying with it first!"`
+char_enj: `"Cats are terrible creatures..."`
+char_but: `"......Still, if that's true, ......it'll be worth the bet."`
+char_lam: `"Let's have one sacrifice.`
+char_lam: ` We'll decide with rock‐paper‐scissors.`
+char_lam: ` ......Whoever loses has to go spend as much time as possible taunting Bern, getting laughed at, and getting killed.`
+char_lam: ` ......Does that work for you?"`
+char_but: `"No need for rock‐paper‐scissors.`
+char_but: ` I'll do it.`
+char_but: ` You two go on to the key room."`
+char_enj: `"No way, Onii‐chan...!!`
+char_enj: ` I'll do it.`
+char_enj: ` This is all my responsibility.`
+char_enj: ` ......I was the one who listened to {f:5:Bernkastel} and trusted her.`
+char_enj: ` ......So, I've got a thing or two to say to her!"`
+char_non: `Both Battler and Ange decided to be the sacrifice and wouldn't listen to the other.`
+char_lam: `"See?`
+char_lam: ` You need rock‐paper‐scissors to decide, right?`
+char_lam: ` If you don't act quickly, we won't even have a chance to use this plan.`
+char_lam: ` ......They'll be here any moment."`
+char_but: `".........Okay.`
+char_but: ` ......Either Ange or I will be the sacrifice.`
+char_but: ` ......{f:5:Lambdadelta}, you'll take whoever's left, steal the key, and take them back to the Golden Land."`
+char_enj: `"I won't let you do it.`
+char_enj: ` Onii‐chan."`
+char_but: `"Quit joking around.`
+char_but: ` You've got to let me act like a big brother at least once in a while."`
+char_lam: `"There's no time.`
+char_lam: ` Rock‐paper‐scissors, single round!`
+char_lam: ` I'm super‐paper with a head full of confetti, so in reference to that, we'll all start with paper.`
+char_lam: ` Got it, you two?"`
+char_enj: `"Fine."`
+char_but: `"Ange... No regrets, okay?"`
+char_lam: `"3, 2, 1, paper!!"`
+char_non: `It really was a stupid, childish game of rock‐paper‐scissors.`
+char_non: `Despite promising to start with paper, ......they threw different signs to catch each other off guard.`
+char_non: `Both Battler and Ange chose rock.`
+char_non: `......And yet, it wasn't a tie.`
+char_non: `Because in addition to those two rocks......was one person who chose scissors.`
+char_non: `After staring stupidly at their fists and those scissors, ......they looked at her.`
+char_lam: `"............Ah, dang...`
+char_lam: ` ......We were supposed to start with paper, so I figured I'd use scissors and beat you both.`
+char_lam: ` ......I guess confetti‐head should've stuck with paper."`
+char_non: `There had been no reason for {f:5:Lambdadelta} to join in on the game.`
+char_non: `{n}This wasn't the time for a joke like that.`
+char_non: `Battler and Ange, each trying to lose, ......chose rock.`
+char_non: `{n}{f:5:Lambdadelta} alone......chose scissors.`
+char_enj: `"Don't tell me......you intentionally......"`
+char_but: `"If you die, we can't even get back to the Golden Land...!`
+char_but: ` This doesn't count!"`
+char_lam: `"Well then, you can just use this, can't you?"`
+char_non: `{f:5:Lambdadelta} made a clenched fist, a fragment glowing pale blue appeared there, and she gave it to the pair of them.`
+char_non: `Battler had seen one of these before.`
+char_non: ` ......It was a magic fragment, like the one Erika had used before disappearing, which would allow one to cross the sea of fragments.`
+char_lam: `"With that, you'll both be able to return to the Golden Land.`
+char_lam: ` And anyway, I'm the best person for the job.`
+char_lam: ` You two probably wouldn't last a handful of seconds against Bern.`
+char_lam: ` If it's me, not only will an hour be no problem, but who knows? I might even win."`
+char_lam: `"And I owe her one.`
+char_lam: ` I've got to make this my victory and even the score.`
+char_lam: ` ......Still, away games are such a pain."`
+char_non: `{f:5:Lambdadelta} pretended to complain as she stood up straight.`
+char_lam: `"Anyway, see you in a bit.`
+char_lam: ` ......I guess a show‐off like me couldn't stick to being a spectator after all.`
+char_lam: ` Sorry for stealing your time to shine.`
+char_lam: ` ......It's sad that I won't be able to watch your game until the end,`
+char_lam: ` ......but I've already taken a look at the script, so I'm not missing anything."`
+char_but: `".........Lambda......"`
+char_non: `Then, with her broadest smile and a wink...`
+char_lam: `"This is your happy ending!`
+char_lam: ` I've already figured out what happens next, so there's no need to watch.`
+char_lam: ` I'll see the two of you again.`
+char_lam: ` In the credit roll of your happy ending, that is!"`
+char_enj: `"W‐......wait...!!"`
+char_non: `{f:5:Lambdadelta} snapped her fingers, and the two of them turned into konpeitou candies.`
+char_non: `She picked them up, .........took aim at the glint of the golden key, ......and flicked them away.`
+char_non: `That way, they should be able to reach the key without {f:5:Bernkastel} noticing......`
+char_non: `Dang, what terrible luck.`
+char_non: `What were the odds of them both playing a rock against my scissors?`
+char_non: `.........Yeah, I know.`
+char_non: `{n}It wasn't nice of me to test you like that.`
+char_non: ` Sorry, you two.`
+char_non: `And then, ......{f:5:Lambdadelta}'s body was lit up by an emerald‐green light...`
+char_non: `When she turned around, the cat's eyes and {f:5:Lambdadelta}'s......met.`
+char_non: `{f:5:Lambdadelta} grinned and waved......`
+char_non: `There was a thunderous boom and several bright flashes.`
+char_ber: `"What in the...?`
+char_ber: ` .........?!?!"`
+char_non: `A chain of explosions flashed by one after another, enveloping {f:5:Bernkastel} and her pack of familiars in an instant.`
+char_non: `They were multicolored fireworks.`
+char_non: ` ......Or rather, multicolored candy that burst with a flash and scattered everywhere.`
+char_non: `Countless stick candies, sugar sculptures, cookies, and tarts flew in every direction,`
+char_non: ` and each one of those split and exploded into hundreds of candies,`
+char_non: ` each of which exploded again into a cloud of konpeitou.`
+char_non: `However, these sweets weren't sweet.`
+char_non: `The konpeitou was heavier than lead, harder than steel, and sharper than any blade.`
+char_non: `As the colorful cloud exploded outward, it blasted the entire pack of cats into little bits.`
+char_non: `The emerald‐green glints that were scattered everywhere sparkled like the night sky,`
+char_non: ` and among them danced the cloud of pretty candies that looked like they'd go well on a Christmas tree.`
+char_non: `It was flashy, and beautiful, and cute, and perfectly fitting for the grand entrance of the Great Witch...Lady {f:5:Lambdadelta}.`
+char_ber: `"......Oh, if it isn't Lambda.`
+char_ber: ` .........I was hoping to meet you in the party hall."`
+char_lam: `"I love you, Bern.`
+char_lam: ` Isn't whispering of our love all the better if we're alone?"`
+char_ber: `"......I'll be happy to hear it, after I've plucked off all your limbs."`
+char_non: `With a jerk of her chin, Bern ordered her familiars to attack.`
+char_ber: `"This is my dearly beloved and only friend in the world.`
+char_ber: ` Her arms from the elbow down. Her legs from the knees down.`
+char_ber: ` You can chew those up however you please.`
+char_ber: ` But not a scratch anywhere else on her."`
+char_non: `The crowd of cats undulated again, reformed into a single mass,`
+char_non: ` and became the emerald‐green leviathan that would swallow up any poor victims who snuck into the City of Books.`
+char_non: `It was shaped like an impossibly vast whale.`
+char_non: `However, would it look like a whale from Lambda's perspective?`
+char_non: `She probably couldn't see anything except an immense mouth about to swallow up everything.`
+char_lam: `"Ah, simply wonderful.`
+char_lam: ` You're going to swallow me up with your love, aren't you?!"`
+char_ber: `"......I do love you, Lambda.`
+char_ber: ` Once your limbs are gone, I'll skewer you through your butt and hang you by my bed.`
+char_ber: ` Every morning, I'll give you a good morning kiss, and every evening, I'll kiss you goodnight."`
+char_lam: `"Sounds great!`
+char_lam: ` Then I'd better wrap you up in my love too!!!"`
+char_non: `However, {f:5:Lambdadelta}'s war cry was swallowed up by the glowing, writhing leviathan in a single bite.`
+char_ber: `".........*giggle*.`
+char_ber: ` Yes, you are wonderful, Lambda.`
+char_ber: ` I love your gentle cluelessness, the way you just recklessly do things without looking ahead.`
+char_ber: ` .....................?`
+char_ber: ` ......Wind...?"`
+char_non: `The same instant that {f:5:Lambdadelta} was swallowed and {f:5:Bernkastel} was sure of her victory, the latter felt a slight breeze playing with her hair.`
+char_non: `The countless sweets that {f:5:Lambdadelta} had sent flying like fireworks, and which drifted about like the decorations at a Christmas party, ......were flowing.`
+char_non: ` No, ......they were converging on a single point.`
+char_non: `It was like watching a firework run backwards.`
+char_non: `Countless sweets rapidly contracting to somewhere within the vast, closed mouth of the leviathan.`
+char_non: `A gigantic reverse explosion gathering at a single inner point.`
+char_non: `Or perhaps it was more like countless candies showering the leviathan from all directions like bullets.`
+char_non: `......Inside that mass of green......was a black swirl.`
+char_non: `That swirl was on a palm.`
+char_non: `On the palm of {f:5:Lambdadelta}, who wore a defiant smile.`
+char_non: `It was...a mass of super‐concentrated gravity.`
+char_non: `All of the sweets, the cats, the whale, and everything else was being sucked into that one point and crunched.`
+char_lam: `"I'll hold you tight. ......Get over here, Bern!!!"`
+char_ber: `"......You're trying......to suck me in......?!"`
+char_non: `All of the candies {f:5:Lambdadelta} had scattered were getting sucked back into the black hole on her palm at unbelievable speeds.`
+char_non: `The pressure of the reverse candy explosion whittled away at the leviathan, crushing it inwards.`
+char_ber: `".........La......mb...daa......aaaa......aaaaa...!!!"`
+char_lam: `"Come on. ......Let me give you a hug."`
+char_non: `With all her strength, {f:5:Bernkastel} held her ground in midair, trying to resist this supergravity.`
+char_non: `For the first time, all trace of condescension had left her face.`
+char_non: `Even {f:5:Lambdadelta}'s cocky expression was marred by the sweat trailing from her forehead.`
+char_non: `......Because their power was so overwhelming, any victory would have to be instantaneous.`
+char_non: `If either relaxed in the slightest, they would match each other's strengths and get dragged into another dizzyingly long fight that could last for centuries.`
+char_non: `Neither of them had any desire to go through that again.`
+char_non: ` .........So, neither of them showed the slightest mercy for their most beloved friend.`
+char_non: `By now, the leviathan had been completely crushed and compressed inside the black hole.`
+char_non: `{f:5:Bernkastel} was the only one still holding her ground.`
+char_non: `However, a windstorm of candy asteroids like an asteroid belt repeatedly slammed into {f:5:Bernkastel}, wearing away her girl form bit by bit.`
+char_ber: `".........I've got to get away...... .........I'll......really............`
+char_ber: ` .........?!?!"`
+char_non: `The next thing to fly into {f:5:Bernkastel}'s range of vision......`
+char_non: `...was a comet hurtling straight for her, with a massive present box at its core and a cloud of candy surrounding it.`
+char_ber: `"Lambdaaa{-}a{-}a{-}a{-}a{-}a{-}a{-}a{-}a{-}a{-}a{-}a{-}a{-}a{-}a{-}a{-}a{-}a{-}a{-}a{-}a{-}a{-}a{-}a{-}aaa!!!`
+char_ber: ` Waaa{0}a{0}a{0}a{0}a{0}a{0}a{0}a{0}a{0}a{0}a{0}a{0}a{0}a{0}a{0}aahhh!!!`
+char_ber: ` Gyaaaa{0}a{0}a{0}a{0}aahh, my...body......gaaa{0}a{0}a{0}a{0}a{0}a{0}a{0}a{0}a{0}a{0}a{0}a{0}a{0}a{0}a{0}a{0}a{0}a{0}a{0}a{0}a{0}a{0}aahhhh!!"`
+char_non: `The candy comet wiped out {f:5:Bernkastel} along with her scream.`
+char_non: `It burst into little bits, then within a blink of an eye, it was sucked back into a hole of supergravity.`
+char_non: `Once it was all gathered into one place like a gem, it began to spin rapidly.`
+char_non: `It was flattened by the centrifugal force, turning into something whose shape resembled a galaxy.`
+char_non: `After swallowing all of the cats and their master,`
+char_non: ` it now looked like a winding, flickering, emerald‐green galaxy that floated just above {f:5:Lambdadelta}'s palm.`
+char_non: `The pocket of supergravity kept compressing it further and further,`
+char_non: ` .........until, at the end, it had become a single, green, shining konpeitou.`
+char_non: `Then, it fell...`
+char_non: `down onto her outstretched palm.`
+char_lam: `"Sorry, Bern.`
+char_lam: ` ......I wanted to play with you always, so I've always taken it easy and pretended to be in a pinch."`
+char_non: `{f:5:Lambdadelta} held the konpeitou above her head and peered at it.`
+char_lam: `"But the truth is, I'm just impossibly strong.`
+char_lam: ` .........Sorry."`
+char_non: `Then, ......she pressed the konpeitou to her pink lips,`
+char_non: ` ......gave it a light kiss, ......and bit down.`
+char_lam: `"............This...doesn't taste like Bern."`
+char_non: `{f:5:Lambdadelta} licked her fingertips, ......then turned to face the empty air behind her.`
+char_ber: `".........I already knew,`
+char_ber: ` my beloved Lambda."`
+char_lam: `"Ahh, I love you too, Bern......"`
+char_ber: `"Liar.`
+char_ber: ` .........You're never.........serious with me.........and I always knew it."`
+char_lam: `"In that case,`
+char_lam: ` ......let's show our love for real.`
+char_lam: ` .........With both of us......serious."`
+char_ber: `"Ahh, I do love you, {f:5:Lambdadelta}.`
+char_ber: ` ......I'm happy......so happy......"`
+char_lam: `"Ahh, I do love you, {f:5:Bernkastel}.`
+char_lam: ` .........I'll turn you into candy and cuddle you with my tongue forever."`
+char_ber: `"So no matter who wins, we can keep on loving each other.`
+char_ber: ` *giggle*giggle*, ahha{0}ha{0}ha{0}ha{0}ha{0}ha{0}ha{0}haha!!`
+char_ber: ` That's wonderful, just wonderful...!!"`
+char_lam: `"Okay!!`
+char_lam: ` Let's show our love right now!!!"`
+char_non: `With a crash, crack lines appeared across the sky of the Golden Land.`
+char_non: `Then, finally, the barrier of the Golden Land was breached by the fleet's assault.`
+char_non: `It was a bizarre scene.`
+char_non: ` More ridiculous than anything anyone had imagined.`
+char_non: `The sky of the Golden Land shattered like glass, and a fleet of sailboats flew in one after another.`
+char_non: `They were crowded with goats pushing each other and spilling off the sides.`
+char_eri: `"Come, let us begin!!`
+char_eri: ` The final banquet in the Golden Land...!!"`
+char_non: `Banquet.`
+char_non: ` ......That wasn't some fancy metaphor, but a simple statement of fact.`
+char_non: `The overwhelming surge of goat troops came in like a tsunami.`
+char_non: `The residents of the Golden Land who stood defiantly were like a forgotten sandcastle on a beach.`
+char_non: `A fight between a wave and a sandcastle is not a fight.`
+char_non: `For the voracious, merciless goats now storming the food at a standing buffet, this......was a feast.`
+char_bea: `"So be it!!`
+char_bea: ` Kill them aa{-}a{-}a{-}a{-}a{-}a{-}a{-}a{-}a{-}a{-}a{-}all!!!"`
+char_eri: `"<Good>!!`
+char_eri: ` Come, goats!! Bring destruction to all that has form, stillness to all that moves!`
+char_eri: ` Despair to all who li{-}i{-}i{-}i{-}i{-}i{-}i{-}ive!!!"`
+char_non: `All those who could use magic fired it off at once.`
+char_non: `With a shout like a thunderclap, the goat tsunami rushed forward.`
+char_non: `Everything collided at once, and there was a brilliant and terrible explosion.`
+char_non: `Sparks and smoke, flying splinters and screams.`
+char_non: `For just an instant, the fierce magical cannonballs fired by Beato, {f:5:Virgilia}, and the Chiester Sisters seemed to halt the goat tsunami in its tracks.`
+char_non: `However, their numbers were so great that they didn't even flinch.`
+char_non: `The goat wave pressed forward, over the corpses of those who had been blasted away or fallen to their knees in weariness.`
+char_non: `The mound of corpses piled up, and still more goats were shot down as they tried to cross it,`
+char_non: ` ......so that before long, it really was tall enough to be a tsunami.`
+char_eri: `"Pitiful!!`
+char_eri: ` This Golden Land you've built is nothing more than a sandcastle some kid left on a beach!!`
+char_eri: ` Now be swallowed by the wa{-}a{-}a{-}a{-}a{-}a{-}a{-}a{-}a{-}a{-}ves!!"`
+char_bea: `"Perhaps you would do better to think of ripples beating meaninglessly against a cliff.`
+char_bea: ` ......A sandcastle getting swallowed by a wave?`
+char_bea: ` Just you try swallowing my castleeee!!!"`
+char_non: `Beato lifted her hands, telling the pair of battle towers that had been hidden deep in the ground that the day of glory had come again.`
+char_non: `The goat tsunami looked up at it in shock.`
+char_non: `After all, this time the tsunami that towered over everything......wasn't them.`
+char_bea: `"OPEN FIII{-}I{-}I{-}I{-}I{-}I{-}I{-}I{-}I{-}I{-}I{-}I{-}I{-}IIIRE!!!"`
+char_non: `A thunderstorm of rapid‐fire ballista rounds rained down from the battle tower gun ports.`
+char_non: `{n}The goats let out a confused scream at the furious tempest that was bearing down on them.`
+char_non: `However, they saw something else too. `
+char_non: `......In the sky high above the tower......was a reaper astride a divine horse and backdropped by the moon,`
+char_non: ` ......with a massive spear the size of a tower in its hand.`
+char_non: `The next words came not from the reaper, but from the Great Witch seated behind it.`
+char_wal: `"Return home.`
+char_wal: ` This world does not belong to you."`
+char_bea: `"Do it, Mastee{-}e{-}e{-}e{-}e{-}e{-}e{-}e{-}e{-}e{-}e{-}e{-}e{-}e{-}e{-}eer!!"`
+char_non: `The heavenly spear pierced the ground.`
+char_non: `For an instant, it looked like some divine tower was sticking out of the ground.`
+char_non: `However, that was the very last thing those eyes ever saw.`
+char_non: `The sacred spear was the embodiment of heaven's wrath, and the strength to bury an unhallowed city in a single stroke was unleashed upon the pack of goats.`
+char_non: `With a massive explosion that resembled a volcanic eruption, goats were sent flying all over the place.`
+char_eva: `".........Not bad. I guess they really are witches."`
+char_zep: `"But is it enough?!"`
+char_fur: `"The enemies keep on coming!`
+char_fur: ` It looks like we'll be the ones swallowed up after all!"`
+char_kir: `"At least you two seem to be enjoying yourselves."`
+char_kin: `"Wahaahahahahahaha!!`
+char_kin: ` Festivals are made to be enjoyed!!`
+char_kin: ` It seems our time to shine shall not be stolen from us after all!!"`
+char_rud: `"Looks like it!!`
+char_rud: ` I'm all fired up!!!"`
+char_non: `Yes,`
+char_non: ` the crowd of goats truly was like a wave pressing in from the sea.`
+char_non: `You might be able to split a ripple on the beach with your feet, but you cannot split the sea.`
+char_non: `However, witches are those who do so nonetheless.`
+char_non: ` Of course, that meant the other side also had one who could split apart the sea.`
+char_non: `Suddenly, smoke poured from one of the two battle towers, and it began to crumble, shaking the ground as it collapsed.`
+char_jes: `"......Wh‐what the hell happened?!"`
+char_gap: `"Over there!`
+char_gap: ` On top of the other tower!!"`
+char_bea: `"Erikaaaaaaaaaaaaa......`
+char_bea: ` But of course, I should have expected your turn would come......"`
+char_non: `On top of the other battle tower, ......Erika stood gracefully, wielding her scythe.`
+char_eri: `"I think that's enough to show the witches of the Golden Land proper respect.`
+char_eri: ` .........All magic is fake.`
+char_eri: ` A fantasy sandcastle that will always vanish when mystery swallows it up."`
+char_eri: `"......Playing witches was pretty fun.`
+char_eri: ` I think I remember playing something like this with some older girls from the neighborhood, when I was younger.`
+char_eri: ` So, let's bring this to an end.`
+char_eri: ` ............Now it's time to hear your screams."`
+char_non: `Erika threw that pretentious pirate hat she had been wearing this whole time into the sky.`
+char_non: `With the moon behind it, Erika's form—her afterimage—vanished from the tower's peak.`
+char_s00: `"Where is she?!!"`
+char_s45: `"We have her on radar!`
+char_s45: ` On the side of the tower!"`
+char_non: `Shaking with a wild, joyous laughter, Erika dashed straight down the side of the tower.`
+char_non: `She twirled her scythe like a gymnast's baton, dicing up the wall, gun ports, pillars, and everything else as she ran, leaving a trail of smoke behind her.`
+char_non: `So, from the sidelines, it looked as though a line of smoke had suddenly split the tower from top to bottom.`
+char_non: `The golden arrows of the Chiester Sisters chased after Erika like golden threads in a sewing machine.`
+char_s41: `"You monster...!!`
+char_s41: ` Get yourself sewed and embroidered nyeh!!"`
+char_eri: `"Hahahaha, ahha{0}ha{0}ha{0}ha{0}ha{0}ha{0}ha{0}ha{0}ha{0}haha!!`
+char_eri: ` <Good>!!`
+char_eri: ` <Good, good, goo{-}o{-}o{-}o{-}o{-}o{-}o{-}o{-}ood>, ah{0}ha{0}ha{0}ha{0}ha{0}haa{0}a{0}a{0}a{0}a{0}aah!!"`
+char_non: `Even the golden arrows couldn't catch up with Erika.`
+char_non: `Finally, Erika reached the bottom of the battle tower, and the golden bows ejected empty cartridges.`
+char_eri: `"Explode, useless tower!`
+char_eri: ` ......Did I get that right?!"`
+char_non: `Erika, who had now landed on the ground, slowly stood up and tapped the tower behind her with the handle of the scythe.`
+char_non: `That tiny tap cut the final string that held the tower together, and the whole thing fell in on itself with an earth‐shattering crash......`
+char_non: `Once again, the dark tsunami rumbled forward through the rubble and smoke.`
+char_eri: `"I am Furudo {f:5:Erika}, Witch of Truth!!`
+char_eri: ` This moment marks the dismantling of the Golden Land by the truth!!`
+char_eri: ` Dust to dust, illusions to illusions!!`
+char_eri: ` I'll end your daydream for you!`
+char_eri: ` Come, try to remember, you specters of the past! Remember how you died so long agooo{-}o{-}o{-}o{-}o{-}o{-}o{-}o{-}o{-}oo!!"`
+char_non: `The goat tsunami swallowed everything up.`
+char_non: `When she saw them sink under the black sea of goats, ......Erika guffawed from atop the debris of the tower.`
+char_eri: `"Come on now, kill them! Massacre them all!!!`
+char_eri: ` Cut off all their heads and stick 'em on spears!!`
+char_eri: ` Ghosts of 1986, the time has come for the raging whirlpool of truth to swallow you whole and erase you!! So long!!!"`

@@ -1,0 +1,807 @@
+char_sha: `"Did you check the bathroom amenities?"`
+char_non: `"Yep, went down the whole list."`
+char_sha: `"Did you make sure they were facing the right way when you set them down?"`
+char_non: `"Yes, of course.`
+char_non: ` Everything's as the list says."`
+char_sha: `"*giggle*, thanks.`
+char_sha: ` Genji‐sama, the guest rooms are ready now."`
+char_gen: `"Good work.`
+char_gen: ` Make sure you check over everything with your own eyes, Shannon.`
+char_gen: ` Also, Madam has ordered us to change the tablecloth in the dining hall again."`
+char_kum: `"My, my. Why again, when we all worked so hard to change it earlier today...?"`
+char_nat: `"The color of that tablecloth simply does not fit.`
+char_nat: ` Once I saw it against the backdrop of the room, I could see that it matched terribly.`
+char_nat: ` We should use a different tablecloth."`
+char_nat: `"Oh, and you did make sure to clean the chandelier in the parlor, correct?`
+char_nat: ` Last time, Eva‐san looked up and said "Oh, is that dust? And even a cobweb?"`
+char_nat: ` That incident must never be repeated...!"`
+char_gen: `"Do not worry.`
+char_gen: ` It has already been carefully cleaned and checked.`
+char_gen: ` I will now perform a final check on everything myself."`
+char_nat: `"Is that so? Very well.`
+char_nat: ` I will do the same.`
+char_nat: ` Shannon, take the young servants and prepare a new tablecloth.`
+char_nat: ` Try to find something white, with a bit more of a clean feeling."`
+char_sha: `"Y‐yes, as you wish."`
+char_non: `Natsuhi was even more high‐strung than normal and walked about barking orders here and there.`
+char_non: `Even though the sky was beginning to get dark, the servants moved hurriedly about.`
+char_non: `Tomorrow would be the annual family conference.`
+char_non: `It wasn't particularly rare for the siblings' individual families to visit the island, but this was the only time that they would all come together.`
+char_non: `It was the most important day of the year for both the Ushiromiya family and Rokkenjima.`
+char_non: `Natsuhi, who was short‐tempered on top of being high‐strung, kept issuing orders one after another,`
+char_non: ` only to later change her mind or ask for the work to be done again, keeping the servants busy until late into the night.`
+char_non: `Shannon now had many years of experience and Natsuhi had put her in a position of responsibility,`
+char_non: ` which meant that she was frequently called over to be given all kinds of strict orders...`
+char_non: `So, when Shannon finished her shower and lay down on the bed in the servants' quarters, she fell into a deep sleep almost immediately......`
+char_non: `......I can hear the sound of wind...coming from somewhere far away.`
+char_non: `............It's a bit different from the sound wind outside a room would make.`
+char_non: `It's almost as though......I'm sitting in a deck chair in the rose garden,`
+char_non: ` turning over in my sleep, ......with the feel of the wind in my hair.`
+char_non: `That's right, the feel.`
+char_non: ` ......This isn't a sound, it's a feeling.`
+char_non: `Then is this...`
+char_non: `...a dream......?`
+char_non: `Just as I was about to accept this theory, ......I thought I heard someone talking to me.`
+char_non: `{m:-5:—}—My, my.`
+char_non: ` It seems the work of a servant is just as boring as it ever was.`
+char_non: `Not only boring, but difficult, strict, constraining, joyless...`
+char_non: `All you get in return for your years of service is some level of respect from the newer servants.`
+char_non: `And even that is far from sufficient to repay you for all the hard work you've done...`
+char_non: `{a:c:`
+char_non: `"Do you not tire...`
+char_non: `of such a life?"}`
+char_non: `Huh? ......Who......?`
+char_non: `She wasn't just imagining someone talking to her.`
+char_non: ` ......She was shocked to find that it was real.`
+char_non: `When Shannon opened her eyes, ......she gulped.`
+char_sha: `"Th‐`
+char_sha: `......this place..............."`
+char_non: `She couldn't say any more.`
+char_non: ` .........She was literally stunned silent.`
+char_non: `Shannon, who had been sleeping on a bed, ......was somehow in a rose garden.`
+char_non: `However, though this rose garden somehow resembled the rose garden on Rokkenjima, it was also completely different.`
+char_non: `After all, ......the roses were golden.`
+char_non: `{n}Not only the flowers, but the dancing butterflies too.`
+char_non: `It was a golden rose garden of mysterious beauty.`
+char_non: `Somehow, Shannon was sitting in the chair under the arbor.`
+char_non: `{n}It was as though she'd taken a nap there and woken up from a dream.`
+char_non: `......But it felt strange.`
+char_non: `Is this golden rose garden a dream?`
+char_non: `For some strange reason, it even felt as though my entire life up to this point had been a dream,`
+char_non: ` and that I had finally awakened here...`
+char_non: `{a:c:`
+char_non: `"Welcome, Shannon.`
+char_non: ` Welcome to my golden rose garden......"}`
+char_non: `There was that voice again.`
+char_non: ` Shannon looked around to find who it was.`
+char_non: `As she did, a golden butterfly landed on the seat across from her and instantly created a human form...`
+char_bea: `"It has been quite some time, Shannon.`
+char_bea: ` Have you been well...?`
+char_bea: ` Of course, I know already that you have.`
+char_bea: ` After all, I have been watching all of you, every day."`
+char_non: `This woman laughed as though she was an old friend of Shannon's.`
+char_non: `However, Shannon obviously didn't remember this strange gold rose garden, and she didn't remember this person's face either...`
+char_bea: `"Indeed.`
+char_bea: ` You no longer remember me, do you?"`
+char_sha: `".........Have I forgotten about you...?`
+char_sha: ` If so, please forgive me..."`
+char_bea: `"There is no need to apologize.`
+char_bea: ` I made you that way, so it is no sin of yours.`
+char_bea: ` ......Allow me to introduce myself.`
+char_bea: ` I am the Golden Witch, {f:5:Beatrice}."`
+char_sha: `"......B‐Beatrice...sama......?`
+char_sha: ` Th‐the benefactor of the Ushiromiya family, whom the Master always speaks of......?"`
+char_bea: `"Not that Beatrice.`
+char_bea: ` I am {f:5:Beatrice} the Golden Witch, the one who controls Rokkenjima's night.`
+char_bea: ` ......I am the other master of the mansion, the one you always pay homage to."`
+char_sha: `"Y‐`
+char_sha: `......you are...`
+char_sha: `...{f:5:Beatrice}...`
+char_sha: `sama........."`
+char_bea: `"Hahaha...`
+char_bea: ` You need not fear.`
+char_bea: ` The two of us used to be friends—no, roommates, did we not?`
+char_bea: ` At one time, I idolized you and tried to be the best servant I could."`
+char_sha: `".........I've always had a single‐person room, so I couldn't have had a......"`
+char_bea: `"When we last parted, I stole away your memory.`
+char_bea: ` However, I have not forgotten that we were once roommates.`
+char_bea: ` ......I also remember that I was the one who destroyed our friendship and left."`
+char_bea: `"So as to not leave you alone in sadness,`
+char_bea: ` I erased all of your memories and the very world of our days together."`
+char_sha: `"...................................."`
+char_bea: `"You do not need to understand...`
+char_bea: ` But believe this.`
+char_bea: ` I have not called you here to do you harm."`
+char_sha: `"I‐isn't this inside one of my dreams...?"`
+char_bea: `"You may think of it that way.`
+char_bea: ` Strictly speaking, I beckoned your soul to my garden while you were sleeping.`
+char_bea: ` To invite you to be a resident of this world."`
+char_non: `{f:5:Beatrice} snapped her fingers,`
+char_non: ` and a storm of gold butterflies all rose up around the rose garden.`
+char_non: `As the cloud of butterflies danced over the table, a gorgeous tea set appeared.`
+char_non: `There were tea cups and a tea pot, more elegant even than those used by the Ushiromiya family.`
+char_non: `The tea filled the cups to the brim and had a sweet rose scent, one which Shannon had never smelled before.`
+char_non: `Before there was even time to be amazed by that scent,`
+char_non: ` butterflies started gathering one by one on the table, and a tea stand sprouted right out of it.`
+char_non: `It was like watching a magical mushroom from a fairy tale kingdom grow out of the ground.`
+char_non: `The many‐layered tea stand was filled with beautiful cakes that were deserving of being called edible jewels.`
+char_non: `Of course, there were also several lovely, light‐brown scones.`
+char_non: ` The honey truly was golden honey, with bits of gold leaf dancing through it......`
+char_bea: `"It seems the Ushiromiya family holds tea parties from time to time, but those cannot compare to mine."`
+char_sha: `"......I‐.........incredible......`
+char_sha: ` ...I've never seen anything like this..."`
+char_bea: `"*cackle*cackle*.`
+char_bea: ` Even if you had, it would only have been as a waitress.`
+char_bea: ` You are my friend.`
+char_bea: ` I need no waitress.`
+char_bea: ` After all, I am a witch.`
+char_bea: ` That is more than enough.`
+char_bea: ` Come, do not be shy.`
+char_bea: ` Stuff yourself to your heart's content."`
+char_sha: `"Th‐`
+char_sha: `......thank you...`
+char_sha: `very much......"`
+char_non: `That was all Shannon could manage to say.`
+char_non: ` .........It would be hard for anyone to say much more after being suddenly invited to such a beautiful witch tea party.`
+char_bea: `"Let us begin with black tea.`
+char_bea: ` The milk is fresh, and the sugar is so delectable that you'd almost want to eat it raw.`
+char_bea: ` But I recommend you try your tea straight first.`
+char_bea: ` With nothing more than a single rose petal floating on the top,`
+char_bea: ` it will surely be so delicious that you'll be unable to drink the black tea of the human world ever again...!"`
+char_non: `Laughing happily, {f:5:Beatrice} opened, not a sugar pot, but a rose petal pot,`
+char_non: ` picked up a single crimson petal, and floated it on her tea after relishing its scent.`
+char_non: `Shannon did the same, picking up a single petal and smelling its aroma.`
+char_sha: `"...............It smells so wonderful......`
+char_sha: ` ......Is this...really the scent of the roses in this world?"`
+char_bea: `"I am glad you enjoy it.`
+char_bea: ` I bred this rose simply for the purpose of using the petals with black tea.`
+char_bea: ` If you crush them, they're also splendid for making jam!`
+char_bea: ` That goes better with scones than anything else imaginable.`
+char_bea: ` Do you want to try?"`
+char_sha: `"Uh, ah......sure, just a bit."`
+char_non: `Shannon had been invited to this witch tea party suddenly.`
+char_non: `However, the witch seemed so truly innocent, and her smile as she played the hostess was so happy that it made Shannon want to smile too.`
+char_non: `The tension in Shannon's heart gradually faded, and she started to enjoy her chat with this witch......`
+char_bea: `"Servant work really is tiring.`
+char_bea: ` I remember it well.`
+char_bea: ` Particularly cleaning the windowsills in the chapel."`
+char_sha: `"How surprising.`
+char_sha: ` So, you worked as a servant once too?"`
+char_bea: `"For a short time.`
+char_bea: ` You probably don't remember, but I worked alongside you.`
+char_bea: ` I was a clumsy fool who always lost things.`
+char_bea: ` You were my idea of a perfect servant and the person I looked up to."`
+char_sha: `"......That makes me even more sorry that I can't remember."`
+char_bea: `"There is no need for apologies.`
+char_bea: ` Here, you are not a servant, but my friend and guest.`
+char_bea: ` There are no inconveniences here, no trials nor boredom.`
+char_bea: ` I can give you anything you desire.`
+char_bea: ` That is how much power I currently possess.`
+char_bea: ` ......I wanted to let you know that I have now reached that level."`
+char_sha: `".........I can't believe you've given someone as ordinary as me such wonderful treatment...`
+char_sha: ` Thank you very much."`
+char_bea: `"*cackle*!`
+char_bea: ` Think of it as a reward for all of the painful days you have withstood."`
+char_bea: `"Come, gold butterflies!`
+char_bea: ` Do not bore my friend! Show her a little dance!`
+char_bea: ` When you have tired of that, allow me to call the band to perform any song you would like.`
+char_bea: ` If you tire of that as well, my refined familiars will show you magic without tricks."`
+char_bea: `"Fear not, for time is endless here.`
+char_bea: ` And I can grant your wishes endlessly.`
+char_bea: ` My tea party has no end...!"`
+char_non: `In a truly good mood, the witch told Shannon several strange stories.`
+char_non: `They were all stories Shannon had never heard before.`
+char_non: ` Very interesting stories.`
+char_non: ` And they were all odd, bizarre fairy tales.`
+char_non: `Shannon felt as though she had become Alice in Wonderland.`
+char_non: ` The time she spent at this tea party was wholly strange, pleasant, and relaxed.`
+char_non: `No,`
+char_non: ` at this tea party, there were no hands of a clock.`
+char_non: `So, the time passed like a Sunday morning, when you can wrap yourself in your blanket for as long as you want......`
+char_sha: `"......I can't express how grateful I am to you for this."`
+char_bea: `"There is no need for thanks.`
+char_bea: ` In the human world, words of thanks go along with words of farewell, do they not?`
+char_bea: ` There will be no end to this tea party.`
+char_bea: ` So, there is no need for thanks either."`
+char_sha: `"*giggle*.`
+char_sha: ` But I am grateful.`
+char_sha: ` Thank you so much, {f:5:Beatrice}‐sama, for this wonderful tea party.`
+char_sha: ` .........But all dreams must end, and so must this one."`
+char_bea: `"Hoh.`
+char_bea: ` And why must they end?"`
+char_sha: `"Because......I have to get up early tomorrow.`
+char_sha: ` If I stay here talking too long, I'll sleep in,`
+char_sha: ` and Madam will give me a good scolding..."`
+char_bea: `"Pft, hah{0}hah{0}ha{0}ha{0}hah{0}haa{0}ha{0}ha{0}ha{0}haha!`
+char_bea: ` Why are you so anxious to return to the world of that short‐tempered Natsuhi?`
+char_bea: ` Really, now.`
+char_bea: ` Are you really saying you want to return to the {y:0:Human}{n:0:human} world, where it's all work and no rewards?"`
+char_sha: `"But I am {y:0:Human}{n:0:human}.`
+char_sha: ` I can't impose myself on you forever."`
+char_bea: `"Shannon.`
+char_bea: ` It seems that you do not understand.`
+char_bea: ` I invited you here, but I have no desire to chase you away again."`
+char_bea: `"Here, time is eternal.`
+char_bea: ` You are not obligated to say farewell.`
+char_bea: ` I will never tire of enjoying tea with you.`
+char_bea: ` On the contrary, it is quite agreeable to have you to talk to."`
+char_sha: `"I'm grateful for your words, but I am {y:0:Human}{n:0:human}.`
+char_sha: ` I must return to my own world."`
+char_bea: `"That colorless world where you waste all your time with school and your job, and the family works you to the bone?`
+char_bea: ` Why do you want to return there?"`
+char_sha: `"Despite all that, ......it's still my world."`
+char_bea: `"Shannon.`
+char_bea: ` Does that sort of world really need to be yours?`
+char_bea: ` Let me be honest with you.`
+char_bea: ` ......Shannon.`
+char_bea: ` I didn't just invite you here.`
+char_bea: ` I came to take you home."`
+char_sha: `"Take me home.........?"`
+char_bea: `"Once, I tried to become a good servant like you.`
+char_bea: ` ......Then, I became fascinated by witches...`
+char_bea: `and became one myself, learning all the pleasures of magic.`
+char_bea: ` ......And now, I have come to take you home."`
+char_non: `{f:5:Beatrice} spoke quietly and slowly rose from her seat.`
+char_bea: `"Shannon.`
+char_bea: ` ......The world of witches truly is more fun than being a servant.`
+char_bea: ` This tea party is nothing more than a mere welcoming party for an old friend.`
+char_bea: ` We can hold as many fun festivities as we desire.`
+char_bea: ` Yes—endlessly, eternally."`
+char_bea: `"......Now that this golden rose garden has been completed, I have reached my goal.`
+char_bea: ` This place is paradise.`
+char_bea: ` Yes, let us call it the Golden Paradise.`
+char_bea: ` Now that it has been completed, I have come to welcome you in.`
+char_bea: ` There's no need for any inconveniences, any perseverance or hard work.`
+char_bea: ` Here, you and I can enjoy ourselves for all eternity.`
+char_bea: ` It will be like a never‐ending fairy tale......"`
+char_sha: `"......I'm truly grateful for your splendid proposal.`
+char_sha: ` ......However, I need to go back to my original world."`
+char_bea: `"Why?"`
+char_sha: `"Because this isn't my world."`
+char_bea: `"I acknowledge it.`
+char_bea: ` This is not the world you have lived in until now.`
+char_bea: ` That's why I have invited you here!"`
+char_bea: `"From this point forth, this will be our world.`
+char_bea: ` You are no longer a guest.`
+char_bea: ` You are the second master of this world.`
+char_bea: ` You need not show any restraint for my sake.`
+char_bea: ` We will simply live in this endless world like we once lived as roommates......"`
+char_sha: `"I regret that I have no memory of that time.`
+char_sha: ` .........However, I'll have to turn down your invitation."`
+char_bea: `"Why?`
+char_bea: ` ......What responsibility do you have to the world of {y:0:Human}{n:0:human}s?`
+char_bea: ` What duty do you have to return there?!"`
+char_non: `True, the world of {y:0:Human}{n:0:human}s, or the world of servants, is busy all the time.`
+char_non: `Madam is strict, high‐strung, and has a short temper.`
+char_non: `It'd be a lie if I said the everyday chores weren't a pain, and having to balance work with school makes it even harder.`
+char_non: `{f:5:Beatrice} had watched over those painful days the whole time.`
+char_non: `She had seen those constantly tired shoulders heave in a sigh many times.`
+char_non: `That was why she had invited Shannon here.`
+char_non: ` To this Golden Paradise.`
+char_non: `She had tried to give Shannon a perfect welcome, to truly make her happy.`
+char_non: `......So why had Shannon selected her original world over this one?`
+char_non: `{f:5:Beatrice} was overcome with shock, and completely unable to understand.`
+char_bea: `"I have given you the perfect welcome to this paradise.`
+char_bea: ` And the days to follow will be even more fun."`
+char_bea: `"......So, if you still choose the {y:0:Human}{n:0:human} world after all of that, does it mean that you find something there that is even more fun than the pleasures of witches?"`
+char_sha: `".........That's right.`
+char_sha: ` There are things in the {y:0:Human}{n:0:human} world that are even more fun than magic."`
+char_bea: `"Absurd...... That can't be...!"`
+char_sha: `".........Yes,`
+char_sha: ` it's true."`
+char_non: `Shannon's expression was soft.`
+char_non: `However, her words were firm.`
+char_non: ` There was something wonderfully alluring in the {y:0:Human}{n:0:human} world.`
+char_non: `And that something was apparently not in this paradise, which was supposed to have everything just as they wanted it......`
+char_bea: `"..................Absurd...`
+char_bea: ` ......I don't understand,`
+char_bea: ` ......I don't understand......"`
+char_non: `As {f:5:Beatrice} muttered, she shifted restlessly several times.`
+char_non: `However, no matter how often she said it, Shannon's smile didn't falter, and {f:5:Beatrice} couldn't think of an answer...`
+char_sha: `"In that case, .........it's time for me to leave.`
+char_sha: ` Your tea really was delicious."`
+char_bea: `"............I don't understand, I don't understand!`
+char_bea: ` ......I am the great Golden Witch, the one who can have an infinite quantity of anything I desire.`
+char_bea: ` You tell me that there is something I cannot obtain?"`
+char_sha: `".........Yes."`
+char_bea: `"I want to know.`
+char_bea: ` I believed I had everything, so tell me what it is I lack...!"`
+char_sha: `"I think......that you already know.`
+char_sha: ` Isn't that why you invited me here...?"`
+char_bea: `"............Are you trying to speak in riddles to a witch?`
+char_bea: ` ......Heh, ...*cackle*."`
+char_sha: `"That's all for now then......`
+char_sha: ` I can't live here, but I would be glad to come over whenever you invite me for tea."`
+char_bea: `"I won't call for you again...`
+char_bea: ` Have no fear of that."`
+char_non: `{f:5:Beatrice} snapped her fingers and Shannon popped out of existence.`
+char_non: `She had returned Shannon's soul to the dream of her original self.`
+char_non: `Although people have many dreams in a night, they can remember none of them.`
+char_non: `The tea party in this paradise would mix in with many other dreams and vanish.`
+char_non: `The next morning, Shannon would not remember this tea party.`
+char_non: `However, Shannon's cup remained here.`
+char_non: `The witch who had lost her guest and was standing alone looked all the more lonely...`
+char_bea: `"...................................."`
+char_non: `The witch dug her fingernails into the tablecloth.`
+char_non: `That grimace as she bit her lower lip made it clear...`
+char_non: `that she still hadn't solved the puzzle Shannon had left behind.`
+char_non: `"Riiche.`
+char_non: ` There's no need to worry about it."`
+char_non: `Above Shannon's empty seat, a black hole opened, and the owner of that voice fell out of it.`
+char_bea: `"......I do worry.`
+char_bea: ` How could she say it with such certainty..."`
+char_non: `"Maybe she just wanted to get back to sleep quickly, since dawn is coming soon."`
+char_bea: `"............What pleasure could Shannon know that I do not?!`
+char_bea: ` What is this "something" that can be found in the {y:0:Human}{n:0:human} world but not in my paradise?!`
+char_bea: ` I don't understand!`
+char_bea: ` .........I want to know!"`
+char_non: `"Thinking about complicated stuff will just fuel your headache.`
+char_non: ` I can be of service in Shannon's place.`
+char_non: ` Let's enjoy a tea party together."`
+char_bea: `"I am no longer of the mood.`
+char_bea: ` .........I am bored of having tea parties with you."`
+char_non: `"......Aw, she's cranky."`
+char_non: `The witch shrugged and laughed, then took a bite out of a scone.`
+char_non: `She then blew into it, and it swelled up like a balloon before finally popping.`
+char_non: `Golden ribbons and butterflies flew out, but {f:5:Beatrice} didn't appear to notice......`
+char_bea: `".........Just what is it that I do not possess?`
+char_bea: ` ......What......?"`
+char_kaw: `"Watch your step there."`
+char_eva: `"Thank you, captain.`
+char_eva: ` Make sure you take good care of yourself."`
+char_hid: `"I've got a friend who sells this stuff that's supposed to be great for stiff shoulders.`
+char_hid: ` I'll bring you a sample next time...!"`
+char_kaw: `"Oh, no need to trouble yourself... But thanks for caring."`
+char_rud: `"Hey, brats!`
+char_rud: ` How long are you gonna mess around up there?`
+char_rud: ` Let's go."`
+char_ros: `"Hey, Maria.`
+char_ros: ` Come down off the boat with Mama..."`
+char_non: `Maria, who Rosa led by the hand, was still too young for kindergarten.`
+char_non: `However, she seemed to notice that her cousins, whom she rarely ever saw, were playing all around her, and she was very excited.`
+char_non: `Battler and George had the energy of middle‐school or nearly middle‐school kids.`
+char_non: `Those two, along with Jessica who had met up with them on Niijima, were making a lot of noise on the deck.`
+char_rud: `"You okay, Asumu?`
+char_rud: ` ......You really don't like riding things, do you..."`
+char_non: `Rudolf lent an arm to his wife, Asumu...`
+char_gen: `"......Welcome to Rokkenjima.`
+char_gen: ` Thank you for making such a long journey."`
+char_non: `The whole family had gathered for the conference.`
+char_non: `At this point in time, Rudolf's wife was still Asumu, and Ange hadn't been born.`
+char_non: `Gohda and Kanon hadn't yet been employed by the Ushiromiya family,`
+char_non: ` and the witch's epitaph, which would toy with the family's fate, hadn't appeared yet.`
+char_non: `They probably couldn't even imagine...`
+char_non: `the bizarre crime that awaited them several years in the future......`
+char_kum: `"Krauss‐sama, Madam.`
+char_kum: ` The family has arrived."`
+char_cla: `"Good......`
+char_cla: ` Then I will call for Father."`
+char_nat: `"Please do.`
+char_nat: ` I will go welcome everyone.`
+char_nat: ` ......Ah! Shannon...!`
+char_nat: ` Who cleaned this window frame?!`
+char_nat: ` It still has dust on it...!`
+char_nat: ` Quickly, wipe it off!"`
+char_sha: `"A‐as you wish, Madam."`
+char_non: `.........Oh, come on. Natsuhi is making her work so hard again.`
+char_non: `Just what good does she find in such a fussy, ulcer‐inducing life?`
+char_non: `I wanted to know.`
+char_non: `......Shannon.`
+char_non: ` What is it that you found?`
+char_non: `And what did you mean when you said I already knew what I was missing?`
+char_non: `Shannon.`
+char_non: ` Is this something I must learn by learning about you......?`
+char_zep: `"What's different about the day of the family conference on Rokkenjima?!"`
+char_fur: `"It's got to be the noise!`
+char_fur: ` There's never this many kids around!"`
+char_geo: `"......It may have been a tension‐filled day for the adults,`
+char_geo: ` but to us kids, it was a wonderful day, the only time we got to see all of the cousins we loved."`
+char_but: `"In the summer, we could play with our cousins on the beach, and there were plenty of games we could play in the winter!`
+char_but: ` The family conferences were tons of fun for us."`
+char_jes: `"Same here.`
+char_jes: ` Mom was always yelling about how there must be no mistakes,`
+char_jes: ` but to me, it was just the day I got to play with all my cousins.`
+char_jes: ` After all, there's usually nothing at all to do on Rokkenjima."`
+char_but: `"Jessica got to live in this huge mansion with a private beach.`
+char_but: ` I was always jealous of her when I was a brat.`
+char_but: ` But thinking about it from her perspective, it must've been a pretty constricting place to live."`
+char_geo: `"Yes, probably......`
+char_geo: ` There's hardly anything on Rokkenjima.`
+char_geo: ` No friends' houses, no next door neighbors, no neighborhood.`
+char_geo: ` When I consider Jessica‐chan's feelings about that, I feel a little sad for her."`
+char_jes: `"That's why the family conference was so special to me.`
+char_jes: ` Jumping around, messing around!`
+char_jes: ` It felt like I was at a festival.`
+char_jes: ` We spent every last second joking around together."`
+char_fur: `"If the adults always talked about adult things and told you to go play somewhere else—"`
+char_zep: `"And you were three cousins at about the same age,`
+char_zep: ` of course you'd horse around!"`
+char_geo: `"No, it wasn't three.`
+char_geo: ` There were four of us."`
+char_fur: `"I thought Ange wasn't born yet, and Maria was still too young to play with you?"`
+char_zep: `"You've got it wrong, Furfur.`
+char_zep: ` The cousins weren't the only ones at the same age."`
+char_but: `"Shannon‐chan was the fourth.`
+char_but: ` She was about the same age as the rest of us."`
+char_jes: `"Mom was always going on about not talking with the servant kids,`
+char_jes: ` but Shannon and I started to get close.`
+char_jes: ` After all, she was the one girl closest to me in age on Rokkenjima."`
+char_geo: `"All four of us played together.`
+char_geo: ` We played at every family conference.`
+char_geo: ` Right, Shannon?"`
+char_sha: `"......Yes.`
+char_sha: ` I knew that Madam would scold me if she found out, but......"`
+char_jes: `"I wouldn't have let her!`
+char_jes: ` You were always the one close friend I had who could understand me...!"`
+char_sha: `"Thank you for your words, ......Milady......"`
+char_non: `I could not hide my shock.`
+char_non: `How had she formed a relationship with the children of the family, despite being only a servant?`
+char_non: `Natsuhi had probably been very careful to prevent such a relationship.`
+char_non: `However, it's no surprise that Jessica, all alone on this island,`
+char_non: ` would want to be friends with a kid of her own age.`
+char_non: `And Shannon was also alone on this island without any friends her age.`
+char_non: `Though they both understood their relationship as master and servant, they somehow managed to strike up a friendship...`
+char_non: `Then, at the family conference, Jessica had introduced Shannon to George and Battler.`
+char_non: `All of the adults had their hands full with their complicated discussions in the mansion.`
+char_non: `During that time, Shannon was able to put aside her role as a servant for a little bit,`
+char_non: ` and act her age with Jessica, George, and Battler.`
+char_non: `I had no idea that Shannon had constructed this new world so quickly.`
+char_non: `As a butterfly hiding in the shadows,`
+char_non: ` ......I observed this new world of Shannon's.`
+char_geo: `"That day, we ran all around the rose garden and the beach."`
+char_jes: `"Just running around and playing was a blast."`
+char_but: `"Yep.`
+char_but: ` Those were the only times that Shannon‐chan smiled like a girl her age."`
+char_sha: `"I might have......gotten a bit carried away.`
+char_sha: ` It's embarrassing..."`
+char_jes: `"Battler's insanely huge now, but back then, Shannon and I were both taller and stronger than him."`
+char_but: `"I just grew slowly back then."`
+char_sha: `"*giggle*.`
+char_sha: ` They say that those who start late end up the tallest."`
+char_but: `"Ihihi!`
+char_but: ` Yeah, totally!`
+char_but: ` Back then, your chest was nothing like this, right?"`
+char_geo: `"That's not true...`
+char_geo: ` Even back then, Shannon was starting to develop womanly charm. Right?"`
+char_sha: `"Uh...ah...wh‐who knows......"`
+char_jes: `"What the hell do you mean by "womanly charm"? Sounds kinky!"`
+char_but: `"Well, I was still pretty adorable back then myself.`
+char_but: ` That strap you could see through the shoulder of her summer clothing set off the lightning of youth in me...!`
+char_but: ` I remember whispering with George‐aniki that night about how big her tits were! Ihihi!"`
+char_sha: `"I‐is this true, George‐sama...?!"`
+char_geo: `"*cough*, *cough*cough*!!`
+char_geo: ` I believe there has been a great misunderstanding...!`
+char_geo: ` A‐all I remember was lecturing him, as the older and more knowledgeable cousin, about the differences between how boys and girls grow, *cough*cough*!!`
+char_geo: ` And so, rather than dirty talk between cousins late at night, it was, instead, a sign of healthy growth and, umm..."`
+char_jes: `"......Ye~ah, I remember all of us cousins talking about that kinda stuff until midnight...`
+char_jes: ` ......About how apparently, someone in the next class had kissed someone else,`
+char_jes: ` or how you held hands with a girl you liked at summer camp...`
+char_jes: ` And about so‐and‐so who you thought probably liked you, stuff like that...!`
+char_jes: ` ......Dammit, it's so embarrassing it makes me shiver...!"`
+char_zep: `"Isn't that nice!`
+char_zep: ` Another sweet page in the book of adolescence!"`
+char_fur: `"The most pure love comes when boys and girls first start noticing each other!"`
+char_zep: `"That simple, pure desire just to be around someone of the opposite sex,`
+char_zep: ` the noble first loves."`
+char_fur: `"Just wonderful...`
+char_fur: ` A bunch of kids thinking and talking about the world of love...!"`
+char_sha: `"D‐`
+char_sha: `......did that sort of thing...`
+char_sha: `r‐`
+char_sha: `really happen......?"`
+char_but: `"Ihihi~!`
+char_but: ` Don't play dumb!`
+char_but: ` You were the most absorbed and curious of all of us, sitting there 'til even your ears turned red, ihihi!"`
+char_sha: `"I, I was not curious...!`
+char_sha: ` I, I was just...`
+char_sha: `s‐`
+char_sha: `surprised at how much everyone knew...`
+char_sha: `and......`
+char_sha: `um......"`
+char_jes: `"Yeah.`
+char_jes: ` Shannon always played dumb the most, even though she was the most interested.`
+char_jes: ` She was the biggest pervert the~re. Ihihihi."`
+char_sha: `"Th‐that's not true,`
+char_sha: ` that's not true,`
+char_sha: ` I hate you, Milady!"`
+char_geo: `"Hahahahahahahahahaha...`
+char_geo: ` Yeah, it was always like this.`
+char_geo: ` In the day, we'd run around like kids, and at night, we'd hug our pillows and talk about secret stuff.`
+char_geo: ` Looking back on all of it now, ......it really brings back some fond memories."`
+char_but: `"We'd be whispering about something dirty, and whenever we heard the footsteps of the adults coming by, we'd jump under the covers and pretend to be sleeping!"`
+char_jes: `"Yeah, I remember that!`
+char_jes: ` Like some school field trip!"`
+char_sha: `"Those times we all dove under the covers at once.`
+char_sha: ` It felt like some sort of unspoken rule, like a strange sense of unity.`
+char_sha: ` I really liked that feeling."`
+char_geo: `"Well, anyway.`
+char_geo: ` That's not all we talked about.`
+char_geo: ` There was a lot more than that.`
+char_geo: ` We really did enjoy our youth to the fullest."`
+char_bea: `"And what.........is this?"`
+char_non: `Shannon.`
+char_non: ` ......Is this that "fun thing" of the {y:0:Human}{n:0:human} world?`
+char_non: `Is this incomprehensible messing around the thing that you found?`
+char_bea: `"A bunch of kids gathered together, playing stupid games and talking about trivial things.`
+char_bea: ` ......Is this the {y:0:Human}{n:0:human} pleasure you found that surpasses the pleasures of witches?"`
+char_sha: `".........Yes.`
+char_sha: ` Doesn't it look fun to you?"`
+char_bea: `"I will not call it boring.`
+char_bea: ` However, the idea that such a vulgar game could compare to my paradise, where all wishes can be granted,`
+char_bea: ` ......is unfathomable to me."`
+char_sha: `"Interacting with people......is a lot of fun.`
+char_sha: ` Of course, I also think your world is fun.`
+char_sha: ` But even so, ......I choose this world."`
+char_bea: `"............I don't understand.`
+char_bea: ` .........I don't understand......"`
+char_non: `{f:5:Beatrice} held her head as though she was having a headache.`
+char_non: `{n}But no matter how much she grimaced, she couldn't think of an answer.`
+char_bea: `"......Tell me.`
+char_bea: ` .........What is it you found within this vulgar playing?"`
+char_sha: `"..............................`
+char_sha: ` Do you want to know...?"`
+char_bea: `"I do!"`
+char_sha: `"Love."`
+char_bea: `"Lo............ve...............?"`
+char_but: `"Here.`
+char_but: ` It's the mystery novel I promised."`
+char_sha: `"Th‐thank you very much.`
+char_sha: ` I'd be happy to borrow it."`
+char_but: `"That's okay. You can keep it, Shannon‐chan.`
+char_but: ` I've already read it."`
+char_sha: `"B‐but...`
+char_sha: ` I can't accept this......`
+char_sha: ` It was probably expensive."`
+char_but: `"It's just something I got for a few hundred yen at a bazaar.`
+char_but: ` Don't worry about it.`
+char_but: ` I'd rather if you read it quickly so we can talk about it.`
+char_but: ` It's fun to talk about this sort of stuff with you, Shannon‐chan."`
+char_sha: `"Yes,`
+char_sha: ` it's fun for me too.`
+char_sha: ` It's much more fun to read mystery novels with two people instead of alone."`
+char_but: `"I like discussing it and imagining all kinds of things.`
+char_but: ` With mystery novels, reading's only half the fun.`
+char_but: ` My theory's that you can only really enjoy a mystery novel when you talk with other people who've read it too."`
+char_non: `It all started when we realized that we both read mystery novels.`
+char_non: `We were both surprised and very interested to find that the other not only read tons of mystery novels,`
+char_non: ` but read them very thoroughly.`
+char_non: `Ever since then, it's been like this.`
+char_non: `Separate from the games we played with all the cousins, the two of us met together for some time alone......`
+char_non: `At first, it was like a sort of contest to see who knew more than the other.`
+char_non: `However, eventually, this turned into respect for how much the other had read and how deeply they were able to think about it.`
+char_non: `Respect.`
+char_non: ` Trust.`
+char_non: `{n}Those emotions made our friendship even stronger.`
+char_non: `Of course, all of that had still fallen within the category of "friendship"......`
+char_non: `......But we were still slightly aware of the fact that the other was of the opposite sex,`
+char_non: ` making for a relationship that was charming, or youthful, .........or maybe you could call it exciting.`
+char_non: `However, we were still so young that even the word "youth" felt like it might be overstating our age.`
+char_non: `Of course, we didn't know a thing about love.`
+char_non: `So, we couldn't understand that tickling feeling in our chests,`
+char_non: ` both bitter and sweet, that we only felt when we were alone together.`
+char_non: `However, we realized that there was some unknown emotion hidden behind that feeling,`
+char_non: ` ......and as our hearts raced,`
+char_non: ` we had our hands upon the door.`
+char_non: ` ......That was the exciting age we were at.`
+char_non: `So.`
+char_non: `At some point, our discussions about mystery novels became just an excuse for us to spend time alone together...`
+char_but: `"There aren't many mystery novels that care much about the whydunit."`
+char_sha: `"The whydunit?`
+char_sha: ` You mean the culprit's motive...?"`
+char_but: `"Yeah.`
+char_but: ` There are three points you need to figure out in mystery novels: the whodunit, the howdunit, and the whydunit.`
+char_but: ` A lot of mysteries deal with the first two, but surprisingly few worry about the final one."`
+char_sha: `"Well, I know about many works that take great care to have the culprit confess his motive after he's found out..."`
+char_but: `"But it has to be something that you can reason out before the culprit confesses, or it doesn't count.`
+char_but: ` When the culprit is someone who didn't appear to have a motive, and they commit the crime for reasons that are impossible to deduce,`
+char_but: ` personally, I think that's unfair."`
+char_non: `"Whodunit".`
+char_non: ` Who's the culprit?`
+char_non: `{n}"Howdunit".`
+char_non: ` How did they commit the crime?`
+char_non: `{n}"Whydunit".`
+char_non: ` Why did they commit the crime?`
+char_but: `"Who the culprit is, and what tricks they used...`
+char_but: ` There are a ton of works that ask you to figure that out.`
+char_but: ` In fact, almost all are like that.`
+char_but: ` However, I don't think there are many novels that ask you to figure out the motive."`
+char_sha: `"Good point.`
+char_sha: ` Out of the trio of "who", "how", and "why", "why" might be the most neglected."`
+char_but: `"Mysteries that don't take the whydunit seriously don't really feel complete to me.`
+char_but: ` ......Don't get me wrong, I'm not saying they're boring.`
+char_but: ` ......It's more like...they're missing the most important part."`
+char_sha: `"The most important part...is missing......?"`
+char_but: `"The heart.`
+char_but: ` The heart is missing."`
+char_sha: `".........The heart........."`
+char_but: `"I think the human heart is a really important thing.`
+char_but: ` For a person to decide to commit murder, plan it out, get everything ready, and actually carry it out,`
+char_but: ` that'd take an incredibly strong force of the heart.`
+char_but: ` The heart is what moves people."`
+char_non: `......In other words,`
+char_non: ` only the heart can kill a person.`
+char_non: `When an emotional upheaval grows strong enough to make a person want to kill, the result is the tragedy called murder.`
+char_non: `Putting it the other way around, that means that the true way to close in on the crime is by searching for the heart that brings about the tragedy of murder.`
+char_non: `Only the heart can kill.`
+char_non: `So, if a person has been killed, you must search for the heart.`
+char_non: `That's what he told me.`
+char_but: `"So...`
+char_but: `novels where the culprit is just a homicidal maniac who kills for fun...`
+char_but: `don't really do it for me."`
+char_sha: `".........Then you like novels that show a strong enough movement of the heart to lead to murder?"`
+char_but: `"That's right.`
+char_but: ` And the ones that let you reason that out are my favorite stories of all."`
+char_non: `As he spoke, he looked back at me and smiled.`
+char_non: `......Before today, I used to like novels that focused on exposing the tricks.`
+char_non: `However, I decided to look for novels like the ones he recommended in the future.`
+char_but: `"I don't like ignoring the heart.`
+char_but: ` .........The heart is what drives people to act."`
+char_sha: `"......Yes.`
+char_sha: ` I think you're right......"`
+char_non: `This isn't limited to the mystery genre.`
+char_non: `{n}All people, at all times, are driven by their hearts.`
+char_non: `Figuring out the heart is the essence of interactions between people—`
+char_non: `no, interactions between hearts.`
+char_non: `None of us humans can live on our own.`
+char_non: `{n}And yet, we have no way of peeking into the hearts of others.`
+char_non: `That's why every meeting between people............is its own mystery of the heart.`
+char_non: `Encountering those mysteries, reasoning about them, and understanding them, is what allows people and hearts to connect with one another.`
+char_non: `The two of us are here, by ourselves, talking together about mysteries.`
+char_non: `And through that...`
+char_non: `...we are exploring each other's heart and debating its mysteries......`
+char_non: `I want you to feel about me...`
+char_non: `...the way I feel about you.`
+char_non: `We're both exploring,`
+char_non: ` trying to figure out the depths of the other's heart,`
+char_non: ` ......in this mystery of love.`
+char_but: `"Nn, ......look how late it's gotten.`
+char_but: ` I wonder if Aniki and the others are waiting for us."`
+char_sha: `"Yes, we should probably go back soon......"`
+char_but: `"......Time seems to fly by when I'm talking with you, Shannon‐chan."`
+char_non: `He seemed to be speaking the words of my heart.`
+char_non: `We were thinking the same thing, so the same words came out.`
+char_sha: `"I wish we could talk together like this forever......`
+char_sha: ` I hate clocks."`
+char_but: `"Same here.`
+char_but: ` Talking about this stuff with you is the most fun part of coming to Rokkenjima."`
+char_non: `When I saw that his smiling eyes were looking right at me, ......I turned around.`
+char_non: `I couldn't let him see my suddenly red face.`
+char_sha: `"If only I could go out into the world at large,`
+char_sha: ` ......I'd be able to read so much more..."`
+char_but: `".............................."`
+char_non: `The bookshop on Niijima that I go to and the bookshop he goes to in the city are on completely different scales.`
+char_non: `The book exchange between the two of us had become completely one‐sided, with him giving me all the books.`
+char_but: `"How long do you plan to be a servant, Shannon‐chan?"`
+char_sha: `"......I don't know."`
+char_but: `"If, someday,`
+char_but: ` you decide to quit..."`
+char_sha: `"If I do......?"`
+char_but: `"Come over to my place."`
+char_non: `He said it......almost carelessly.`
+char_non: `{n}Maybe he was a bit embarrassed, since he laughed weakly and blushed.`
+char_but: `"And then,`
+char_but: ` ......we won't need to worry about time running out anymore."`
+char_sha: `"......That's right.`
+char_sha: ` ......We could be together......as long as we wanted..."`
+char_non: `The little secret dates on this island only happened a few times a year,`
+char_non: ` ......and even when they did happen, it was only for a short, uncertain period of time.`
+char_non: `It wouldn't work over the phone or with letters.`
+char_non: `We can only talk about our mystery when we're standing together like this.`
+char_but: `"I know that day'll come someday."`
+char_sha: `"......You think it will...?"`
+char_but: `"Yeah.`
+char_but: ` I'm certain of it."`
+char_non: `Certain?`
+char_non: ` How can he be certain...?`
+char_but: `"When that day comes,`
+char_but: ` ......I'll come for you, riding a white horse."`
+char_sha: `".........Wha......?"`
+char_non: `After saying this, he turned away.`
+char_non: `He was probably too proud to show me his blushing cheeks.`
+char_non: `But even without seeing, I knew what his face looked like.`
+char_non: `To come riding on a white horse...`
+char_non: `...umm, who did that, again...`
+char_non: `{n}Uhh, isn't that like...a fairy tale prince......?`
+char_non: `So, what exactly does that mean...`
+char_non: `...umm...`
+char_non: `ummmmm.........`
+char_non: `Does that mean......you're going to be my......prince......?`
+char_non: `......My mind was going blank, so I just couldn't reason out his mystery of love, even though it was all plain and simple...`
+char_sha: `"I,`
+char_sha: ` ......I wonder...`
+char_sha: `when that day will come..."`
+char_but: `"As soon as you make up your mind."`
+char_sha: `"Huh...............?"`
+char_non: `My heart skipped a beat...`
+char_non: `{n}It was so sweet...yet it hurt......`
+char_but: `"Any time's good for me.`
+char_but: ` This is your life we're talking about, Shannon‐chan.`
+char_but: ` You should think about it carefully before you decide.`
+char_but: ` .......And once you've decided, I'll respect your decision, no matter when you make it."`
+char_sha: `"O‐`
+char_sha: `......okay......"`
+char_but: `"I'll keep on waiting until that day comes."`
+char_sha: `"Nn, ......ah........."`
+char_non: `If I were a bit more foolish...and courageous...`
+char_non: `...I could have told him that my mind is already made up,`
+char_non: ` ...and I could have asked him to take me away from this island right now.`
+char_non: `But I can't.`
+char_non: `{n}I have to think carefully about my future, for both of our sakes......`
+char_non: `My head filled with pointless, senseless thoughts......`
+char_sha: `"I,`
+char_sha: ` ......I'm happy to hear you say that......`
+char_sha: ` .........Thank you......"`
+char_but: `"Heheh......"`
+char_non: `With his back still to me, he scratched his head and laughed.`
+char_non: `I knew he was doing this out of embarrassment, so I could clearly tell what his expression must have been.`
+char_non: `In the same way...`
+char_non: `{n}He must have realized what my face looked like.`
+char_non: `We're both puzzle‐solvers of love.`
+char_non: `{n}We theorize about each other's love, solving each other's mysteries...`
+char_sha: `"......Thanks for giving me time."`
+char_but: `"You have all the time in the world."`
+char_sha: `"No.`
+char_sha: ` ......I'd feel bad...`
+char_sha: `if I kept you waiting too long."`
+char_but: `"Hahaha."`
+char_sha: `"So, I've made up my mind.`
+char_sha: ` ......No, I should say that I will make up my mind.`
+char_sha: ` ......I'm not going to quit my job immediately today.`
+char_sha: ` ......Yes, that's it... One year.`
+char_sha: ` ......One year from now."`
+char_non: `......If, one year from now,`
+char_non: ` you still feel certain about coming for me on a white horse...`
+char_non: `And me too.`
+char_non: `If I still like you a year from now...`
+char_non: `I'd like to dedicate the rest of my life to you......`
+char_sha: `"One year from now, in this very spot,`
+char_sha: ` ......I'd like to make a resolved decision."`
+char_but: `"......A whole year, huh?`
+char_but: ` That sounds good.`
+char_but: ` Spring, summer, autumn, winter.`
+char_but: ` ......That's a good amount of time to look deep into your heart."`
+char_sha: `"S‐`
+char_sha: `......so...`
+char_sha: `next year......"`
+char_sha: `You'll...`
+char_sha: `...come to get me, right......?`
+char_but: `"Yep."`
+char_non: `He responded to my cowardly resolve with a quick, strong answer......`
+char_but: `"I'll be waiting for that day to come."`
+char_sha: `"Yes.`
+char_sha: ` ......I'll be waiting too......`
+char_sha: ` ...Make sure......you come, okay...?"`
+char_but: `"Yeah."`
+char_sha: `"......Don't forget.`
+char_sha: ` Come here next year, okay?"`
+char_but: `"Yeah.`
+char_but: ` I'll definitely come.`
+char_but: ` I'll meet you here."`
+char_non: `Definitely.`
+char_non: `.........I see.`
+char_non: `So,`
+char_non: ` ......this emotion that feels like sweet suffocation...`
+char_non: `...is love...?`
+char_non: `It is an emotion I do not know.`
+char_non: ` One I do not possess.`
+char_non: `Though my magic can grant any wish...`
+char_non: `{n}Though my paradise can grant any wish....`
+char_non: `It is something I cannot have,`
+char_non: ` ......an incomprehensible emotion that burns like fire,`
+char_non: ` ......and yet, one desires madly to hold it close...`
+char_non: `All I know is that no matter how great a witch I might become, I cannot create this emotion.`
+char_non: `It must be given by another person.`
+char_non: `For the first time, I realized that I was not all powerful.`
+char_non: `And I knew what Shannon had discovered in the world of {y:0:Human}{n:0:human}s......`
+char_bea: `".........This emotion,`
+char_bea: ` ...............it's just too much......`
+char_bea: ` ...Once you've felt it,`
+char_bea: ` ......there's no forgetting it, is there......"`
+char_non: `......Shannon.`
+char_non: ` ......You win.`
+char_non: `Love, ......is it?`
+char_non: `It may be the most important element, ......and the one that I lack...`
+char_non: `......Shannon.`
+char_non: `{n}I shall observe from afar...`
+char_non: `...the course of your love.`
+char_non: `Go forth, ......and teach me more and more about this new emotion.........`

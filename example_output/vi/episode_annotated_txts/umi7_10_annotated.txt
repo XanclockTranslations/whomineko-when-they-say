@@ -1,0 +1,417 @@
+char_non: `"Yasu.`
+char_non: ` What'd you do with the small broom?"`
+char_sha: `"......Didn't you use it to clean the window frames?"`
+char_non: `Ah, ............`
+char_non: `The small broom is a small, thin broom that looks like a large paintbrush.`
+char_non: `We use it to clear out the dust in small corners, like window frames.`
+char_non: `It's one of the cleaning tools I was put in charge of...`
+char_non: `"Come on, that was your responsibility, right?!`
+char_non: ` What're you doing, stupid?!"`
+char_sha: `"Quickly, go and find it...`
+char_sha: ` You have to do it before Madam finds out..."`
+char_non: `"What's up?"`
+char_non: `"Yasu lost the small broom again.`
+char_non: ` Is this kid some sort of genius at losing things?!"`
+char_non: `"That's why I'm always telling you, never give things to Yasu.`
+char_non: ` Yasu's always careless and losing things."`
+char_sha: `"Don't say that, can't you see this kid's working hard...?`
+char_sha: ` Come on, quickly.`
+char_sha: ` I'll wait for you."`
+char_non: `O‐okay......`
+char_non: `Not wanting to hear the servants complain even more, I spun around and headed off.`
+char_non: `If you lose a tool, you get in trouble.`
+char_non: ` If no one knows who did it, we all get yelled at,`
+char_non: ` so one of them will probably tell Madam that it was my fault.`
+char_non: `Still, it's my fault that I lost it in the first place.`
+char_non: `I wonder when I lost it.`
+char_non: `{n}When, when......`
+char_non: `We did a big clean of the entire chapel today.`
+char_non: `The chapel is a large building behind the mansion.`
+char_non: ` However, no one ever goes near it, normally.`
+char_non: `Even so, we're ordered to clean the chapel a few times each year.`
+char_non: `Kinzo calls it a sacred building, so Natsuhi is very strict about it......`
+char_non: `We cleaned every little nook and cranny, from top to bottom.`
+char_non: `It took all day.`
+char_non: `I'd been put in charge of cleaning the window frames, but I was also given many smaller tasks.`
+char_non: `While those small jobs kept me busy, I must have completely forgotten about the small broom...`
+char_non: `...and left it lying around somewhere.`
+char_non: `......I hate myself for doing this.`
+char_non: `{n}This isn't the first time this has happened.`
+char_non: `It happens all the time.`
+char_non: `Every time I set something down, it always disappears.`
+char_non: `{n}It goes somewhere else. Vanishes.`
+char_non: `I've come to think that these might be pranks by the witch {f:5:Beatrice}.`
+char_non: `The ghost of the witch {f:5:Beatrice} borrowed the power of Rokkenjima's evil spirits to become reborn.`
+char_non: `Until Kumasawa‐san told me, I never knew the meaning of the shrine on the rocks by the sea.........`
+char_cur: `"Kumasawa told an old, old tale, passed down among the local fishermen.`
+char_cur: ` Rokkenjima used to be known as Akujikijima,`
+char_cur: ` and terrible evil spirits who ate human souls lived there......"`
+char_zep: `"Hey, Kumasawa!`
+char_zep: ` Let us hear too!"`
+char_fur: `"Tell us the scary, scary tale of Rokkenjima's evil spirits!"`
+char_kum: `"Hoh‐hoh‐ho, very well, very well.`
+char_kum: ` Rokkenjima used to be called Azukijima.`
+char_kum: ` However, even deeper in the distant past, it was known as Akujikijima.`
+char_kum: ` It was rumored that sailors who got too near the island were dragged down to the bottom of the sea and had their souls eaten."`
+char_kum: `"......Those frightening spirits do exist on this island, you know?`
+char_kum: ` Hoh‐hoh‐hoh‐ho."`
+char_cur: `"It was Kumasawa's favorite ghost story.`
+char_cur: ` Every new servant who came to the island heard about it.`
+char_cur: ` .........Normally, such a story would be laughed away; however, on Rokkenjima, an island home to nothing but the Rokkenjima mansion,`
+char_cur: ` which rumbled with eerie thunder on stormy nights, people listened to the story with unusual respect."`
+char_fur: `"So the shrine by the coast is there to seal evil spirits away!"`
+char_zep: `"And the Master has that weird occult hobby, too!"`
+char_fur: `"And the mansion is so creepy, something must be lurking around somewhere!"`
+char_kum: `"Hoh‐hohoho.`
+char_kum: ` True, true.`
+char_kum: ` Sealing up the spirits was all that the traveling ascetic could manage.`
+char_kum: ` The seal just manages to hold them, but to this very day, they wander through the mansion, night after night, searching for a victim.`
+char_kum: ` Hoh‐hoh‐hoh‐ho......"`
+char_zep: `"Have you seen the Master's study?!"`
+char_fur: `"I have!`
+char_fur: ` It's like some kind of demon laboratory!"`
+char_zep: `"There's that rumor about the Master researching demons!"`
+char_fur: `"They also say he's researching how to revive his mistress, Beatrice!"`
+char_zep: `"Didn't they say he was gathering children to be sacrifices for his magic experiments?!"`
+char_fur: `"Waah, scary!`
+char_fur: ` What will I do if the Master asks me to come into the study alone?!"`
+char_zep: `"I heard that, long ago, one kid went into the study and never came out!"`
+char_fur: `"She must have been a victim of an experiment to give Beatrice's ghost a new body!"`
+char_kum: `"Hoh‐hoh‐ho.`
+char_kum: ` Yes, {f:5:Beatrice}‐sama has become a ghost, and wanders around searching for a body.`
+char_kum: ` The VIP room on the second floor is where {f:5:Beatrice}‐sama dwells...`
+char_kum: ` You must always be respectful when cleaning that room...`
+char_kum: ` Otherwise...`
+char_kum: `.........uhi{0}hi{0}hi{0}hi{0}hhi{0}hhi~!"`
+char_cur: `"In the eyes of those teenage boys and girls with their fertile imaginations, the ghost story was both terrifying and fascinating.`
+char_cur: ` By experiencing and sharing in a story together, a kind of solidarity forms.`
+char_cur: ` Then, sharing in that experience becomes obligatory,`
+char_cur: ` and accepting the story becomes a rite of passage for joining the group.`
+char_cur: ` That process was an old one that had repeated many times as the story was passed down."`
+char_sha: `"That's right.`
+char_sha: ` Back when I first started work at Rokkenjima,`
+char_sha: ` I heard that story from Kumasawa‐san and the older servants."`
+char_kan: `"I heard about it too, mostly from Nee‐san."`
+char_goh: `"I heard it too.`
+char_goh: ` From Kumasawa‐san, mainly."`
+char_fur: `"So, not only the timid‐looking Shannon,`
+char_fur: ` but a boy, Kanon, and a big adult, Gohda, believed in the ghost story?"`
+char_kan: `"Well, I didn't really {i:believe}..."`
+char_goh: `"There are tales of ghost stories and jinxes in all jobs.`
+char_goh: ` There were several stories of the sort at the hotel I once worked at."`
+char_zep: `"So, you thought it was stupid, and you didn't pay it any mind?"`
+char_kan: `"......I think there was a need to blend with the community."`
+char_goh: `"That's it.`
+char_goh: ` Ghost stories and jinxes are all the local rules of your workplace.`
+char_goh: ` If a newcomer turns his nose up at them, he can't expect to blend in."`
+char_kan: `"Exactly.`
+char_kan: ` ......If I said witches couldn't exist, that it was ridiculous, then I'd get into a fight with Nee‐san.`
+char_kan: ` It was easier if I just appeared to go along with it."`
+char_sha: `"Come on. If you look at it that way, you'll be cursed...`
+char_sha: ` There was one servant who got seriously injured..."`
+char_goh: `"Hahaha, all workplaces have stories like that.`
+char_goh: ` No matter how incredible the ghost stories or the tales about the company founder are, you accept and believe them.`
+char_goh: ` That's what it means to blend in with your new workplace."`
+char_non: `""Wow!`
+char_non: ` Everyone's so mature!""`
+char_non: `I went to each window around the chapel in the order I had cleaned them, searching carefully in all the places I might have left it.`
+char_non: `I had been cleaning the windows with it, so I'd probably set it down near one of those.`
+char_non: `......When did I leave it behind, I wonder?`
+char_non: `Now that I think about it, I don't think I had it anymore when I reached the last window,`
+char_non: ` so I must have completely forgotten to clean that window frame.`
+char_non: `"..................Ah."`
+char_non: `Through the window, I could see the others leaving in groups.`
+char_non: `{n}Shannon turned around and glanced up in my direction, looking worried.`
+char_non: `......I don't want to be responsible for making everyone wait, so it's actually a relief that they're leaving without me...`
+char_non: `Still, ......naive though it may have been, I wanted them to wait......`
+char_non: `The sun's beginning to set, and the chapel's getting darker and darker.`
+char_non: `{n}I don't want to hang around in a place like this all by myself.`
+char_non: `I'd better find the small broom fast.`
+char_non: `No, that's not all.`
+char_non: ` I also need to clean the window frames I forgot.`
+char_non: `Madam is strict.`
+char_non: ` She'll probably check all of the windows carefully.`
+char_non: `If she does, I'll be the one that gets in trouble tomorrow.`
+char_non: `But really, where did I lose it?`
+char_non: ` Why did I lose it?`
+char_non: `The darkness grew and grew.`
+char_non: `......When it became dark enough that I would need a light before long, I began to panic.`
+char_non: `I dashed around and around the chapel, tears streaming down my face...`
+char_non: `As I stumbled about pathetically,`
+char_non: ` I could feel the presence of a prankster witch, giggling at me from under the door and up by the ceiling.`
+char_non: `The ghost of {f:5:Beatrice}, the Master's mistress, wanders about in search of a body to this very day.`
+char_non: `As she gains the power of Rokkenjima's evil spirits, her strength steadily grows, and she waits for the day of her resurrection.`
+char_non: `And, ......for some reason, she's singled me out,`
+char_non: ` and if I ever take my eyes off something for a second, she snatches it away and hides it.`
+char_non: `This isn't the first time this has happened.`
+char_non: `Whenever I look away, .........keys, handkerchiefs, pencils, erasers...`
+char_non: `all of them vanish almost right away.`
+char_non: `I put things down planning to use them later, or because that's obviously the right place to leave them,`
+char_non: ` and still they disappear as soon as I turn around.`
+char_non: `It isn't someone hiding them as a prank.`
+char_non: `{n}It's happened many times when I'm the only person around.`
+char_non: `......Everyone always says I'm too careless and forgetful, and they laugh at me, get mad at me.`
+char_non: `I do try to be alert,`
+char_non: ` but like some kind of bad joke, I lose things easily when I forget about them for just a short while.`
+char_non: `So, sometimes, I think "I bet this eraser is going to disappear just like everything else", and I stare at it.`
+char_non: ` That's the only time when it doesn't disappear.`
+char_non: ` Nothing disappears when I'm alert.`
+char_non: `So then I think I'm safe, but the moment I start to think that and relax just a little bit, a {i:different} thing will disappear instead...!`
+char_non: ` Why is it always me......?!`
+char_non: `{a:c:`
+char_non: `*giggle*giggle*,`
+char_non: ` ......ehehehehahahaha......}`
+char_non: `......Yeah, I hear it.`
+char_non: `I can hear that witch laughing at me as I lamely run around in circles...`
+char_non: `{a:c:`
+char_non: `*giggle*giggle*,`
+char_non: ` ......ehehehehahahaha......`
+char_non: `{n}`
+char_non: `Ahahahahahahahahahaha......}`
+char_non: `Listening to that voiceless laugh, I finally slammed my hands against the wall, crying tears of frustration.`
+char_non: `"Please, just stop it...!!`
+char_non: ` Why do you always hide my things and get me in trouble?!"`
+char_non: `The witch answers.`
+char_non: `Fool.`
+char_non: ` ......Isn't it obvious?`
+char_non: `Why else, except to entertain myself by watching you wander about pointlessly?`
+char_non: ` *cackle*cackle*, hyah{0}ha{0}ha{0}ha{0}ha{0}ha{0}ha{0}hah{0}hah{0}hah{0}ha...!!`
+char_non: `I felt so frustrated.`
+char_non: ` I knew all along that that was the reason, but the witch being so blatant about it was incredibly annoying.`
+char_non: `I can tell.`
+char_non: ` That small broom {i:is} somewhere in this chapel.`
+char_non: `No, that's not quite it.`
+char_non: ` Until the very moment I walked up to this window, I'm sure it was right by this window frame.`
+char_non: `That's right, I'm sure I put it right here by this window.`
+char_non: `But the prankster witch {f:5:Beatrice} uses her magic,`
+char_non: ` and just before I reach this spot, she instantly teleports the small broom to the next window over.`
+char_non: `The instant I approach the next window,`
+char_non: ` a hole appears beneath the small broom, swallowing it up.`
+char_non: `And it comes out by the next window after that.`
+char_non: `It lands right there, perfectly still, as though it was there the whole time.`
+char_non: `And this happens over and over again!`
+char_non: `As I run up to one window, the small broom falls into a magic hole and goes to the next window.`
+char_non: ` And when I go to that window, it goes to the next window...!`
+char_non: `That's exactly how she's teasing me, I can tell!`
+char_non: `So no matter how much I search, it'll be useless.`
+char_non: `But if I stop searching, it'll be just sitting there by one window or another.`
+char_non: `So, this isn't a search.`
+char_non: ` It's a test of endurance.`
+char_non: `I keep chasing after the small broom,`
+char_non: ` and {f:5:Beatrice} keeps making it escape to the next window over, trying to make me give up.`
+char_non: `This is an eternal chase...that'll end only when one of us gives up...!`
+char_non: `So, I keep going around in circles searching the windows, even when I know I've already searched them.`
+char_non: `If it's not by this one, then the next one, and the next one.`
+char_non: `And the witch keeps moving the small broom to the next window, and the next one...!`
+char_non: `"Just give it a rest...!!`
+char_non: ` How long are you going to make fun of me?`
+char_non: ` This isn't the only time, you always do this, always!!"`
+char_non: `{a:c:`
+char_non: `*giggle*,`
+char_non: ` heh`
+char_non: `heh`
+char_non: `hah`
+char_non: `ha{0}ha{0}ha{0}ha{0}ha{0}ha{0}ha{0}ha{0}haha}...!!`
+char_non: `The shrill, voiceless{FIXME?} laugh of the formless witch continues to mock my sobbing.`
+char_non: `The witch is right beside me, laughing at me.`
+char_non: `As I dash around the chapel, she's following along with me, taunting me.`
+char_non: `Then...`
+char_non: `she must be...`
+char_non: `there.`
+char_non: `She's right behind me, ......just over my shoulder,`
+char_non: ` cackling away at this very moment.`
+char_non: `I know that turning around won't help, since she has no form.`
+char_non: `{n}I can try to look, but I mustn't look with my eyes.`
+char_non: `Once my eyes tell me there's nothing there, I won't be able to {i:{y:1:‘see’}{n:1:"see"}} anymore.`
+char_non: `I learned that from the Director of the Gospel House.`
+char_non: ` ......You mustn't try to {y:1:see}{n:1:look} with your real eyes.`
+char_non: ` ......You must {y:1:‘see’}{n:1:{i:see}} with your {i:mind's} eye.`
+char_non: `The whole world is filled with God's love.`
+char_non: ` In the many blessings of everyday life, one can find God, and angels, and the Holy Ghost.`
+char_non: `{y:1:If you try to look at them with your eyes, you won't be able to see them {i:or} ‘see’ them.}{n:1:If you look with your eyes, you won't be able to see them.}`
+char_non: ` So you won't be able to feel them or understand them.`
+char_non: `Instead, you must quietly understand them with the eye of your heart.`
+char_non: `You don't look and have your eyes reflect their image.`
+char_non: `{n}You {y:1:‘see’}{n:1:"see"}...{0}and picture them in your mind.`
+char_non: `In this way, I learned how to recognize beings not of this world at the Gospel House.`
+char_non: `......This power doesn't only allow you to {y:1:‘see’}{n:1:"see"} God.`
+char_non: `{n}It allows you to {y:1:‘see’}{n:1:"see"} {i:all} those not of this world.`
+char_non: `".........Please, stop it now.`
+char_non: ` Stop this prank."`
+char_non: `"...............Hoh.`
+char_non: ` ......So, you can speak to me?"`
+char_non: `"I'm clumsy, bad at my job, ......and I do forget where I put things a lot.`
+char_non: ` ......But I know which things were my fault, and which things were because of your pranks."`
+char_non: `"How amusing...`
+char_non: ` Not only can you perceive me in my formless state, but you even understand my little game.`
+char_non: ` .........It seems you are a more interesting creature than I thought,`
+char_non: ` Yasu."`
+char_non: `......I'm usually called Yasu when one of the older servants is laughing behind my back at some mistake I've made.`
+char_non: `So, when I hear that name, it feels bad.`
+char_non: `She deliberately called me not by the blessed name given to me by the Gospel House, but by that unblessed name.`
+char_non: `Upsetting the heart is a classic move for evil beings to make.`
+char_non: `{n}That is their way of attempting to prevent others from perceiving them.`
+char_non: `To beings like witches, being understood is like shoving them out into the light of day.`
+char_non: `"......It won't work.`
+char_non: ` In the Gospel House, I learned how to perceive those not of this world.`
+char_non: ` So, I already understand you."`
+char_non: `"Very interesting.`
+char_non: ` ............I am a being so faint that I would scatter in a gentle breeze, yet you hold me in the grasp of your perception.`
+char_non: ` ......I have taken a liking to you, {i:Yasu}!"`
+char_non: `"It won't work.`
+char_non: ` I understand you now, and you're in my grasp.`
+char_non: ` No matter how many unpleasant things you say, you'll just expose the ugliness of your heart."`
+char_non: `Without turning around, ......I slowly let my field of vision fill the entire chapel.`
+char_non: `It was as though the viewpoint of my soul was floating out from the shell of my head.`
+char_non: `......See,`
+char_non: ` ............inch by inch,`
+char_non: ` ......my field of vision is floating out of my head...`
+char_non: `...and drifting upwards.`
+char_non: `As I looked down at myself, standing there with head hanging and eyes tightly shut...`
+char_non: `...my mind's eye...`
+char_non: `...very slowly...`
+char_non: `......rose up to the ceiling of the chapel.`
+char_non: `And when I looked down from there...`
+char_non: `...I looked down at myself, standing in the center of the chapel, .........and the witch standing behind me.`
+char_non: `......Apparently, the witch realized that she was being {y:1:‘seen’}{n:1:seen}.`
+char_non: `She turned around...`
+char_non: `......and raised her eyes to look at my mind's eye, floating by the ceiling...`
+char_non: `......At last,`
+char_non: ` I could {y:1:‘see’}{n:1:see} the witch {f:5:Beatrice}...`
+char_non: `...with my mind's eye......`
+char_bea: `"A mere {y:0:Human}{n:0:human}...`
+char_bea: `...grasped my form......?"`
+char_non: `The demonic lips......twisted in an ugly curve.`
+char_non: `{n}It was clearly a challenging, repulsive, ......demon's smile...`
+char_non: `She wore a blood‐red dress and hat.`
+char_non: ` The design was completely different from anything {y:0:Humans}{n:0:humans} wore.`
+char_non: `Her hair was blonde.`
+char_non: ` It had countless beautiful curls, like a princess from a picture book,`
+char_non: ` ......but there was no trace of cuteness about her.`
+char_bea: `"......I thought you were a little different from the other {y:0:Human}{n:0:human}s,`
+char_bea: ` but it seems I was mistaken."`
+char_non: `"........................"`
+char_bea: `"You are not just a little different......you are {i:entirely} different from other {y:0:Human}{n:0:human}s.`
+char_bea: ` *cackle*cackle*...!"`
+char_non: `"You sad witch, who can be seen by no one, heard by no one.`
+char_non: ` ......Have you been pulling these pranks all the time just to catch the attention of {y:0:Human}{n:0:human}s...?"`
+char_bea: `"I use what little magic I have to interfere when {y:0:Human}{n:0:human}s aren't looking, but no matter what I do, none of them think of it as magic.`
+char_bea: ` ......They decide that they just made a little mistake,`
+char_bea: ` and blow my existence away like the candles on a cake."`
+char_non: `"If so, then I've just saved you.`
+char_non: ` Because I understand you...and perceive you."`
+char_bea: `"......Saved me?`
+char_bea: ` *cackle*cackle*cackle*!`
+char_bea: ` To me, this meeting with you is nothing more than a new way to kill time."`
+char_non: `"It's getting dark.`
+char_non: ` I don't have the time to play with you anymore."`
+char_bea: `"Well, well, so it is.`
+char_bea: ` My apologies. When one is engrossed, one hardly notices the time."`
+char_non: `".........Please give it back.`
+char_non: ` My cleaning tool."`
+char_bea: `"That small broom, or whatever you call it?`
+char_bea: ` It's right there, by the next window."`
+char_non: `"But as soon as I get close, you'll move it to the next window over."`
+char_bea: `"*cackle*cackle*!`
+char_bea: ` My magic is as elusive as my very own form.`
+char_bea: ` With no more than a snap of my fingers, everything here is under my total control...!"`
+char_non: `The witch snapped her fingers, and various things throughout the chapel were sucked into black pitfalls beneath them, disappearing.`
+char_non: `No, they didn't disappear.`
+char_non: ` The instant they vanished into the dark holes, other dark holes appeared in completely different parts of the chapel, and the vanished objects fell out of those.`
+char_non: `Chairs, musical scores, clocks, and vases started appearing and disappearing all across the room.`
+char_non: `I felt as though countless tools were flying about the chapel......`
+char_bea: `"I can perform these acts, but I choose not to.`
+char_bea: ` After all, this would be a bit more than a prank, don't you agree...?"`
+char_non: `I wonder where a witch draws the line between pranks and magic.`
+char_non: `When she snapped her fingers again, all of the objects flying about so energetically returned to their original spots,`
+char_non: ` and silence fell.`
+char_bea: `"I've taken a liking to you.`
+char_bea: ` ......You say you have me in your grasp?`
+char_bea: ` *cackle*cackle*!`
+char_bea: ` That works in reverse.`
+char_bea: ` I have you in mine."`
+char_non: `".............................."`
+char_non: `The Gospel Director told me that I mustn't try to {y:1:‘see’}{n:1:"see"} evil beings.`
+char_non: `If you {y:1:‘see’}{n:1:"see"} them, they will haunt you.`
+char_non: `Now that I understood this witch, a bond had been formed between us.`
+char_bea: `"That is correct.`
+char_bea: ` Now that you have acknowledged my existence, I have formed a bond with you.`
+char_bea: ` ......After all the years I have spent in boredom, it will be nice to have someone to talk to, even a child as young as you."`
+char_non: `"I'll talk to you from time to time.`
+char_non: ` So, will you stop pulling pranks like this?"`
+char_bea: `"No, I won't be here to talk to you, but to play with you!`
+char_bea: ` *cackle*cackle*. And if we're playing, pranks are just part of the game, right?"`
+char_non: `"................................."`
+char_bea: `"Heheh.`
+char_bea: ` ......Very well.`
+char_bea: ` I've had enough fun for one day.`
+char_bea: ` The sun has sunk and the moon is full.`
+char_bea: ` I am tired after appearing in front of you for so long.`
+char_bea: ` Let us call it a night.`
+char_bea: ` That single broom provided me a great deal of entertainment...!"`
+char_non: `"Please, give it back."`
+char_bea: `"No.`
+char_bea: ` I will keep this as a token of our meeting.`
+char_bea: ` I assume that you will be fine with this?"`
+char_non: `"......If I said I'm not, would you give it back to me?"`
+char_bea: `"I never listen to {y:0:Human}{n:0:human}s!`
+char_bea: ` .........However, I might lend an ear to a friend."`
+char_non: `"......If you give it back, ......I'll acknowledge you as a friend."`
+char_bea: `"*cackle*cackle*cackle*...!`
+char_bea: ` Foolish {y:0:Human}{n:0:human}, was that your idea of an attractive proposal...?!`
+char_bea: ` ......If you want to make a deal with me, try drawing a mysterious magic circle or two!`
+char_bea: ` .........And yet, I might be willing to consider your offer."`
+char_non: `"What do you mean, you might...?"`
+char_bea: `"I shall take my time in deciding whether you are worthy to be my friend.`
+char_bea: ` ......After all, witches are like demons!`
+char_bea: ` If you ask us for an answer, we will never give one right away.`
+char_bea: ` *cackle*cackle*!"`
+char_non: `".........Alright.`
+char_non: ` Then, .........I'll leave the small broom with you.`
+char_non: ` Please give it back when you decide to become my friend."`
+char_bea: `"Very well.`
+char_bea: ` Will this broom become a bridge of friendship between us, or not?`
+char_bea: ` ......I will hang onto it for now, making my decision in my own good time."`
+char_non: `When the witch snapped her fingers, the broom for which I had searched so long fell out of a hole in the air,`
+char_non: ` landing between the fingers she had just snapped...`
+char_bea: `"This is goodbye.`
+char_bea: ` ......This game with you was far from boring.`
+char_bea: ` Let us play again sometime."`
+char_non: `"If you're my friend, that is."`
+char_bea: `"When a cat toys with a mouse, does it try to become friends with it first?`
+char_bea: ` *cackle*cackle*, ahaha{0}ha{0}ha{0}ha{0}ha{0}ha{0}ha{0}haa!!"`
+char_non: `The witch faded away......`
+char_non: `{n}As she did, my mind's eye slowly closed......`
+char_non: `When I returned to my body, I felt suddenly tired and let out the breath I'd been holding.`
+char_non: `......Of course, when I turned around, there was no one to be seen.`
+char_non: `I couldn't feel the witch's presence anywhere anymore.`
+char_non: `{n}It had gotten very dark by this time.`
+char_non: `I decided to leave the chapel.`
+char_non: `{n}There's no point in searching for the small broom any longer.`
+char_non: `......Not until the witch decides to give it back.`
+char_non: `I went out of the chapel.`
+char_non: `The chapel key had been left in the lock.`
+char_non: `{n}I used it to lock the door.`
+char_non: `............What am I going to do about the small broom?`
+char_non: `There's nothing I can do.`
+char_non: ` I can't even blame the witch.`
+char_non: `I must acknowledge that I'm responsible for giving the witch a chance...`
+char_non: `"..............................nn—"`
+char_non: `I happened to glance downwards......and saw a small broom lying there by my feet.`
+char_non: `It was the broom I had been searching for all this time.`
+char_non: `......Don't tell me...`
+char_non: `that it'll be swallowed up by a dark hole the instant I bend over to pick it up...?`
+char_non: `No.`
+char_non: ` This is...a sign from the witch.`
+char_non: `A sign that she acknowledges me as a friend.`
+char_non: `I picked it up.`
+char_non: `Oh, I am one yet many.`
+char_cur: `"The first friend I made after coming to the island was apparently not a {y:0:Human}{n:0:human} at all.`
+char_cur: ` However, when I think back on it, it was only natural.`
+char_cur: ` What other sort of friend would you expect to make on a witch's island?`
+char_cur: ` This was the first meeting between me and {f:5:Beatrice}."`
+char_cur: `"......However, as the more perceptive among you may have noticed, this was not a meeting with the real {f:5:Beatrice}.`
+char_cur: ` The witch I then called {f:5:Beatrice} would later be known by another name."`
+char_cur: `"......However, the fact remains that she was clearly not human.`
+char_cur: ` And being bonded with one who is not human means being bonded with their world.`
+char_cur: ` I still had no means of knowing the strange fate that awaited me on Rokkenjima......"`

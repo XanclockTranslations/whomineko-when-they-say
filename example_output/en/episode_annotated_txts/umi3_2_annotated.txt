@@ -1,0 +1,856 @@
+char_but: `"...Six years ago, you say?`
+char_but: ` I mean, six years, that's like the whole of elementary school, isn't it?`
+char_but: ` It's pretty unfair to ask me to remember, don't you think?"`
+char_geo: `"I agree.`
+char_geo: ` Especially since we were so young; we've grown a lot in these six years.`
+char_geo: ` Actually, if we hadn't been introduced, maybe we wouldn't have been able to remember you."`
+char_jes: `"You think?`
+char_jes: ` I knew it was Battler right away.`
+char_jes: ` After he opened his mouth, I was even more sure."`
+char_mar: `"Uu.`
+char_mar: ` I met him for the first time.`
+char_mar: ` Don't know about six years ago."`
+char_sha: `"That's natural.`
+char_sha: ` You were only three, after all."`
+char_but: `"When you say it like that, I'm the same.`
+char_but: ` I only knew Maria when she was three years old, and since she's grown so big, yeah, no wonder I didn't recognize her."`
+char_non: `After lunch, we had all gone out to the beach to walk around, talk and take it easy enjoying ourselves.`
+char_non: `Our parents appeared somehow on edge, and seemed to have things to catch up on, so we had decided to leave our seats.`
+char_non: `...Just as you'd expect, since it had been six years, the conversation focused on me.`
+char_geo: `"Still, you've really gotten taller.`
+char_geo: ` I won't call myself short, but anyway, your height surprised me."`
+char_sha: `"That's right. I remember well what Battler‐sama was like six years ago, but I was surprised even so."`
+char_jes: `"Totally.`
+char_jes: ` I could never have imagined this from how Battler looked six years back."`
+char_but: `"I'm surprised at how everyone remembers so much about six years ago.`
+char_but: ` My memory's all hazy."`
+char_jes: `"Not surprised.`
+char_jes: ` I mean, you seemed to take a while even remembering us.`
+char_jes: ` That hurts a bit, ya know?"`
+char_but: `"Come on, this was six years ago, right?`
+char_but: ` It's ridiculous to ask me to remember...!"`
+char_sha: `"...So, you can't remember things that happened six years ago very well?`
+char_sha: ` I can remember as clearly as if it was yesterday..."`
+char_geo: `"That's because your memory is good, Shannon.`
+char_geo: ` I bet you remember well what kind of things Battler‐kun did and said six years ago, don't you?"`
+char_jes: `"Come to think of it, that's right.`
+char_jes: ` Shannon's memory is surprisingly good when it comes to certain things."`
+char_mar: `"Uu.`
+char_mar: ` I'm crappy at remembering.`
+char_mar: ` Remember fun stuff well but horrible at boring stuff.`
+char_mar: ` Uu."`
+char_non: `We all laughed, saying that everyone was like that.`
+char_jes: `"Shannon.`
+char_jes: ` By the way, what was Battler like six years ago?`
+char_jes: ` Remember any interesting episodes?"`
+char_sha: `"Let's see.`
+char_sha: ` ......I'm sure that he said something like this when he left.`
+char_sha: ` "I'll be back... <See you again>.`
+char_sha: ` I'll come for you riding a white horse.""`
+char_but: `"Gyaaaaaaaaaaaaaaaaaaaahhh,`
+char_but: ` doooooooon't, so embarrassiiii{-}i{-}i{-}i{-}i{-}iiing!!"`
+char_jes: `"Gyaaah‐hah‐hah‐hah‐hah‐ha!!"`
+char_jes: `"I bet he did, I bet he did!`
+char_jes: ` That's exactly what he was like, six years ago he was always full of those stupid lines!"`
+char_jes: `"Waaahahahahaha!!"`
+char_geo: `"Hahahaha.`
+char_geo: ` It really does sound like something Battler‐kun would have said back then."`
+char_mar: `"Uu.`
+char_mar: ` Embarrassing? Embarrassing?"`
+char_but: `"......Yeah.`
+char_but: ` Horribly embarrassing..."`
+char_but: `"Maria, I'm sure that when you are in middle school, you'll want to say embarrassing things like that...`
+char_but: ` When that happens, write it on the back of some leaflet first, and read it three times before you decide to say it out loud.`
+char_but: ` If you don't, you'll definitely regret it..."`
+char_but: `"Still, everyone has to pass through that painful period...`
+char_but: ` That's right, that's how you know your place, learn shame, and become an adult.`
+char_but: ` Yes, this is a memory I want to disappear, the bittersweet kind of thing that everyone does in adolescence as they transition to becoming adults...`
+char_but: ` Aaaaarrggh..."`
+char_non: `You see, I tend to let my mouth run wild without thinking too much, so I don't remember all the details of everything I say.`
+char_non: `But when the contents are recited back to me afterwards, it's always something extremely embarrassing.`
+char_non: `In recent years, I have finally come to understand this weakness, and have been working hard to refrain from such careless outbursts, but......`
+char_non: `...It seems I was just born with the habit of speaking without thinking, and there isn't a whole lot I can do about it.`
+char_jes: `"Shanno~n, do you remember any other embarrassing things?"`
+char_sha: `"Yes, well... I remember various other things, but...`
+char_sha: `......since it looks like the person in question wants to forget them, I think I will refrain from saying any more..."`
+char_but: `"To be blunt, there's nothing else I remembe~r.`
+char_but: ` Please don't remind meeee."`
+char_mar: `"...Uu.`
+char_mar: ` Shannon's bullying Battler...?`
+char_mar: ` Uu.`
+char_mar: ` Bad.`
+char_mar: ` Bullying is bad."`
+char_geo: `"Hahahahaha. She isn't really bullying him.`
+char_geo: ` Let's leave it at that, okay?"`
+char_geo: `"But Shannon, you'll have tell me all about it sometime Battler‐kun isn't around.`
+char_geo: ` It sounds pretty interesting."`
+char_sha: `"Yes, certainly."`
+char_but: `"N‐noooo, you can't, Shannon‐chaaaaaaaaaan...!!"`
+char_non: `For a while, George‐aniki teased me by pretending to ask Shannon‐chan for more of my embarrassing misspeaks.`
+char_non: `George‐aniki was messing around teamed up with Shannon‐chan,`
+char_non: ` ......but he seemed, how to describe it, very candid and frank.`
+char_non: `He was always frank with his cousins, but he usually took on a reserved, gentlemanly attitude when he came in contact with the servants.`
+char_non: `...When I thought about it, I got the feeling that he was acting a little overly familiar, which seemed slightly weird.`
+char_non: `Maria started scribbling in the sand with a stick,`
+char_non: ` and George‐aniki and Shannon‐chan joined in, which left me and Jessica off to the side, so I asked her secretively.`
+char_but: `"......Hey, Jessica.`
+char_but: ` Is George‐aniki, ......umm, going out with Shannon‐chan?"`
+char_jes: `"Ooooh?`
+char_jes: ` What the, how did you notice?!`
+char_jes: ` Battler, you've got more of an eye for people than I thought."`
+char_but: `"Huh, ...whaaaaaaah?!`
+char_but: ` I was just kidding— They're actually going out?!"`
+char_jes: `"Shhh!`
+char_jes: ` Your voice is too loud!`
+char_jes: ` ...They are actually keeping it secret for now, apparently, alright?`
+char_jes: ` It'd be better if nobody heard about it, especially Auntie Eva."`
+char_but: `"I, I see...`
+char_but: ` Love with a servant..."`
+char_but: `"...Y‐yeah, but, since when?`
+char_but: ` Wowww, a lot can happen in six years......`
+char_but: ` But still, Aniki really is talented, and Shannon‐chan is kind and spirited...`
+char_but: ` ......They might be a pretty good match."`
+char_non: `Actually, six years ago, I remember taking notice of her just a little bit.`
+char_non: `So that's how it is... She really fits well with George‐aniki... Nothing I can do about that.`
+char_non: ` ...Goodbye, my fleeting first love of six years ago...`
+char_non: `.........Which means that...my collection of embarrassing lines that Shannon‐chan just held back on...`
+char_non: `...probably has something to do with that...`
+char_non: ` Aaaaaaaaaaarrghh, I can't take it...`
+char_but: `"How long have they been going out?"`
+char_jes: `"That depends on what you call going out, but I'd say it's definitely been at least a year.`
+char_jes: ` If you count the time before either of them confessed, it'd be several years, I guess."`
+char_non: `Before I'd realized it, the two of them had separated themselves from the group, and were walking down the beach, talking about something.`
+char_non: `......They looked calm,`
+char_non: ` and rather than a light relationship between two lovers, it looked like a more serious relationship, as though they were already engaged.`
+char_but: `"......Six years...`
+char_but: ` That's a long‐ass time."`
+char_but: `"What did these six years mean to me?`
+char_but: ` I've just gotten taller.`
+char_but: ` It was just a waste of time, six years I spent obstinately fighting with my dad."`
+char_jes: `"What about you, Battler?`
+char_jes: ` Have you gotten a girlfriennnd?"`
+char_but: `"Hmm, I wonder.`
+char_but: ` There's a lot of girls that I play with.`
+char_but: ` But I don't have that "special one" yet.`
+char_but: ` ......I'm probably just a kid.`
+char_but: ` I think it's more fun to be noisy with a large group of people than being alone with one person."`
+char_jes: `"Aah, that's so you, Battler.`
+char_jes: ` But take your relationships with your female friends seriously."`
+char_jes: `"Girls can be scary with their communities and their wrong impressions, okay?`
+char_jes: ` There could be some secret feud going on over you, and someone might be crying or being hurt without you noticing it, you know?"`
+char_but: `"That's so weird.`
+char_but: ` I think I got the same bit of advice from one of the girls in my class just last week.`
+char_but: ` ......What's with that?`
+char_but: ` Why can't we all have fun together?`
+char_but: ` Do they all really want to find a special person that badly?"`
+char_jes: `"...It's probably because you've never had a partner like that, Battler.`
+char_jes: ` Well, you'll probably run into a girl like that at some point.`
+char_jes: ` Just gotta wait it out!"`
+char_but: `"What?`
+char_but: ` It sounds almost like you've already found a partner like that.`
+char_but: ` What about you?`
+char_but: ` Have you gotten a boyfriend?"`
+char_jes: `"Huh?!`
+char_jes: ` M‐me?!`
+char_jes: ` No, err, wahahahahaha......"`
+char_but: `"Come on, that reaction's so easy to understand...`
+char_but: ` From the looks of it, there's some boy who you're thinking about, but you haven't been able to confess that to him yet, something like that."`
+char_jes: `"N‐no, umm, that's not, umm, uh!`
+char_jes: ` C‐cram it, jackass, who cares about me...!"`
+char_but: `"You're the one who brought up this subject, why do you have to go and get mad at me?`
+char_but: ` Women are creatures who always ask questions, and yet, they almost never answer them.`
+char_but: ` What cruel creatures, seriously."`
+char_jes: `"......W‐well, okay, umm.`
+char_jes: ` ...I did try...`
+char_jes: `...to confess once.`
+char_jes: ` Well, umm, I struck out pretty badly."`
+char_but: `"Did they say "Sorry"?"`
+char_jes: `"No, umm, ......`
+char_jes: `...well, umm, it was really one‐sided and they were just, like, taken aback, I guess...`
+char_jes: ` It was like they didn't even view me that way."`
+char_but: `"I can understand that.`
+char_but: ` You talk just like a man.`
+char_but: ` If you don't act a little more elegant, you won't be able to entice a man's heart, you know?"`
+char_jes: `"I‐i‐is it really...`
+char_jes: ` ......Is the way I speak...`
+char_jes: `...really that bad?"`
+char_but: `"...Hmm?`
+char_but: ` Well, uhh, how you talk isn't everything, but if someone like you, who usually talks badly,`
+char_but: ` suddenly started making an effort to talk nicely, umm, that takes courage, and that might really get some guys' hearts thumping, maybe."`
+char_jes: `"R‐really...?`
+char_jes: ` I see......`
+char_jes: ` ......Yeah..."`
+char_non: `Jessica had suddenly started speaking meekly, and was faintly blushing.`
+char_non: `...I see, even though her confession didn't go well, it looks like she still hasn't given up.`
+char_non: `But yeah...I totally get that.`
+char_non: ` After seeing how close George‐aniki and Shannon‐chan have gotten, it's no wonder she'd start wanting a boyfriend.`
+char_non: `Six years.`
+char_non: ` ...Those six years of puberty are pretty important, and they go by so fast.`
+char_non: `With the typhoon approaching, the clouds had grown steadily grayer, and yet, even so, I had this really refreshing feeling.`
+char_non: `...Maybe I'll start thinking more seriously about the opposite sex, more than just the size of their boobs...`
+char_but: `"By the way,`
+char_but: ` I know George‐aniki is going out with a servant, Shannon‐chan.`
+char_but: ` ......Not you as well, right?"`
+char_jes: `"Huh, ...eeeeeeh?!?!`
+char_jes: ` Wh‐wh‐wh‐wh‐why do you think that...?!"`
+char_but: `"Come to think of it, that young kid Kanon‐kun, who greeted us in the rose garden.`
+char_but: ` You covered for him quite a bit just considering he was bad at talking, didn't you?"`
+char_jes: `"N‐no, that's not...`
+char_jes: ` Wahahahaha, you're too suspicious...!!"`
+char_but: `"Then tell me just this one thing.`
+char_but: ` Right now,`
+char_but: ` is the boy you're after somewhere within one kilometer?"`
+char_jes: `"W‐well, that's, umm, ...I, I, I dunno..."`
+char_non: `Kanon‐kun is the only boy on this island now who could possibly become her boyfriend.`
+char_non: ` So judging by her reaction, I'm probably right on.`
+char_non: `I don't think of the Ushiromiya family as a noble family, but...two people in love with servants...`
+char_non: ` I'd never have dreamed that two pairs of Romeo and Juliet would be right next to me...`
+char_non: `Auntie Eva will probably become an obstacle to George‐aniki and Shannon‐chan's love.`
+char_non: `If Auntie Eva learns that the partner of her only son, the apple of her eye, is {i:Shannon‐chan},`
+char_non: ` she'll probably scream at her with cries of wretched servant, homewrecker, and so forth.`
+char_non: `And a relationship between Jessica and Kanon‐kun would probably be just as full of difficulties.`
+char_non: `{n}Aunt Natsuhi also seemed the type to be strict about that kind of thing.`
+char_non: `......After all, Jessica's husband would probably become the head of the Ushiromiya family in the future.`
+char_non: ` If that person had once been a servant working for the family, ......well, no doubt things would be complicated.`
+char_but: `"Well, everyone finds their own way in love.`
+char_but: ` Who cares, as long as you find someone you enjoy being with?"`
+char_but: `"Being with someone doesn't require any permission as long as the two people accept each other.`
+char_but: ` If you worry about your parents or your family, then you lose.`
+char_but: ` Don't forget that.`
+char_but: ` You can't go out with someone with half‐hearted feelings."`
+char_jes: `"...Heh...`
+char_jes: ` I can't believe you're saying something so philosophical‐sounding when you've never ever been in love."`
+char_but: `"Don't treat love like a matter of profit and loss.`
+char_but: ` It's about <heart>.`
+char_but: ` That's all I want to say.`
+char_but: ` Well then,`
+char_but: ` <see you again, have a nice day>."`
+char_jes: `"......Pf,`
+char_jes: ` ...wahhahhahahahahahahahahaha!!`
+char_jes: ` George nii‐san, Shanno~n, listen, listennn!`
+char_jes: ` This guy, he's said another one of those lines!!"`
+char_but: `"I didn't say anything, I didn't say anything!!`
+char_but: ` Waaah, don't make fun of me, don't make fun of me!!"`
+char_mar: `"I heard, I heard!`
+char_mar: ` <See you aga~in>, <see you aga~in>!!"`
+char_non: `For a while, we forgot about the wind getting stronger, and played around on the beach.`
+char_non: `......This meeting with my cousins, who had grown so much over these last six years and were thoroughly enjoying their youth, felt truly refreshing.`
+char_non: `......It was a little late now, but I realized that I should have buried the hatchet a lot sooner, and returned to the Ushiromiya family...`
+char_but: `"It sure is nice to spend time together as cousins every once in a while..."`
+char_mar: `"Uu!`
+char_mar: ` I like it with all the cousins together, it's funnn!"`
+char_but: `"That's right.`
+char_but: ` We're already old enough.`
+char_but: ` It's not like we couldn't meet each other when our parents aren't around.`
+char_but: ` ...It might not be a bad idea for just us cousins to meet up and play every once in a while."`
+char_geo: `"That's a good plan.`
+char_geo: ` Maybe we should set up something like that someday."`
+char_jes: `"I agree.`
+char_jes: ` I'd like for us cousins at least to always be friendly with each other."`
+char_but: `"Hey, hey, if you put the emphasis there, doesn't that make it sound like our normal families don't get along well?"`
+char_geo: `"Hahahahahaha."`
+char_non: `George‐aniki and Jessica laughed, but it felt just a little strained.`
+char_non: ` ...Did I say too much?`
+char_non: `Judging by how our parents had made quiet expressions and tired faces every once in a while during the boat ride and at the airport, maybe that was something I shouldn't have said.`
+char_but: `"...That's right.`
+char_but: ` Just like Jessica said.`
+char_but: ` Let's always be friendly with each other."`
+char_mar: `"Uu!`
+char_mar: ` Me too!`
+char_mar: ` Everyone friendly!!"`
+char_geo: `"That's right.`
+char_geo: ` Yeah.`
+char_geo: ` We'll always be together.`
+char_geo: ` We'll always be friendly."`
+char_jes: `"Heheh.`
+char_jes: ` Man, we've been saying some pretty embarrassing stuff.`
+char_jes: ` I feel kinda awkward."`
+char_sha: `"But I think that is very important.`
+char_sha: ` It's very hard for people to always be friendly, let alone always be together, unless they wish for it."`
+char_geo: `"That's right.`
+char_geo: ` You really can't take everyone being friendly for granted."`
+char_mar: `"Uu.`
+char_mar: ` A witch I know said it.`
+char_mar: ` Happiness won't be granted unless everyone believes in it."`
+char_geo: `"That's true.`
+char_geo: ` Maybe some magic exists in the power of belief.`
+char_geo: ` If we all believe in that, I'm sure it will bring us happiness."`
+char_jes: `"Alright.`
+char_jes: ` Now the next embarrassing thing.`
+char_jes: ` Let's all swear to believe together, alright?`
+char_jes: ` That we'll all always be friendly, that we'll always be happy."`
+char_non: `Screw becoming like our parents.`
+char_non: `Searching for each other's weaknesses, going after Grandfather's fortune, screw all that forever...`
+char_but: `"Alright!`
+char_but: ` We'll always be friendly and happy.`
+char_but: ` And let's all believe that."`
+char_non: `No matter how long it had been, or how much fun we were having, it didn't stop the dark clouds from approaching Rokkenjima.`
+char_non: `......I wonder if the typhoon will pass and show us the refreshing sky before we leave this island.`
+char_non: `Who gives a crap about what our parents are plotting?`
+char_non: `{n}Who gives a crap about the inheritance and the honor of our old family?`
+char_non: `We're so young, and renewing our old friendship.`
+char_non: `{n}And every one of us believes together that we can all be happy.`
+char_non: `So...`
+char_non: `I want this day to end,`
+char_non: ` without anything weird occurring,`
+char_non: ` in peace and happiness,`
+char_non: ` calmly...`
+char_non: `No, ...not "I want it to end".`
+char_non: `{n}......Please, let it end......!`
+char_bea: `"In your dreeeeeeeeeeeams!`
+char_bea: ` Kyah‐hahah‐hah‐hah‐haha{0}ha{0}ha{0}ha{0}ha{0}ha{0}ha{0}hahaha!!"`
+char_but: `"Damn iiiiiiiit!!`
+char_but: ` Don't show up, don't appear!!`
+char_but: ` Damndamndaaamn!!"`
+char_bea: `"Sorry to keep you waiting.`
+char_bea: ` The new game has finally been prepared."`
+char_bea: `"Come, let us begin this tale of tragedy!`
+char_bea: ` Come to me, rain, winds, typhoon!`
+char_bea: ` Cut this island off from the real world!!`
+char_bea: ` Throw Rokkenjima into another world, into the netherworld, into a world of fantasy!"`
+char_non: `And so, the tale repeated for the third time.`
+char_non: `However, before the Endless Witch,`
+char_non: ` what point was there in counting one, two, three?`
+char_non: `There was probably no point at all.`
+char_non: `After all, this tale of fantasy would be repeated endlessly, until the match was settled, and either Battler or the witch surrendered.`
+char_non: `And the sky grew dark and cloudy, the rain and wind were summoned together and became a typhoon...`
+char_non: `And Maria could be seen in the rose garden, paying no mind to the rain that had started falling,`
+char_non: ` going around in circles, searching for that single rose which she had surely marked......`
+char_mar: `".........Not here...`
+char_mar: ` Not here......`
+char_mar: ` The rose we marked,`
+char_mar: ` ......my rose isn't here...`
+char_mar: ` ......Uu.`
+char_mar: ` ............Uu!!"`
+char_non: `Maria definitely remembered it.`
+char_non: `That rose had been in the flower bed right here.`
+char_non: ` And yet, it wasn't.`
+char_non: `She didn't know what to do with her irritation at not being able to find something which should have been there,`
+char_non: ` and, moaning bitterly, she couldn't help but keep going back and forth in circles around the same spot.`
+char_non: `She was acting almost as though she would be able to see it if she looked at a different angle,`
+char_non: ` but try as she might, there was no way she would find something that wasn't there...`
+char_non: `The wind grew increasingly stronger, and the rain turned into cold, large drops.`
+char_non: `{n}There was no way Maria wasn't bothered by this.`
+char_non: `However, if she couldn't find her rose here, it would surely disappear forever.`
+char_non: `...Maria believed that.`
+char_non: ` That feeling spurred her on to keep searching for a rose that she had no chance of finding...`
+char_non: `Just then, the cold drops of rain that were tormenting Maria were suddenly blocked.`
+char_mar: `"..................Uu?"`
+char_non: `Maria raised her head.`
+char_non: ` ...When she did, she saw that an umbrella was opened there, protecting her from the rain...`
+char_non: `And the one holding out that umbrella was...`
+char_non: `......the witch she admired, {f:5:Beatrice}.`
+char_mar: `"{f:5:Beatrice}...!!"`
+char_bea: `"What are you doing so frantically in the middle of all this rain?`
+char_bea: ` You could catch a cold like this.`
+char_bea: ` Even witches have to care for their own health."`
+char_mar: `"My...`
+char_mar: ` ...My rose...`
+char_mar: ` I can't find it...`
+char_mar: ` ......Uu.`
+char_mar: ` No matter how many times I search,`
+char_mar: ` ......even though it was definitely here,`
+char_mar: ` ...can't find it..."`
+char_non: `Maria told {f:5:Beatrice} about how there had been a slightly unhealthy, pitiful rose,`
+char_non: ` and that she was sure they had marked it.`
+char_bea: `"Hohoh.`
+char_bea: ` And you can't find it.`
+char_bea: ` .........If you are a witch apprentice, you should use magic to search for the rose.`
+char_bea: ` I believe that as long as you search with merely your eyes, it won't be nearly enough."`
+char_mar: `"......Uu.`
+char_mar: ` ......Can't find it.`
+char_mar: ` ...I did my best, and tried to search with magic, but can't find it..."`
+char_bea: `"While this is certainly ideal for practicing your magic, it might be a little too much for you with all of this wind and rain.`
+char_bea: ` ......Allow me to lend you some special power.`
+char_bea: ` Concern for one's disciples is also among the duties of a master."`
+char_mar: `"Tha‐...thank youuu.`
+char_mar: ` {f:5:Beatrice}!!"`
+char_non: `Maria's face, which had been full of sadness until just now, split open into a grin.`
+char_non: `Maria knew.`
+char_non: ` She knew that there was nothing {f:5:Beatrice}'s magic couldn't do.`
+char_non: `So she was sure that {f:5:Beatrice} would easily be able to find the rose that she couldn't find herself...`
+char_non: `{f:5:Beatrice} closed her eyes lightly, acting as though she was listening for something in all this wind and rain.`
+char_non: ` Then she heard it, opened her eyes, and spoke.`
+char_bea: `"............Hmm.`
+char_bea: ` All things in this world are transitory.`
+char_bea: ` It is unfortunate, Maria.`
+char_bea: ` ...It seems that your rose couldn't withstand all of this wind and rain."`
+char_mar: `"Uu......`
+char_mar: ` Then, my rose is.........?"`
+char_bea: `"It was uprooted by the wind, and is no longer of this world."`
+char_mar: `"..................Uu......"`
+char_non: `What {f:5:Beatrice} had said was certainly plausible.`
+char_non: ` ...There was nothing odd about the flower being broken off at the stem in this strong wind.`
+char_non: `...However, Maria couldn't accept this, and bitterly gave a low‐pitched moan...`
+char_mar: `"...............No."`
+char_bea: `"Hoh?"`
+char_mar: `"......No no no!`
+char_mar: ` It's my rose!!`
+char_mar: ` My rose has to come back!`
+char_mar: ` I'll bring it back to life with my magic."`
+char_mar: `"{f:5:Beatrice}, teach me how to revive a rose with magic...!!"`
+char_bea: `"Ha!`
+char_bea: ` It's much too early for an apprentice like you to learn the hidden art of Endless Magic.`
+char_bea: ` Know your place."`
+char_mar: `"..................Uuuu."`
+char_non: `Maria wiped the tears from her eyes, full of regret.`
+char_non: `Seeing that expression, which so invited pity, {f:5:Beatrice} shrugged her shoulders and chuckled.`
+char_bea: `"Very well.`
+char_bea: ` I will lend you power for the hidden art that can revive a rose."`
+char_mar: `"Really?!"`
+char_bea: `"Yes.`
+char_bea: ` ......Well then, concentrate the power of your heart.`
+char_bea: ` Close your eyes, forget the rain, forget the wind, search for the soul of the wandering rose with the eyes of your heart."`
+char_mar: `"......Uu."`
+char_non: `Maria closed her eyes.`
+char_non: `{n}Then, she repeated {f:5:Beatrice}'s poem‐like words...`
+char_bea: `"Come, try to remember.`
+char_bea: ` Rose, what form did you have?"`
+char_mar: `"...Come, try to remember.`
+char_mar: ` Rose, what form did you have...?"`
+char_bea: `"Don't look.`
+char_bea: ` Don't listen.`
+char_bea: ` And believe.`
+char_bea: ` ......Release the power of your soul from the cage of flesh that imprisons it.`
+char_bea: ` ............That's it.`
+char_bea: ` ......Good..."`
+char_non: `Around Maria, who was concentrating her power, her eyes tightly shut, small golden butterflies began to dance.`
+char_non: ` ......Was this the manifestation of the magical power Maria held?`
+char_bea: `"Lost soul of the rose.`
+char_bea: ` Gather into one, and remember your form.`
+char_bea: ` ......Come, gather, remember..."`
+char_non: `The glitter of the gold butterflies began to strengthen, and their numbers increased; then, {f:5:Beatrice} raised a finger up to the skies, and they began to gather at the tip of that finger...`
+char_non: `This was the miracle of the golden magic...`
+char_non: `And the gold butterflies began to condense into a single dazzling grain of gold.`
+char_non: ` ......It was a single seed, glittering gold.`
+char_non: `It sat on the tip of {f:5:Beatrice}'s finger, budded into a golden sprout, and opened into a golden leaf.`
+char_non: ` It then slowly fell from that fingertip, sank into the mud of the flower bed, and began to grow steadily...`
+char_non: `...Maria, who admired magic and witches, must have really wanted to see this fantastical sight.`
+char_non: `However, as an apprentice, Maria was still not qualified to see it.`
+char_non: `...No, she was probably afraid that, if she opened her eyes to look, the power of her heart's concentration would be interrupted, and the magic would be lost.`
+char_non: `Therefore, it was {f:5:Beatrice}, the one permitted to lay eyes on that golden miracle,`
+char_non: ` who was the one and only witch, and the master of many miracles...`
+char_non: `Then, the fully grown rose bloomed, creating one golden flower.`
+char_non: `And when {f:5:Beatrice} poked it with her finger in just the right way,`
+char_non: ` the gold‐colored sparkles scattered, just as if a golden soap bubble had popped, and what remained was a single beautiful rose.`
+char_bea: `"...Mmhm.`
+char_bea: ` It looks like you've remembered a splendid rose."`
+char_bea: `"......However, if we just leave it mixed in with these other roses, you won't be able to tell it apart.`
+char_bea: ` Shall I perform one last service?"`
+char_non: `{f:5:Beatrice}, for the sake of her cute apprentice witch who was moaning even more now in concentration,`
+char_non: ` decided to cast one more little spell.`
+char_non: `She snapped her fingers, and a single gold butterfly appeared, fluttered around, and landed on the flower that had just been revived.`
+char_non: `Then it suddenly burst open and disappeared, becoming golden lace and marking the rose...`
+char_bea: `"That is sufficient.`
+char_bea: ` ......Maria.`
+char_bea: ` You may open your eyes now."`
+char_mar: `".........Uu?`
+char_mar: ` Where's the rose?`
+char_mar: ` Not here.`
+char_mar: ` Not here."`
+char_bea: `"Not over there, over here.`
+char_bea: ` ...Look.`
+char_bea: ` I have marked it with golden lace."`
+char_mar: `"Wow... You did...!!`
+char_mar: ` Awesome awesome awesome awesome!!`
+char_mar: ` Thank you Beato, thank you Beato!!`
+char_mar: ` I want to become a witch quickly, a Great Witch like Beato!!"`
+char_bea: `"And you can.`
+char_bea: ` Long ago, I too wished for that innocently, just as you do, and I have attained that level."`
+char_non: `Maria was ecstatic over the revived rose, clapping her hands and jumping around in joy.`
+char_non: `...Watching that, {f:5:Beatrice} also smiled, looking fairly pleased.`
+char_non: `Now, if I try, I can break or repair any soul, not just that of a rose, and kill and revive as I please.`
+char_non: `So, the barrier created by the storm has closed Rokkenjima off from the real world.`
+char_non: `Now is the time for the Golden Witch, the Endless Witch, {f:5:Beatrice} to descend.`
+char_non: `{f:5:Beatrice} pulled from her pocket an envelope with the family crest, the One‐winged Eagle, and gave it to Maria.`
+char_non: `Maria frolicked around at being selected to be the witch's messenger.`
+char_bea: `"So, Kinzo.`
+char_bea: ` I've come to join in on your fun once again...`
+char_bea: ` My preparations are already complete.`
+char_bea: ` What about you?`
+char_bea: ` I assume you have prepared enough coins to bet in tonight's game...?"`
+char_kin: `"Naturally, I am fully prepared, {f:5:Beatrice}...!!`
+char_kin: ` I have prepared pieces in abundance.`
+char_kin: ` I am ready both physically and mentally!"`
+char_kin: `"So, let me pay the ante.`
+char_kin: ` All that you have given should be returned to you in the end.`
+char_kin: ` Now, take it!!"`
+char_non: `Kinzo flung the window of his study wide open, took off the reasonably large golden ring which had been on his finger,`
+char_non: ` and threw it into the darkness of the raging wind and rain...`
+char_non: `That ring was struck by lightning, and after twinkling gold for an instant, disappeared.`
+char_non: `Kinzo watched it go, grinning broadly and fearlessly.`
+char_kin: `"I don't see myself losing.`
+char_kin: ` You are mine.`
+char_kin: ` Forever!!"`
+char_non: `The ring that Kinzo had thrown became a single gold butterfly, and fluttered around in the wind and rain.`
+char_non: `It headed for the rose garden, almost as though it was being guided there.`
+char_non: `It then found the figure of the Golden Witch, and fluttered down......`
+char_non: `When it arrived right in front of {f:5:Beatrice},`
+char_non: ` it burst in a flash of gold, and returned to its original form of a ring, flipping up into the air.`
+char_non: `It seemed as if it would simply fall back down into a puddle of water, but suddenly it stopped in midair.`
+char_non: ` ...Almost as if some transparent person had caught it.`
+char_non: `Somehow, this seemed unexpected even to {f:5:Beatrice}.`
+char_non: `However, she soon realized what—who—it was, and grinned broadly at it.`
+char_non: `As she did, the figure of the person who had caught the ring began to fuzzily appear...`
+char_non: `It was the figure of a young man wearing a butler's uniform embroidered with the One‐winged Eagle crest...`
+char_non: `There was no man like this among the servants who served the Ushiromiya family.`
+char_non: `{n}Even so, {f:5:Beatrice} laughed as though it was someone she remembered fondly.`
+char_bea: `"Ronove, is it.`
+char_bea: ` ......It's been quite some time.`
+char_bea: ` It seems that you have remembered me.`
+char_bea: ` You always were a man who was serious about loyalty."`
+char_ron: `"It has been a very long time since you last corresponded...`
+char_ron: ` There has not been a single day that I, Ronove, have forgotten that I serve you, Milady."`
+char_ron: `"Indeed, I was more fearful that you had forgotten about me, Milady.`
+char_ron: ` I have, after all, known you to be quite forgetful."`
+char_bea: `"*cackle*cackle*...!`
+char_bea: ` I see, yes, it seems I do forget easily.`
+char_bea: ` I couldn't even remember your wry speech until I heard it again."`
+char_ron: `"For you, Milady."`
+char_non: `With an exaggerated yet elegant gesture, he bowed respectfully,`
+char_non: ` and held out to {f:5:Beatrice} the Head's Ring that he had just caught.`
+char_ron: `"It is the Ushiromiya family Head's Ring, returned to you from Ushiromiya Kinzo.`
+char_ron: ` It is now, once again, in the possession of its master."`
+char_bea: `"Indeed.`
+char_bea: ` The proclamation by Kinzo that the game has started.`
+char_bea: ` I acknowledge receipt."`
+char_ron: `"So, how would you like to play tonight?`
+char_ron: ` Shall I prepare the roulette immediately?`
+char_ron: ` Or shall I prepare some black tea first?"`
+char_bea: `"Both sound attractive, but for now, I suspect I need you to greet someone.`
+char_bea: ` I am quite sure that man has his mouth hanging open and can't shut it.`
+char_bea: ` Right, Battler?"`
+char_ron: `"Greetings.`
+char_ron: ` Allow me to introduce myself.`
+char_ron: ` I am called Ronove, and I serve at the side of Milady {f:5:Beatrice}.`
+char_ron: ` It is truly a pleasure to meet you."`
+char_bea: `"See?`
+char_bea: ` His mouth's hanging open and he can't shut it, right?`
+char_bea: ` *cackle*cackle*!"`
+char_but: `"Isn't that obvious, another incomprehensible guy's just appeared!!`
+char_but: ` I grumbled that goat‐headed people would start doing the Bon dance, and then goat‐heads started showing up in swarms,`
+char_but: ` and since then, not only have those seven sexy‐assed babes appeared, but now even a butler has goddamn shown up!!`
+char_but: ` It doesn't make sense, cut it out!!"`
+char_bea: `"By the way, Battler.`
+char_bea: ` Did you notice?`
+char_bea: ` Have you realized that your meeting him...is a true "Devil's Proof"?"`
+char_but: `"A, a Devil's Proof...?!`
+char_but: ` What do you mean...?"`
+char_bea: `"He may not look like it, but this guy is a genuine demon, with his name amongst the 72.`
+char_bea: ` In other words, I've brought a demon right in front of you, which truly proves that they exist."`
+char_bea: `"*cackle*cackle*cackle*cackle*!!`
+char_bea: ` Ronove holds a noble rank in Hell, the 27th highest‐ranked Great Demon.`
+char_bea: ` He's a pretty useful man.`
+char_bea: ` I summoned him at high cost and made him serve me."`
+char_ron: `"It is an honor to be introduced to you.`
+char_ron: ` While my name is amongst those of the nobles of Hell,`
+char_ron: ` I now serve as the head furniture of {f:5:Beatrice}‐sama, vulgar {y:0:Human}{n:0:human} and Great Witch from whom even demons would flee in fear."`
+char_bea: `"*cackle*cackle*cackle*cackle*. He's a very useful man, but he is impudent with his words.`
+char_bea: ` It's slightly frustrating that he sometimes forgets to respect his master."`
+char_ron: `"There is nothing in my contract regarding the way in which I must speak.`
+char_ron: ` Would you like to change that contract?"`
+char_bea: `"It doesn't bore me, so it's fine.`
+char_bea: ` *cackle*cackle*!"`
+char_non: `{f:5:Beatrice} turned her back to him, cackling.`
+char_non: `After bowing once to her back, Ronove turned back to Battler and stuck out his right hand, showing off an innocent smile.`
+char_non: ` Normally, this would mean that he was asking for a handshake.`
+char_but: `"......Wh‐...what is this supposed to be?"`
+char_ron: `"I am also one who has been subjected to Milady's whims.`
+char_ron: ` In that sense, I am sure that we could become good friends.`
+char_ron: ` This is a handshake of friendship."`
+char_ron: `"......Of course, it does not mean that you will be entered into a demon's contract, so rest assured."`
+char_but: `"Sorry, but I'm right in the middle of a big fight with your master.`
+char_but: ` I only shake hands with an enemy after one of those situations like you find in teen dramas, when we've beaten each other up in a rainy schoolyard and are all worn out.`
+char_but: ` Remember that."`
+char_ron: `"I see.`
+char_ron: ` Then, to shake hands with you, Battler‐sama, I must create a fitting atmosphere in a suitable location,`
+char_ron: ` and we must exchange body language and sweet words that ring true to the heart.`
+char_ron: ` I will find a suitable opportunity to prepare such a location."`
+char_ron: `"I too looove those kinds of situations, you know?`
+char_ron: ` Pu ku ku ku...!"`
+char_non: `Laughing tauntingly, Ronove whispered that to Battler, with his face so close that their noses were almost touching.`
+char_non: `Battler, his face turning red after getting so close to another of the same sex, pushed him away.`
+char_but: `"Y‐you're a creepy bastard...`
+char_but: ` I see, just right for Beato's butler..."`
+char_ron: `"It is an honor to receive such words of praise.`
+char_ron: ` I am very confident in my tea brewing abilities, so please look forward to tea time.`
+char_ron: ` Baking cookies is one of my hobbies, so I encourage you to have high expectations for the teacakes and such."`
+char_bea: `"Just what I would expect from a pair of the same gender.`
+char_bea: ` You've started to get along well very quickly.`
+char_bea: ` I'm jealous."`
+char_ron: `"My, my.`
+char_ron: ` I apologize most humbly for making you jealous, Milady.`
+char_ron: ` I will not stealthily snatch your guest away from you."`
+char_ron: `"Well then, I will leave for now to greet the rest of the furniture and inform them that I have retaken my post as head furniture.`
+char_ron: ` Please forgive my short absence."`
+char_bea: `"Mmhm.`
+char_bea: ` Only the common goats and the Seven Sisters used for the ritual have manifested themselves.`
+char_bea: ` You will be able to finish up greeting them with ease."`
+char_ron: `"Oh?`
+char_ron: ` Those lively Seven Sisters are here?`
+char_ron: ` I wonder whether those naughty girls have grown a little more graceful?"`
+char_but: `"......Ihihi.`
+char_but: ` If that's graceful, I'd have to doubt the definition of graceful."`
+char_ron: `"Is that so?`
+char_ron: ` It seems that you have already enjoyed some playtime with the Seven Sisters."`
+char_ron: `"Judging by your expression, it seems that they are just as naughty as they were before.`
+char_ron: ` Even though I am always telling them to act more fitting as a group of those who serve {f:5:Beatrice}‐sama.`
+char_ron: ` What troublesome kids..."`
+char_but: `"If that's your problem, don't worry.`
+char_but: ` They actually act perfectly fitting for their master..."`
+char_bea: `"*cackle*cackle*cackle*!`
+char_bea: ` You have started to grow some guts!"`
+char_bea: `"However, to have a conversation is to acknowledge the person you are talking to.`
+char_bea: ` Now that you have started to respond to my idle chatting, that is proof that you are gradually starting to accept my existence."`
+char_but: `"Heh.`
+char_but: ` That's because, even if the sun starts rising from the west, I will definitely, definitely‐definitely, never accept that you're a witch.`
+char_but: ` Maybe if you start crying and kissing my shoes, I might be willing to have a more constructive discussion."`
+char_non: `Even if Battler was bluffing, he still spoke forcefully, a fearless expression on his face.`
+char_non: `The witch and her butler snickered together, realizing that their guest had regained more than enough of his willpower to take on a new game,`
+char_non: ` and that the preparations were complete...`
+char_non: `After Ronove exchanged a few words with {f:5:Beatrice}, he bowed silently to Battler, scattered into gold butterflies, and disappeared.`
+char_bea: `"*cackle*cackle*.`
+char_bea: ` It is truly pleasing when everything gets so lively."`
+char_bea: `"......How boring were those days when I was trapped alone on this island, unable to regain my power and without anyone to talk to."`
+char_but: `"......I get how that creepy‐ass guy is really fitting as your butler."`
+char_but: `"...But tell me.`
+char_but: ` Why has that butler only appeared now?`
+char_but: ` You said something about how only the goats and the seven stake chicks had manifested themselves.`
+char_but: ` What did that mean...?"`
+char_bea: `"Hmm, yes.`
+char_bea: ` You still fight it, but I am a fully fledged witch.`
+char_bea: ` I am in contact with a good many nonhuman entities in the netherworld."`
+char_but: `"I'm sure.`
+char_but: ` None of your contacts are halfway near decent.`
+char_but: ` First some goat monsters, then those sexy‐assed babes, and this time a demon butler's showed up.`
+char_but: ` ......I don't want to say it, but there better not be more and more of these weird guys to come..."`
+char_bea: `"Hahahaha!`
+char_bea: ` How much furniture do you think I have serving at my great golden mansion, how many demons do you think visit me there?`
+char_bea: ` They will keep coming.`
+char_bea: ` They will appear in any number."`
+char_bea: `"When the door to the Golden Land is opened, I will call back all of my furniture, and build my new castle here on Rokkenjima.`
+char_bea: ` Then I plan to invite all of my old friends, and we will drink and dance together for three days and three nights."`
+char_bea: `"......I do also plan to invite Kinzo's family, of course?`
+char_bea: ` You too, if you wish.`
+char_bea: ` *cackle*cackle*...!"`
+char_but: `"......So let me get this straight.`
+char_but: ` Since you'd lost your power, for a long time, you couldn't summon them."`
+char_but: `"...And your magic power has been recovering gradually, so you've become able to summon more and more monsters.`
+char_but: ` Is that what you're trying to say?"`
+char_bea: `"It is as you say.`
+char_bea: ` You have managed to avoid taking that final step off the cliff,`
+char_bea: ` but your heart is already wavering, and you are unable to deny that I am a witch.`
+char_bea: ` That wavering in your heart has slightly restored my power as a witch."`
+char_but: `"So are you saying that creepy butler appeared...`
+char_but: `...because I started to surrender?"`
+char_bea: `"That's right.`
+char_bea: ` Bit by bit, you are surrendering to me...!`
+char_bea: ` You submitted to me so much in the last game that you received all of that humiliation, did you not?"`
+char_bea: `"Your back was truly pleasant for throwing my feet up on, I'll have you know.`
+char_bea: ` *cackle*cackle*cackle*cackle*!!"`
+char_but: `"...D‐`
+char_but: `......dammit.......`
+char_but: ` ...I thought that, as long as I didn't accept you, I'd be able to keep on going.`
+char_but: ` ...But it seems apparently I was mistaken."`
+char_bea: `"That's right.`
+char_bea: ` The closer you get to submitting, the more the game will swing in my favor.`
+char_bea: ` Isn't chess the same?"`
+char_bea: `"In the process of cornering each other's kings, we have traded several pieces.`
+char_bea: ` It is true that I have yet to corner your king."`
+char_bea: `"......However, you have your hands full just enabling your king to escape, and have lost several important pieces to me, and conceded a large advantage.`
+char_bea: ` It is only natural that further advances will lean in my favor."`
+char_but: `"..................Damn........."`
+char_bea: `"As we continue, you will probably still succeed in frantically avoiding my checkmates, if nothing else.`
+char_bea: ` ...However, as you do, I will steal your important pieces from you one by one.`
+char_bea: ` In the end, you will have lost everything but your king, and you will receive a true checkmate, from which you will be denied any form of escape."`
+char_bea: `"......You were talking big last time, weren't you?`
+char_bea: ` Something about how, since you would never accept me, this would be eternal torture that would torment me.`
+char_bea: ` Only witches who have reached the endless level can talk about eternity.`
+char_bea: ` You have never possessed that qualification.`
+char_bea: ` *cackle*cackle*cackle*, hah‐hah‐hah‐hah‐hah‐hah‐hah‐ha!!"`
+char_mar: `"Kinzo‐sama has already publicly displayed the location of the hidden gold within the epitaph under my portrait.`
+char_mar: ` The rules apply equally to all who can read the epitaph.`
+char_mar: ` If you discover the gold, I shall return everything to you."`
+char_mar: `"Tonight, I ask that you enjoy your battle of wits with Kinzo‐sama to the fullest.`
+char_mar: ` I sincerely pray that this night will be both intellectual and elegant.`
+char_mar: ` {nobreak:—{f:5:Beatrice} the Golden}."`
+char_non: `When Maria finished reading the letter that {f:5:Beatrice} had handed her, everyone was at a loss for words for a while.`
+char_non: `And then, they all broke the silence at once...`
+char_nat: `"R‐Ridiculous.`
+char_nat: ` What a worthless, vicious prank!"`
+char_cla: `"I agree wholeheartedly.`
+char_cla: ` There is no way that Father would give up the Head's Ring.`
+char_cla: ` {f:5:Beatrice}?`
+char_cla: ` Ha!`
+char_cla: ` What a transparent prank, hoping that bringing up that name will have us running around like headless chickens."`
+char_rud: `"Come on come on, who's the one behind this dessert packing a little too much punch?`
+char_rud: ` I'll applaud and admire you if you come clean now.`
+char_rud: ` Rosa?"`
+char_ros: `"O‐of course not...!`
+char_ros: ` I wouldn't pull a prank assuming Father's name!"`
+char_rud: `"Then Aneki?!`
+char_rud: ` Aniki?!"`
+char_eva: `"Me?!`
+char_eva: ` Don't be absurd!`
+char_eva: ` It was you, wasn't it?!`
+char_eva: ` Only you could plan something this vulgar!!"`
+char_cla: `"Are you trying to mock me?!!`
+char_cla: ` I'm the one who wants to question you!`
+char_cla: ` Who is behind this ill‐natured prank?!"`
+char_non: `Krauss beat the table and stared at everyone.`
+char_non: `...Since that included the children too, he scared them greatly...`
+char_kir: `"...A letter from a mysterious person who claims to have been given full rights to Father's assets.`
+char_kir: ` And if you think about how this family conference is all about discussing that,`
+char_kir: ` ......I think it's too hasty to call this just a prank."`
+char_hid: `"I wouldn't be so sure.`
+char_hid: ` It really might be one of Father's vulgar pranks...`
+char_hid: ` He might've planned this to shock us a bit, since we've been discussin' the distribution of his inheritance without him..."`
+char_rud: `"If Dad was the one who planned this,`
+char_rud: ` ......then we can't take what Maria‐chan just read aloud as a joke, right...?"`
+char_eva: `"......That's right.`
+char_eva: ` If you interpret the contents literally, ...then this is a test from Father.`
+char_eva: ` The epitaph of the witch has been displayed in the hall for quite some time now, so that any one of us could solve it.`
+char_eva: ` There was plenty of notice.`
+char_eva: ` So he's saying that the first person to solve it will be handed the headship along with all of his wealth, right...?"`
+char_non: `......See? Our magic worked......`
+char_nat: `"Ridiculous, there is nothing of the sort!!`
+char_nat: ` It is an unshakable fact that my husband will become the successor to the Ushiromiya family headship!!"`
+char_eva: `"This letter is the very thing that shakes it!`
+char_eva: ` This letter is a message from the person who was given full rights to {i:all} of Father's wealth!"`
+char_eva: `"Nii‐san's right to become the head has returned to a blank slate.`
+char_eva: ` The person who solves the riddle,`
+char_eva: ` ......the person who finds {f:5:Beatrice}'s gold will become the next head of the Ushiromiya family!!"`
+char_cla: `"Ludicrous...!`
+char_cla: ` Are you going to trust the meaningless words in that letter?`
+char_cla: ` That the seal was the real thing?`
+char_cla: ` How can we possibly trust that!!"`
+char_eva: `"Then let's try going to ask Father directly!`
+char_eva: ` We aren't at the level where you can get away with saying that his mood's bad or that he's not feeling well, you know?!"`
+char_eva: `"The sealed wax clearly shows that this letter was from Father's representative!`
+char_eva: ` If you doubt that, then show some proof, Nii‐san.`
+char_eva: ` Prove that this letter is not an expression of Father's wishes!!"`
+char_cla: `"V‐very well.`
+char_cla: ` It is just as you say.`
+char_cla: ` It no longer matters whether Dad's in a good mood or not...`
+char_cla: ` Let us go up and ask him directly."`
+char_rud: `"Let's do it.`
+char_rud: ` We'll ask Dad directly.`
+char_rud: ` Dad is to blame too here, why did he have to choose such a roundabout way?`
+char_rud: ` Well, that is a little like him!"`
+char_ros: `"I, I wonder if it's alright to talk like that, taking it for granted that it is Father's letter..."`
+char_eva: `"Stupid Rosa!!`
+char_eva: ` Isn't it obviously Father's letter?!`
+char_eva: ` That letter was Father's!!`
+char_eva: ` Isn't it obvious that he's giving the four of us an even chance to become the successor?!!"`
+char_eva: `"Idiot, die, you useless woman!!"`
+char_non: `Rosa really is dumb.`
+char_non: `{n}`
+char_non: ` Why doesn't she just give up and die forever...?`
+char_ros: `"I, I'm sorry...!`
+char_ros: ` Th‐tha‐that's right...`
+char_ros: ` I'm sorry..."`
+char_non: `In the beginning, the adults had all doubted the authenticity of the letter,`
+char_non: ` but after just now realizing that this was a once‐in‐a‐lifetime chance for the three siblings other than Krauss in the struggle for the inheritance, Eva had changed her position, and had claimed that the letter was authentic.`
+char_non: `Rudolf and Rosa also realized that, and agreed.`
+char_nat: `"Good gracious!!`
+char_nat: ` How could adults like you take such a worthless prank this seriously...!`
+char_nat: ` Even though I am not Father, I understand well his exasperation!!"`
+char_hid: `"Whoa whoa whoa whoa!`
+char_hid: ` Natsuhi‐san, won't everythin' be fine if we just ask Father...?!`
+char_hid: ` Everything'll be fine if Father simply mentions that he doesn't know about the letter!"`
+char_eva: `"Nii‐san.`
+char_eva: ` Take responsibility, and just get him to say that he doesn't know about the letter.`
+char_eva: ` This isn't a time to get scared just because he's in a bad mood, you know?!"`
+char_non: `He's still scared of Father at his age, what an idiot.`
+char_non: `{n}`
+char_non: ` Why doesn't he just give up and die forever...?`
+char_cla: `"R‐right!`
+char_cla: ` Let's get this situation painted in black and white.`
+char_cla: ` He's probably eating in his study right now.`
+char_cla: ` I think it's time we had him rest his chopsticks for a moment...!"`
+char_rud: `"It's decided.`
+char_rud: ` Let's go!`
+char_rud: ` Kyrie, wait here for a while.`
+char_rud: ` We'll go to check whether it's true or not and come back quickly."`
+char_kir: `"......Thank you.`
+char_kir: ` I will wait patiently for Gohda‐san to bring the dessert."`
+char_non: `The four siblings, Natsuhi, and Hideyoshi all stood from their seats forcefully and flew out into the hallway with a clatter.`
+char_non: `Afterwards, the only ones left were the children, stunned completely speechless; Nanjo, who looked uncomfortable;`
+char_non: ` and Kyrie, shrugging her shoulders.`
+char_non: `Maria, who had been at the center of all this turmoil, looked a little scared at the adults' sudden change.`
+char_non: `...However, judging from her appearance,`
+char_non: ` she didn't look like she realized the full significance of what she had just read out.`
+char_jes: `"...What in the world......was that all about...?`
+char_jes: ` I don't friggin' get it..."`
+char_but: `"......Shitheads, every last one of them.`
+char_but: ` Do they really want the inheritance that much...?!"`
+char_geo: `"............Everyone,`
+char_geo: ` this is our parents' problem.`
+char_geo: ` It has nothing to do with us.`
+char_geo: ` So you mustn't worry about it."`
+char_but: `"Yeah, if only it was that easy...`
+char_but: ` ...They were so blatantly..."`
+char_jes: `"I thought they were better than this...!`
+char_jes: ` Showing off their greed...!"`
+char_mar: `"Uu!`
+char_mar: ` Everyone has to believe together we'll be happy!`
+char_mar: ` Uu‐uu!"`
+char_geo: `"...That's right.`
+char_geo: ` We all did promise.`
+char_geo: ` Come on, Battler‐kun, Jessica‐chan, you too..."`
+char_but: `"............Haah."`
+char_jes: `"......I feel like crap..."`
+char_non: `We couldn't accept it at all, but we laid down our arms for the time being.`
+char_non: `...We had known vaguely how filthy the family conference was going to be this time.`
+char_non: ` ...However, after that six‐year blank, I couldn't help being shocked...`
+char_non: `Seeing that the children were completely dejected, Doctor Nanjo cleared his throat uncomfortably.`
+char_nan: `"...It's an adult discussion.`
+char_nan: ` It has nothing to do with all of you young people.`
+char_nan: ` Let us forget about it."`
+char_jes: `"I would if I could, okay...!"`
+char_kir: `"I know that it's hard on you.`
+char_kir: ` But please, forget it for now, for their sakes."`
+char_kir: `"...All of your parents are fighting frantically to make your futures just a little brighter.`
+char_kir: ` Please, don't look at your injured parents with those cold eyes when they come back."`
+char_but: `".....................`
+char_but: ` Even on your request, Kyrie‐san,`
+char_but: ` ......that's a hard one."`
+char_jes: `"If we could be that cut and dried about it,`
+char_jes: ` ......we wouldn't be kids in the first place....."`
+char_mar: `"Uu!`
+char_mar: ` Everyone happyyy!!`
+char_mar: ` Can't get daaaark!!`
+char_mar: ` Belieeeeve!`
+char_mar: ` Unless we all believe we can be happy, the happiness will get away!`
+char_mar: ` We all have to believe!`
+char_mar: ` Uu‐uu‐uu!!"`
+char_kir: `"......That sounds good.`
+char_kir: ` I'll believe too.`
+char_kir: ` We can be happy."`
+char_mar: `"Uu!`
+char_mar: ` Auntie Kyrie, thank you!!"`
+char_mar: `"Battler and Jessica onee‐chan, you believe too!`
+char_mar: ` {f:5:Beatrice} is always saying that magic won't have any power if you don't believe.`
+char_mar: ` Uu!"`
+char_non: `Kyrie‐san rose from her seat quietly, went over to Maria, and crouched down so that their eyes met.`
+char_mar: `"......Uu.`
+char_mar: ` You believed, Auntie Kyrie.`
+char_mar: ` Now, Battler and Jessica onee‐chan have to believe."`
+char_kir: `"They're both strong people.`
+char_kir: ` They'll feel better soon and do that for you."`
+char_mar: `"Yeah."`
+char_kir: `"More importantly,`
+char_kir: ` ............I want you to tell me."`
+char_non: `When Kyrie‐san said that, Jessica, George‐aniki, Doctor Nanjo and I all listened closely.`
+char_non: `...It looked like our parents' minds had been filled by thoughts of Grandfather and the inheritance problem,`
+char_non: ` but we wanted to ask Maria about something simpler.`
+char_mar: `"Uu?`
+char_mar: ` What?"`
+char_kir: `"Who gave you that letter, Maria‐chan...?"`
+char_mar: `"{f:5:Beatrice}!!"`
+char_kir: `"The witch drawn in that portrait...?"`
+char_mar: `"Uu!`
+char_mar: ` She gave me this letter and an umbrella!`
+char_mar: ` And she used magic to fix my rose that was broken!`
+char_mar: ` {f:5:Beatrice} is an awesome witch who can do anything!!"`
+char_kir: `"............Could you tell us about it in a bit more detail...?"`

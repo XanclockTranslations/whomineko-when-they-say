@@ -1,0 +1,792 @@
+char_kin: `"............I see.`
+char_kin: ` So it has begun."`
+char_gen: `"...Yes."`
+char_sha: `"................................."`
+char_non: `Even though Kinzo had heard of the six deaths, his emotions did not waver.`
+char_non: `The expression on his face as he gazed out the window......was a smile, as though his opponent in a chess game had just made a spectacular move.`
+char_non: `...It was unimaginable that this expression could appear on a father who had lost many children at once.`
+char_gen: `"......Under Rosa‐sama's orders, Gohda and Kanon are calling the police.`
+char_gen: ` Also, she has ordered us to follow your orders, my lord...`
+char_gen: ` ......What shall we do?"`
+char_kin: `"...............This island has already been cut off from the real world.`
+char_kin: ` Phones and the like will be useless."`
+char_gen: `"Should I have them stop?"`
+char_kin: `"......Until the roulette is finished, what they do to pass the time is up to them.`
+char_kin: ` Let them do as they like."`
+char_gen: `"............Yes."`
+char_sha: `"...Umm......`
+char_sha: `...what should I tell Rosa‐sama?"`
+char_kin: `"I say again, what they do to pass the time is up to them!!`
+char_kin: ` They can sing if they want, dance if they want!`
+char_kin: ` They're even free to hang themselves by the neck or jump into a boiling cauldron!!`
+char_kin: ` Until thirteen people die, they can spend their time as they like.`
+char_kin: ` If they are that bored, then they can spend their time wondering why six times nine is forty‐two!!`
+char_kin: ` That's the answer to the mystery of man and the universe!!"`
+char_sha: `"Y‐yes...!`
+char_sha: ` My, my apologies......!"`
+char_non: `Shannon cowered in fright at this sudden rage.`
+char_non: ` ...Genji made a gesture as though telling her not to say too much.`
+char_non: `Shannon couldn't help but regret speaking out of turn...`
+char_kin: `"However.`
+char_kin: ` ...You are also free to do as you wish.`
+char_kin: ` ......Genji.`
+char_kin: ` And Shannon.`
+char_kin: ` You have done well serving me until today."`
+char_sha: `"Y‐...your words are too good for me......`
+char_sha: ` ...But, umm........."`
+char_gen: `"...............We are furniture who have sworn to serve you, my lord.`
+char_gen: ` ......At any and all times, we will be waiting by your side.`
+char_gen: ` ......Until the very end."`
+char_kin: `"..................`
+char_kin: ` ............I want to tell the two of you...`
+char_kin: `......about everything.`
+char_kin: ` ......Shannon.`
+char_kin: ` I shall be writing a will.`
+char_kin: ` Please copy what I say.`
+char_kin: ` ...Genji, please, my usual drink."`
+char_sha: `"huh...`
+char_sha: ` ...............Ye‐............yes......!"`
+char_non: `Nanjo had often recommended that Kinzo write a will because of his health, but each time, Kinzo had gone mad with rage.`
+char_non: `......Since that time, "will" had been the word Kinzo took most exception at.`
+char_non: `Because that word had come out of his own mouth, Shannon couldn't help doubting her ears for an instant.`
+char_non: `Shannon hurriedly prepared the side table and some writing paper.`
+char_non: ` Genji also began preparing his usual green devil, just as he was ordered...`
+char_sha: `"I am ready."`
+char_kin: `".........Hmm.`
+char_kin: ` .........Where should I start from?`
+char_kin: ` ...I suppose I could also speak of my life.`
+char_kin: ` ......It would be fun to leave a record of my memorable games."`
+char_kin: `".........It truly is fun to read the records of old games from over a century ago, ...a journey searching for those players' thoughts.`
+char_kin: ` .........Then will the score sheet of my life also beckon those in the future to go on a journey searching for my thoughts?`
+char_kin: ` ......Hmph."`
+char_non: `For a while, Kinzo considered where he should start speaking from, striding all around the room with his hands behind his back...`
+char_gen: `"My lord.`
+char_gen: ` .........Here."`
+char_kin: `"Good.`
+char_kin: ` Thank you, my friend.`
+char_kin: ` ............Well then.`
+char_kin: ` If I am to speak of my life, I must begin writing from when I met that witch."`
+char_kin: `"...Shannon, copy this.`
+char_kin: ` ......My meeting with {f:5:Beatrice} took place a long way back.`
+char_kin: ` What year of the Showa era was it...?`
+char_kin: ` ...I think it was toward the end of the war—"`
+char_non: `We took enough time to regain our calm,`
+char_non: ` .........and we each swore to our parents that we'd definitely catch the killer.`
+char_non: `It would be a lie to say we weren't still bitter.`
+char_non: `...Even now, if we gave in just a little, we'd feel like going on a rampage like Jessica, and resorting to some kind of violence.`
+char_non: `According to what Gohda‐san said after he got back, right now, Kanon‐kun was looking after Jessica.`
+char_non: `...Apparently, she was still very emotionally high‐strung.`
+char_ros: `"......I see.`
+char_ros: ` Thank you.`
+char_ros: ` ...Maybe a young kid would be better at understanding a young kid's feelings.`
+char_ros: ` ......It would probably be better if we left them alone for now."`
+char_nan: `"Rosa‐san...`
+char_nan: ` ......There is nothing more we can accomplish by remaining here.`
+char_nan: ` ......The telephones may not be working, but tomorrow the boat will come, and we should be able to reach the police.`
+char_nan: ` We should leave this place as it is for the police's investigation."`
+char_goh: `"...I agree with Doctor Nanjo.`
+char_goh: ` ......It is bad for your health to stay in a place like this for too long.`
+char_goh: ` ......Let us return and make some black tea..."`
+char_ros: `".........Yes.`
+char_ros: ` ...I'm all for that too.`
+char_ros: ` ......Battler‐kun, George‐kun, are you ready...?`
+char_ros: ` Let's close this place up.`
+char_ros: ` We should leave this place as it is, for when the police come if nothing else."`
+char_geo: `"You're right.`
+char_geo: ` .........Battler‐kun, ...are you alright...?"`
+char_but: `"......Yeah.`
+char_but: ` ...I've cried all I can.`
+char_but: ` .........I'm fine now."`
+char_non: `The police would surely find some evidence from a thorough investigation.`
+char_non: ` ...But we hadn't been adult enough to wait for that.`
+char_non: `...I had investigated the chapel in my own way, trying to catch the culprit before the police got here.`
+char_non: `......And what I figured out was—frustratingly—nothing.`
+char_non: `{n}......I hadn't been able to find a single hint.`
+char_ros: `"Come on, ......let's go out.`
+char_ros: ` ...Maria, we're going.`
+char_ros: ` ......Don't keep staring at it...!"`
+char_mar: `"......Uu."`
+char_goh: `"Come, come, Maria‐sama.`
+char_goh: ` Let us return...`
+char_goh: ` It is cold here."`
+char_geo: `"............Mother, Father.`
+char_geo: ` ......Thank you for everything.`
+char_geo: ` ...I will definitely become a man who doesn't betray your expectations..."`
+char_non: `George spoke his last words of farewell to his parents.`
+char_non: `......After seeing that, Battler followed suit.`
+char_but: `"...Dad, Kyrie‐san."`
+char_non: `Taken on their own, their faces...made it look like they were sleeping, ......which made it all the more bitter......`
+char_but: `".........Forgive me for leaving you in such a chilly place.`
+char_but: ` .........I'll definitely get whoever did this...`
+char_but: ` Definitely..."`
+char_geo: `"......What is......this?`
+char_geo: ` What disgusting graffiti...`
+char_geo: ` Did the killer draw it?"`
+char_nan: `"It is worse than vulgar......`
+char_nan: ` ......This is horrible..."`
+char_non: `When the door to the chapel was closed, we learned about that creepy graffiti for the first time.`
+char_goh: `"It was like this when we first found it.`
+char_goh: ` ...No doubt it was drawn by the culprit..."`
+char_but: `"...The culprit was a witch, so is this a magic circle to summon a demon or something......?"`
+char_mar: `"Kihihihihihihihihihihi...`
+char_mar: ` This is the seventh magic circle of the sun.`
+char_mar: ` You don't even know that, huh...`
+char_mar: ` Kihihihi{0}hi{0}hi{0}hi{0}hi{0}hi{0}hi{0}hi{0}hi{0}hi{0}hihihi.`
+char_mar: ` Ouch."`
+char_ros: `"Hey!!`
+char_ros: ` Don't I always tell you not to make that creepy laugh!!"`
+char_but: `"Maria, go on.`
+char_but: ` ......What does it mean?"`
+char_mar: `"It's a magic circle to escape from physical or mental bonds.`
+char_mar: ` ......And the Hebrew written around the circumference says, "The Lord has freed me from my chains.`
+char_mar: ` I will offer to you the sacrifice of thanksgiving, and will call on the name of the Lord"."`
+char_geo: `"......Sacrifice of thanksgiving...?`
+char_geo: ` Are you telling me that killing Father and the rest was so that they could be sacrifices for this magic circle...?!"`
+char_ros: `"Calm yourself, George‐kun...!`
+char_ros: ` This is the killer trying to provoke us.`
+char_ros: ` ...It doesn't mean anything.`
+char_ros: ` Just thinking about it poisons the heart."`
+char_but: `"......And there's some English written.`
+char_but: ` ...<Happy Halloween for>...<Maria>.`
+char_but: ` ......I see.`
+char_but: ` And the key to open this door was handed over to Maria, ...is that what this is?"`
+char_geo: `"...But this is the chapel.`
+char_geo: ` ...Maybe "Maria" doesn't mean Maria‐chan, but the Virgin Mary.`
+char_geo: ` ......In that case, you could read this as a blasphemy against God, in the name of Halloween."`
+char_geo: `"They say that witches who make contracts with demons swear to always defile God's name.`
+char_geo: ` ......In that sense, this really is a witch‐like crime."`
+char_ros: `"...You sure know a lot.`
+char_ros: ` ......Did you hear that from Maria?"`
+char_geo: `"......Yeah, something like that."`
+char_but: `"So, the chapel.`
+char_but: ` ......They went to all the trouble of calling them out to the chapel before killing them...`
+char_but: ` ............Auntie Rosa,`
+char_but: ` does this chapel have some special meaning...?"`
+char_ros: `"What do you mean, ......special meaning?"`
+char_but: `"Well, umm,`
+char_but: ` ............they carried six human corpses all the way over here, and made these elaborate decorations."`
+char_but: `"...We can't tell whether she called the six of them over here before killing them, or whether she killed them and then carried them over here,`
+char_but: ` ...but either way, it would take a lot of effort.`
+char_but: ` .........What reason did the culprit have...`
+char_but: ` {i:for wanting six people to die here}......?"`
+char_nan: `"......Yes, that is something.`
+char_nan: ` In doing something that elaborate, there would be an extremely high chance that when the police came, some disadvantageous evidence would be found."`
+char_nan: `"......There is no way the culprit failed to notice that.`
+char_nan: ` ...Then, why did the culprit go to all the effort of doing this,`
+char_nan: ` is the question we face..."`
+char_but: `"In that case, there's one question that comes out at this point.`
+char_but: ` ......What meaning does this place, where we found the six corpses, have?"`
+char_ros: `"......This chapel......was important to Father.`
+char_ros: ` ......I've been strictly told not to enter it since I was a kid."`
+char_mar: `"Uu.`
+char_mar: ` ...I came here once too, got yelled at a lot...`
+char_mar: ` Uu..."`
+char_geo: `"An important chapel...?`
+char_geo: ` ......Does it have some connection to the Ushiromiya main family...?"`
+char_ros: `"I don't know.`
+char_ros: ` ......Father viewed this chapel as very sacred, and he treasured it so much that he had it redecorated several times."`
+char_ros: `"...But as you all know,`
+char_ros: ` Father simply has a love of black magic—it's not that he was a devout believer.`
+char_ros: ` ......I've never heard of him coming here to offer his prayers to God."`
+char_goh: `"......Even to the best of my knowledge, the Master has never come here.`
+char_goh: ` We even called this the "forbidden chapel", ...umm,`
+char_goh: ` and thought of it as quite eerie, like a haunted house."`
+char_ros: `"Even though Father never approached it himself, for some reason, he made the servants clean it several times a year.`
+char_ros: ` ......It felt like he kept it clean all the time so that it could be used at any time."`
+char_but: `"And even so, it's called the "forbidden chapel"...`
+char_but: ` ......Ihihi!`
+char_but: ` This may be indiscreet, but doesn't that have an interesting ring to it?`
+char_but: ` Doctor Nanjo, you're an old friend of Grandfather's, right?`
+char_but: ` Ever asked him anything about that?"`
+char_nan: `"............I asked about it long ago, but I forget what he said to evade the issue.`
+char_nan: ` ......That's right, didn't he say something like this?"`
+char_nan: `"......Someday, he too might be able to receive a blessing there.`
+char_nan: ` But unless a miracle occurred, that day would never come."`
+char_but: `"What does that mean?`
+char_but: ` .........What goes on in a chapel?`
+char_but: ` He couldn't mean his own funeral, right?"`
+char_nan: `"I wouldn't believe that of Kinzo‐san.`
+char_nan: ` ...He was a man much more focused on the now, while he still lives, rather than things after death.`
+char_nan: ` .........However, it does seem that this was the root of all the complexity in the inheritance problem."`
+char_but: `"What else is there you do in a chapel?`
+char_but: ` .........Pray?`
+char_but: ` Aren't confessions done in chapels as well?`
+char_but: ` ..................Anyway, it sounds suspicious."`
+char_geo: `"......I don't know the reason,`
+char_geo: ` ......but just as Doctor Nanjo said, it seems that in Grandfather's eyes,`
+char_geo: ` ......the fact that he wouldn't receive a blessing unless a miracle occurred was a fate set in stone from the time this chapel was constructed."`
+char_ros: `"How can you tell that...?"`
+char_geo: `"See, ...it's clearly written up there.`
+char_geo: ` ......Look, up there."`
+char_non: `George‐aniki pointed to a relief with rusted gold letters on the arch above the door.`
+char_non: `It looked like some message was written there in English.`
+char_non: ` ...The rust showed that the message had been there since construction.`
+char_but: `".........I'm bad at English.`
+char_but: ` ......What's it say...?`
+char_but: ` ......<This door is>...{0}<opened>...{0}<only at>...{0}<probability of>??`
+char_but: ` Sorry, my English sucks."`
+char_non: `I gave up after I was unable to finish reading the first of the two lines.`
+char_non: `{n}...It looked like the others could read it properly.`
+char_geo: `"...Umm, I think it went "m", "b", "t", "q", so,`
+char_geo: ` ...umm, umm... How big was that again... I think...umm...umm,`
+char_geo: ` ..............."`
+char_geo: `"......In any case, this is incredible.`
+char_geo: ` You couldn't even count close to that with all the fingers on both hands.`
+char_geo: ` It really would be impossible unless a miracle occurred."`
+char_nan: `"......Certainly.`
+char_nan: ` It is very much like how Kinzo‐san used to talk, when he would tend to relate everything in terms of gambling."`
+char_but: `"What, what, you could all read it?`
+char_but: ` Someone tell me what it means too."`
+char_mar: `"Kihihihihihihi.`
+char_mar: ` ...At least learn English.`
+char_mar: ` How did you get into high school without even being able to read this much?`
+char_mar: ` Kihihi{0}hi{0}hi{0}hi{0}hi{0}hihihi,`
+char_mar: ` ouch.`
+char_mar: ` Ouch`
+char_mar: `ouch`
+char_mar: `ouch."`
+char_but: `"Mind your own damn business.`
+char_but: ` So what's written there?"`
+char_mar: `"...Roughly it says:`
+char_mar: ` "This door is opened only when a miracle occurs.`
+char_mar: ` You will be blessed only when a miracle occurs"."`
+char_mar: `"......Grandfather's sorcery is based on astronomically low probabilities.`
+char_mar: ` ...In other words, the miracle that would open this door......would probably require an incredibly vast magical power.`
+char_mar: ` ......Kihihi{0}hi{0}hi{0}hi{0}hi{0}hi{0}hi{0}hi{0}hi{0}hi{0}hi{0}hi{0}hi{0}hihihi.`
+char_mar: ` Ouch."`
+char_but: `"Niiiice, you can shut up now.`
+char_but: ` Auntie Rosa, you were sending Maria to English classes?`
+char_but: ` I guess it's true, you have to start learning English when you're young."`
+char_geo: `".........The forbidden chapel.`
+char_geo: ` ......Whether or not the witch {f:5:Beatrice} really was a witch, she's whispered to have actually existed several decades ago,`
+char_geo: ` ......and been Grandfather's mistress."`
+char_goh: `"This is, umm, just my imagination, but...`
+char_goh: `......I imagine the Master really did truly love {f:5:Beatrice}‐sama.`
+char_goh: ` However, he was already married, so they couldn't be united."`
+char_but: `"...I see.`
+char_but: ` .........If the dead {f:5:Beatrice} could be revived with the magic of a miracle, then now that Grandmother is dead, he could marry her with his head held high.`
+char_but: ` And he'd marry her in this chapel......... Could it be a fairy‐tale story like that?"`
+char_ros: `"......I don't think that sounds so preposterous.`
+char_ros: ` ...It is a well known fact that Father still loves {f:5:Beatrice} deeply."`
+char_ros: `"......Also, even though I said it was creepy,`
+char_ros: ` I get the feeling that the interior of the chapel was quite magnificent.`
+char_ros: ` .........The thought that Father built this chapel in the hopes of having a wedding with his dead mistress actually might not be that unlikely."`
+char_geo: `"...By the time he built this chapel, Grandfather probably knew that he would never use it as a church as long as he lived."`
+char_geo: `"......But he prayed for the witch to be revived by some miracle.`
+char_geo: ` And he thought that if that miracle occurred, they could be married here..."`
+char_goh: `"......I see.`
+char_goh: ` ...If you think of it that way, this would be a place of utmost significance to {f:5:Beatrice}‐sama as well...`
+char_goh: ` All the while knowing it was a chapel that would never be opened.`
+char_goh: ` ......A story of sad love."`
+char_non: `Even though Gohda‐san's body was even bigger than mine, his words were touching.`
+char_non: `...Everyone was silent, but it seemed that they agreed with that view.`
+char_nan: `"Even though he knew it was a chapel never to be opened,`
+char_nan: ` ......he still probably dreamed of the day that a miracle would occur.`
+char_nan: ` .........Kinzo‐san was a great romantic in his younger days.`
+char_nan: ` ...I feel as though I understand him."`
+char_but: `"Ihihi.`
+char_but: ` I wonder.`
+char_but: ` ......But you all came in four times a year to clean it, right?"`
+char_but: `"What do you mean, never opened?`
+char_but: ` Didn't we just go in ourselves?`
+char_but: ` That wasn't a miracle or anything.`
+char_but: ` We brought the key, clunk, and we're in.`
+char_but: ` That's all that happened, this is ridiculous."`
+char_ros: `"..................Huh?`
+char_ros: ` ............Wha?!`
+char_ros: ` ...............Wait, .........what on Earth?"`
+char_but: `"Wh‐what do you mean "what on Earth"..."`
+char_non: `I thought all I'd done was mess around because I didn't like the way the atmosphere had turned all sappy.`
+char_non: ` ......But Auntie Rosa had suddenly jumped on me, with a really serious face.`
+char_non: `Auntie Rosa's face grew increasingly pale.`
+char_non: ` ...She looked at the magic circle on the door, then at her hand, back and forth, back and forth.`
+char_goh: `"Wh‐......what seems to be the matter, Rosa‐sama...?"`
+char_ros: `"Hey, Gohda‐san!`
+char_ros: ` The key to this chapel!`
+char_ros: ` Didn't Genji‐san say it?`
+char_ros: ` {i:He said there was only one}!"`
+char_geo: `".....................Huh?`
+char_geo: ` ............"`
+char_mar: `"...Kihihihihihihihihihihihihihihihihihihi.`
+char_mar: ` ...It took you all far too long to notice.`
+char_mar: ` Kihihi{0}hi{0}hi{0}hi{0}hi{0}hi{0}hi{0}hi{0}hi{0}hi{0}hi{0}hi{0}hihihi..."`
+char_non: `...When a kid pulls a prank, it sometimes goes unnoticed by the adults, and the kid who did it loses heart.`
+char_non: `......If one of those pranks catches someone later on, it makes that kid really happy.`
+char_non: `......Maria's celebration just now looked a lot like that...`
+char_goh: `"...Y‐......yes, that's right.`
+char_goh: ` There is only one of those keys.`
+char_goh: ` It is the key to the Master's treasured chapel, so there is only one, with no duplicates.`
+char_goh: ` ...It is normally kept safe in the key box in the servant room, but..."`
+char_ros: `"That's right.`
+char_ros: ` And Genji‐san said that it had gone missing.`
+char_ros: ` ......Someone stole it, ......put it in that envelope, and handed it to Maria!`
+char_ros: ` And that was yesterday!"`
+char_but: `"............What...?`
+char_but: ` Wait, but then,`
+char_but: ` .........that makes no sense, doesn't it?"`
+char_geo: `"...That's absurd.`
+char_geo: ` .........This is getting strange."`
+char_goh: `"Wh‐what do you all mean...?`
+char_goh: ` I don't have a clue what you're talking about..."`
+char_nan: `"Me neither.`
+char_nan: ` ......Would someone be so kind as to explain it for us...?"`
+char_non: `...Gohda and Nanjo's failure to understand definitely wasn't because they were stupid.`
+char_non: `......They didn't know.`
+char_non: ` ...They didn't know how long the only key to the chapel had been in Maria's hand.`
+char_ros: `"I'm positive!`
+char_ros: ` It was locked!!`
+char_ros: ` I unlocked it!!`
+char_ros: ` Definitely!!"`
+char_non: `Auntie Rosa kept closing the chapel door, locking it, pulling on it to check the lock, and opening it again.`
+char_non: `Her face was becoming pale again...`
+char_ros: `"Until I took the key out of Maria's envelope and opened this door,`
+char_ros: ` it was definitely locked!!`
+char_ros: ` But this key was in the envelope and in Maria's care!`
+char_ros: ` And that happened yesterday before noon!!!"`
+char_nan: `".........What did you say........."`
+char_goh: `"But then that's......strange......!"`
+char_but: `"Yes, it is.`
+char_but: ` .........Maria received the only key from a woman calling herself a witch midday yesterday.`
+char_but: ` In other words, from midday yesterday until this morning, when Auntie Rosa unlocked the door, this chapel was a locked room."`
+char_but: `".........How did they get those six in here, and then how did they kill them?!"`
+char_non: `We had been confused by the six deaths.`
+char_non: ` We'd thought that we had figured something out after hearing about that weird magic circle and the history of the chapel.`
+char_non: `......That had all been a worthless problem!`
+char_non: `From midday yesterday until this morning, this chapel had been a locked room.`
+char_non: `{n}But our parents had been with us until last night.`
+char_non: `How had the culprit opened this door?!`
+char_non: `{n}And how had they locked it?!`
+char_but: `"......What are you trying to pull.`
+char_but: ` ...Again?`
+char_but: ` A locked room again?!`
+char_but: ` Are you trying to say that you unlocked it with the power of magic?!!`
+char_but: ` I'm not that stupid!!"`
+char_bea: `"If you tell me to show you how I open locks with my power, then I can show you.`
+char_bea: ` ......But that will not make you surrender."`
+char_bea: `"These "explanations with humans" you talk about!`
+char_bea: ` The time I fully exhaust those theories of yours will be the time of my victory!!`
+char_bea: ` Come now, how will you destroy it?`
+char_bea: ` If it was a human, what trick could they have used to defeat it, hmm~?"`
+char_but: `"It's just like the locked rooms last time.`
+char_but: ` ...Not enough information!!`
+char_but: ` It's impossible to reason like this!`
+char_but: ` Any excuse could be made, any trick could work!!`
+char_but: ` Guessing is useless!"`
+char_bea: `"Ha!`
+char_bea: ` That again?`
+char_bea: ` There's not enough information so you'll wait and see?`
+char_bea: ` The information is uncertain so it's impossible to reason...?`
+char_bea: ` Ha, those are always the excuses you humans use to stop thinking.`
+char_bea: ` What is this pretense, you lowly human?!"`
+char_bea: `"Are you saying that unless you're like Laplace's demon, you can't even think, you incompetent fool?!!`
+char_bea: ` ......And you speak as though a lack of information is disadvantageous to you, when it's actually the complete opposite, you see?"`
+char_bea: `"The more information you're given, the more it will pain you!`
+char_bea: ` It will only cause the strength of the compressor squeezing you to increase!`
+char_bea: ` *cackle*cackle*cackle*cackle*cackle*!!"`
+char_but: `"Hoh, well, in that case, let me say this.`
+char_but: ` It's impossible to verify that this is even a "locked room" in the first place!!`
+char_but: ` If we're talking about demons, I've got one for you as well."`
+char_but: `"......It's possible to prove that this isn't a locked room.`
+char_but: ` You just have to show how someone could go in or out!"`
+char_but: `"But it's impossible to prove that it {i:is} a locked room!!`
+char_but: ` You can't deny the endless set of methods of getting in.`
+char_but: ` In other words, this is one of those Devil's Proofs!!`
+char_but: ` The definition of a locked room is in fact impossible to prove!!"`
+char_bea: `"So, after you stop thinking with a lack of information as an excuse, this is what comes next.`
+char_bea: ` ......Oh well.`
+char_bea: ` If that is your move, then I will accept it.`
+char_bea: ` Continue."`
+char_but: `"First off, it looks like you're trying to say that the chapel is a locked room.`
+char_but: ` ...Just a short while ago, I spent some time looking around in there, and yeah, I really couldn't find any way in or out except for the door."`
+char_but: `"......But that {i:just means I couldn't find one}—it doesn't prove that it was a locked room!!"`
+char_but: `"If there was a "hidden door" or something that I wasn't able to find, all your premises are completely blown away!!`
+char_but: ` In other words, whether I'm able to find a hidden door or not, you can never deny a method X by which the locked room could be entered!"`
+char_but: `"And this method X could be carried out without magic.`
+char_but: ` After all, it's a "hidden door"!`
+char_but: ` I'm sure that in this chapel, there's some hidden door that's impossible to find.`
+char_but: ` So I don't even need to start guessing, and I can say that magic is impossible!!"`
+char_bea: `".........Hohoh, so you use that reasoning.`
+char_bea: ` *cackle*cackle*, how naive."`
+char_bea: `"An expected move.`
+char_bea: ` Let me make my move in response.`
+char_bea: ` ......I have always thought the "locked rooms" that feature in worthless human detective novels to be ridiculous."`
+char_bea: `"Why?`
+char_bea: ` Because they're used the wrong way.`
+char_bea: ` ......When a "locked room" appears in a detective novel, do you really think that is a locked room?`
+char_bea: ` You don't, do you?!"`
+char_bea: `"{i:What trick did they use to make this look like a locked room}!`
+char_bea: ` That's what you think."`
+char_bea: `"In other words, out of all the locked‐room murders humanity has built up over a hundred years, not a single one has ever been made complete!!"`
+char_but: `"Oooh!!`
+char_but: ` That's some talk—mystery fans are pretty scary, you know?!`
+char_but: ` Christie is probably grinding her teeth in her grave!"`
+char_bea: `"Hmph!!`
+char_bea: ` But I am different.`
+char_bea: ` I have given birth to a true locked room!`
+char_bea: ` And I can demonstrate that.`
+char_bea: ` Why?`
+char_bea: ` Because I am a witch!!"`
+char_bea: `"For the Devil's Proof, all you have to do is bring along a devil to prove it, yes?`
+char_bea: ` Well that's convenient—as a witch, devils and demons are my good friends, I'll bring as many as you like!!"`
+char_but: `"Sounds great!!`
+char_but: ` "Dad and the rest entered the chapel using a hidden door, or were carried in through one"!`
+char_but: ` How do you plan to beat this move?!"`
+char_bea: `"With this.`
+char_bea: ` Regardless of whether they were alive or dead,`
+char_bea: ` the six definitely entered through the door!!"`
+char_but: `"Huh?!?!`
+char_but: ` Dumbass!!`
+char_but: ` The door was locked, how'd they do it?!!"`
+char_bea: `"I opened it with magic, and invited them inside!!"`
+char_but: `"Like hell you did!!`
+char_but: ` I can't accept magic, so there's no way in hell I'll accept that!!`
+char_but: ` You're lying!!`
+char_but: ` That door can open with some trick.`
+char_but: ` Or maybe there's a hidden door—I won't accept any other way!!"`
+char_bea: `"......<Perpetual>!!`
+char_bea: ` That's what we call an endless repetition of moves in chess.`
+char_bea: ` In our game, both sides denying the basis of each other's claims and failing to advance the discussion is the same as an endless repetition of moves."`
+char_bea: `"......In most games, this would be decided as a draw, but that would terribly dampen the interest of this game!!`
+char_bea: ` We will have no draws.`
+char_bea: ` In short, you will either accept me and submit to me, or not!!"`
+char_but: `"At least I agree with you there!!`
+char_but: ` We'll settle this without fail, just as you wish!!"`
+char_bea: `"*cackle*cackle*!`
+char_bea: ` That disposition is good!`
+char_bea: ` .........So I had a thought.`
+char_bea: ` I think I'll add a new rule to this game between you and me."`
+char_but: `"A new rule?!`
+char_but: ` ...I'll bet it's a rule that'll give you an advantage, right?!"`
+char_bea: `"Would I do that?`
+char_bea: ` I'll give you the thing that people like you never cease to demand.`
+char_bea: ` The reason you incompetent fools always stop thinking and then moan about it is "lack of information"!`
+char_bea: ` If you are then given information, you start doubting whether the information is true or not by "denying the basis"!"`
+char_bea: `"Aren't those convenient?`
+char_bea: ` What clever little words to hide your own incompetence.`
+char_bea: ` I shall eliminate those convenient excuses.`
+char_bea: ` You should thank me, *cackle*!"`
+char_but: `"You said they entered through the door, and I denied it, saying that couldn't happen.`
+char_but: ` ......Are you saying that's an evasive answer?"`
+char_bea: `"That's right.`
+char_bea: ` So from now on,`
+char_bea: ` {p:1:when I speak the truth, I will use red}."`
+char_but: `"Wh‐what is this......?!`
+char_but: ` Keep explaining!"`
+char_bea: `"No matter what magic move I use,`
+char_bea: ` you can always keep running away by repeating "lack of information" and "denying the basis"."`
+char_bea: `"...Even though I would still win in the end that way, it would be extremely boring.`
+char_bea: ` ......Because of that, I think I'll give you that "information" and "basis" that you desire."`
+char_bea: `"However, you would probably doubt each word I say.`
+char_bea: ` That isn't bad in itself.`
+char_bea: ` I also will use every possible move to make you submit.`
+char_bea: ` I don't dislike our posture of searching out the best moves against each other."`
+char_bea: `"......But that won't make a game.`
+char_bea: ` So I set up this rule."`
+char_bea: `"`
+char_bea: `{p:1:Everything I speak in red is the truth}!`
+char_bea: ` There's absolutely no need to doubt it!"`
+char_but: `"Are you telling me to believe that...?!"`
+char_bea: `"This is a game between you and me.`
+char_bea: ` In a game, the rules are sacred!!`
+char_bea: ` Those who take them lightly are not qualified to play!!"`
+char_but: `"Alright, I got it, I'll accept that rule!!`
+char_but: ` Even an elementary school kid can get into an endless argument and find fault with everything."`
+char_but: `"Then let's restart right now, and continue where we left off.`
+char_but: ` I'll repeat it again.`
+char_but: ` "Dad and the rest entered the chapel using a hidden door, or were carried in through one"!"`
+char_bea: `"Then I shall repeat what I said.`
+char_bea: ` "{p:1:Regardless of whether they were alive or dead,`
+char_bea: ` the six definitely entered through the door}"!"`
+char_but: `".........I‐is there any proof?!"`
+char_bea: `"<Stop>!!`
+char_bea: ` I will supplement the rule."`
+char_bea: `"......When I speak the truth, I will use red,`
+char_bea: ` and {i:when I do, I do not bear the responsibility of establishing that by showing proof}!`
+char_bea: ` It is simply a fact and the truth!!"`
+char_bea: `"The reason is simple.`
+char_bea: ` I carry out all of the crimes with magic.`
+char_bea: ` So for any impossible crime, all I have to do is wave my magic staff before your eyes."`
+char_bea: `"But that wouldn't make a game!`
+char_bea: ` It would be like the barbarism of ignoring victory and defeat in a chess game and punching your opponent!"`
+char_but: `"W‐......well, that is true.`
+char_but: ` ...If you were a witch,`
+char_but: ` {i:there'd be no need for you to show proof}.`
+char_but: ` ......Because you could do anything with magic... That's nasty...`
+char_but: ` What an unfair game...!"`
+char_bea: `"So shall we resume once more?`
+char_bea: ` The six people definitely entered through the door.`
+char_bea: ` I unlocked it with magic.`
+char_bea: ` ......How will you defeat this magic, this locked room?!"`
+char_but: `"......The, the key!`
+char_but: ` Genji‐san and the others said there was only one key, but that's impossible to prove!`
+char_but: ` The culprit secretly made a duplicate key...!"`
+char_bea: `"*cackle*cackle*cackle*cackle*!`
+char_bea: ` {p:1:Only one key to the chapel exists}!"`
+char_but: `"Arg......`
+char_but: ` Th‐then what about this.`
+char_but: ` The culprit used something other than a legitimate key to open it!`
+char_but: ` I don't know what, but maybe a wire!`
+char_but: ` A tool for picking locks!!"`
+char_bea: `"What is this naive move?`
+char_bea: ` {p:1:It is impossible to unlock the lock to the chapel with anything but the chapel's key}!!`
+char_bea: ` Although it can be opened with the power of magic, of course...?"`
+char_but: `"Then what about this!!`
+char_but: ` There's something wrong with the door itself!`
+char_but: ` Even while it was locked, there was some way to pass through it...!`
+char_but: ` As to what that is, I can think of a few ways!"`
+char_but: `"Maybe like on the big doors to a castle which have a smaller door on them, there was another door here!`
+char_but: ` It's also possible that they removed the hinges, and then removed the whole door before entering!!"`
+char_bea: `"Wahahahahahahahahahaha!`
+char_bea: ` Is this the intelligence of a hundred years of humanity, Battleeeeeeer?!`
+char_bea: ` {p:1:When the door to the chapel is locked, it prevents any and all methods of entry or exit}!!"`
+char_bea: `"As long as you can't use magic, of course...?`
+char_bea: ` *cackle*!`
+char_bea: ` Is it about time for checkmate?!"`
+char_but: `"Not even close!!`
+char_but: ` You said that the six people entered through "the door", but you didn't say it was this front door!`
+char_but: ` They might have entered through another secret door!!"`
+char_bea: `"You talk too much, you incompetent fool.`
+char_bea: ` Then let me advance more on my earlier move.`
+char_bea: ` {p:1:The six definitely entered through {i:this front door}}!!"`
+char_but: `"That's screwed up!!`
+char_but: ` The door was locked, it was impossible to unlock without using that single key, and yet six people entered through this door?!?!`
+char_but: ` How did they do it?!!`
+char_but: ` Magic, you say?!`
+char_but: ` Damn it, damn it damn it damn it damn it damn it!!!"`
+char_bea: `"Wahahahahahahaaah!!`
+char_bea: ` Have we already exposed a human's limits?"`
+char_bea: `"Then shout <resign>!!`
+char_bea: ` It is customary for the surrendering player to shout that and topple their king.`
+char_bea: ` Come on, do you give up?!`
+char_bea: ` Then proclaim your submission, and kneel, as if toppling your king!!"`
+char_bea: `"And then you shall kiss my shoes!`
+char_bea: ` There's no greater joy than forcing a man like you to lick my shoes, *cackle*cackle*cackle*cackle*kakaka{0}ka{0}ka{0}ka{0}ka{0}ka{0}kakaka!!"`
+char_non: `.........Damn iiiiiiiiit...`
+char_non: ` It's no good, no good, no good...`
+char_non: `{n}So I can't win against the witch...?!`
+char_non: `This isn't chess at all—I've just been made to take the losing side in a chess problem...!`
+char_non: ` Is quibbling about details and getting a draw the best I can do...?`
+char_bea: `"That definitely will not happen...!`
+char_bea: ` Either I will surrender, or you will surrender!!`
+char_bea: ` There will be no resolution other than those!!`
+char_bea: ` What happened to that bravery when you said this would be torture for us both?!"`
+char_bea: `"Wait wait wait wait, what a let down, this is quite disappointiiiiiiing!`
+char_bea: ` Ushiromiya Battleeeeeeeeeeer...????"`
+char_non: `Damn iiiiiiiiiiiit, what should I do, what?!!`
+char_non: ` I can see it, I can see myself facing checkmate...!!`
+char_non: `Aaaaaaaaah, it's no good, it's no good, all of my hard‐fought moves are nothing more than desperately moving my king, running away from check.`
+char_non: ` ......No matter how many times I move, I can't escape from being checked.`
+char_non: ` So even without waiting for the next several moves, I can see mate in my future!!`
+char_non: ` Aaaaaaaaaaaaaaaaaaaaahhh, damn iiiiiiiiiiiiiiiiiiiit.........!!`
+char_non: `.........After a few more moves, ......I see myself being......checkmated......?`
+char_non: `.................................`
+char_non: `......Don't give up, Ushiromiya Battler.`
+char_non: `{n}If I can see myself getting closed in upon...`
+char_non: `......Then if I flip over the chessboard......I can anticipate the next move, right...?`
+char_non: `Kyrie‐san told me...`
+char_non: ` When considering something, the closer you get to the very, very end, ......the easier it becomes to anticipate.`
+char_non: `Flip it over.`
+char_non: `{n}......Flip over...the chessboard...!!`
+char_but: `"......................................................"`
+char_bea: `"......What's wrong?`
+char_bea: ` You've gone silent all of a sudden.`
+char_bea: ` Don't worry.`
+char_bea: ` Surrender is but a momentary shame.`
+char_bea: ` After that, there is only the pleasure of letting it all go..."`
+char_bea: `"......*cackle*cackle*cackle*cackle*!!`
+char_bea: ` Come, cry out your resignation.`
+char_bea: ` .........I can't hear you...`
+char_bea: ` Speak clearly in a loud voice."`
+char_but: `".............You oughta wake up, then.`
+char_but: ` You just aren't listening.`
+char_but: ` ...So I'll say it once more.`
+char_but: ` ......I won't resign.`
+char_but: ` ......We're continuing.`
+char_but: ` I'm resuming the game."`
+char_bea: `"...............Hoh.`
+char_bea: ` Very well.`
+char_bea: ` It is your turn.`
+char_bea: ` ...*cackle*cackle*."`
+char_but: `"I was making the mistake of thinking that this rule you made was your own weapon.`
+char_but: ` ......However, I've realized that it can also become a weapon for me.`
+char_but: ` ............It all comes down to this."`
+char_bea: `"Try it."`
+char_but: `"I've spent the whole time focused on how they entered the locked room of the chapel...`
+char_but: ` .........That way of thinking was no good."`
+char_but: `"......Yeah, it's no good, it's no goddamn good at all.`
+char_but: ` ......Flip over the chessboard."`
+char_but: `".........That's right.`
+char_but: ` The direction of my thinking was backwards.`
+char_but: ` ......This is how I should think.`
+char_but: ` ............How was the chapel, which wasn't a locked room in the first place, made to look like a locked room?"`
+char_bea: `"Here it is.`
+char_bea: ` ......The thinking technique that humans gave birth to a century ago.`
+char_bea: ` Give it a try, *cackle*cackle*!!"`
+char_but: `"...Say this in red for me.`
+char_but: ` If it's impossible, then decline.`
+char_but: ` ...Here I go."`
+char_non: `......This man, ......he thinks he has turned away from his defensive posture?`
+char_non: `{n}Impudent...`
+char_but: `"I understand that the only way to enter the chapel is through the door, and that there was only one key.`
+char_but: ` .........But hold it right there.`
+char_but: ` ...Was that key really handed over to Maria yesterday before noon?"`
+char_bea: `".........Long‐winded.`
+char_bea: ` Summarize it."`
+char_but: `"It's something like this.`
+char_but: ` ...We've been under the impression that since midday yesterday, the key was unusable.`
+char_but: ` Therefore, we've been under the impression that this was a locked room from midday yesterday until this morning!"`
+char_but: `"I want you to clearly state that this isn't just an impression, but a fact."`
+char_bea: `"Interesting.`
+char_bea: ` ......So you reason not about the door, but the key."`
+char_but: `"Yesterday, Maria received an envelope from you.`
+char_but: ` Maria didn't open it, but she might have felt it and learned there was a key inside.`
+char_but: ` ......But it's not as if she could have checked it was definitely the key to the chapel."`
+char_but: `".........So this is what I'm getting at.`
+char_but: ` ......The envelope that was handed to Maria contained a fake."`
+char_bea: `"...I waited all that time for that nonsense?`
+char_bea: ` {p:1:This morning, Rosa definitely took an envelope out of Maria's handbag,}`
+char_bea: ` {p:1:and from that obtained the genuine key to the chapel}.`
+char_bea: ` ...It wasn't a fake, as you say."`
+char_but: `"Heheh...`
+char_but: ` I know that much.`
+char_but: ` I'll continue."`
+char_but: `"......So, when Maria received the envelope, inside it, was there definitely that same key to the chapel?"`
+char_bea: `".................................`
+char_bea: ` .........Hoh."`
+char_but: `"What I mean is basically this.`
+char_but: ` ......Midday yesterday, you gave Maria an envelope with a key inside.`
+char_but: ` And you told her that she mustn't open it.`
+char_but: ` .........Maria probably realized that there was a key inside."`
+char_but: `"And because later on, Auntie Rosa used what was inside the envelope to open the door to the chapel,`
+char_but: ` {i:we thought that was the key to the chapel}.`
+char_but: ` This is the suspicious part!"`
+char_bea: `"........................So is this what you are trying to say?`
+char_bea: ` That when I entrusted Maria with a key, that key was a fake?`
+char_bea: ` And then, by the time Rosa obtained it, it had been switched with the real thing...?"`
+char_but: `"Yeah, that's it.`
+char_but: ` ......What's wrong, {f:5:Beatrice}‐sama?`
+char_but: ` Looks like you haven't been feeling good for a while...?"`
+char_bea: `"......Those close to me sometimes call me Beato.`
+char_bea: ` Beato is fine."`
+char_but: `"It's your turn, Beato."`
+char_but: `"<Turn of the golden witch!>`
+char_but: ` ......Show me how you defeat that."`
+char_bea: `"............Very well.`
+char_bea: ` ...{p:1:The key to the chapel truly was the object inside the envelope I gave Maria}."`
+char_but: `"I'll chase you.`
+char_but: ` ......Can you repeat it in red?`
+char_but: ` ......‘That envelope was completely under Maria's supervision until Auntie Rosa opened it’."`
+char_bea: `".........................................."`
+char_but: `"...If it's impossible, then state that you decline.`
+char_but: ` Check."`
+char_bea: `"............kh, ...............I decline."`
+char_but: `"Now the one‐turn advantage has flipped over.`
+char_but: ` ...Now it's time for your king to run, Beato."`
+char_bea: `"......Ehh, I have a reason for declining.`
+char_bea: ` That is regarding the definition of the phrase "under her supervision".`
+char_bea: ` ...In its purest meaning, Maria would need to have her eyes on it around the clock."`
+char_bea: `"...But Maria didn't go that far.`
+char_bea: ` It was probably completely under her supervision during the time she had it outside of her handbag, but after she put it into her handbag, it disappeared from her field of vision.`
+char_bea: ` ......It's just that the phrase "under her supervision" is inappropriate in that sense, so I couldn't use red.`
+char_bea: ` ...........................kh..."`
+char_but: `"......That was probably a painful move.`
+char_but: ` Your face tells me that you've guessed the next one."`
+char_but: `"...............Sorry.`
+char_but: ` I'm gentle with women.`
+char_but: ` I don't hurt women.`
+char_but: ` {i:I don't betray a woman's expectations}!"`
+char_but: `".........Repeat it for me in red—say it if you can.`
+char_but: ` "No one was able to touch Maria's handbag until Auntie Rosa took out the envelope"."`
+char_bea: `"........................I will also......decline this.`
+char_bea: ` ...I won't explain the reason."`
+char_but: `"That's wrong.`
+char_but: ` ......It's not that you won't explain.`
+char_but: ` You can't explain.`
+char_but: ` .........With that move, it's checkmate, isn't it...?"`
+char_bea: `".................................kh..."`
+char_but: `"If you can't do it, then I'll explain for you.`
+char_but: ` .........The key to the chapel really was in the envelope that you handed to Maria.`
+char_but: ` ...Then Maria put it in her handbag, and the next morning, Auntie Rosa took it out and opened the lock."`
+char_but: `"............However!`
+char_but: ` Maria didn't have the handbag under her complete supervision!`
+char_but: ` There's no need for magic.`
+char_but: ` It's a locked room trick that's possible for a human!"`
+char_but: `"The {y:0:Human}{n:0:human} culprit handed Maria the key,`
+char_but: ` and by making Auntie Rosa use it the next morning, they created the illusion that there was a locked room during that time."`
+char_but: `"You can't deny the possibility that during that time, the culprit took the key from Maria's handbag, used it,`
+char_but: ` and returned it to the handbag by morning!!"`
+char_but: `"Can you say it in red?!"`
+char_but: `"Repetition requested—say it if you can!!`
+char_but: ` It's check again!!!"`
+char_bea: `"H‐......hold on.`
+char_bea: ` I'll remove the check...`
+char_bea: ` ...The envelope with the key in it should have been sealed with wax...!`
+char_bea: ` Rosa took it from an unopened envelope—"`
+char_but: `"Really! Let's hear it, then!!"`
+char_but: `"Repetition requested!!`
+char_but: ` "The envelope handed over midday yesterday and the envelope that Auntie Rosa opened are the same thing"."`
+char_bea: `"Th‐that I can repeat.`
+char_bea: ` {p:1:The envelope I handed over to Maria and the one Rosa opened are the same thing}!!"`
+char_but: `"......Haah...!`
+char_but: ` ...Aaaaah, that's no good, that's no goddamn good at all.`
+char_but: ` Who even cares about that anymore?"`
+char_but: `"...I had expectations for you.`
+char_but: ` ......If you had resigned here, I would have thought of you as someone pretty good at reading between the lines.`
+char_but: ` ......So I'm disappointed.`
+char_but: ` ............{i:You've betrayed my expectations}."`
+char_bea: `"Wh‐............wha......aat.........!!"`
+char_but: `"It isn't important whether the envelopes are the same thing.`
+char_but: ` ......Because envelopes can be sealed with wax over and over!`
+char_but: ` The key inside should be the important thing."`
+char_bea: `"...kh.....................kuuuuuuu........."`
+char_but: `"This time, it's all over, Golden Witch.`
+char_but: ` It's a real checkmate.`
+char_but: ` ......I'll ask one more time, repetition requested!!`
+char_but: ` Say it if you can!"`
+char_but: `"‘The key to the chapel inside the envelope Maria received wasn't used even once until Auntie Rosa opened the envelope’!!"`
+char_bea: `"..................h...`
+char_bea: `............kh...`
+char_bea: `...............how...`
+char_bea: `............!`
+char_bea: ` How.........`
+char_bea: `c‐`
+char_bea: `......could I.........`
+char_bea: `to a lowly human.........!!"`
+char_but: `"I'll keep on saying it, {f:5:Beatrice}!!!"`
+char_but: `"Repetition requested!!`
+char_but: ` "The key to the chapel inside the envelope Maria received wasn't used even once until Auntie Rosa opened the envelope"!!"`
+char_bea: `"......u...ku......ooooooooooooooooooooooooooohhh!!!"`
+char_but: `"If you're gonna yell, then make it words—<resign>, right?!`
+char_but: ` It's settled!!`
+char_but: ` This is the truth."`
+char_but: `"Before Auntie Rosa obtained Maria's key this morning, at one point, it passed into someone else's hands."`
+char_but: `"Then they used it, resealed it, and returned it to Maria's handbag, making it look like it hadn't been used!"`
+char_but: `"This is a trick with a cheap loophole: the assumption that the key wasn't used because the sealing wax wasn't broken!!"`
+char_but: `"Checkmate!!`
+char_but: ` There's no magic, it's nothing more than a trick that's possible for humans!!"`
+char_bea: `"In, in that case... Who do you say stole the key?!`
+char_bea: ` Try answering!`
+char_bea: ` This time, you try repeating it...!!"`
+char_but: `"That's right, I'm making you repeat things all the time.`
+char_but: ` I probably have to answer myself every once in a while......"`
+char_but: `"{i:But I refuse}!!`
+char_but: ` My condition for victory is denying the existence of witches.`
+char_but: ` Once I've proven that your impossible crimes by magic are possible by human hands, I'm done!!"`
+char_but: `"I've smashed your locked room with something possible even for humans.`
+char_but: ` However, I won't specifically investigate who the culprit is."`
+char_but: `"And that is because I believe in humans!!`
+char_but: ` Because I definitely won't accept that there's a person among us who would steal the key from Maria, use it, and do something so horrible!!"`
+char_bea: `"Heh, hehehehehhahahahahahahaha!!!`
+char_bea: ` I give up, I resign!`
+char_bea: ` With regard to this one board in particular, I'll give up for now.`
+char_bea: ` ...But, you really are naive, Battler."`
+char_but: `"Parting remarks are the loser's privilege.`
+char_but: ` Enjoy them as much as you want."`
+char_bea: `"......kh...!`
+char_bea: ` As long as you continue to deny my existence, you will eventually be cornered..."`
+char_bea: `"After all, as long as you deny me, you will have to suspect those relatives that you have no end of love for...!`
+char_bea: ` In the last moment, when you have to suspect one who is beloved to you, then you will definitely accept my existence...!!"`
+char_bea: `"*cackle*cackle*, certainly, you have taken this board.`
+char_bea: ` ......However, that naive logic will definitely destroy you...`
+char_bea: ` ......You can't win against me after all!!`
+char_bea: ` Ushiromiya Battleeeeeeeeeeeeeeeeeeeer!!"`

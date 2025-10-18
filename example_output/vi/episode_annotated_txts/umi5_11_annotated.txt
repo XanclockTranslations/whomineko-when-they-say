@@ -1,0 +1,1924 @@
+char_nat: `"......Father, ...it's Natsuhi.`
+char_nat: ` Good morning..."`
+char_eva: `"There's no way he'll wake up if you do it like that!`
+char_eva: ` Father, it's Eva!`
+char_eva: ` Please wake up!`
+char_eva: ` It's an emergency!!"`
+char_non: `Eva pushed Natsuhi aside and knocked repeatedly with all her strength.`
+char_nat: `"Qu‐quiet down...!!`
+char_nat: ` Don't make such a racket...!"`
+char_eva: `"Do you really think now is the time to be saying something like that?!?!"`
+char_eri: `"............So he isn't picking up the phone, and he isn't responding to knocking either.`
+char_eri: ` What a quandary."`
+char_nan: `"...H‐...he might be in a foul mood again...`
+char_nan: ` Kinzo‐san sometimes detects omens in the slightest of changes,`
+char_nan: ` and gets into a bad mood for reasons only apparent to him..."`
+char_kum: `"Ho......hohoho...`
+char_kum: ` Yes, that's true...`
+char_kum: ` This isn't something that's started today..."`
+char_but: `"Does Grandfather really shut himself away in his study that hard?"`
+char_sha: `"......Yes.`
+char_sha: ` ......It's not uncommon for him to stay in his study for over a month at a time..."`
+char_goh: `"......Privately speaking, ......even though I work here,`
+char_goh: ` I sometimes forget that the Master even lives here..."`
+char_nat: `"Gohda.`
+char_nat: ` That is not the sort of statement I expect to hear from a servant!!"`
+char_goh: `"M‐my apologies, Madam... I am truly sorry......"`
+char_hid: `"Anyway, ...isn't it bad if we can't get in touch with him?`
+char_hid: ` I mean, Father might not even know there's crimes goin' on! Right?!"`
+char_kan: `"......I, I'm not sure........."`
+char_non: `Keenly noticing that people were starting to doubt Kinzo's existence, Kanon mumbled his words...`
+char_kir: `"...............Who was the last person to see Father...?`
+char_kir: ` ......And when?"`
+char_nat: `"I‐...it was me.`
+char_nat: ` Last night, ......up until moments before all the fuss of Battler‐kun finding the gold,`
+char_nat: ` I was reporting the day's events to him in the study."`
+char_eri: `".........So around eleven o'clock last night."`
+char_rud: `"......No way around it.`
+char_rud: ` Let's open it up."`
+char_nat: `"Wh‐what did you say...?!`
+char_nat: ` This is the family head's precious study and research room!`
+char_nat: ` No one is permitted to intrude without his permission, no one!"`
+char_eva: `"Who here holds the highest rank?`
+char_eva: ` Me, remember?!`
+char_eva: ` I am the third in rank of the Ushiromiya family!`
+char_eva: ` And if someone must be scolded by Father for opening this door, that will be my responsibility as the highest ranked as well.`
+char_eva: ` As this is an emergency, I am opening this door.`
+char_eva: ` You have a key, right? Open it."`
+char_kan: `"I, ......I believe you know this, but the study door cannot be opened with the master keys."`
+char_sha: `"Umm, ......the Master recently took away Genji‐sama's key as well.`
+char_sha: ` He has both keys on his person now.`
+char_sha: ` ......So, umm......"`
+char_but: `".........So, both of the keys that can open this door are inside the study."`
+char_eri: `"A locked room!`
+char_eri: ` .........<Good>.`
+char_eri: ` Things are finally starting to get a little interesting.`
+char_eri: ` ......If, inside that room,`
+char_eri: ` Kinzo‐san is lying on the bed with his throat cut, that would be pretty neat."`
+char_nat: `"That is incredibly inappropriate, Erika‐san!!`
+char_nat: ` A‐......anyway, as you know, this door can only be opened by the keys that Father has."`
+char_nat: `"......That means it's impossible for anyone, even a murderer, to so much as touch Father from outside the room!`
+char_nat: ` So I am certain that the head is perfectly fine...!!"`
+char_eva: `"That doesn't make it okay not to make sure he's safe, does it?`
+char_eva: ` Is it really that important to you not to confirm the safety of the father you respect so much......?"`
+char_nat: `".........Th‐......that isn't what I..."`
+char_non: `The atmosphere, which had been so agitated a second ago, suddenly went cold......and an eerie feeling filled the room as everyone stared at Natsuhi.`
+char_non: `......They could understand why Natsuhi would protect the study under normal circumstances.`
+char_non: `It was understood that she probably didn't want to disturb the research of Kinzo, whom she respected,`
+char_non: ` and she was therefore trying to keep the unpleasant relatives away.`
+char_non: `However, ......this was an emergency.`
+char_non: ` People had been murdered.`
+char_non: `Natsuhi's persistence in keeping things quiet for Kinzo even in a situation like this...`
+char_non: `was hard to understand from a rational perspective.`
+char_eri: `".........The evidence suggests that the crimes occurring on this island are most likely a series of murders following the epitaph.`
+char_eri: ` ......It's probably reasonable to assume that the crimes will continue."`
+char_eri: `"If we reinterpret the epitaph as outlining this series of murders, that means the crimes will continue further, resulting in a total of thirteen lives being taken.`
+char_eri: ` .........Do you have any concept of how many victims that would be?"`
+char_rud: `"......Wait a sec.`
+char_rud: ` How many people do you think there are on this island?`
+char_rud: ` ......That'd be almost everyone..."`
+char_eri: `"Non, non. You have it all wrong.`
+char_eri: ` .........To my knowledge, the serial murder resulting in the most deaths in mystery novel history...`
+char_eri: `was ten people in a well‐known work from England, in which everyone including the culprit died.`
+char_eri: ` As far as Japanese mysteries go, it's probably that famous novel in which an astrologer served as the detective.`
+char_eri: ` Though there were less than ten deaths in that one."`
+char_eri: `"......Do you realize?`
+char_eri: ` If this continues and thirteen people die, it will lead to the most prestigious and gruesomely spectacular accomplishment in the annals of mystery writing:`
+char_eri: ` the completion of a thirteen‐person serial murder case!`
+char_eri: ` And if everyone on this island is killed..."`
+char_eri: `"......Why, that could give it an even greater number of deaths than the world record for serial murder mysteries and Japan's record added together,`
+char_eri: ` making it a historical achievement in the world of serial murder mysteries!`
+char_eri: ` ......Well? Did you know that, ladies and gentlemen?"`
+char_eri: `"The culprit of this crime...`
+char_eri: `...is undertaking an incredible challenge, one that stands to rewrite the record books of mysteries throughout the world and throughout history!`
+char_eri: ` ......But I'm sure all of you were well aware of that, weren't you......?`
+char_eri: ` Any mystery lover worth her salt will have read the works of the Queen of Crime.`
+char_eri: ` And it goes without saying that any Japanese reader has covered the works of the {c:86EF9C:Shin‐Honkaku} genre of mysteries.`
+char_eri: ` ......Are you sure you've been reading enough, everyone?`
+char_eri: ` *giggle*giggle*, *cackle*cackle*cackle*........."`
+char_but: `"............That's no good."`
+char_eri: `"Oh.........?"`
+char_but: `"Looks like you haven't read enough yourself."`
+char_eri: `"Did I say something wrong...?"`
+char_non: `Erika, who had been chatting away happily all by herself up until a second ago,`
+char_non: ` changed her expression into a displeased glare in an instant...`
+char_but: `"About Japanese mysteries.`
+char_but: ` ......Prior to Shin‐Honkaku, a writer of the Shin‐Gesaku school wrote a different work that also qualifies."`
+char_eri: `".....................`
+char_eri: ` .....................Th‐`
+char_eri: `.........the number of people was the same in both."`
+char_but: `"They tie for the record, but if you pay attention to the fact that the Shin‐Gesaku novel asked its readers to search for the culprit, it's a far more fitting example.`
+char_but: ` If you know so much about this, shouldn't your examples have been based on more than simply the number of victims, like perhaps the approaches of each work?"`
+char_eri: `"............nn,`
+char_eri: ` ...............khh."`
+char_non: `Erika glared at Battler with an expression that couldn't be fully described with the word "shock",`
+char_non: ` and her arms shook as she stood there, lost for words......`
+char_lam: `"Ahahahahahahaha, kyaahha{0}ha{0}ha{0}ha{0}ha{0}ha{0}ha{0}ha{0}haha!!`
+char_lam: ` Oh my god, she's so laaame, this is priceless!!"`
+char_lam: `"Well, I mean, who can blame her, right?`
+char_lam: ` Shin‐Honkaku is so much more famous where mysteries are concerned.`
+char_lam: ` It's easy to overlook that there were murder mysteries among the Shin‐Gesaku novels.`
+char_lam: ` Aaahhi{0}hi{0}hi{0}hi{0}hi{0}hi{0}hi{0}hhya{0}ha{0}ha{0}haahh!!"`
+char_non: `{f:5:Lambdadelta} kept on hitting the table with both hands, overcome with laughter.`
+char_non: `Even {f:5:Bernkastel}, who had been enduring the humiliation,`
+char_non: ` suddenly snorted and started pounding the table and laughing in the same way.`
+char_ber: `"Pfft,`
+char_ber: ` ..........hi{0}hi{0}hi{0}hi{0}hha{0}ha{0}ha{0}ha{0}hahaah!!`
+char_ber: ` This is just too good!!`
+char_ber: ` Giihi{0}hi{0}hi{0}hi{0}hi{0}hi{0}hi{0}hi{0}hihiii!!`
+char_ber: ` .........Not bad, Battler's piece.`
+char_ber: ` Gahihi{0}hi{0}hi{0}hya{0}hah{0}haa{0}ha{0}ha{0}ha{0}ha{0}ha{0}ha{0}ha{0}ha{0}ha{0}haaa{0}a{0}a{0}a{0}aahhh!!"`
+char_eri: `".........I'm impressed.`
+char_eri: ` ......Battler‐san, ......you must be quite the reader."`
+char_but: `"Of books?`
+char_but: ` Nah, I'm no reader, not at all."`
+char_eri: `".........You liar.`
+char_eri: ` ......You're clearly...`
+char_eri: `...quite well‐read."`
+char_but: `"I'd never be so arrogant as to say I {i:read}.`
+char_but: ` ......I don't even get through a hundred books a year.`
+char_but: ` Someone like me should think twice before calling themselves a reader......"`
+char_eri: `"Y‐......you miserable......piece........."`
+char_hid: `"A‐......ahem.`
+char_hid: ` ...A‐anyway, we can't let this turn into a massive crime like that...!!"`
+char_rud: `"That's right.`
+char_rud: ` At any rate, checking Dad's safety is our first priority right now.`
+char_rud: ` But what should we do?`
+char_rud: ` He's ignoring the phone and our knocking. The keys are inside.`
+char_rud: ` There's nothing we can do.`
+char_rud: ` Are we supposed to knock this thick door down?`
+char_rud: ` ......That won't be easy."`
+char_eva: `"Father might have been attacked by someone and severely injured, and maybe he's waiting for someone to help him.`
+char_eva: ` ......These are extraordinary circumstances.`
+char_eva: ` Even Father will understand.`
+char_eva: ` And if he has any rebuke, I'd be happy to take responsibility myself."`
+char_nat: `".........B‐but...`
+char_nat: `breaking down the door would be...`
+char_nat: `a‐altogether too rude......"`
+char_kir: `"What about the windows.........?"`
+char_eri: `"Th‐......that's right.`
+char_eri: ` The windows.`
+char_eri: ` ......Is there a ladder somewhere which can reach up to the third‐floor windows?`
+char_eri: ` We should be able to get inside by smashing the glass...!"`
+char_non: `Erika finally gathered herself together and her tone regained its decisive edge.`
+char_kum: `"The third‐story window...? Th‐that would be dangerous......"`
+char_rud: `"We won't know unless we try.`
+char_rud: ` Is there a ladder around here that can reach up to the third floor?"`
+char_kan: `"I don't think the ladder in the gardening shed is long enough......"`
+char_goh: `"......Oh, then what about the ladder in the boiler room?`
+char_goh: ` I remember using it some time ago when a bird made its nest on top of the rain gutter...!`
+char_goh: ` Yes, that would do the trick! Without a doubt!"`
+char_non: `He must have been extremely happy about thinking of something Kanon hadn't.`
+char_non: `Looking pleased with himself as though he had won something, he glanced around at everyone.`
+char_non: `He was probably hoping that Natsuhi would praise him, but she quickly avoided his gaze...`
+char_non: `Of course, Kanon had known about that ladder too.`
+char_non: `......However, in order to protect Kinzo's secret, he had intentionally pretended to have forgotten......`
+char_sha: `"But with this weather and the strong winds...`
+char_sha: ` Isn't this just too dangerous......?"`
+char_nan: `"I agree.`
+char_nan: ` If one of us gets seriously injured, we won't even be able to go to a hospital until tomorrow...!"`
+char_kir: `"......The wind might not be as strong in the courtyard.`
+char_kir: ` I think it's at least worth it to take a look."`
+char_goh: `"I must say, getting up to the third floor will be quite a challenge...!`
+char_goh: ` Back when we had to clean away the bird's nest, most of the servants shrank away from the danger.`
+char_goh: ` And that's when I, your humble servant, took it upon myself to accomplish the task.`
+char_goh: ` Uha{0}ha{0}ha{0}ha{0}ha{0}ha{0}haha...!"`
+char_hid: `"Right, then there's no problem!`
+char_hid: ` We've got a ladder tall enough..."`
+char_eva: `"And someone who's proven he can use it."`
+char_goh: `"............Ha{0}ha{0}ha{0}ha{0}haha,`
+char_goh: ` .........huh?"`
+char_non: `Because the courtyard was surrounded on all four sides, while the rain was fierce, the winds had almost no effect.`
+char_non: `Fortunately, the roof jutted out a bit, so even the rain wasn't so bad.`
+char_rud: `"Alright.`
+char_rud: ` Let's try standing the ladder up.`
+char_rud: ` ......Be careful.`
+char_rud: ` Don't hurt yourself."`
+char_but: `"Sure..."`
+char_non: `Rudolf and Battler carried the special ladder, which was designed for work on high places.`
+char_non: `Two umbrellas followed the pair.`
+char_non: `{n}Shannon and Kanon were holding umbrellas and sheltering Rudolf and Battler from the rain.`
+char_rud: `"We don't care about getting wet.`
+char_rud: ` Go back under the eaves.`
+char_rud: ` ......Gohda‐san!`
+char_rud: ` Your knees might be acting up, but you can at least hold a ladder down, right?!"`
+char_goh: `"Y‐yes, yes, sir...!`
+char_goh: ` If only I had enough Hyaluronan, going up a ladder would be no problem at all... ...I am truly sorry..."`
+char_non: `Gohda rushed up to replace Shannon and Kanon.`
+char_non: `{n}Kyrie giggled as she watched him.`
+char_but: `"Dad, hammer."`
+char_rud: `"Cool.`
+char_rud: ` ......Battler, do you like athletics?"`
+char_but: `"Not as much as I love my cool handyman of a dad{p:0:♪}"`
+char_rud: `"You little brat.`
+char_rud: ` .........Sheesh, I guess I need to show this son of mine my good side every once in a while.`
+char_rud: ` Battler, Gohda‐san.`
+char_rud: ` Hold that ladder down tight.`
+char_rud: ` And make sure you're looking up, okay?`
+char_rud: ` My hand might slip and you'll have this hammer tumbling down on you."`
+char_but: `"Don't worry.`
+char_but: ` I'll catch it and smash your head in."`
+char_non: `Rudolf put the hammer meant for breaking the window into his pocket.`
+char_non: ` Then, after cracking his knuckles, he started climbing the ladder......`
+char_sha: `"Will Rudolf‐sama......be alright......?"`
+char_kir: `"He'll be fine.`
+char_kir: ` That guy could be in an action movie.`
+char_kir: ` Plus, sports are one of his strong points."`
+char_rud: `"......I wish you'd tell me how my skating prowess is supposed to help me climb ladders...`
+char_rud: ` ......{p:0:♪}I am Ina Bauer, always in danger...or whatever."`
+char_kir: `"{c:86EF9C:He never dies}, so he'll be fine.`
+char_kir: ` ......Anyway, we're really lucky that the shutters aren't down.`
+char_kir: ` Isn't it standard practice to lower the shutters to Father's study at night?"`
+char_sha: `"I‐it is.`
+char_sha: ` When we're permitted to enter, we open the shutters in the morning and close them at night."`
+char_kan: `"......However, the Master told us that there was no need for the time being, so I think they were left open."`
+char_kir: `"I see.`
+char_kir: ` ...............Father will be pretty mad, won't he?`
+char_kir: ` ...If his son smashes his window and comes in while he's sleeping."`
+char_kan: `"......Well, ...probably......"`
+char_kir: `"It would be wonderful if we didn't have to smash the window, don't you think?"`
+char_sha: `"........................"`
+char_non: `Both Shannon and Kanon...knew that Kinzo no longer existed in this world.`
+char_non: `Natsuhi had ordered them to interfere as much as possible,`
+char_non: ` ......but now that it had come to this, there was nothing that the two of them could do.`
+char_non: `......They had tried to interfere by pretending that they didn't know about the ladder that could reach up to the third‐floor window...`
+char_non: `But because of Gohda's showing off, that ladder had been found...`
+char_non: `Rudolf carefully climbed the ladder.`
+char_non: `......He would reach the third‐floor window very soon.`
+char_non: `As he did this,`
+char_non: ` ......Shannon and Kanon stared at him, looking uneasy......`
+char_non: `What would happen after this?`
+char_non: `To the two of them.`
+char_non: ` To Madam.`
+char_non: ` ......To the Master.`
+char_non: `......Very soon, Rudolf would reach the window.`
+char_bea: `"......So, the barrier around this room is giving way at last."`
+char_kin: `"Hahah.`
+char_kin: ` The soldiers are scaling the castle walls.`
+char_kin: ` Truly, we stand only moments from the fall of the keep.`
+char_kin: ` .........I am prepared to be erased at any moment."`
+char_bea: `"We can't let that happen.`
+char_bea: ` You have to remain alive, even if it means crawling through the dirt.`
+char_bea: ` ......I'll think about what comes next.`
+char_bea: ` Escape from this place for now."`
+char_kin: `"That is easier said than done.`
+char_kin: ` ......Eva and the others are still in position in the hallway and Rudolf is approaching the window.`
+char_kin: ` There's no way of retreat through either."`
+char_ron: `"In that case, perhaps you could hide under the bed."`
+char_kin: `"......Hmph.`
+char_kin: ` So I am not even permitted to await the enemy's arrival seated on my throne?"`
+char_bea: `"You might have done that while you were still alive.`
+char_bea: ` However, you are now a ghost that Natsuhi and I brought to life.`
+char_bea: ` Ghosts should do what ghosts do best and hide under the bed or in a closet."`
+char_kin: `"Will something like that really fool them...?`
+char_kin: ` ...So it comes to this."`
+char_gap: `".........Don't worry.`
+char_gap: ` I'll be with you.`
+char_gap: ` I'll get you out at the last moment."`
+char_kin: `"It'll be dangerous for you.`
+char_kin: ` Even though you're a demon, you won't get away unscathed if you're burned by the anti‐magic toxin."`
+char_gap: `"Don't worry about that.`
+char_gap: ` .........Anyway, I need things to get at least that bad before my heart starts pumping."`
+char_kin: `"How reassuring.`
+char_kin: ` ......Very well.`
+char_kin: ` I'll hide under the bed."`
+char_ron: `".........Milady.`
+char_ron: ` Rudolf will reach the window very soon."`
+char_bea: `"Gaap.`
+char_bea: ` I've changed my mind. I will guard this place.`
+char_bea: ` Hide yourself along with Ronove."`
+char_ron: `"What did you say...?`
+char_ron: ` This was not the plan.`
+char_ron: ` We planned to leave this place to Gaap and have you retreat, Milady."`
+char_non: `Even though Ronove should have been used to her fickleness, this surprised him for the first time in a long while.`
+char_non: `......Though Beato was the powerful queen, she was also an important piece that should not be exposed to danger.`
+char_non: `Though she was strong, running to the front lines without any plan would not be a praiseworthy move.`
+char_gap: `"What kind of whim is this...?`
+char_gap: ` ....................."`
+char_bea: `"It's just a whim.`
+char_bea: ` I'm not so fond of boredom that I could simply sip tea while leaving everything to you...!`
+char_bea: ` I've just gotten the urge to jump into the struggle right away...!"`
+char_gap: `"........................`
+char_gap: ` ......OK.`
+char_gap: ` It is your game.`
+char_gap: ` You do what you want.`
+char_gap: ` I'll keep a close watch over the first twilight corpses I erased to make sure nothing happens to them."`
+char_bea: `"Sorry for stealing your time to shine."`
+char_ron: `".........Are you certain about this, Milady?"`
+char_bea: `"You know that I love attention more than my three meals a day.`
+char_bea: ` I've done nothing except gobble up Gaap's turn on the stage.`
+char_bea: ` Don't pay it any mind...!"`
+char_non: `......Ronove and Gaap were both silent.`
+char_non: `{n}The two of them had already noticed.`
+char_non: `Lady {f:5:Bernkastel}, who used Furudo Erika as a piece, was a terrifying opponent.`
+char_non: `......This fight would probably be terrifying as well.`
+char_non: `{n}Beato couldn't expose Gaap, her friend, to this danger......`
+char_non: `Beato bluffed and said that this wasn't the case,`
+char_non: ` but Ronove and Gaap had already figured it out.`
+char_non: `Therefore, after confirming Beato's resolve one last time and seeing that she was completely firm in her decision,`
+char_non: ` ......they nodded in silence and accepted it.`
+char_gap: `"OK.`
+char_gap: ` ......I'll leave this up to you. I'm rooting for you.`
+char_gap: ` .........Take care."`
+char_bea: `"Indeed.`
+char_bea: ` Feel free to stand back and watch my performance...!"`
+char_ron: `"......Lady {f:5:Bernkastel} will probably start trying to expose Kinzo's absence with a locked‐room argument.`
+char_ron: ` ......Fights in a locked room are normally Gaap's area of expertise.`
+char_ron: ` ......Queens rule the battlefield because they are best at fighting in wide open areas.`
+char_ron: ` ......This won't be an easy fight."`
+char_bea: `"I'm fully aware of that.`
+char_bea: ` I currently serve Natsuhi.`
+char_bea: ` It would not be right for me to delegate her peril to Gaap and callously watch from safety."`
+char_ron: `"............Understood.`
+char_ron: ` ......I wish you luck in your battle."`
+char_gap: `"Be careful...`
+char_gap: ` ......If it becomes a complete locked room, we won't be able to come in and help you."`
+char_bea: `"I'll laugh at them a bit, and if things get bad, I'll just grab Kinzo and run for it.`
+char_bea: ` It'll be easy.`
+char_bea: ` With the door and the window, the past and the future to choose from, there are plenty of places to run to.`
+char_bea: ` Of course I won't let this become a locked room."`
+char_gap: `"......Though you won't see us, we'll be cheering you on from very close by.`
+char_gap: ` ......Good luck."`
+char_bea: `"Mm."`
+char_non: `Gaap and Ronove became a swarm of gold butterflies and disappeared,`
+char_non: ` and Kinzo melted into the darkness beneath the bed.`
+char_non: `Then, Beato also became a swarm of gold butterflies and melted away inside the study...`
+char_non: `After that, all figures and signs of life had disappeared from the study, and it once more regained a silence as though no one had been there from the beginning...`
+char_non: `Then, ......Rudolf's outline slipped into view from beyond the window's curtain.`
+char_rud: `"Dad...!!`
+char_rud: ` If you're there, answer!`
+char_rud: ` Daaad!"`
+char_non: `As he yelled, he hit the window.`
+char_non: `His foothold was so uncertain that just hitting the window felt life‐threatening.`
+char_non: `But of course, this was Rudolf, the show‐off.`
+char_non: `Deciding that he couldn't show himself up with so many people watching from below, he suppressed the fear from being so high up...`
+char_non: `and boldly knocked on the window.`
+char_but: `".........Come on, Grandfather... Can't he hear...?"`
+char_goh: `"I, I wonder...`
+char_goh: ` I hope he doesn't drop the hammer..."`
+char_kir: `"How many seconds have passed?"`
+char_kan: `"......It's been thirty seconds since he knocked on the window."`
+char_sha: `"So,`
+char_sha: ` ......he's really going to...`
+char_sha: `sm‐`
+char_sha: `......smash it?`
+char_sha: ` Umm, the Master...will be very angry..."`
+char_kir: `"There's one person who's been kind enough to brag about how accepting that anger is her duty, so there's no need to worry.`
+char_kir: ` ......Rudolf‐san!`
+char_kir: ` That's enough. Do it...!"`
+char_rud: `"Sure...!`
+char_rud: ` .........Dammit Dad, you better not complain after I smash it."`
+char_non: `He hit it several times, and eventually, a fist‐sized hole opened up in the glass.`
+char_non: `Because of his unstable footing, this took a lot of effort...`
+char_non: `Using the end of the hammer skillfully, he brushed aside the now fractured bits of glass and opened the hole further,`
+char_non: ` stuck his hand through it, and unlocked the window.`
+char_non: `Then, after a hard struggle, he somehow managed to open the window, and his body slipped through into the study.`
+char_non: `After that, he flopped onto the floor, using his entire body to enjoy the relief of having a ground under him.`
+char_rud: `".........Dad! It's Rudolf.`
+char_rud: ` Answer me!"`
+char_non: `It wouldn't be an exaggeration to say that Kinzo's study was a small villa he had created inside the mansion.`
+char_non: `A study.`
+char_non: ` A book archive.`
+char_non: ` A place to sleep.`
+char_non: ` And a bathroom and washroom.`
+char_non: `{n}It was divided into multiple rooms.`
+char_non: `......Indeed, with all this at your fingertips, it wouldn't be hard to spend your days in this study without ever leaving at all.`
+char_non: `The bed was empty.`
+char_non: `{n}There were marks on it which made it seem as though someone had slipped out, but there was no one in sight.`
+char_rud: `"......They do this a lot in ninja movies.`
+char_rud: ` "The bed's still warm! They can't have gotten far!" Just like that."`
+char_non: `Rudolf tried placing his hand on the bed, but he couldn't feel any heat at all.`
+char_non: `Not only was there no heat......it felt completely ice cold.`
+char_non: `And the bed wasn't the only thing that was ice cold.`
+char_non: `......The air inside the room......and even the presence about it, if that's the right word for it,`
+char_non: ` ...even that felt ice cold.`
+char_non: `To Rudolf, it felt as though Kinzo had slipped out of this room a long time ago...`
+char_rud: `"......It's very clean.`
+char_rud: ` There are signs it's been lived in.`
+char_rud: ` ........................"`
+char_non: `Wrinkles in the bed.`
+char_non: ` The slight angle of the chair.`
+char_non: `Here and there, there were many marks that would doubtlessly have been cleaned or fixed up if someone had come in to make the beds.`
+char_rud: `"As far as I can tell off the top of my head, Dad must have slipped out of bed several hours ago at the latest..."`
+char_non: `That placed it in the same general time period as the brutal series of murders.`
+char_non: `......It didn't seem possible to say that Kinzo's absence was completely unrelated to the crime.`
+char_non: `Having reached a dead end for now, Rudolf leaned out of the window,`
+char_non: ` and told Kyrie and the others in the courtyard to come back up since he was going to unlock the door.`
+char_non: `Then, he pushed the button on the study desk and released the door's auto‐lock.`
+char_non: `There was a heavy clunking sound, and Natsuhi and the rest dashed in immediately...`
+char_nat: `"F‐......Father...... Good morning..."`
+char_rud: `"Sorry, but it isn't Dad.`
+char_rud: ` ......I'm the one who opened it."`
+char_eri: `".........Was Kinzo‐san there?"`
+char_rud: `"Nope.`
+char_rud: ` ......There are signs he slipped out of bed, but no way to tell when that was."`
+char_eva: `"And Natsuhi nee‐san was the last person to meet him, right...?`
+char_eva: ` At around eleven o'clock last night.`
+char_eva: ` I wonder if that means he slipped out of the study sometime after that and went somewhere else..."`
+char_nat: `"W‐......well......`
+char_nat: ` B‐but Father is a fickle man...`
+char_nat: ` Many times, he has bolted awake in the middle of the night saying that he had a revelation in a dream,`
+char_nat: ` and walked around the mansion.`
+char_nat: ` Isn't that right, Doctor Nanjo...?"`
+char_nan: `"Nn, ......y‐yes, that sort of thing has happened before...`
+char_nan: ` ...As you say, ......he is, erm, a fickle fellow.`
+char_nan: ` R‐right, Kumasawa‐san...?"`
+char_kum: `"...Hoh, ...hohoho.`
+char_kum: ` That's true...`
+char_kum: ` He might have had some sort of strange dream and slipped out of bed...`
+char_kum: ` That happens a lot, yes......"`
+char_hid: `"Then where'd he slip off to...?!`
+char_hid: ` Isn't there a good chance...Father's been caught up in this crime?!"`
+char_eva: `"............You see?`
+char_eva: ` We should have checked to make sure Father was safe from the beginning, shouldn't we?"`
+char_nat: `"...nn....................."`
+char_eva: `"We can't be sure he isn't in this room.`
+char_eva: ` Maybe the culprit tied him up and locked him in the closet or something like that."`
+char_eri: `".........Just what I was thinking.`
+char_eri: ` Let's conduct a search."`
+char_nat: `"Th‐......the head treasures this study...`
+char_nat: ` It will not do to have you pawing all over it...!"`
+char_eri: `"Oh, that's right.`
+char_eri: ` I have an announcement for our guilty party."`
+char_non: `When Natsuhi heard this said from right in front of her, her heart froze.`
+char_non: `......But Erika had only just happened to be standing right in front of Natsuhi when she said it.`
+char_non: ` She had directed her words to the room at large.`
+char_non: `......She hadn't been speaking to Natsuhi in particular.........`
+char_non: `Natsuhi turned her back on Erika, trying to make it so that her faltering expression wasn't noticed...`
+char_eri: `"......My memory is photographic in every detail.`
+char_eri: ` If any attempt is made to hide evidence or alter the scene, I will know at once.`
+char_eri: ` ......Please don't commit some stupid blunder here and disappoint me.`
+char_eri: ` Don't you agree that any whodunit in which the culprit is unmasked by way of some silly mistake or slip of the tongue is dreadfully third‐rate?"`
+char_nat: `"............I, ...I don't understand what you're talking about, but I'll ask you to refrain from imprudent remarks.`
+char_nat: ` ......Father, are you there...?!`
+char_nat: ` Please answer me...!"`
+char_non: `Natsuhi started walking around and calling out in a loud voice, refusing to let Erika say any more.`
+char_non: `There was a knock.`
+char_non: ` Kyrie and the others who had gone down to the courtyard had returned.`
+char_kir: `"No sign of Father, I assume?"`
+char_rud: `"He might be tied up and shut away somewhere around here.`
+char_rud: ` We were just about to start searching for him."`
+char_but: `"............I'm amazed he can keep himself locked up in a place like this for so long."`
+char_sha: `"..........................."`
+char_kan: `"......Give it up, Nee‐san.`
+char_kan: ` ......We can't change anything now."`
+char_sha: `"I wonder......what Madam plans to do......"`
+char_kan: `"......Get paid back for all the lies she's told up until now."`
+char_kum: `".........Shh.`
+char_kum: ` ...Let's leave fate in God's hands."`
+char_sha: `"Y‐.........yes......"`
+char_kan: `".................."`
+char_non: `Many people traipsed around Kinzo's vast study, looking here and there.`
+char_non: `Inside the closet and in the bathtub.`
+char_non: `{n}Even in the refrigerator and under the study desk.`
+char_non: `......They looked everywhere, almost as though they were "it" in a game of hide‐and‐seek.`
+char_non: `......However, not only were they unable to spot Kinzo, they couldn't even find a single suspicious mark...`
+char_nat: `"I‐it seems clear that Father isn't here.`
+char_nat: ` ......That's enough.`
+char_nat: ` I ask you all not to disturb Father's precious study any further."`
+char_kum: `"Yes, yes...`
+char_kum: ` There's nothing the Master hates more than having things moved around without his permission..."`
+char_eva: `"Father's nowhere to be found.`
+char_eva: ` .........Maybe he really was caught up in the crime...?"`
+char_nat: `".........Th‐though we can't be sure of that..."`
+char_non: `Natsuhi averted her gaze once more.`
+char_bea: `"......It's alright, Natsuhi."`
+char_nat: `"......We truly do have our backs against the wall...`
+char_nat: ` On the off‐chance that someone entered the study, I had planned to talk my way out of it by saying that he had probably gone for a walk somewhere.`
+char_nat: ` ......However..."`
+char_kin: `"Hmph.`
+char_kin: ` No one would believe that I was enjoying a casual midnight stroll in a mansion where a murder has occurred and many people have been killed.`
+char_kin: ` Though I wouldn't put it past myself to do such a thing."`
+char_bea: `"Come now, Kinzo.`
+char_bea: ` Be a good boy and stay hidden under the bed.`
+char_bea: ` ......It's alright, Natsuhi.`
+char_bea: ` Remain calm.`
+char_bea: ` .........You can prove that someone exists, but you can't prove that they don't exist."`
+char_bea: `"In other words, the {y:0:Human}{n:0:human} world is one in which regardless of whether something exists or not, you can make it "exist".`
+char_bea: ` ......And the shadows in which you can make it "exist" form the world of us witches and the world of demons and devils."`
+char_nat: `"......You mean...the Devil's Proof."`
+char_bea: `"Yes.`
+char_bea: ` .........So don't worry.`
+char_bea: ` The power of demons will most certainly protect you."`
+char_nat: `".........If it could protect the honor of Father and my husband, ...I would gladly sacrifice this body of mine to demons."`
+char_bea: `"Your resolve is good.`
+char_bea: ` ......Don't be anxious.`
+char_bea: ` I won't allow them to {i:kill Kinzo}."`
+char_non: `At that moment, a dry sound suddenly rang out twice.`
+char_non: `Erika had clapped her hands, seeking everyone's attention.`
+char_non: `Though such an action should have been above a guest's place,`
+char_non: ` for some reason, it already felt like a natural right of hers.`
+char_non: `......After all, she was the "detective".`
+char_eri: `".........I think that's enough.`
+char_eri: ` Ushiromiya Kinzo‐san is nowhere to be found in this study."`
+char_rud: `"Yeah, we've searched every possible hiding spot.`
+char_rud: ` Dad's nowhere to be seen."`
+char_eva: `"And we haven't found anything out of place."`
+char_eri: `"Yes, we didn't find anything at all."`
+char_non: `Erika said it again.`
+char_non: `{n}They hadn't been able to discover anything......`
+char_nat: `"In that case, we mustn't continue to loiter in this room.`
+char_nat: ` Do you understand how angry Father would be if he learned that so many people were looking through his study...?!"`
+char_nat: `"Eva‐san,`
+char_nat: ` you said that you were prepared to take responsibility, didn't you?`
+char_nat: ` I hope you're prepared to be disowned for life...!"`
+char_eva: `"Th‐that's for Father to decide...!!`
+char_eva: ` Not you!!"`
+char_eri: `"Quiet down.`
+char_eri: ` .........I'd like to assemble the facts as we know them.`
+char_eri: ` At eleven o'clock last night, the last person to meet Kinzo‐san in this room was Natsuhi‐san, correct?`
+char_eri: ` Can anyone confirm that?"`
+char_but: `"......Confirm...?"`
+char_eri: `"Yes, that's right.`
+char_eri: ` After all, the only one who claims that Natsuhi‐san really did stop by here at eleven o'clock last night is Natsuhi‐san herself.`
+char_eri: ` A confirmation from Kinzo‐san that Natsuhi‐san did indeed come here last night would have sufficed,`
+char_eri: ` but his absence is the very issue under question."`
+char_kir: `".........Alibis are the foundation of a mystery, correct?"`
+char_eri: `"Yes, that's right.`
+char_eri: ` Alibis are important.`
+char_eri: ` Of course, they're almost useless when it comes to the actual theory‐making,`
+char_eri: ` but it's common courtesy to be particular about this kind of thing."`
+char_but: `"Heh.`
+char_but: ` ......You didn't ask for alibis regarding last night's murders, but you'll do it for Grandfather's disappearance, huh?`
+char_but: ` ...You really are unpredictable."`
+char_eri: `"Oh, don't worry.`
+char_eri: ` Regarding the murders of the first twilight,`
+char_eri: ` have no fear that I will fully examine everyone's alibi for that as well later."`
+char_eri: `".........So, can anyone confirm that Natsuhi‐san visited here at eleven o'clock?`
+char_eri: ` If no one can, we'll be forced to doubt whether Natsuhi‐san really was the last person to spot him."`
+char_nat: `"......A‐are you saying that I can't be trusted?"`
+char_eri: `"No, no, just the opposite.`
+char_eri: ` I hope that you aren't the culprit.`
+char_eri: ` After all, that would be {i:dreadfully} dull, don't you agree?`
+char_eri: ` Only the worst third‐rate mysteries have the most suspicious person as the culprit."`
+char_nan: `"...Natsuhi‐san......is suspicious?`
+char_nan: ` W‐wait a second.`
+char_nan: ` What exactly is your argument...?!"`
+char_goh: `"Yes...!`
+char_goh: ` Calling Madam suspicious is the height of discourtesy...!!"`
+char_nat: `"Quiet!!`
+char_nat: ` Doctor Nanjo, Gohda,`
+char_nat: ` thank you.`
+char_nat: ` ......Erika‐san.`
+char_nat: ` ......I presume you have some basis for the tremendous disrespect you just showed me......?"`
+char_eri: `"......I do.`
+char_eri: ` It's painfully simple,`
+char_eri: ` but if you'll permit me some TV drama‐quality evidence, I'll be happy to oblige."`
+char_but: `"............Let's hear it."`
+char_non: `When Battler glared at her, ......a cold expression rose to Erika's face for an instant.`
+char_non: `But it was only for an instant.`
+char_non: `{n}After smiling peacefully and gazing around at everyone, she started to talk.`
+char_non: `She looked just like the main character in a play,`
+char_non: ` who had come out onto center stage bathed in a spotlight...`
+char_eri: `"Think back to this morning.`
+char_eri: ` Please recall the chaos that followed the murders.`
+char_eri: ` ......We wanted to inform Kinzo‐san about the crime, but he wouldn't come out no matter how many times he was called on the telephone.`
+char_eri: ` Remember what happened then."`
+char_hid: `"Anyway, ...isn't it bad if we can't get in touch with him?`
+char_hid: ` I mean, Father might not even know there's crimes goin' on! Right?!"`
+char_kan: `"......I, I'm not sure........."`
+char_non: `Keenly noticing that people were starting to doubt Kinzo's existence, Kanon mumbled his words...`
+char_kir: `"............Who was the last person to see Father...?`
+char_kir: ` ......And when?"`
+char_nat: `"I‐...it was me.`
+char_nat: ` Last night, ............up until moments before all the fuss of Battler‐kun finding the gold, I was reporting the day's events to him in the study."`
+char_eri: `".........So around eleven o'clock last night.`
+char_eri: ` ...........................Heheh."`
+char_non: `Erika chuckled significantly.`
+char_nat: `"A‐and what's your point?`
+char_nat: ` Ridiculous."`
+char_eri: `"I think Kyrie‐san probably did that intentionally.`
+char_eri: ` ......Am I right?"`
+char_kir: `"..........................."`
+char_sha: `"Wh‐`
+char_sha: `...what do you mean...`
+char_sha: `...by that......?"`
+char_kir: `"......I figured someone might fall for it."`
+char_eri: `"Yes.`
+char_eri: ` Thank you, Kyrie‐san.`
+char_eri: ` Actually, I was planning to say the same thing, if you hadn't done it first."`
+char_kan: `"......W‐...was the question of who saw the Master last...`
+char_kan: `really that important...?"`
+char_eri: `"Yes.`
+char_eri: ` If we take the circumstances into account, then in response to the question "Who saw him last?",`
+char_eri: ` it was very odd for Natsuhi‐san to instantly answer "me"."`
+char_goh: `"Wh‐......why?!`
+char_goh: ` Madam told the plain, unvarnished truth...!"`
+char_nat: `"Quiet!!`
+char_nat: ` Why do you think that was odd...?"`
+char_eri: `"Why are you so sure that no one else saw Kinzo‐san after eleven o'clock?"`
+char_nat: `"W‐......well, ...that's because I watched as he went to bed.`
+char_nat: ` It's only natural to assume that he would then sleep until morning,`
+char_nat: ` and not entertain any other visitors..."`
+char_eri: `"Considering the circumstances, whoever saw him last was going to be at risk of being suspected of having some kind of involvement with this case.`
+char_eri: ` ......A normal person in your position, Natsuhi‐san, wouldn't say, "I was the last to see him.`
+char_eri: ` I met with him at eleven o'clock."`
+char_eri: ` Right, Kyrie‐san......?"`
+char_kir: `".....................`
+char_kir: ` ......Yes, that's right.`
+char_kir: ` ......A normal person would say,`
+char_kir: ` "I saw him at eleven o'clock.`
+char_kir: ` But I don't know if I was the last person to see him."`
+char_kir: ` ......Something like that."`
+char_eri: `"<Good>.`
+char_eri: ` .........Identifying oneself as the final witness is usually quite difficult.`
+char_eri: ` ......That is, unless you know some reason that makes you certain that there couldn't have been any other witnesses after you."`
+char_eri: `"......In third‐rate mysteries, the final witness is often the culprit.`
+char_eri: ` They killed the victim themselves, so they knew that no one else could have met the victim later on...is how the argument goes."`
+char_kum: `"Hohoh, ...hohohoho...`
+char_kum: ` That's nothing more than a minor misuse of words...`
+char_kum: ` It's nothing to make such a fuss of and focus on..."`
+char_nan: `"Yes, yes, that's nothing more than nitpicking...`
+char_nan: ` Aren't you jumping the gun a little, suspecting Natsuhi‐san because of a little slip of the tongue like that......?"`
+char_goh: `"And you mentioned that Madam must have a reason to be sure that no one else could have seen the Master,`
+char_goh: ` but, of course, Madam has one...!`
+char_goh: ` She left the room after seeing the Master go to bed!`
+char_goh: ` Following common sense, it's perfectly natural to assume that he probably wouldn't meet anyone else until the next morning...!"`
+char_eri: `"......No.`
+char_eri: ` That isn't natural whatsoever.`
+char_eri: ` After all, Natsuhi‐san, Doctor Nanjo, and Kumasawa‐san all made this claim a short while ago.`
+char_eri: ` Please, try to remember."`
+char_eva: `"And Natsuhi nee‐san was the last person to meet him, right...?`
+char_eva: ` At around eleven o'clock last night.`
+char_eva: ` I wonder if that means he slipped out of the study sometime after that and went somewhere else..."`
+char_nat: `"W‐......well......`
+char_nat: ` B‐but Father is a fickle man...`
+char_nat: ` Many times, he has bolted awake in the middle of the night saying that he had a revelation in a dream, and walked around the mansion.`
+char_nat: ` Isn't that right, Doctor Nanjo...?"`
+char_nan: `"Nn, ......y‐yes, that sort of thing has happened before...`
+char_nan: ` ...As you say, ......he is, erm, a fickle fellow.`
+char_nan: ` R‐right, Kumasawa‐san...?"`
+char_kum: `"...Hoh, ...hohoho.`
+char_kum: ` That's true...`
+char_kum: ` He might have had some sort of strange dream and slipped out of bed...`
+char_kum: ` That happens a lot, yes......"`
+char_but: `".........Yeah.`
+char_but: ` ......Grandfather often slips out of bed all of a sudden late at night...`
+char_but: ` ......That's what you claimed."`
+char_eri: `"<Good>.`
+char_eri: ` Battler‐san, you have quite an impressive memory.`
+char_eri: ` .........In other words, it's well known amongst the people at the Ushiromiya head house, Natsuhi‐san included,`
+char_eri: ` that there's a chance Kinzo‐san might wake up in the middle of any given night on a whim and wander around.`
+char_eri: ` On top of that, they were aware that this happened quite often."`
+char_eva: `"......Isn't that odd?`
+char_eva: ` ...If you knew that Father often wanders around at night,`
+char_eva: ` there's no way you could be certain that he'd stay in his bed until morning.`
+char_eva: ` Right?"`
+char_rud: `"It really is......like a third‐rate mystery.`
+char_rud: ` A lot of those have this part in the last five minutes where the culprit asks "When did you figure out it was me?"`
+char_rud: ` and the detective answers..."`
+char_eri: `"It is, isn't it?`
+char_eri: ` ......That's why I feel let down.`
+char_eri: ` If it turns out that Natsuhi‐san really is the culprit, this will be worse than a TV mystery.`
+char_eri: ` ......That's why I want to clear away the suspicion surrounding Natsuhi‐san as soon as I can.`
+char_eri: ` I want to make sure that this mystery isn't third‐rate before I do anything else."`
+char_nat: `".........ugh......gah......"`
+char_bea: `"......There's no need to get anxious, Natsuhi.`
+char_bea: ` She is merely playing with words, a favorite trick of would‐be detectives.`
+char_bea: ` ......Is it of any consequence?`
+char_bea: ` How can she possibly use that one statement to corner you?`
+char_bea: ` In the court of hell, all of the demon jurors will declare you innocent.`
+char_bea: ` So calm down and don't get flustered..."`
+char_but: `".........Sure, when you say it like that, it does make Aunt Natsuhi look suspicious.`
+char_but: ` ......But to me, it just sounds like you're picking holes in whatever she's saying for the sake of it."`
+char_eva: `"But it is suspicious.`
+char_eva: ` ......I think this is more than enough reason to suspect that Natsuhi nee‐san might be hiding something..."`
+char_nat: `"Th‐that accusation is entirely false...!`
+char_nat: ` And you are not being fair, Eva‐san...!!`
+char_nat: ` You {i:yourself} can testify that I was in fact here at eleven o'clock...!"`
+char_eri: `".........Is this true, Eva‐san?"`
+char_eva: `"........................`
+char_eva: ` .........Oh, now that you mention it, perhaps it is.`
+char_eva: ` ......Heheheh, I'm sorry.`
+char_eva: ` At the time, I was losing my head because the gold had just been found,`
+char_eva: ` so I forgot all about meeting Natsuhi nee‐san until just a second ago."`
+char_eri: `"So, Eva‐san, you can confirm that Natsuhi‐san was a witness at eleven o'clock?"`
+char_eva: `"Unfortunately, yes,`
+char_eva: ` I can attest to part of Natsuhi nee‐san's story.`
+char_eva: ` ......But only the part that she came out of this room."`
+char_nat: `".........Wh‐what are you implying?"`
+char_eva: `"Let me tell you what I'm implying.`
+char_eva: ` ......No, I've wanted to say this for a long time now.`
+char_eva: ` ...I really did feel like saying this in the middle of such a tragic murder case would be improper,`
+char_eva: ` but the timing now is just too perfect.`
+char_eva: ` .........You know what I'm talking about, don't you?`
+char_eva: ` ......Natsuhi nee‐san.........?"`
+char_non: `The servants gulped and held their breaths...`
+char_non: `{n}It seemed that they hadn't been able to hide it......after all.........`
+char_non: `In the middle of this heavy silence, ......Eva fingered her trump card, and Natsuhi pretended to be calm.`
+char_non: `Both space and time grew as heavy as lead...and swallowed up everything...`
+char_eri: `"How long has Kinzo‐san been gone......?"`
+char_non: `Erika's words, spoken almost casually,`
+char_non: ` tore that atmosphere to pieces like shattering glass......`
+char_rud: `"......Simply put, we haven't seen him once at the family conferences this year or last."`
+char_hid: `"That's right...`
+char_hid: ` We've suspected it since last year.`
+char_hid: ` ...Seeing as how my son and the others have just been killed, this may not be the time or place to pursue this.`
+char_hid: ` ......But there's a chance that this has something to do with the crime, so we will do just that..."`
+char_kir: `"It's possible that you have a motive for hiding Father's death.`
+char_kir: ` ......We can suspect that you're embezzling Father's assets."`
+char_eva: `"If Father were to die, an investigation would be conducted for the distribution of the assets and your embezzlement would be exposed.`
+char_eva: ` That's why you've been hiding the fact that Father is already dead!!"`
+char_eri: `".........I see.`
+char_eri: ` That's more than enough for the whydunit.`
+char_eri: ` This keeps getting more and more third‐rate.`
+char_eri: ` Aaah, ......how boring."`
+char_nat: `"I, ......I don't know what you're talking about...!!`
+char_nat: ` You accuse me of hiding the death of the head?!`
+char_nat: ` Slander of this nature is...absolutely unforgivable!!"`
+char_goh: `"That's right...!!`
+char_goh: ` In addition to Madam, the other servants take care of the Master on a daily basis, and they see him all the time...!!`
+char_goh: ` Genji‐san, Shannon‐san, and Kanon‐kun...!`
+char_goh: ` Even Doctor Nanjo and Kumasawa‐san meet with him often...!"`
+char_goh: `"......P‐perhaps because he doesn't trust me, I haven't seen him even once since last year, but..."`
+char_nat: `"Be quiet, Gohda!!!"`
+char_goh: `"Eek!!`
+char_goh: ` M‐my apologies...!"`
+char_eri: `"All of the witnesses besides Natsuhi‐san are servants she employs.`
+char_eri: ` ......You paid them to corroborate your story... Ohh, this really is third‐rate. What a waste of time.`
+char_eri: ` .........I'm disappointed, Natsuhi‐san.`
+char_eri: ` I think it's time I concluded this now."`
+char_nat: `"C‐.........concluded what......?!"`
+char_eri: `"Ushiromiya...Kinzo‐san."`
+char_kin: `".........What is it, ...uninvited guest?"`
+char_eri: `"You don't exist.`
+char_eri: ` ......You're a ghost whose death was concealed by people who didn't want it known due to the inheritance problem."`
+char_kin: `"......Hmph.`
+char_kin: ` ......Heheheheheheheh."`
+char_eri: `"If you're a ghost, you should pass on quickly to the next world as ghosts are meant to.`
+char_eri: ` ......Oh, where are my manners, this is the first time we've met and I've yet to give you a proper greeting."`
+char_eri: `"......Good day, pleased to meet you.`
+char_eri: ` And goodbye!!!"`
+char_non: `Beato's pipe......`
+char_non: `stopped mere millimeters from Erika's face, so close that you might just barely have been able to wedge a single sheet of paper between them.`
+char_bea: `"And good day from me.`
+char_bea: ` ......Ushiromiya family alchemist, {f:5:Beatrice} the Golden.`
+char_bea: ` I shall be your opponent in this fight from here on out."`
+char_eri: `"Glad to meet you. I'm the detective of this game, Furudo Erika.`
+char_eri: ` It's a pleasure to make your acquaintance.`
+char_eri: ` And soon, to bid you farewell."`
+char_bea: `"So, you're Lady {f:5:Bernkastel}'s next piece after Ange.`
+char_bea: ` ......I'm afraid I didn't get to fight with her to my satisfaction in the end.`
+char_bea: ` It pleases me that we can test wits at last,`
+char_bea: ` piece of Lady {f:5:Bernkastel}...!"`
+char_eri: `"............My master is almighty and all‐powerful.`
+char_eri: ` A fool like you couldn't even begin to compare with her.`
+char_eri: ` I accept your challenge."`
+char_bea: `"*cackle*cackle*cackle*.`
+char_bea: ` You really are calm.`
+char_bea: ` ......Even though a witch has appeared before you and is about to fight with magic and fantasy.`
+char_bea: ` .........If you were Battler, you'd be on your knees wailing that this isn't a mystery anymore."`
+char_eri: `"Well, parallel worlds like this are popular even within the mystery genre these days.`
+char_eri: ` Are you familiar with that detective who reasons from an armchair in a meta‐like space?"`
+char_bea: `"Mind your anachronisms. That author doesn't make his debut until next year."`
+char_eri: `"You certainly are picky for a witch."`
+char_bea: `"Hahha!!`
+char_bea: ` You think yourself a witch's equal?`
+char_bea: ` Don't be so conceited, you miserable little {y:0:Human}{n:0:human}!!"`
+char_non: `Beato snapped her fingers, and something bounced around the room at terrifying speeds...!!`
+char_non: `It was the witch's stake.`
+char_non: ` The witch's wedge which contained the power of the blue truth within it...!`
+char_non: `Of course, a mere {y:0:Human}{n:0:human} like Erika couldn't follow its terrible speed with her eyes.`
+char_non: `Erika understood this, so she didn't attempt to look every which way stupidly trying to spot it.`
+char_rg1: `"You slowpoke!!`
+char_rg1: ` Take this!!"`
+char_non: `With a terrible sound, Lucifer's blue stake buried itself into Erika's right collarbone.`
+char_non: `It shot all the way through and out of her back.`
+char_non: `Spinning as she rebounded off the walls, Lucifer landed in front of Beato,`
+char_non: ` and disappeared, laughing shrilly.`
+char_non: `Erika wasn't blown back.`
+char_non: `{n}However, a blue wedge was stuck deeply into her.`
+char_eri: `".........So this is that so‐called blue truth.`
+char_eri: ` Well then, let me hear your opinion."`
+char_bea: `"{p:2:You can't eliminate the possibility that Natsuhi met with Kinzo at 11 p.m.`
+char_bea: ` In the six‐plus hours between then and the time you all barged into the study, Kinzo had every opportunity to escape!`
+char_bea: ` Because of this, you can't state decisively that Kinzo doesn't exist}."`
+char_non: `Beato announced that with an expression worthy of her title as witch.`
+char_non: `{n}Erika, on the other hand, was silent.`
+char_non: `......Was she too shocked to speak?`
+char_non: `There was no anguish in her expression.`
+char_non: `{n}She was just quietly listening to Beato's blue truth.`
+char_non: `No, ......judging by her disdainful expression,`
+char_non: ` it would probably be more appropriate to say that Beato's words went in one ear and out the other.`
+char_eri: `".........<Good>.`
+char_eri: ` Begin with the orthodox.`
+char_eri: ` .........By the way, this thing really is stuck good.`
+char_eri: ` It won't come out."`
+char_non: `She tried pulling from the front and the back of the blue wedge that pierced her, but it didn't budge an inch.`
+char_non: `However, her indifferent, relaxed expression didn't budge an inch either.`
+char_bea: `"You can't take it out!`
+char_bea: ` ......The blue truth can only be broken by the red truth.`
+char_bea: ` ......And as you are a guest who came to this island a day ago at most, there exists no truth that you could possibly know!`
+char_bea: ` There is no red available to the likes of you...!`
+char_bea: ` In other words, this is checkmate!!"`
+char_eri: `"......I see.`
+char_eri: ` This is one of those spaces.`
+char_eri: ` ......In that case, I'll need a piece suitable for fighting a witch.`
+char_eri: ` ......I am the detective.`
+char_eri: ` Let it be my role to deal with the {y:0:Human}{n:0:human} culprit.`
+char_eri: ` You are a witch.`
+char_eri: ` ...There is a piece better suited to the role of dealing with witches and demons."`
+char_eri: `"Allow me to introduce you.`
+char_eri: ` .........Miss Dlanor.`
+char_eri: ` It looks like it's your turn."`
+char_bea: `"D‐.........Dlanor...!!!"`
+char_lam: `"Ahhahahahahahaha!!`
+char_lam: ` I knew it, I was certain you'd bring that piece in sooner or later...!!`
+char_lam: ` The ten witch‐hunting wedges, the archbishop of witch hunting, Dlanor!!"`
+char_ber: `"There's no more fitting piece for a battle against devils and demons.`
+char_ber: ` I have my double, Erika, and the greatest natural enemy of witches, Dlanor."`
+char_ber: `"I've now taken control of the seventh rank with my two rooks.`
+char_ber: ` ......And now you'll entertain me, {f:5:Lambdadelta}. And you too, {f:5:Beatrice}.`
+char_ber: ` As I watch you struggle and scramble to no avail.`
+char_ber: ` ......*giggle*, ahaha{0}ha{0}ha{0}haa{0}ha{0}haa{0}ha{0}ha{0}ha{0}ha{0}ha{0}ha{0}haha!!"`
+char_non: `The air shone brightly, and the piece Erika had guided there showed its form...`
+char_non: `It was a form that resembled a cleric, perfect for confronting an evil witch......`
+char_dla: `"Pleased to meet {f:5:you}.`
+char_dla: ` Dlanor {nobr:A. Knox} is my {f:5:name}."`
+char_non: `Even though the atmosphere in this space could be cut with a knife,`
+char_non: ` she introduced herself in a neat and frank manner.`
+char_non: `......Her out‐of‐place appearance, completely different from those of the demons and witches,`
+char_non: ` felt blatantly odd and had a kind of severity to it.`
+char_bea: `"......This is the first time I've met you, but I've heard all the rumors.`
+char_bea: ` Therefore, this truly doesn't feel like a first meeting."`
+char_dla: `"The same goes for {f:5:me}, Miss {f:5:Beatrice}.`
+char_dla: ` Eiserne Jungfrau has a detailed file on you 600 pages {f:5:long}.`
+char_dla: ` I always look over those, so this doesn't feel like a first meeting to me {f:5:either}."`
+char_bea: `"The secretary of hell could summarize those 600 pages in a mere six letters."`
+char_dla: `"Allow me to {f:5:ask}."`
+char_bea: `"‘Danger’."`
+char_dla: `"That's a good {f:5:summary}.`
+char_dla: ` When I get back, out of respect to you, I will close out your file with an additional two letters for a total of {f:5:eight}."`
+char_eri: `"<Executed>."`
+char_bea: `".........So I'm <cute> now, *cackle*!`
+char_bea: ` Flattery will get you nowhere, my guest...!"`
+char_dla: `"Then let us {f:5:continue}.`
+char_dla: ` Miss {f:5:Beatrice}.`
+char_dla: ` I, Chief Inquisitor Dlanor, do humbly accept my role as your {f:5:opponent}."`
+char_bea: `"I've already completed my first move.`
+char_bea: ` If you can't remove the blue wedge from that Furudo Erika over there, then you might as well trudge back up to heaven,`
+char_bea: ` and get back to your usual boring job of stamping things!"`
+char_eri: `"......Take care of this wedge or whatever it is, please.`
+char_eri: ` {f:5:Beatrice}‐san seems to think that this is all it takes to achieve checkmate."`
+char_non: `After making a show of tapping the blue wedge that pierced her with her finger,`
+char_non: ` Erika shrugged as though taunting {f:5:Beatrice}.`
+char_nat: `"......B‐{f:5:Beatrice}..."`
+char_bea: `"It's alright. I'm just going to toy with her a bit.`
+char_bea: ` ............After all, if things get bad, I can take Kinzo's ghost and flee from here whenever I want.`
+char_bea: ` I can leave this room at any time and go anywhere."`
+char_dla: `"That is {f:5:useless}."`
+char_bea: `"......Hoh?"`
+char_dla: `"Encountering me is equivalent to your {f:5:demise}.`
+char_dla: ` There will be no {f:5:escape}. No one can evade {f:5:me}."`
+char_eva: `"As you say, there's always the possibility that Father bolted awake and went off somewhere.`
+char_eva: ` .........But you know what? I can state for certain that such a thing couldn't have happened.`
+char_eva: ` Heheheh, you know why?"`
+char_nat: `"O‐of course I don't...!`
+char_nat: ` Are you saying that you stood outside this door all night, watching to make sure the head didn't take a step outside...?!"`
+char_eva: `"Yes, someone was watching.`
+char_eva: ` This little guy right here!!"`
+char_ger: `"For your attention: I beg to inform you of the following.`
+char_ger: ` Be advised that entering or exiting through this door is impossible.`
+char_ger: ` Guards, you are hereby ordered to blockade the study door."`
+char_non: `The doors to heaven opened with a strong, unrelenting radiance like the sun's,`
+char_non: ` and Dlanor's subordinates appeared.`
+char_non: `Their words were clad in the red truth and cut off the witch's method of escape.`
+char_s41: `"Chiester410, right here!"`
+char_s45: `"Chiester45, right here!`
+char_s45: ` It has been some time, Great Lady {f:5:Beatrice}!`
+char_s45: ` We were dispatched in accordance with Alliance Agreement #1516 and a request from the Great Court of Heaven.`
+char_s45: ` We apologize for the rudeness that is to follow...!"`
+char_s41: `"We've formed a precision blockade on the study door nyeh.`
+char_s41: ` I think it's best if you stay away from the door nyeh...`
+char_s41: ` Kihihi!"`
+char_ger: `"For your attention: I further inform you of the following.`
+char_ger: ` {p:1:From last night at 23:00 until the present time, the study door was not opened even once}."`
+char_nat: `"Wh‐......what is that scrap of paper?"`
+char_eva: `"It's a completely ordinary receipt.`
+char_eva: ` But even so, this mere scrap of paper proves that you lied."`
+char_hid: `"Last night, when you came out of the study,`
+char_hid: ` Eva saw her chance and wedged a receipt into the crack of the door to the study...!`
+char_hid: ` And that fell down just now when Rudolf‐kun opened the door for us...!!"`
+char_eva: `"Know what that means?`
+char_eva: ` In other words, from {nobr:11 p.m.} last night until now,`
+char_eva: ` it's impossible that Father could have opened this door!!"`
+char_but: `".........Wh‐what'd you say......?"`
+char_eva: `"Rudolf.`
+char_eva: ` The window was locked, right?"`
+char_rud: `"......Yeah. That's why I smashed the glass."`
+char_kir: `"The other windows are all locked as well.`
+char_kir: ` They can't be locked from the outside by construction...!"`
+char_cor: `"For your attention: I beg to inform you of the following!`
+char_cor: ` Be advised that {p:1:the windows were all locked}!`
+char_cor: ` Guards, blockade all of the windows."`
+char_ger: `"In the name of Eiserne Jungfrau, the imperial guard is hereby permitted to make use of forbidden weapons."`
+char_s00: `"Understood, ma'am.`
+char_s00: ` All units, clearance granted for use of forbidden weapon: red warheads.`
+char_s00: ` Transmit activation code!"`
+char_s41: `"Unya?`
+char_s41: ` The password doesn't work nyeh."`
+char_s45: `"410, turn caps lock off and try again...!"`
+char_s00: `"Chiester Troops, precision blockade for study door and all windows complete.`
+char_s00: ` The Great Lady {f:5:Beatrice} is hereby warned that if anything is caught passing through these physically, conceptually, or by any other method,`
+char_s00: ` we will fire without warning...!"`
+char_s45: `"Data link from four Archangel Satellites.`
+char_s45: ` Homing format: verdict‐model conceptual guidance...!"`
+char_s41: `"And on top of that, we've got red warheads nyeh.`
+char_s41: ` Impossible to shoot down, impossible to avoid, impossible to survive when hit.`
+char_s41: ` ......It'd smash even Lady {f:5:Beatrice} into little bits nyeh{p:0:♪}"`
+char_non: `The Chiester Troops had laid down a pinpoint blockade over the door and all of the windows.`
+char_non: `{n}Escape would no longer be permitted through any of these...!`
+char_bea: `".........My, my.`
+char_bea: ` ......I should be doing the welcoming, but it seems I am the one being welcomed.`
+char_bea: ` And a courtesy call with the Chiester Sisters in tow, no less...!"`
+char_cor: `"For your attention: I beg to inform you that your paths of retreat have been severed!`
+char_cor: ` Supervisor Dlanor, let us now remove the sin and purify...!!"`
+char_dla: `"Your work is {f:5:appreciated}.`
+char_dla: ` .........Miss {f:5:Beatrice}.`
+char_dla: ` I have had your paths of retreat {f:5:terminated}.`
+char_dla: ` You cannot leave through the door, nor can you leave through the {f:5:windows}.`
+char_dla: ` You will find that escape is now {f:5:impossible}."`
+char_bea: `".........You think you have me trapped with this alone?`
+char_bea: ` *cackle*cackle*......"`
+char_non: `The Inquisitor in Heaven and her subordinates surrounded the witch.`
+char_non: `The subordinates used a powerful barrier to cut off Beato's methods of escape.`
+char_non: `......Demons prefer to fight, and as a result, they sometimes allow their victims to escape.`
+char_non: `However, angels prefer to block off passages of escape, and as a result, they eradicate their targets without fail...!`
+char_eva: `"In other words, from the time you claim you bid him goodnight yesterday...`
+char_eva: `until the time Rudolf opened the door, this study was a perfect locked room...!"`
+char_hid: `"In that case, Father's gotta be here.`
+char_hid: ` But we haven't seen hide nor hair of him...!!`
+char_hid: ` Come on, what the hell is goin' on...?!!"`
+char_nat: `"Uh, ...gah.................."`
+char_bea: `"I keep telling you to calm yourself...!`
+char_bea: ` The thought that I, {f:5:Beatrice}, could be imprisoned merely because the doors and windows are closed is simply laughable."`
+char_bea: `"...Kinzo, I was planning on playing around, but it seems our guest has no such intentions.`
+char_bea: ` Let us withdraw before we overstay our welcome."`
+char_kin: `"Mm.`
+char_kin: ` I would not hesitate to give up this life of mine, but for Natsuhi's sake, I cannot die yet."`
+char_non: `Beato waved her pipe and the air was split vertically.`
+char_non: `Then, a pitch black gate appeared there and slowly opened.`
+char_non: `......It was a warp portal, the same as the pitch‐black holes that Gaap used.`
+char_bea: `"In my file, it should have said this:`
+char_bea: ` "She is an elusive phantom,`
+char_bea: ` appearing and disappearing wherever she desires"...!`
+char_bea: ` As long as Kinzo has me, it will be impossible to capture him...!"`
+char_non: `The pitch‐black gate opened.`
+char_non: `{n}That gate led from everywhere and to nowhere.`
+char_non: `Both Beato and Kinzo would be sent to a place where no one could catch them,`
+char_non: ` a place where no one could set foot, much less chase after them...!`
+char_nat: `"Th‐...this is the study of the Ushiromiya family head.`
+char_nat: ` And it is also a room that Father had a direct hand in designing.`
+char_nat: ` ......Don't you agree that there would be nothing strange about him having some mechanism for getting outside without using the door...?"`
+char_goh: `"...Y‐yes, of course...!`
+char_goh: ` There would be nothing at all strange about the Master having a hidden door...!"`
+char_eva: `"A hidden door?!`
+char_eva: ` Really, and where would we find one of those...?!"`
+char_nat: `"It's a hidden door, so nobody knows.`
+char_nat: ` ......There are several mechanisms and hidden doors in this mansion that only Father knows of.`
+char_nat: ` ......No one has seen them first‐hand, but all the people of this mansion know of them in concept. Correct...?"`
+char_sha: `"Uh, ...ah, ......yes...!"`
+char_kan: `"......It's true that there have been always been rumors about hidden passages only the Master knows of..."`
+char_nan: `"Th‐that is the sort of trick that Kinzo‐san would love..."`
+char_kum: `"Hohohoho......`
+char_kum: ` And they are hidden doors, after all...`
+char_kum: ` No matter how much people such as ourselves might search, {i:it's only natural that we won't find them}."`
+char_kir: `".........I see. It's a Devil's Proof.`
+char_kir: ` You're saying we can't eliminate the possibility that a hidden door exists in this room."`
+char_eva: `"That's nonsense, it's all made up...!!`
+char_eva: ` How dare you stoop to this just because your lie about concealing Father's death is about to be revealed...!!"`
+char_hid: `"Darn right!! Just where in this study is there a hidden door...?!!`
+char_hid: ` Go on, try provin' it exists!!"`
+char_bea: `"{p:2:No proof is required!!`
+char_bea: ` It's a Devil's Proof! The existence of a hidden door is impossible to discover or disprove!!`
+char_bea: ` Therefore, no one can eliminate the possibility that Kinzo escaped from this study through a hidden door}!!"`
+char_dla: `"{p:1:I will not allow a hidden door to exist in this {f:5:room}}."`
+char_non: `Beato's blue wedge, which had been fired off as a farewell gift,`
+char_non: ` was crushed with a flash of Dlanor's longsword, ......and the pitch‐black gate was crushed as well...!`
+char_non: `And it wasn't just crushed visibly and physically.`
+char_non: `From that moment onwards, the warp portal which conceptualized hidden doors had been destroyed forever.`
+char_bea: `"H‐how can someone like you, who is neither the owner of the study nor the Game Master,`
+char_bea: ` ......use the red truth......?!`
+char_bea: ` And what was that?! What do you mean you "will not allow" hidden doors to exist?!"`
+char_eri: `"It's because that's what defines a mystery.`
+char_eri: ` {p:1:Knox's 3rd: It is forbidden for hidden passages to exist}.`
+char_eri: ` You can't have any hidden doors in the mystery genre. I'm terribly sorry."`
+char_dla: `"In this world, gods other than our God do not exist, and hidden doors do not {f:5:exist}.`
+char_dla: ` They must not {f:5:exist}. We will not allow them to {f:5:exist}.`
+char_dla: ` They are a {f:5:blasphemy}."`
+char_bea: `"......Arrogance enough to shock a witch...`
+char_bea: ` Hah, how delightfully preposterous...!"`
+char_lam: `"Ahahahahaha{0}haa{0}ha{0}ha{0}ha{0}ha{0}ha{0}haha...!!`
+char_lam: ` Here it comes, the ten wedges to pierce witches...!!`
+char_lam: ` Just like usual, it's the kind of irrational argument that I just love to hear...!"`
+char_ber: `"What a fool.`
+char_ber: ` The Devil's Proof might have been vague enough to let you escape from everything until now,`
+char_ber: ` but now that you're up against Dlanor, that move won't work anymore, {f:5:Beatrice}!"`
+char_dla: `"......As I thought, you're no different from any ordinary {f:5:witch}.`
+char_dla: ` I am {f:5:disappointed}."`
+char_kin: `"......Beato.`
+char_kin: ` ...It seems, after all, that this is not an opponent who will allow us an easy escape."`
+char_eri: `"Please do entertain me, {f:5:Beatrice}‐san.`
+char_eri: ` ......You should at least serve some tea for your guests.`
+char_eri: ` It doesn't even matter if it's third‐rate!"`
+char_eri: `"How did Kinzo‐san escape from this locked‐room study?`
+char_eri: ` Educate me with your blue truth...!!"`
+char_bea: `"......Very well.`
+char_bea: ` Make sure you don't regret it!!"`
+char_bea: `"{p:2:It's possible that, after slipping out the door, Kinzo noticed the trick with the receipt and correctly returned it to its original place}."`
+char_dla: `"{p:1:That possibility has already been eliminated in {f:5:red}.`
+char_dla: ` After 23:00, the door to the study was not opened even {f:5:once}}."`
+char_bea: `"{p:2:Kinzo might have been a marvelous mage and inventor!`
+char_bea: ` He might have invented a concoction to turn his body to mist and slipped out through the keyhole}!!"`
+char_dla: `"{p:1:No such substance {f:5:exists}.`
+char_dla: ` It must not {f:5:exist}}."`
+char_bea: `"{p:2:Maybe he invented a teleportation device!`
+char_bea: ` That possibility is impossible to eliminate because of the Devil's Proof}!!"`
+char_dla: `"{p:1:Such a machine does not {f:5:exist}.`
+char_dla: ` I will not permit it to {f:5:exist}}."`
+char_bea: `"{p:2:Oh, so you can examine every chemical substance in the world?`
+char_bea: ` You can rule out the existence of unknown scientific devices?!`
+char_bea: ` There's no way you can, it's a Devil's Proof!`
+char_bea: ` You cannot rule out their existence}!"`
+char_dla: `"{p:1:I will {f:5:repeat}.`
+char_dla: ` In the name of God, I will not permit such chemicals or devices to {f:5:exist}.`
+char_dla: ` From now until the end of time, I will not permit them to {f:5:exist}}."`
+char_bea: `"Even in the future?!`
+char_bea: ` Oho, so you think you can even deny the possible futures of the human race?!"`
+char_eri: `"It's Knox's fourth commandment.`
+char_eri: ` It is forbidden for unknown drugs or obscure scientific devices to be used."`
+char_dla: `"The progression of humanity and the techniques and knowledge that the future might bring are for God to {f:5:decide}.`
+char_dla: ` And their existence has been declared forever {f:5:denied}.`
+char_dla: ` Therefore, from now until the end of time, I will not allow for such technology to {f:5:exist}. It is not {f:5:permitted}."`
+char_non: `Beato and Dlanor had just gone through a massive exchange of red and blue.`
+char_non: `......However, not only had Dlanor not taken any damage, she also showed no signs of fatigue.`
+char_non: `Beato might have been a fearsome witch, but blood flowed through her veins and she did breathe.`
+char_non: `{n}She felt both pain and fatigue.`
+char_non: `But Dlanor......was like a doll made of marble.`
+char_non: `She felt no fatigue, no pain, no hesitation.`
+char_non: `Even if Beato's sharp wedges had aimed right for Dlanor's eyes, she wouldn't have shut them.`
+char_non: `......No, it was doubtful whether she ever even blinked in the first place......`
+char_nat: `"B‐......{f:5:Beatrice}...... Hang in there......"`
+char_bea: `"......I'd heard the rumors, but she really is the worst matchup for me.`
+char_bea: ` ......To think that dreams, hopes, and even future possibilities are forbidden. The arrogance of the gods is overwhelming.`
+char_bea: ` ......I'd expect no less from a witch hunt executioner.`
+char_bea: ` It seems we'll never be able to drink together."`
+char_non: `Even the strikes which had defeated Battler over and over had absolutely no effect on Dlanor.`
+char_non: `......She had expected that already more or less, but she hadn't expected to be repelled so easily...`
+char_kin: `"Quite a formidable opponent..."`
+char_bea: `"Oh my, so even the great {f:5:Goldsmith} has gotten old and decrepit.`
+char_bea: ` Hearing those words come out of your mouth is rarer than seeing two comets in the night sky...!"`
+char_kin: `"Hmph. I'm not decrepit, I'm already dead."`
+char_bea: `"Hah, that's true.`
+char_bea: ` Sorry, but I won't let you be for just a little longer."`
+char_non: `Beato experienced something she'd only rarely felt during her entire life.`
+char_non: `......It was probably what we'd call "hardship".`
+char_non: `As Natsuhi tried to comfort her, Beato quietly brushed aside her hand,`
+char_non: ` and she regained her posture again, showing off her witch's pride and her continued readiness to fight.`
+char_dla: `"Is that {f:5:all}?`
+char_dla: ` There was no need for me to be {f:5:present}.`
+char_dla: ` I am {f:5:disappointed}."`
+char_bea: `"I'm not done yet. I was just testing a few moves just now.`
+char_bea: ` I was only trying to measure your abilities."`
+char_ger: `"It is foolish in the extreme.`
+char_ger: ` Know your place, Golden Witch."`
+char_s00: `".........Lady {f:5:Beatrice}..."`
+char_non: `Beato's expression became tense once again.`
+char_non: `{n}No longer was there any trace of mischief.`
+char_non: `......The mood changed.`
+char_bea: `"The time for playing is over.`
+char_bea: ` Here I go.`
+char_bea: ` In that case, I shall acknowledge that Kinzo did not enter or leave the study.`
+char_bea: ` Why don't I accept your locked room?"`
+char_dla: `".........{f:5:Hm}."`
+char_ger: `"For your attention: I beg to inform you that {f:5:Beatrice} has changed her pattern of attack."`
+char_non: `{f:5:Beatrice}, who had until then thoroughly resisted the idea that a locked room existed, did an about face.`
+char_non: `She declared that she would accept that proposition.`
+char_non: `Of course, this didn't mean that she'd surrendered.`
+char_non: ` This was a new attack of Beato's.`
+char_non: `{n}Dlanor noticed this and readied herself.`
+char_s41: `"What's going on?`
+char_s41: ` Why did Lady {f:5:Beatrice} acknowledge the locked room when she's trying to destroy it nyeh?"`
+char_s45: `"......Sh‐she's probably going to claim that Kinzo existed outside of this room.`
+char_s45: ` ......Reactivation of the great Lady {f:5:Beatrice}'s warp portal confirmed!"`
+char_bea: `"{p:2:Natsuhi claims to have "talked with Kinzo in the study", but she never said that she spoke with him face to face.`
+char_bea: ` Therefore, if Kinzo was in a location other than the study, there is no contradiction as long as they held a conversation}!"`
+char_dla: `".........nn—"`
+char_non: `After bouncing at an erratic angle, the witch's stake pierced the top of Dlanor's foot.`
+char_rg7: `"You sure are slow.`
+char_rg7: ` ......Heheheheh, top of the foot, all mi~ne!"`
+char_bea: `"{p:2:Natsuhi used the internal phone line in this study to speak with Kinzo, who was in another place!`
+char_bea: ` There's nothing strange about Kinzo, who hates the relatives, predicting that they would enter his study and leaving to go elsewhere.`
+char_bea: ` He might have gone to the hidden mansion, Kuwadorian}!"`
+char_non: `The power of Beato's blue truth began to dwell in the Stake of Asmodeus piercing the top of Dlanor's foot, changing the stake into a blue wedge.`
+char_s41: `"Not bad, that makes sense nyeh...!"`
+char_s00: `"......Blue truth, valid!"`
+char_non: `A cyclone of gold butterflies swept up with Beato at its center.`
+char_non: `{n}......The magical power of the pitch‐black gate that had been smashed was once again refilled.`
+char_non: `......If she could hold Dlanor off here somehow,`
+char_non: ` this time, she would be able to warp Kinzo out of the study, all the way to Kuwadorian...!`
+char_non: `Dlanor moved clumsily, trying to pull the blue wedge out of her foot,`
+char_non: ` but it didn't even budge.`
+char_non: `Of course, Beato didn't miss this chance.`
+char_non: `{n}No witch would!`
+char_bea: `"I have more, so prepare yourself.`
+char_bea: ` {p:2:There's a chance that the Kinzo mentioned by Natsuhi does not refer to the person himself!`
+char_bea: ` The Kinzo spoken of by Natsuhi might have been another name for this room!`
+char_bea: ` Kinzo had taken refuge in Kuwadorian and was impossible to contact.`
+char_bea: ` Perhaps Natsuhi called this room "Father",`
+char_bea: ` and by contemplating inside of it, she felt as though she had received some sort of revelation from Kinzo}!!"`
+char_rg6: `"We've stopped you from moving. You've already lost!"`
+char_non: `Beelzebub's blue wedge pierced the base of Dlanor's neck!`
+char_non: `{n}Of course, even this didn't cause her to flinch, but her movements were restricted even further.`
+char_dla: `"......{f:5:Interesting}.`
+char_dla: ` Is that {f:5:all}?"`
+char_bea: `"You don't call it a full‐course dinner if you stop at the soups and hors d'oeuvres!`
+char_bea: ` I'll hit you with the main dish and the dessert at once, so watch your stomach explode and die!!!"`
+char_bea: `"{p:2:Even if, as you say, this is a locked room and impossible to escape from, you can't deny the possibility that he is still hiding in this room.`
+char_bea: ` I'm not talking about a hidden door! He might be under the bed or above the ceiling!`
+char_bea: ` He might be hiding in such a subtle blind spot that even a demon would not recognize it}!"`
+char_bea: `"{p:2:Or, it might be that Natsuhi, ordered by Kinzo to act as his proxy,`
+char_bea: ` considered herself both his representative and another Kinzo!`
+char_bea: ` In other words, it's possible that Natsuhi was also Kinzo}!"`
+char_bea: `"{p:2:I've got plenty more!! At eleven o'clock last night, Kinzo escaped out the window!`
+char_bea: ` Natsuhi watched him go, then locked the window!!`
+char_bea: ` This doesn't lead to any problems. In fact, it might be the most beautiful blue truth yet}!"`
+char_bea: `"How's that, Dlanor A. Knox?!`
+char_bea: ` Hyah{0}ha{0}ha{0}ha{0}ha{0}a{0}a{0}a{0}a{0}aahh!! There are any number of ways to escape from this locked room!!"`
+char_rg3: `"Know your foolishness in trying to oppose my master!"`
+char_rg4: `"There's no need for you to argue back."`
+char_rg5: `"Just suffer defeat here and sleep for all eternity...!"`
+char_non: `The Seven Sisters appeared from Beato's golden tornado one after another, and they pierced Dlanor with blue wedges.`
+char_non: `Four blue wedges were buried into her neck, her chest, her gut, and her thigh.`
+char_non: `Including the one buried into the top of her foot, she had been pincushioned by five stakes.`
+char_rg2: `"Aaaah, {f:5:Beatrice}‐sama!`
+char_rg2: ` What about my turn?!"`
+char_bea: `"I'll use you if I think of any more. Be quiet for now!!`
+char_bea: ` *cackle*cackle*, how's that, Dlanor the witch hunter?!!`
+char_bea: ` After skewering so many witches in the past and burning them at the stake, how does it feel to have the tables turned and be skewered by a witch?!!`
+char_bea: ` Heh{0}hi{0}hha{0}hha{0}a{0}ahhha{0}ha{0}ha{0}ha{0}ha{0}haha!!"`
+char_non: `They were all ridiculous arguments, but they came fiercely one after another.`
+char_non: `Though a total of five wedges pierced Dlanor, her expression didn't change in the slightest.`
+char_non: `However, her movements had indeed been limited...`
+char_s41: `"Ooh...`
+char_s41: ` Witches sure are scary nyeh...`
+char_s41: ` You can't beat twisted logic nyeh."`
+char_s45: `"They don't violate the Knox Decalogue...`
+char_s45: ` They're all valid...!"`
+char_dla: `"..........................."`
+char_nat: `"...W‐......well done, {f:5:Beatrice}...!`
+char_nat: ` Even if there was no one in this study and even if it was a locked room, that alone isn't enough to deny Father's existence...!"`
+char_bea: `"Against a normal opponent, I'd think the matter settled by now.`
+char_bea: ` ......But this is Dlanor, Chief Inquisitor!`
+char_bea: ` This ruthless woman even killed her father when he violated the Ten Commandments...!`
+char_bea: ` Kinzo, now!"`
+char_kin: `"Mm...!"`
+char_non: `Now that Dlanor had been pinned down, this was their last chance to recover their magical power and escape.`
+char_non: `Once again, a pitch‐black gate began to rise slowly in front of Beato and Kinzo......`
+char_non: `Though the gate had once been opened by simply drawing in the air,`
+char_non: ` it wasn't so easy in the study now, filled as it was with the power of denial.`
+char_nat: `"D‐......do you see now, everyone?!`
+char_nat: ` No matter how much you question the state of this study, the truth of Father's good health remains unshakeable...!!"`
+char_eri: `"......Oh, very bold words.`
+char_eri: ` I suggest you don't forget that you and I...`
+char_eri: `are both also a part of this battle.`
+char_eri: ` I cannot fight against witches, but I can fight against you."`
+char_non: `Erika grinned at Natsuhi with a smile more demonic than a real demon's.`
+char_eri: `"......Natsuhi‐san.`
+char_eri: ` Let me ask you again.`
+char_eri: ` ......Are you sure that last night, you spoke with Ushiromiya Kinzo‐san in this room?"`
+char_nat: `"Y‐yes.`
+char_nat: ` I have said repeatedly that I reported the day's events to him and bid him good night...!"`
+char_eri: `"This may be a strange thing to ask, but since it's needed to prove your innocence,`
+char_eri: ` please answer me straightforwardly.`
+char_eri: ` ......Is this Kinzo‐san you speak of the same Ushiromiya Kinzo‐san we are all thinking of?`
+char_eri: ` It isn't a different person or thing with the same name, is it?"`
+char_nat: `"I, I'm not really sure what you mean...!"`
+char_eva: `"......It's like this.`
+char_eva: ` You didn't, for instance, start calling this room itself "Father" after Father's death, right?`
+char_eva: ` That's what she's asking."`
+char_eva: `"You said you gave a report of the day's events to Father before bed, right?`
+char_eva: ` That doesn't mean you were here alone, delivering your report directly to the wall of the study and addressing it as "Father", does it...?"`
+char_nat: `"H‐how rude!!`
+char_nat: ` Nothing of the sort happened...!`
+char_nat: ` Father is Father!!`
+char_nat: ` He is in good health!`
+char_nat: ` And I most certainly gave him a report and said good night to him in this room last night...!!`
+char_nat: ` I'm not trying to trick you or talk my way out of anything!"`
+char_eri: `"I see.`
+char_eri: ` In that case, can you repeat what I tell you to?`
+char_eri: ` If you aren't tricking or deceiving us in any way, you should be able to repeat my words."`
+char_nat: `"F‐fine.`
+char_nat: ` I'll repeat whatever you want...!"`
+char_eri: `"Repetition requested.`
+char_eri: ` "Ushiromiya Natsuhi, at eleven o'clock last night,`
+char_eri: ` spoke with Ushiromiya Kinzo in this room, where he was also present"."`
+char_nat: `"I, I, "Ushiromiya Natsuhi, at eleven o'clock last night,`
+char_nat: ` spoke with Ushiromiya Kinzo in this room, where he was also present"!!"`
+char_eri: `"<Good>!`
+char_eri: ` Then I'll ask one last thing.`
+char_eri: ` ......Seriously now, Natsuhi‐san,`
+char_eri: ` you didn't do anything such as throwing Kinzo‐san out of the window after your conversation and locking the window behind him, I presume?`
+char_eri: ` Because everything still makes sense if you did."`
+char_nat: `"Wh‐why would I send Father out through the window?!!`
+char_nat: ` This is intolerable! This mockery is intolerable!!"`
+char_ger: `"For your attention: I beg to inform you of the following.`
+char_ger: ` {p:1:The "Kinzo" Natsuhi mentions refers to nothing other than Ushiromiya Kinzo}."`
+char_cor: `"For your attention: I beg to inform you of the following!`
+char_cor: ` {p:1:Natsuhi claims that she was face‐to‐face with Kinzo in the study at 11 p.m.}!"`
+char_nat: `"Ah, .........aaa{0}a{0}a{0}a{0}a{0}a{0}a{0}a{0}a{0}a{0}aahhhh...!!"`
+char_non: `Natsuhi let out a cry, but it was too late...`
+char_non: `{n}She had completely risen to their provocation...!`
+char_non: `The blue wedge to the foot representing a telephone discussion.`
+char_non: `The blue wedge to the neck representing the study itself being called Kinzo.`
+char_non: `The blue wedge to the gut representing Natsuhi herself being called Kinzo.`
+char_non: `The blue wedge to the thigh representing Natsuhi letting Kinzo escape out of the window and locking it afterwards.`
+char_non: `The four of them shattered with the sound of thin glass...!`
+char_non: `Because Natsuhi, {i:the one who knew the truth,} had denied them,`
+char_non: ` those denials had gained the power of the red truth...!`
+char_non: `Despite Kinzo's absence from this locked room, Beato had introduced five ways that Kinzo could still exist.`
+char_non: `Natsuhi had carelessly destroyed the premises behind four of those herself...!!`
+char_non: `Only one wedge remained.`
+char_non: `In other words, this was the last blue truth which could bury the contradiction of Kinzo existing in the study at eleven o'clock but not existing there later after it had become a locked room.`
+char_non: `There was only the theory that pierced Dlanor's chest: "Kinzo is hiding somewhere in this room".`
+char_non: `With this theory, even if Kinzo wasn't present in this locked room of a study, he could "exist" here...!`
+char_non: `If this wedge of Satan's were to be crushed, their chances of escaping this room would become hopelessly dim......!`
+char_rg3: `"Gghhh, .........ack...!!`
+char_rg3: ` B‐{f:5:Beatrice}‐sama...!`
+char_rg3: ` Quickly, escape while you still can...!!`
+char_rg3: ` Ggh, gyah......"`
+char_non: `Dlanor slowly grasped the final wedge, which still pierced her chest.`
+char_non: `......Her vice‐like grip seemed to be causing Satan intense pain as though all the bones in her body were being broken.`
+char_dla: `"All that remains......is this one {f:5:wedge}.`
+char_dla: ` It was about Kinzo hiding somewhere in this room, {f:5:correct}?"`
+char_eri: `"I am the detective, and I have searched everywhere.`
+char_eri: ` If even I haven't found him, just where do you suggest he is hiding? *giggle*giggle*giggle*!!"`
+char_non: `With the final wedge still sticking out of her chest, Dlanor slowly approached Beato...`
+char_non: `If this wedge was taken out, ......then......!`
+char_dla: `"Allow me to {f:5:ask}.`
+char_dla: ` Just where in this study is Kinzo {f:5:hiding}?"`
+char_bea: `"Heheh, who knows...`
+char_bea: ` {p:2:Maybe he's under the bed}?!"`
+char_dla: `"{p:1:That possibility was searched and {f:5:voided}}."`
+char_bea: `"{p:2:Maybe he's in the bathtub}!!"`
+char_dla: `"{p:1:Searched and {f:5:voided}}."`
+char_bea: `"{p:2:Inside the closet!`
+char_bea: ` Under the desk!`
+char_bea: ` Behind the curtains}!!"`
+char_dla: `"{p:1:Searched and {f:5:voided}.`
+char_dla: ` {f:5:Voided}.`
+char_dla: ` {f:5:Voided}}."`
+char_bea: `"{p:2:Behind the bookshelf,`
+char_bea: ` behind the closet,`
+char_bea: ` under the carpet,`
+char_bea: ` under the floor,`
+char_bea: ` above the ceiling,`
+char_bea: ` behind the wallpaper,`
+char_bea: ` inside the sofa, inside the chair.`
+char_bea: ` Inside the bed, inside the blankets, inside the walls,`
+char_bea: ` inside a rock,`
+char_bea: ` inside a stone,`
+char_bea: ` inside the room}!!"`
+char_dla: `"{p:1:Voi{f:5:ded}, voi{f:5:ded}, voi{f:5:ded}.`
+char_dla: ` Voi‐voi‐voi‐{f:5:dead‐dead‐dead}!`
+char_dla: ` Voi‐voi‐voi‐voi‐voi‐voi‐voi‐voi‐{f:5:death‐death‐death‐death‐death‐death‐death‐death}!`
+char_dla: ` <Die the DEATH>!`
+char_dla: ` <Sentence to DEATH>!`
+char_dla: ` <Great equalizer is the DEATH>}!!"`
+char_non: `No locations would work against Dlanor by this point.`
+char_non: `Dlanor took Beato's final desperate onslaught head‐on,`
+char_non: ` turning everything back with a far stronger power of denial!`
+char_non: `Smack them down!`
+char_non: ` Beat them down with overwhelming force!!`
+char_non: `No longer is there any place in this study for Kinzo to escape to...!!`
+char_non: `Beato was blown back like a leaf dancing in the wind,`
+char_non: ` knocked around over and over again like an empty can lying on a road.`
+char_non: `By now, no matter how many times Beato used the blue truth, it wouldn't be able to defeat Dlanor's red truth...`
+char_eri: `"Hahahahaha, ahhaha{0}ha{0}ha{0}ha{0}ha{0}haha...!!`
+char_eri: ` .........You witches are truly pitiful beings.`
+char_eri: ` ......You just try to talk your way out of things endlessly in an attempt to cover up the truth.`
+char_eri: ` Let me borrow Dlanor's words.`
+char_eri: ` ......I'm disappointed, {f:5:Beatrice}‐san.`
+char_eri: ` ...*giggle*giggle*giggle*!"`
+char_bea: `"......guh........................ggghh......"`
+char_non: `Erika coldly delivered these decisive words to Beato, ......who was crawling on the ground.`
+char_eri: `"Detective's authority.`
+char_eri: ` The detective has the right to inspect all crime scenes.`
+char_eri: ` And I have exercised that right.`
+char_eri: ` Therefore, I can say this."`
+char_eri: `"Kinzo‐san is not inside this room.`
+char_eri: ` Furthermore, this room is a perfect locked room.`
+char_eri: ` From the above two points, I can state this fact:`
+char_eri: ` This room has been uninhabited all along.`
+char_eri: ` Natsuhi‐san was lying about having met Kinzo‐san here last night!`
+char_eri: ` And that is checkmate, {f:5:Beatrice}‐san...!"`
+char_eri: `"*giggle*giggle*, ......ahahahaha, ahhah{0}ha{0}ha{0}ha{0}ha{0}ha{0}ha{0}ha{0}haa{0}ha{0}ha{0}ha{0}ha{0}ha{0}ha{0}ha{0}haha!`
+char_eri: ` What do you think of that?`
+char_eri: ` All it takes is the presence of this room,`
+char_eri: ` and a deduction like this becomes trivial for Furudo Erika!`
+char_eri: ` Your thoughts, ladies and gentlemen?!`
+char_eri: ` Ahha{0}ha{0}ha{0}hah{0}hah{0}hah{0}ha{0}a{0}aahh!!"`
+char_non: `At these words, the final wedge shattered,`
+char_non: ` and at the same time, the pitch‐black gate which was about to open shattered once again.`
+char_non: `This time, the warp portal had been completely destroyed...`
+char_non: `No longer would Kinzo be permitted to exist in this room......or escape from it...`
+char_non: `Beato struggled to her feet......but that was the best she could do.`
+char_non: `{n}She no longer had the energy to fight.`
+char_non: `She had taken all of the denying red head‐on from close range.`
+char_non: `It was all she could do to withstand the pain, which was so strong it felt like she'd vomit up all her insides...`
+char_non: `Even Beato, who had held a monopoly on the title of strongest and most evil witch all this time,`
+char_non: ` ......couldn't do a thing against a witch hunter.`
+char_non: `No matter how sturdy a sandcastle you build on the beach, it can never win against the rising tide......`
+char_bea: `".........S‐sorry, Kinzo...`
+char_bea: ` ......She really is...too tough for me......"`
+char_kin: `"{f:5:Beatrice}, I thank you.`
+char_kin: ` ......You've fought so hard for me despite your lingering grudge."`
+char_bea: `"I guess it's true that your life flashes by when you see death coming.`
+char_bea: ` ......I've remembered how you once looked when you were young.`
+char_bea: ` .........You were annoyingly like Battler."`
+char_kin: `"Battler is now carrying on everything, including my soul and the right to lead the family.`
+char_kin: ` I no longer have any regrets...!"`
+char_bea: `"............Battler............`
+char_bea: ` ...My apologies...`
+char_bea: ` ...Though I swore to fight with you once again,`
+char_bea: ` ...I must settle my accounts with something like this...`
+char_bea: ` ......How pitiful..."`
+char_but: `"................................."`
+char_non: `To Beato, it seemed as though Battler had met her gaze.`
+char_non: `{n}......There was no way he could have.`
+char_non: `This Battler was the piece Battler.`
+char_non: `{n}There was no way he could see Beato in this higher‐level world.`
+char_non: `However, his eyes really did meet hers.`
+char_non: `{n}Even though they couldn't have, .........Beato was sure they did.`
+char_non: `As Erika, Eva and the others closed in on Natsuhi, questioning her over and over,`
+char_non: ` ......only Battler stood apart from that tumult.`
+char_non: `His expression held none of the enthusiasm and excitement that the other humans had.`
+char_non: `It just piercingly and coldly surveyed the scene.`
+char_non: `And the expression on his face......was a quiet displeasure. Anger.`
+char_non: `He wasn't feeling compassion for Natsuhi because her lie was about to be exposed.`
+char_non: `However, he couldn't forgive Erika, who was simply enjoying the "intellectual rape" of cornering Natsuhi,`
+char_non: ` or any of the people going along with her.`
+char_non: `Then, he whispered softly.`
+char_but: `{a:c:`
+char_but: `".........No good."}`
+char_but: `Beato and the others definitely heard that...`
+char_bea: `"You don't think......Battler might...turn things around from this weakened position......?"`
+char_kin: `"......I probably could have done it, back in the day.`
+char_kin: ` ......And Battler can probably do it."`
+char_bea: `".........Battler..."`
+char_kin: `"Battler...`
+char_kin: ` ......If you are indeed the man who will inherit everything from me, ......now is the time to prove it...!`
+char_kin: ` Don't let the legend of the Golden Witch end here......!"`
+char_nat: `"It's true that I met Father here last night!!`
+char_nat: ` It's true!!`
+char_nat: ` And he spoke to me of the Ushiromiya family's glorious history, as well as the burden of bearing it..."`
+char_eri: `"Your lie has already been exposed, Natsuhi‐san.`
+char_eri: ` We already know that you were alone in this room last night."`
+char_eri: `"Would you please give this up now and launch into your confession?`
+char_eri: ` The culprit's refusal to capitulate is proportional to the poor quality of a mystery.`
+char_eri: ` At least show me that this third‐rate mystery had some redeeming qualities in the end."`
+char_but: `".........Yeah, this is no good.`
+char_but: ` No goddamn good at all."`
+char_non: `Battler, who had been silent off by himself up until then, finally spoke.`
+char_non: `At first, it sounded as though he was attacking Natsuhi.`
+char_non: `......However, when Erika realized he was glaring directly at her, her expression visibly clouded with displeasure.`
+char_eri: `"Exactly what......is no good?"`
+char_but: `"If the mystery is third‐rate, then so is the detective.`
+char_but: ` ......Listen up.`
+char_but: ` I'll be Grandfather for you."`
+char_bea: `"......B‐......Battler......?!"`
+char_eri: `"You'll be......Kinzo‐san?`
+char_eri: ` Are you saying you'll become Kinzo‐san to reenact his disappearance from this room?"`
+char_eri: `"......You can't possibly...intend on denying my checkmate...?`
+char_eri: ` ......That's ridiculous!!!"`
+char_dla: `"......What is this man {f:5:saying}?"`
+char_but: `"Hey, new girls.`
+char_but: ` .........Is this is your first game here?`
+char_but: ` Sorry, but calling checkmate after something like that is no good.`
+char_but: ` Yeah, it's no goddamn good at all...!!"`
+char_rud: `"Wh‐what are you talking about, Battler?`
+char_rud: ` You're gonna be Dad......?!"`
+char_but: `"Yeah.`
+char_but: ` I'll reenact it.`
+char_but: ` I'll become Grandfather and disappear from this room."`
+char_hid: `"Y‐you can't use the windows or the door! How're you gonna do it...?!"`
+char_goh: `"Did you find where the hidden door is?!"`
+char_kum: `"We don't have a clue... Yes, not a clue...!!"`
+char_non: `Rustle.`
+char_non: `.........That sound wasn't just the noise of the onlookers fidgeting.`
+char_non: `{n}...It was a provocative chill that ran up Erika's spine.`
+char_eri: `".........I like it.`
+char_eri: ` Yes, you are after all the Ushiromiya family head, the one who bears the Head's Ring.`
+char_eri: ` That should more than qualify you to stand in for Kinzo‐san.`
+char_eri: ` .........So let's hear your deduction!!"`
+char_non: `Erika's expression was no longer a challenging smile.`
+char_non: `{n}......It was malicious.`
+char_non: ` Extremely displeased.`
+char_non: `She couldn't conceal her anger at having her most pleasurable moment ruined.`
+char_bea: `"......H‐......how will he...get us out of here......?"`
+char_kin: `"Heh, ......heheheheh...`
+char_kin: ` ......I've got it.`
+char_kin: ` I see, so that move is still available."`
+char_but: `"So you finally figured it out, you damn geezer.`
+char_but: ` Hidden doors and hiding under the bed...... All that stuff is so pathetic I was almost weeping for you.`
+char_but: ` This is {i:the} Ushiromiya Kinzo we're talking about here.`
+char_but: ` ......There's got to be a more thrilling and exciting answer."`
+char_kin: `"Exactly.`
+char_kin: ` How pitiful that I couldn't even match my own ingenuity.`
+char_kin: ` And how pitiful that with all these relatives of mine present, the only one to understand me is the grandson who's returned after six years of absence.`
+char_kin: ` .........Battler, you are my acting proxy.`
+char_kin: ` Do not disgrace my legacy!"`
+char_but: `"Sure thing, Gramps!!`
+char_but: ` I'll teach these guests what the majesty of the Ushiromiya family head is all about!!"`
+char_nat: `"What are you planning to do...Father...?!"`
+char_kin: `"Wahhahahahaha!!`
+char_kin: ` Natsuhi, {f:5:Beatrice}, stand by and watch!`
+char_kin: ` ......We'll show you what it means to be the head of the Ushiromiya family!"`
+char_bea: `"...That Battler, what is he trying to prove......?"`
+char_eri: `"There's no way he can do anything.`
+char_eri: ` ......This is a perfect locked room!"`
+char_but: `"Aunt Natsuhi, come over here.`
+char_but: ` I'll tell you how I want you to move."`
+char_non: `Battler called Natsuhi over to the window and whispered something to her with his back towards the others...`
+char_eri: `"......Miss Dlanor,`
+char_eri: ` there isn't a remote chance of a mistake, is there?`
+char_eri: ` It {i:is} impossible for Kinzo and the witch to slip out of this room, correct?"`
+char_dla: `"Of {f:5:course}.`
+char_dla: ` ......Gertrude, Cornelia,`
+char_dla: ` and the imperial guard,`
+char_dla: ` double check that the seal of this locked room is {f:5:perfect}."`
+char_ger: `"For your attention: I beg to inform you of the following.`
+char_ger: ` Our barrier is perfect."`
+char_cor: `"For your attention: there are no hidden doors, and escape will not be granted through the door or the windows!`
+char_cor: ` Guards, if Battler breaks through the barrier, fire your arrows without hesitation!"`
+char_s00: `"Ch‐Chiester Troops, roger.`
+char_s00: ` Battler‐sama, prepare yourself...!"`
+char_s45: `"Escaping from this room...is impossible...!"`
+char_s41: `".........But he'll do it nyeh."`
+char_s45: `"H‐how...?!"`
+char_s41: `"He's certain he can succeed even without any basis.`
+char_s41: ` That's what it means to be the Ushiromiya head nyeh...!"`
+char_ron: `"............True.`
+char_ron: ` Let's watch."`
+char_gap: `"Yeah.`
+char_gap: ` ...Let's see the majesty of Riiche's opponent...!"`
+char_but: `"Then I'll begin."`
+char_non: `Everyone nodded and watched Battler's every move...`
+char_but: `"So I'm Grandfather, and I was lying in bed like this,`
+char_but: ` grunting my understanding of Aunt Natsuhi's report or whatever."`
+char_non: `Battler laid down on the bed himself.`
+char_non: `As if it still mattered now, Erika grumbled about disturbing the crime scene, but no one listened to her.`
+char_but: `"Then, I stop answering and fall asleep.`
+char_but: ` .........Well, realistically speaking, I probably get tired of all that talking and only pretend to be asleep."`
+char_kin: `"Ahahahaha! You know me too well...!"`
+char_nat: `"I, ......I see that Father has gone to sleep,`
+char_nat: ` ...bow silently, and leave."`
+char_non: `Natsuhi lowered her head to Battler, who was still lying down in the bed, and turned around...`
+char_non: `Then, she started wandering around, as though doing an inspection of the room.`
+char_but: `"......After seeing Grandfather go to sleep, Aunt Natsuhi apparently performs an inspection of the room before leaving."`
+char_but: `"Of course, she has Shannon‐chan and the others clean it every day,`
+char_but: ` but she still checks it thoroughly herself.`
+char_but: ` ......Making sure there was no dust piling up.`
+char_but: ` Making sure that he hadn't run out of any consumables."`
+char_nat: `"Y‐yes.`
+char_nat: ` This is the family head's treasured room, so I check everything carefully myself instead of relying entirely on the servants.`
+char_nat: ` I do this every single time."`
+char_sha: `".........Th‐that's true.`
+char_sha: ` Madam always checks things very carefully."`
+char_kan: `"Her inspection is very detailed, and she even checks all of the consumables in the washroom one by one."`
+char_but: `"In other words, it's not just dust on the windowsill like you see all the time on TV.`
+char_but: ` .........She even checks to see that there's enough soap and toilet paper in the washroom.`
+char_but: ` Pretty devoted, if you ask me. It wouldn't kill you to skip a day from time to time."`
+char_nat: `"Th‐that is my routine.`
+char_nat: ` I mustn't become complacent in my inspection of the head's room for even a single day."`
+char_eri: `"............What is your point?`
+char_eri: ` Please don't waste our time putting on airs."`
+char_kir: `"*giggle*.`
+char_kir: ` Isn't putting on airs the detective's right?"`
+char_eri: `"Nn, gah, ......{i:I}...am the...d‐detective........."`
+char_but: `"Since we're inside the study, you can probably tell, but even though we call it a study,`
+char_but: ` it wouldn't be wrong to call it a second house inside the mansion."`
+char_but: `"It has a sleeping room, a study, a washroom, and even a toilet and bath.`
+char_but: ` So it's not so much a "room"...`
+char_but: `as it is a "house"."`
+char_dla: `"......Thank you for the explanation of the study's {f:5:layout}.`
+char_dla: ` However, the move of having him hide somewhere within it has already been {f:5:defeated}."`
+char_but: `"There won't be any hiding.`
+char_but: ` But I'm pretty sure there are plenty of blind spots.`
+char_but: ` ......For example, if Aunt Natsuhi went into the bathroom to check the amount of toilet paper,`
+char_but: ` most of the study would be out of her sight range."`
+char_but: `"......In other words, for almost every location in the study, the observer would have disappeared."`
+char_s45: `"!!`
+char_s45: ` ......O‐observer disappearance...!`
+char_s45: ` We've lost track of Kinzo...!"`
+char_ger: `"For your attention: I beg to inform you that the witch's darkness is filling the study."`
+char_kin: `"Good. ......It's being filled with the power of darkness.`
+char_kin: ` Heh{0}eh{0}eh{0}eh{0}eh{0}eheh!"`
+char_eri: `"And so what if the observer...if Natsuhi left...?`
+char_eri: ` ......So what?!"`
+char_but: `"When Grandfather noticed that fussy Aunt Natsuhi finally leaving, he got up."`
+char_eri: `"Why?!"`
+char_kin: `"Wahhahhahhahhahha!!`
+char_kin: ` On a night of madness such as this, nothing goes better with a drink than enjoying the mad weather of the night sky!!"`
+char_but: `"......Because Aunt Natsuhi was in the blind spot of the bathroom,`
+char_but: ` it becomes possible for Grandfather to walk about the study at will."`
+char_non: `It was possible for him to move without Natsuhi's knowledge.`
+char_non: `{n}It was possible for him to move without contradicting what Natsuhi knew!`
+char_s00: `"Warning! Battler is approaching the study door!"`
+char_ger: `"For your attention:`
+char_ger: ` a loud noise is produced when the lock on the study door is released.`
+char_ger: ` Know that {p:1:you cannot leave through the door without drawing Natsuhi's suspicion}."`
+char_non: `Because Battler had acted as though he was heading for the door, Gertrude, who was sealing the door, immediately issued a warning.`
+char_non: `Maybe it was possible for him to leave the study while in Natsuhi's blind spot.`
+char_non: `......However.`
+char_eri: `"That's right...the sound!!`
+char_eri: ` We know there's a loud sound when the auto‐lock's released!`
+char_eri: ` Even if Natsuhi was in a blind spot inside the study, she wouldn't have missed the loud sound of the auto‐lock releasing.`
+char_eri: ` There's no {i:way} she wouldn't find that odd...!!"`
+char_ger: `"For your attention:`
+char_ger: ` I beg to inform you that {p:1:Natsuhi did not hear the sound of the door opening while in the room}."`
+char_non: `The washroom and toilet are very close to the door.`
+char_non: `{n}Even if they hadn't been, that auto‐lock always lets off such a massive sound.`
+char_non: `She'd be able to hear that sound no matter what.`
+char_non: `Natsuhi had already spoken with Erika and the others about the details of the previous night,`
+char_non: ` and she had made it quite clear that nothing out of the ordinary had occurred.`
+char_non: `The argument that Natsuhi could have failed to hear the lock would not work...!`
+char_ger: `"For your attention: I further inform you of the following.`
+char_ger: ` {p:1:Kinzo entering or exiting through the door will not be permitted}."`
+char_cor: `"For your attention: I beg to inform you that this is a useless struggle!`
+char_cor: ` It is foolish in the extreme...!!"`
+char_but: `".........It's true that I can't break through the red of that girl by the door.`
+char_but: ` .........But what about you over there by the window?"`
+char_cor: `".........!"`
+char_non: `Turning his back to Gertrude, who claimed that leaving through the door was impossible,`
+char_non: ` Battler locked his gaze on Cornelia, who stood in front of the window.`
+char_but: `"Make sure you hold that barrier of yours up tight.`
+char_but: ` ......Or else you're gonna be.........{i:sent flying}."`
+char_non: `By now, Battler's target was clear.`
+char_non: ` .........It was Cornelia.`
+char_non: `{n}And......it was the window.`
+char_non: `He was going......to smash this locked room from the window.`
+char_non: `Not expecting to be chosen as the target herself,`
+char_non: ` Cornelia was overawed for just a second, but she quickly regained her composure.`
+char_non: `Although it was rare, it happened sometimes that a witch struggling to flee would directly target the one setting up the barriers.`
+char_non: `And it was always the witch's last futile resistance at the brink of death!`
+char_ger: `"For your attention: I beg to inform you of the following.`
+char_ger: ` Battler's target is you, Cornelia.`
+char_ger: ` I ask that you be on your guard."`
+char_cor: `"It is foolish in the extreme!`
+char_cor: ` God, have pity on this foolish lamb...!!"`
+char_but: `"I'm no lamb.`
+char_but: ` ......The head of the Ushiromiya family is an eagle.`
+char_but: ` Even if he only has one wing.`
+char_but: ` .........Don't think you can keep me shut up in this study forever with just a flimsy window like that."`
+char_non: `......Starting from a low posture,`
+char_non: ` ......both silent and supple,`
+char_non: ` ......Battler ran forward like a white leopard.`
+char_eri: `"............Th‐`
+char_eri: `......this guy...`
+char_eri: `...couldn't possibly mean to.........!!"`
+char_cor: `"............!!`
+char_cor: ` Th‐this is...... .........gh.`
+char_cor: ` F‐for your attention...!`
+char_cor: ` There is no way to defeat my red!`
+char_cor: ` Know that your wish will not be granted...!!"`
+char_non: `Cornelia thrust out both her arms and drew a sign.`
+char_non: `{n}When she did, a red barrier blocked the way ahead of Battler.`
+char_cor: `"I beg to inform you that this is useless, Ushiromiya Battler...!`
+char_cor: ` For your attention: my {p:1:windows are sealed from the inside, and Natsuhi did not help Kinzo to escape}...!!"`
+char_but: `"{p:2:I'm not saying Aunt Natsuhi helped Grandfather escape.`
+char_but: ` ......What if Grandfather snuck out, keeping it a secret from Aunt Natsuhi}?!"`
+char_eri: `"Wh‐why would Kinzo go out the window on his own?!!!"`
+char_kin: `"On this night of madness, leaping out into the rainy sky...`
+char_kin: `is but a leisure activity to pair with my drink!!!"`
+char_eri: `"But this is the third floor! It's impossible!!!"`
+char_bea: `"Even you must occasionally jump the bottom step when going down a flight of stairs, right?`
+char_bea: ` Three stories is nothing for Kinzo...!"`
+char_nan: `"I wouldn't put it past him."`
+char_kum: `"Yes, I wouldn't put it past him."`
+char_eri: `"Th‐that's...r‐ridiculous......!!!"`
+char_non: `Blue cracks appeared in Cornelia's red barrier, and it shattered with a crisp sound.`
+char_non: `It was all far too quick.`
+char_non: `It looked almost as though she'd gotten out of the way herself in fear of Battler.`
+char_s45: `"E‐...{ruby:99.9999999...:endless nine}...!!`
+char_s45: ` Magic resistance, {ruby:99.9999999...:endless nine}!!"`
+char_s00: `"Cornelia‐sama, you can't block it, retreat...!"`
+char_non: `At the same time the barrier shattered, the window behind Cornelia's back was flung open.`
+char_non: `The curtains fluttered for just an instant.`
+char_non: `Though it was all filled with rain, the heavens and the courtyard were spread out in front of them...`
+char_non: `{n}A fitting exit for an eagle leaping from this locked room!`
+char_dla: `"Cornelia, reapply the {f:5:barrier}!!"`
+char_cor: `"As you wish, Supervisor Dlanor!`
+char_cor: ` Kn‐know that you will not succeed in breaching this window...!!"`
+char_non: `Cornelia quickly came back to her senses and set up another red barrier.`
+char_non: `......However, this was the last one.`
+char_cor: `"For your attention: I beg to state the following...!!`
+char_cor: ` Let us temporarily assume that Kinzo did escape through the window...!`
+char_cor: ` In that case, how did he lock a window which cannot be locked from the outside?!`
+char_cor: ` {p:1:The window was locked from the inside}!!"`
+char_kin: `".........No good!"`
+char_but: `"Yeah, it's no goddamn good at all!!"`
+char_non: `Kinzo and Battler grinned!`
+char_non: `She thought this feeble red could block the charge of Battler and Kinzo, the two family heads?`
+char_but: `"{p:2:After Grandfather jumped out the window, Aunt Natsuhi probably noticed a slight draft.`
+char_but: ` She then approached the window, realized that it was wide open, and quickly closed and locked it}...!!"`
+char_kin: `"{p:2:Natsuhi probably couldn't even imagine that I had slipped out the window}!"`
+char_but: `"{p:2:Yeah!!`
+char_but: ` So it's only natural that Aunt Natsuhi thought Grandfather was sleeping in bed}!!"`
+char_non: `Now that Battler had found the answer, the red barrier was more fragile than thin glass.`
+char_non: `The red magical wall of certainty had been smashed again, so easily that it disgraced the name of certainty itself!`
+char_non: `Could it be believed?`
+char_non: `That barrier was more firm than any shield Ronove had ever used against Jessica.`
+char_non: `And yet it had been......destroyed so easily...!`
+char_non: `Though Battler was charging furiously forward and had almost reached Cornelia, she didn't step aside.`
+char_non: `Her steel spirit, worthy of the name Eiserne Jungfrau, didn't allow her to step aside.`
+char_non: `She took a talisman from her pocket, placed it in thin air, and drew a sign.`
+char_non: `Then, not red, but blue burned there.`
+char_non: `{n}Though it was far more frail than the red barrier, it was her last method of resistance.`
+char_cor: `"Y‐you won't get through, you won't!! For your attention, for your attention!!`
+char_cor: ` {p:2:Be that as it may, this is the third floor...!`
+char_cor: ` How could a wingless human escape from the window}......?!!`
+char_cor: ` Know that you won't get through, you wooooooooon't!!"`
+char_kin: `"Just quit your whining and watch!!!"`
+char_but: `"{p:2:This is the answe{-}e{-}e{-}e{-}e{-}e{-}e{-}er{-}r{-}r{0}r{0}r{0}r{0}ra{0}a{0}a{0}a{0}a{0}a{0}a{0}a{0}a{0}aahhhh}!!"`
+char_non: `Battler......flew.`
+char_non: `He burst through Cornelia's blue barrier, smashing it away,`
+char_non: ` .....and his body flew out the window into the darkness of the rainy sky.`
+char_non: `The fragments of the blue barrier scattered, leaving blue dust in their wake, coloring the air beautifully.`
+char_non: `The locked room...`
+char_non: `...had been smashed open......!!`
+char_non: `Battler......had jumped from the mansion.`
+char_non: `He was in the sky above the rainy courtyard.`
+char_non: `......All of the raindrops had become small round gems that were scattered through the air.`
+char_non: `Battler was floating through the jewelry‐box world of this beautiful stormy sky filled with countless raindrop gems.`
+char_non: `In the sky of a world frozen in time, Dlanor and Battler faced each other.`
+char_non: `If Battler, who had smashed and flown out the window, was like a knight leaping off a white horse,`
+char_non: ` ......then Dlanor, who floated in the air waiting for him, was also a knight.`
+char_non: `In the air above the courtyard surrounded by the Ushiromiya mansion and frozen in time,`
+char_non: ` ......the true new head of the Ushiromiya family and the disciple of heaven who would test him crossed paths......`
+char_dla: `"......Brilliantly {f:5:done}.`
+char_dla: ` Whether you live or die when you fall into the courtyard, it does not change the fact that Kinzo could have broken out of this locked {f:5:room}...!!`
+char_dla: ` You are a true martyr, giving up your life to {f:5:jump}...!!`
+char_dla: ` You did well to break our locked‐room {f:5:barrier}.`
+char_dla: ` I am {f:5:impressed}, Ushiromiya Battler!!"`
+char_dla: `"However, I am Dlanor A. Knox, Chief {f:5:Inquisitor}!!`
+char_dla: ` I cannot allow you to escape out from under my {f:5:nose}...!`
+char_dla: ` Now, at the end, allow me the honor of crossing swords with {f:5:you}!!"`
+char_but: `"Sure, bring it on.`
+char_but: ` ......This game isn't as easy as it looks."`
+char_non: `In this world where the gems of rain......fell slowly like large snowflakes on a snowy field.`
+char_non: `......Dlanor and Battler slowly.........crossed paths.`
+char_non: `It seemed slow.`
+char_non: ` And yet, ......it happened in a flash.`
+char_non: `Their gazes crossed and clashed like lightning.`
+char_non: `When knight confronts knight, it is always head‐on and decided in a single strike......!`
+char_non: `Blue and red......crossed paths......`
+char_dla: `"{p:2:Was the existence of Natsuhi's blind spot within the study depicted {f:5:beforehand}?`
+char_dla: ` If it was not, this theory is {f:5:impermissible}}.`
+char_dla: ` {p:1:Knox's 8th:`
+char_dla: ` It is forbidden for the case to be resolved with clues that are not {f:5:presented}}...!!"`
+char_non: `Dlanor's double strike with both the blue and red blades sliced at Battler,`
+char_non: ` .........and missed.`
+char_non: `Those longswords, which had never lost in a hundred battles, cut through the empty air......`
+char_but: `"{p:1:When we entered the study, its structure was mentioned clearly}.`
+char_but: ` ......Sorry, little miss."`
+char_non: `For the first time, Dlanor showed an expression.`
+char_non: `{n}......It was a soft smile.`
+char_non: `She had known since long ago that the study's structure had been mentioned.`
+char_non: `But she couldn't let him escape without making a single strike.`
+char_non: `{n}As an Inquisitor, she could not do that.`
+char_non: `So though she had known that she wouldn't make it, she had still crossed swords with Battler.`
+char_dla: `"Yes, I {f:5:knew}.`
+char_dla: ` ......That answer of yours doesn't violate Knox's eighth {f:5:commandment}."`
+char_but: `"......Don't hold this against me. I hope you're ready."`
+char_dla: `"Yes, {f:5:come}."`
+char_non: `In Battler's hand......was a blade that shone red.`
+char_non: `{n}That blade etched out the red truth......`
+char_non: `{p:1:― It wouldn't be an exaggeration to say that Kinzo's study was a small villa he had created inside the mansion.}`
+char_non: `{p:1:― A study.`
+char_non: ` A book archive.`
+char_non: ` A place to sleep.`
+char_non: ` And a bathroom and washroom.`
+char_non: ` It was divided into multiple rooms.}`
+char_non: `That was already presented.`
+char_non: `And it suggests that room‐sized blind spots can exist within the study...`
+char_non: `Without any mercy, ...no, without any reluctance that would have been dishonorable,`
+char_non: ` ......the sword of red truth cut into Dlanor.`
+char_non: `Its sharp trail cut the countless gemdrops filling the sky into beautiful hemispheres......`
+char_dla: `"Brilliant.........{f:5:work}......"`
+char_but: `"........................"`
+char_non: `Time...exploded into life.`
+char_non: `Both of them...fell through the courtyard.`
+char_non: `One drifted down.`
+char_non: ` The other tumbled through the air.`
+char_non: `Then, there was a soft sound and a dull thud.`
+char_non: `......The first was the sound of Battler landing gently in the courtyard.`
+char_non: `{n}The second was the sound of Dlanor crashing down.`
+char_non: `After crouching down for a while,`
+char_non: ` .........Battler slowly stood up.`
+char_non: `Though he had jumped down from the third floor, ......he had landed as lightly as though he had merely jumped over a fence......`
+char_bea: `"B‐...Battleeeeeeeeeeer.........!!"`
+char_non: `Beato leaned out of the study window, looking to see if the supposedly wingless Battler had landed safely.`
+char_but: `"Beato!!`
+char_but: ` Come on, jump!!"`
+char_bea: `"Huh......?!"`
+char_but: `"That window is our way out!`
+char_but: ` ......So jump!!`
+char_but: ` You aren't the kind of witch who'd let herself be trapped inside a locked room!!"`
+char_non: `The study was no longer a locked room.`
+char_non: `{n}She could jump from here, escape from here...!`
+char_non: `The locked room which had threatened to capture the witch and suffocate her had now been destroyed.`
+char_bea: `"M‐......mm...!!`
+char_bea: ` Y‐you too, Kinzo...!"`
+char_kin: `"Go.`
+char_kin: ` From the moment Battler showed his answer, my spirit had already escaped from this room."`
+char_non: `Kinzo's form became a group of gold butterflies and disappeared.`
+char_non: `{n}The locked‐room barrier had dissolved, and the power which denies magic had scattered.`
+char_non: `Beato ran towards the window.`
+char_non: `{n}......That was the only exit from the locked room of this witch hunt.`
+char_non: `After glancing at the Inquisitors and the Chiester Sisters,`
+char_non: ` she readied her wound‐covered body and ran towards the window, just like Battler had done.`
+char_non: `She looked like Cinderella running as she heard the bell toll.`
+char_eri: `"Y‐you're not getting away, {f:5:Beatrice}, you witch illusion!!"`
+char_non: `Erika flew at Beato, trying to grab onto her as she dashed away,`
+char_non: ` but it was like trying to catch smoke, and Erika landed face‐first on the floor.`
+char_non: `......There's no way a {y:0:Human}{n:0:human} can catch a witch.`
+char_non: `{n}For one such as her, without love, even touching Beato was impossible...!`
+char_eri: `"Chiester Troops, shoot the witch! Shoot her dead!!"`
+char_s00: `"Alignment conflict. Unable to fire."`
+char_ger: `"For your attention:`
+char_ger: ` we have no barrier prepared which can block Battler's blue truth."`
+char_non: `Both Chiester00 and Gertrude spoke with unbelievably calm voices.`
+char_eri: `"N‐no one can stop any of them?`
+char_eri: ` Not Battler? Or Kinzo?`
+char_eri: ` Or {f:5:Beatrice}?!`
+char_eri: ` If these guys escape, then...`
+char_eri: `...m‐`
+char_eri: `......my locked room, my deduction...!!"`
+char_eri: `"And I...`
+char_eri: `...the detective,`
+char_eri: ` ...Furudo...Erika...`
+char_eri: `kkg{0}g{0}g{0}h{0}h{0}h{0}a{0}a{0}a{0}a{0}a{0}a{0}a{0}a{0}a{0}a{0}a{0}g{0}g{0}g{0}h{0}hgh!`
+char_eri: ` Gyaaa{0}a{0}a{0}a{0}a{0}a{0}a{0}a{0}g{0}g{0}g{0}h{0}h{0}h{0}a{0}a{0}a{0}a{0}a{0}a{0}a{0}a{0}a{0}a{0}a{0}a{0}a{0}a{0}aahhh!!!"`
+char_non: `Erika crouched, screaming and clutching at her head.`
+char_but: `"You're the great Golden Witch! You can't be defeated by something like that geezer's grubby study!!`
+char_but: ` It's still just the first twilight!`
+char_but: ` Show these newcomers that your game isn't that easy!!"`
+char_non: `Just like Battler, Beato also......jumped.`
+char_non: `She drifted down through the gemdrop jewelry‐box world into Battler's chest.`
+char_non: `......Battler caught her with both arms as though catching an angel's wings.`
+char_non: `It was like a knight catching a princess who had been locked up in a tower,`
+char_non: ` ......like a beautiful picture of a scene in some fairy tale...`
+char_gap: `".........Crap, ......I think I'm in love.`
+char_gap: ` ...Are all the Ushiromiya family heads guys like this?"`
+char_ron: `"If you were to chronicle all the daring exploits of Ushiromiya Kinzo,`
+char_ron: ` ......you would probably have a tale longer and wilder than all the grimoires in the study put together.`
+char_ron: ` It seems the tale of the next head will be worth writing down as well.`
+char_ron: ` In fact, it already is being written.`
+char_ron: ` It's already a very, very long tale.`
+char_ron: ` ......Pu ku ku ku."`
+char_non: `The demons giggled on top of the roof, holding umbrellas.`
+char_non: `{n}Then, they quietly looked down over the two in the courtyard.`
+char_bea: `"Hah, hahhahhahahahahahaha...`
+char_bea: ` ......You're......not bad at all......"`
+char_but: `"I guess all your games've toughened me up."`
+char_non: `In shock, Beato.....actually praised Battler as he held her in his arms.`
+char_non: `Battler laughed in his usual carefree way......`
+char_eri: `".........Th‐`
+char_eri: `......this is.........`
+char_eri: `impossible...impossible!!"`
+char_non: `Erika looked down from the window and clenched her teeth, still clutching at her head.`
+char_non: `Still holding Beato in his arms, Battler grinned back.`
+char_but: `"Erika."`
+char_eri: `"......Wh‐...what is it...?"`
+char_but: `"I'm not giving the riddle of the Golden Witch up to you.`
+char_but: ` I'm going to solve it.`
+char_but: ` ......That riddle belongs to the two of us.`
+char_but: ` Right, Beato?"`
+char_bea: `"Y‐......yes...!`
+char_bea: ` My riddle is...yo‐......yo‐......"`
+char_but: `"Yo?"`
+char_non: `As Battler gave her a mischievous grin, Beato's face turned uncharacteristically red.`
+char_non: ` But even so, she spoke with a refreshingly bright expression while laughing loudly.`
+char_bea: `"My riddle is...`
+char_bea: `yo‐......yours...`
+char_bea: `...yours alone...!! Ushiromiya Battler!`
+char_bea: ` I won't let anyone else solve it...!!"`
+char_but: `"Heheh, listen to her, saying something like that...!!"`
+char_non: `Battler snorted, amused that Beato had said something so unlike her.`
+char_non: `And, still holding Beato in his arms, he spun around in a kind of waltz.`
+char_non: `The falling gemdrops celebrated their overcoming of this trial......`
+char_eri: `".........He jumped down from the third floor...? ......Unharmed...?`
+char_eri: ` He jumped down......and escaped from the locked room...?`
+char_eri: ` Th‐this is ridiculous...... This isn't reasoning... ......It's insane!!"`
+char_non: `If Battler had at least been seriously injured and writhing in the mud,`
+char_non: ` ......Erika might still have had some ground to stand on.`
+char_non: `She might have been able to claim that Kinzo couldn't have jumped down with his old body and gotten away unscathed.`
+char_non: `......However, Battler stood calmly in the courtyard, looking up at Erika with the dignity of the victor.`
+char_eri: `"Le‐...let me ask all of you again.`
+char_eri: ` ......This...can't be possible, right?`
+char_eri: ` There's no way a {y:0:Human}{n:0:human} can jump out of a third story window and land unharmed...!!"`
+char_eri: `"Isn't that right, everyone...?!`
+char_eri: ` Much less Kinzo‐san, jumping down from the third floor at his age!! There's no reasoning behind this!!"`
+char_non: `Erika tried to get everyone's agreement and somehow turn things around,`
+char_non: ` ......but their responses were no different from how they had been a short while ago.`
+char_nan: `"No, with Kinzo‐san, it's a possibility."`
+char_rud: `"Wouldn't put it past Dad."`
+char_eva: `"This is Father we're talking about......"`
+char_hid: `"There're plenty of crazy stories about that man.`
+char_hid: ` Somethin' like this wouldn't surprise me at all."`
+char_eri: `"Wh‐......what.........?!!`
+char_eri: ` I‐...is there something wrong in your heads, in your minds, people?!?!"`
+char_kir: `"At any rate, ......it looks like your locked‐room argument wasn't perfect."`
+char_eri: `"Ah......gggrrrrrrrrggh...!!"`
+char_non: `Not only the servants, but the family members also agreed.`
+char_non: `They all agreed that there would be nothing strange about Kinzo jumping down from a third‐floor window.`
+char_non: `J‐just who in the world...is this Ushiromiya Kinzo person...?!!`
+char_bea: `"Well, I'll give you 60 points...`
+char_bea: ` Kinzo would have done it with a bit more flash in his younger days.`
+char_bea: ` It needs some more tweaking."`
+char_but: `"Oh, and how much should it be tweaked?"`
+char_bea: `"W‐well...`
+char_bea: ` Umm, ......h‐he might have jumped down with me in h‐his arms!"`
+char_but: `"Got it.`
+char_but: ` Next time we do this, I'll jump down with you in my arms."`
+char_bea: `"I, ......I'd like to see you try..."`
+char_non: `Beato's voice went very shrill, and she gulped.`
+char_non: `Then, her body suddenly became a group of gold butterflies and crumbled away.`
+char_non: `It was because many people had rushed up to the window, and she was being bathed with gazes filled with the anti‐magic toxin.`
+char_non: `Beato's body became invisible to them and melted into the air...`
+char_non: `So to their eyes, it appeared that Battler was standing all alone out in the courtyard...`
+char_rud: `"Battleeeeeeeeer!! You okaaaaaaaaay?!!"`
+char_sha: `"I‐it looks like he's alright...! Thank goodness!"`
+char_dla: `"......I am {f:5:defeated}...`
+char_dla: ` ......In that case, for the benefit of the people in the study, ......deliver me the final {f:5:blow}.`
+char_dla: ` Use your final blue truth to show how Kinzo escaped from the locked room of that {f:5:study}."`
+char_non: `There was no pain in Dlanor's expression.`
+char_non: `{n}...Pleasure and pain never showed up on her face in the first place.`
+char_non: `However, she used her longsword as a crutch as she struggled to her feet, so it was easy to tell that she had taken heavy damage.`
+char_non: `And despite her lack of an expression, you could tell that this was a loss she could accept.`
+char_non: `Battler and Dlanor turned to face each other.`
+char_but: `"Here I go."`
+char_dla: `"Yes, {f:5:come}.`
+char_dla: ` ....................."`
+char_non: `As though readying herself, Dlanor quietly closed her eyes, but she still stood tall and maintained her air of dignity.`
+char_but: `"This is my blue truth."`
+char_non: `The blue power gathered.`
+char_non: `{n}......Battler slowly approached Dlanor.`
+char_non: `Then, he faced the rainy sky and yelled out the blue truth.`
+char_but: `"{p:2:Ushiromiya Kinzo escaped from the study through the window when Aunt Natsuhi couldn't see him.`
+char_but: ` Aunt Natsuhi didn't notice and locked the window.`
+char_but: ` This way, Aunt Natsuhi can see Grandfather go to bed at eleven o'clock and Grandfather can escape from the study without contradicting the lock of the window or the door sealed by the receipt.`
+char_but: ` I proved through my demonstration that this escape was physically possible.`
+char_but: ` Therefore, this battle is over}!!"`
+char_non: `The blue wedge flashed through the courtyard along with a blue bolt of lightning,`
+char_non: ` and roared down towards Dlanor's forehead as she stared up at the sky.`
+char_dla: `"........................ah."`
+char_but: `".........Beato's games are no walk in the park.`
+char_but: ` It's doubtful whether the conventions of the mystery genre even apply here.`
+char_but: ` Your swordsmanship isn't bad, but you should be a bit more flexible in your thinking."`
+char_non: `......A massive blue wedge which looked like a pillar......was above Dlanor's forehead...`
+char_non: `...and had stopped with its tip just slightly touching her.`
+char_non: `It didn't run her through.`
+char_non: `......It made no mark larger than being poked with a pencil.`
+char_non: `When Battler snapped his fingers, the blue wedge shattered,`
+char_non: ` and became a shower of translucent gems,`
+char_non: ` .........no, drops of rain that poured down over the courtyard.`
+char_non: `Dlanor sat down in an absent sort of way...`
+char_non: `Amidst the thunder and rain, the successor to the Ushiromiya family faced the people staring down from the study...`
+char_non: `...and spread his arms wide...`
+char_but: `".........Welcome to Beato's and my game.`
+char_but: ` We receive you with open arms! Furudo Erika......!"`
+char_eri: `"Ahhaha......`
+char_eri: ` .........Ah{0}hah{0}hah{0}hah{0}ha, kah{0}hah{0}hah{0}hah{0}hah{0}ha...!!`
+char_eri: ` I like it, Ushiromiya Battler...!`
+char_eri: ` <Good>, truly <good>...!!`
+char_eri: ` Ah{0}hah{0}ha{0}ha{0}ha{0}ha{0}ha{0}ha{0}ha{0}ha{0}ha{0}ha{0}ha{0}ha{0}ha{0}ha{0}haha...!!`
+char_eri: ` I'll devour it whole,`
+char_eri: ` this riddle of the witch...!!`
+char_eri: ` All the way deep into its guts while it's still alive!!`
+char_eri: ` Ah{0}hah{0}hah{0}hah{0}hah{0}ha{0}ha{0}ha{0}ha{0}he{0}hyah{0}ha{0}ha{0}hahha!!"`
+char_non: `Battler and Beato both looked calmly up at Erika, who couldn't contain that evil laugh......`
+char_lam: `"Ohhohohohohohohoho, ooo{0}ho{0}ho{0}ho{0}ho{0}ho{0}ho{0}ho{0}hyah{0}hya{0}a{0}aahhh!!`
+char_lam: ` Ah, this is good stuff!!`
+char_lam: ` Erika, that was so laaaame, ehi{0}hhah{0}ha{0}ha{0}ha{0}ha{0}ha{0}ha{0}ha{0}haha!!"`
+char_eri: `"G......gah.........`
+char_eri: ` L‐Lady {f:5:Bernkastel}...`
+char_eri: ` ......M‐my apolo...gies......"`
+char_ber: `"That face of yours.`
+char_ber: ` ......It's so incredibly laughable that I'd like to squash it flat and put a frame around it.`
+char_ber: ` *giggle*giggle*giggle*giggle*, my double is so...pathetic, pathetic, shameful, shameful, heh{0}eh{0}eh{0}eh{0}eh{0}eh{0}eeheh{0}eh{0}ehi{0}hhhi{0}hi{0}hi{0}hi{0}hi{0}hhi{0}ha{0}ha{0}hyhah{0}aha{0}ha{0}ha{0}haha!!"`
+char_non: `Bathed in the sneers of {f:5:Bernkastel}, the being who was like a mother to her,`
+char_non: ` ......Erika was so ashamed that it looked as though she'd chew her lower lip to pieces...`
+char_eri: `"......For this...I swear...`
+char_eri: `......I swear.........`
+char_eri: ` Ghhhhh......!!`
+char_eri: ` Ushiromiya Battler...`
+char_eri: ` ......{f:5:Beatrice}......`
+char_eri: ` ......Ushiromiya...`
+char_eri: `.........Natsuhii{-}i{-}i{-}i{-}i{-}i{-}i{-}iii.....`
+char_eri: `...iih{0}hi{0}hi{0}hi{0}hi{0}hi{0}hi{0}hi{0}hihi...!!`
+char_eri: ` Hi{0}hyah{0}ha{0}ha{0}ha{0}ha{0}ha{0}ha{0}haa{0}ha{0}haaah!!"`
+char_but: `"This riddle is ours.`
+char_but: ` ......I won't let anyone else get in the way...!! {f:5:Beatrice}!!"`
+char_bea: `"Y‐......yes!"`

@@ -1,0 +1,871 @@
+char_but: `"...I see...`
+char_but: ` So, not a witch, but a mistress by the name of {f:5:Beatrice} did exist on the island..."`
+char_but: `"......So there can be more than 18 people!`
+char_but: ` Which means I can defeat that line of reasoning which says that, if it was impossible for all 18 people, it must be a crime involving magic.`
+char_but: ` ......That's some big information."`
+char_ron: `"Excuse me.`
+char_ron: ` Battler‐sama, would you care for some black tea and cookies?"`
+char_non: `Beato's butler, who called himself Ronove, appeared out of nowhere in particular.`
+char_non: `Placed upon the silver tray that he held was a plate filled with delicious‐looking, steaming black tea and cookies.`
+char_non: `...I really don't like this guy's smile.`
+char_non: `{n}For some reason, it doesn't look like a smile used to warmly greet a guest.`
+char_non: `{n}It feels like he's making fun of me for some reason.`
+char_non: `...I don't know whether he really takes me for an idiot,`
+char_non: ` or whether it's just a joke or something, but it's really irritating me.`
+char_but: `"......I don't want any.`
+char_but: ` I'm busy right now.`
+char_but: ` Leave me alone."`
+char_ron: `"Oh, my.`
+char_ron: ` That is a shame, when the cookies have turned out oh so very delicious.`
+char_ron: ` Cooked so wonderfully it is a shame to waste them on a simple {y:0:Human}{n:0:human}, truly wonderful cookies."`
+char_but: `"I'll eat some when I feel like it.`
+char_but: ` Set it down somewhere over there and get out of here."`
+char_ron: `"Will that be acceptable?`
+char_ron: ` Then I shall do so.`
+char_ron: ` You may eat them when they get cold and stale, and then regret as much as you like that you did not eat them when they were freshly baked."`
+char_but: `".........You really are annoying.`
+char_but: ` ...Well, you're a lot better than that Beato, who keeps doing that creepy cackle right next to my ear."`
+char_ron: `"Oh, yes, yes, that is quite true.`
+char_ron: ` There are times when Milady's laughter becomes quite undignified.`
+char_ron: ` Every time I hear it, I think of my noble rank,`
+char_ron: ` and struggle to comprehend why I must have such a person as my master.`
+char_ron: ` Pu ku ku ku..."`
+char_but: `"......Man you're weird.`
+char_but: ` If you don't like it, then couldn't you just not work for her?"`
+char_ron: `"To continue serving despite that is furniture's joy.`
+char_ron: ` One could not serve as furniture without such an attitude."`
+char_ron: `"......Let us set that aside.`
+char_ron: ` How has the game been proceeding?`
+char_ron: ` Just now, I believe I heard you say that you had found some good information, and were quite pleased by it.`
+char_ron: ` Well now, I wonder what your shallow wit has thought up."`
+char_non: `As Ronove made fun of me and giggled,`
+char_non: ` he followed my earlier words to the letter and placed the black tea and cookies somewhere arbitrary nearby.`
+char_ron: `"......I imagine it is because you have gained increased confidence in the existence of a 19th person?`
+char_ron: ` Would you be gracious enough to allow me to hear your opinion?"`
+char_but: `"..................`
+char_but: ` ......Yeah, sure.`
+char_but: ` I'm just going to say it again in front of Beato anyway.`
+char_but: ` No reason to hide it."`
+char_but: `"......Alright.`
+char_but: ` It looks like there's a hidden mansion somewhere on this island, and that Grandfather had his mistress living there.`
+char_but: ` In that case, the question that's been torturing me, about whether there are 18 or 19 people, can be easily resolved."`
+char_ron: `"Although you deny witches,`
+char_ron: ` you hold a double standard by refusing to seek a culprit among the 18, and have driven yourself into a dead‐end."`
+char_but: `"...The easiest way to deny the witch would be to doubt one of the 18.`
+char_but: ` ......It's not so easy for every one of the 18 to have an alibi.`
+char_but: ` You always find at least one person with a fragile alibi.`
+char_but: ` ......I could probably continue to deny the witch forever if I just used that person as a sacrifice."`
+char_but: `"However, I will steadfastly refuse to do that!!`
+char_but: ` Yeah, that's no good, that's no goddamn good at all!`
+char_but: ` Every one of those 18 people is either a parent, a relative or a cousin to me!`
+char_but: ` And those reliable servants, who are sometimes serious and sometimes funny.`
+char_but: ` I won't let myself use any one of them as a sacrifice!!"`
+char_but: `"In the past, my resolve wavered.`
+char_but: ` That's how Beato hit me where my heart was weak."`
+char_ron: `"......Accepting and understanding your own weaknesses.`
+char_ron: ` That is not something which can often be accomplished.`
+char_ron: ` Battler‐sama, you are using this theory about a 19th person as a spear.`
+char_ron: ` ...Or should I say, a shield?"`
+char_ron: `"In any event, unlike how unprepared you were in the games up until now,`
+char_ron: ` let us call the fact that you now have a compass bearing on how to fight...a dramatic leap forward.`
+char_ron: ` With this, you need not doubt any of the 18 you love and respect,`
+char_ron: ` and can easily suspect a 19th person, and pursue your theory that the culprit is a human."`
+char_but: `"That's it exactly.`
+char_but: ` Like in the first game, when Kanon‐kun was killed in the boiler room,`
+char_but: ` ...and a bunch of other places,`
+char_but: ` there are countless tricks I can use without hesitation if a 19th person existed."`
+char_non: `In the very first game, Kanon‐kun had been killed in the boiler room.`
+char_non: `One might think that he was attacked by Kumasawa‐san, who had gone down into the boiler room with him,`
+char_non: ` or maybe that someone who had appeared to be dead earlier was actually faking,`
+char_non: ` and had ambushed Kanon‐kun in the boiler room.`
+char_non: ` Either way, it was a move that forced me to suspect one of the 18.`
+char_non: `However, by simply proposing that a 19th person exists,`
+char_non: ` there's no longer any need to suspect one of the 18 for that murder in the boiler room.`
+char_but: `"In short!`
+char_but: ` "Impossible for any of the 18 = The culprit is a witch"...`
+char_but: ` is an equation that I can now deny."`
+char_non: `Using this argument, we can take, for example, the question which has been raised once again in this game,`
+char_non: ` "who gave Maria the letter?",`
+char_non: ` and come up with an easy explanation.`
+char_non: ` Even if all 18 people have alibis,`
+char_non: ` I can easily explain everything by saying that a 19th person visited her and gave her the letter.`
+char_ron: `".........Hmm, hmm.`
+char_ron: ` I think that is quite a good move.`
+char_ron: ` How would I strike back?"`
+char_ron: `"......Battler‐sama, despite your understanding, there are still plenty of weak points.`
+char_ron: ` Perhaps the "18 people attack" will be an effective move.`
+char_ron: ` As an attempt to judge how strong your defense is, it may be interesting to attack from that angle again."`
+char_but: `"Then how would you do it,`
+char_but: ` demon butler...?!"`
+char_ron: `"......I believe it would be appropriate to attack this 19th piece that you have played.`
+char_ron: ` Battler‐sama, have you ever met this 19th person?`
+char_ron: ` May I ask you for some proof that this 19th person exists?"`
+char_but: `"How naive.`
+char_but: ` Of course, I knew you'd probably try that move...!"`
+char_ron: `"My, my.`
+char_ron: ` Please respond to it."`
+char_but: `"Witches and demons and the like...`
+char_but: ` There's no move more appropriate for you than this one.`
+char_but: ` ......And that is—"`
+char_but: `"The "Devil's Proof"!"`
+char_non: `When we humans are accused of something, we always counterattack by saying to show some evidence.`
+char_non: ` Because that's a human move.`
+char_non: `But I'm fighting with a witch.`
+char_non: `{n}I'm taking part in a battle with someone who isn't human!`
+char_non: `And some moves exist which can only be used in a game against a witch.`
+char_non: `{n}There are cheap moves!`
+char_non: `And that's what this "Devil's Proof" is.`
+char_non: `{n}Therefore, evidence is unnecessary!`
+char_non: `Let's take the assumption that there is a hidden mansion on Rokkenjima separate from the Ushiromiya family mansion,`
+char_non: ` and that a woman named {f:5:Beatrice} is living there.`
+char_non: `In order to prove this, one must find this mansion and actually bring {f:5:Beatrice} out of it.`
+char_non: `That's called actual proof in the human world.`
+char_non: `However, if we follow the rules of the "Devil's Proof", you can't disprove that she exists, even if there's no evidence that she does.`
+char_non: `Because it's impossible to prove that something doesn't exist.`
+char_non: `......That's right, this "Devil's Proof", which tormented me so much before, I've finally managed to use to my own advantage.`
+char_non: `Those guys were always trying to force me to accept the existence of the witch by using the "Devil's Proof".`
+char_non: `That was because, in response to Beato's professions that witches do exist,`
+char_non: ` I physically could not offer any proof that "witches don't exist".`
+char_non: `That is why I have been subjected to this nonsense that witches exist, and why I have been unable to counterattack.`
+char_non: `And that's why I'll flip over the chessboard right now!`
+char_non: `If I can't disprove that witches exist, then that means,`
+char_non: ` if I suggest that a 19th human exists, you can't disprove that either.`
+char_non: `In other words, the enigmatic mistress in question is craftily hiding herself, so it's perfectly natural that you can never find her no matter how hard you look.`
+char_non: `So you can't say that "The 19th person can't be found = The 19th person doesn't exist".`
+char_non: `Therefore, it is impossible to disprove a 19th person.`
+char_non: `{n}Beato used the "Devil's Proof" to make denying her existence impossible,`
+char_non: ` but this time it's become my weapon.`
+char_non: `If we can get away with this argument, then never mind a 19th person,`
+char_non: ` this island could be full of people we don't know about,`
+char_non: ` and even if there are ten or a hundred of them hiding, she still can't disprove that they exist.`
+char_non: `In the last game and the one before that, among the murder scenes that showed up, there were several that were extremely intricate and must have taken a lot of effort to set up.`
+char_non: `It's very difficult to imagine that a single culprit could have set all of those up.`
+char_non: `However, if not just a 19th person, but ten or a hundred people were hidden somewhere, that wouldn't be any problem at all.`
+char_non: `If they all split up the work, they could handle any job in a short period of time.`
+char_non: `Of course, doubts will naturally arise at whether a large group of people like that could sneak around the mansion without being noticed,`
+char_non: ` but those are all settled by the "Devil's Proof".`
+char_non: `Because not seeing or not noticing a hundred people inside the mansion does not disprove that they were there.`
+char_non: `Even though I'm saying it myself, it's such a stupid argument that it makes me wanna throw up!`
+char_non: ` However, it's because it's such a dirty‐as‐hell move that makes it the perfect one to use against a witch.`
+char_non: `Well, we're only imagining here,`
+char_non: ` ...but the thought of about a hundred suspicious men wearing goat masks hiding in the shadows......`
+char_non: ` That goes beyond "funny", makes me think of cockroaches.`
+char_non: `If you see one, it means there's a hundred hiding in the shadows.`
+char_but: `"......Well, I do think this is a ridiculous argument that's horribly twisted.`
+char_but: ` If my opponent was human, I'm sure they'd yell at me like I was out of my mind."`
+char_but: `"......But my opponent is a witch.`
+char_but: ` And after all, that is the kind of competition we're having, isn't it?`
+char_but: ` I'll use any kind of reckless argument to explain it using humans, and deny the witch!!"`
+char_but: `"......Anyway, with this move, I'll never again have to doubt any of the 18 who are close to me.`
+char_but: ` I will never again repeat the defeat I suffered last time...!!"`
+char_ron: `"......I see.`
+char_ron: ` You have learned from your defeat last time.`
+char_ron: ` That is good.`
+char_ron: ` It is no surprise that by the third game you have become quite devious."`
+char_ron: `".........You first strengthen your own defense.`
+char_ron: ` That is truly a solid first step.`
+char_ron: ` Quite a spectacular move, I think."`
+char_but: `"Well, even if we do assume that there is a 19th person,`
+char_but: ` there are still a few tricks left that I can't get past no matter how many humans I add, like the number of master keys.`
+char_but: ` ...Still, it isn't bad as a first step, for the time being."`
+char_ron: `"This is your trump card, the important piece known as the 19th person.`
+char_ron: ` ......You countered my move of asking for evidence by using the "Devil's Proof".`
+char_ron: ` ......A good skirmish."`
+char_ron: `"Although I have no excuse for making moves by myself when Milady is absent,`
+char_ron: ` .........I find that I too have become slightly interested.`
+char_ron: ` ...I wonder if you would permit me to make yet another move on Milady's behalf?"`
+char_but: `"......Go for it.`
+char_but: ` I don't care if you're a witch or a demon, I'll take you all on!"`
+char_ron: `"The move that you made, the "Devil's Proof".`
+char_ron: ` It is a specialty of us demons, but there are also various other moves available to us.`
+char_ron: ` ......Do you know of a move called "Hempel's Raven"?"`
+char_but: `"Hempel's Raven...??`
+char_but: ` What are you talking about?"`
+char_bea: `"...*cackle*cackle*.`
+char_bea: ` Ah‐ha{0}ha{0}ha{0}ha{0}ha{0}ha{0}ha{0}hah‐ha{0}ha{0}ha{0}hah‐hah‐ha...!"`
+char_non: `Just then, ...aah, that laugh, which gets on my nerves every time I hear it, started echoing around.`
+char_non: `The room was filled with dazzling golden butterflies, and in the center of that whirlwind, the Golden Witch appeared.`
+char_ron: `"Why, if it isn't Milady.`
+char_ron: ` Good morning."`
+char_bea: `"I thought you might be doing something interesting while I was away."`
+char_bea: `"......‘Hempel's Raven’, was it?`
+char_bea: ` What an amusing and nostalgic move.`
+char_bea: ` To think the day would come when it would be introduced to Battler.`
+char_bea: ` It's a classic move to use against the "Devil's Proof"."`
+char_bea: `"......Ronove, I will make this move.`
+char_bea: ` Do not get in the way of my fun."`
+char_but: `"So you've finally shown up, you guffawing witch.`
+char_but: ` I see you still have that undignified laugh.`
+char_but: ` ......This guy was talking behind your back just now, telling me about how your laughing lacks class.`
+char_but: ` Right?"`
+char_bea: `"I am offended.`
+char_bea: ` Is that true?"`
+char_ron: `"By no means.`
+char_ron: ` I have only words of the highest heartfelt respect for Milady;`
+char_ron: ` why would I speak such gossip?"`
+char_but: `"...I can't believe you can say that so brazenly.`
+char_but: ` Doesn't look like we'll be getting along well together..."`
+char_bea: `"*cackle*cackle*cackle*.`
+char_bea: ` Well, that is fine.`
+char_bea: ` Let us return to the conversation.`
+char_bea: ` "Hempel's Raven" is used to show proof using the contrapositive."`
+char_bea: `"......Essentially, it is a move like this:`
+char_bea: ` What must you do to prove that ravens are black?"`
+char_but: `"Huh?`
+char_but: ` What are you talking about??`
+char_but: ` Prove that ravens are black...`
+char_but: ` ...Wouldn't you just have to catch the ravens and check to see if they're black?"`
+char_bea: `"That is right.`
+char_bea: ` You must simply prove that "if it is a raven, it is black".`
+char_bea: ` And do you see that, if you prove that "if a bird is not black, it is not a raven", you would reach the same argument?"`
+char_bea: `"If you go throughout the world and examine all birds that are not ravens, and prove that none of them are black,`
+char_bea: ` then as a result, you can claim that "therefore, birds that are black are ravens".`
+char_bea: ` This is called an argument by the contrapositive.`
+char_bea: ` ...Is that difficult for you?"`
+char_but: `"Yeah, no kidding.`
+char_but: ` ...I have no idea what you're saying."`
+char_ron: `"Battler‐sama.`
+char_ron: ` What about this example?`
+char_ron: ` Let us say that you have two boxes, and one of them is the winner, with a cookie inside.`
+char_ron: ` Of course, the other one is the loser, and is empty."`
+char_non: `For example, let us say that we have two boxes here,`
+char_non: ` one being the winner with a cookie inside, and the other being the loser, which is empty.`
+char_non: `Now, it holds that "if there is a cookie inside, it is the winner",`
+char_non: ` and at the same time, it also holds that "if it is not the winner, there is no cookie inside".`
+char_non: `When such a relationship exists, we call the latter the contrapositive...`
+char_non: `When "if A then B" is true, then at the same time, "if not B then not A" is also true.`
+char_but: `"...Well, that's obvious.`
+char_but: ` If the one you picked was the loser, then you would automatically know that the other one was the winner."`
+char_but: `"...In other words, if you choose the box at random, whether it's the winner or the loser,`
+char_but: ` you'll be able to figure out which box has the cookie in it after your first move."`
+char_bea: `"That is correct.`
+char_bea: ` If the cookie is in the box you open, then the "Devil's Proof" is satisfied.`
+char_bea: ` You can prove directly that "this box is the winner = this box has a cookie in it"."`
+char_bea: `"However, if the box that you open is empty, then the reverse, "Hempel's Raven", is satisfied.`
+char_bea: ` Because then, it holds that "this box does not have a cookie in it = this box is not the winner"."`
+char_bea: `"And that means, as long as we accept the premise that there are no more than two boxes,`
+char_bea: ` the contrapositive shows that the other box is automatically the winner."`
+char_but: `"......Well, I think I'm starting to see your reasoning.`
+char_but: ` Only poison can stop poison, and only twisted logic can stop twisted logic."`
+char_but: `"...Then what?`
+char_but: ` How does that overturn my claim that "no doubt there is a 19th human hidden on this island,`
+char_but: ` so even if all of the 18 people have alibis,`
+char_but: ` that does not amount to an acceptance of witches"......?"`
+char_bea: `"Very well.`
+char_bea: ` I will tell you my move.`
+char_bea: ` First of all, you are stating that "if the culprit is not among the 18, then the culprit is a 19th person"."`
+char_bea: `"*cackle*cackle*!`
+char_bea: ` ...So if you use the contrapositive, it ends up like this.`
+char_bea: ` In short, "if the culprit is not a 19th person, then the culprit is one of the 18"!"`
+char_but: `"Whaah?!`
+char_but: ` What the, what does that mean?!"`
+char_bea: `"All I have done is turn your move on its head.`
+char_bea: ` It shouldn't be that difficult to understand.`
+char_bea: ` Ronove, explain.`
+char_bea: ` It seems your cookie‐in‐a‐box analogy from before will be easy for Battler to understand."`
+char_ron: `"Then forgive my presumption.`
+char_ron: ` Allow me to explain using my earlier example once more."`
+char_non: `Allow me to repeat once more my earlier story,`
+char_non: ` about two treasure chests, one of which has a cookie in it.`
+char_non: `In this situation, one of the boxes represents "the 18 people", and the other box represents "the 19th person".`
+char_non: `So the cookie would represent the "culprit".`
+char_non: `Battler‐sama, you open the 18 box.`
+char_non: `{n}Because the cookie is not there,`
+char_non: ` you have proven from the opposite direction that "therefore, the cookie is in the 19 box".`
+char_non: `In that case, if we reverse things further, we can also say the following.`
+char_non: `Namely, if it was first shown that the 19 box was empty,`
+char_non: ` it would prove in just the same way that "the cookie is in the 18 box".`
+char_non: `Battler‐sama, this move you played in order to avoid having to doubt any of the 18,`
+char_non: ` has in fact been used against you to launch the "18 person attack"...!"`
+char_but: `"......Huh,`
+char_but: ` ......what did you say........."`
+char_bea: `"*cackle*cackle*cackle*cackle*!`
+char_bea: ` If I go first and prove that the inside of the 19 box is empty,`
+char_bea: ` automatically,`
+char_bea: ` you will be forced to accept that the cookie is in the 18 box.`
+char_bea: ` All you have done is say this the other way around, you see?"`
+char_but: `"So, ......that move that I was so confident in, ...was actually a double‐edged sword?"`
+char_bea: `"That's right.`
+char_bea: ` Your move to explain everything with a 19th person carries the risk that, if it is thwarted,`
+char_bea: ` you will be forced to accept that you can only explain things by using the 18."`
+char_non: `I see...`
+char_non: ` "Hempel's Raven".`
+char_non: `{n}......So this is a countering technique?!`
+char_non: `...Wait, if I really think about it, this countering technique is far more disadvantageous for me than for her.`
+char_non: `The problem is in thinking about it like a cookie.`
+char_non: `{n}If I imagine that just one of the treasure chests is a "losing" chest with a bomb in it, I can begin to understand it quite well.`
+char_non: `And if I think of it not as two treasure chests,`
+char_non: ` but as 18, one for each person, plus one more for the 19th person,`
+char_non: ` for a total of 19 boxes, it gets even easier to understand.`
+char_non: `First of all, one of the premises established by the human culprit theory was that the bomb would definitely be in one of those boxes.`
+char_non: `Because I hadn't wanted to place that bomb in any of the 18's boxes, I had used the "Devil's Proof",`
+char_non: ` and created the 19th box so that I could throw the bomb in there.`
+char_non: ` ......That much was alright.`
+char_non: `But Beato had struck back like this:`
+char_non: `If, then, the 19th box was empty inside,`
+char_non: ` that would automatically mean that the bomb was set in one of the other 18 boxes.`
+char_non: `If I could examine the contents of each of the 18's boxes,`
+char_non: ` and show that the bomb was not in any one of those boxes,`
+char_non: ` I would be able to safely show that the 18 people were innocent.`
+char_non: `If that was possible, I would be feeling confident!`
+char_non: `However, in reality, that's as close as you can get to impossible.`
+char_non: `The police wouldn't come here in this typhoon.`
+char_non: `{n}There would be no scientific investigations, no autopsies, no nothing.`
+char_non: `{n}In short, I can't show anything decisively!`
+char_non: `It's impossible for me to find any proof other than simply gulping down whatever alibis each of the 18 give.`
+char_non: `In that case, I have to confirm their innocence both personally and perfectly.`
+char_non: `Like staying with someone the whole time, never letting them out of my sight for a second.`
+char_non: `If I do that, I can probably be sure of that person's innocence,`
+char_non: ` and that the bomb is not in that box.`
+char_non: `...However, in reality, something like that is impossible!`
+char_non: `{n}In other words, I have to expend an incredible effort just to check the contents of one box.`
+char_non: `And there are 18 of them!`
+char_non: ` In other words, unless I bind all 18 of them in chains and watch over them,`
+char_non: ` it's impossible to prove that all of them have empty boxes.`
+char_non: `However, Beato only has to open one box, the 19th box,`
+char_non: ` and show that it is empty, to prove that the bomb is in one of the other 18 boxes.`
+char_non: ` (Furthermore, there's no need for her to show {i:which} of the 18 boxes has the bomb!)`
+char_non: `I have 18 times more work to do to explain my pet theory than Beato does for hers......`
+char_bea: `"Just as you know from the "Devil's Proof",`
+char_bea: ` there are many cases in this world where refuting something would take a vast amount of effort that is impossible in practice."`
+char_bea: `"However, "Hempel's Raven" turns that problem around, and makes it possible to prove things easily!"`
+char_ron: `"By using "Hempel's Raven", various reckless arguments become possible to prove."`
+char_ron: `"......For example, let us say that I make the proposition "All humans except me are foolish".`
+char_ron: ` Normally, in order to prove this, I would have to examine all of humanity except myself and show that they are all foolish."`
+char_ron: `"...However, in reality, it would be impossible to investigate billions of people.`
+char_ron: ` It is exactly the same kind of effort you would need to open all 18 boxes."`
+char_bea: `"*cackle*cackle*!`
+char_bea: ` However, by using "Hempel's Raven", the contrapositive of that proposition would change it as follows."`
+char_bea: `"Essentially, take this "All humans except me are foolish", and to use your style of phrase,`
+char_bea: ` flip over the chessboard, and you merely need prove that "not foolish = me".`
+char_bea: ` ......And what do you think that means?"`
+char_bea: `"*cackle*cackle*!`
+char_bea: ` As soon as I know the fact that "I am wise",`
+char_bea: ` I finish proving in an instant that every one of the billions of people in the human race is foolish.`
+char_bea: ` In less than a second, I can finish proving that the entire human race is more foolish than me!!"`
+char_bea: `"It's the strongest and fastest QED in the world.`
+char_bea: ` This...`
+char_bea: `is "Hempel's Raven"!"`
+char_but: `"Wha‐.........what a ridiculous argument.........!!!"`
+char_ron: `"It is a very, very convenient move.`
+char_ron: ` Not only demons, but gods also use it.`
+char_ron: ` When you propose "blessed = God's servant",`
+char_ron: ` the contrapositive is "if a human is not a servant of God, then he must not be blessed"."`
+char_ron: `"So in order for servants of God to prove that they are granted fortune by their divine protection,`
+char_ron: ` they only have to prove that those who don't receive that divine protection suffer misfortune."`
+char_ron: `".........Therefore,`
+char_ron: ` by bringing misfortune down upon those people who don't believe in their own god, they prove their own blessedness."`
+char_bea: `"It takes an enormous cost to give humans happiness.`
+char_bea: ` ...However, the necessary cost to bring humans misfortune is much cheaper."`
+char_bea: `"*cackle*cackle*cackle*cackle*cackle*.`
+char_bea: ` So by using "Hempel's Raven", gods can actually give believers the joy of divine protection at the lowest cost."`
+char_but: `"Y‐......you demon.`
+char_but: ` It's a demon's argument...`
+char_but: ` ...That's messed up...!!!"`
+char_bea: `"It seems that we've gone off‐topic.`
+char_bea: ` Let us return to it."`
+char_bea: `"I have finished describing the move for my counterattack.`
+char_bea: ` ......The counterattack to your claim that "a 19th person is the culprit; therefore, the 18 are innocent and the witch doesn't exist" is:`
+char_bea: ` "In that case, if I can prove that the culprit is not some 19th person,`
+char_bea: ` do we agree that the culprit must either be one of the 18, or a witch?".`
+char_bea: ` I await your answer."`
+char_non: `For a while, I just stood there, shocked, completely forgetting to close my mouth...`
+char_non: `Just when I'd thought that I'd got my own back on them by using their favorite move against them,`
+char_non: ` the counterattack to that had been this reckless argument that I could not even have begun to imagine...!`
+char_non: `Was it really...impossible...?!`
+char_non: `To continue denying the witch on an island with no more than 18 people,`
+char_non: ` and yet still believe in the innocence of those 18 people...`
+char_non: ` .........Was that just a delusion?!`
+char_non: ` Was I just trying to escape reality?!`
+char_non: `Not yet...`
+char_non: ` ......Don't give up this struggle yet.`
+char_non: `Who cares about "Whoever's Raven"?`
+char_non: `{n}They're just trying to speak in riddles by bringing up some weird bits of trivia...`
+char_non: `I had used the "Devil's Proof".`
+char_non: `{n}Don't feel doubt in something once you've used it.`
+char_non: `{n}Believe in the spear you've lunged forward with.`
+char_non: `Apply even more force......and gouge it in......!`
+char_bea: `"......The game is still in the opening.`
+char_bea: ` Do you already intend to spend this long thinking?"`
+char_but: `"........................`
+char_but: ` Ah,`
+char_but: ` ......wait a sec,`
+char_but: ` I want to be sure."`
+char_but: `"While yes, I did use the phrasing of a "19th person" to make it easy to understand,`
+char_but: ` if I can use the "Devil's Proof" to raise the number of people above 18,`
+char_but: ` then what I mean is an unspecified large number of extra people—you don't know if it's ten or a hundred."`
+char_but: `"{i:Always one more than you assume}.`
+char_but: ` ...Understand?"`
+char_non: `She had returned my twisted logic with something even more twisted.`
+char_non: `{n}So the only thing that could counter that would be even crazier twisted logic...!`
+char_bea: `"Hmm, I see.`
+char_bea: ` .........Even if I somehow prove an alibi for the 19th person,`
+char_bea: ` as soon as I do, you will think up a 20th person, and claim that they are the culprit.`
+char_bea: ` By repeating this infinitely, you would make it so I kept searching for their alibis for all eternity."`
+char_bea: `"......I see, I see, *cackle*cackle*!`
+char_bea: ` Just like a demon king summoning a plague of locusts.`
+char_bea: ` I wouldn't expect anything less from Kinzo's grandchild.`
+char_bea: ` It looks like you have been gifted with a talent in summoning."`
+char_but: `"......In short!`
+char_but: ` It is impossible to continually prove an alibi for the "X" existing outside of the first 18!`
+char_but: ` ......How do you like that, Beato...?!`
+char_but: ` Now that I know we're having a battle with twisted logic, I won't lose!"`
+char_bea: `"*cackle*cackle*cackle*cackle*cackle*cackle*cackle*!!`
+char_bea: ` How foolish...`
+char_bea: ` Who do you think I am?`
+char_bea: ` I am the Endless Witch, the Infinite Witch!`
+char_bea: ` For you to challenge me at infinity is absurd.`
+char_bea: ` Having control over infinity means also that I am able to kill infinity."`
+char_bea: `"......When your 19th person folds, you will call a 20th,`
+char_bea: ` and when your 20th person folds, you will call a 21st,`
+char_bea: ` and when your 21st person folds and your 22nd person folds,`
+char_bea: ` you will call a 23rd, a 34th, a 64358223579673204th,`
+char_bea: ` you think you can trifle with me for all eternity?!"`
+char_bea: `"I laugh at "infinite regress",`
+char_bea: ` the {i:infinite} doesn't affect me!!"`
+char_but: `"Hoh, well then, how will you kill my "infinity"? Just try and show me!!"`
+char_bea: `"`
+char_bea: `{p:1:I have the power to speak the truth in red}!!!"`
+char_but: `".....................!!`
+char_but: ` .........Here it comes............"`
+char_bea: `"When I speak in red, it contains absolutely no illusions.`
+char_bea: ` If I say once in red that there are no more than 100 people on this island,`
+char_bea: ` you will no longer be permitted to create a 101st person."`
+char_bea: `"*cackle*cackle*!`
+char_bea: ` Come now, Battlerrr.`
+char_bea: ` What truth shall I tell in red this time?`
+char_bea: ` Where shall I strike for the kill and force you into hopelessness?`
+char_bea: ` *cackle*cackle*cackle*!`
+char_bea: ` Come, show me your usual frightened face......"`
+char_but: `".............................."`
+char_bea: `"..................What?"`
+char_but: `"......Ihihihihi."`
+char_bea: `"...Why...are you laughing...?"`
+char_non: `I wonder what kind of creepy look I had on my face as I laughed right then.`
+char_non: `{n}That red sure is scary.`
+char_non: ` ...Every time it jumps out, I'm driven into the depths of hopelessness.`
+char_non: `But......I had already realized it.`
+char_non: `{n}...There was no need to be unnecessarily afraid of the red.`
+char_but: `".........You've brought out your secret weapon again.`
+char_but: ` So...?`
+char_but: ` What and how will the great {f:5:Beatrice}‐sama speak in red this time?"`
+char_bea: `"......Hoh.`
+char_bea: ` What do you mean by this?`
+char_bea: ` Suddenly looking so relaxed..."`
+char_but: `"Sorry, but I've been waiting for you to take out that blood‐red treasured sword.`
+char_but: ` ......Let's see, what will you proclaim in red this time?"`
+char_but: `"You aren't going to say "the culprit was one of the 18", are you?`
+char_but: ` Let me warn you, that would be self‐destruction, remember?`
+char_but: ` That would be the same as throwing away your own witch theory yourself.`
+char_but: ` A complete resignation."`
+char_non: `That's right.`
+char_non: ` The red isn't always necessarily to Beato's advantage.`
+char_non: ` On the contrary, if she used it the wrong way, it's dangerous enough that she could bring about her own death.`
+char_non: ` If she used it carelessly and said something which ended up denying herself, that would be exactly the same thing as self‐destructing.`
+char_but: `"Of course,`
+char_but: ` it would also be sad and difficult for me to accept if you told me in red that one of the 18 was the culprit.`
+char_but: ` ......No matter who the culprit actually was, it would surely bring me some tough emotions..."`
+char_but: `"But before that, it would mean your defeat!`
+char_but: ` Saying in red that the culprit is a human is equivalent to your proclamation of resignation!!`
+char_but: ` If you want to strike me a blow so badly you're prepared to die at the same time, I think that's a pretty interesting move.`
+char_but: ` However, this battle will end in my victory!!"`
+char_non: `{f:5:Beatrice}'s red was truly her secret weapon, her treasured blade.`
+char_non: ` The things she spoke in red would become solidified as the truth, and no amount of evidence or counterarguments could change them.`
+char_non: `They had cut me down to size many times now, rending in two any supports my heart had to lean on.`
+char_non: `However, if she used it carelessly, then I could also find a little information about the truth.`
+char_non: `...In the last game, especially during the chapel's locked room trick, I had taken advantage of that,`
+char_non: ` and had once closed her in almost completely.`
+char_non: `But she was also pretty sly.`
+char_non: ` She had learned from experience, and since then, had started using discretion in the timing of the red...`
+char_non: `This feeling of tension was almost literally like a battle with real swords.`
+char_non: `...This was a battle of high intelligence.`
+char_non: `{n}......No, not of intelligence.`
+char_non: `{n}It really was twisted logic.`
+char_non: `This was the world's craziest and worst battle of twisted logic...!!`
+char_but: `"So, now it's your move.`
+char_but: ` ......That's right.`
+char_but: ` To use your "Hempel's Raven",`
+char_but: ` first, you'll have to confirm in red how many humans there are other than the 18."`
+char_but: `"And after that, if you proclaim in red that none of the people in that group are the culprit,`
+char_but: ` ......that's right, that might be a fatal wound to me."`
+char_bea: `".........I'm surprised that you no longer have even an atom of fear for that red which you feared so much...`
+char_bea: ` You're quite sturdy."`
+char_but: `"Unsheathe it.`
+char_but: ` Your treasured blade.`
+char_but: ` ......A single perfect swing, and you might be able to break me this time, who knows...?"`
+char_bea: `"......*cackle*cackle*cackle*.`
+char_bea: ` ...Interesting.`
+char_bea: ` I wouldn't have it any other way..."`
+char_non: `Agitate her.`
+char_non: ` Provoke her.`
+char_non: `{n}Drive her into a corner to make her speak in red...`
+char_non: `Of course her red has always cut right through my only threads of hope.`
+char_non: ` But......don't be afraid of that.`
+char_non: `On this island overcome with falsehoods and illusions, the only thing I can trust...`
+char_non: `is the information that she speaks in red.`
+char_non: `It is my only way across the chasm of Hell.`
+char_non: ` Just a single tightrope.`
+char_non: `Her merciless blood‐red blade is the only way I can survive.`
+char_non: `...This isn't just walking on a tightrope, it's literally like walking on the edge of a blade...`
+char_non: `Of course I'm afraid.`
+char_non: ` In terms of her contrapositive, my victory condition—the denial of the witch—meant that the culprit was a human.`
+char_non: `But I didn't want to search for the culprit amid the 18.`
+char_non: `...Therefore, I held on to a weak point, since I had to deny the witch and the 18 at the same time.`
+char_non: ` Since I had been unable to understand that last time, that was where she had hit me, leaving me tattered and defeated.`
+char_non: `......But that's alright.`
+char_non: `{n}Let her hit me.`
+char_non: ` Let her attack.`
+char_non: ` No problem...`
+char_non: `Someone said it once in an old sword‐fighting movie.`
+char_non: `{n}That "a good fortress has one, and only one, intentionally weak point".`
+char_non: `The enemy would gather there.`
+char_non: ` They would be lured there.`
+char_non: `{n}And that would be where the actual battle took place.`
+char_non: `...As long as I understand my weak points,`
+char_non: ` and as long as she wants to attack those weak points,`
+char_non: ` ......it's as if I've induced her to attack there...`
+char_non: `Carefully judge the distance from your enemy, ...and retreat step by step.`
+char_non: ` Make them draw their sword first.`
+char_non: `The more she recklessly flourishes that red, the more chances I'll have to strike back.`
+char_non: `Don't be afraid of the red.`
+char_non: `{n}Keep the pressure on, so that she is forced to refute with the red......!`
+char_non: `No matter how oppressively she speaks in red,`
+char_non: ` ......yes, that red itself is the same as fresh blood spurting from her wounds.`
+char_but: `"Come on.`
+char_but: ` ...What's wrong?`
+char_but: ` ......First of all, why don't you tell me in red how many people are on this island total?`
+char_but: ` If you don't, your raven can't cut me up......!"`
+char_bea: `".....................Hmph.`
+char_bea: ` ...How surprising that you can be this desperate and yet this difficult.`
+char_bea: ` ...One cannot make light of someone putting their life on the line, no matter what the era."`
+char_bea: `"......It's no surprise you're Kinzo's grandchild.`
+char_bea: ` The more cornered you are,`
+char_bea: ` ............the bolder you become!"`
+char_but: `"...Ihihihi..."`
+char_non: `Ronove cleared his throat.`
+char_ron: `"You appear to be at a standstill.`
+char_ron: ` That black tea I worked so hard to make is getting cold,`
+char_ron: ` Milady."`
+char_bea: `".........kh."`
+char_non: `Ronove, who was supposed to be her ally, roguishly rushed her next move.`
+char_non: `Beato smiled back, probably intending to demonstrate that she was still relaxed, ......but she couldn't hide the sweat building up on her forehead.`
+char_non: `By now she had completely lost that relaxedness which had allowed her to turn her nose up at her worthless opponent.`
+char_non: `Of course, she probably wasn't really cornered by something like this.`
+char_non: ` ...She was just...being cautious.`
+char_non: `Until now, I had been inexperienced.`
+char_non: `{n}I didn't have a good grasp on how to fight, and I was underpowered as an opponent.`
+char_non: `However, now that we had reached the third game, she realized that I was starting to become skilled,`
+char_non: ` and she had grown more cautious, thinking every move over carefully......`
+char_non: `Sure, that's just fine, {f:5:Beatrice}.`
+char_non: `{n}And sorry to have kept you waiting.`
+char_non: `{n}Are you happy now...?`
+char_but: `"......Now things are starting to get interesting, right......?`
+char_but: ` Hihihihi!"`
+char_bea: `"*cackle*cackle*cackle*!`
+char_bea: ` ...Battleeeeerrrrr......"`
+char_but: `"This isn't going anywhere...`
+char_but: ` Then, should I just dive right in and go with the usual?"`
+char_bea: `"......Hoh.`
+char_bea: ` The usual, you say.`
+char_bea: ` ...Then by all means.`
+char_bea: ` If I don't hear that, I guess I just won't get the sense that we've started..."`
+char_non: `The first move was mine......`
+char_but: `"Here I come, Beato."`
+char_but: `"Repetition requested.`
+char_but: ` ......‘There are only 18 people on this island’."`
+char_bea: `"....................."`
+char_but: `"...If I hear you say this in red, I will have no choice but to doubt one of the 18.`
+char_but: ` ......Since it could no longer be the work of a 19th person, all doors will be closed to me."`
+char_but: `".........But I believe that the culprit is definitely not one of the 18!`
+char_but: ` There's no way that any of those 18 could commit such brutal murders...!!"`
+char_bea: `"....................."`
+char_but: `"I'll say it again.`
+char_but: ` Repetition requested!`
+char_but: ` "There are only 18 people on this island"."`
+char_bea: `"..............................`
+char_bea: ` .........I decline.`
+char_bea: ` I won't say why."`
+char_non: `Whew...!`
+char_non: ` I had avoided what would have been the worst red for me.`
+char_non: `If she had repeated that,`
+char_non: ` I would have been faced with those two worst choices of accepting the witch or suspecting one of the 18,`
+char_non: ` like last time all over again...`
+char_non: `But Beato had not proclaimed my ultimate and greatest weakness in red.`
+char_non: `She had declined to repeat it—even though there was no reason why she shouldn't have struck—even though it was a weakness she should have been drooling at.`
+char_non: `She hadn't sliced me up with red by using that move, which should have been as good as forking a rook and the king...!`
+char_non: `......This was a big sign of my advantage.`
+char_non: `That's right.`
+char_non: ` The culprit isn't one of the 18 people.`
+char_non: `{n}I won't doubt anyone...!`
+char_non: `And since the culprit isn't a witch either,`
+char_non: ` .........it means that a 19th person exists on this island.`
+char_non: `And that's you.`
+char_non: `A person who, as Grandfather's mistress of thirty years,`
+char_non: ` has been living secretly in a hidden mansion in the forest for a long, long time.`
+char_non: `The {i:human} {f:5:Beatrice}.........!!`
+char_but: `"That's right.`
+char_but: ` You aren't a witch or anything like it.`
+char_but: ` ......You're just a human...who's been living on this island in hiding for several decades...!"`
+char_bea: `".........*cackle*cackle*.`
+char_bea: ` *cackle*cackle*cackle*...`
+char_bea: ` ...Did you just call me, the Endless Witch who has lived for over one thousand years, a mere human?`
+char_bea: ` ......*cackle*cackle*cackle*cackle*cackle*cackle*!"`
+char_non: `For a while, {f:5:Beatrice} continued to laugh unpleasantly, gloating or maybe spiteful.`
+char_but: `"...Are you ready? I'll keep going.`
+char_but: ` ...Again, repetition requested."`
+char_but: `"‘There are at least 19 people on this island’!"`
+char_bea: `".............................."`
+char_non: `{f:5:Beatrice} fell silent once again.`
+char_non: `The feeling that confirming the number of humans on this island...`
+char_non: `might possibly stand to give her some large disadvantage,`
+char_non: ` was probably making her extremely cautious.`
+char_non: `The red had already become a foothold for my counterattack.`
+char_non: ` With that in mind, the red had become a risk for the witch.`
+char_non: `But if she couldn't repeat this, her "Hempel's Raven" wouldn't work.`
+char_non: `In order to break my "Devil's Proof",`
+char_non: ` first, the existence of and number of people outside the 18...`
+char_non: `needed to be confirmed in red.`
+char_non: `That's right.`
+char_non: ` She couldn't break the existence of a 19th person unless she used red.`
+char_non: `I had {i:closed Beato in}, giving her no choice but to speak in red...!`
+char_non: `There really was...`
+char_non: `.........a way to fight,`
+char_non: ` ......in this witch's game!`
+char_but: `"It's alright to decline.`
+char_but: ` ...If you can't say it in red, then that will mean the total number of people on this island will be 18+X."`
+char_but: `"......That X is a pretty huge piece to allow me to have on the first move, isn't it?`
+char_but: ` After all, from then on, all of the tricks with the basis "it was impossible for any of the 18"...`
+char_but: `will become explainable with a human X outside of the 18 people.`
+char_but: ` ......This is a huge piece that can break open any locked room hinging on everyone having an alibi...!"`
+char_non: `It was just like...`
+char_non: `a bishop in chess, which can cut a thin line through enemy forces as long as there's a slight gap.`
+char_non: ` It only exerts an effect over squares of the same color, but it has a great ability to control the board.`
+char_bea: `"..............................`
+char_bea: ` ..................kh."`
+char_non: `It looked like Beato also well understood her current plight.`
+char_non: `She couldn't just let such an important piece go, especially this close to the beginning of the game...`
+char_non: `If she pulled out her red treasured sword, it wouldn't be that difficult to save that piece.`
+char_non: `......But Beato was completely aware that I was expecting it.`
+char_non: ` She was afraid that a careless red truth might end up strangling her own neck...!`
+char_non: `Because, ...in the first place, a witch was something which should be {i:denied} in red.`
+char_non: `Believe.`
+char_non: ` Don't doubt!`
+char_non: ` Witches don't exist!`
+char_non: `{n}Something like that can't exist in this world.`
+char_non: `They can only exist in the cracks in reality.`
+char_non: `...They are a fragile existence, curled up in these cracks, frantically trying to protect themselves from the brutal winds of truth,`
+char_non: ` and they can only barely exist like a mirage by surviving on falsehoods and fantasy.`
+char_non: `In other words, the red, which only witches can use, is the very reality by which they risk denying themselves.`
+char_non: `......The more they brandish their red words...`
+char_non: `the more they begin to lose, bit by bit, that crack in reality inside which they can endure.`
+char_non: `That is why they don't want, through the red,`
+char_non: ` ......to carelessly lose that crack in reality which is based on fuzzy information, or in other words, fantasy.`
+char_non: `Because they understand that they would be gradually cornering themselves.`
+char_non: `Of course, she would never admit it.`
+char_non: `Because, if she did,`
+char_non: ` it would be the same as admitting that she is something that can't exist in this world, like an imaginary number.`
+char_non: `Don't be afraid.`
+char_non: ` Stay strong...!`
+char_non: `{n}She knows this deep down, and better than anyone.`
+char_non: `That her red treasured sword can't easily be used without considerable resolve...!`
+char_but: `"...What's wrong.`
+char_but: ` I'll say it again.`
+char_but: ` ......Repetition requested!"`
+char_but: `"‘There are at least 19 people on this island’!"`
+char_bea: `"........................`
+char_bea: ` ......Hmh.`
+char_bea: ` ...I decline."`
+char_non: `At the end of a long, long time spent deliberating,`
+char_non: ` ......letting a single deep breath escape, she quietly proclaimed her refusal.`
+char_non: `......I had thought that she'd use it.`
+char_non: `But Beato refused to speak in red, even though it would cost her victory in the opening part of the game.`
+char_but: `"You declined, yes......?`
+char_but: ` Which means that, from now on,`
+char_but: ` I can create as many fictional character Xs outside of the 18 as I want...?"`
+char_bea: `"Do as you wish.`
+char_bea: ` ...I have declined your repetition.`
+char_bea: ` Isn't that enough for now?`
+char_bea: ` ......The reason I declined was...`
+char_bea: `......`
+char_bea: ` ...No, I will not reveal that for now.`
+char_bea: ` You will know soon in any case."`
+char_but: `"...Ihihi.`
+char_but: ` Still acting tough, I see..."`
+char_bea: `"......Red that I deliberately don't use is in itself a fitting use of red.`
+char_bea: ` You called it my red treasured sword.`
+char_bea: ` A pleasant analogy.`
+char_bea: ` I will use it too.`
+char_bea: ` ......A treasured sword is at its best when it is sheathed.`
+char_bea: ` In fact, there are times it can instill even more fear because it is sheathed."`
+char_but: `"That's right.`
+char_but: ` ...As I fight, I always have to keep in mind when you might turn everything over with those red words.`
+char_but: ` It's some pretty serious pressure."`
+char_but: `"......And there are times when having a repetition declined makes things harder for me.`
+char_but: ` ...Those times, I can't tell whether you can't repeat because my guess was right,`
+char_but: ` or whether you're just misleading me and letting me think whatever I want."`
+char_but: `"...In that sense, yes, I see.`
+char_but: ` A sheathed treasured sword."`
+char_bea: `"............What does it matter?`
+char_bea: ` If I'm going to push you off a cliff anyway, I might as well let you climb a little higher first.`
+char_bea: ` ...We have still barely begun.`
+char_bea: ` Much is left to come..."`
+char_bea: `"I'll resign from this challenge.`
+char_bea: ` ...Go and get drunk on your faint victory for now.`
+char_bea: ` ......Only for now."`
+char_non: `That bitter comment did, in fact, appear to have marked the end of the game's opening battle.`
+char_non: ` Even so, I couldn't relax my guard at all.`
+char_non: `...I was unable to relax my feeling of tension until I was greeted by the sound of Ronove's applause...`
+char_ron: `"......Spectacular, Battler‐sama.`
+char_ron: ` I suppose we could say that this game has started with at least the opening unfolding to your advantage?"`
+char_but: `"No idea...`
+char_but: ` I still don't know whether this piece was something I tore from her with my own hands,`
+char_but: ` or whether she guided me into taking it."`
+char_but: `"......After all, knowing you...`
+char_but: `you probably know that I'm being led into a trap, and that clapping is just a barefaced lie, right...?"`
+char_ron: `"How could you think that?`
+char_ron: ` I am innocently celebrating your ability that has enabled you to take one shot at Milady, though granted it is only the opening.`
+char_ron: ` ...After all, Milady is a person who is quick to become arrogant.`
+char_ron: ` I believe that a little stimulation such as that makes for a good medicine every once in a while."`
+char_but: `"...This butler of yours sure has a vicious tongue..."`
+char_bea: `"Isn't that so?`
+char_bea: ` Sometimes he enrages even me."`
+char_ron: `"My, my, how incredibly rude of me."`
+char_ron: `"Well then, Milady, Battler‐sama.`
+char_ron: ` Would you care for some more black tea?`
+char_ron: ` The game has still barely begun.`
+char_ron: ` Please leave any tea or pastries that might adorn this game to me.`
+char_ron: ` Please, do not hesitate to advance further in the game."`
+char_but: `"I will.`
+char_but: ` Let's move forward.`
+char_but: ` Now is when it really starts."`
+char_bea: `"............Hmph.`
+char_bea: ` Very well.`
+char_bea: ` Let us advance the clock.`
+char_bea: ` Ronove, black tea, please."`
+char_ron: `"Certainly.`
+char_ron: ` What about a cookie?"`
+char_bea: `"No need.`
+char_bea: ` Give it to Beelzebub to keep her happy.`
+char_bea: ` ............Remain silent for now."`
+char_non: `While listening to the sound of the demon butler pouring tea, the witch closed her eyes slightly and fell into silence.`
+char_non: `......For some time, she was deeply lost in thought, but eventually a roguish glint came into her eyes.`
+char_bea: `"Very well.`
+char_bea: ` ............Why don't I inform you now why I declined to speak in red for the first move."`
+char_but: `"......What...?`
+char_but: ` Bring it on.`
+char_but: ` Show me what you've got."`
+char_bea: `"*cackle*cackle*...`
+char_bea: ` It really is a big piece that you'd hate to miss."`
+char_bea: `"......It may be hasty, but allow me to move.`
+char_bea: ` I won't use red, but from here on, Rosa will explain on my behalf.`
+char_bea: ` Listen."`
+char_eva: `"Of course, I agree as well.`
+char_eva: ` You too, right, Rosa?`
+char_eva: ` ...............Rosa?"`
+char_ros: `"Huh, ah, sorry...`
+char_ros: ` M‐me too.`
+char_ros: ` I agree."`
+char_hid: `".........What's wrong, Rosa‐san.`
+char_hid: ` ...You've been really quiet for a while now.`
+char_hid: ` Are you feelin' sick...?"`
+char_non: `From the beginning, Rosa had never been one to willingly cut in on the siblings' fights.`
+char_non: `...But even so, she seemed unmotivated,`
+char_non: ` and had said almost nothing at all during this night's conference.`
+char_non: `The whole time, she had been hanging her head, and appeared to be thinking of something else...`
+char_eva: `"You've been in a daze for a while now.`
+char_eva: ` Do you think you can protect the inheritance like that?`
+char_eva: ` You are also the mother of your child, so get a stronger hold on yourself."`
+char_ros: `"I, I'm sorry......"`
+char_cla: `"I imagine you woke up quite early this morning?`
+char_cla: ` If you feel sick, you shouldn't overdo it."`
+char_nat: `"......The beds have been prepared in the guest rooms.`
+char_nat: ` How about taking a rest?`
+char_nat: ` I will guide you."`
+char_ros: `"No, ...I'm fine.`
+char_ros: ` Thank you."`
+char_rud: `"...What is it?`
+char_rud: ` Is there something you're worrying about?"`
+char_ros: `".........No, not really........."`
+char_kir: `"Are you sure...?`
+char_kir: ` It feels like your mind has been elsewhere this whole time.`
+char_kir: ` ...I wonder if that has anything to do with what we've been talking about...?"`
+char_non: `At those words, everyone stared at Rosa together.`
+char_non: `As if in response, Rosa's shoulders quivered.`
+char_non: `Apparently Kyrie's guess hadn't been wrong.`
+char_non: `{n}...Nor did Rosa deny it...`
+char_ros: `"..................No, umm...`
+char_ros: ` ................................."`
+char_non: `She swallowed whatever it was she had been about to say, and went silent again.`
+char_non: `By now, even the other siblings were also beginning to realize that something about her demeanor was different from usual...`
+char_rud: `"What is it?`
+char_rud: ` ...You've been weird for a while.`
+char_rud: ` Do you have something on your mind...?"`
+char_hid: `"All of us've just sworn to remain united, haven't we?`
+char_hid: ` Don't be all unfriendly now, worryin' by yourself.`
+char_hid: ` Let's talk it over."`
+char_cla: `"......Rosa.`
+char_cla: ` Tell us."`
+char_non: `Pressed by the men one after the other, Rosa made up her mind, and nervously began to open up...`
+char_non: `It was almost...`
+char_non: `as though she was trying to confess to some modest prank which had inadvertently brought about a serious situation...`
+char_non: `such was the atmosphere in the room.`
+char_ros: `"No, umm......`
+char_ros: ` ......Th‐this mistress of Father's, this {f:5:Beatrice},`
+char_ros: ` ......is she really, um,`
+char_ros: ` .........still alive, I was wondering..."`
+char_eva: `"Huh?`
+char_eva: ` Obviously she's alive.`
+char_eva: ` She's sending letters to us, what more do you want?"`
+char_rud: `"Whether she's healthy or not is a different story though.`
+char_rud: ` The lovely woman in that portrait must be getting up there in age by now."`
+char_hid: `"I'd think she's healthy.`
+char_hid: ` People who are crafty when it comes to money are healthy no matter how old they are!`
+char_hid: ` Evil plans might even be the best rejuvenating agent.`
+char_hid: ` Wahahaha."`
+char_ros: `"......She can't be...`
+char_ros: `......alive."`
+char_kir: `"Huh?`
+char_kir: ` ......What did you just say?"`
+char_ros: `"{f:5:Beatrice} is...`
+char_ros: `...dead...`
+char_ros: ` .........I,`
+char_ros: ` ...I killed her...!"`
+char_rud: `"Wh‐......what did you say......?!"`
+char_eva: `"...Wh‐...what do you mean, Rosa...?!"`
+char_ros: `"B‐but, it's not like I was the one who kill—`
+char_ros: ` ......But, but I was the one that brought her to a place like that!`
+char_ros: ` ...I really did kill her...`
+char_ros: ` I tried to make myself believe it was a dream!!"`
+char_ros: `"......But......it really wasn't after all!`
+char_ros: ` Which means this is......a letter from {f:5:Beatrice}'s ghost!!`
+char_ros: ` Uwaaaaaaaaaaaaaaa!!"`
+char_non: `It was so sudden that everyone was lost for words.`
+char_non: ` Rosa kept on talking, unable to stop, holding her head as her hair flew all about...`
+char_nat: `"Please, calm yourself...!`
+char_nat: ` Rosa‐san...!"`
+char_hid: `"I, I have absolutely no clue what's goin' on...!`
+char_hid: ` Already dead?`
+char_hid: ` What do you mean...?!"`
+char_kir: `"......I think it means two things.`
+char_kir: ` First, ...its literal meaning.`
+char_kir: ` ...And second, it substantiates that our earlier guess was correct."`
+char_cla: `"Which means......`
+char_cla: ` .........Rosa, ......you have met with {f:5:Beatrice}?"`
+char_eva: `"I, I've never heard Rosa speak about that once.`
+char_eva: ` ...Rosa, when was it?`
+char_eva: ` When could you possibly have met {f:5:Beatrice}?!"`
+char_ros: `"Long ago!`
+char_ros: ` Long, long, long ago!!`
+char_ros: ` We had just moved over to the island and I was young!!`
+char_ros: ` It wasn't my fault, it's not like {i:I} killed her...!!`
+char_ros: ` Uuuuuuuuughhhuuu!!"`
+char_rud: `"...Calm down!`
+char_rud: ` Nobody's blaming you for anything, alright?`
+char_rud: ` First, drink some water.`
+char_rud: ` Okay?`
+char_rud: ` Natsuhi‐san, the pitcher, please."`
+char_nat: `"Y‐yes.`
+char_nat: ` .........Here you go, Rosa‐san.`
+char_nat: ` Please, calm yourself......"`
+char_ros: `".........................................."`
+char_non: `Until Rosa was able to regain her calm amidst her ragged breathing, ......no one was able to speak a word...`

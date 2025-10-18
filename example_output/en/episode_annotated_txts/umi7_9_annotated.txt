@@ -1,0 +1,507 @@
+char_wil: `".........Let it be heard.`
+char_wil: ` I am one yet many.`
+char_wil: ` What I speak is our tale.`
+char_wil: ` However, this is a small world, sealed by glass and cork, with no one to hear.`
+char_wil: ` None shall lay eyes upon it, and my entire tale shall be sealed away,`
+char_wil: ` set adrift in the sea of my heart until it disappears along with the seaweed......"`
+char_fur: `"Ah, where is this place?!`
+char_fur: ` And who am I?!"`
+char_zep: `"Then let me ask!`
+char_zep: ` Where would you like it to be? Who do you want to be?!"`
+char_fur: `"Any place, so long as it will blanket me gently!`
+char_fur: ` Anyone, so long as I am treated kindly!"`
+char_zep: `"Yes, for us—"`
+char_fur: `"For us—"`
+char_non: `""Where and who we are hardly matters!!""`
+char_cur: `"Indeed,`
+char_cur: ` to us, that is a very insignificant thing.`
+char_cur: ` At least, until that day comes to pass.`
+char_cur: ` Why must we be cast into a new fate?`
+char_cur: ` The pronouncement of Fate arrives sudden and abrupt."`
+char_zep: `"It is not the fate I wished for."`
+char_fur: `"But it did make the heart pound...!"`
+char_zep: `"Where will the new fate take us?!"`
+char_fur: `"It doesn't matter where!"`
+char_non: `""So long as that place is kind to us...!!""`
+char_cur: `"The tidings brought to the temporary dwelling where unfortunate children without mother or father gather—`
+char_cur: `do they herald God's salvation, or does the Devil beckon us to be the playthings of a new fate?`
+char_cur: ` We have no means of knowing."`
+char_cur: `"And yet, we want to believe.`
+char_cur: ` We want to believe that it is gospel, good tidings, salvation offered us by God."`
+char_fur: `"But why would I be chosen?`
+char_fur: ` I have no religious beliefs!"`
+char_zep: `"Then this is not gospel; the Devil beckons!"`
+char_cur: `"And yet we have not the means to resist fate.`
+char_cur: ` Oh, I am one yet many.`
+char_cur: ` I pray that the new fate brings us blessings.`
+char_cur: ` The time is April of 1976.`
+char_cur: ` A month too cold to speak of spring.`
+char_cur: ` There is no change in the strange new land, which ever plagues us with its stale air and ceaseless breezes......"`
+char_nat: `"Those are all of the family rules.`
+char_nat: ` They may be strict, but I believe that the discipline you learn in this house will serve you well in the future."`
+char_non: `"""Yes, Madam."""`
+char_non: `The servants who would start working this April all called out in unison.`
+char_non: `The rules of the Ushiromiya family are no more or less strict than those at the Gospel House.`
+char_non: `However, here, we get paid a lot of money.`
+char_non: `{n}They also give us a lot of help in finding our next job.`
+char_non: `We work for the Ushiromiya family, store up money, use their influence to get a job at a good company, and start on a new, happy life.`
+char_non: `......That was the dream, and it was a very realistic one, held by all of us at the Gospel House.`
+char_non: `However, not everyone can become an Ushiromiya family servant.`
+char_non: `{n}Only kids with a record of exemplary conduct and good grades are recommended.`
+char_non: `So, all of the kids who want to be sure of leaving the Gospel House to live a happy life are feverishly devoted to their studies......`
+char_nat: `"That's enough for today.`
+char_nat: ` Tomorrow, you start early.`
+char_nat: ` Make sure the lights are all out at the appropriate time.`
+char_nat: ` That is all."`
+char_non: `"""Yes, Madam.`
+char_non: ` Thank you very much."""`
+char_non: `After bowing until Natsuhi was no longer in sight,`
+char_non: ` the new servants all followed the lead of one of the more experienced servants and raised their heads.`
+char_non: `"Okay, we're done for the day.`
+char_non: ` Starting tomorrow, you'll be following your shift schedule.`
+char_non: ` Madam is very strict about time.`
+char_non: ` If any of you sleep in, it'll be my responsibility.`
+char_non: ` So if you do, I'll kick you awake.`
+char_non: ` Got it?!"`
+char_non: `Of course, this experienced servant was one of the older girls from the Gospel House.`
+char_non: `{n}She's been here for two years, apparently.`
+char_non: `That's probably why all the other new servants, who are older than me, seem to know her well.`
+char_non: `They all chatted noisily, saying things like "Madam looks so strict" and "Dang, I'm tired."`
+char_non: `"......By the way, just who is this?`
+char_non: ` Who chose this kid to be a servant?"`
+char_non: `The older servant pointed at me and asked the room at large, a dubious look on her face.`
+char_non: `It's no surprise, really.`
+char_non: ` Most of us become servants when we graduate middle school or high school.`
+char_non: `But I'm just starting elementary school.`
+char_non: `The others will be working as servants every day, according to their shifts.`
+char_non: `However, I was going to go to the elementary school on Niijima with Milady,`
+char_non: ` only working on the weekends and when I had free time.`
+char_non: `It was an exception among exceptions, something that had never happened before.`
+char_non: `......It was clear at a glance that the others, who had obtained their positions after a rigorous selection process,`
+char_non: ` didn't like the fact that I was here too.`
+char_non: `"......Both Madam and Genji‐sama have told me that you are to put your studies first.`
+char_non: ` But you're still getting paid.`
+char_non: ` Doesn't make any sense."`
+char_non: `If you're going to talk behind someone's back, at least do it behind them.`
+char_non: ` ......She didn't even try to hide her discontent.`
+char_non: `"Is this kid really that smart?`
+char_non: ` A child prodigy, or something?"`
+char_non: `"Beats the heck out of me."`
+char_non: `"I didn't know this kid at all back in the House. They kept this one separate, apparently, something to do with a weak constitution."`
+char_non: `"......Now that you're here, you're part of the collective responsibility system.`
+char_non: ` If you screw up, it's the same as everyone from the Gospel House screwing up.`
+char_non: ` Make sure you don't, okay?"`
+char_non: `I nodded weakly.`
+char_non: ` ......I'd never been threatened by someone this much older than me, and I was very frightened.`
+char_sha: `"Don't worry.`
+char_sha: ` I'll help you through.`
+char_sha: ` Let's give it our all together,`
+char_sha: ` okay?"`
+char_non: `Shannon smiled at me as she spoke...`
+char_zep: `"Don't you find it scary, Shannon?`
+char_zep: ` This house looks pretty strict...!"`
+char_fur: `"No, there's nothing scary about it.`
+char_fur: ` It's only scary to you because that's what you think."`
+char_zep: `"Then if I think it's fun, will it be fun?!"`
+char_fur: `"Yes, it will.`
+char_fur: ` So just like before, let's put on a smile and give it our all."`
+char_cur: `"......Shannon was my only friend in the Gospel House.`
+char_cur: ` She was confident and popular.`
+char_cur: ` The complete opposite of me.`
+char_cur: ` I was embarrassingly dull‐witted, and no one wanted to be my friend."`
+char_cur: `"I would never have made it through those days in the Gospel House had it not been for her encouragement.`
+char_cur: ` ......So, I would probably make it through here too, with her by my side."`
+char_zep: `"Well, isn't it about time we got ready for bed?`
+char_zep: ` I've got work early tomorrow morning, but you have a different job."`
+char_fur: `"That's right. Unlike everyone else, I have to go to school.`
+char_fur: ` When I spend the night on Rokkenjima, I have to get ready for school and wait for Milady at the dock."`
+char_zep: `"Milady looks like an energetic person.`
+char_zep: ` I hope you get along well!"`
+char_fur: `"D‐do you think I will...?`
+char_fur: ` I'm scared of school, nervous...!"`
+char_cur: `"......I had grown used to life in the Gospel House, so the more relaxed rules at school made life easy.`
+char_cur: ` But until I grew used to it, everything was new, and everything made me nervous."`
+char_non: `My new life on Rokkenjima probably deserves an explanation.`
+char_non: `It was completely different from the comfortable yet stagnant life I'd lived at the Gospel House.`
+char_non: `In addition to the time I spent as a servant to the Ushiromiya family on Rokkenjima, I also traveled to the elementary school on Niijima on school days.`
+char_non: `It was the start of a time that was both rushed and busy, with hardly any time to relax.`
+char_non: `Unlike at the Gospel House, I didn't get to sleep in the same bed every day here.`
+char_non: `Half of the week, I slept in the servants' quarters in the Rokkenjima mansion.`
+char_non: `I would return from school with Milady, go to the mansion, and work there as a servant.`
+char_non: ` I would then stay the night and head to school with Milady again the next morning.`
+char_non: `On days when I didn't have work, I would return to the dormitory on Niijima, where I could have some time to myself in the room that had been assigned to me.`
+char_non: `There was an adult dorm mother who strictly controlled mealtimes and lights‐out,`
+char_non: ` but I was already used to that sort of life from the Gospel House, so it wasn't hard for me.`
+char_non: `The rooms were slightly larger than average and housed three people each.`
+char_non: `However, either because of the number of people or some lucky chance, I was not given a three‐person room.`
+char_sha: `"Looks like we'll share a room back here in the dorms too."`
+char_non: `With Shannon by my side, I felt like I'd be able to manage well enough...`
+char_nat: `"Correct.`
+char_nat: ` Every year, new servants came from the Gospel House, replacing some of the old ones."`
+char_cla: `"It was something Father organized with them all on his own.`
+char_cla: ` The rest of us weren't allowed to meddle."`
+char_nat: `"Our family provided a strict upbringing for these children without relatives and supported them on their path to adulthood.`
+char_nat: ` I always viewed this as the wealthy Ushiromiya family's obligation to society."`
+char_fur: `"What sort of kids came to serve the Ushiromiya family?"`
+char_zep: `"I'm sure they were diligent,`
+char_zep: ` lovable kids of irreproachable conduct!"`
+char_nat: `"It seemed to me that there were a lot of glaring hyenas among them."`
+char_cla: `"Let us say they had high ambitions.`
+char_cla: ` Those poor children without relatives.`
+char_cla: ` They were determined to use this rare opportunity to launch their careers, so that they could take control of their lives."`
+char_fur: `"Did all of them have to balance school and servant work?"`
+char_zep: `"That must be tough!`
+char_zep: ` You wouldn't be able to get much work done!"`
+char_nat: `"There has been no case of a servant going to school while they worked...except for that child."`
+char_cla: `"To be honest, I was fairly surprised when that child first came to greet me.`
+char_cla: ` So obviously young.`
+char_cla: ` The others were all around 16 or 18 years old, but that child looked almost ten years younger."`
+char_nat: `"The young servants who come from the Gospel House visit only to gain experience in working in the real world,`
+char_nat: ` so I do not expect a high level of skill from them as servants."`
+char_cla: `"Very true.`
+char_cla: ` You can't rely on them to the same degree as an adult, seasoned servant."`
+char_nat: `"But this was a child who hadn't even started school.`
+char_nat: ` No knowledge of housework, no practical experience, and yet to begin compulsory education.`
+char_nat: ` I don't know what Father was thinking, but I always thought there was something clearly odd about it."`
+char_cla: `"I spoke to Father about it.`
+char_cla: ` I asked if it might be better to wait for our servants to graduate middle school before having them serve here."`
+char_fur: `"And what did Kinzo say?"`
+char_zep: `"Come on, we all know what he said."`
+char_non: `""Oooooh, {f:5:Beatrice}~~!!""`
+char_cla: `"Hahaha...`
+char_cla: ` By that time, he was already a complete shut‐in inside his study, obsessed with the occult.`
+char_cla: ` If you tried to talk to him, he'd yell and tell you to stop interrupting "the journey of his mind"."`
+char_nat: `"And Father's decisions are absolute.`
+char_nat: ` ......However, the case with this particular child just didn't make sense."`
+char_cla: `"I even asked the Gospel House about it.`
+char_cla: ` They said to ask Genji‐san.`
+char_cla: ` I then asked Genji‐san, and he said to ask the Master."`
+char_zep: `"And then you asked the Master, and he said "{f:5:Beatrice}~"!"`
+char_fur: `"Ahahahaha!`
+char_fur: ` No one knows the truth!"`
+char_cla: `"Jessica was the only child on the island.`
+char_cla: ` The servants would often play with my daughter, but she wanted a friend of her own age.`
+char_cla: ` Someone she could play with at home, as well as at school."`
+char_nat: `"......I began to think that Father had employed this servant out of pity for Jessica.`
+char_nat: ` ......But if that were the case, why wouldn't he talk to us about it beforehand?`
+char_nat: ` We should be the ones to decide which friends are suitable for our daughter."`
+char_fur: `"Scaaaryyy! Ahahahahaha!"`
+char_zep: `"Natsuhi wouldn't cope well with taking her kid to the playground!"`
+char_wil: `"We should probably view this as an arrangement planned by Genji."`
+char_rio: `".........Yes, probably.`
+char_rio: ` ......Genji‐san knew that the "me" in this other world carried Grandfather's blood,`
+char_rio: ` so he must have made special arrangements for that "me" to be brought to Rokkenjima."`
+char_wil: `"Are you feeling okay now?"`
+char_rio: `"......It was a really big shock, that's all.`
+char_rio: ` ......I just feel a bit dizzy now."`
+char_wil: `"In the world we're in now, you're the successor.`
+char_wil: ` But if your world had been different, you could have been a servant......or maybe a witch.`
+char_wil: ` ......You do have a troubled fate."`
+char_rio: `"Seriously......`
+char_rio: ` I don't regret learning about it, but if I could forget it now, I would."`
+char_ber: `"*giggle*, isn't it interesting?`
+char_ber: ` Even though you're a servant, you're actually an illegitimate child of the head......`
+char_ber: ` Isn't that romantic, like some fairy tale?"`
+char_rio: `"......Romantic?`
+char_rio: ` ......Considering how Mother must feel, I'm not sure about that."`
+char_ber: `"Eheheh, true.`
+char_ber: ` In Natsuhi's eyes, the Lion of this world is nothing more than the detestable baby she was ordered to raise.`
+char_ber: ` And this is also a world in which she refused that order."`
+char_ber: `"......Natsuhi's natural child, Jessica, is hundreds of times more precious to her.`
+char_ber: ` A baby that doesn't share your blood is nothing more than a dirty, lukewarm sack of filth."`
+char_wil: `"Have some decency.`
+char_wil: ` Next time, I'll be the one pinching your butt."`
+char_rio: `"......Thank you, Will.`
+char_rio: ` ......I think I understand, more or less.`
+char_rio: ` This makes it all the more important for me to be grateful to Mother.`
+char_rio: ` She's raised me fairly all these years."`
+char_ber: `"Though at a probability so low it'd take a miracle to happen.`
+char_ber: ` ......You know, animals are always brutal towards children that don't carry their blood.`
+char_ber: ` Lions do that too, don't they? ......*giggle*giggle*."`
+char_wil: `"Genji's thinking must have gone something like this.`
+char_wil: ` ......‘This is a true member of the Ushiromiya bloodline.`
+char_wil: ` I want this child to live on Rokkenjima if at all possible.’`
+char_wil: ` However, he couldn't suddenly bring Lion over and tell everyone everything."`
+char_rio: `"......I agree.`
+char_rio: ` Maybe he intended to have me live on the island until it became normal, and then reveal everything when the chance presented itself."`
+char_wil: `"However, the Lion of this world was not given special treatment.`
+char_wil: ` Notably, the silver ring doesn't exist."`
+char_rio: `"I wonder if that means Grandfather never heard about me."`
+char_wil: `"It might mean that Genji never found a good opportunity...`
+char_wil: `to reveal the truth..."`
+char_cur: `"Genji must have wanted...`
+char_cur: `to someday tell Kinzo the truth that the child of his beloved Beatrice was still alive.`
+char_cur: ` However, revealing this truth would not be so easy."`
+char_zep: `"I wonder why it isn't easy?!"`
+char_fur: `"You dummy, what would happen if Natsuhi found out?!"`
+char_zep: `"Oh, right, if Lion suddenly appeared, Jessica wouldn't be the successor anymore!"`
+char_non: `Strictly speaking, Jessica wasn't the successor to the headship, but since she'd be able to select the successor, it all came to the same thing.`
+char_cur: `"It is a tale that becomes less simple the more one learns of it.`
+char_cur: ` Some would celebrate my birth; others would not.`
+char_cur: ` ......Genji could only wait in silence for the day of revelation to come."`
+char_zep: `"Was it a tale hidden only within Genji's heart?"`
+char_fur: `"Lion and Kinzo and Natsuhi and Krauss and Jessica and everyone else!`
+char_fur: ` None of them knew of this tale!"`
+char_cur: `"Thus, the curtains slowly rise on this curious tale in the year 1976.`
+char_cur: ` Oh, I am one yet many.`
+char_cur: ` Why must fate proceed so selfishly and freely, leaving us behind......?"`
+char_non: `People only found the young servant strange for the first month.`
+char_non: `Natsuhi and Krauss's protests came to naught.`
+char_non: `After all, there was no harm in it.`
+char_non: `So why not indulge Kinzo's whim...?`
+char_non: `Eventually, everyone grew accustomed and began to accept this slightly abnormal everyday life.`
+char_cur: `"However, it was not so for the other servants of the Gospel House, who were always close by and who believed that everyone should be treated equally.`
+char_cur: ` As time went on, their little grievances about my special treatment began to accumulate......"`
+char_non: `"Good job, Sawachi.`
+char_non: ` How'd it go today?"`
+char_non: `"Madam was in a real shitty mood.`
+char_non: ` She literally ran her finger across the windowsills!"`
+char_non: `"Tadacchi got chewed out for cleaning too slow.`
+char_non: ` Like, what does she want from us?!"`
+char_non: `The Gospel House treats all the children under its care as family.`
+char_non: `Because of this, their original names are not spoken there, and everyone uses new "blessed names" instead.`
+char_non: `Maybe because the "{ruby:in/on/non/ne:{p:0:音}}" character is in the word "Gospel" ({ruby:Fukuin:{p:0:福音}}),`
+char_non: ` that character is almost always combined with at least one character from the child's original name to make their new name.`
+char_non: `......Still, just giving a person a new name doesn't mean they'll accept it so easily.`
+char_non: `The boys and girls of the Gospel House, living without relatives due to all kinds of circumstances,`
+char_non: ` often feel as though their real first and last names are a bond that's worth holding onto.`
+char_non: `So, many of the Gospel children hate their "{p:0:音}" names and call each other by nicknames based on their original names.`
+char_non: `Of course, this is only privately.`
+char_non: ` When in the presence of the House Director or other important people, only the blessed names are used.`
+char_non: `On the job, the blessed names are used.`
+char_non: ` And off the job, the informal nicknames are used.`
+char_non: `Everyone is very used to living with two names like this, so they're all naturals at switching between the two.`
+char_non: `"Whoo, you stink.`
+char_non: ` Go take a shower."`
+char_non: `"Dang, why's it so cramped in here?`
+char_non: ` Can't they get a bigger dorm if they have that huge mansion?"`
+char_non: `"Hey, Garashi‐sa~n.`
+char_non: ` Why's Yasu the only one who isn't in a three‐person room?"`
+char_non: `By "Yasu", they probably mean me.`
+char_non: `I can't remember my parents at all, ......but I was given the family name "Yasuda".`
+char_non: `And, apparently, my nickname comes from that.`
+char_non: `"How should I know? Genji‐sama's the one who decides the rooms.`
+char_non: ` I don't like it either."`
+char_non: `"Yes, seriously!`
+char_non: ` Wouldn't you normally split it two and two?!"`
+char_non: `"What's the deal with Yasu anyway?"`
+char_non: `"It's like that kid's job is going to school with Milady or something.`
+char_non: ` ......A school friend position?`
+char_non: ` Doesn't make any sense."`
+char_non: `......Of course, on days when I am given work,`
+char_non: ` I return to the mansion right after school and work alongside all the others.`
+char_non: `I help out with caring for the garden and cleaning up the mansion.`
+char_non: `{n}I can't do any jobs on my own, so I'm always just helping out.`
+char_non: `......Maybe because I'm young, the adult servants are always kind to me.`
+char_non: `It seems my fellow Gospel House servants are annoyed by this.`
+char_non: `"Don't you think Kumasawa‐san's being blatantly soft on Yasu?`
+char_non: ` It's like she's mistaken Yasu for her own grandchild or something!"`
+char_non: `"And why on Earth does that kid get paid the same as the rest of us?`
+char_non: ` I don't get it!"`
+char_non: `".........I realize that you have school to worry about,`
+char_non: ` but don't forget that you're a servant too, okay?`
+char_non: ` You need to stop being a helper and learn to do work by yourself like the rest of us.`
+char_non: ` We aren't going to let you have things easy forever, okay?"`
+char_non: `..............................`
+char_non: `I have been trying my best.`
+char_non: `However, I'm not very strong yet, so I can't carry heavy things.`
+char_non: ` I can't carry a lot of things at once, either.`
+char_non: `I can't fold clothes right, and I'm not good at using a dustpan.`
+char_non: `I just can't do it as well as everyone else......`
+char_non: `As my face turned red,`
+char_non: ` ......I spotted Shannon, who was watching from the sidelines and not joining in.`
+char_non: `......Shannon is my only ally.`
+char_non: `{n}Unlike me, she can do everything well.`
+char_non: `However, she'll never pamper me.`
+char_non: `She'll show me how things are done, but she'll never steal my jobs from me.`
+char_non: `She really is incredible.`
+char_non: `I really want to be like Shannon, as soon as I can.`
+char_non: `......She never talks behind people's backs, and no one talks behind her back.`
+char_non: ` She's kind, and she gets along with everyone.`
+char_non: `I want to be like her.`
+char_non: ` And she's always kindly watching over my efforts to become like her.`
+char_non: `"......Why......did I end up here?"`
+char_sha: `"I don't know."`
+char_non: `Though I'd just been muttering to the ceiling,`
+char_non: ` Shannon gave me an honest answer.`
+char_sha: `"I guess there's no way to say it except that it's part of God's plan."`
+char_non: `"Is this another test from God...?"`
+char_sha: `"Yep.`
+char_sha: ` Think of it as a test to help you grow into a wonderful person.`
+char_sha: ` After all, you're a special, chosen person."`
+char_non: `"......Am I...`
+char_non: `...special?"`
+char_sha: `"Of course you are.`
+char_sha: ` After all, everyone else here is big, but you were the only one special enough to be chosen young."`
+char_non: `"Why am I the only one who's little?`
+char_non: ` I can't do any jobs by myself."`
+char_non: `Everyone complains that I'm just there to play with Milady.`
+char_non: `And yet, Madam made it clear that I'm not to think of Milady as a friend and speak to her in a casual manner.`
+char_sha: `"You may be ten years younger than everyone else,`
+char_sha: ` but that means, if you keep it up until you're the same age as the others,`
+char_sha: ` you'll be much more experienced than the new people who come later.`
+char_sha: ` Even Genji‐sama will acknowledge your talents, and you'll become a leader who can teach the new kids who come from the Gospel House."`
+char_sha: `"And then, I'm sure that everyone will respect you.`
+char_sha: ` By that time, even Madam, the Master, and Krauss‐sama will acknowledge your skills.`
+char_sha: ` That's your future."`
+char_non: `"......You mean like the ugly duckling becoming a swan?"`
+char_sha: `"That might be it.`
+char_sha: ` After all, it was very unusual for you to be chosen as an Ushiromiya family servant.`
+char_sha: ` ......In fact, that rumor might be true,`
+char_sha: ` and you might be the secret child of someone in the Ushiromiya family.`
+char_sha: ` *giggle*."`
+char_non: `Shannon laughed, saying "wouldn't that be cool" and "then you'd be super‐rich too".`
+char_non: `But I felt a bit doubtful.`
+char_non: `After all, ......if that was the case, why did I have to live all alone in the Gospel House?`
+char_non: `Shannon and people like the House Director were the only ones who would play with me.`
+char_non: `I wasn't allowed to play with any other friends, ......and I spent all my time by myself, in my isolated room.`
+char_non: `Maybe it's because I'm frail and always half‐asleep, .........but it has been lonely.`
+char_fur: `"Hey, Genji!`
+char_fur: ` How much of this did you know?"`
+char_zep: `"You never talk about anything, but you've known everything since the beginning, haven't you?"`
+char_gen: `"...................................."`
+char_zep: `"19 years ago,`
+char_zep: ` you heard from Natsuhi that a servant had fallen from a cliff holding a baby."`
+char_fur: `"You went to the bottom of that cliff and realized that the baby was still alive, didn't you?"`
+char_gen: `".........The question of whether it was alive or dead...`
+char_gen: `was not one that I was qualified to answer."`
+char_zep: `"Then who was?"`
+char_fur: `"The doctor, of course!"`
+char_non: `""What do you say, Doctor Nanjo?!!""`
+char_nan: `"..................`
+char_nan: ` ......Perhaps it is fitting.`
+char_nan: ` ...Shall I speak?"`
+char_gen: `"......If you would be willing,`
+char_gen: ` ......then I ask it of you."`
+char_nan: `"..................`
+char_nan: ` Very well."`
+char_nan: `......I was contacted by Genji‐san immediately after the accident, and I was asked to conduct an examination in secrecy.`
+char_zep: `"In secrecy?"`
+char_fur: `"Why?"`
+char_nan: `"......Both the Beatrice of Kuwadorian and her child were unregistered people who weren't supposed to exist.`
+char_nan: ` It would lead to various problems if it went public..."`
+char_gen: `"I had started the procedures to have the baby registered, but they were not complete at that time.`
+char_gen: ` ......It was a very bad time for the baby to "die"."`
+char_fur: `"So, the servant who fell was treated as the only death?"`
+char_zep: `"Natsuhi wouldn't talk to anyone.`
+char_zep: ` It would've been easy to set up!"`
+char_fur: `"But that baby was alive, wasn't it?"`
+char_nan: `"Correct.`
+char_nan: ` ......Of course, the child was gravely injured.`
+char_nan: ` It was a miracle that it survived those injuries.`
+char_nan: ` If some angle had been slightly different,`
+char_nan: ` or if Genji‐san had been any slower in bringing the baby to me...`
+char_nan: ` ......That baby only managed to survive thanks to a series of miracles."`
+char_gen: `".........I had given up.`
+char_gen: ` I didn't believe the baby could survive."`
+char_fur: `"But it did."`
+char_zep: `"How strong and resilient is life!"`
+char_fur: `"No, this is fate."`
+char_zep: `"Fate!`
+char_zep: ` So the baby was fated to live on and eventually accomplish something great?!"`
+char_gen: `"..................`
+char_gen: ` ......Yes,`
+char_gen: ` I did think that it was fate.`
+char_gen: ` I thought the blood of the Kuwadorian Beatrice‐sama, whose life ended on Rokkenjima,`
+char_gen: ` must have imparted something onto this child to make it survive."`
+char_cur: `"However, Genji did not tell his master, Kinzo, that the child had survived.`
+char_cur: ` He simply said that it had fallen to its death in an unfortunate accident.`
+char_cur: ` Kinzo mourned, but his mourning was more one of madness than of sorrow......"`
+char_zep: `"Ooh, {f:5:Beatrice}, why have you run away from me once more?!"`
+char_fur: `"Why, even though I swore I'd never make the same mistake again, why?!!"`
+char_cur: `"There was one matter for which Genji did not trust the master he so respected.`
+char_cur: ` That matter was whether Kinzo would be capable of accepting Beatrice's grandchild as family."`
+char_cur: `"Genji had served the Kuwadorian Beatrice for many years as well.`
+char_cur: ` He was very aware of what she had felt.`
+char_cur: ` He knew that she accepted Kinzo's affection and respected him as her father."`
+char_cur: `"However, her love was not the same as Kinzo's love.`
+char_cur: ` Kinzo thought her to be Beatrice reborn,`
+char_cur: ` and tried to use her to satisfy the many feelings he had felt for the late Beatrice.`
+char_cur: ` Of course, the Kuwadorian Beatrice could not accept those feelings.`
+char_cur: ` In the end, Kinzo himself, the one she respected and thought of as her father...`
+char_cur: `stole away her chastity......"`
+char_zep: `"She thought he was her father, and he thought she was his wife!"`
+char_fur: `"Oh, what unmanageable, forbidden love!"`
+char_gen: `".........I do understand Kinzo‐sama's feelings to some degree.`
+char_gen: ` It is not as though Kinzo‐sama saw the late Beatrice‐sama in the girl at the time of her birth,`
+char_gen: ` nor did he decide at that moment to make her his plaything."`
+char_nan: `"He......spoke to me about it a few times when we were drinking.`
+char_nan: ` I always thought he was just joking."`
+char_zep: `"As she grew up, was he surprised to find that she looked more and more like her mother?"`
+char_fur: `"As she became older, did he suffer from a forbidden emotion he could not suppress?"`
+char_gen: `"......I thought that the tragedy...`
+char_gen: `...might repeat itself.`
+char_gen: ` ......That was my view."`
+char_nan: `"................................."`
+char_gen: `"Beatrice‐sama suffered much.`
+char_gen: ` And ultimately, she never truly understood the difference between her feelings and Kinzo‐sama's.`
+char_gen: ` .........I spoke with Beatrice‐sama many times, listening to her deepest feelings.`
+char_gen: ` However, I could not bring myself to tell her the truth."`
+char_zep: `"That would be hard to say!"`
+char_fur: `"Imagine telling her that the one she respects as her father wants to use her as a replacement for her dead mother!"`
+char_nan: `"......Let me say this for the sake of Kinzo‐san's honor.`
+char_nan: ` He also suffered greatly.`
+char_nan: ` It pained him when he found that he could no longer think of his daughter as a daughter.`
+char_nan: ` ......I told him to love her as a father.`
+char_nan: ` I think Kinzo‐san listened to reason and his conscience and fought for some time..."`
+char_cur: `"Kinzo loved her.`
+char_cur: ` He poured his affection onto the daughter that Beatrice had left behind.`
+char_cur: ` He did so as a father.`
+char_cur: ` And yet, if so, why did he give the daughter the same name as the mother?"`
+char_cur: `"Yes, Kinzo's sin started from the moment she received life.`
+char_cur: ` Beatrice gave birth to her and died as if in exchange.`
+char_cur: ` ......He passed the name down from mother to daughter.`
+char_cur: ` From the moment of her birth, Kinzo had already decided that she was Beatrice reborn..."`
+char_wil: `"Lion, in other words,`
+char_wil: ` is what happens when Kinzo, trying to atone for his sin,`
+char_wil: ` succeeds in bringing the child into the Ushiromiya family officially."`
+char_ber: `"......Exactly.`
+char_ber: ` I get the feeling I'll get my butt pinched if I talk about other fragments,`
+char_ber: ` ......but maybe there's one where Lion is accepted...`
+char_ber: `...and Kinzo commits a tragedy,`
+char_ber: ` who knows...?`
+char_ber: ` ......Wanna see if we can find it?`
+char_ber: ` *giggle*giggle*........."`
+char_rio: `"Who would want to see something like that?`
+char_rio: ` .........Is it your job to mix together the worst imaginable possibilities for every part of a person's life and laugh at their horrible fate?!"`
+char_wil: `"Unfortunately, that's the sort of demon she is."`
+char_ber: `"{i:Witch}, thank you.`
+char_ber: ` *giggle*......"`
+char_wil: `"......Genji foresaw that worst of all possible futures, and, trying to secure a better future, he intentionally lied about the baby being dead."`
+char_ber: `"Right.`
+char_ber: ` Kinzo was a man of such burning desire that he took advantage of his own daughter.`
+char_ber: ` Genji, who knew Beatrice's feelings and felt sympathy for her, couldn't trust Kinzo so easily."`
+char_wil: `"Even Genji, Kinzo's most devoted servant?"`
+char_ber: `"Genji is a man who can draw a clear line between the professional and the personal.`
+char_ber: ` While he served Kinzo faithfully, he also felt that the mistake Kinzo had made with his daughter was not one to be forgiven easily."`
+char_wil: `"......Probably.`
+char_wil: ` And to make sure that Lion wouldn't be found out easily, Genji lied about the kid's age, lowering it by three years."`
+char_rio: `"You're right.`
+char_rio: ` In this world, I'm just entering elementary school in 1976.`
+char_rio: ` I was actually supposed to become a fourth year then."`
+char_wil: `"If your frailness wasn't the reason, .........then Genji must have been careful to disguise the year of your birth.`
+char_wil: ` The "baby from 19 years ago" was unforgettable not just to Kinzo, but to Natsuhi as well.`
+char_wil: ` If a suspiciously young servant of that age came to the island, Natsuhi's feminine intuition would definitely have picked up on it."`
+char_non: `Had the child been too sick to go to school for three years?`
+char_non: ` Or had the age been faked, so that Natsuhi wouldn't figure everything out?`
+char_wil: `"Either way, we know that your age has been lowered by three in this world."`
+char_ber: `".........Correct.`
+char_ber: ` The age of this world's Lion has been altered by three.`
+char_ber: ` ......This is a small, feeble kid we're talking about.`
+char_ber: ` An underdeveloped kid.`
+char_ber: ` It seems it was surprisingly easy to fake."`
+char_cur: `"Genji thought he should wait and see.`
+char_cur: ` In the end, would Kinzo be able to accept Beatrice's child as his offspring, or not?`
+char_cur: ` He had the child live in the Gospel House until a suitable age, and then summoned the child to the island as a young servant.`
+char_cur: ` Neither father nor child knew the other.`
+char_cur: ` Genji's thinking was as follows.`
+char_cur: ` If Kinzo truly did possess the affection of a parent,`
+char_cur: ` he would notice traces of the late mother and daughter in this child."`
+char_cur: `"They would surely be able to regain their parent‐child relationship without the truth needing to be revealed to anyone.`
+char_cur: ` That was his belief.`
+char_cur: ` ......Or, perhaps, the time might come naturally.`
+char_cur: ` When that happened, he could tell the truth to both father and child.`
+char_cur: ` Believing that this day would eventually come, Genji told nothing of this to anyone.`
+char_cur: ` ......He watched over Beatrice's child, waiting for the fated day..."`
+char_non: `And time continued to pass.`
+char_non: `Days slid by as he quietly watched over Beatrice's child......`

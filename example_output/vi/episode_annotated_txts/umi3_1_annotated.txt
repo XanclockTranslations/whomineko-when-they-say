@@ -1,0 +1,646 @@
+char_rud: `"Sheesh.`
+char_rud: ` Aneki's hatred of cigarettes is a real pain in the neck."`
+char_hid: `"Sorry.`
+char_hid: ` She's been grumpy since last night.`
+char_hid: ` Think you could let it slide?"`
+char_non: `Rudolf and Hideyoshi went out onto the deck, and took out some cigarettes.`
+char_non: `Eva had always hated the smell of cigarettes, but when she was in a bad mood, she got even more oversensitive.`
+char_non: `The two of them had attempted to spend some relaxed time smoking until they made it to the island, but they had gotten yelled at and chased out onto the deck.`
+char_non: `Hideyoshi tried to use his lighter, but it didn't go well with all of the strong winds on the deck.`
+char_non: `{n}Rudolf took out a Zippo with a stylish gesture, and let Hideyoshi borrow the flame.`
+char_rud: `"When did you start smoking, Hideyoshi nii‐san?"`
+char_hid: `"Just after the war.`
+char_hid: ` In the beginnin', I was rollin' 'em.`
+char_hid: ` Then I started usin' what I was sellin'.`
+char_hid: ` Wahahahahahahaha."`
+char_rud: `"So you were already smoking when you met Aneki.`
+char_rud: ` I'll bet she's always telling you to stop."`
+char_hid: `"I never listened to her, so she's already completely given up on that.`
+char_hid: ` Wahaha, looks like men've gotta be stubborn."`
+char_non: `Hideyoshi laughed heartily, but Rudolf chuckled.`
+char_non: `After being scolded by Eva and told to smoke outside, they had dejectedly fled to the deck together.`
+char_non: ` There was almost no doubt he was under her thumb.`
+char_hid: `"...She isn't usually so short‐tempered.`
+char_hid: ` ......Nah, she's usually a more gentle, quiet woman.`
+char_hid: ` Every year, she changes when this day comes."`
+char_rud: `"Is that so?`
+char_rud: ` To me, she looks just like the Aneki we've all known for so long."`
+char_hid: `"......That's right.`
+char_hid: ` She goes back to bein' Eva of the Ushiromiya family.`
+char_hid: ` ...But, that's different from the Eva who's with me."`
+char_rud: `"..................`
+char_rud: ` Well, I can understand why she's grumpy.`
+char_rud: ` ...This family conference is going to be a pain."`
+char_hid: `"......Sure is.`
+char_hid: ` ...That plan to threaten money out of Krauss nii‐san.`
+char_hid: ` It's a family conference only in name, really it's just a fight between siblings."`
+char_non: `With the family conference ahead of them, the three siblings excluding Krauss had made a secret contract.`
+char_non: `Each of them had a pressing situation to deal with, and urgently needed a lot of money.`
+char_non: `And the only one who could help them was Krauss, who spoke for the Ushiromiya head, since Kinzo was shut up in his study.`
+char_non: `They had long felt that Krauss had started taking advantage of Kinzo's loss of interest in his own wealth,`
+char_non: ` and was embezzling that wealth for his own use.`
+char_non: `When everything had been going well for the siblings, even though they had found it detestable, they had pretended not to notice,`
+char_non: ` ...but now that they needed money, they couldn't just quietly accept that.`
+char_non: `Eva had called Rudolf and Rosa into an alliance, and they were planning to exploit that knowledge in order to draw money out of Krauss...`
+char_hid: `".........Rudolf‐kun, both you and I are company presidents.`
+char_hid: ` We are responsible for the livelihood of our employees."`
+char_rud: `"Rosa is a president too.`
+char_rud: ` Well, as a hobby."`
+char_hid: `"That's right, sorry.`
+char_hid: ` ......In short, all of us are bearin' some burden."`
+char_rud: `"...Now that I've thrown the gauntlet down in front of the executive board, I gotta bring in the money, even if it means I have to grovel or even drink mud."`
+char_hid: `"Same here.`
+char_hid: ` ...I can't betray my employees who've trusted me and followed me for so long.`
+char_hid: ` ......That's why I gotta get some money out of Krauss nii‐san, even if I have to grab him by the neck."`
+char_rud: `"Aneki has always been at odds with Aniki.`
+char_rud: ` ...And now she has to have a full‐on confrontation with him.`
+char_rud: ` That's probably enough to make her grumpy."`
+char_hid: `"So, Eva has always been on bad terms with Krauss nii‐san, then...?"`
+char_rud: `"She doesn't talk to you about it?`
+char_rud: ` Definitely, yeah, in a really big way."`
+char_hid: `"She won't tell me about the past even if I ask.`
+char_hid: ` ......She probably doesn't want to remember."`
+char_rud: `"...Aneki has always been smart and shrewd.`
+char_rud: ` Her grades were good too.`
+char_rud: ` Compared to that, Aniki was just average.`
+char_rud: ` ...Her just being there beside him should have been enough pressure, but Aneki kept boasting about it and driving Aniki into a corner."`
+char_hid: `"......Silly girl...`
+char_hid: ` Why be openly hostile like that and drive him into a corner?`
+char_hid: ` That's not bein' shrewd."`
+char_rud: `"Hahaha, seriously."`
+char_rud: `".........Aneki regretted being born a woman.`
+char_rud: ` ...She probably couldn't forgive Aniki for getting to succeed the head just because he was a man.`
+char_rud: ` ...So she'd always take every opportunity to boast to Dad that she was superior."`
+char_hid: `"Father really is an old‐fashioned person.`
+char_hid: ` His values discriminate between men and women.`
+char_hid: ` ...You think that Father disliked Eva a bit, since she likes to make herself conspicuous...?"`
+char_rud: `"..........................."`
+char_cla: `"Don't you think that schooling for women is like sugar in black tea?`
+char_cla: ` Without it, it is bland, but too much of it ruins the tea."`
+char_non: `...Since you can still drink black tea without sugar,`
+char_non: ` it was exactly the same as saying that study was unnecessary for a woman.`
+char_non: `Those infuriating words were ones that my older brother had abused me with when I had been in despair, wanting to go to college but denied by Father.`
+char_non: `I had protested that advancing to college was essential if I was to acquire the education and class befitting the eldest daughter of the Ushiromiya family.`
+char_non: `But the replies I received from Father and my brother were, in summary, exactly the same.`
+char_non: `"How conceited for a woman."`
+char_non: `Since the time I was born into the Ushiromiya family, I hadn't taken that name lightly even once.`
+char_non: ` And furthermore, nor had I ever taken lightly Father's name, Ushiromiya Kinzo.`
+char_non: `It was an old family with a long history, but it had lost all its wealth and its business in the Great Kanto Earthquake, and almost sank for a time.`
+char_non: ` Then Father, with his ingenious talent, had taken control, and revived it to be even greater than it had been before.`
+char_non: `I hadn't forgotten even once what it meant to be the daughter of that great Ushiromiya Kinzo.`
+char_non: `Therefore, I had always made every effort to become worthy of that name.`
+char_non: `Class worthy of the Ushiromiya family.`
+char_non: ` Schooling.`
+char_non: ` Manners.`
+char_non: ` And leadership.`
+char_non: `Even if I was far from reaching Father's level, I deepened my knowledge in economics and finance, and tried to improve myself so that I could help out with that at any time.`
+char_non: `......However, in the end, there never came a time when Father acknowledged that.`
+char_non: `To Father, a woman was only meant to support a man, and nothing further than that was permissible.`
+char_non: `I wonder when it was that I understood that.`
+char_non: `{n}......I probably understood ever since I was a young girl.`
+char_non: `...But to truly accept it, I had to wait until I had grown up.`
+char_non: `Compared to my own effort, you couldn't have said that Krauss, as my older brother by two years,`
+char_non: ` tried at all to become deserving of the Ushiromiya family name.`
+char_non: `Ever since we were young, my brother kept saying that it was natural that he'd succeed Father, just because he was born a man.`
+char_non: `...He kept repeating that, as though it were an absolute gap between us.`
+char_non: `I couldn't stand it.`
+char_non: ` Even though I always got better grades than my brother,`
+char_non: ` even though I became class president while he was stuck as vice‐president of his class,`
+char_non: ` ...even so, my brother was considered to be the appropriate person to succeed the Ushiromiya family, just because he was a man.`
+char_non: `Of course, you could get away with gender discrimination in those days.`
+char_non: `{n}No, it was even considered a virtue in those days.`
+char_non: `It was a time when women were looked down upon, and it was said that when a woman is born, she is to obey her parents; when she gets married, she is to obey her husband; and when she gets old, she is to obey her children.`
+char_non: `But because that way of thinking existed, I wanted to overturn it.`
+char_non: `{n}......Innocently, I kept trying to prove that I was the most fit.`
+char_non: `......However, eventually, I realized that all of my efforts were doomed from the beginning.`
+char_cla: `"Don't you think that schooling for women is like sugar in black tea?`
+char_cla: ` Without it, it is bland, but too much of it ruins the tea."`
+char_eva: `"...What do you mean by that, Nii‐san?"`
+char_cla: `"In the same way that there are things that only men can do, there are also things that only women can do, are there not?`
+char_cla: ` I think things like giving birth to children, raising them, and supporting their husband can only be done by women."`
+char_eva: `"Are you trying to say that there's no need for a woman to do things like work and study?"`
+char_cla: `"I wouldn't go that far.`
+char_cla: ` Unschooled women are tiring just to talk to.`
+char_cla: ` ...However, women who are too smart are even more tiring.`
+char_cla: ` I think that a woman like you, who vehemently asserts herself, would cause her future husband a lot of trouble."`
+char_eva: `"Are you trying to say that a woman must marry and stay in the shadow of their husband?`
+char_eva: ` That's none of your business!"`
+char_cla: `"I admire you as my little sister for feeling that you should respect Father and become a proper daughter for him.`
+char_cla: ` Even I can respect that."`
+char_eva: `"Disgusting.`
+char_eva: ` What is this {ruby:neutral/polite "I":"watashi"}?`
+char_eva: ` You've always used {ruby:rough/casual "I":"ore"}.`
+char_eva: ` Are you already pretending to be the head?"`
+char_cla: `"It was decided that {i:{ruby:watashi:I}} would succeed the head from the beginning.`
+char_cla: ` And yet you seem to be laboring under the illusion that you can become the head, and have just been making useless and reckless attempts to do that."`
+char_eva: `"Reckless attempts, you say...?!`
+char_eva: ` Is my saying that I want to go to college really that odd?!"`
+char_cla: `"Yes, it's odd.`
+char_cla: ` Indeed, you are the eldest daughter of the glorious Ushiromiya family.`
+char_cla: ` Eventually, you will bear the responsibility of that family crest, and be wed to the partner who is most valuable for Father."`
+char_cla: `"...However, what will be demanded of you then is not an excess of knowledge.`
+char_cla: ` It is gentle feelings to care for your husband and ability in housework, and it is a humble demeanor that will support the master of your household.`
+char_cla: ` You are completely lacking in all of those things.`
+char_cla: ` In the end, is that really proper for a daughter of the Ushiromiya family?"`
+char_eva: `"I have no intention of being a secluded daughter!`
+char_eva: ` I just want to become the best person who can help Father with his work!"`
+char_cla: `"In which case, should you not be aiming to become worthy as a daughter of the Ushiromiya family...?`
+char_cla: ` What is it with you?`
+char_cla: ` Even at this age, you still act like a man, you are careless with housework and cooking, and you never wear any makeup to please men.`
+char_cla: ` Recently I've heard that you've even been training to learn how to brawl."`
+char_eva: `"Th‐that's rude!!`
+char_eva: ` It isn't brawling, the martial arts are the perfect training for the mind.`
+char_eva: ` And at the proper time, I can act like a woman well enough!!`
+char_eva: ` What are you trying to say?`
+char_eva: ` That women should be slaves who work for men, that women must not step out in front, is that what you're trying to say?!"`
+char_cla: `"It isn't elegant to admit that,`
+char_cla: ` but in order to correct your mistake, I think that a few unpleasant words are necessary.`
+char_cla: ` So let me say it plainly.`
+char_cla: ` Women exist to serve men.`
+char_cla: ` And men exist to cultivate women.`
+char_cla: ` A woman's job is to protect a man's back, to protect their house and raise their children."`
+char_cla: `"Normally, they don't have to be told that to realize it.`
+char_cla: ` They realize it by themselves.`
+char_cla: ` ...But no matter how old you get, you haven't realized that about yourself.`
+char_cla: ` So as your brother, I will clear away that misunderstanding for you before you exit this house into society.`
+char_cla: ` You should thank me."`
+char_eva: `"Th‐that is an insult to all women...!!`
+char_eva: ` No, ...wait, ...I, I have never thought of myself as a woman, I've never depended on anyone because I'm a woman!!"`
+char_eva: `"How am I inferior to you, Nii‐san?!`
+char_eva: ` In grades, in accomplishments, I'm better than you in everything, so how can you look down on me when you don't have anything I don't, except being a man?!!"`
+char_cla: `"It's about whether or not you know your place.`
+char_cla: ` Every day, I have been raised so that I would be prepared to be the next head.`
+char_cla: ` In the future, that will definitely be essential.`
+char_cla: ` But you are different.`
+char_cla: ` Even though you will marry and lose the Ushiromiya family name, you keep seeing this illusion that you don't need to see."`
+char_cla: `"......What are you so unsatisfied about?`
+char_cla: ` Even if you were born as a man, it still wouldn't be you who would succeed the head.`
+char_cla: ` What's so unsatisfying that you keep attacking me?"`
+char_eva: `"What's so unsatisfying, you say?!?!`
+char_eva: ` Nii‐san, you are always, always,`
+char_eva: ` ......always always always...!`
+char_eva: ` You claim yourself as the successor, look down on me,`
+char_eva: ` ......and despite that...`
+char_eva: `......urrrrrrrgggggggggg!!"`
+char_non: `What's so unsatisfying, he says...?`
+char_non: `A billion grudges, hard feelings, humiliations that I'll never forget crossed through the back of my mind.`
+char_non: `And all of them built up at the same time, coming out of my throat as nothing more than a shameful moan.`
+char_kin: `"......What is all this noise.`
+char_kin: ` God isn't the only one who values silence."`
+char_cla: `"Father."`
+char_eva: `"Father!"`
+char_non: `Our sibling fight was probably overheard.`
+char_non: `{n}Father entered with a clearly displeased face.`
+char_kin: `"Krauss.`
+char_kin: ` Are you fighting with your siblings again?`
+char_kin: ` Why do you not have the dignity to lead your siblings?`
+char_kin: ` How shameful!`
+char_kin: ` You are a joke of an eldest son!"`
+char_non: `In a flash, he struck Krauss's face.`
+char_non: `...I prepared myself to be struck in the same way, but I wasn't hit.`
+char_cla: `"M‐......my apologies,`
+char_cla: ` Father."`
+char_kin: `"Dignity isn't the only thing that you lack.`
+char_kin: ` There's much more.`
+char_kin: ` You're immature in everything!`
+char_kin: ` And even so, you pretend like you're an adult!`
+char_kin: ` Realize that it's a hundred years too early for you to talk like that, and devote yourself to your studies!`
+char_kin: ` Don't make me lament my son's incompetence any more...!"`
+char_cla: `"Yes.`
+char_cla: ` ...I will continue to strive so that I can become a person worthy to succeed you, Father..."`
+char_non: `It was as if those words were directed at me.`
+char_non: `Even when he was being yelled at by Father, he was still bragging to me about how he was special,`
+char_non: ` ......about how he was the successor.`
+char_non: `I just couldn't stand it, and finally spoke what was on my mind.`
+char_non: `Even though I realized that this was improper for a person of the Ushiromiya family.`
+char_eva: `"Father...!!`
+char_eva: ` Please tell me, how am I inferior?!!`
+char_eva: ` Until today I've tried so hard, studied so hard to become a person who would not shame your name...!"`
+char_eva: `"Please, tell me, in what way am I inferior...?!`
+char_eva: ` How can I improve myself so that you will accept me...!!"`
+char_kin: `"Are you still talking about that?!!`
+char_kin: ` How many times do I have to tell you?`
+char_kin: ` I have no expectations for you whatsoever!`
+char_kin: ` A woman should just learn cooking and sewing, like a woman!!`
+char_kin: ` You have none of the necessary attitude of a woman!`
+char_kin: ` I can't sense any of the disposition needed to serve a husband, the heart to devote yourself to a man!!"`
+char_kin: `"What good are you as a woman!`
+char_kin: ` Do you realize that you are a daughter of the Ushiromiya family!!`
+char_kin: ` And yet, the only thing you want to learn is how to act like a man!`
+char_kin: ` Your duty is not to act like Krauss!!`
+char_kin: ` Do you even understand your own duty?!!"`
+char_eva: `"A‐as a person of the Ushiromiya family, I won't embarrass your na—"`
+char_kin: `"That's it, right there you're already wrong!!`
+char_kin: ` Your duty is to marry {i:out} of the family, and bring me a man who is profitable to me!`
+char_kin: ` And then devote yourself to your husband, be fruitful and multiply!`
+char_kin: ` Be a good wife who brings praise to your husband's family!!"`
+char_kin: `"What can you do that is capable of pleasing a man?`
+char_kin: ` Do you think you can make tea?`
+char_kin: ` Do you have any talent in cooking?`
+char_kin: ` You have nothing!!"`
+char_kin: `"All you have done is to try to act like Krauss!!`
+char_kin: ` Krauss will succeed the Ushiromiya family!`
+char_kin: ` If you are unsatisfied with that, then you are disobeying me!!"`
+char_kin: `"Are you saying that you won't even listen to what I say, even though you're my daughter!!!`
+char_kin: ` Get out!!`
+char_kin: ` You're disinherited!!`
+char_kin: ` I won't let you use the name Ushiromiya!!`
+char_kin: ` Disinherited disinherited!!`
+char_kin: ` Uuug, *cough*cough*!!"`
+char_cla: `"Father, stay strong.`
+char_cla: ` Please calm down.`
+char_cla: ` ......Genji‐san, could you bring some water?"`
+char_gen: `"......Yes.`
+char_gen: ` Immediately."`
+char_cla: `"Eva, leave this place.`
+char_cla: ` He doesn't mean what he says.`
+char_cla: ` I will calm him down."`
+char_kin: `"*cough*, *cough*cough*!!`
+char_kin: ` Disinherited, if you won't listen to me, you're disinherited!!`
+char_kin: ` *cough**cough*, uug, *hack*cough**cough*!!"`
+char_non: `As Father struggled with a fit of heavy coughs, my brother patted his back.`
+char_non: `...As if that were naturally his duty.`
+char_non: `{n}It was so vexing for me then to let him monopolize that duty.`
+char_non: `If I approached Father carelessly, I would probably be hit again.`
+char_non: `...However, I fearlessly tried to approach Father's back.`
+char_non: `Genji blocked me...`
+char_gen: `"......Eva‐sama, it would probably be better if you stepped outside for now.`
+char_gen: ` The Master is not in a good mood today."`
+char_eva: `"B‐but......"`
+char_kin: `"*cough*cough*!!"`
+char_kin: `"Why are my children so incompetent?!`
+char_kin: ` Krauss is lacking in dignity, Eva never moves on from being a stubborn tomboy!!`
+char_kin: ` I have no manly son, not even a womanly daughter!"`
+char_kin: `"Where did I go wrong raising them?!`
+char_kin: ` Why Genji, when and where and how did I go wrong?!!"`
+char_gen: `"......My lord, you have done nothing wrong.`
+char_gen: ` Krauss‐sama has grown into a sturdy son, and Eva‐sama into a lovely daughter.`
+char_gen: ` You haven't made any mistakes..."`
+char_kin: `"In what way!!`
+char_kin: ` In what way is {i:she} lovely?!!`
+char_kin: ` Far from a lady, she's always acting like a man!!`
+char_kin: ` *cough*cough*cough*!!`
+char_kin: ` Disinherited, disinheriteddd!!`
+char_kin: ` *cough*cough*!!"`
+char_cla: `"Father, I was just warning Eva about that very thing.`
+char_cla: ` Eva, too, promised that she would have a change of heart and begin acting like a lady.`
+char_cla: ` Couldn't you postpone that for just a little longer?"`
+char_kin: `"Lady, my foot!!`
+char_kin: ` *cough*cough*!!`
+char_kin: ` Disinherited disinherited... *cough*cough*, uugg, *hack*hack*!"`
+char_non: `Go quickly and I'll handle this for you.`
+char_non: `Krauss gave me a look telling me that...`
+char_non: `......Did I take the wrong path, just like Father and my brother had said?`
+char_non: `They were right that I had never studied how to be a lady.`
+char_non: `{n}...Everything I had learned was because I'd hoped that I could help Father someday.`
+char_non: `.........Wait, was that really the case?`
+char_non: `Hadn't I always held a growing sense of rivalry with my brother, with whom I'd had a bad relationship since I was a young girl,`
+char_non: ` and wasn't I just trying to get the better of him by stealing his position as successor to the head?`
+char_non: `Every time, my brother told me that men should be manly and women should be womanly.`
+char_non: `I had been tormented by this unreasonable discrimination because of my sex, something I was born with and couldn't do anything about.`
+char_non: `I had resisted, had endeavored to study until today so that I could prove that I wasn't inferior, even though I was a woman.`
+char_non: `...In that case, wasn't the basis of my love of learning just a boring inferiority complex toward my brother?`
+char_non: `Father had expected me to be a lady with whom he could go out in public and not be embarrassed.`
+char_non: `...Had I betrayed that expectation and earned grades to intimidate my brother just to clear away that pent‐up resentment from my childhood...?`
+char_non: `"That's not it.`
+char_non: ` You vowed to me that I would become the successor to the Ushiromiya family."`
+char_eva: `".........You........."`
+char_non: `The one who came whispering to me.........was myself, born in my heart on the day I made that vow—myself on that day as a little girl.`
+char_non: `...That's right.`
+char_non: ` "She" was my only ally.`
+char_non: `Whenever I was suffering, whenever I felt like I could take no more, she would always quietly appear and take my side.`
+char_non: `Whenever I found myself with my head in my hands, stumbling over difficult problems, she would always appear and support me.`
+char_non: `As I had grown and forgotten my time as a girl, I'd also begun to forget my conversations with "her"...`
+char_non: `"I, Ushiromiya Eva, will definitely become the head of the Ushiromiya family.`
+char_non: ` And I'll triumph over that irritating, arrogant Krauss.`
+char_non: ` ...On that day, we promised to do our best together to achieve that."`
+char_eva: `"......That's right. We promised.`
+char_eva: ` ...On that day, that I would become the successor to the head."`
+char_non: `On that day, when I had been overcome with sadness, wondering why I was even alive,`
+char_non: ` ...you appeared inside me, and lent me your strength.`
+char_eva: `"......I wanted Father to accept me.`
+char_eva: ` I wanted to get the better of my brother.`
+char_eva: ` I believed that, if I could do that, I could forever part ways with that wretched part of myself."`
+char_non: `In those days, I had really believed that I had no other purpose in life than to be looked down upon by my brother.`
+char_non: `...It's painful just remembering those days.`
+char_non: `{n}The wound, the tear that split open in my heart...`
+char_non: `"She" taught me how to sew up that wound...`
+char_non: `I would change my anger into effort and improve myself,`
+char_non: ` ......become a person more worthy to be head than Krauss was,`
+char_non: ` and triumph over him by making Father accept me—the perfect revenge.`
+char_non: `I knew more or less that a woman couldn't succeed the head.`
+char_non: `But if I could become so superior that I could overturn that,`
+char_non: ` ...then surely even Father would select me to be his successor.`
+char_non: `If that happened, ......then I could have the greatest, ultimate, most perfect revenge against my brother,`
+char_non: ` who always acted like it was completely natural for him to succeed the head...`
+char_non: `"Right.`
+char_non: ` If we do that, then the wounds in our heart will be healed.`
+char_non: ` ......We promised each other that we would do our best until that day came."`
+char_non: `"And yet, you're breaking this promise?`
+char_non: ` Scum.`
+char_non: ` Coward.`
+char_non: ` Why not give up and die forever...?"`
+char_non: `Even though she has the form of my young self, she is still another me.`
+char_non: ` ...And she has a sharp tongue—after all, she's me.`
+char_eva: `"...It really makes me mad hearing that from myself.`
+char_eva: ` You have no right to speak of me like that."`
+char_non: `"Then let's use that anger and learn from it.`
+char_non: ` ......Changing anger into power is my magic.`
+char_non: ` I've saved you from several predicaments with that power, and allowed you to achieve things that should have been impossible for you.`
+char_non: ` As long as you have my magic, there's nothing you can't do."`
+char_eva: `"......That's right.`
+char_eva: ` Anger has always been my driving force.`
+char_eva: ` I wonder when it was that I forgot that..."`
+char_non: `"If you have remembered me again, that magic is ours once more.`
+char_non: ` Come on, let's turn that anger into power, and endeavor in our studies even more, alright?`
+char_non: ` I'm sure that we still have a lot more studying that we need to do."`
+char_non: `"Let's go to college, study more and more, get excellent grades, and drive Krauss into a corner."`
+char_non: `"That guy makes a face as though we're nothing, but I'm sure he feels pretty well cornered in his heart.`
+char_non: ` If only he would just learn his place and die.`
+char_non: ` If he did, we could become the head.`
+char_non: ` Rudolf will be nice enough to decline.`
+char_non: ` That kid can't go against us."`
+char_eva: `".........Stop that.`
+char_eva: ` ...Even if I study more, Father still won't accept me."`
+char_non: `"Why...?"`
+char_eva: `"Father is telling me to be womanly...`
+char_eva: ` No matter how hard I try, as long as I'm a woman, Father will never pass on the headship to me... even if I'd been born before Nii‐san..."`
+char_eva: `"No matter how much effort I put in, ......I can't become anything more than a woman.`
+char_eva: ` I won't be accepted.`
+char_eva: ` I can't surpass Nii‐san, who doesn't try at all.`
+char_eva: ` I will always be looked down upon..."`
+char_non: `"...Father and Krauss are the worst kind of male supremacists.`
+char_non: ` I wish they'd just fucking die already."`
+char_non: `......She would curse in my place.`
+char_non: `Words that I couldn't say carelessly, ...she would say for me.`
+char_non: `...Even though I understood that she was just another part of myself inside of me,`
+char_non: ` ...I felt like she was the only ally I had who would sympathize with me.`
+char_non: `However, while sympathy might calm my heart somewhat, it wouldn't do anything to improve my current situation.`
+char_non: ` ......In the end, she could only console me when I was dejected by reality, and for the amount of time I needed to accept it.`
+char_eva: `"......Thank you.`
+char_eva: ` That's enough, now.`
+char_eva: ` ...Now that it's come to this, I'll become such a good lady that I'll surprise Father...`
+char_eva: ` I'll find an excellent man that Nii‐san can't even be compared with—"`
+char_non: `"No, that's no good."`
+char_eva: `"............"`
+char_non: `"She" rejected my timid thoughts.`
+char_non: `...I know why.`
+char_non: `{n}......Because "she" is me, I know why.`
+char_non: `"Father says, or at least {i:right now} he says, that he won't let a woman succeed the head.`
+char_non: ` But that's never been anything more than a rule that Father decided on.`
+char_non: ` Since Father decided on it, he can abolish it."`
+char_non: `".........People's feelings can change many more times than there are grains of sand on a beach.`
+char_non: ` Even if we don't prove that Krauss is a stupid man, Father will eventually realize it."`
+char_non: `"...At that time, the ridiculous wall that separates man from woman will be demolished by Father, who set it up in the first place.`
+char_non: ` That day will surely come."`
+char_eva: `"......How can you say surely?"`
+char_non: `"Because that is my...magic."`
+char_eva: `"....................."`
+char_non: `"If you'll just believe, this magic will surely create a miracle.`
+char_non: ` ......The basis of my magic is nothing more than your believing heart."`
+char_eva: `"..........................."`
+char_non: `If I can use that magic, ......then surely, until the day I die, I'll never have to doubt that someday I will become the head.`
+char_non: `...But I don't know if that is the right thing for Ushiromiya Eva...`
+char_non: `Shouldn't I aim to become the kind of lady that Father hoped for, someone he can take out into society and boast about?`
+char_non: `Father might take a better view of me if I were reborn.`
+char_non: ` ......Maybe my brother could find his own lifestyle, and I could find mine.`
+char_non: `Besides, no matter what, I just can't imagine that my father, stubborn as he is, would not only allow a woman to succeed the head,`
+char_non: ` but also skip my older brother and select me for the headship.`
+char_non: `".........You don't believe?"`
+char_eva: `"U‐...um, I was...just thinking.`
+char_eva: ` .........Maybe I can't succeed the head, but, as a woman, I can have a child. And Nii‐san still isn't engaged."`
+char_eva: `"......If Nii‐san doesn't manage to have children, and I do, ...then wouldn't the next head after Nii‐san be my child?`
+char_eva: ` Wouldn't that basically...mean the same thing as stealing the headship from Nii‐san...?"`
+char_non: `"............Are you serious?"`
+char_eva: `"Y‐...yes. I'm serious.`
+char_eva: ` ......It will indeed be quite sad to throw away the determination from my years as a young girl.`
+char_eva: ` ...It will pain my heart to betray you, my younger self.`
+char_eva: ` ......But this way is the most realistic...!"`
+char_non: `In that moment, my body changed, and I was no longer myself from back then, but as I am now: a "wife" and "mother".`
+char_non: `Yes......this is a "dream".`
+char_non: ` Even so, "she" still possessed the same ambition and desire as always, and she argued back, with her expression displaying clear displeasure at this change.`
+char_non: `"Are you throwing away your dreams?`
+char_non: ` ......And are you even throwing me away?"`
+char_eva: `"I'm not throwing anything away.`
+char_eva: ` ......It's just that I've become an adult, and the time has come for us to go our separate ways."`
+char_non: `"That's right.`
+char_non: ` You've already become an adult.`
+char_non: ` You've even forgotten how to use magic.`
+char_non: ` ......You are now the mother of a child.`
+char_non: ` You've forgotten the magic that can grant your own dreams, and are now pushing those dreams onto your son."`
+char_non: `"...Even though you had your own life messed with so much by Father and Krauss, you're trying to push your dreams onto your son, and mess with his life too.`
+char_non: ` ......Is that what being an adult is all about?"`
+char_eva: `"G‐George is my pride and joy, who won't embarrass me no matter where he goes...!`
+char_eva: ` The dream that wasn't granted me might be granted to George...!`
+char_eva: ` Jessica's grades and behavior aren't good at all.`
+char_eva: ` And she's a woman!`
+char_eva: ` If only Jessica would step down, George could become the heir...!"`
+char_non: `My heart pained even as I said it.`
+char_non: `Aren't I just forcing my own regrets onto George?`
+char_non: `I don't have any right to disparage Jessica.`
+char_non: ` And to hit her with the same words that had caused me so much suffering is just horrible...`
+char_non: `...I understand.`
+char_non: ` I understand...`
+char_non: `Wanting to triumph over my brother was nothing more than my personal revenge.`
+char_non: `{n}...I mustn't use George for that...`
+char_eva: `"......So I'll take revenge myself.`
+char_eva: ` I have a plan to cheat Nii‐san out of some of his money, with Rudolf and Rosa as my allies.`
+char_eva: ` I'll surely be able to get back at him.`
+char_eva: ` ...I mean, there's no doubt that Nii‐san is embezzling Father's assets..."`
+char_non: `"...What a boring plan.`
+char_non: ` Why don't you just give that up and cry yourself to sleep forever...?"`
+char_eva: `"..........................."`
+char_non: `"We will become the head of the Ushiromiya family.`
+char_non: ` ......Don't try to confuse that dream.`
+char_non: ` So believe me that you can definitely achieve it.`
+char_non: ` Believe in my magic."`
+char_eva: `"...If I believe, will the magic have power, I wonder."`
+char_non: `"Yes.`
+char_non: ` My magic can grant any wish without fail."`
+char_eva: `"..................`
+char_eva: ` ......I'll believe.`
+char_eva: ` ......I'll believe, ...so create a miracle with that magic...`
+char_eva: ` ......If you don't, ......the hole in my heart will never heal......"`
+char_non: `"Yes.`
+char_non: ` ......Then, listen well.`
+char_non: ` To my magic words.`
+char_non: ` ......And understand them. If we can solve the riddle, we can become the Ushiromiya family head.`
+char_non: ` ......So lend me your ears and listen carefully..."`
+char_non: `Behold the sweetfish river, running through my beloved home of old.`
+char_non: `{n}You who seek the Golden Land, follow its path downstream in search of the key......`
+char_kir: `"Eva nee‐san.`
+char_kir: ` It looks like we're about to arrive."`
+char_non: `As her shoulder was tapped by Kyrie, Eva jumped and awoke from her doze.`
+char_eva: `".........nh.`
+char_eva: ` .........Ah,`
+char_eva: ` ......I'm sorry.`
+char_eva: ` I was half asleep."`
+char_kir: `"Sorry for surprising you."`
+char_but: `"Auntie Eva, you were out cold.`
+char_but: ` Did you get up early this morning?"`
+char_eva: `"......I suppose.`
+char_eva: ` How embarrassing, I must have looked quite disgraceful.`
+char_eva: ` I'm sorry."`
+char_jes: `"Pretty impressed that you're relaxed enough to sleep, though?`
+char_jes: ` Not like Battler, he's been yelling the whole time about how he's gonna "falllll" and "drowwwwn"!`
+char_jes: ` Can't get bored with this dude around."`
+char_but: `"Sh‐shut up!`
+char_but: ` Everyone has one or two things they don't like...!"`
+char_non: `Battler and Jessica went back out, squabbling merrily.`
+char_non: `{n}Rudolf also made a face as if asking, "Are you alright?".`
+char_rud: `"Get ahold of yourself.`
+char_rud: ` When you see the faces of Dad and the rest, all that sleepiness'll go right out the window.`
+char_rud: ` Let's do our best to stay firm, alright?"`
+char_eva: `"...That's right.`
+char_eva: ` We have to stay firm, especially this year..."`
+char_rud: `"That's it.`
+char_rud: ` ...Let's tense up our assholes and do this thing."`
+char_non: `Rudolf said these strict words in a small voice that only Eva could hear.`
+char_non: `Failure would not be tolerated in this year's family conference.`
+char_non: `{n}......All of their companies were hanging in the balance.`
+char_non: `Even Rudolf's face looked a little tense.`
+char_non: `{n}Eva's expression probably looked tense as well.`
+char_geo: `"Mother, I have our luggage.`
+char_geo: ` Let's go up onto the deck."`
+char_eva: `"...Thank you.`
+char_eva: ` You really are thoughtful, George."`
+char_geo: `"Why are you thanking me so suddenly?`
+char_geo: ` It's not like you, Mother."`
+char_hid: `"Evaaa, Geoorge.`
+char_hid: ` We've arrived.`
+char_hid: ` Gather our luggage."`
+char_mar: `"Uu!`
+char_mar: ` Arrived, arrived!`
+char_mar: ` *giggle*giggle*!"`
+char_ros: `"Hey, Maria!`
+char_ros: ` You'll fall, so stop running!"`
+char_non: `It seemed Maria was already getting excited.`
+char_non: ` She ran circles around Hideyoshi, escaping from Rosa, who was trying to catch her.`
+char_eva: `"{e:070:.........belove..................key......}{e:100:"}`
+char_geo: `"What is it, Mother?`
+char_geo: ` ...Do you feel sick...?"`
+char_hid: `"George.`
+char_hid: ` Take the luggage and go on ahead.`
+char_hid: ` Your mother's probably anemic, so I'll lend her a hand."`
+char_geo: `"Really...?`
+char_geo: ` I understand, I'll go on ahead."`
+char_non: `By looking at Eva's peculiar expression, Hideyoshi realized that it had not been a pleasant awakening, and made George go on ahead.`
+char_non: `Rudolf's family and Rosa's family also went up onto the deck, leaving only Eva and Hideyoshi inside the boat.`
+char_non: `Eva had a vague expression on her face, as though she still hadn't been able to escape from her daydream.`
+char_eva: `"..........................."`
+char_hid: `"...What's wrong?`
+char_hid: ` Why the meek face?"`
+char_eva: `".........I...wonder if I've been using George as a tool for my own revenge...`
+char_eva: ` ...I wonder if my childish hostility towards Nii‐san has caused me to treat that boy's life like a toy...`
+char_eva: ` Aah, what have I done... What have I......!"`
+char_hid: `"That isn't true.`
+char_hid: ` George is our wonderful son, and he'll always perform admirably wherever he goes.`
+char_hid: ` Even if your own ends got a little mixed in, everything's turned out alright in the end, hasn't it?!"`
+char_hid: `"You haven't done aaaanything wrong.`
+char_hid: ` To the contrary, George is thankful for how you've been strictly disciplinin' him, right?"`
+char_eva: `"...Really?`
+char_eva: ` Hey, really?!`
+char_eva: ` I wonder, doesn't George think I'm a horrible mother...?!`
+char_eva: ` Doesn't he, doesn't he doesn't he doesn't he?!"`
+char_hid: `"He's never said anythin' like that, not even once.`
+char_hid: ` That's just your needless anxiety."`
+char_kum: `"Hideyoshi‐sama.`
+char_kum: ` Everyone has left the boat, you know.`
+char_kum: ` ......Oh, did you drop something?`
+char_kum: ` Shall I help you?"`
+char_non: `Kumasawa had come to check on them when they hadn't come up to the deck.`
+char_non: `Hideyoshi hid Eva behind his back so that her expression couldn't be seen.`
+char_hid: `"Yeah, sorry.`
+char_hid: ` My necktie pin just got a little crooked!`
+char_hid: ` We're alright, and we'll be out in a second.`
+char_hid: ` Wait outside for us!"`
+char_kum: `"Is that so?`
+char_kum: ` ......Hoh‐hoh‐ho.`
+char_kum: ` Then I will wait outside..."`
+char_non: `From that almost incomprehensible excuse, Kumasawa realized that something had come up, and disappeared so that she didn't trouble them further.`
+char_non: `If they stayed here any longer, they would probably make everyone else worry too.`
+char_hid: `"...It's about time to go.`
+char_hid: ` We'll make George and the rest worry."`
+char_eva: `"............Am I......really not despised by George......?"`
+char_hid: `"Yeah.`
+char_hid: ` Nothin' of the sort.`
+char_hid: ` In fact, he's very grateful."`
+char_eva: `".............................."`
+char_hid: `"...Did you have a bad nightmare?`
+char_hid: ` Again?"`
+char_eva: `"..................`
+char_eva: `Yes."`
+char_non: `Hideyoshi knew that it wasn't rare for Eva to be tormented by nightmares.`
+char_non: `And they would always become more striking on the days leading up to the family conference...`
+char_non: `Hideyoshi knew that Eva's relationship with Krauss was still so full of antagonism that it could even be called trauma,`
+char_non: ` and that she still couldn't separate herself from how she'd felt as a child.`
+char_hid: `"That was a dream.`
+char_hid: ` ...I'm with you now.`
+char_hid: ` If I grasp your hand tightly like this, that dream'll go flyin' away."`
+char_hid: `"Right?`
+char_hid: ` Look.`
+char_hid: ` Squeeeeze."`
+char_eva: `"......*giggle*.`
+char_eva: ` That hurts.`
+char_eva: ` ...Thank you.`
+char_eva: ` I'm fine now...`
+char_eva: ` ...Let's get off the boat."`
+char_hid: `"Yeah.`
+char_hid: ` Let's get off the boat.`
+char_hid: ` Everyone's waitin' for us."`
+char_eva: `"...Umm, ..................I'm sorry."`
+char_hid: `"Hmm?"`
+char_eva: `"......I'm sorry...`
+char_eva: `...that I yelled at you...`
+char_eva: `...about the smoke from your cigarettes just now......"`
+char_hid: `"C'mon, you normally wouldn't apologize for that sorta thing.`
+char_hid: ` ...You go all frail after you've had a bad dream.`
+char_hid: ` ...Don't worry about it.`
+char_hid: ` I was wrong for not realizin' that the smoke was affectin' you."`
+char_eva: `"............Have you...started to hate me...?"`
+char_hid: `"No way, no way.`
+char_hid: ` Wahahahahahaha.`
+char_hid: ` If I hated you after somethin' like that, we would'na lasted three days.`
+char_hid: ` C'mon, stand up, stand up.`
+char_hid: ` Off we go, off we go."`
+char_goh: `"Hideyoshi‐sama, Eva‐sama.`
+char_goh: ` Is everything alright?`
+char_goh: ` Are you not feeling well?"`
+char_non: `This time, Gohda had come.`
+char_non: ` It looked like they had kept everyone waiting too long after all.`
+char_non: `Eva also stood up without grumbling this time.`
+char_non: ` ...She couldn't keep on forcing her bad mood onto her husband and causing him more trouble.`
+char_non: `......Because that was not something a "good wife" would do.`
+char_goh: `"Is everything alright?`
+char_goh: ` If you are worried about your health, shall I call Doctor Nanjo?"`
+char_eva: `"Thanks.`
+char_eva: ` I'm just a little anemic.`
+char_eva: ` I'm alright now."`
+char_hid: `"Just her hormones.`
+char_hid: ` Don't worry about it.`
+char_hid: ` Wahhahahahahaha."`
+char_eva: `"For goodness' sake...`
+char_eva: ` Don't say stuff like that in front of people, it's embarrassing."`
+char_hid: `"Ohhh, sorry, sorry."`
+char_non: `Eva elbowed Hideyoshi in the gut.`
+char_non: ` By that time, her normal expression had returned, which allowed Hideyoshi to relax a little.`
+char_non: `The bright sunlight outside was almost enough to really make a person go giddy.`
+char_non: `A small plank was lowered to get off the boat, and Gohda was waiting there, smiling and ready to lend them a hand.`
+char_goh: `"Please, Eva‐sama.`
+char_goh: ` Your hand."`
+char_eva: `"Thank you."`
+char_goh: `"Welcome to Rokkenjima."`
+char_non: `{a:c:`
+char_non: `Welcome back.}`
+char_eva: `"......Huh?"`
+char_non: `When she left the boat, .........it seemed to Eva as though she had heard the voice of her young self saying welcome back.`
+char_non: `No, it hadn't {i:seemed} that way.`
+char_non: `{n}...Someone had {i:said} "welcome back" to her.`
+char_non: `After becoming a shameless adult,`
+char_non: ` ...the voice of her young self was distant.`
+char_eva: `"What am I living for......?`
+char_eva: ` ......What can I do...to release myself from this obsession......?"`
+char_non: `Hideyoshi heard her talking to herself.`
+char_non: `He drew Eva close to him by her shoulder, and just by his firmness, he communicated that there was no need to say anything more...`
+char_non: `Maybe it was because the typhoon was getting closer.`
+char_non: ` The lively cries of the seagulls, which usually greeted them when they arrived, couldn't be heard at all...`

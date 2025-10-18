@@ -1,0 +1,942 @@
+char_enj: `"Good day to you."`
+char_enj: `".........G‐...good day to you."`
+char_non: `"Good day to you" is the standard greeting used here.`
+char_non: `No matter how many years pass by, this style of greeting still feels very awkward...`
+char_non: `I had responded to the greeting in order to stifle that awkward feeling,`
+char_non: ` but the classmate who had spoken looked at me blankly.`
+char_non: `"......Oh?`
+char_non: ` *giggle*giggle*giggle*."`
+char_non: `"Ohhh? What's this?`
+char_non: ` I think you must be mistaken, *giggle*giggle*..."`
+char_non: `Their choice of words and manner were certainly what you would expect of a school for rich girls,`
+char_non: ` but at their core, they were as innocent and cruel as any children of that age.`
+char_non: `......It seems they found it funny that I'd mistakenly thought the greeting had been directed at me.`
+char_non: ` No, it might be the opposite.`
+char_non: `...Maybe I should say that they didn't know what to do after being greeted by an introverted kid like me.`
+char_non: `No, judging by the looks of my classmates, glancing this way over their shoulders and whispering to each other,`
+char_non: ` there were even some who seemed to consider their refreshing morning ruined.`
+char_non: `......I am...depressing.`
+char_non: ` Because no one likes me.`
+char_non: `So, trying not to get in the way of everyone's refreshing morning any more, I entered the classroom in a low crouch.`
+char_non: `......Almost like I was cutting across the aisle in a movie theater while the movie was running.`
+char_non: `This is an all‐dorm academy called Saint Lucia Academy.`
+char_non: `It's not a school that just anyone can get into simply by passing a test.`
+char_non: `{n}...It's a hidden rich‐girls' school, known only to a select group of celebrities from various circles.`
+char_non: `For lofty nobles who truly wish their daughters to be brought up like saints,`
+char_non: ` this is probably the ideal academy in which to protect them from the impurities of the common world.`
+char_non: `......But at the same time, it was probably also a convenient place for nobles to confine daughters who they didn't want the public to know about.`
+char_non: `As well as an academy isolated from the impurities of the common world, it also held excellent potential as a prison school.`
+char_non: `I was truly among the latter, and spent my days confined in Saint Lucia Academy,`
+char_non: ` .........as the weeks, months, and years dragged on at a mind‐numbing pace.`
+char_non: `Of course, there weren't that many students like me, and you couldn't tell us apart at a glance.`
+char_non: `However, even if they didn't come forward, you could usually guess from their appearance.`
+char_non: `...Because they were always hanging their heads all the time, with an expression on their faces as though the whole world had abandoned them.`
+char_non: `And every class had one or two kids like that, so even if they didn't speak up about it, you could guess who they were.`
+char_non: `So.`
+char_non: `Even though I never confessed that I was one of those kids, at some point, everyone in the class knew......`
+char_non: `Just like how the seriousness of your injury grants you status in a hospital room, here, status is granted by the nobility of your birth.`
+char_non: `Those who aren't permitted to go out in public are probably nothing more than filth to them.`
+char_non: `They must think that getting involved with students like that would dirty them as well.`
+char_non: `Whenever such a rumor sprang up about a particular student,`
+char_non: ` those fastidious girls would about‐face and grow cold and distant, chasing that student out of all possible social groups.`
+char_non: `I have that to thank for this quiet and solitary school life of mine...`
+char_non: `Well, that's only if hearing people whisper behind my back, finding my things lost or broken all the time,`
+char_non: ` and having everyone pretend like they don't know anything about it can be called a quiet school life.`
+char_non: `I must be wearing a weary expression already this morning.`
+char_non: `......I can understand completely why my other classmates, who had been enjoying a refreshing morning, would want to click their tongues upon seeing it.`
+char_non: `Consciously trying to do my best to avoid tainting my classmates' morning, I quietly took my seat.`
+char_non: `......Then, unusually, someone came to talk to me.`
+char_non: `{n}It was the class leader.`
+char_non: `"Good day to you, Ushiromiya‐san.`
+char_non: ` ......You seem to be in a bad mood this morning.`
+char_non: ` Are you certain you're getting enough sleep?"`
+char_enj: `"............Is there some business you have with me?"`
+char_non: `"You do know you're the only one who hasn't submitted her questionnaire for the class presentation?`
+char_non: ` Did you forget that the deadline was yesterday?"`
+char_non: `...I'm pretty sure I heard something about that sometime last week.`
+char_non: `But I think the questionnaire hadn't been passed out yet.`
+char_non: `{n}All the necessary information would be written on that, so it should have been no problem to forget about it until it was handed out...`
+char_enj: `"......I wasn't given a questionnaire..."`
+char_non: `"You must have been.`
+char_non: ` The dormitory leader distributed a copy to everyone.`
+char_non: ` If you lost it, all you have to do is honestly say so."`
+char_enj: `"............I lost it.`
+char_enj: ` I'll fill it in right now, so could you give me a paper?"`
+char_non: `Again.`
+char_non: ` ......Either someone lost my paper, or they intentionally didn't tell me about it.`
+char_non: `But I have no way of knowing who was behind that.`
+char_non: `In the end, treating it as though it was my own carelessness would settle everything more quickly and without any drama...`
+char_non: `"Once you've filled it out, drop it in the questionnaire box in the student council room yourself.`
+char_non: ` Our class is the only one, you know, that didn't get everyone's in by last night."`
+char_non: `As I hung my head at the class leader's scolding,`
+char_non: ` I could hear the giggles and whispers of people watching, coming from no direction in particular...`
+char_non: `Ushiromiya‐san did it again.`
+char_non: `{n}Because she never concentrates.`
+char_non: `{n}She is unsuitable for this school.`
+char_non: `{n}She has neither class nor manners.`
+char_non: `......Sorry, girls, but I've dealt with much worse when it comes to unfair personal attacks.`
+char_non: `I froze my heart and let those arrows of ridicule pass by as I quickly filled out the questionnaire...`
+char_non: `When I heard the news that Mom, Dad, Onii‐chan,`
+char_non: ` and all the rest of my family had died, I was in the house of my grandpa on my mom's side.`
+char_non: `The only survivor of the accident was...Ushiromiya Eva.`
+char_non: `{n}......Only Aunt Eva.`
+char_non: `Even at the time, I hadn't really liked Aunt Eva.`
+char_non: `At a glance, she seemed to act kindly to me,`
+char_non: ` but even as young as I was, I could see clearly that she was somehow belittling Dad and the rest, and I didn't like it.`
+char_non: `So when it was decided that Aunt Eva would take care of me, I was pretty miserable.`
+char_non: `It wouldn't have mattered if my nice Uncle Hideyoshi and George onii‐chan could have been there too,`
+char_non: ` but I hated the thought of living all alone with Aunt Eva.`
+char_non: `I had an honest talk with Grandpa about that, hoping that I could live with him.`
+char_non: `However, Aunt Eva was very insistent that she should be the one to look after me.`
+char_non: `Aunt Eva had no desire to remarry, so she said I was essential for the succession of the Ushiromiya family.`
+char_non: `Aunt Eva felt very strongly about the House of Ushiromiya.`
+char_non: `She firmly demanded to take charge of me right away, so that she could give me an education and lifestyle fitting for the successor.`
+char_non: `Complicated negotiations with lawyers apparently took place.`
+char_non: `{n}...But in the end, I was forced to go live with Aunt Eva.`
+char_non: `After she took me in, Aunt Eva told me something.`
+char_non: `You must bear all of the glory and history of the Ushiromiya family.`
+char_non: `And in order to make you a fitting successor to bear that, your life from now on will be dedicated to studying like hell.`
+char_non: ` Sacrifice the rest of your life for the Ushiromiya family.`
+char_non: `......She was definitive about it.`
+char_non: `At first, I thought she meant exactly what she said.`
+char_non: `But I quickly realized that wasn't the case.`
+char_non: `Because even then, in Aunt Eva's eyes,`
+char_non: ` the one most fitting to be successor was George onii‐chan, who had passed away.`
+char_non: `At my first meal, I was strictly instructed and interrogated about my table manners,`
+char_non: ` and was forced to listen to her disparage Mom and Dad as though they had been neglectful in my upbringing.`
+char_non: `I also received the same strict instructions regarding manners at my first party,`
+char_non: ` and I was insulted in public for my clumsiness, and forced to endure insults to Mom and Dad as well.`
+char_non: `After that happened enough times, I finally came to understand.`
+char_non: `Aunt Eva didn't really want to make me the successor.`
+char_non: `She thought that the one who was truly fitting to be the successor was George onii‐chan,`
+char_non: ` ......and she couldn't forgive the fact that it was going to be me.`
+char_non: `So I was disparaged in front of a lot of people.`
+char_non: ` Humiliated.`
+char_non: `And she made it known far and wide exactly how inferior I was to George onii‐chan,`
+char_non: ` ......surely in memory of her dead son—`
+char_non: `no, ...she must still have been mourning his death.`
+char_non: `......However, that wasn't something I could endure.`
+char_non: `{n}I couldn't possibly live together with Aunt Eva.`
+char_non: `......I would be eternally suffocated, continually compared with her dead son.`
+char_non: `Even as an elementary schooler, I understood that.`
+char_non: `I ran away from the House of Ushiromiya, and tried to go to my grandpa's house.`
+char_non: `However, Aunt Eva had already foreseen that.`
+char_non: `...No, thinking back on it, she might have been luring me into escaping.`
+char_non: `I was caught by the guards and brought back,`
+char_non: ` .........and for being a coward who had disgraced the Ushiromiya family crest and attempted to abandon the Ushiromiya name,`
+char_non: ` .........I was punished,`
+char_non: ` .........in a way that makes my whole body shake and shiver just remembering it.`
+char_non: `How should I describe what Aunt Eva was like when she punished me?`
+char_non: `Frenzied?`
+char_non: ` Gleeful?`
+char_non: `......The anger and sadness of losing her beloved son, and well as her hatred and pain towards the fact that I was going to steal the headship her son was meant to inherit.`
+char_non: ` And the dark pleasure of being able to let those feelings out on me.`
+char_non: `......I was pummeled with all of those negative emotions at once.`
+char_non: `Then, all of my free time and freedom was taken away, and I was put under round‐the‐clock surveillance.`
+char_non: `I may have lived in a gorgeous mansion, and been dressed in expensive clothes,`
+char_non: ` ...but my heart and my dignity were being trampled upon, and I was the Ushiromiya family's slave,`
+char_non: ` ...its cattle.`
+char_non: `Compared to that lifestyle, the derisive laughter of my classmates here even felt refreshing.`
+char_non: ` ......It was no match for my heart...`
+char_non: `After filling in almost all of the fields of the questionnaire with "nothing in particular", I folded it up and put it in my pocket.`
+char_non: `......Because if I left it in the desk, I might "lose it" again.`
+char_non: `After dropping it off in the box in the student council room during lunch break,`
+char_non: ` I finished lunch by myself, as usual, and headed behind the school building, where no one was around.`
+char_non: `......Only the time I spent by myself could protect me from the derisive laughter and whispered comments.`
+char_non: `Since I was hated and didn't have a single friend, my time alone was the most kind to me.`
+char_non: `After checking the surrounding bushes to see whether some malicious classmates were hiding and threatening my time of quiet,`
+char_non: ` I finally relaxed the tension from my entire body, knowing that I had gained some true peace.`
+char_non: `Then...I let out a sigh.`
+char_non: ` ...It lingered, heavy, as though it was the first time I had breathed out today.`
+char_non: `My previous favorite place behind the vegetable garden storehouse...`
+char_non: `had been found out by my classmates, and now they would mess with me there, so this was my new lunchtime hideaway...`
+char_non: `There was nowhere to sit behind the school building.`
+char_non: `I crouched down against a wall in the shadow of the bushes, opened my bag, and took out a book with an elaborate, old‐fashioned binding...`
+char_non: `Just glancing at it, you would probably think it was a religious book written in the Middle Ages or something.`
+char_non: `But this isn't a book.`
+char_non: ` It's a diary.`
+char_non: `Of course, it's not {i:my} diary.`
+char_non: `{n}.........There aren't any special things worth writing about in my daily life.`
+char_non: `Every single day is just gray, ...cold, and dry.`
+char_non: `{n}When nothing changes from day to day, there aren't any notable changes worth writing down.`
+char_non: `This is......the diary of Maria onee‐chan, who I had been very good friends with.`
+char_non: `She was three years older than me and a bit of a funny person, but Onee‐chan was always a warm, wonderful cousin.`
+char_non: `She would always grab me by the hand and invite me to play some fun game.`
+char_non: `......I remember that getting to see her was the most enjoyable thing about family gatherings...`
+char_non: `Though I preface this with "for an elementary schooler", the handwriting that greeted me when I opened the diary was fairly accomplished,`
+char_non: ` and while admittedly it had been written using every other line, the pages were dense with text.`
+char_non: `Was she just hopelessly obsessed with jotting everything down in her diary?`
+char_non: `{n}......Probably...not.`
+char_non: `To her, writing her daily life down in a diary was probably like having a conversation with another part of herself.`
+char_non: `So rather than a journal in which the events of her day were simply listed,`
+char_non: ` Maria onee‐chan's diary was written like a letter to another Maria, telling her of the events of that day.`
+char_non: `I had found this diary among her belongings after her death, and had secretly taken it home.`
+char_non: `At first, I had felt that reading someone else's diary might be boorish, and had been satisfied to just keep it by my side,`
+char_non: ` ......but I was unable to resist turning over a page or two, and slowly but surely I found myself reading through it.`
+char_non: `And now, .........{i:she had become my only friend}.`
+char_non: `I gently opened to the page with the bookmark.`
+char_enj: `"......Sorry to keep you waiting, Maria onee‐chan.`
+char_enj: ` ......Could you tell me more about your life...?"`
+char_non: `At the same time,`
+char_non: ` ......a very, very soft breeze blew, tickling the pages.`
+char_non: `And I thought the open diary might have sparkled faintly.`
+char_non: `......The weather is good today.`
+char_non: `{n}Maria onee‐chan loves wonderful rays of sunlight.`
+char_non: `So I'm sure she's in a good mood.`
+char_non: `On the open diary, ...no, in the world of the diary, Maria onee‐chan showed herself...`
+char_non: `She had been nine, I believe, when she died.`
+char_non: ` ......So her appearance was already younger than mine.`
+char_non: `But I call her Onee‐chan, and in turn, she fondly calls me just Ange.`
+char_mar: `"Uu.`
+char_mar: ` Ange, you were slow getting here today.`
+char_mar: ` Was it packed at lunch......?"`
+char_enj: `"......Yes.`
+char_enj: ` It's always packed.`
+char_enj: ` Because groups of friends install themselves in the seats and stay there even after they've finished eating.`
+char_enj: ` It's pretty fatal if you go to the dining hall late.`
+char_enj: ` ......I was on cleanup duty today."`
+char_mar: `"......Uu!`
+char_mar: ` I'm fast at eating!`
+char_mar: ` The faster you eat, the more you can play!`
+char_mar: ` Uu!"`
+char_non: `Maybe she noticed that I was still bitter about how that duty had been forced upon me, shortening my lunch break by a bit.`
+char_non: `Maria onee‐chan brightly changed the subject.`
+char_non: `Grateful for that consideration, I responded that I eat slowly.`
+char_non: `Maria said something about how she'd teach me the trick to eating fast, and cheered me up.`
+char_non: `I read it in the diary.`
+char_non: ` No, I heard it from Maria onee‐chan.`
+char_non: `She was once ranked number 1 among the girls on the speed‐eating leaderboard in her grade's newspaper.`
+char_non: `She had been very proud of that, but had apparently been a little disappointed that her mother, Auntie Rosa, hadn't praised her very much for it.`
+char_mar: `"Uu!`
+char_mar: ` Okay, so I'll start today's story.`
+char_mar: ` How far did we get yesterday?`
+char_mar: ` Uu?"`
+char_enj: `"Umm......`
+char_enj: ` This far.`
+char_enj: ` Up to when you got Sakutaro as a present.`
+char_enj: ` ......You promised that you would tell me about Sakutaro."`
+char_mar: `"Uu!`
+char_mar: ` Talk about Sakutaro!`
+char_mar: ` Sakutaro is...a reeeeally cute stuffed animal!`
+char_mar: ` I'm sure you'd like him too, Ange!`
+char_mar: ` Uu!"`
+char_enj: `"Yes.`
+char_enj: ` Tell me about that.`
+char_enj: ` ......The lunchtimes I spend listening to your stories are the only times I can feel relaxed at school."`
+char_mar: `"Uu!`
+char_mar: ` I'll talk!`
+char_mar: ` So about Sakutaro, umm, umm!"`
+char_non: `Watching Maria onee‐chan, who's always in a good mood, makes my heart feel warm as well.`
+char_non: `As I listened to her tale, I began to get absorbed into her world......`
+char_ros: `"Happy birthday, Maria.`
+char_ros: ` Sorry I got back so late."`
+char_mar: `"Uu!`
+char_mar: ` Good job with your work, Mama!`
+char_mar: ` I know you're busy, so, waited without crying even when you were late.`
+char_mar: ` Was good and waited, watching TV!"`
+char_ros: `"Yes, you're such a good girl, Maria.`
+char_ros: ` As a reward for waiting politely, you can order anything you want today.`
+char_ros: ` Of course, only as much as you can eat, okay?"`
+char_mar: `"Uu‐uu!`
+char_mar: ` Can I change my corn soup to onion gratin soup today?!"`
+char_ros: `"Yes, you can."`
+char_mar: `"Uu‐uu!`
+char_mar: ` It's 200 yen more, but can I even change it to prosciutto pizza?!"`
+char_ros: `"Yes, you can.`
+char_ros: ` {i:If} you really can eat it.`
+char_ros: ` ......But what the hey.`
+char_ros: ` It is your birthday, after all.`
+char_ros: ` I have to reward you for being a good girl and waiting so patiently."`
+char_mar: `"Uu‐uu‐uu!`
+char_mar: ` Then, then, can I have enchilada cheesecake for dessert?!`
+char_mar: ` And, and, the chef's choice fruit salad and kids' french fries!`
+char_mar: ` Want to have a melon soda too!"`
+char_mar: `"Uu‐uu‐uu!`
+char_mar: ` I'm a good girl, I'm a good girl!`
+char_mar: ` Praised by Mama, uu‐uu‐uu{p:0:♪}"`
+char_ros: `"*giggle*.`
+char_ros: ` You're getting a little too excited.`
+char_ros: ` If you don't quiet down a bit, you'll disturb the other customers."`
+char_non: `When Rosa gently admonished her, Maria stuck her tongue out and eased up a little.`
+char_non: ` ...But it seemed that she was having a hard time repressing her excitement at being able to eat out with her mother again after such a long time.`
+char_non: `Today was Maria's birthday.`
+char_non: `Rosa always spent Maria's birthday at a wonderful restaurant.`
+char_non: `When Maria had still been in kindergarten, they had sometimes invited other kids from the neighborhood over and had a party at home.`
+char_non: `Rosa would make a wonderful cake, and homemade sweets, and decorate the house herself, making it a huge celebration.`
+char_non: `But after they moved and Maria no longer had any friends in the neighborhood, Rosa had started splurging at expensive restaurants instead.`
+char_non: `However, today, they were instead in a normal family restaurant.`
+char_non: `It was also a little late in the day for a kid like Maria to eat there, even with a parent.`
+char_non: `Rosa had actually gotten reservations at a fantastical place that Maria would absolutely have loved.`
+char_non: ` Of course, she had also prepared a wonderful cake with Maria's name written on it.`
+char_non: `......But Rosa just hadn't been able to finish up her work, and had been forced to cancel.`
+char_non: `Since that had turned into a local family restaurant, Rosa felt a little indebted to Maria.`
+char_non: `So she was prepared to spoil Maria a bit and let her have whatever she wanted tonight...`
+char_enj: `"......I thought you weren't a very big eater, Maria onee‐chan?`
+char_enj: ` Are you sure you're going to be OK asking for this much?"`
+char_mar: `"Uu.`
+char_mar: ` I can't eat very much, but I like it when there's a lot lined up.`
+char_mar: ` You know, when you have a birthday table,`
+char_mar: ` and it's all multicolored with red and blue and green and yellow, it makes you really happy!"`
+char_enj: `"...You're right.`
+char_enj: ` When a birthday table is colorful, it does make you feel happy, doesn't it?`
+char_enj: ` ......Birthdays at my place were no match for yours, Maria onee‐chan, but I remember the cakes we bought at the cake shop in front of the station were always gorgeous..."`
+char_non: `Ange thought back to her own birthdays nostalgically.`
+char_non: `Even though Dad was busy, he sometimes came home just to show up at my birthday party, and then went right back to his company.`
+char_non: `I was sad at the time, but now I understand how important I was to Dad.`
+char_non: `Of course, Mom also took very good care of me.`
+char_non: `In particular, she always had a really good sense in birthday presents,`
+char_non: ` and sometimes arranged for them several months in advance.`
+char_non: `Even though we always sent an invitation to Battler onii‐chan, he didn't get along with Dad or something, so he didn't always come.`
+char_non: `......So when he did come, I was really happy.`
+char_non: `...The birthday parties when the whole four‐person family was together made for fun memories that I will never forget...`
+char_mar: `"Uu~.`
+char_mar: ` Your birthday looks like a lot of fun too.`
+char_mar: ` Battler and Uncle Rudolf are the life of the party.`
+char_mar: ` Noisy and laughing!`
+char_mar: ` Ah, Battler got covered in soda, ahahahaha."`
+char_non: `Maria onee‐chan peeked into my happy memory.`
+char_non: `It's kind of embarrassing looking at myself, sitting quietly there, wearing the origami helmet that Dad had made as a party trick.`
+char_non: `In my hand was a paper gun that Battler onii‐chan had folded for me.`
+char_non: `{n}...And Mom was taking a commemorative photo.`
+char_non: `{n}It was the happiest moment of my life.`
+char_enj: `"But your birthday's just as good, Maria onee‐chan.`
+char_enj: ` So, you get him today, right?`
+char_enj: ` Sakutaro."`
+char_mar: `"Uu!`
+char_mar: ` Was reeeally looking forward to it.`
+char_mar: ` Was so excited the whole time, wondering when Mama would show me the wrapped present in the side of her bag."`
+char_non: `"Sakutaro" is the name of the stuffed animal that Maria onee‐chan was to receive as a present today.`
+char_non: `For quite a long time, Auntie Rosa had been making a stuffed animal to give to her as a birthday present today.`
+char_non: `It was apparently to be a cute lion stuffed animal,`
+char_non: ` and Maria onee‐chan had already given it the name Sakutaro even though she hadn't received it yet.`
+char_non: `Today, she was looking forward to meeting Sakutaro even more than celebrating her own birthday.`
+char_non: `Auntie Rosa ran a clothing design company.`
+char_non: `It did actually seem to have a brand name, too, for what that's worth.`
+char_non: `{n}......I think it was just called <Auntie Rosa>, in English...?`
+char_non: `The slogan was supposedly "I can't forgive the way I was before today".`
+char_non: `...Unfortunately, I've never met anyone who knew of that brand name.`
+char_non: `Maybe it wasn't that famous.`
+char_non: `So, in any case, Auntie was pretty skilled with her hands.`
+char_non: `{n}I heard that some of the clothing she wears she made herself.`
+char_non: `So making a stuffed animal had to be well within her capabilities.`
+char_enj: `"......A hand‐made stuffed animal... That sounds kind of wonderful.`
+char_enj: ` By the way, why did you call it Sakutaro?"`
+char_mar: `"Uu.`
+char_mar: ` Actually wanted to call it "Sakura".`
+char_mar: ` But it's a male lion, so I was told to give it a boy's name."`
+char_mar: `"So I added a boy‐like "tarou" and called him "Sakutarou".`
+char_mar: ` And I forget when the "u" at the end went away!"`
+char_enj: `"Why "Sakura"?"`
+char_mar: `"Uu!`
+char_mar: ` Main character in an anime on TV~!"`
+char_non: `There was apparently a popular anime at the time whose main character was a girl called "Sakura".`
+char_non: `......The fact that she'd simply borrowed the name of a character she liked was, how should I say it, as innocent and cute as you'd expect from her age.`
+char_mar: `"Uu!`
+char_mar: ` Mama, Mama!`
+char_mar: ` Still no Sakutaro?`
+char_mar: ` Want to let Sakutaro join in my birthday too."`
+char_ros: `"Presents always come at the end, remember?`
+char_ros: ` If you open it now, it'll get dirty.`
+char_ros: ` Hold on until the meal is over."`
+char_mar: `"Then I'll finish eating quickly!`
+char_mar: ` Uu‐uu‐uu!"`
+char_non: `As soon as she proclaimed that, she started tearing into her meal.`
+char_non: `Auntie Rosa scolded her, telling her not to make a scene.`
+char_non: `{n}It seemed that she had seen it coming immediately.`
+char_non: `I had been thinking that, if I were as straightforward as Maria onee‐chan, that would probably be exactly what I would do as well,`
+char_non: ` so it brought a kind of warm smile to my face when my expectations weren't betrayed.`
+char_non: `In the end, Auntie Rosa succumbed to her daughter's eyes sparkling with anticipation,`
+char_non: ` cleaned up the table, and took out the long‐awaited wrapped present.`
+char_ros: `"Happy birthday, Maria.`
+char_ros: ` ......I couldn't spend much time on it, so I couldn't make it very well..."`
+char_mar: `"Uu!`
+char_mar: ` If you made it, Mama, I'm happy with anything!`
+char_mar: ` Uu‐uu‐uu!`
+char_mar: ` Sakutaro~, Sakutaro~, uu‐uu!"`
+char_non: `Auntie Rosa spoke slightly humbly, but Maria onee‐chan was ecstatic even before opening the wrapping.`
+char_non: `......I could really understand that feeling.`
+char_non: ` It's not a matter of quality.`
+char_non: `{n}Just the fact that it was a handmade present was more pleasing than anything.`
+char_mar: `"Can I open it?`
+char_mar: ` Can I open it?!"`
+char_ros: `"I'd really prefer you to leave it until we get back home,`
+char_ros: ` ......but, just for a bit, okay?`
+char_ros: ` We'll just take a look and say hello, then put it back, alright?`
+char_ros: ` You can give him a proper greeting once we get home.`
+char_ros: ` We're in public, so you can't fool around, understand?`
+char_ros: ` Can you promise?"`
+char_mar: `"Uu!`
+char_mar: ` Promise promise!"`
+char_mar: `"So can I open it?`
+char_mar: ` Can I open ii~t?`
+char_mar: ` Mamaaa."`
+char_ros: `"Yes, yes, but just for a bit, okay?"`
+char_mar: `"Yaaaaaaaaayyyy...{p:0:☆}"`
+char_non: `Before Auntie Rosa finished her sentence, Maria onee‐chan started unwrapping the present.`
+char_non: `And straight away, ......yellow and orange peeked out.`
+char_non: `What appeared was a slightly blank‐looking stuffed lion,`
+char_non: ` with cute round eyes and a cute white chest.`
+char_non: `It was about the size of a small pillow.`
+char_non: ` It looked pretty big held by a short person like Maria onee‐chan, but it probably wasn't that large.`
+char_non: `From the perspective of someone who didn't know better, it would probably look like something cheap bought from a department store or something.`
+char_non: `But to Maria onee‐chan, it was her mother's handmade stuffed animal, the only one of its kind in the world, and irreplaceable.`
+char_mar: `"Sakutaro~, Sakutaro~!!`
+char_mar: ` *giggle*giggle*!!`
+char_mar: ` Cute cute, reeeeally cute...!`
+char_mar: ` Thank you Mama, thank you Mama, thank you so much for making such a cute stuffed animal for me even though you're so busy with your work...!!"`
+char_ros: `"...Please don't praise me so much, it makes me feel embarrassed.`
+char_ros: ` I couldn't take much time, so I couldn't make anything that good.`
+char_ros: ` I actually wanted to make one so big that you couldn't wrap your arms around it..."`
+char_mar: `"No, this is good!`
+char_mar: ` With this size, we can always be together.`
+char_mar: ` We can go out together.`
+char_mar: ` Sakutaro~, I'm your onee‐cha~n, uryu~{p:0:☆}"`
+char_enj: `"It really is a cute stuffed animal.`
+char_enj: ` So this kid is your best friend Sakutaro."`
+char_mar: `"Uu!`
+char_mar: ` Can't go to school together, but we're always, always together at home and he's my best friend."`
+char_mar: `"You know, Sakutaro is verrry innocent and cute, and he's always nice to me.`
+char_mar: ` Cheers me up when I'm feeling down, and plays a lot with me when I'm feeling good!"`
+char_mar: `"So I'm not lonely anymore.`
+char_mar: ` Not lonely when Mama is busy with work and I'm all alone, and even if no one plays with me at school, not lonely at all.`
+char_mar: ` Riiight, Sakutaro~, uryu~{p:0:☆}"`
+char_non: `......At school, Maria onee‐chan was in similar circumstances to me.`
+char_non: `Compared to the other kids in her class, Maria onee‐chan's tempo was always a beat too slow.`
+char_non: `Her impressionability and way of thinking about things were a little peculiar, ......and she was a little too idiosyncratic to blend in with them.`
+char_non: `Her grades were low as well, and yet she was talkative when it came to her specialist field of the occult, which led to her being treated like a weirdo by everyone else in the class.`
+char_non: `If she touches you, you'll be cursed... Stuff like that.`
+char_non: `Everyone in the class acted like she was gross, made fun of her, and avoided her, it seems.`
+char_non: `Boys who bumped into Maria onee‐chan...`
+char_non: `would start wiping that part of them off against the other boys, as if they'd gotten something dirty on them.`
+char_non: `They would pick up her stuff between pinched fingers like it was something filthy and chase the other boys around with it.`
+char_non: `As for the girls, they appeared to find even speaking to her unpleasant;`
+char_non: ` they ignored her completely, giggling and sneering at her whenever she made a mistake.`
+char_enj: `"............It looks like bullying is the same in all eras.`
+char_enj: ` Humans really don't advance.`
+char_enj: ` Go extinct already."`
+char_mar: `"......I'm sad to be bullied, but I think it can't be helped."`
+char_enj: `"It can't be helped...?`
+char_enj: ` Why...?"`
+char_mar: `"'Cause, there's a rule that says, every class has to have one kid who gets picked on."`
+char_enj: `"......That's a horrible rule.`
+char_enj: ` I want to find whoever made that and hit them over the head with a brick.`
+char_enj: ` The corner of it, obviously."`
+char_mar: `"If I wasn't there anymore, I'm sure a new bullied kid would be chosen in my place.`
+char_mar: ` By staying strong, I can protect them."`
+char_non: `As she said that, she smiled faintly.`
+char_non: `.........Maria onee‐chan's way of thinking really is unusual.`
+char_non: `According to her, there is always a witch residing in the place called school.`
+char_non: `No, she says that anywhere that a lot of people gather will most certainly have a witch residing there.`
+char_non: `The witch tries to make the students perish by disease or accidents, so that she can steal their souls.`
+char_non: ` She sometimes also corrupts the souls, leading them down a path of evil.`
+char_non: `Maria onee‐chan told me that an angel came, not content to let that happen.`
+char_mar: `"......And the angel, she tried to defeat that witch.`
+char_mar: ` But the witch was powerful, and the fight continued for seven days and seven nights, but even then, it still wasn't over.`
+char_mar: ` The tired‐out witch asked for a truce, and proposed this."`
+char_enj: `"I've heard this before.`
+char_enj: ` ......‘Thus far, I have made half of the students in the class become sick or injured.`
+char_enj: ` But in exchange, I have protected the remaining half of the students from sickness and injury."`
+char_enj: `"Therefore, if you will make just one member of the class a sacrifice to me, if you will make them "the bullied kid",`
+char_enj: ` I shall protect all of the other students from sickness and injury’,`
+char_enj: ` .........wasn't it?"`
+char_mar: `"Uu.`
+char_mar: ` The angel thought about it.`
+char_mar: ` Compared to half the class suffering misfortune, having only one person be the unlucky one would be much better.`
+char_mar: ` Plus, the witch was saying that she would protect the safety of all the other students, using her powerful magic."`
+char_enj: `"If there are forty students in a class,`
+char_enj: ` ......and the twenty victims are shrunk down to one, then nineteen people are saved.`
+char_enj: ` ......A truly logical proposal."`
+char_non: `I wonder if this fairy tale has some kind of motif.`
+char_non: `{n}If it's a creation of Maria onee‐chan, a nine year old girl, that would be pretty impressive.`
+char_mar: `"The angel decided to accept that proposal.`
+char_mar: ` So, through the single sacrifice, nineteen people were saved.`
+char_mar: ` ......So my role is important.`
+char_mar: ` The witch is protecting nineteen people."`
+char_enj: `"......Because of us becoming sacrifices?`
+char_enj: ` .........Well, I don't remember ever being thanked by those nineteen people."`
+char_non: `...Maria onee‐chan's thinking is too compassionate.`
+char_non: `The miserableness of our situations is very similar.`
+char_non: ` ......And yet, there's a difference in our inner peace, just because of a small difference in our way of thinking?`
+char_enj: `"So then, aren't you sad, Maria onee‐chan...?"`
+char_mar: `"Uu.`
+char_mar: ` Not sad at all.`
+char_mar: ` 'Cause I'll be together with Sakutaro from now on.`
+char_mar: ` Right?`
+char_mar: ` Sakutaro?"`
+char_sak: `‘Uryuu! If I can be with Maria, I'm happy too~!’`
+char_mar: `"Look, Sakutaro is saying he's happy too.`
+char_mar: ` Uu{p:0:☆}"`
+char_non: `Maria onee‐chan held up the Sakutaro stuffed animal, playing both sides of the conversation herself.`
+char_non: `I don't understand.`
+char_non: ` ......But that's exactly why I want to reach Maria onee‐chan's level.`
+char_non: `...It's what makes me so strongly interested in her tale and her words.`
+char_mar: `"Ange, is it tough because you're all alone......?"`
+char_enj: `"......It is tough.`
+char_enj: ` But, just the time when I can be with you like this is different.`
+char_enj: ` Because I'm not...all alone."`
+char_mar: `"Then if Sakutaro becomes your friend too, it'll be even more fun.`
+char_mar: ` Uu!`
+char_mar: ` Okay, starting today, Sakutaro is your new friend!`
+char_mar: ` Right, Sakutaro~?"`
+char_sak: `‘Uryu?`
+char_sak: ` I am...Ange's friend...?`
+char_sak: ` Uryuu, Ange~!’`
+char_non: `Skillfully moving the stuffed animal like it was a puppet, Maria onee‐chan made Sakutaro emote.`
+char_non: `She was controlling him, but the charming way he waved his short hand and cocked his head to the side...`
+char_non: `made it feel like he really was a new friend called Sakutaro.`
+char_non: `Of course, if you were to look at it with cold eyes,`
+char_non: ` you would only see Maria onee‐chan comforting mopey old me with a stuffed animal.`
+char_non: `......But that stuffed animal had definitely been imbued with a soul.`
+char_non: `The soul of Maria onee‐chan's love.`
+char_non: `So I accepted the existence of a being called Sakutaro inside that stuffed animal.`
+char_mar: `"Come on, say hi to Sakutaro, Ange.`
+char_mar: ` Come on, you say hi too, Sakutaro~{p:0:☆}"`
+char_sak: `‘Uryu......?`
+char_sak: ` Is Ange...`
+char_sak: `...a scary person......?’`
+char_non: `As Sakutaro timidly looked at me,`
+char_non: ` he unexpectedly met my gaze, and hid behind Maria onee‐chan's back in surprise.`
+char_non: `......Maria onee‐chan really is good at playing with stuffed animals.`
+char_mar: `"It's okay, Sakutaro.`
+char_mar: ` Ange isn't scary, she's a very nice girl.`
+char_mar: ` Uu{p:0:☆}"`
+char_sak: `‘...H‐hello.`
+char_sak: ` I'm Sakutarou...`
+char_sak: ` ......Uryu......’`
+char_enj: `"*giggle*.`
+char_enj: ` ......Pleased to meet you, Sakutarou.`
+char_enj: ` I'm Ange.`
+char_enj: ` I'm glad to be your new friend."`
+char_non: `I held out my right hand as though asking for a handshake,`
+char_non: ` and Sakutaro's short hand was stuck out towards me, and lightly touched my index finger.`
+char_non: `After all, the size is all wrong for a handshake between a human and a stuffed animal.`
+char_non: `{n}This greeting by touching each other's fingers was our handshake.`
+char_mar: `"Uu{p:0:☆}`
+char_mar: ` See, now you two are friends!`
+char_mar: ` Two people's funner than one, and three people's funner than two.`
+char_mar: ` Uu!"`
+char_sak: `‘Uryu~!’`
+char_non: `Maria onee‐chan had given the name "Sakutarou" to the stuffed animal she was going to receive on her birthday,`
+char_non: ` and had warmed and expanded his existence in her heart for a long, long time.`
+char_non: `Therefore, even before she had met him, his existence had been sublimated into a personality.`
+char_non: `From the very first moment they met, the two of them were already friends.`
+char_non: `Of course, I don't think anything could be as personified and loved as Sakutarou was,`
+char_non: ` but that wasn't anything extraordinary in Maria onee‐chan's eyes.`
+char_non: `She loved the things she owned very much, treating them just like friends or beloved pets.`
+char_non: `Maybe it was partly that Auntie Rosa hadn't let her keep a pet,`
+char_non: ` or maybe just her innate desire to treat things as though they were precious.`
+char_non: `......Maybe it was that she was so isolated, she had been forced to find friends closer to home.`
+char_non: `Because of all those various circumstances, this wasn't anything extraordinary from her perspective.`
+char_non: `Yet even so, Sakutarou, ......no, maybe I should call him Sakutaro like Maria onee‐chan.`
+char_non: `It was certain that Sakutaro was a stuffed animal,`
+char_non: ` ...no, a friend, who was more loved than anything, or anyone.`
+char_ros: `"Hello... It's Mama.`
+char_ros: ` You're in a good mood, do you have a friend over?"`
+char_mar: `"Uu!`
+char_mar: ` Playing with Sakutaro!`
+char_mar: ` Listen what he said, *giggle*giggle*!"`
+char_non: `It was already past nine at night.`
+char_non: `Rosa had asked out of surprise since this wasn't an appropriate time for a friend to be over,`
+char_non: ` but when she thought about it, Maria didn't have any friends who would come over to play, did she...`
+char_non: `Even so, to think that she would have so much fun playing with that stuffed animal.`
+char_non: `Rosa was very pleased that Maria had liked her birthday present so much.`
+char_ros: `"I'm sorry.`
+char_ros: ` Mama just can't get her work finished...`
+char_ros: ` We're having a tough time with next season's lineup.`
+char_ros: ` It looks like we're finally starting to get noticed bit by bit, and I really want to somehow make an impact here that can meet their expectations..."`
+char_mar: `"Staying over again?`
+char_mar: ` Yep, that's okay.`
+char_mar: ` Do your best, Mama!"`
+char_ros: `"R‐really?`
+char_ros: ` Thank you, Maria...`
+char_ros: ` Thanks for understanding about Mama's work..."`
+char_non: `Rosa was very surprised that Maria had accepted with such indifference that she couldn't come home.`
+char_non: `Telling Maria that she would be coming home late or staying overnight had been a heavy burden for Rosa.`
+char_non: `Maria would start crying about how lonely she was on the other end of the phone, and it took a lot of time and effort to calm her down.`
+char_non: `To think that Maria would accept it in such high spirits...`
+char_non: `Is this also thanks to Sakutarou?`
+char_non: `...Rosa was once again pleased that she had given such a good present.`
+char_ros: `"I'll make sure I can come back by this time tomorrow.`
+char_ros: ` Let's eat dinner together tomorrow.`
+char_ros: ` You haven't eaten dinner yet, have you, Maria?`
+char_ros: ` Buy a bento at the convenience store and eat that.`
+char_ros: ` No sweets, and no soda.`
+char_ros: ` Make sure you get a receipt with your change, understand?"`
+char_mar: `"Uu!`
+char_mar: ` Shopping with Sakutaro, shopping with Sakutaro...!"`
+char_ros: `"H‐hey!`
+char_ros: ` Not Sakutaro, have him watch over the house!"`
+char_non: `From Maria's manner of speech, Rosa got the feeling that Maria had been going shopping with that stuffed animal without her knowing about it.`
+char_non: `Rosa's forehead creased, and after sourly telling Maria that she was absolutely not to, she hung up.`
+char_mar: `"Uu...`
+char_mar: ` Mama said I can't go shopping with you..."`
+char_sak: `‘Uryuu...`
+char_sak: ` Can't go shopping with Maria...`
+char_sak: ` Staying home alone...will be lonely...’`
+char_mar: `"Why did Mama say not to go shopping with you...`
+char_mar: ` Uu..."`
+char_sak: `‘Uryu...`
+char_sak: ` ......She must be...embarrassed for people to see you and me together...’`
+char_mar: `"......Embarrassed?`
+char_mar: ` Why?"`
+char_sak: `‘Mama often says not to take me outside.`
+char_sak: ` And she usually words it like, no, you're too old for that now...’`
+char_mar: `"Uu?`
+char_mar: ` But I'm not embarrassed at all to be with you."`
+char_sak: `‘I am a lion, ...but I'm a stuffed animal.’`
+char_mar: `"You're a lion and a stuffed animal, but you're my friend.`
+char_mar: ` So let's go out together{p:0:☆}`
+char_mar: ` Just when Mama isn't around, as a secret.`
+char_mar: ` Uu?`
+char_mar: ` Are you embarrassed too?"`
+char_sak: `‘I'm not embarrassed, but......`
+char_sak: `...uryu, ...the people outside are a little scary...’`
+char_mar: `"So that's it!`
+char_mar: ` Okay, I'll make it so you don't have to be scared about going outside!`
+char_mar: ` Leave it to me, I've got something useful...!"`
+char_non: `Maria started fishing around her messy room.`
+char_non: `Rosa often told her to clean it up, but she was just bad at cleaning up her room.`
+char_non: `However, she knew more or less where everything was.`
+char_non: `So much so that whenever Rosa would take it upon herself to tidy up, Maria would have trouble finding things.`
+char_mar: `"Found it!`
+char_mar: ` Look, look, Sakutaro.`
+char_mar: ` A knapsa~ck!"`
+char_non: `Maria proudly held it up high.`
+char_non: `Sakutaro looked at the gaping‐open knapsack and shifted uneasily...`
+char_sak: `‘Uryu...... Maria, you aren't saying......’`
+char_mar: `"Uu!`
+char_mar: ` This way, we can go shopping together, and you won't be scared!"`
+char_non: `Maria held Sakutaro up, and started stuffing him into the knapsack.`
+char_non: `At first, she tried to stick him in head‐first, but then he'd be upside‐down and suffocate.`
+char_non: ` So she pulled him out and tried pushing him in again, feet‐first.`
+char_sak: `‘Uryuu...!`
+char_sak: ` It's tiiight and craaamped and daaark.`
+char_sak: ` Uryuu!`
+char_sak: ` Mmggh.’`
+char_mar: `"See, it's alright.`
+char_mar: ` If you stick your head out, it isn't cramped and it isn't dark, so it won't be scary.`
+char_mar: ` And it's a good view.`
+char_mar: ` Uu!"`
+char_sak: `‘Uryu, you're right.`
+char_sak: ` ......Will it be okay for me to go shopping with you now...?’`
+char_mar: `"Yep, it's okay now!`
+char_mar: ` What should we get for dinner tonight?!`
+char_mar: ` Come on, let's go out, Sakutaro!`
+char_mar: ` Uu!"`
+char_enj: `"*giggle*.`
+char_enj: ` Looks like you're having fun, Maria onee‐chan."`
+char_mar: `"Yep, it's reeeally fun.`
+char_mar: ` Even things that would be lonely and boring alone all become fun with Sakutaro.`
+char_mar: ` Any {y:0:Human}{n:0:human} friend would have to go home when it gets late."`
+char_mar: `"But Sakutaro doesn't go home, so he can be with me all the time.`
+char_mar: ` He'll watch TV with me,`
+char_mar: ` be together even in the futon,`
+char_mar: ` and even hold my hand on scary nights with thunder."`
+char_mar: `"He'll even chase away the monsters in the closet and under the bed.`
+char_mar: ` Sakutaro is reliable!"`
+char_sak: `‘Uryu.`
+char_sak: ` I'm a lion, so if there's any monsters that scare Maria, I'll show my courage and chase them away.`
+char_sak: ` Uryuu, {ruby:roar:gaooo}.’`
+char_non: `They were so close that it made me a little envious.`
+char_non: `I'm supposedly older than Maria onee‐chan.`
+char_non: `But I can call her nothing else; even now she stands above me like an older sister, and I am yet to reach her level.`
+char_non: `...If only I had a friend close by like Sakutaro.`
+char_mar: `"But both me and Sakutaro {i:are} friends close by!`
+char_mar: ` We're aaallways right by your side.`
+char_mar: ` It's just that your magic is weak, so you can't perceive us unless you open my diary like this."`
+char_enj: `"......Perceive?`
+char_enj: ` You know some pretty difficult words, Maria onee‐chan."`
+char_non: `According to her, this world is full of magic and spirits.`
+char_non: `As natural and nearby as a light breeze.`
+char_mar: `"You don't normally notice or see the wind,`
+char_mar: ` but when incense or something trails smoke, you can see it, right?"`
+char_enj: `"......Right.`
+char_enj: ` And even if you can't see it, it is always nearby."`
+char_mar: `"That's it.`
+char_mar: ` Me and Sakutaro are always really close by you, Ange.`
+char_mar: ` Gods and spirits and guardians, they're always right next to us."`
+char_mar: `"But if you aren't conscious of them, you can't feel their existence.`
+char_mar: ` Like wind that can't be seen with the eyes.`
+char_mar: ` But they are certainly near us, and if the smoke called magic draws trails, anyone can see them."`
+char_non: `I had thought that I could only meet Maria onee‐chan when I opened this diary.`
+char_non: `But from what she said, she was always with me, and I could meet her at any time if I truly desired to.`
+char_mar: `"Along with the records of my life, I left a fragment of my own soul in my diary.`
+char_mar: ` So the power of my magic resides in this diary.`
+char_mar: ` But it's very faint, so no one other than you can detect it."`
+char_enj: `"......Only I...can tell?"`
+char_mar: `"Yep.`
+char_mar: ` After all, the power of a witch resides in you, just like it does in me!`
+char_mar: ` If you study hard, even you can definitely become a great witch in the future."`
+char_enj: `".........A witch.`
+char_enj: ` I wonder if that's fun."`
+char_mar: `"Uu!`
+char_mar: ` It is fun.`
+char_mar: ` If you do that, you'll be able to tell that me and Sakutaro are always by your side, even without opening the diary."`
+char_mar: `"And then every day will be so much fun!`
+char_mar: ` And then I can introduce you to all my other friends.`
+char_mar: ` And then every day you'll have a lot to do, and it'll be very lively."`
+char_enj: `"That might be fun.`
+char_enj: ` ......I do have the grimoire you left behind, Maria onee‐chan.`
+char_enj: ` I'll try reading it seriously sometime soon.`
+char_enj: ` ......And then I won't be all alone anymore,`
+char_enj: ` ...will I...?"`
+char_non: `"Uu!"{n}{t}‘Uryuu!’`
+char_non: `Maria onee‐chan and Sakutaro said that at the same time, happy that I had developed an interest in the world of witches.`
+char_non: `With half of Sakutaro's face peeking out of the knapsack on her back,`
+char_non: ` Maria walked through the late‐night shopping district in high spirits.`
+char_non: `It was only to be expected given the time.`
+char_non: ` Everyone in the shopping district was either a shop owner lowering the shutters on their shop, or an employee rushing, or else staggering, back home.`
+char_non: `Amidst all that, Maria, in the best of moods as though she was hiking, probably stood out a great deal.`
+char_non: `The occasionally passing employees glanced backwards over their shoulders at her with the eyes of someone seeing something out of place.`
+char_non: `Office ladies giggled at the cute stuffed animal poking its head out of the knapsack.`
+char_non: `The supermarket had been closed for a while by this time.`
+char_non: ` However, the recently popular convenience stores stayed open until late into the night.`
+char_non: `It was very convenient for Maria, whose mother's return was often later still.`
+char_non: `Maria took the knapsack off her back, and hugging it close to her chest, she headed over to the sweet buns corner.`
+char_non: `She pointed to each of the sweet buns she had eaten before, explaining to Sakutaro that this one was delicious,`
+char_non: ` and that one was pretty good too.`
+char_non: ` Sakutaro seemed to be enjoying it a lot.`
+char_mar: `"I'm going to haaave...the three‐flavor bun!`
+char_mar: ` With just this one thing, you get to eat red bean jam and cream and strawberry jam!`
+char_mar: ` But sometimes it's green pea jam or white bean jam.`
+char_mar: ` There should be one kind of bean jam."`
+char_sak: `‘Uryuu!`
+char_sak: ` It sounds fun with all the different things inside.`
+char_sak: ` Uryu~!’`
+char_mar: `"And I'll also have a...fruit yogurt!`
+char_mar: ` There's fruit in it, but it isn't a sweet, right?`
+char_mar: ` Yep, I'm sure Mama will be fine with it.`
+char_mar: ` Do you want one too, Sakutaro?"`
+char_sak: `‘Uryu?`
+char_sak: ` Can I......?`
+char_sak: ` What about the money?’`
+char_mar: `"Uu, no proble~m!`
+char_mar: ` Look, it's {c:86EF9C:{ruby:(5000 yen):Shotoku Taishi}}, uu!`
+char_mar: ` So I can buy you whatever you want too, Sakutaro.`
+char_mar: ` Let's eat together!`
+char_mar: ` Do you want a yogurt too?"`
+char_non: `When Maria made to grab another one of the same fruit yogurt, Sakutaro tilted his head as if he was a little worried.`
+char_sak: `‘Uryu...`
+char_sak: ` But I can't eat a big one, so a little one is fine.’`
+char_mar: `"Uu.`
+char_mar: ` Then what about this small yogurt?`
+char_mar: ` It's 30 yen.`
+char_mar: ` That's cheap."`
+char_sak: `‘Uryu!`
+char_sak: ` That's good enough for me.`
+char_sak: ` Yogurt with Maria!’`
+char_mar: `"Yogurt with Sakutaro!`
+char_mar: ` Uu!"`
+char_non: `Maria put the three‐flavor bun and the two yogurts into a shopping basket, and brought them to the register.`
+char_non: `The man working the register, previously in charge of the tobacco shop that had been in this spot until last year, rang her up.`
+char_non: `"I seem to be seeing you a lot at this time of day, little lady.`
+char_non: ` You're a good girl, but next time come with your mother when you go shopping this late, alright?"`
+char_mar: `"Mama said it's okay, so it's alright!`
+char_mar: ` Mama always comes home late because of her work, but we aren't lonely.`
+char_mar: ` Are we, Sakutaro?"`
+char_sak: `‘Uryuu!’`
+char_non: `"Really? That sounds tough.`
+char_non: ` Here you go, I'll throw in a free soda."`
+char_non: `The man working at the store took a can of leftover soda or something from behind the register and packed it into the bag with everything else.`
+char_mar: `"Thank you, mister!`
+char_mar: ` Uu!`
+char_mar: ` Isn't that great, Sakutaro?!"`
+char_sak: `‘Uryuu!’`
+char_non: `Since she had been told not to buy soda, she couldn't take it back home.`
+char_non: `So she decided to drink it on her way back, and not bring the empty can back home.`
+char_non: `With the plastic bag with the sweet bun in it hanging from her elbow,`
+char_non: ` and hugging the knapsack with Sakutaro in it with that same arm, the two of them walked home drinking the soda...`
+char_mar: `"......Uu.`
+char_mar: ` Yuzu and chili pepper soda tastes pretty weird...`
+char_mar: ` You want to try too, Sakutaro...?"`
+char_sak: `‘Uryu?`
+char_sak: ` .........Uryu‐uryu‐uryu, uryuu!!`
+char_sak: ` Pwhaaah.`
+char_sak: ` ...Uryuuuu, that was mean, Maria...`
+char_sak: ` Nasssty......’`
+char_mar: `"It sure is, uu‐uu."`
+char_non: `Of course, it's not like she could actually make a stuffed animal drink soda.`
+char_non: `She just put the can to Sakutaro's mouth and pretended to tilt it.`
+char_non: `But it was great fun for Maria to share the taste of this weird drink that she had gotten for free with Sakutaro...`
+char_non: `There was a huge moon in the sky.`
+char_non: `At times, that moon had been clouded by tears when Rosa had stayed over at work,`
+char_non: ` and Maria had thrown a tantrum and been scolded by her mother.`
+char_non: `But this moon was very warm, and it seemed to watch over the two of them as they enjoyed their trip home by themselves...`
+char_non: `Maria and Sakutaro.`
+char_non: ` ......Ange watched the two of them go from behind.`
+char_enj: `"........................"`
+char_non: `What a...heartwarming sight.`
+char_non: `The sight of Maria onee‐chan and Sakutaro walking away together...`
+char_non: `made it very difficult to remember the several occasions on which she had spent long nights crying because her mother hadn't come home...`
+char_non: `......I couldn't admit this to Maria onee‐chan,`
+char_non: ` ...but if I had been in the same position, even if I had given that stuffed animal the name Sakutarou,`
+char_non: ` ...it wouldn't have been anything more or less than a stuffed animal.`
+char_non: `Anyone can make a relationship which only distracts you from your loneliness.`
+char_non: `But Maria onee‐chan was different.`
+char_non: `{n}Sakutaro wasn't a stuffed animal or a toy.`
+char_non: `......He was a real friend, and far from just distracting Maria from her loneliness,`
+char_non: ` he changed the nights without her mother into a fun time where they could play all by themselves...`
+char_non: `Was it because Sakutarou was a special stuffed animal?`
+char_non: `{n}Because her mother had made it herself?`
+char_non: `{n}Because it was very, very cute?`
+char_non: `......Probably...not.`
+char_non: `If there is a secret here, it doesn't lie within Sakutarou.`
+char_non: `{n}...I think it probably lies within Maria onee‐chan.`
+char_enj: `".........Is this the power of magic you were talking about, Maria onee‐chan...?"`
+char_mar: `"Uu.`
+char_mar: ` To know magic is to notice a lot of friends right beside you who you never noticed before.`
+char_mar: ` It's as fun as having a bunch of new toy shops pop up all over the neighborhood!"`
+char_non: `......If I, too, locked up in an academy without a single friend,`
+char_non: ` ...had the same kind of power as Maria onee‐chan, I wonder if I could make my days just a bit richer.`
+char_non: `I wonder if I would become able to honestly shed tears on the nights I feel like crying—and crack a smile when the nights are gray.`
+char_mar: `"Yep.`
+char_mar: ` You could.`
+char_mar: ` You can, Ange.`
+char_mar: ` After all, you also have the qualifications to become a witch."`
+char_enj: `".........The qualifications...to become a witch."`
+char_mar: `"I also have the qualifications to become a witch.`
+char_mar: ` So I still have a lot more studying and training to do."`
+char_mar: `"I know we'll become wonderful witches, flying in the sky on our brooms, and drawing rainbows with our wands, making candy fall from the sky.`
+char_mar: ` I know I can do it.`
+char_mar: ` And when I do, I'll show you too.`
+char_mar: ` It'll be like a scene from a wonderful dream."`
+char_non: `Maria onee‐chan said that, making an absolute promise with her smile.`
+char_non: `......There's no way we can become {i:witches}.`
+char_non: ` But when I listen to her speak, I can believe that maybe...we really could.`
+char_non: `Because the fact is......that on this troubled night, when not a single flower of a smile could bloom, her magic had certainly given birth to a smile.`
+char_enj: `"......I wonder if I can...`
+char_enj: `.........become a witch."`
+char_mar: `"You can.`
+char_mar: ` ......You got a little bit older, so your soul is slightly bound by gravity.`
+char_mar: ` So training might be tougher than for me."`
+char_mar: `"But you definitely can.`
+char_mar: ` After all, you've already experienced a glimpse of magic."`
+char_enj: `"I have?`
+char_enj: ` ......Magic...?"`
+char_mar: `"Yep.`
+char_mar: ` Come on, look, I'm not in this world anymore, but you've summoned me, and you're talking with me."`
+char_enj: `".........This is...magic...?"`
+char_mar: `"Yep.`
+char_mar: ` You've filled the fragment of my soul that I left in the diary with magic, keeping me revived."`
+char_mar: `"Didn't I just say it?`
+char_mar: ` You're able to reunite with me, and have a conversation, and show a smile every once in a while, so you must have some magical talent, Ange.`
+char_mar: ` Maria onee‐chan guarantees it.`
+char_mar: ` Uu!"`
+char_enj: `"...You told me just now, Onee‐chan.`
+char_enj: ` That you're actually nearby all the time, even though I've been thinking that I can only see you when I open the diary."`
+char_enj: `"......If I had more of the power of magic, I could see that,`
+char_enj: ` ...and, just like now, ......I could have a conversation with you...?`
+char_enj: ` Any time...?"`
+char_mar: `"Yep.`
+char_mar: ` We can talk any time.`
+char_mar: ` I'm always by your side to say good morning, and I'm even there during class.`
+char_mar: ` Let's talk together during boring classes to take your mind off things."`
+char_mar: `"I can also be someone to talk to during meals, so let's always be together like this during lunch break."`
+char_mar: `"I'm with you after school too, and of course, I'm always by your side even when you return to the dormitory.`
+char_mar: ` ...It's just that {i:you never look at me except when you open the diary}."`
+char_enj: `"............Even if I close the diary,`
+char_enj: ` ...you'll be...`
+char_enj: `by my side, right?"`
+char_mar: `"Yep.`
+char_mar: ` I'll be there.`
+char_mar: ` So if you try to {y:1:‘see’}{n:1:see} me and try to talk to me, I can definitely answer.`
+char_mar: ` ......If you look hard and try to talk."`
+char_enj: `"............I'll...`
+char_enj: `......give it a try."`
+char_mar: `"It won't be easy, you know?`
+char_mar: ` It's not going to go great right from the start, okay?"`
+char_enj: `".........I understand.`
+char_enj: ` I'm sure it won't be easy.`
+char_enj: ` ......But I...`
+char_enj: `......want to be like you, Maria onee‐chan........."`
+char_mar: `"Uu.`
+char_mar: ` Okay.`
+char_mar: ` .........Then look at me closely.`
+char_mar: ` Look hard."`
+char_enj: `"......Yeah."`
+char_mar: `"Practice slowly closing your eyes and opening them again.`
+char_mar: ` ...Don't start shutting them for a long time right away.`
+char_mar: ` Burn me into your eyes, then try to blend that onto the inside of your eyelids..."`
+char_enj: `".........Yeah,`
+char_enj: ` ......I'm doing it."`
+char_mar: `"Once you can visualize me even with your eyes closed,`
+char_mar: ` .........without changing anything, slowly and softly close your eyes.`
+char_mar: ` .........Well?`
+char_mar: ` Still {y:1:‘see’}{n:1:see} me?"`
+char_enj: `"Y‐......yes.`
+char_enj: ` ...I think...I can probably {y:1:‘see’}{n:1:see} you..."`
+char_mar: `"Okay, open your eyes again for a second.`
+char_mar: ` .........Time for the real thing.`
+char_mar: ` Calm your heart, and close the diary.`
+char_mar: ` ......When you do, I might disappear for a little while."`
+char_mar: `"But calm your heart and don't rush.`
+char_mar: ` ......Then, try to blend me back from the inside of your eyelids, back into your eyes again.`
+char_mar: ` ...Slowly visualize me in the empty air.`
+char_mar: ` ......In the empty air...{y:1:‘see’}{n:1:see} me."`
+char_enj: `".....................`
+char_enj: ` ......Okay, I can do this.`
+char_enj: ` ............Right,`
+char_enj: ` .........I'm closing it,`
+char_enj: ` the diary."`
+char_mar: `"Uu."`
+char_non: `Slowly.........`
+char_non: `...I closed the diary.`
+char_non: `When I closed the diary, ......a gray reality filled with dull air unfolded.`
+char_non: `Of course, Maria onee‐chan's form disappeared.`
+char_non: `......Give it all you've got, have courage.`
+char_non: `{n}...Take the first step into the world of witches.`
+char_non: `I felt like Maria onee‐chan was cheering me on inside my heart.`
+char_non: `Cheering me on?`
+char_non: ` Really?`
+char_non: `{n}Isn't that just what I'd like to imagine...?`
+char_non: `No, that's not it.`
+char_non: `{n}I just convince myself that it is...and that's {i:why I cannot {y:1:‘see’}{n:1:see} her}.`
+char_non: `Maria onee‐chan is always by my side.`
+char_non: ` And even now, she's definitely there, cheering me on to do my best...`
+char_non: `And I...can hear it.`
+char_non: ` So I mustn't ignore it like it's my imagination or the inner voice of my own heart......`
+char_non: `......Believe...`
+char_non: `that Maria onee‐chan is there.`
+char_non: `I mustn't doubt.`
+char_non: ` ...I believe.`
+char_non: `{n}Onee‐chan said she's always by my side.`
+char_non: `{n}I must not doubt that...`
+char_non: `But as I faced that empty space, that empty back wall of the school building,`
+char_non: ` amidst those almost heartlessly boring rays of sunlight, calling out her name was so much easier said than done...`
+char_non: `The chains of common sense which had clung to me until today sneered at me, telling me that calling out to the empty air was ridiculous...`
+char_non: `It was almost like being told to take a step forward off the roof of a skyscraper overlooking a sea of lights.`
+char_non: `......Maria onee‐chan was telling me.`
+char_non: `{n}......That it's alright, that I can do it.`
+char_non: `Stop thinking that you might fall, or that it would be foolish to take a step off a roof,`
+char_non: ` ......and free yourself from those chains of common sense...............`
+char_enj: `"...............whew.........`
+char_enj: ` .........haaah, ............`
+char_enj: ` .....................Yeah..."`
+char_non: `I steadied my breathing.`
+char_non: `{n}I concentrated my mind.`
+char_non: `Make the form of Maria onee‐chan you can see vividly on the inside of your eyelids...rise to the surface in the empty space before you.`
+char_non: `.........Understand magic,`
+char_non: ` ......and {y:1:‘see’}{n:1:see}...Onee‐chan......`
+char_enj: `"............Maria...onee‐chan.........!"`
+char_enj: `"Huh?!`
+char_enj: ` Is someone there?!"`
+char_enj: `Suddenly answered by the sound of rustling bushes and a wild cry, I came to my senses.`
+char_enj: `Apparently I hadn't been the only one behind the school building.`
+char_enj: `{n}No, I'd been so immersed in the world of the diary that I hadn't noticed that someone else had come afterwards.`
+char_enj: `I recognized a group of three beyond the bushes.`
+char_enj: `{n}...They were girls from my class.`
+char_enj: `It felt as though they had come behind the school building to gossip about someone or talk in secret.`
+char_enj: `I hurried out of that place.`
+char_enj: `Because if it became known that I had been alone in a place like this, mumbling to myself, it would probably create more things for me to deal with...`
+char_enj: `"......She said that, right? She did say that?`
+char_enj: ` "Maria onee‐chan" or something?!"`
+char_enj: `"Messed up... I think the nutcase is seeing ghosts or something."`
+char_enj: `"Pfff...*giggle*giggle*giggle*giggle*!`
+char_enj: ` Ushiromiya‐san is so~ funny...!"`
+char_enj: `I could hear the shrill, loud laughter from behind.`
+char_enj: `Irritated and feeling that Maria onee‐chan had been made fun of,`
+char_enj: ` I left that place at a quick pace, and then a half‐run once I turned the corner.`
+char_enj: `......And I might have made it to Onee‐chan's world with just a little more time......`
+char_enj: `Frustrating, aggravating... Why does everyone get in my way...`
+char_enj: `{n}I've never gotten in their way, not even once......!`
+char_enj: `I ran and ran, but it still felt as though I could hear their shrill laughs......`

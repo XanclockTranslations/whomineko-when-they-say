@@ -1,0 +1,1620 @@
+char_enj: `"Amakusa, could you turn that off?"`
+char_ama: `"Whoops, my bad.`
+char_ama: ` You don't like {nobr:M. Zakky}?"`
+char_enj: `"I'm just not in the mood."`
+char_non: `Amakusa turned the radio off.`
+char_non: `The world of cheery sounds was immediately swallowed up by the roar of the sea,`
+char_non: ` and blotted out by the ocean's gray......`
+char_kaw: `".........See it?`
+char_kaw: ` Over there's where the harbor was at the time."`
+char_enj: `".............................."`
+char_non: `The boat captain pointed, but I couldn't really recall how it looked twelve years ago.`
+char_non: `......I had believed that my memories of back then would come flooding back into my mind,`
+char_non: ` ...but no memories were coming back to me at all.`
+char_non: `After the incident, the island was sealed off and left to the wild.`
+char_non: `......Probably that's understandable, I had to tell myself, to stop myself from feeling somehow...sad and hurt.`
+char_non: `.........Ah, but I at least remember one thing.`
+char_non: `You could say that it would probably be the same anywhere on the sea, ......but at least this one thing, I do remember.`
+char_non: `The cries...`
+char_non: `of the seagulls.`
+char_non: ` I do remember those.`
+char_non: `......I almost never went to the ocean when I was young.`
+char_non: `...So, to me, everything that symbolized the ocean meant Rokkenjima, and my family getting together.`
+char_non: `In short, ......it was a symbol for the happiness of going out with my family.`
+char_non: `However, at this point in time, it even seems doubtful whether that was happiness at all.`
+char_non: `In my younger days, the trip had felt like a relaxed family vacation, but considering my parents' situation at the time,`
+char_non: ` it was surely a very difficult trip to handle, with the distribution of the inheritance filling the place with the smell of flaring tempers and fuses about to blow.`
+char_non: `I can remember giggling all over the place, completely ignorant of my parents' feelings...`
+char_ama: `"Rokkenjima, ......is it.`
+char_ama: ` The beginning of everything, and the last stop for all journeys."`
+char_non: `Amakusa tried too hard in an attempt to speak for my innermost feelings.`
+char_non: `The boat slowly rounded the island.`
+char_non: ` ......As the angle changed, I hoped that my memories of the island's silhouette at the time might come back just a little,`
+char_non: ` but in the end, even as the inlet was completely hidden by the cliffs, I wasn't able to remember anything...`
+char_enj: `"......Captain, that thing you mentioned...`
+char_enj: `about the other harbor...please tell me about it."`
+char_kaw: `"Mmhm.`
+char_kaw: ` .........They say Rokkenjima's only got one harbor.`
+char_kaw: ` But that's only its outward appearance."`
+char_enj: `"An extra hidden harbor on the back of the island.`
+char_enj: ` .........That's Rokkenjima all over.`
+char_enj: ` It has a second face, which no one knows about..."`
+char_kaw: `"............Rokkenjima is an island in the possession of the Ushiromiya family.`
+char_kaw: ` But it has another face, as an island owned by Kinzo‐san personally......"`
+char_ama: `"One island, two harbors, two mansions, ......is it.`
+char_ama: ` He sure spent a lot just so he could keep a mistress."`
+char_enj: `"Who knew about this other harbor...?"`
+char_kaw: `"Not many.`
+char_kaw: ` Kinzo‐san, Genji‐san the butler.`
+char_kaw: ` Those of us involved with the boats,`
+char_kaw: ` and a very small number of the oldest servants.`
+char_kaw: ` ......The last owner of the Nanjo clinic and that Kumasawa baa‐san knew as well.`
+char_kaw: ` Naming 'em off like this makes it sound like there were a bunch of 'em, but I tell you now, it was only a very small number who knew."`
+char_enj: `"Please...tell me about that other mansion."`
+char_kaw: `"......All's I was told is there's a mansion called Kuwadorian.`
+char_kaw: ` Wasn't allowed to leave the boat, so I never once saw the place, though."`
+char_ama: `"So it was far away enough that you couldn't see it from the harbor?"`
+char_kaw: `"Beats me.`
+char_kaw: ` ......But it was a hidden mansion after all.`
+char_kaw: ` Probably was built where you can't see it from the outside.`
+char_kaw: ` ...Anyway, Kuwadorian was that island's biggest secret."`
+char_enj: `"There's a theory that {f:5:Beatrice} was being made to live in Kuwadorian,`
+char_enj: ` or else was being confined there... What do you think, Captain?"`
+char_kaw: `"......I carried over sundries meant for Kuwadorian, too.`
+char_kaw: ` Oftentimes that included stuff only women would use, and fancy stuff at that.`
+char_kaw: ` ......No doubt in my mind, that theory is true."`
+char_ama: `"So does that mean you never saw this {f:5:Beatrice} woman directly, Captain?"`
+char_kaw: `"Never.`
+char_kaw: ` Came and went for close to twenty years, and never saw her once."`
+char_ama: `"Twenty years...!`
+char_ama: ` Whew, so that's at least plus twenty onto her age.`
+char_ama: ` Well, that shoots down my hopes for a mademoiselle."`
+char_kaw: `"But one day, bang, all trips to and from Kuwadorian stopped.`
+char_kaw: ` That was about thirty years ago,`
+char_kaw: ` ......so around {ruby:Showa 43:1968}, I think."`
+char_enj: `"Bang?`
+char_enj: ` You mean suddenly?"`
+char_kaw: `"......We'd come by the back on a specified schedule to carry food and trash one way or the other.`
+char_kaw: ` ......Uh, when I say the back, I mean the harbor on the Kuwadorian side."`
+char_enj: `"I get it.`
+char_enj: ` ...So then?"`
+char_kaw: `"So one day, I get a sudden message from Genji‐san.`
+char_kaw: ` And he tells me, until you hear differently, we don't need you to go to the back anymore."`
+char_ama: `"And did you hear differently?"`
+char_kaw: `"Not in particular.`
+char_kaw: ` To cut a long story short, one day, suddenly, I was told they didn't need regular service at the back anymore, and not to bother taking food there either.`
+char_kaw: ` ......Thought I'd been given the boot at first."`
+char_kaw: `"But it wasn't long before I realized.`
+char_kaw: ` ......And I kind of got the picture from the reactions of the servants who knew of Kuwadorian, as well."`
+char_enj: `".........{f:5:Beatrice} died, and there was no longer any need to take food or people to care for her?"`
+char_kaw: `"That's what I think.`
+char_kaw: ` I've never been told to take another boat to the back since.`
+char_kaw: ` But after that, Genji‐san came to see me face to face,`
+char_kaw: ` and got real pushy, demanding me to take everything about "the back" with me to the grave."`
+char_enj: `"So, if that hidden mansion was abandoned for twenty whole years,`
+char_enj: ` .........why was Aunt Eva there?"`
+char_non: `On that day twelve years ago...`
+char_non: `......Ushiromiya Eva somehow escaped harm alone in a hidden mansion two kilometers away from the regular mansion.`
+char_non: `Why was she in a hidden mansion that had been forgotten for twenty years.........?`
+char_kaw: `"I saw that on the talk shows.`
+char_kaw: ` Even I can't make heads or tails of that.`
+char_kaw: ` Not once did I show Eva‐san to the back.`
+char_kaw: ` I don't have the first damn clue how she knew about Kuwadorian or how she got there."`
+char_enj: `"I wonder if it was possible to go to the back where Kuwadorian is by land."`
+char_ama: `"......If, as we heard, the forest was dense and uncultivated,`
+char_ama: ` I seriously doubt a well‐dressed lady person'd be able to push through it."`
+char_enj: `"So what about by sea?`
+char_enj: ` Maybe there was a motorboat or something."`
+char_kaw: `"Are you kidding?`
+char_kaw: ` That two‐nighter typhoon was awful.`
+char_kaw: ` No way you could'a used a boat."`
+char_enj: `"What if there was......an underground passage or something between the mansion and Kuwadorian.`
+char_enj: ` It would have been a pain to have to charter a boat each time he wanted to visit his mistress's house, right...?"`
+char_ama: `"A tunnel long enough to connect mansions on opposite sides of a two‐kilometer island like Rokkenjima...?"`
+char_ama: `"...Well, I'd like to laugh at the thought, but this is a guy so rich he made a whole hidden mansion for his mistress.`
+char_ama: ` Guess I can't deny the possibility.`
+char_ama: ` ......What do you think, Captain?"`
+char_kaw: `"I'm a man of the sea.`
+char_kaw: ` No good asking me about holes.`
+char_kaw: ` But the Japanese military dug a {i:twenty‐five}‐kilometer tunnel on Iwo Jima.`
+char_kaw: ` Wouldn't surprise me one bit if {i:the} Kinzo‐san could dig at least two."`
+char_enj: `".....................This really is a strange island.`
+char_enj: ` Even now, not one of us really knows a thing about it."`
+char_non: `The boat reached the shore.`
+char_non: ` There would be a short walk to reach the mansion.`
+char_kaw: `"......I'll wait here.`
+char_kaw: ` The mansion's that way.`
+char_kaw: ` The path from back then's probably still there, but I'll bet it's covered with plants.`
+char_kaw: ` Make sure you don't get yourself lost."`
+char_ama: `"Right, off we go, then?"`
+char_enj: `"Thanks, Amakusa.`
+char_enj: ` But you wait here too."`
+char_ama: `".........Eh, I had a feeling you'd say that."`
+char_enj: `"I'm just delivering something.`
+char_enj: ` You'll just be trouble for them if you're with me.`
+char_enj: ` I imagine your toxin is strong."`
+char_ama: `"Toxin?`
+char_ama: ` Hmm."`
+char_enj: `"I'll be back soon.`
+char_enj: ` Our main goal today is Kuwadorian.`
+char_enj: ` ......After I deliver this, I'll come right back."`
+char_non: `Ange put on her knapsack and grabbed the flowers she was planning to offer.`
+char_kaw: `"Take the hint, young'un.`
+char_kaw: ` ......Go on, gal.`
+char_kaw: ` Your family's waiting for you."`
+char_non: `I had never been on a road like this, but I had no trouble finding my way.`
+char_non: `{n}If I walked straight ahead, it would probably guide me to the final destination for everything.`
+char_non: `The vegetation certainly was incredible, and you would lose track of the path if you were careless enough to let your attention drift.`
+char_non: `......But the road that was left was much better than I had imagined.`
+char_non: `Still, that didn't change the fact that it was a bad road.`
+char_non: `......Contrary to the distance shown on the map, I was forced to walk a long way......`
+char_non: `......The forest was deep and dark.`
+char_non: `At the time, I had been threatened into staying away from the forest because a witch lived there.`
+char_non: `Of course, that fear is gone now, .........but I feel it.`
+char_non: `Other people may not be able to,`
+char_non: ` ......but I can feel the presence, like an aura, of the Golden Witch {f:5:Beatrice}...`
+char_non: `Massive, oddly shaped rocks scattered here and there. Overgrown trees and ivy.`
+char_non: ` ......The voices of birds and bugs.`
+char_non: `Yeah, I can feel it.`
+char_non: ` .........I can feel...that the witch...is here......`
+char_non: `Ahead, an ivy‐covered construction site fence and warning sign stood.`
+char_non: `"NO ENTRY — TOKYO METROPOLIS".`
+char_non: ` That was written on it.`
+char_non: `Oh, right.`
+char_non: ` When you think "Tokyo", you tend to think of a city,`
+char_non: ` but address‐wise, even Rokkenjima is a rightful part of Tokyo Metropolis.`
+char_non: `......Apologizing to the sign for my mistaken impression, I climbed over the fence.`
+char_non: `When I made it up the steep slope beyond that, ............my field of vision rapidly expanded,`
+char_non: ` and a fresh sea breeze blew through my hair......`
+char_non: `It was like the top of a little hill.`
+char_non: `......Below me was a vast view of the island.`
+char_non: `I could only see desolated forest and rocky crags spread out below me.`
+char_non: ` ......But, somehow, I realized that the mansion was probably somewhere around there.`
+char_non: `The steep downward slope beyond this hill had probably been caused by landslides from twelve years of wind and rain.`
+char_non: `It had become a slant filled with crags that you might even call gentle cliffs,`
+char_non: ` and though it would be easy to tumble down, it looked like climbing back would be pretty difficult.`
+char_non: `.........It seemed that proceeding any further would be impossible.`
+char_non: `If I continued any further, I wouldn't be able to return.`
+char_non: `{n}In other words, .........this is...the border.`
+char_non: `Between 1986 and 1998.`
+char_non: ` That day and today.`
+char_non: `{n}And this world and the other.`
+char_enj: `"............This is...`
+char_enj: `...this journey's...final destination, it seems."`
+char_non: `As the strong wind blew Mammon and Sakutaro's hair, they looked down from the hilltop...`
+char_rg5: `"......I can't make out a thing from here.`
+char_rg5: ` Where's the mansion?`
+char_rg5: ` Let's get closer."`
+char_sak: `‘Uryu, ...we can't.`
+char_sak: ` We won't be able to come back.’`
+char_non: `......We won't be able to...come back...`
+char_non: `huh.`
+char_non: `He's right.`
+char_non: ` ......This is 1998,`
+char_non: ` ......and I am the Ushiromiya Ange who has been left all alone.`
+char_non: `At first, it was a journey to die.`
+char_non: ` But not anymore.`
+char_non: `{n}It has become a journey to accomplish something......`
+char_enj: `"Yeah.`
+char_enj: ` ......So, I'm sorry, you two.`
+char_enj: ` As I was back then, on that day, I would have gone down this cliff without any hesitation."`
+char_rg5: `"Come on, this is pretty lame for the skyscraper‐jumping Ushiromiya Ange."`
+char_enj: `"Sorry."`
+char_sak: `‘This place is just as good.`
+char_sak: ` .........Because you can feel the wind of that day.’`
+char_rg5: `"..................`
+char_rg5: ` ......Was the wind...really like this?"`
+char_sak: `‘Yeah.`
+char_sak: ` They will come any moment.`
+char_sak: ` ..................Everyone.’`
+char_non: `Sakutaro said it as though it was completely natural.`
+char_non: `{n}......And...I believed it.`
+char_non: `Mom.`
+char_non: ` Dad.`
+char_non: ` Onii‐chan.`
+char_non: `{n}All of my relatives, and those fun servants.`
+char_non: `{n}And............Maria onee‐chan.`
+char_enj: `"It's me.`
+char_enj: ` ......It's Ange.`
+char_enj: ` ...............I've...come back."`
+char_non: `When I started my final journey to expose the past of twelve years ago, its goal had been abstract, and I hadn't understood.`
+char_non: `But now, ......I have no doubts.`
+char_non: `This journey............was induced by all kinds of thoughts and fates over twelve years.`
+char_non: `A journey to end things...for me, Ushiromiya Ange.`
+char_non: `And a journey to end things...as the final witch of Mariage Sorcière.`
+char_non: `I came here as the final daughter of the Ushiromiya family,`
+char_non: ` and as the final witch......`
+char_enj: `"......Mom, Dad, Onii‐chan.`
+char_enj: ` ...Sorry.`
+char_enj: ` Let me greet Maria onee‐chan first."`
+char_non: `A strong gust of wind from behind urged me on.`
+char_non: `That gust took just my soul out from inside my body, ......to the vast forest beneath me.`
+char_non: `And, though I couldn't see it from where I stood, I believed that it would fly me to the mansion on that day,`
+char_non: ` to where everyone was...to where Maria onee‐chan was.`
+char_non: `And so,`
+char_non: ` ......even though my body was on the top of the hill, a strong wind blowing against me,`
+char_non: ` .........my soul was now certainly dancing through that sky......`
+char_non: `The vast, vast sky of Rokkenjima.`
+char_non: `{n}......Below me was the green of many trees.`
+char_non: `But...I can tell.`
+char_non: ` I can comprehend the presences of my family and relatives, and all the servants.`
+char_non: ` .........And...Maria onee‐chan too.`
+char_non: `I could even comprehend......Maria onee‐chan as a witch.`
+char_non: `It was vast, more vast than any space I had imagined up until now.`
+char_enj: `".........Maria onee‐chan.`
+char_enj: ` Can you hear me......?`
+char_enj: ` Listen......!!"`
+char_non: `Ange shouted to the Maria of that day.`
+char_non: `That she had been through a long journey.`
+char_non: `And that she had learned just how much she had wounded Maria on that day when she was young.`
+char_non: `Having understood magic, I now understand everything about the world Maria wanted to show me.`
+char_non: `It is so warm, and overflowing with kindness and happiness.`
+char_non: `......She had wanted to become even happier by sharing that world,`
+char_non: ` but I had trampled it.`
+char_enj: `"So now, I finally understand everything.`
+char_enj: ` ......I understand...magic...!`
+char_enj: ` Our magic is surely a very humble thing that exists all around us.`
+char_enj: ` ......But it isn't something that just anyone can see with their eyes.`
+char_enj: ` ............Magic is...`
+char_enj: `...yes, I can say it clearly."`
+char_non: `{m:-5:—}—Without love, it cannot be {y:1:‘seen’}{n:1:seen}.`
+char_non: `I'm sorry, Onee‐chan.`
+char_non: `......I've already been excommunicated from the witches' alliance, but...`
+char_non: `{n}...after all this time, I now understand how wonderful it is.`
+char_non: `And.........I know that after that day I wounded you, Mariage Sorcière was...`
+char_non: `...transfigured into something different from what you truly desired.`
+char_non: `.........Back in those days, even magic that allowed you to vent your anger by cursing people was probably important to you.`
+char_non: `Your environment was unhappy enough for you to be allowed that.`
+char_enj: `"But...`
+char_enj: `......now, those unhappy days...are over.`
+char_enj: ` ......So,`
+char_enj: ` ......let's return your witches' alliance...`
+char_enj: `.........back to the original, gentle Mariage Sorcière."`
+char_non: `The grimoire was in my hands without me realizing it.`
+char_non: `......The strong winds were rapidly blowing its pages one after another......`
+char_non: `It had been a kind world at first.`
+char_non: `What to do to create magic so that candy rains from the sky.`
+char_non: `What to do to create magic so that tomorrow's dinner becomes cream croquettes.`
+char_non: `What to do to create magic so that tomorrow's weather is good when you go out, and you have a fun day.`
+char_non: `New magics of happiness were created one after another, coloring her world with kindness...`
+char_non: `Those days were flipped through one after another,`
+char_non: ` .........and the days and months began to flash by like memories...`
+char_non: `The pages with drawings that were colorful...`
+char_non: `gradually changed into pages colored only with black ink......`
+char_non: `......Eerie magic circles, and demon summonings.`
+char_non: `{n}Evil magic for harming people.`
+char_non: `What to do to create magic so that the class bully catches a cold.`
+char_non: `What to do to create magic so that you‐know‐who in class gets seriously injured and dies.`
+char_non: `What to do to create magic so that a bus with all the bullies on it falls off a cliff.`
+char_non: `Malicious magics were created one after another,`
+char_non: ` ......filling the pages and her heart...`
+char_enj: `"It was because I hurt you, Onee‐chan...`
+char_enj: `that Mariage Sorcière ended up like this.`
+char_enj: ` .........You aren't a black, evil witch.`
+char_enj: ` ......You were a white, ......pure, innocent,`
+char_enj: ` ......kind witch......"`
+char_enj: `"......I'll...return you to how you were.`
+char_enj: ` Originally, when you were scattering magic to make people happy across the entire world.`
+char_enj: ` ......I'll turn you back into that Maria onee‐chan."`
+char_enj: `"......That is the reason I came here.`
+char_enj: ` I was guided by fate.`
+char_enj: ` ............Onee‐chan, can you hear me......?`
+char_enj: ` Show yourself.........before me.........!!"`
+char_non: `That voice rode an even stronger wind, and was sent twelve years into the past......`
+char_non: `Then,`
+char_non: ` ......the wind gradually ceased,`
+char_non: ` .........and silence fell......`
+char_non: `Crunch, crunch.`
+char_non: ` ......I could hear the sound of gravel being stepped on.`
+char_non: `I heard those footsteps, and was surprised at that miracle.`
+char_non: `{n}......Without a doubt, those footsteps were Maria onee‐chan's.`
+char_enj: `"............Ma‐......Maria onee‐chan........."`
+char_kas: `"Kasumi.`
+char_kas: ` ......Looks like I finally found you, eh, Ange‐chan.........?"`
+char_enj: `"........................"`
+char_non: `......Before I knew it, Aunt Kasumi and her black‐suits, a total of seven people who didn't resemble Maria onee‐chan in the slightest,`
+char_non: ` were standing there, surrounding me.`
+char_non: `And it felt like my voice had been just about to reach Maria onee‐chan, too......`
+char_non: `...Because of these guys' toxin, .........the magic got interrupted...`
+char_non: `Ange clicked her tongue at that, but Kasumi probably didn't hear it that way.`
+char_kas: `"............Oh?`
+char_kas: ` Are those flowers for your deceased family?`
+char_kas: ` ......How admirable.`
+char_kas: ` You're going to throw them, right?`
+char_kas: ` That's alright, we'll wait that long."`
+char_non: `......Before what.`
+char_non: `{n}...Ange could more or less guess.`
+char_non: `The way the black‐suits had their hands unnaturally stuck into their pockets made me realize that they were obviously in possession of handguns.`
+char_non: `.........This is a deserted island.`
+char_non: `{n}There could be no more convenient place to dispose of someone.`
+char_non: `I have absolutely no interest in the family matters of the Sumadera family.`
+char_non: `...But if I die, all of that wealth will roll right into the Sumadera family coffers.`
+char_non: `Unlike me, they probably have a great deal of interest in it.`
+char_non: `Of course, the Ushiromiya Group has a stake in this, too—it seems that if the massive amounts of stock I own suddenly go to the Sumaderas,`
+char_non: ` it'll be pretty bad for the Ushiromiya Group as well,`
+char_non: ` and so they've apparently gotten themselves embroiled in a secret feud over me.`
+char_non: `......That's probably why President Okonogi gave me Amakusa as a guard.`
+char_non: `............Having Amakusa wait on the boat was a regretful mistake...`
+char_enj: `"How long have you been waiting here in ambush......?"`
+char_kas: `"Since early morning.`
+char_kas: ` And I was getting thoroughly tired of waiting for you.`
+char_kas: ` There are no cafés or powder rooms here, you see."`
+char_enj: `"No toilets either, so I guess you had to elegantly drop a load behind a tree.`
+char_enj: ` .........ack—"`
+char_kas: `"One who, in spite of herself, is a lady with half Sumadera blood flowing through her veins will not use such filthy words.`
+char_kas: ` .........You really are Sumadera Kyrie's child, aren't you?`
+char_kas: ` Not a trace of grace."`
+char_non: `She grabbed me by the hair and forced my face up to hers.`
+char_non: `{n}And then spat in it.`
+char_non: `......My words are filthy, but her spit's not to be outdone.`
+char_enj: `".........Every time you talk about me, it's always with reference to Mom.`
+char_enj: ` ...Am I really that much like my mother?"`
+char_kas: `"Yes, you are.`
+char_kas: ` ...............That impertinent gaze.`
+char_kas: ` Your mouth and nose are the same too."`
+char_kas: `"......Unrestrained and irresponsible.`
+char_kas: ` ......She thought nothing of the long history and tradition of the Sumadera family, and selfishly flew out of the house.`
+char_kas: ` My entire life has been wiping up the messes she left behind...!"`
+char_enj: `"I guess that makes your life one giant pile of shit."`
+char_non: `I was slapped on the cheek, my ear took a heavy hit, and for an instant, my head rang...`
+char_non: `.........She pulled me around by the hair, and threw me onto the ground.`
+char_non: `And without a moment's pause, she kicked the ground, covering me in sand.`
+char_kas: `"Yes, you truly have become so very like Nee‐san.`
+char_kas: ` That gaze!`
+char_kas: ` That gaze like you're somehow making fun of me.`
+char_kas: ` Yes, it's all coming back, all of it!"`
+char_enj: `".........You are pitiful.`
+char_enj: ` I imagine that since you were young, you were always compared against Mom and looked down upon.`
+char_enj: ` ......And for the entire rest of your life, you'll never be released from that misery."`
+char_kas: `"A little brat like you couldn't possibly understand.`
+char_kas: ` ......Your mother, you see, is a loser who threw away everything and ran away from the Sumadera family.`
+char_kas: ` Do you know how much...`
+char_kas: `how {i:much} trouble I went through because of that loser?!!"`
+char_enj: `"Any trouble you went through has nothing to do with me.`
+char_enj: ` Can't really do anything about what happened before I was born."`
+char_enj: `".........When is your life going to begin?`
+char_enj: ` ......It's never going to happen.`
+char_enj: ` You will continue to be sneered at by my dead mother, for ever and ever for all eternity until you die.`
+char_enj: ` ......In fact, why {i:don't} you die?`
+char_enj: ` Why are you alive?"`
+char_kas: `"You little insolent pissant...!!`
+char_kas: ` Men...!`
+char_kas: ` Make her some tea."`
+char_non: `"Heheheh...`
+char_non: ` Leave it to us..."`
+char_non: `"You big‐mouthed shitty brat.`
+char_non: ` Let us teach you a little lesson."`
+char_non: `The black‐suits dashed up to me, violently grabbed me by the collar, and dragged me down.`
+char_kas: `"Do as you like until I finish this smoke.`
+char_kas: ` Teach my darling niece a little of her place."`
+char_non: `Sumadera Kasumi.`
+char_non: ` She was a pitiable person, to think of it.`
+char_non: `To the outside world, the women of the Sumadera family were trained to be in a position to support and defer to the men in the prominent positions.`
+char_non: `......But in actuality, strong leadership was demanded of them so that they could manage all of the people under them.`
+char_non: `The role demanded of them was that of a female commander.`
+char_non: `Taking charge of the Sumadera family with all its proud history required an extraordinary level of commanding presence.`
+char_non: `It was an unimaginably heavy responsibility.`
+char_non: `Normally, this would have been demanded of Kyrie.`
+char_non: `Kyrie had undergone that harsh training.`
+char_non: `{n}And Kasumi, as the younger sister, should have been able to just take it easy.`
+char_non: `No, in fact, she had lived like a lazy, selfish, and affluent princess, sneering at Kyrie, who had been given the heavy responsibility.`
+char_non: `......However,`
+char_non: ` Kyrie was suddenly disinherited.`
+char_non: `She had refused the fiancé her parents had arranged, and had gotten pregnant by her lover, Ushiromiya Rudolf.`
+char_non: `From the Sumadera family's perspective, even though the Ushiromiya family held a vast fortune, it was a family which had already collapsed, a family not in their league.`
+char_non: `And to become not even a legal wife, but a {i:lover} to the second son of that family...`
+char_non: `Normally, no one would be shown mercy for something so dishonorable, not even a daughter of the main family.`
+char_non: `They would wrap her up in a mat, stand a pole on end,`
+char_non: ` and throw her either into the Pacific Ocean if the pole fell to the right or the Sea of Japan if it fell to the left.`
+char_non: `.........But Kyrie's punishment was nothing but disinheritance, an unbelievably lenient decision.`
+char_non: `After that, the Sumadera family began receiving preferential treatment from a section of the Ushiromiya Group.`
+char_non: ` ......There must have been some kind of backroom deal.`
+char_non: `In other words, Kyrie took advantage of the Ushiromiya family's financial support to leave the Sumadera family openly.`
+char_non: `Kasumi watched it happen in shock.`
+char_non: `{n}No, she even disparaged her dishonorable sister as a loser.`
+char_non: `......But eventually...`
+char_non: `...she learned that the heavy responsibilities Kyrie had borne would be passed on to her,`
+char_non: ` and then, for the first time, she realized that she had been outwitted......`
+char_kas: `"Because of your mother, my life was turned into a mess.`
+char_kas: ` ......No, you could even say she killed me once.`
+char_kas: ` On that day, I was killed once and cast down into a hellish life..."`
+char_enj: `".........Isn't that just what you get for thinking you can breeze through life?`
+char_enj: ` ......gyack!`
+char_enj: ` .........*cough*, *cough*......"`
+char_non: `"This girl doesn't know when to shut up!`
+char_non: ` Oorrrrah!"`
+char_non: `The black‐suit punched me in the gut, and I doubled over.`
+char_non: `{n}But I was quickly grabbed by the collar and made to stand up again.`
+char_non: `As she continued to cold‐heartedly look down upon Ange, Kasumi blew out smoke......`
+char_non: `{n}The hard days after Kyrie left were floating through her mind.`
+char_non: `Until then, she had been allowed to be simply a rich young lady, unrestrained and unaffected.`
+char_non: `{n}......Only Kyrie, the older sister, had been strictly trained, and she, the younger sister, had been able to live as nothing more than a princess.`
+char_non: `Then, suddenly, everything was turned over to such a degree that her life tumbled and crashed......`
+char_kas: `"My life, lifestyle, way of living, ......everything was stolen from me.`
+char_kas: ` .........Do you know how much I was maligned based on my sister's dishonor by those relatives who didn't know the details...?`
+char_kas: ` ......I detested her.`
+char_kas: ` I detested your mother enough to make me spit blood..."`
+char_enj: `"Glad to hear it.`
+char_enj: ` I hope it continues for many years to come.`
+char_enj: ` .........gagghh!!"`
+char_non: `A kick landed in Ange's side as she lay prostrate on the ground.`
+char_non: `{n}Ange didn't stand up again.`
+char_non: `......So she continued to lie there like a caterpillar, getting kicked every time she spoke up.`
+char_kas: `"......I saw Nee‐san at an Ushiromiya Group party once.`
+char_kas: ` ......She was with her husband,`
+char_kas: ` .........looking very happy,`
+char_kas: ` ......and laughing.`
+char_kas: ` ......She...`
+char_kas: `...pushed everything onto me,`
+char_kas: ` ......and found happiness...`
+char_kas: `......only for herself........."`
+char_enj: `".........So what?`
+char_enj: ` How is taking it out on me going to make you happy?`
+char_enj: ` Is taking it out on me going to turn back time and change history for you or something?"`
+char_enj: `".........Ugugggh,`
+char_enj: ` .........gah,`
+char_enj: ` .........*cough*......!!"`
+char_kas: `"You said something a short while ago...`
+char_kas: ` When is my life going to begin?`
+char_kas: ` .........No matter how much I despise you or take it out on you, I cannot turn back time.`
+char_kas: ` ......So am I doomed to keep on hating Nee‐san like this for the rest of my life, even though she's dead?"`
+char_kas: `"Not if I can help it.`
+char_kas: ` ......How long must I be tormented by Nee‐san's ghost?`
+char_kas: ` And so I thought.`
+char_kas: ` .........If I could pull this off, I would be able to forget all of my hatred and start over."`
+char_non: `Ange was about to respond to this with another bitter comment, but stopped.`
+char_non: `{n}...Because she would be kicked again if she responded.`
+char_non: `......Even if Kasumi didn't say any more, it wasn't difficult to imagine what she meant.`
+char_non: `{n}Kasumi was thinking of bringing an end to her hatred of Kyrie by taking revenge against her daughter, Ange.`
+char_non: `.........Talk about pushing your problems on other people.`
+char_kas: `"Come on, stand up.`
+char_kas: ` If you like this island that much, I'll bury you here deep.`
+char_kas: ` .........You don't want to die at your age, right?`
+char_kas: ` Don't you want to say "Sorry my mother caused you so much trouble", or something?"`
+char_enj: `".........You...`
+char_enj: `...wish.`
+char_enj: ` .........gkkhhh,`
+char_enj: ` .........glk, ......!!"`
+char_sak: `‘Uryuu!!`
+char_sak: ` Ange, Angeeeeee...!!’`
+char_rg5: `"Ange‐sama, no...!`
+char_rg5: ` You mustn't provoke these guys...!!`
+char_rg5: ` You should at least make it seem like you're going along with them, so you can buy some time...!"`
+char_enj: `".........They do say...`
+char_enj: `that you should throw your foolish pride...`
+char_enj: `out with the garbage......"`
+char_sak: `‘Wh‐what about Amakusa‐san...?!`
+char_sak: ` If Amakusa‐san comes, I just know he'll......!’`
+char_rg5: `"......No, it's no good, I can't see him...`
+char_rg5: ` ......You idiot, Ange‐sama...!`
+char_rg5: ` Why did you come without Amakusa...!"`
+char_non: `I don't need you to tell me that, Mammon.`
+char_non: `{n}......I'm already right in the middle of regretting it.`
+char_non: `I walked a long way to get here.`
+char_non: ` The forest was very thick.`
+char_non: `{n}......There's no way that the disturbance here will reach the boat......`
+char_non: `As Kasumi took her sweet time smoking that single cigarette down to the filter,`
+char_non: ` I was continuously laid into by the black‐suits however they deemed fit.`
+char_non: `The moment I grabbed my head to protect it, the top of my head was kicked by someone at a bad angle, and my head filled with stars......`
+char_non: `{n}This feeling of stars flickering in a world twisted with gray...`
+char_non: `...was one I knew well.`
+char_non: `My life was very similar to the one Sumadera Kasumi led.`
+char_non: `...Because I was tormented constantly with all kinds of bullying under the guise of education and training, to make me a worthy "successor to the Ushiromiya family".`
+char_non: `Yes.`
+char_non: ` Having the inside of my head filled with stars like this...is a feeling I know well.`
+char_non: `When being reprimanded for some error in manners I seemed to have made,`
+char_non: ` the lecture always turned to whether I was fitting to be the successor to the Ushiromiya family or not.`
+char_non: `......On and on about the honor of the Ushiromiya family, and how important it was.`
+char_non: `......By the time her rant reached that point,`
+char_non: ` I would forget what mistake I was being blamed for in the first place.`
+char_non: `No, actually, it was the same way for Aunt Eva too.`
+char_non: `After all, sometimes she would ask herself "Umm, what was I saying again?"`
+char_non: `...But in the end, she wouldn't be able to remember, and would say something like:`
+char_eva: `"The fact that I'm angry must mean that you did something wrong.`
+char_eva: ` So whatever wrong thing you did is the problem, and it isn't important that I can't remember what it was any more."`
+char_non: `...There'd be some ridiculous reasoning like that, and then she would continue punishing me.`
+char_non: `Yes.`
+char_non: ` Aunt Eva's punishments weren't something that would continue until I learned something, or acknowledged my mistake, or apologized.`
+char_non: `.........They would continue until Aunt Eva wanted to stop.`
+char_non: `{n}So even this violence was a bit nostalgic, in a way that made me want to vomit.`
+char_non: `......I opened my eyes, ......and oh look, there's Aunt Eva.`
+char_non: `Right next to Kasumi, who was smoking her cigarette,`
+char_non: ` I could see Aunt Eva, the two of them looking almost as though they were laughing at me together.`
+char_non: `When I think about it, even Aunt Eva's life might be worthy of sympathy.`
+char_non: `......The responsibilities and pressures of members of the Ushiromiya family, which she had so often mentioned to me,`
+char_non: ` were all things that she herself had suffered.`
+char_non: `Because people cannot voice insults that they have never been subjected to themselves......`
+char_non: `It was probably the same way for Aunt Rosa as well.`
+char_non: `{n}......As the youngest child of the glorious Ushiromiya family, she must have gone through many tough times.`
+char_non: `So, just as Aunt Eva acted towards me...`
+char_non: `{n}And just as Sumadera Kasumi is acting right now...`
+char_non: `{n}......Aunt Rosa must also...have been the same.`
+char_non: `People push the suffering they have been made to bear onto other people.`
+char_non: `{n}Otherwise, they can never escape from it.`
+char_non: `......So on and on, in eternity and perpetuity, the chain of suffering and sadness never ends.`
+char_non: `That is the reason............Maria onee‐chan's magic was...`
+char_non: `...so incredible.`
+char_non: `With her magic, ......she did not have to bear the suffering from Aunt Rosa.`
+char_non: `That pain was probably pushed onto her.`
+char_non: `{n}Its weight probably tormented her.`
+char_non: `......But Onee‐chan did not carry that burden on her own shoulders.`
+char_non: `.........She exorcised it...and filled her world with happiness.`
+char_non: `So, I'm sure...`
+char_non: `...that even if Maria onee‐chan had had children in the future...`
+char_non: `...she would never have pushed the suffering forced down through the generations onto them.`
+char_non: `......The chain of suffering and sadness,`
+char_non: ` which had been inherited by and forced upon each generation for who knows how long,`
+char_non: ` .........was, by Maria onee‐chan's magic, broken.`
+char_eva: `"............What is it?`
+char_eva: ` Do you have something to complain to me about?"`
+char_non: `In the past, I would have snapped back.`
+char_non: `{n}......And cancelled out her hatred with hatred of my own.`
+char_non: `...No, I cancelled out nothing.`
+char_non: ` The weight of that which had been forced onto her bears down hard on my shoulders as well.`
+char_non: `After all, even now, ......I hate her.`
+char_non: `So,`
+char_non: ` ............now that I knew of magic,`
+char_non: ` ......I looked at the human called Ushiromiya Eva again.`
+char_non: `.........What I could see through to...`
+char_non: `...was the sad form of a human, no different from me, who had lost her family and who bore deep wounds in her heart.`
+char_non: `Unable to withstand the pain of that torn heart,`
+char_non: ` she was doing nothing except howling with a sad voice—like a lion crying in pain—like a child.`
+char_non: `......It turns out...Ushiromiya Eva was also a person deserving of compassion.`
+char_non: `She had needed someone to understand the difficulties and pain of her childhood days,`
+char_non: ` .........and she, too, as the only survivor of the Rokkenjima incident,`
+char_non: ` who was faced with the inquisitive eyes of all of society, who was publicly slandered, who had salt continually rubbed into her wounds,`
+char_non: ` ......had needed someone's compassion.`
+char_non: `In order to let her forget her pain and sorrow for least a moment,`
+char_non: ` ............the black witch, the very same that possessed Aunt Rosa, ......taught her magic.`
+char_non: `It was the same magic of anger and sadness that {f:5:Beatrice} had taught Maria onee‐chan,`
+char_non: ` when she was mourning for Sakutarou after he was torn apart.`
+char_non: `......That same magic, that witch, had surely dwelled inside Aunt Rosa too.`
+char_non: `............So I was wrong to hate Ushiromiya Eva.`
+char_non: `...Perhaps...`
+char_non: `......I alone was supposed to have become her ally,`
+char_non: ` the only person in the world who could understand her.`
+char_non: `......What did I say to her when I was young, when she returned alive all alone...?`
+char_non: `Could it be...`
+char_non: `......that the way I acted towards her was...`
+char_non: `......as if she had come back by herself after killing all my family......?`
+char_non: `...........................`
+char_non: ` ......I can't believe it.`
+char_non: `...Aunt Eva, who throughout my life has never been more than an object of and synonym for hatred,`
+char_non: ` .........is turning into a...{i:human} who I can understand......`
+char_non: `And so.`
+char_non: ` .........I looked right next to Aunt Eva, ......at the form of the black witch who taught her the black magic......`
+char_non: `Aunt Eva...was crying.`
+char_non: `It was only natural.`
+char_non: `.........Not only did she have no one who would understand her pain of having lost her husband and son all at once,`
+char_non: ` ......but even I, her only relative, insulted her, ......saying "Give me back my mom and dad".`
+char_non: `.........I can make the excuse that it was the mercilessness of youth.`
+char_non: `...But......to her at the time,`
+char_non: ` that was probably cruel enough to sever her heart's last thread.`
+char_non: `..................In the following days, the talk shows and magazines publicly slandered her.`
+char_non: `The truths of her late husband's business and character, and even those about her beloved son, were denied.`
+char_non: `She no longer had anything left.`
+char_non: `She could do nothing but cry and howl, ......trying to forget the pain and sadness for just a few moments.`
+char_non: `Because only while howling could she feel the slightest bit of release.`
+char_non: `And so, .........the black witch taught her how to howl.`
+char_non: `The one I hated...was the black witch.`
+char_non: ` The black magic probably did release her from that suffering for just a short time.`
+char_non: `......However,`
+char_non: ` it would never lift that weight from her shoulders.`
+char_non: `To the contrary, it would force that weight on further victims,`
+char_non: ` .........filling the world with the weight of hatred.`
+char_non: `...............If Aunt Eva was to have a true witch nearby, one who knew of white magic...`
+char_non: `......wasn't that...`
+char_non: `.........supposed to be...`
+char_non: `...me.........?`
+char_non: `I had learned the magic to create happiness from Maria onee‐chan.`
+char_non: `.........If I could have saved her......with that magic,`
+char_non: ` ...............might we not have...`
+char_non: `......built up a future with a completely different relationship?`
+char_non: `All this time,`
+char_non: ` .........I have hated Aunt Eva.`
+char_non: `{n}...So I never noticed the black witch beside her.`
+char_non: `......Without love, it couldn't be {y:1:‘seen’}{n:1:seen}.`
+char_non: `{n}I didn't have...`
+char_non: `...any love for her......`
+char_non: `So now, finally...`
+char_non: `.........I'll glare at the black witch,`
+char_non: ` ......the one I truly should hate.`
+char_ev2: `"......Oh?`
+char_ev2: ` .........What's thiiis?`
+char_ev2: ` You can {y:1:‘see’}{n:1:see} me?`
+char_ev2: ` Ehheheheheh...!"`
+char_enj: `"..................Yes, I can.`
+char_enj: ` ......The one I should've hated wasn't Aunt Eva.`
+char_enj: ` ......It was you."`
+char_ev2: `"Hey, you're pretty good.`
+char_ev2: ` To think that a lowly {y:0:Human}{n:0:human} could {y:1:‘see’}{n:1:see} a witch like me.`
+char_ev2: ` ......And so?`
+char_ev2: ` Are you trying to say something with that glare?`
+char_ev2: ` Do you hate me?"`
+char_enj: `"...............Hate?`
+char_enj: ` ......Yes, I do.`
+char_enj: ` ......But...that's not quite it.`
+char_enj: ` ......I just...find you a little sad."`
+char_ev2: `"Sad?`
+char_ev2: ` `
+char_ev2: `......*giggle*giggle*, ahhahahahahaha!`
+char_ev2: ` What're you saying, come on, you can get mad!`
+char_ev2: ` Why don't you just hate me with all your strength forever?!"`
+char_enj: `"......I won't hate.`
+char_enj: ` ......Hating you...`
+char_enj: `......means I'm doing nothing more than inheriting Aunt Eva's hatred.`
+char_enj: ` ......I'll break the hatred.`
+char_enj: ` ......I'll accept Aunt Eva's suffering, .........exorcise it, and throw it away."`
+char_ev2: `"Ahhahahahahahahaha!!`
+char_ev2: ` What kind of epiphany do you think you've had?`
+char_ev2: ` Is your head alright?`
+char_ev2: ` I mean, why don't you just give up and die foreveeeer?!"`
+char_ev2: `"Kyaahhahhahahahahahaha!`
+char_ev2: ` You guys, kick her more and more, okay?`
+char_ev2: ` Not her face, though.`
+char_ev2: ` It wouldn't do any good kicking her pitiful face only to make it better!"`
+char_enj: `"Guhhkk!`
+char_enj: ` .........*cough*!!`
+char_enj: ` ...............g'......"`
+char_non: `The black‐suits persistently kicked my stomach and back.`
+char_non: `{n}......As though they had been ordered to by the black witch.`
+char_kas: `"......Dear me, still nothing to you, is it......?`
+char_kas: ` ............You keep staring right at me.`
+char_kas: ` You hate me?`
+char_kas: ` I'll bet you do.`
+char_kas: ` I hate you too.`
+char_kas: ` *snicker*snicker*snicker*......"`
+char_non: `Kasumi sneered at me.`
+char_non: ` ......But for some reason, I had the feeling that she was crying behind that expression.`
+char_non: `She's had a life just as unfair as mine forced upon her, and the pain of that never, ever heals.`
+char_non: `......The sad lion continues to howl, gasping in pain from the thorn he can't get out...`
+char_ev2: `"Hey, Sumadera Kasumi, take a look.`
+char_ev2: ` That over there is what you used to be."`
+char_ev2: `"......Doesn't that make you feel so much better?`
+char_ev2: ` You used to be standing there, but now you're on this side, you know that?`
+char_ev2: ` Eheheheh, isn't it delightful?`
+char_ev2: ` Now the shoe is on the other foot!"`
+char_kas: `"...............Yes, it truly does feel...`
+char_kas: `......delightful.........`
+char_kas: ` Ahhahahahaha, how can you make that kind of face, Ange...?!`
+char_kas: ` Go on and cry, you want to, right?!"`
+char_ev2: `"Kyahhahahahahahaha!!`
+char_ev2: ` Yes, yes, of course she wants to cry!`
+char_ev2: ` Go on, make her cry."`
+char_ev2: `"You were made to cry back then, weren't you?`
+char_ev2: ` So make her cry too.`
+char_ev2: ` *giggle*, and Ange, it's alright, okay?`
+char_ev2: ` Why not cry foreveeeeeeeer?!`
+char_ev2: ` Kyaaaha‐hah‐hah‐hah‐hah‐hah!!"`
+char_kas: `"...Aha, ...ahahahahahahaha!!`
+char_kas: ` Cry, Angeee!`
+char_kas: ` I want to see your crying face!`
+char_kas: ` Cry, and try saying "I'm sorry, Aunt Kasumi"...!!"`
+char_ev2: `"Yes, make her say those words.`
+char_ev2: ` ......Those words hurt, right?`
+char_ev2: ` Being made to apologize for something that isn't your fault......hurt a lot, didn't it......?"`
+char_ev2: `"Make her go through the same thing...`
+char_ev2: ` By doing that, you can relieve your pain."`
+char_ev2: `"......Ehheheheh, yes, that's the way.`
+char_ev2: ` Be more honest with yourself.`
+char_ev2: ` Why not spit out your emotions more and more and more foreveeeeeeeer?!"`
+char_non: `......The black witch stirred Kasumi up.`
+char_non: `{n}And Kasumi began to give herself over to that dark emotion.`
+char_non: `......She was doing nothing more than turning her deep sadness into cheap booze and forcing it down,`
+char_non: ` trying to forget for just a brief moment.`
+char_non: `The words Kasumi insulted me with...`
+char_non: `......were themselves...`
+char_non: `...sad.`
+char_non: `And...I couldn't forgive the black witch for taking advantage of Kasumi's sadness.........`
+char_non: `.........I had gone limp on the ground, which seemed to have sapped the black‐suits of their enthusiasm for kicking.`
+char_non: `...Or maybe the kickers had finally gotten tired too.`
+char_non: `Kasumi hadn't ordered them to stop, but at some point, the violence had halted.`
+char_non: `However, I was reflected in Kasumi's eyes, and they were burning me with flames of hatred.`
+char_non: `......She had been tempted by the witch into doing that in order to relieve her own pain.`
+char_ev2: `".........Sumadera Kasumi.`
+char_ev2: ` You aren't done.`
+char_ev2: ` You've got much more trampling to do.`
+char_ev2: ` Can you forgive what happened to your entire life with just this little bit of violence?"`
+char_kas: `"...I can't forgive what happened.`
+char_kas: ` ......It'll take a lot more than this for me to forgive that."`
+char_ev2: `"Right?`
+char_ev2: ` There's no way you can forgive!`
+char_ev2: ` Do it more!`
+char_ev2: ` More of the flames of hatred!`
+char_ev2: ` Nothing can warm you except the flames of hate.`
+char_ev2: ` You are freezing in the snow fields of anger and sadness, and the only flame that can warm you up is hatred...!!"`
+char_ev2: `"Come on, say it!`
+char_ev2: ` Scream it!!`
+char_ev2: ` Why don't you burn yourself to ashes with a roar of hate foreveeeeeeer?!"`
+char_kas: `"U‐......USHIROMIYA ANGEEEEEEEEE!!`
+char_kas: ` Loathing you......is what allows me to draw breath!!`
+char_kas: ` Ehhehe{0}he{0}ha{0}hha{0}ha{0}ha{0}ha{0}ha{0}ha{0}ha{0}ha{0}hahaha!!"`
+char_ev2: `"Sumadera Kasumi, that bouquet of flowers.`
+char_ev2: ` .........These flowers are for your dead family, right, Ange?"`
+char_non: `The black witch grinned at me unpleasantly, and used her chin to signal Kasumi to pick them up.`
+char_non: `Kasumi picked up the flowers I was going to offer,`
+char_non: ` .........brought them all the way over to me, dropped them in front of me, and made a show of trampling them...`
+char_non: `Her expression was filled with hatred, ......and a frantic quality that simple hatred couldn't explain.`
+char_non: `...It was as if trampling them over and over again was the only way to prevent the sadness inside her from reaching the bursting point.`
+char_non: `So the sound of her trampling was downright sad.`
+char_ev2: `".........Oh, this isn't enough to get to you?`
+char_ev2: ` Then what about this?`
+char_ev2: ` Sumadera Kasumi!`
+char_ev2: ` Use this one."`
+char_enj: `"......N‐.........no......`
+char_enj: ` ...Not that........."`
+char_non: `The object the black witch pointed at.........was Maria onee‐chan's grimoire.`
+char_non: `Kasumi also noticed it, and picked up that book, which was heavier than it looked...`
+char_kas: `"What's thiiis?"`
+char_ev2: `"*giggle*.`
+char_ev2: ` ......Why not read it and laugh forever?`
+char_ev2: ` Eheheh, you might split your sides laughing..."`
+char_non: `Kasumi opened the grimoire,`
+char_non: ` ......skimmed over the contents, and snorted derisively.`
+char_enj: `"Give it back......`
+char_enj: ` That's......Onee‐chan's............"`
+char_non: `Of course, my hand couldn't reach.`
+char_non: `......My stomach was once again kicked by the black‐suits, and I curled up on the ground...`
+char_ev2: `"See?`
+char_ev2: ` See how important this book is to Ange?`
+char_ev2: ` Mock the things that are important to her.`
+char_ev2: ` That works better than punching or kicking for a girl like her.`
+char_ev2: ` ......You know that better than anyone, right...?"`
+char_non: `Kasumi's face twisted for an instant, as though remembering something painful.`
+char_non: `......But that quickly disappeared, changing into a scornful smile directed towards me.`
+char_kas: `"*giggle*giggle*.`
+char_kas: ` Wowww, what a freaky book.`
+char_kas: ` ......Did you write this.........?"`
+char_enj: `"......Stop it...... Give it back........."`
+char_ev2: `"*giggle*giggle*giggle*, *giggle*giggle*!!`
+char_ev2: ` Look at that face...!`
+char_ev2: ` Mock it more, mock it more...!`
+char_ev2: ` Teach her the pain of having your dignity trampled, that's the only way to soften your own pain...!"`
+char_kas: `"Heh, heheheheh, what's with this embarrassing book...`
+char_kas: ` ............I know some people develop a little interest in make‐believe fortune telling when they're young girls."`
+char_kas: `"But isn't this taking it a bit too far?`
+char_kas: ` Oh god, it says "magic".`
+char_kas: ` ......You're one of those, aren't you.`
+char_kas: ` You know, that thing in cartoons where they say some "blabbity‐blibbity‐woo" spell and transform into a witch.`
+char_kas: ` You're one of those people who like doing that, aren't you?`
+char_kas: ` .........This is just painful.`
+char_kas: ` *snicker*snicker*."`
+char_non: `Cackling, Kasumi opened to a random page and showed it to the black‐suits.`
+char_non: `The black‐suits looked too, and guffawed.`
+char_non: `That laughter wouldn't wound me.`
+char_non: `......But I couldn't forgive it.`
+char_non: ` ...After all, that laughter was ridiculing Maria onee‐chan.`
+char_non: `I don't hate Kasumi.`
+char_non: ` ......For exploiting Kasumi's unhealing anger and sadness, ......I cannot forgive the black witch...`
+char_non: `That black witch ate into Aunt Eva, Sumadera Kasumi, and Aunt Rosa,`
+char_non: ` ......tormenting them for an eternity without letting their wounds be healed.`
+char_non: `.........I can't forgive her......`
+char_non: `{n}......I can't forgive.........the black witch......`
+char_kas: `"Oh my god, this is priceless...!`
+char_kas: ` ......Magic for making candy rain from the sky, ......it says!!`
+char_kas: ` Ahhaha{0}hahaha...!"`
+char_kas: `"Let's see.`
+char_kas: ` Dissolve sugar in cold water purified by the sun...?`
+char_kas: ` Dip the magic wand in, and say the incantation, .........*cackle*cackle*cackle*, ahhaha{0}ha{0}ha{0}ha{0}ha{0}hahaha!!`
+char_kas: ` What the hell?!`
+char_kas: ` Ahhaha{0}ha{0}ha{0}ha{0}hahaha...!!`
+char_kas: ` Criiiiiiiiinge!!"`
+char_non: `The black‐suits also rolled around, guffawing.`
+char_non: `Then, grinning, the black witch whispered something into Kasumi's ear.`
+char_non: `......Then, after glaring at me with a grin, ......Kasumi took that page—`
+char_enj: `"......Ah—"`
+char_non: `Kasumi grabbed hold of that page, tore it out, crumpled it up, ......and threw it away......`
+char_sak: `‘Th‐......that's so mean... ......That was...Maria's magic.........’`
+char_ev2: `"Oh, really?`
+char_ev2: ` Heheh, how sad."`
+char_non: `......It was one of the magics to summon happiness...`
+char_non: `...that Maria had made with Sakutarou.`
+char_non: `Anyone knows that making sugar water, coloring it with paint, and leaving it by the window...`
+char_non: `...isn't going to make candy rain from the sky.`
+char_non: `But after repeating that every day, ......one time when she got back from school...`
+char_non: `...she found several pieces of candy scattered around that place...`
+char_non: `.........How happy must that miracle have made Maria onee‐chan.`
+char_non: `......What good care she must have taken of those candies, savoring them during her nights all alone with Sakutarou, to distract herself from her loneliness.`
+char_non: `That......magic which Onee‐chan had created...`
+char_non: `......was torn out, thrown away,`
+char_non: ` ...and disappeared......`
+char_non: `The entire miracle of happiness created by that magic,`
+char_non: ` ......she tore out and threw away......`
+char_kas: `"Oh, this one's another classic...!`
+char_kas: ` Magic to make dinner be cream croquettes?`
+char_kas: ` Ahhaha{0}ha{0}hahaha!!`
+char_kas: ` ......What's this next one?`
+char_kas: ` Magic to make bell peppers taste nice?`
+char_kas: ` This is amazing, ridiculous!`
+char_kas: ` Ah‐hah‐hah‐hah‐hah...!!"`
+char_ev2: `"Tear that too.`
+char_ev2: ` Eheheh!!`
+char_ev2: ` Why not tear it more and more foreveeeeeer?!?!"`
+char_non: `With a cruel‐hearted, loud laugh,`
+char_non: ` ......the black witch made her tear out Maria onee‐chan's magics one after another......`
+char_non: `She...sneered at those happy magics,`
+char_non: ` ......ripped them out,`
+char_non: ` ......and threw them away......`
+char_rg5: `"Stop it... Stop it......!!`
+char_rg5: ` Don't......defile Lady {f:5:Maria}'s magic...!!`
+char_rg5: ` Don't defile it......with your filthy toxin...!!"`
+char_non: `Mammon cried and yelled, ......but she had no way of reaching Kasumi.`
+char_ev2: `"Who cares, why don't you just be defiled foreveeeer?!`
+char_ev2: ` Magical miracles?`
+char_ev2: ` Magic to bring happiness?`
+char_ev2: ` Doesn't exist, there's no such thing!"`
+char_ev2: `"Pain and suffering, you see, can only be healed by pushing them onto someone else.`
+char_ev2: ` ......Now you, you were what they call a "magic friend", right?`
+char_ev2: ` *cackle*cackle*cackle*!`
+char_ev2: ` Sumadera Kasumi, open up to her page."`
+char_kas: `"What's this?`
+char_kas: ` Magic friends, it says.`
+char_kas: ` ............The Seven Sisters of Purgatory?"`
+char_kas: `"Ahah, what a creepy name!`
+char_kas: ` *giggle*, it says they can fly at awesome speeds, and finish off the enemy for you.`
+char_kas: ` Ahhaha, Ange, if you can use this kind of magic, shouldn't you use it right now?`
+char_kas: ` .........Ahhaha{0}hahaha.`
+char_kas: ` Stupid!"`
+char_non: `The pages that wrote of the Seven Sisters of Purgatory were also heartlessly torn away.`
+char_non: `......The pages themselves were just paper.`
+char_non: `{n}They weren't Mammon's vessel or anything.`
+char_non: `But the tearing, denying toxin burned Mammon from the inside......`
+char_non: `Mammon's face twisted from the heat and pain...`
+char_rg5: `".........ghhh, ...............kkkhhh, ........."`
+char_sak: `‘Are you okay, Mammon?!`
+char_sak: ` Hang in there......!!’`
+char_rg5: `"......I can......handle it...`
+char_rg5: ` ......It's not me......but Ange‐sama.........who's in pain........."`
+char_non: `However, Mammon's expression was twisted in unbearable pain and humiliation......`
+char_sak: `‘Stop it, black witch......!!`
+char_sak: ` Why are you doing something like this?!`
+char_sak: ` Why......can't you use magic for happiness?!!’`
+char_ev2: `"......Oh, you're a magic friend too, right?`
+char_ev2: ` *giggle*, I'll defile you too.`
+char_ev2: ` Sumadera Kasumi, look for this guy's page, too."`
+char_kas: `"What's this one?`
+char_kas: ` What's with this crappy scribble of a lion?`
+char_kas: ` ......Sakutarou?`
+char_kas: ` What a weird name!`
+char_kas: ` My best friend, it says.`
+char_kas: ` Really?`
+char_kas: ` This is your friend? Your close friend?`
+char_kas: ` This lion is? Is it, is it?"`
+char_ev2: `"Ahhahahahahahaha!!`
+char_ev2: ` It really is a crappy scribble.`
+char_ev2: ` So this butt‐ugly lion is you."`
+char_ev2: `"To think she had something like this as a friend... That Ushiromiya Maria kid's mind is so unbelievably wretched my sides are hurting.`
+char_ev2: ` .........What a morrrrron.`
+char_ev2: ` Why not give up and die foreveeeeeer......?"`
+char_sak: `‘U...ryu......`
+char_sak: ` .........Don't make fun......of Maria......’`
+char_enj: `"...............St......op......it.........`
+char_enj: ` ...Don't rip it........."`
+char_non: `""No waay.""`
+char_non: `There was a shrill tearing sound.`
+char_non: ` .........And the page was filthily ripped out...`
+char_non: `The picture of Sakutarou...`
+char_non: `...that Onee‐chan had drawn...`
+char_non: `...was violently ripped in half.........`
+char_ev2: `"What a shhhhhitty drawi~ng.`
+char_ev2: ` Kyahhaha{0}ha{0}ha{0}ha{0}ha{0}ha{0}ha{0}hahaha...!"`
+char_kas: `"You all laugh too.`
+char_kas: ` Aahha{0}ha{0}ha{0}ha{0}ha{0}hahaha...!"`
+char_non: `Obeying the pair, the black‐suits laughed crudely,`
+char_non: ` ......and heartlessly trampled all over the paper that had been torn and thrown away......`
+char_sak: `‘Uuuuuuuuuuuu, ......hic!`
+char_sak: ` ......Uuuuuuuuuuu......’`
+char_rg5: `"......Sakutaro, ......be strong........."`
+char_sak: `‘I'm...not sad......`
+char_sak: ` ...I just......can't stand it......`
+char_sak: ` ......Maria's being made fun of,`
+char_sak: ` .........and I can't do anything about it...`
+char_sak: ` ......I can't stand it......’`
+char_rg5: `"........................`
+char_rg5: ` ......To {y:0:Human}{n:0:human}s who can't {y:1:‘see’}{n:1:see} us, ......it's as though we don't exist...`
+char_rg5: ` ......We can only interact with {y:0:Human}{n:0:human}s that need us.`
+char_rg5: ` ............That's why.........we're furniture........."`
+char_non: `As Sakutarou and Mammon......supported each other,`
+char_non: ` ......they slumped down, ...sobbing...`
+char_non: `I couldn't stand it either......`
+char_non: ` ......Only those who can {y:1:‘see’}{n:1:see} the world of magic can understand how wonderful it is.`
+char_non: `It can't be explained to humans who can't understand.`
+char_non: ` And so it is mocked.`
+char_non: `{n}.........If only you could show it...`
+char_non: `......But you can't......`
+char_non: `Because, in front of {y:0:Human}{n:0:human}s who are filled with the anti‐magic toxin and who can't understand magic,`
+char_non: ` .........magic cannot be used......`
+char_kas: `"I really don't get it.`
+char_kas: ` From this delusional diary, I've got to assume that something's wrong with your head.`
+char_kas: ` ......It really is interesting to take a peek into your happy‐go‐lucky little mind.`
+char_kas: ` You creepy child."`
+char_ev2: `"You and Maria.`
+char_ev2: ` ......And that stuffed animal and the furniture over there too.`
+char_ev2: ` *giggle*giggle*giggle*!!`
+char_ev2: ` Ahhaha{0}ha{0}ha{0}ha{0}ha{0}ha{0}hahaha!"`
+char_kas: `"Aah, I could laugh.`
+char_kas: ` You don't have any friends, do you?`
+char_kas: ` You're allllways all alone, and stuffed animals are your friends, right?`
+char_kas: ` What a pitiable child."`
+char_kas: `"Ehheheheheheheheheh...!`
+char_kas: ` Don't worry, I understand.`
+char_kas: ` I know what it's like to live that way.`
+char_kas: ` .........So I'll be the one to recognize you for what you are.`
+char_kas: ` You really are a pitiful little child.`
+char_kas: ` Ehhehehha{0}ha{0}ha{0}ha{0}ha{0}hahaha!"`
+char_non: `.........So, to you,`
+char_non: ` ......she looks like a pitiful child.`
+char_non: `Yes, I'm sure she does.`
+char_non: `If a hundred people were to read Onee‐chan's diary and grimoire, all one hundred would probably get that same impression.`
+char_non: `......I used to be one of them.`
+char_non: `But you know,`
+char_non: ` .........in spite of all that,`
+char_non: ` ......Maria onee‐chan...`
+char_non: `...still called this a world of happiness.`
+char_non: `.........Don't deny...`
+char_non: `......that magic, ...that happiness......`
+char_ev2: `"Such a stubborn child, you are.`
+char_ev2: ` ......Alright, fine.`
+char_ev2: ` This is the last one.`
+char_ev2: ` I'll tear apart the source of the absolutely ridiculous magic that you and Maria believed in.`
+char_ev2: ` Sumadera Kasumi, read this page."`
+char_kas: `"Hmmm, what is this colorful page......?`
+char_kas: ` ...Let's see.`
+char_kas: ` .........Magic to...`
+char_kas: `...always be friends with Mama who I love...?"`
+char_sak: `‘N‐noooooooooo!!`
+char_sak: ` Not that page......!!’`
+char_kas: `"Oh?`
+char_kas: ` This magic is really simple.`
+char_kas: ` I think even I could do it without any practice at all.`
+char_kas: ` .........Even I can remember an incantation this short.`
+char_kas: ` Shall I give it a go?"`
+char_ev2: `"*giggle*giggle*, it really is a short incantation, isn't it?`
+char_ev2: ` Alright, give it a try, let's all burst it out!"`
+char_non: `With expressions that ridiculed it from the bottoms of their hearts, the black witch and Kasumi......puckered their lips in the most exaggerated way they could,`
+char_non: ` ............and said it aloud......`
+char_kas: `"Uu‐uu."`
+char_non: `The black‐suits stared blankly, asking what that was supposed to be.`
+char_non: `{n}Then Kasumi answered, cackling.`
+char_kas: `"This is supposed to be the "incantation".`
+char_kas: ` Are you kidding me...!`
+char_kas: ` Ahhahahahahahaha...!!!"`
+char_ev2: `"Come on, why don't you guys try it too?`
+char_ev2: ` Uu‐uu‐uu."`
+char_non: `The black‐suits imitated that moaning voice, making fun of it......`
+char_non: `{m:-5:———}—“Uu‐uu.”`
+char_non: `{n}That was the incantation...for the magic that would let her always be friends with the mama she loved.`
+char_kas: `"What is this stupidity...!!`
+char_kas: ` If you could make family relationships better just by saying "uu‐uu", we would have world peace forever.`
+char_kas: ` Ahah‐hah‐hah‐hah‐ha!!"`
+char_ev2: `"Uu‐uu‐uu!`
+char_ev2: ` A stupid moaning voice!`
+char_ev2: ` If you do this over and over again, people are going to think you're a poor kid with mental problems!`
+char_ev2: ` Are you retarrrrrded?!`
+char_ev2: ` Waaahahha{0}ha{0}ha{0}haha, waaaha{0}ha{0}ha{0}hahaha!!"`
+char_sak: `‘Stoooooop...... At least don't mock......that magiiiiiiiic......’`
+char_non: `............One day when Maria onee‐chan and Aunt Rosa had gone on a picnic together.`
+char_non: `It was written that this was one of the five happiest days of her life.`
+char_non: `And Onee‐chan was singing her mama a song that she had just learned from her.`
+char_non: `......Onee‐chan was happy to see that her mama was enjoying it very much.`
+char_non: ` But partway through, she forgot the lyrics.`
+char_non: `But her mama was enjoying it so much, so she tried to sing until the very end.`
+char_non: `With "uu‐uu‐uu".`
+char_non: `......She sung it with fake lyrics, but her mama was very pleased......`
+char_non: `After that, "uu" remained as an incantation to remember that day she had spent in fun and happiness with her mama.`
+char_non: `Of course, even though Aunt Rosa thought it funny at first, eventually she tired of hearing it,`
+char_non: ` and later on, started to scold Onee‐chan whenever she said it,`
+char_non: ` ......but to Onee‐chan, it was a memory of a fun day that she could never forget......`
+char_non: `So among the magics that Maria created, it was the oldest and the first......`
+char_non: `Kasumi stuck her fingernails into that page too......`
+char_enj: `"......Stop,`
+char_enj: ` ............don't tear it......`
+char_enj: ` At least spare...`
+char_enj: `......that page........."`
+char_kas: `"Ehheheheheheheheheh!`
+char_kas: ` No waay!!"`
+char_non: `............With a shrill sound, a girl's world of happiness...`
+char_non: `was...`
+char_non: `erased.`
+char_ev2: `"Uu‐uu‐uu!`
+char_ev2: ` Aaaa‐hah‐hah‐hah‐hah‐hah, aaaaahah‐hah‐hah‐hah!!`
+char_ev2: ` Is this your magic of happiness?`
+char_ev2: ` Hilarious, hilarious...!!"`
+char_ev2: `"Why would you ever think that magic could make people happy?!`
+char_ev2: ` Magic—listen now—is made of...anger...and hatred!"`
+char_ev2: `"Happiness is what you call the feeling of release you get only when you've pushed all of the hatred you bear onto someone else.`
+char_ev2: ` The happiness you all are talking about is a phantom that doesn't show up outside picture books!!"`
+char_non: `As Kasumi laughed her head off, she slammed the grimoire against the ground, and stepped on it.`
+char_ev2: `"Can't stand it?`
+char_ev2: ` Well? Can't stand it?!`
+char_ev2: ` You white witches of happiness?`
+char_ev2: ` If you can't stand it that much, why don't you show us?!`
+char_ev2: ` Show us your magic!!"`
+char_ev2: `"If it exists, then you just have to use it and show us, riiiiight?`
+char_ev2: ` .........A witch that can't use magic isn't a witch!!`
+char_ev2: ` So we are the real witches.`
+char_ev2: ` You're just brats trying to escape reality with a dream of magic!!"`
+char_enj: `...............Then,`
+char_enj: ` .........if I can show you magic, ......will you...`
+char_enj: `......believe in Onee‐chan's magic.........?`
+char_ev2: `"Huh?`
+char_ev2: ` Kyahhahahaha, oh yes, oh yes!!`
+char_ev2: ` I'll believe!`
+char_ev2: ` If you {i:can} use magic and show me, that i~s!!`
+char_ev2: ` Go on then, do it, you shit‐for‐brains little braaaaaat!!"`
+char_non: `...........................`
+char_non: ` .........`
+char_non: `Silently, slowly,`
+char_non: ` ......I stood up.`
+char_non: ` ......The sensations of this small world, such as the pain in my body, felt truly insignificant......`
+char_kas: `"Oh, looks like you've still got enough energy to stand up, Miss Great Witch?`
+char_kas: ` *snicker*snicker*!"`
+char_ev2: `"Now that you've stood up, what are you going to show us?`
+char_ev2: ` Go on, show us your magiiic...!"`
+char_enj: `".....................Magic...exists."`
+char_kas: `"Whaa?`
+char_kas: ` What's this kid coming out with now...?!`
+char_kas: ` Did you guys hear that?!"`
+char_ev2: `"Quiet!!!`
+char_ev2: ` ............Heh, isn't that interesting.`
+char_ev2: ` ...You people have always declined to show this power of miracles because of the anti‐magic toxin.`
+char_ev2: ` .........Disciple of the white witch {f:5:Maria}.`
+char_ev2: ` Try showing me magic...!!"`
+char_enj: `"..........................."`
+char_ev2: `"......Do you have any clue how many humans have believed in that miracle and been betrayed?"`
+char_ev2: `".........*giggle*.`
+char_ev2: ` Every one of them believed!`
+char_ev2: ` Every one of them was betrayed and despaired!`
+char_ev2: ` And they all learn that true magic can only be gained by the power of black witches like me...!!"`
+char_enj: `"...............Taking your hatred out on someone else is nothing more than a crime.`
+char_enj: ` That isn't magic.`
+char_enj: ` .........I'll show you what real magic is."`
+char_ev2: `"...............Y‐you..............."`
+char_non: `The black witch winced slightly.`
+char_non: `{n}However, Kasumi sneered at me even more.`
+char_kas: `"Show me, then.`
+char_kas: ` So? What kind of magic are you going to show me?`
+char_kas: ` Magic to make candy rain from the sky?`
+char_kas: ` Or else magic to make cookies multiply?"`
+char_kas: `"............Wagh?!"`
+char_non: `The instant I opened my eyes, a tremendous wind arose.`
+char_kas: `"Wh‐......what is this, all of a sudden.........?!"`
+char_enj: `"Come, arise, the Seven Sisters of Purgatory."`
+char_ev2: `".........Whaaat......"`
+char_non: `There was a flash behind me, and in an instant, seven high‐level furniture were gathered there.`
+char_non: `{n}It was a power that far surpassed the magical power I'd had in my prime.`
+char_non: `{n}It was a power that matched even Maria onee‐chan and {f:5:Beatrice}.`
+char_rg1: `"The Seven Sisters of Purgatory, right here...!!"`
+char_rg5: `"......A‐Ange‐sama......!"`
+char_enj: `"You said it once.`
+char_enj: ` ......Because I lacked magical power and resolve,`
+char_enj: ` ......I could not use you or your sisters.`
+char_enj: ` ............This isn't some cheap emotion, like wanting to get back at my bullying classmates."`
+char_enj: `"...In order to protect Maria onee‐chan's, .........Mariage Sorcière's world,`
+char_enj: ` ......I now order you to show me the miracle of magic."`
+char_rg5: `"I‐it's impossible...`
+char_rg5: ` There's just no way, not with such a mass of toxin in front of us........."`
+char_non: `The Seven Sisters also remembered what had once happened in that classroom.`
+char_non: `{n}......If they could have obeyed Ange's order, they would have.`
+char_non: `......However, ......surrounded by the toxin that runs thick in {y:0:Human}{n:0:human}s, they hadn't been able to display the miracle of magic.`
+char_non: `......And they remembered very well how deeply that had hurt Ange......`
+char_non: `But Ange spoke very quietly.`
+char_enj: `"In that case.`
+char_enj: ` You all believe too."`
+char_rg5: `"......Huh?"`
+char_enj: `"............Mariage Sorcière was created to make people happy.`
+char_enj: ` ...And also to fight the black witch."`
+char_enj: `"The foolish black witch denies the world created by one of the founders, the Witch of Origins, Lady {f:5:Maria}.`
+char_enj: ` ......In order to show her that miracle,`
+char_enj: ` ......and in order to protect that world,`
+char_enj: ` .........believe.`
+char_enj: ` In magic.`
+char_enj: ` In witches.`
+char_enj: ` Right now—in the miracle...!"`
+char_non: `Kasumi gave an order to the black‐suits, and one of them took out a gun and pointed it at Ange.`
+char_kas: `"You're going to show us magic, right?`
+char_kas: ` Then show us, if you would.`
+char_kas: ` Use magic to shoot this man down with a fireball or lightning or something."`
+char_kas: `"You get one chance.`
+char_kas: ` .........Show us before I count to three, alright?`
+char_kas: ` If you can't, then you had best prepare yourself, okay?`
+char_kas: ` Ehheheheheh!"`
+char_enj: `"...........................`
+char_enj: ` ..................Shoot me."`
+char_non: `"What's with this kid.`
+char_non: ` Hehheheh, she's fuckin' crazy."`
+char_non: `The black‐suit pointing the gun laughed at Ange's composure.`
+char_ev2: `"Ahhahahahahaha!!`
+char_ev2: ` Are you serious?!`
+char_ev2: ` This girl's living in cloud cuckoo land!`
+char_ev2: ` In that case, get yourself shot! Why don't you just die foreveeeeeeer?!"`
+char_sak: `‘Ange...!!`
+char_sak: ` ......I‐it's impossible!`
+char_sak: ` You can't block bullets with magic......!!’`
+char_enj: `"No.`
+char_enj: ` There's nothing to be afraid of.`
+char_enj: ` ............To my magic, to the Seven Sisters of Purgatory, bullets are like nothing."`
+char_rg5: `"A‐Ange‐sama........."`
+char_non: `Mammon was flustered by Ange's absolute trust.`
+char_non: `{n}......She would have loved to live up to that trust, if only she could.`
+char_non: ` On that day as well.`
+char_non: `But, ......she had been unable to do anything, and she had hurt Ange.........`
+char_non: `"Hehheheh, you little shit.`
+char_non: ` You can use magic, huh? Then goddamn show us already."`
+char_non: `"What's the hold up?`
+char_non: ` Show us some magic, right now!!"`
+char_non: `"Come on, no need to hold back!`
+char_non: ` Shazow!`
+char_non: ` Blast me with some magic, I dare ya!!`
+char_non: ` Hihhehhehheh!"`
+char_non: `The black‐suits jeered at her.`
+char_non: `{n}But Ange simply concentrated her mind in silence......`
+char_ev2: `"Why not just shoot and kill her forever?!`
+char_ev2: ` She's even telling you to shoot her!"`
+char_kas: `"......This kid's already lost her mind from fear.`
+char_kas: ` Bye‐bye, Ange‐chan.`
+char_kas: ` ......Go and play witches as much as you want in heaven.`
+char_kas: ` ......Shoot her."`
+char_non: `"Heheh, you sure?"`
+char_kas: `"Shoot!`
+char_kas: ` Die, Ange!!"`
+char_ev2: `"Magic it up, brat, if you can!!!"`
+char_non: `The black‐suit cocked the gun, and, sneering, he...pulled the trigger.`
+char_enj: `"................................."`
+char_non: `A gunshot rang out,`
+char_non: ` .........and the world...stopped.`
+char_non: `A red spray scattered,`
+char_non: ` .........and chunks of flesh flew.`
+char_rg5: `"...uh, ...............ah......"`
+char_rg1: `"What are you doing, Mammon?`
+char_rg1: ` ......You would let this boorish pebble of a bullet reach Ange‐sama?"`
+char_non: `Lucifer had lined up the bullet perfectly, and with a single swing, ......had sliced it in two......`
+char_non: `And......in the chest of the black‐suit who had apparently fired the gun......there was a hole as big as a fist...`
+char_rg2: `".........Every once in a while,`
+char_rg2: ` it's alright for me to go first, right?"`
+char_non: `Half of Leviathan's body was covered with blood, and she wore a cold smile.`
+char_non: `......Then, slowly, .........the pitiful prey that she had brought down...fell over.`
+char_rg5: `"Y‐......you pierced...a {y:0:Human}{n:0:human}......!!!"`
+char_rg3: `"Idiot!`
+char_rg3: ` Do you still not believe?!`
+char_rg3: ` In our master's magic power...!!"`
+char_ev2: `"Are......you...kidding me.........?!?!`
+char_ev2: ` You ma‐manifested...in front of this many {y:0:Human}{n:0:human}s?!?!"`
+char_kas: `"Wh‐.........what the...what?!"`
+char_non: `Kasumi and the rest were thrown into confusion...`
+char_non: `He certainly seemed to have fired the gun......`
+char_non: `{n}However,`
+char_non: ` ......it hadn't hit Ange,`
+char_non: ` .........and why...`
+char_non: `...was the person who fired...`
+char_non: `...instead......?!`
+char_enj: `"......This is...magic.`
+char_enj: ` ......Great job, Leviathan."`
+char_rg2: `"I am most honored...!!`
+char_rg2: ` You foolish {y:0:Human}{n:0:human}s who dare oppose our master!`
+char_rg2: ` Now is the time of judgment! Prostrate yourselves!!"`
+char_ev2: `"H‐how......?!!!`
+char_ev2: ` You shouldn't be able to bring magic into the world of {y:0:Human}{n:0:human}s...!!`
+char_ev2: ` They shouldn't be able to {y:1:‘see’}{n:1:see} magic, they shouldn't be able to be touched by magic!!`
+char_ev2: ` ......How?!!"`
+char_enj: `"............Because this...is true magic."`
+char_ev2: `"...... ......aaaaaaaaaaaaaAAAAA...!!"`
+char_kas: `"Wh‐what are you people doing?!`
+char_kas: ` K‐kill her, kill her!!!"`
+char_non: `One of the black‐suits who had finally come to his senses pulled his gun, aimed,`
+char_rg1: `"Did you think I'd overlook the disrespect of pointing a gun at our master......?`
+char_rg1: ` Die."`
+char_non: `Those words were his funeral.`
+char_non: ` ......The man had already been struck through the chest by Lucifer, who had become the Stake of Pride in an instant.`
+char_non: `Thump!`
+char_non: ` The sound of the second person falling brought it home to the black‐suits that their lives were unmistakably in peril...!!`
+char_non: `"Aaa...waaaaaaaagggh!! Hel‐hel‐heeeeelllllp......!!!"`
+char_non: `Almost paralyzed with fright, the man turned on his heels in an attempt to escape from that place,`
+char_non: ` ......and in that instant, the Stake of Sloth......`
+char_rg4: `"............Be thankful that this is the only recompense for your violence against our master.`
+char_rg4: ` Die!!"`
+char_non: `A hole as big as a walnut opened in his right eye, and his head split.`
+char_non: `Belphegor was sprayed with blood, and her face twisted demonically with the joy of being able to use her full power...!`
+char_non: `"Ahh...waaaaaaagghhh?!`
+char_non: ` Who?!`
+char_non: ` Who's there?!`
+char_non: ` Where are you?!"`
+char_non: `The black‐suits panicked, pointing their guns in every direction.`
+char_non: `{n}But they didn't understand what was happening.`
+char_non: `They only knew that something terrifying was coming for them from somewhere,`
+char_non: ` but they didn't know where...!!`
+char_ev2: `"Idiots!!`
+char_ev2: ` Th‐the enemy is right in front of you!`
+char_ev2: ` The witch's furniture is after you!!!"`
+char_non: `But they could not {y:1:‘see’}{n:1:see}...!!`
+char_non: `{n}Because they couldn't believe in magic, they could not {y:1:‘see’}{n:1:see}...!!`
+char_non: `Just as the black witch said, Satan was standing boldly right in front of the black‐suit.`
+char_non: `However, the black‐suit couldn't {y:1:‘see’}{n:1:see} that at all...!`
+char_rg3: `"*giggle*...!`
+char_rg3: ` You think {y:0:Human}{n:0:human}s could see our forms?`
+char_rg3: ` Perceive us?`
+char_rg3: ` Ahhahahahahahaha, you stupid {y:0:Human}{n:0:human}s!!`
+char_rg3: ` Time to pay your foolish compensation for forgetting your awe of magic!!"`
+char_kas: `"H‐hieeiiiiiie!!!`
+char_kas: ` What is this?!`
+char_kas: ` What's going on?!"`
+char_enj: `".........You cannot {y:1:‘see’}{n:1:see}.`
+char_enj: ` Because you have no love."`
+char_ev2: `"......Impossible!!`
+char_ev2: ` There are so many {y:0:Human}{n:0:human}s here, the anti‐magic toxin is everywhere...... How can you manifest your magic?!`
+char_ev2: ` What...are you?!?!"`
+char_enj: `"............A witch.`
+char_enj: ` And unlike you, a real one."`
+char_ev2: `"Khhh... Wrraa{0}a{0}a{0}a{0}a{0}a{0}a{0}a{0}a{0}a{0}a{0}aagghhh, damn youu{-}u{-}u{-}uuu, you biii{-}i{-}i{-}i{-}iitch!!"`
+char_non: `As though announcing his candidacy for the fourth victim, one of the black‐suits pointed his gun at Ange.`
+char_non: `......And pulled the......`
+char_non: `Ange glared at him coldly, and simply ordered.`
+char_non: `"F‐fucking diiiiiiiiiiiiiiieeeeeeeee!!"`
+char_enj: `"Next.`
+char_enj: ` Satan."`
+char_rg3: `"Satan the Wrathful, already right here!!"`
+char_rg3: `"Slowpoke!!`
+char_rg3: ` You think a simple bullet could hit Ange‐sama or any of us now?!!!"`
+char_non: `The Stake of Wrath......pierced and smashed the bullet fired by the black‐suit,`
+char_non: ` and continued straight on, towards the man's face—`
+char_rg3: `".........Know your foolishness, and regret it in hell!!`
+char_rg3: ` Die!!"`
+char_non: `With a terrible explosive sound, the upper half of the man's head was smashed.`
+char_non: `Bathed in scattered flesh and blood, Ange quietly asked one more time.`
+char_enj: `"...So, Aunt Kasumi.`
+char_enj: ` .........Do you still...`
+char_enj: `not feel like believing in magic?"`
+char_kas: `"Th‐`
+char_kas: `this is crazy...`
+char_kas: ` ......This can't be real...!!`
+char_kas: ` I, I won't accept it...!!`
+char_kas: ` There's no way magic is real......!!!"`
+char_ev2: `"Yes, that's right...`
+char_ev2: ` There's no way magic exists...!!`
+char_ev2: ` There's no way witches exist!!"`
+char_sak: `‘Ma‐......magic exists!!`
+char_sak: ` Witches exist......!! Uryuu!!’`
+char_rg5: `".........Yes.`
+char_rg5: ` Magic exists.`
+char_rg5: ` Witches exist.`
+char_rg5: ` ......And in this world filled with anger and sadness, you can make them into the key that opens the door to a world of happiness...!!`
+char_rg5: ` I won't let someone like you......deny that!!"`
+char_sak: `‘Everyone holds the key to a world of happiness in the palm of their hand...!`
+char_sak: ` And no one......has any right to steal that away......!!’`
+char_enj: `"You poor {y:0:Human}{n:0:human}, who cannot understand this...`
+char_enj: ` .........If there had been magic in your life, it would surely have been very different, and much more peaceful."`
+char_enj: `"Not once in your entire life were you ever able to meet with a true witch, and for this,`
+char_enj: ` ......I pity you."`
+char_kas: `"Eee......eeeeeeeeeeeeeeeeeeeeeeeekkk!!!"`
+char_non: `Kasumi let out a piercing scream.`
+char_non: `At the same time, the two remaining black‐suits came for me at once, and thrusted their guns against my head.`
+char_non: `......Like they were trying to use me as a hostage against something their eyes couldn't {y:1:‘see’}{n:1:see}.`
+char_non: `.........Against the Seven Sisters of Purgatory, high‐level furniture who had now reached the level of weapons, this was completely and totally pointless.`
+char_non: `"Dammit, where are you?!`
+char_non: ` You don't stop attacking, and this bitch is dead!!`
+char_non: ` Show yourself!!"`
+char_rg6: `"Kyahhahahahahahaha!!!`
+char_rg6: ` What's this guy on about?! And his guts look so tasty too.`
+char_rg6: ` .........Ange‐sama, leave the next one to me!"`
+char_enj: `"Go ahead. Kill him."`
+char_rg6: `"I am so {i:very} grateful...!!`
+char_rg6: ` Diiiiiee!!!"`
+char_non: `The man's chest split, and his guts poured out.`
+char_non: ` ......This terrible way of dying threw the other man into a total panic.`
+char_non: `However, Asmodeus's form was already at his back,`
+char_non: ` embracing his neck with her arm, ......and smiling obscenely......`
+char_rg7: `"What a cute kid.`
+char_rg7: ` ......Hey, where do you want me to pierce you?`
+char_rg7: ` *cackle*cackle*cackle*cackle*, Ange‐sama, do you have any preference?!!!"`
+char_enj: `"Head."`
+char_rg7: `"Certainly, my masteeeer!!`
+char_rg7: ` Die!!"`
+char_non: `The final black‐suit had his head smashed by the Stake of Lust,`
+char_non: ` and as his insides scattered, he twisted and fell.`
+char_non: `In that gruesome world where six people lay in a sea of blood,`
+char_non: ` .........witch and {y:0:Human}{n:0:human} confronted each other.`
+char_enj: `".........Sumadera Kasumi.`
+char_enj: ` I sympathize with your pitiable life from the bottom of my heart.`
+char_enj: ` ......I can give you magic to seal up that unfillable hole in your heart.`
+char_enj: ` If you will believe in that magic, that is."`
+char_kas: `"D‐don't be so......ridiculous......!!`
+char_kas: ` This, this is, ...I won't accept it!!`
+char_kas: ` Eeeeeeeeeeeeeeeeeeeeeeeeekk!!"`
+char_non: `As Kasumi slowly retreated backwards, scared out of her wits,`
+char_non: ` .....she picked up a handgun that someone had dropped.`
+char_non: `Then, shaking, she pointed it at Ange...`
+char_ev2: `"That's right, Kasumi...!`
+char_ev2: ` Shoot her with that gun...!!`
+char_ev2: ` Turn your hatred into a bullet and shoot...!!"`
+char_kas: `"Hiee...hiie...!!`
+char_kas: ` I'll kill you... I'll kill you...!!`
+char_kas: ` If I don't kill you, my life will go unrewarded......!!"`
+char_ev2: `"Yes, kill her!`
+char_ev2: ` Pull the trigger!!`
+char_ev2: ` Take all of the anger and pain from your shabby life until now!!`
+char_ev2: ` Use it all against her!"`
+char_ev2: `"If you don't, you won't be released from your pain and anguish!!"`
+char_enj: `"............Stop it, Aunt Kasumi.`
+char_enj: ` ......You mustn't lend an ear to the black witch."`
+char_kas: `"I'll kill you...... I'll kill you......!`
+char_kas: ` Because of your mother,`
+char_kas: ` ......my entire life...`
+char_kas: `...has been a wreck......!!"`
+char_enj: `"Then maybe, starting now bit by bit, you can turn that life into something bright and peaceful, with my magic.`
+char_enj: ` If you simply believe in magic and have a change of heart,`
+char_enj: ` it can open the door to a new world for you."`
+char_ev2: `"There's no such thing!!`
+char_ev2: ` The salvation she speaks of is obviously just some fairy tale!"`
+char_ev2: `"Your life is already covered with thorns until you die...!!`
+char_ev2: ` Let her hear your cries of agony!!`
+char_ev2: ` You can't regain anything that was lost... Right? Sumadera Kasumiiiiiiiiii?!?!"`
+char_enj: `"Yes, you might not be able to regain anything.`
+char_enj: ` But I'm sure you can create something new.`
+char_enj: ` So, Aunt Kasumi.`
+char_enj: ` Throw that gun away.`
+char_enj: ` .........I might be able to teach you of a world of happiness too."`
+char_kas: `"Hiee...`
+char_kas: `......hiie...hieeiii......!!`
+char_kas: ` You,`
+char_kas: ` .........you don't know......!!`
+char_kas: ` Because your mother ran away,`
+char_kas: ` .........I was forced to marry her fiancé as a substitute...!!"`
+char_kas: `"You know I had a man who promised to spend his life with me?!`
+char_kas: ` You know I was forced to break up with him?!`
+char_kas: ` You think you understand how I felt when I was made to wed in your mother's place,`
+char_kas: ` ......and was forced to consummate the marriage with a man I had barely even talked to?!?!"`
+char_kas: `"I wanted to kill her!!`
+char_kas: ` But Nee‐san just went and died on her own!`
+char_kas: ` That's why I'm going to kill you!!`
+char_kas: ` Otherwise, my thorn‐covered life will never eeeeeeeend!!"`
+char_non: `......From Kasumi's eyes,`
+char_non: ` frenzied tears dripped down.`
+char_non: `This poor woman...`
+char_non: ` ......Even she had such clear and beautiful tears.`
+char_non: `But for that very reason, ......she hadn't been able to withstand her sad pain,`
+char_non: ` and had had no choice but to listen to the black witch's temptation...`
+char_enj: `"..................I feel so sorry for you.`
+char_enj: ` ......In that case, the least I can do is to forever release you and your soul from the bonds of resentment.`
+char_enj: ` .........That might be the only bit of charity I can give you now."`
+char_kas: `"Diiiiiiiiiiiee, Ushiromiya Angeeeeeeeeeee!!!"`
+char_enj: `"Goodbye, Aunt Kasumi.`
+char_enj: ` .........Take a long rest in a quiet world."`
+char_non: `I no longer feel any anger or hatred towards you.`
+char_non: `{n}I just want...`
+char_non: `to let your soul rest in peace.`
+char_non: `Kasumi's handgun spat fire.`
+char_non: `Slowly, that bullet continued through a world frozen to the utmost limit, ......making its way towards {f:5:Ange}'s forehead.`
+char_enj: `"Mammon."`
+char_rg5: `"......Y‐......yes!!`
+char_rg5: ` Mammon the Covetous, right here...!!"`
+char_enj: `"Thanks."`
+char_rg5: `"......Huh?"`
+char_enj: `"It was because I met you and Sakutarou that I was able to understand everything."`
+char_sak: `‘......Ange......’`
+char_enj: `"Look away, Sakutarou.`
+char_enj: ` .........Mammon.`
+char_enj: ` Release that woman.`
+char_enj: ` And...protect the honor of Mariage Sorcière...!!"`
+char_rg5: `"Ye‐.........yes!!`
+char_rg5: ` ......Prepare yourself, Sumadera Kasumi!!"`
+char_non: `Even though the world was frozen, the Stake of Greed flashed like lightning,`
+char_non: ` .........and was already through Kasumi and out the other side...`
+char_rg5: `"If you possess the slightest virtue, you shall have an audience again on the mountain of Purgatory!!`
+char_rg5: ` .........Diiiiiiiieee!!!"`
+char_non: `The upper half of Sumadera Kasumi's head shattered.`
+char_non: `......Her cage of flesh was broken,`
+char_non: ` ......and she was finally released......`
+char_enj: `".........And now...it's just you.`
+char_enj: ` ...........The black witch.`
+char_enj: ` ......At this point, I feel bad for even seeing a resemblance to Aunt Eva in you."`
+char_ev2: `"Heh, ......heheheheheh.`
+char_ev2: ` ...If my form still looks like Ushiromiya Eva,`
+char_ev2: ` that means you still haven't been able to forgive "me" inside yourself."`
+char_ev2: `"I understand, Ange.`
+char_ev2: ` ............You also want to be released from your thorn‐covered life more than anything."`
+char_enj: `"...................................."`
+char_ev2: `"In that case, ......I've thought of something interesting.`
+char_ev2: ` I'll show you magic as well.`
+char_ev2: ` .........I won't be the one to kill you."`
+char_non: `With the worst smile on her face,`
+char_non: ` the black witch changed her form into something like a black mist,`
+char_non: ` ...or else a vast swarm of black flying insects, which began to swirl around me.`
+char_non: `Then that black mist began to amass bit by bit, ......shaping itself into the form of a human.`
+char_enj: `".....................What's this supposed to be......"`
+char_ev2: `Ehheheheheh!`
+char_ev2: ` I think you know very well what!`
+char_ev2: `{n}`
+char_ev2: `That woman you hated and despised the most!`
+char_ev2: `{n}`
+char_ev2: `And that woman hated and despised you the most as well...!`
+char_ev2: `When the black mist cleared,`
+char_ev2: ` .........over there was...`
+char_ev2: `.........Aunt Eva's form,`
+char_ev2: ` ......as she had been while alive.`
+char_ev2: `......In her hands...she was holding a gun.`
+char_enj: `"...............Aunt Eva...`
+char_enj: `...died."`
+char_eva: `"*giggle*, long time no see, Angeeee.`
+char_eva: ` ......I've returned from hell to kill youu!`
+char_eva: ` *cackle*cackle*!!"`
+char_non: `Aunt Eva glared at me, laughing madly.`
+char_enj: `"But......I'm not that surprised.`
+char_enj: ` Aunt Eva was that kind of person."`
+char_eva: `"I imagine my funeral cleared your mood up quite a bit, didn't it?`
+char_eva: ` It did for me too, because it meant that I never have to see your face again...!`
+char_eva: ` But I did have just one regret.`
+char_eva: ` And this is it!!"`
+char_enj: `".........Killing me?`
+char_enj: ` ............Was that your last request?"`
+char_non: `How pitiful.`
+char_non: ` ......Even after death,`
+char_non: ` ......Aunt wasn't released from her suffering......`
+char_eva: `"It was the black witch's power that was the source of my magic.`
+char_eva: ` Anger and hatred taught me how to work hard and persist.`
+char_eva: ` Completely different from the escapist magic that you speak of!"`
+char_enj: `"......The magic you speak of is nothing more than stress reduction through outbursts of anger.`
+char_enj: ` ......Our magic is different.`
+char_enj: ` It can remake the entire world.`
+char_enj: ` .........It's of a completely different class than your ill‐natured magic."`
+char_eva: `"*snicker*!!`
+char_eva: ` In that case, I'll settle it here, once and for all—which comes out on top, black or white...!!`
+char_eva: ` By my black magic, I have performed a miracle that has allowed me to revive and point a gun at you like this, even after death.`
+char_eva: ` With what kind of miracle will your white magic fight back?"`
+char_eva: `"I have taken you in amongst the anti‐magic toxin.`
+char_eva: ` You won't be able to call the Seven Sisters any more.`
+char_eva: ` That miracle just now won't occur again...!!"`
+char_enj: `"...............But it will, regardless—that's the reason it's called magic.`
+char_enj: ` ......Alright.`
+char_enj: ` Mammon. Lend me your power."`
+char_non: `......But Mammon didn't respond.`
+char_non: ` She didn't appear.`
+char_non: `Certainly, as she said,`
+char_non: ` the anti‐magic toxin had burned everything up like a wasteland parched by a blazing sun...`
+char_non: `.........This might be a little tough.`
+char_eva: `"It's useless to call out.`
+char_eva: ` Never again...`
+char_eva: `will the Seven Sisters of Purgatory answer you!"`
+char_enj: `"Like I said.`
+char_enj: ` I can call them anyway... That's what makes it magic, right?"`
+char_eva: `"........................`
+char_eva: ` ......You're a sad child, Ange.`
+char_eva: ` So long.`
+char_eva: ` The simple days we spent together were reasonably fun.`
+char_eva: ` This is goodbye.`
+char_eva: ` ......It must be nice for you that this was your final stop."`
+char_enj: `"Yeah, totally.`
+char_enj: ` That's very thoughtful of you."`
+char_eva: `"Thanks.`
+char_eva: ` Then this is farewell."`
+char_non: `The barrel of the gun rose slowly,`
+char_non: ` ......so that you could see all the way down it.`
+char_non: `And,`
+char_non: ` .........the trigger was slowly.........`
+char_non: `Then,`
+char_non: ` ......there was a loud bang from the gun.`
+char_non: `...Not in the sense that it fired.`
+char_non: ` ......It {i:exploded}.`
+char_non: `............You're...kidding me......`
+char_non: `......In shock, inside frozen space,`
+char_non: ` ......Eva looked at the exploded gun.`
+char_non: `When time unfroze, the fragments would probably smash into her face all at once...`
+char_rg5: `"......Mammon the Covetous.`
+char_rg5: ` Right here."`
+char_eva: `".....................You're...kidding me..."`
+char_non: `Behind Eva's back, Mammon stood.`
+char_non: ` .........She had already penetrated the target I had given her.`
+char_non: ` ......Which was...the gun.`
+char_enj: `"Is this......enough magic for you?`
+char_enj: ` ............Aunt Eva."`
+char_eva: `"......A‐`
+char_eva: `.........Angeee........."`
+char_non: `Then, time unfroze.`
+char_non: `{n}Fragments of the ruptured gun and gunpowder gas burned her face.`
+char_non: `{n}Letting out a shrill scream, she rolled around covering her face......`
+char_non: `......It was pitiful.`
+char_enj: `"......Unlucky.`
+char_enj: ` ......This is game over.`
+char_enj: ` Aunt Eva."`
+char_non: `I signaled to Mammon.`
+char_non: ` ...To free Eva quickly from her pain as she writhed around with her burnt face.`
+char_enj: `"............Thank you, Mammon.`
+char_enj: ` ...I'd like to apologize again, now, from the bottom of my heart, for calling all of you powerless on that day in the classroom.`
+char_enj: ` You were excellent furniture for protecting witches."`
+char_rg5: `".........It is I who should be grateful.`
+char_rg5: ` ......I feel truly honored to have been able to meet a good witch and a good master in the end, and to have had the opportunity to fulfill my duty as furniture...!"`
+char_non: `Mammon understood.`
+char_non: `{n}This would be the final job I would ever give her.`
+char_non: `Mammon quietly walked close.`
+char_non: `{n}Then, she looked down upon her.`
+char_enj: `"......Aunt Eva.`
+char_enj: ` Thank you for sticking with me until today.`
+char_enj: ` This is farewell.`
+char_enj: ` <Have a nice dream>.`
+char_enj: ` <See you in hell>."`
+char_eva: `"<Cool>."`
+char_non: `Then, ......the light sound of her forehead being perforated rang out.`
+char_non: `......The battle of gunpowder smoke, delirium, ......and white and black magic...was over.`
+char_non: `It felt like it had been a long, .........truly long journey.`
+char_non: `{n}And the world slowly...`
+char_non: `...sank into darkness.........`
+char_non: `The stars that should be sparkling.........lay not in the sky, but were scattered beneath me.`
+char_non: `......When I recognized that the pearls and rubies were creating a river of white and red,`
+char_non: ` I realized that it was a vast nighttime scene that was spread out below me...`
+char_non: `I was in the sky of that nighttime scene, neither standing nor flying,`
+char_non: ` ......but simply floating in the air.`
+char_non: `......From nowhere in particular, I could hear the sound of one person clapping—`
+char_non: `a truly dull applause.`
+char_non: `I understood.`
+char_non: ` ......It was the one who ordered me to go on this journey,`
+char_non: ` ......{f:5:Bernkastel}.`
+char_ber: `"...............Congratulations,`
+char_ber: ` Endless Witch, {f:5:Ange Beatrice}.`
+char_ber: ` At the end of your travels, you understood everything about magic."`
+char_enj: `"......Yes.`
+char_enj: ` .........I now...understand everything about magic.`
+char_enj: ` .........I am...a witch.`
+char_enj: ` ......The last witch who inherited the magical world created by Mariage Sorcière."`
+char_ber: `".........No one besides you...can tear {f:5:Beatrice}'s world to pieces."`
+char_enj: `"And it was through coming to know magic.........that I learned also how to resist it."`
+char_ber: `"................................."`
+char_enj: `"......Magic is made of love and sadness and anger.`
+char_enj: ` ......No matter how cruel a witch {f:5:Beatrice} might have been,`
+char_enj: ` the source of her magic is exactly the same."`
+char_enj: `".........And that's why, honestly, I wish I could leave that world of hers alone.`
+char_enj: ` ......After all, in her eyes at least, that world is complete as it is."`
+char_ber: `"............But then you'd have to give up on your family."`
+char_enj: `".....................`
+char_enj: ` ......That's right.`
+char_enj: ` So, although I feel bad about it, I have to fight.`
+char_enj: ` .........Because the very reason I left on this journey to become a witch...`
+char_enj: `...was so that I could bet on the small probability that I could take my family back."`
+char_ber: `"Unless you kill {f:5:Beatrice}, only worlds of isolation can exist for you.`
+char_ber: ` ......As one who has traveled through billions of fragments, I can guarantee it."`
+char_enj: `"............I understand.`
+char_enj: ` ......I don't have room for compassion.`
+char_enj: ` ......I must make my heart a demon,`
+char_enj: ` .........and tear her heart to pieces."`
+char_ber: `"......It is good that you are steady in your resolve.`
+char_ber: ` I was worried that, as another witch like her, you might grow attached and lose your will to continue."`
+char_non: `Coming from a person like her, whose face was almost always expressionless, those words felt a bit hollow.`
+char_non: `{f:5:Bernkastel}.`
+char_non: ` ......The enigmatic witch who invited me on this journey.`
+char_non: `{n}....................................`
+char_enj: `"There were moments when I suspected that you might have been lying to me."`
+char_ber: `".....................Why?"`
+char_enj: `"......I am the Ange of 1998, so even if I save my family, that will only bring relief to the Ange of 1986.`
+char_enj: ` ......It won't do anything for me.`
+char_enj: ` So I sometimes felt like I was being deceived."`
+char_ber: `"........................`
+char_ber: ` ......That is correct.`
+char_ber: ` I deceived you."`
+char_enj: `"......But now I'm grateful.`
+char_enj: ` .........After all,`
+char_enj: ` in the end, you did teach me the way to take my family back."`
+char_ber: `"............I didn't teach you anything.`
+char_ber: ` ......If you have come to know that, it's a state of understanding that you reached on your own as a witch.`
+char_ber: ` That place you have reached is different from mine.`
+char_ber: ` .........I myself cannot comprehend it, but if it is as you say, then congratulations."`
+char_enj: `"I am not a player in this game, but a piece.`
+char_enj: ` You said this to me, right?"`
+char_ber: `"............Yes, I did."`
+char_enj: `"Now, I fully understand that role.`
+char_enj: ` ...............A piece doesn't need emotions.`
+char_enj: ` It just has to give its all for the sake of victory."`
+char_ber: `"............Yes.`
+char_ber: ` That's exactly right.`
+char_ber: ` A game is where you each make the best possible move, right?`
+char_ber: ` If you allow your moves to get distorted by hesitation and indecision, your opponent will be confused as well."`
+char_non: `..................Sorry, {f:5:Beatrice}.`
+char_non: `But...don't hold it against me.`
+char_non: `{n}......“Ushiromiya Ange” still needs her family.`
+char_non: `So I have the right to fight you...so that I can take them back.`
+char_non: `And you have the responsibility to accept my challenge.`
+char_non: `.........So please...don't hold it against me.`
+char_non: `In exchange...`
+char_non: `if you do win in this game,`
+char_non: ` I'll give you my blessing as well.`
+char_non: `Now, let's go.`
+char_non: ` .........As the piece I am, it's finally time for my true turn.`
+char_non: `Sorry, {f:5:Beatrice}.`
+char_non: `{e:120:I can't hand Onii‐chan over to you...!!!}`

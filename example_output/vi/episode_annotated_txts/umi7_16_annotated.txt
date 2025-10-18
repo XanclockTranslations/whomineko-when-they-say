@@ -1,0 +1,1023 @@
+char_non: `Men in work clothes were spreading a tarp over a section of the hall.`
+char_non: `From the way they measured the wall and set out tools, it could be seen that they were preparing to do some sort of construction work.`
+char_gen: `"This is of the utmost importance to the Master.`
+char_gen: ` Be sure that you do not damage it."`
+char_non: `The president of the construction company nodded his head several times to show that he understood.`
+char_non: `Then, six young workers carried in a large rectangular object wrapped in a white sheet...`
+char_non: `"Ookay, careful there!`
+char_non: ` Set 'er down gently... Gently, I say."`
+char_non: `"Is this spot good?"`
+char_non: `"Great, let's get started."`
+char_non: `Apparently, they were putting something large onto the wall of the hall...`
+char_nat: `".........Is that where he wants to hang it?"`
+char_cla: `"That's what he wants.`
+char_cla: ` After all, this mansion is little more than one of Father's toys."`
+char_non: `Natsuhi took a deep breath.`
+char_non: `Though this was a whim of Kinzo's, a man she greatly respected,`
+char_non: ` ......she seemed to resist the idea of hanging it right here in the entrance hall, the face of the mansion.`
+char_non: `When the white sheet was pulled off, a Western woman wearing a beautiful dress came into view...`
+char_non: `It was a massive portrait of a woman......`
+char_kin: `"Is it proceeding well?"`
+char_gen: `"Yes.`
+char_gen: ` They will be finished by this evening."`
+char_kin: `"I would like to see it hanging there for all to see as soon as possible.`
+char_kin: ` I want you overseeing this, my friend."`
+char_gen: `"Leave it to me."`
+char_cla: `"......Father.`
+char_cla: ` It seems to be a splendid portrait."`
+char_kin: `"Mm.`
+char_kin: ` The artist has done excellent work.`
+char_kin: ` I am satisfied."`
+char_nat: `"......This is your benefactor, the woman who gave you the gold?"`
+char_kin: `"Indeed.`
+char_kin: ` ......If I had not met {f:5:Beatrice}, I would not be here, nor would the Ushiromiya family, nor would, of course, this mansion.`
+char_kin: ` It's only natural that her portrait be displayed in the best possible location."`
+char_non: `Now that he had said so this bluntly, there would be no contradicting him.`
+char_non: `Krauss and Natsuhi could only shrug.`
+char_gen: `"......My lord.`
+char_gen: ` The epitaph plate is here.`
+char_gen: ` Would you please check to see that all is in order?"`
+char_kin: `"Mm.`
+char_kin: ` Each and every word must be correct..."`
+char_non: `Epitaph...?`
+char_non: ` Krauss and Natsuhi crooked their heads and followed Kinzo.`
+char_non: `The leader of the workers set down a plate wrapped in a sheet.`
+char_non: `The others thought that the picture's name and an explanation might be on it,`
+char_non: ` but it seemed to have quite a lot of words for that...`
+char_nat: `".........Father,`
+char_nat: ` what is this......?"`
+char_cla: `"Behold...`
+char_cla: `...the sweetfish river, running through my beloved home of old......?"`
+char_kin: `"Heh.`
+char_kin: ` ......Heheheheheheh.`
+char_kin: ` Read and interpret it as you like."`
+char_wil: `"......So, we finally reach the appearance of the epitaph and the portrait."`
+char_rio: `"I don't know much about this epitaph.`
+char_rio: ` It doesn't exist in my world."`
+char_wil: `"Probably not.`
+char_wil: ` In your world, there's already a clear successor: you.`
+char_wil: ` But not in this world."`
+char_rio: `"In other words, ......this epitaph was set up to choose Grandfather's successor after all...?"`
+char_wil: `"Most likely.`
+char_wil: ` Or, he might have wanted to believe in the chance of a miracle."`
+char_non: `A difficult riddle, made so that no one would be able to solve it.`
+char_non: `If someone actually could solve it, ......they would be a miraculous person.`
+char_non: `{n}And that miracle......might shepherd the person Kinzo most desired...`
+char_rio: `"In short, this epitaph really does show a ritual to revive the witch {f:5:Beatrice}, just as everyone thought...?"`
+char_cur: `".........That is a normal interpretation to make.`
+char_cur: ` A mysterious ritual, sacrificing thirteen people to revive the witch.`
+char_cur: ` ......However, that is not the true ritual.`
+char_cur: ` ......The wait for someone to miraculously solve it.`
+char_cur: ` That is the true ritual.`
+char_cur: ` However, fate does have its irony."`
+char_wil: `"Genji already knew.`
+char_wil: ` ......Maybe Kinzo set this up in the first place because he guessed that Genji knew everything."`
+char_cur: `"......Was that fate a coincidence, or something engineered?`
+char_cur: ` I do not know.`
+char_cur: ` ......However, with this epitaph, the witch {f:5:Beatrice} would revive in the truest sense."`
+char_bea: `".........This is...`
+char_bea: `.........{f:5:Beatrice}..."`
+char_non: `My soul was captured by the woman shown in that massive portrait.`
+char_non: `{n}That might have been literally true.`
+char_non: `Or, rather than captured, perhaps it would be better to say that my soul had returned to a more fitting place, the place it belonged.`
+char_non: `The beautiful blonde hair was the same as mine, but tied up.`
+char_non: `The dress she wore was a deep black, making that golden hair stand out all the more.`
+char_non: `.........This is the witch...{f:5:Beatrice}.`
+char_non: `{n}My......true form......`
+char_bea: `"Hm?`
+char_bea: ` ............What is this?"`
+char_non: `There was a plate with too many words for it to be the title of the picture.`
+char_non: `Behold the sweetfish river, running through my beloved home of old......`
+char_non: `{n}You who seek the Golden Land, follow its path downstream in search of the key.`
+char_bea: `"......The Golden Land...`
+char_bea: ` ......I see,`
+char_bea: ` .........so my world...`
+char_bea: `...is the Golden Land..."`
+char_non: `I have always called my own, personal world a Paradise.`
+char_non: `{n}But tonight, I shall change that.`
+char_non: `From now on, my world shall be the Golden Land.`
+char_non: `{n}I am the master of the Golden Land, {f:5:Beatrice}......`
+char_non: `......And then, there is the brutal ritual of sacrifices starting with the first twilight.`
+char_non: `{n}On the ninth twilight, the witch revives, and none shall be left alive......`
+char_bea: `"Is it saying that if I carry out this ritual, ......I will experience a true revival......?"`
+char_non: `Then, on the tenth twilight, the journey ends, and I shall reach the Home of the Gold......`
+char_non: `{n}The witch shall praise the wise, and bestow four treasures.`
+char_non: `{n}One shall be all of the Golden Land's gold.`
+char_non: `......Kinzo received a massive amount of gold from {f:5:Beatrice}, and rumor has it that it still lies hidden somewhere.`
+char_non: `Is this, as the family members and servants are all whispering, a code showing the location of Kinzo's hidden gold?`
+char_bea: `".........If a {y:0:Human}{n:0:human} reaches the solution, they will obtain a great quantity of gold.`
+char_bea: ` .........However, if I am the one to solve it, it will mean my own resurrection..."`
+char_non: `.................................`
+char_non: `......Kinzo, you aging mage.`
+char_non: `{n}Just when I was mocking the shortness of the time left to you, you start a game like this.`
+char_non: `How intriguing.`
+char_non: ` ......I shall solve this riddle of yours.`
+char_non: `{n}I shall revive as the real {f:5:Beatrice}.`
+char_non: `And then, I shall use my great magical power to control object and man, day and night, and all of Rokkenjima......`
+char_goh: `"They all say that epitaph is a guide to finding hidden treasure...!"`
+char_kum: `"The rumors tell that the Master has ten tons of gold hidden away...!"`
+char_kan: `"......Yes, those rumors about {f:5:Beatrice} being the one who gave it to him.`
+char_kan: ` I've heard that too."`
+char_sha: `"Ten tons of gold...... That would be incredible.`
+char_sha: ` I can hardly even imagine it."`
+char_goh: `"If you had all that, what would you use it for...?!`
+char_goh: ` I'd like to touch it, just once...!"`
+char_kum: `"Hoh‐ho‐ho‐ho‐ho‐ho!`
+char_kum: ` Forget touching it, I'd like to spend it all."`
+char_sha: `"But why would he go out of his way to present this epitaph, ......this code showing the hiding place of the gold..."`
+char_kan: `"That's obvious.`
+char_kan: ` He's laughing at everyone, since he thinks no one can solve it."`
+char_goh: `"It's a challenge to the rest of us, isn't it?`
+char_goh: ` He wants to know if there's anyone here wise enough to solve it..."`
+char_kum: `"It seems that the Master doesn't intend to let Krauss‐sama take the headship easily.`
+char_kum: ` ......Perhaps the one who solves this will become his successor?"`
+char_eva: `"Genji‐san, what is this?!`
+char_eva: ` Could this be a portrait of......{f:5:Beatrice}? The woman that Father..."`
+char_gen: `"......Correct.`
+char_gen: ` This is {f:5:Beatrice}‐sama."`
+char_hid: `"What on Earth?`
+char_hid: ` There's a strange little poem‐like thing over here."`
+char_eva: `"..............................`
+char_eva: ` ......What is this all about?`
+char_eva: ` ......It's almost like......a pirate code that shows the way to hidden treasure.`
+char_eva: ` ......Genji‐san.`
+char_eva: ` What does this mean?!"`
+char_gen: `"The Master says to read and interpret it as you wish.`
+char_gen: ` ......And that the riddle applies equally to all who can see the epitaph."`
+char_eva: `"You said riddle just now, didn't you?!`
+char_eva: ` That means this can be solved.`
+char_eva: ` .........Yes, it's just as I thought.`
+char_eva: ` Father doesn't want Nii‐san to succeed him...!"`
+char_hid: `"So, whoever solves this becomes the successor...!"`
+char_eva: `"*cackle*cackle*, *giggle*giggle*...!!!`
+char_eva: ` Finally......`
+char_eva: ` The tables have finally turned...`
+char_eva: ` ......I now have a real chance......to become the head......!!"`
+char_rud: `"What do you think, Kyrie?"`
+char_kir: `"......I think it's extremely likely that this epitaph shows the location of the hidden gold."`
+char_rud: `"It looks like Aneki thinks the one who solves it will be chosen as the successor."`
+char_kir: `"That may also be possible.`
+char_kir: ` ......Father doesn't view Krauss nii‐san as someone who has what it takes to succeed him.`
+char_kir: ` Given that Father is reaching the end of his years, this might be a wild, last‐ditch gamble to find someone worthy."`
+char_rud: `"So, if we actually solve this riddle, we stand to gain ten tons of gold and the position of successor."`
+char_kir: `"On the face of it, perhaps.`
+char_kir: ` ......However, I'm sensing some malice, as though he doesn't think us capable of solving it.`
+char_kir: ` I doubt it will be easy."`
+char_rud: `"True.`
+char_rud: ` ......Heheh.`
+char_rud: ` Looks like this'll keep us entertained for some time."`
+char_ros: `".........Ridiculous.`
+char_ros: ` How could anyone solve this?"`
+char_non: `Rosa tossed aside a notepad with the epitaph written on it and flopped over onto the sofa.`
+char_non: `Solving this means ten tons of gold.`
+char_non: `With that much, I'd never need to worry about making money ever again.`
+char_non: `......If I had money, I could pay off the debt, ......and then maybe he'll come back to me......`
+char_ros: `"............I know where Father's beloved home of old is.`
+char_ros: ` What's the "sweetfish river"?`
+char_ros: ` There are tons of rivers there.`
+char_ros: ` And what "village"?`
+char_ros: ` Aah, I don't have a clue......!"`
+char_mar: `"......Uu.`
+char_mar: ` What's wrong, Mama......?"`
+char_non: `Maria looked concerned.`
+char_non: `Kids are really good at puzzles, so maybe......`
+char_ros: `"Hey, Maria.`
+char_ros: ` Do you think you know the answer to this puzzle?"`
+char_mar: `".........................................."`
+char_non: `Maria gazed at the paper with the epitaph on it as though she was trying to bore through it with her eyes.`
+char_non: `{n}Her eyes opened wider and wider......`
+char_ros: `"What do you think, Maria...?`
+char_ros: ` I guess it might be a bit too hard for you."`
+char_mar: `"Kihi.`
+char_mar: ` Kihihihihihihihihi!`
+char_mar: ` This is a witch's ritual, a resurrection ritual for Beato...!"`
+char_mar: `"Where'd you get this?!`
+char_mar: ` Hey, Mama, where'd you get this?!`
+char_mar: ` I'm gonna ask Beato, I'm gonna ask Beato!!"`
+char_mar: `"I'm sure this ritual will let Beato regain her full power!`
+char_mar: ` She'll be able to appear in front of everyone and do miracles of magic, without having to worry about the anti‐magic toxin anymore...!!`
+char_mar: ` Kihiha{0}haha, haha{0}ha{0}ha{0}ha{0}ha{0}ha{0}ha{0}ha{0}haha!!"`
+char_kin: `"......And what of the epitaph?"`
+char_gen: `"It seems the family members are all competing to solve the riddle."`
+char_kin: `"Hmph......`
+char_kin: ` Good.`
+char_kin: ` Let everyone try.`
+char_kin: ` And none will solve it.`
+char_kin: ` Except for the one blessed by a miracle.`
+char_kin: ` ......If I let my guard down, even I might forget the process.`
+char_kin: ` That is how difficult it is."`
+char_gen: `"......Because it is difficult, solving it will bring about a miracle..."`
+char_kin: `"Precisely.`
+char_kin: ` ......This is the final miracle I will desire while I still live.`
+char_kin: ` My final magic.`
+char_kin: `......When a miracle comes and allows one to solve that inscrutable epitaph, .........it will surely mean {f:5:Beatrice}'s resurrection.`
+char_kin: ` ......Ohhh, {f:5:Beatrice}...`
+char_kin: ` I just want to see your face one more time...`
+char_kin: ` I don't need wealth or honor anymore.`
+char_kin: ` If I could only see you one more time......!"`
+char_non: `Kinzo understood that he was facing his last years and considered this his final magic.`
+char_non: `After losing {f:5:Beatrice} across two generations, he was betting everything that she had given him in the hope of being reunited with her.`
+char_non: `His meeting with her that day had been the true beginning of his life.`
+char_non: `And even after the two of them had left the stage, Kinzo had remained there alone in the darkness.`
+char_non: `The aged monarch had obtained everything, accomplished everything,`
+char_non: ` but this was the one element that had always slipped through his fingers, no matter how much he struggled.`
+char_non: `If he could just have that element, ......he would need nothing else in life.`
+char_non: ` In the end,`
+char_non: ` ......perhaps his whole life was just a journey to learn that one single element makes up all that it means to be human.`
+char_kin: `"My friend.`
+char_kin: ` .........Will the final bit of magic in my life bring me a miracle......?"`
+char_gen: `".............................."`
+char_non: `For a while, Genji was silent.`
+char_non: `He wasn't at a loss for words or struggling to find an answer.`
+char_non: `......During that silence, something had passed between the two men, who had known each other for so long that their friendship surpassed that of master and servant.`
+char_kin: `"......Yes...so be it.`
+char_kin: ` ......No one is capable of solving it.`
+char_kin: ` That is why it would be a miracle."`
+char_gen: `"My lord.`
+char_gen: ` ......Please, tell me one thing."`
+char_kin: `"Nn, ......what is it?"`
+char_gen: `"If, I ask you.`
+char_gen: ` ............{i:If} a miracle does occur..."`
+char_kin: `"Nn........."`
+char_non: `It may have been different when he was young, but in his old age, Genji was not fond of talking about dreams and "what ifs".`
+char_non: `That very same Genji now spoke of a hypothetical.`
+char_non: `{n}......Kinzo quietly waited for the next words of the man he called a friend.`
+char_gen: `"If a miracle does occur,`
+char_gen: ` if your magic comes true...`
+char_gen: `.........and {f:5:Beatrice}‐sama does revive,`
+char_gen: ` ......what will you do...?"`
+char_non: `As the one closest to Kinzo,`
+char_non: ` Genji obviously knew of the crazed feelings with which Kinzo had sought {f:5:Beatrice} in the past.`
+char_non: `......And yet, Genji was asking what Kinzo would do if {f:5:Beatrice} did revive.`
+char_kin: `"................................."`
+char_gen: `"......My lord, at one time in the past,`
+char_gen: ` you experienced the miracle of {f:5:Beatrice}‐sama being reborn.`
+char_gen: ` If that miracle happened again,`
+char_gen: ` ......what would you do?"`
+char_kin: `"............My friend.`
+char_kin: ` So, after all, ......you do blame me."`
+char_gen: `"......I cannot claim to know everything about your heart or the heart of {f:5:Beatrice}‐sama.`
+char_gen: ` ......However, I believe that I do know something...`
+char_gen: `...of the way in which {f:5:Beatrice}‐sama adored you."`
+char_kin: `".................................`
+char_kin: ` ......I am racked with regret.`
+char_kin: ` You may not believe, ......but as I have aged, I have come to regret everything."`
+char_gen: `"........................"`
+char_kin: `"If a miracle does occur...`
+char_kin: `and {f:5:Beatrice} revives,`
+char_kin: ` ......then, of course, I do not care if she knows nothing of the time she spent with me in the past.`
+char_kin: ` ...No, as long as she is {f:5:Beatrice}, I don't care who it is!`
+char_kin: ` ......I just............want to apologize...!"`
+char_gen: `".........Is that truly how you feel?"`
+char_kin: `"Yes, my friend.`
+char_kin: ` ......I regret it.`
+char_kin: ` I deeply regret the mistakes I made in my youth.`
+char_kin: ` ......You have aged as well, so you must know.`
+char_kin: ` ......I could not feel guilt for the sins of my youth when I was still young.`
+char_kin: ` However, like a deep thorn, it began to fester, .........torturing me.`
+char_kin: ` ......I am willing to accept death in whatever form it may take!"`
+char_kin: `"However, ......this thorn.........this regret.........is the one thing I must resolve......`
+char_kin: ` I must return everything to {f:5:Beatrice}...`
+char_kin: `and beg forgiveness for my sins...!`
+char_kin: ` That is, ......that is my only and final wish......`
+char_kin: ` ...Ooh,`
+char_kin: ` ......oooooohhhh.........`
+char_kin: ` Uwaa{0}a{0}a{0}a{0}a{0}a{0}a{0}a{0}ah{0}h{0}h{0}h{0}h{0}h{0}h{0}h......!!"`
+char_non: `Kinzo covered his eyes and sobbed.`
+char_non: `This aged lord, who had built up enormous wealth in a single generation, ......was now, at the end of his life,`
+char_non: ` ......sobbing simply because he wanted someone to apologize to...`
+char_rio: `"......Wasn't the epitaph a trial Grandfather made to choose the successor?"`
+char_wil: `"..............................`
+char_wil: ` I thought that too at first, ......but it looks like the situation's a bit different."`
+char_cur: `"At this point in time, I also thought it was a trial.`
+char_cur: ` That it was a game for selecting the successor, which Ushiromiya Kinzo decided upon on a whim."`
+char_rio: `"And it wasn't?"`
+char_cur: `"......This epitaph...............had a special meaning for Ushiromiya Kinzo and Ronoue Genji,`
+char_cur: ` one that only the two of them could understand.`
+char_cur: ` So, this was not the workings of fate.`
+char_cur: ` It was a foregone conclusion.`
+char_cur: ` ......I was no more than a Cinderella, with the pumpkin carriage and glass slippers all prepared beforehand."`
+char_wil: `".........I get it.`
+char_wil: ` ......So, ......this was a farce that Kinzo and Genji set up."`
+char_cur: `"Kinzo {i:knew}.`
+char_cur: ` And Genji understood that this was a message to that effect."`
+char_rio: `"I, I don't have a clue what you mean...`
+char_rio: ` ......What did Grandfather know?`
+char_rio: ` And what does Genji‐san have to do with this epitaph...?"`
+char_wil: `"The epitaph wasn't "solved".`
+char_wil: ` It was {i:allowed} to be solved."`
+char_cur: `"............And then, {f:5:Beatrice} truly revived.`
+char_cur: ` ......If {f:5:Beatrice}'s revival had never happened..."`
+char_wil: `"......Then, when 1986 came, ......the incident might have been completely different."`
+char_cur: `"Ultimately, ......since the time of my birth, I have never once stood at the crossroads of fate...`
+char_cur: `...and been given the right to make the choice of my own free will."`
+char_cur: `Oh, I am one yet many.`
+char_cur: `{n}`
+char_cur: `And yet, never once have we been able to resist fate.`
+char_cur: `We are naught but leaves trapped in a whirlpool.`
+char_cur: `{n}`
+char_cur: `No matter how we dance, we are bound to vanish into its depths......`
+char_mar: `"Gaap's the one who specializes in instant movement!!`
+char_mar: ` She's the 33rd in rank of the Great Demons...!`
+char_mar: ` You must really be incredible to have a friend like that, Beato, uu!"`
+char_bea: `"I see, the Great Demon Gaap.`
+char_bea: ` .........Very well, my friend, you will now be Gaap.`
+char_bea: ` You may call yourself by that name!"`
+char_gap: `"Oh, wonderful.`
+char_gap: ` So, you've finally given me a name.`
+char_gap: ` It's a relief after being nameless so long."`
+char_non: `"In that case, I would be honored to receive a name as well.`
+char_non: ` Being nothing more than the head furniture lacks flavor, does it not?"`
+char_bea: `"Maria.`
+char_bea: ` I need a name for this guy too.`
+char_bea: ` He is also a Great Demon, and serves as my butler.`
+char_bea: ` He is a subordinate whom I can trust."`
+char_mar: `"Uu......`
+char_mar: ` Ronove, I guess?`
+char_mar: ` The 27th ranked of the Great Demons...!`
+char_mar: ` It's said he'll give you reliable underlings!"`
+char_non: `"My, what a coincidence.`
+char_non: ` ......The family name of my double, Genji, is Ronoue."`
+char_bea: `"Hoh, that truly is a coincidence!`
+char_bea: ` Yes, there could be no more fitting name for you.`
+char_bea: ` Very well, you shall now be known as Ronove...!"`
+char_ron: `"Oh, how pleasant it is to be called by one's name.`
+char_ron: ` I thank you for this wonderful name, Lady {f:5:Maria}."`
+char_mar: `"Just as the form can be a vessel, so can the name be a strong vessel.`
+char_mar: ` For unknown creatures of the other world, simply gaining a name can greatly increase their magical power...!!`
+char_mar: ` That's why names are important.`
+char_mar: ` Uu!"`
+char_gap: `"True, names are important and wonderful.`
+char_gap: ` Right, Lia?!`
+char_gap: ` You can call me Gaap now, okay...?!"`
+char_wal: `"Gaap.`
+char_wal: ` A splendid name.`
+char_wal: ` ......And I'll ask you to stop shortening my precious name...!"`
+char_ron: `"Pu ku ku ku...!`
+char_ron: ` So, you're {f:5:Virgilia}, the one who guides travelers to {f:5:Beatrice}?`
+char_ron: ` That is also a splendid name.`
+char_ron: ` Perfect for Milady's master."`
+char_wal: `"Yes, I do like it a lot.`
+char_wal: ` A name is a life."`
+char_bea: `"Maria, thanks to you, my friends have found names.`
+char_bea: ` I am deeply grateful...!"`
+char_mar: `"Uu‐uu!`
+char_mar: ` Now it's your turn, Beato!`
+char_mar: ` Draw pictures of my bunny friends!`
+char_mar: ` Like you did for Sakutaro!"`
+char_bea: `"Hmmm, very well.`
+char_bea: ` Lend me that grimoire."`
+char_sak: `"Uryuu!`
+char_sak: ` Beato's drawings are really great. I can't wait to see!"`
+char_mar: `"What'll it be like? What'll it be like?`
+char_mar: ` Can't wait to see the bunnies!`
+char_mar: ` Uu‐uu‐uu!!"`
+char_bea: `"They were in a forest band, were they not?`
+char_bea: ` ......A band, a band......`
+char_bea: ` ......Hmm.`
+char_bea: ` Yes, something like..."`
+char_non: `All of a sudden, Maria was no longer a little girl who did nothing but follow her mother around, laughing or crying.`
+char_non: `Though she is still young, she already has a powerful self‐image,`
+char_non: ` ......and possesses enough knowledge of the magical world to surprise even me.`
+char_non: `Together, we called ourselves Mariage Sorcière and made each other's magical worlds deeper and richer...`
+char_bea: `"So, a name can become a great vessel.`
+char_bea: ` ......How very profound."`
+char_mar: `"It's very important to have a form for a vessel, but a name is just as important."`
+char_bea: `"Indeed.`
+char_bea: ` Those with names leave a greater impression than those without."`
+char_mar: `"It's not just about forms and names.`
+char_mar: ` By knowing more and more about them, you can make them exist much more strongly.`
+char_mar: ` So, you have to think up lots of stuff for them."`
+char_bea: `"Did you do this for Sakutarou as well?"`
+char_mar: `"Yep.`
+char_mar: ` Sakutaro isn't just a name and a form.`
+char_mar: ` There's a lot more to him than that."`
+char_bea: `"He is a lion cub, correct?"`
+char_mar: `"Sakutaro's a vegeta‐lion, so he doesn't eat meat.`
+char_mar: ` But everyone else thinks he does, so they're scared of him.`
+char_mar: ` But Sakutaro's also a scaredy‐cat, so he's just as scared as the others.`
+char_mar: ` Ahahahaha, Sakutaro's such a coward."`
+char_sak: `"Uryuu.`
+char_sak: ` I don't eat meat.`
+char_sak: ` I'm not a scary lion."`
+char_mar: `"Oh, look, a flesh‐eating sparrow...!!`
+char_mar: ` Flap flap flap!"`
+char_sak: `"Uryuu!!`
+char_sak: ` Sparrows are scary!`
+char_sak: ` Whoosh."`
+char_bea: `"Wahaha, sparrows don't eat meat."`
+char_mar: `"Sakutaro's a coward, so he thinks they do.`
+char_mar: ` Kihihihihi."`
+char_sak: `"D‐did the sparrow go away...?`
+char_sak: ` Uryuu..."`
+char_mar: `"You're such a scaredy‐cat, Sakutaro.`
+char_mar: ` If you keep this up, Sakusuke and Sakukichi will start making fun of you again."`
+char_sak: `"Uryu...!`
+char_sak: ` I'm not a scaredy‐cat!"`
+char_mar: `"Ah, the sparrow's back!`
+char_mar: ` Flap flap flap!"`
+char_sak: `"Nooo, I'll be eaten!!`
+char_sak: ` Whoosh."`
+char_bea: `"Hahahaha.`
+char_bea: ` Sakutaro is quite entertaining.`
+char_bea: ` Then, are Sakusuke and Sakukichi his siblings?"`
+char_mar: `"Yep.`
+char_mar: ` They're his little brothers, waiting for him at home!`
+char_mar: ` Sakusuke's a lot more reliable than Sakutaro, and Sakukichi is so skillful, he can do anything.`
+char_mar: ` But they're all really good friends...!`
+char_mar: ` They all play together on my bed."`
+char_bea: `"Your bed must be covered with lions."`
+char_mar: `"Yep.`
+char_mar: ` So I call my bed Lion Land!`
+char_mar: ` But there's lots of other animals too!`
+char_mar: ` Uu!"`
+char_ron: `"Lion Land, is it?`
+char_ron: ` It sounds like fun."`
+char_gap: `"......By interacting together, all of {f:5:Maria}'s friends can reinforce their own existence.`
+char_gap: ` She has a great world."`
+char_wal: `"Then we should work on deepening our relationships as well.`
+char_wal: ` By strengthening our bonds, our existence and magical power will grow stronger and stronger..."`
+char_bea: `"Let's expand our world more and more!`
+char_bea: ` From what I've heard, Maria's world has far more than just Sakutarou and the bunnies!`
+char_bea: ` We have to keep up!"`
+char_ron: `"My, my.`
+char_ron: ` In that case, shall we find more minions for ourselves?"`
+char_bea: `"It's no fun with just the gold butterflies.`
+char_bea: ` After all, they cannot speak...!`
+char_bea: ` I'd like some chatty minions who can talk, jump around, and fight with each other."`
+char_gap: `"True, of course it'll be better to spice things up around here."`
+char_wal: `"Here in Mariage Sorcière, we have learned how to expand our worlds and create new minions.`
+char_wal: ` At this point, the kinds of minions you may create are limited only by your imagination......"`
+char_ron: `"Milady, what about those?`
+char_ron: ` Could you make vessels of those dark tools you found when cleaning out {f:5:Goldsmith}'s storehouse?"`
+char_bea: `"Oh, perfect!`
+char_bea: ` Minions manifested from dark‐looking vessels like that will surely be fitting for me...!`
+char_bea: ` There will be more and more of us, and it will get very lively here...!"`
+char_mar: `"Uu!`
+char_mar: ` We get more and more new friends...!`
+char_mar: ` That's my magic!`
+char_mar: ` And Beato can take my friends and give them a form.`
+char_mar: ` You can make them grow...!"`
+char_bea: `"You create, and I grow.`
+char_bea: ` ......Hmm.`
+char_bea: ` That's Mariage Sorcière for you!`
+char_bea: ` ......Hmmm, still, bunny ears are pretty hard...!`
+char_bea: ` It might take some time before the bunnies manifest themselves."`
+char_wal: `"Make sure you make them cute."`
+char_bea: `"But of course.`
+char_bea: ` This is where I get to show my skill...!"`
+char_non: `Create a creature, give it a name, give it a form.`
+char_non: `Doing that is no different from giving birth to new life.`
+char_non: `When a {y:0:Human}{n:0:human} gives birth to a child, they give it a form, give it a name to identify it by, and deepen its character by raising it in the world.`
+char_non: `Mariage Sorcière is doing exactly the same thing.`
+char_non: `In our world, we can create whatever creatures we think of, give them forms, give them names, and make them friends we can interact with.`
+char_non: `We were engrossed with our game in this world called Mariage Sorcière.`
+char_non: `At least, Maria was engrossed.`
+char_non: `{n}She would badger me to play this game every time she came.`
+char_non: `And, of course, I was too.`
+char_non: `However, when Maria started happily drawing something and I just sat there for a while,`
+char_non: ` ......I must admit that there were times when I sighed and looked up at the sky, making sure she did not notice......`
+char_non: `......It's fun to increase the numbers of our minions.`
+char_non: `{n}They make things lively, so I do not tire of it.`
+char_non: `I may have tired of my minions alone, but when I can interact with Maria's minions as well, that does not happen.`
+char_non: `It takes two people to create a universe.`
+char_non: ` I now have that second person, so I am satisfied.`
+char_non: `..............................`
+char_non: `......I think...I am satisfied.`
+char_non: `And yet, one little part of me......is not.`
+char_non: `It truly is a tiny part.`
+char_non: `After all, it is so much fun playing with Maria that time seems to fly on by.`
+char_non: `But even so, ......when I look up at the sky,`
+char_non: ` ......during those short moments, I feel an empty feeling I cannot describe...`
+char_non: `I know...`
+char_non: `My universe is not complete.`
+char_non: `My apologies to Maria,`
+char_non: ` ......but she is not the second person I seek to create a universe with.`
+char_non: `......No matter how much I nurture my world with her, ......the roots of love in my heart leave gaps.`
+char_non: `............Four years have already passed since that day.`
+char_non: `He left saying he would come for me riding a white horse, ......and I was the only one without a letter.`
+char_non: `And he even said that he would likely never return to Rokkenjima......`
+char_bea: `"...................................."`
+char_non: `{i:This}.........is love?`
+char_non: ` ......I always believed that love was so much sweeter, so much more intoxicating.`
+char_non: `But now, I don't know anymore.`
+char_non: `Though I long for him so much it's maddening, ......I can sometimes feel hatred underneath.`
+char_non: `However, even that hatred is wrapped in adoration.`
+char_non: `The roots of love have remained in the corners of my heart all this time.`
+char_non: `Some part of me......has given up and accepted that Battler might never return.`
+char_non: `However, the roots of love have stayed right where they were.`
+char_non: `......In other words, ......even four years later, I still believe.`
+char_non: `He will come back someday.`
+char_non: `The flower of my love has curled up as if to resist the winter cold, and it even appears to have withered.`
+char_non: `However, the roots are still alive.`
+char_non: `......And so it endures, waiting for the day he will surely return,`
+char_non: ` waiting for a chance to bloom beautifully again.`
+char_non: `I am grateful to Maria.`
+char_non: `Mariage Sorcière has eased the burden on my heart so much.`
+char_non: `If we had not met like this, ......I may have withered away along with those roots.`
+char_non: `......Even this incomplete universe is now necessary for my survival.`
+char_non: `I must live on...until I can create my complete universe.`
+char_non: `Until that day......I will not be complete.`
+char_non: ` Though I have a form and a name, ......no matter how deep my world grows, ......I will not be complete.`
+char_bea: `".........I am not......complete."`
+char_mar: `"..................Beato...?"`
+char_non: `I accidentally muttered what I had been thinking.`
+char_non: ` Maria stopped talking to Sakutaro.`
+char_non: `I regretted that my slip of the tongue had ruined this fun time,`
+char_non: ` but I had already remained silent for a little too long to smooth it over...`
+char_non: `I laughed, but it probably sounded hollow.`
+char_non: `Maria, not knowing why my face had suddenly changed like this, looked taken aback.`
+char_bea: `"......Though my minions will each deepen this world and their own existences, becoming full,`
+char_bea: ` ......I alone will never be complete."`
+char_mar: `"...................................."`
+char_bea: `"......I know why I will not be complete."`
+char_mar: `"It's because you don't have enough magical power."`
+char_non: `Maria answered instantly.`
+char_non: `{f:5:Beatrice} has lost her magical power and is unable to regain the power she once had.`
+char_non: `That is how the story goes.`
+char_non: ` So, Maria's answer is exactly correct.`
+char_non: `............Yes.`
+char_non: `I may be incomplete because I have lost my magical power.`
+char_non: `In that case, if my power becomes complete, ......and I revive in the truest sense,`
+char_non: ` ......will my world become complete as well?`
+char_non: `Does that mean.........that the person I want to nourish a universe with will come back?`
+char_non: `......If, as I claim,`
+char_non: ` I really was once able to control miracles at will with my magic...`
+char_non: `...then if I succeeded in reviving, that miracle would surely occur.`
+char_non: `If that is what I could be capable of, .........then I want true magical power...to use for my resurrection.`
+char_bea: `"......That's right.`
+char_bea: ` It is because I do not possess enough magical power."`
+char_mar: `"Poor Beato.`
+char_mar: ` ......It must be pretty inconvenient with your magical power still weak."`
+char_bea: `"I want to get it back......quickly.`
+char_bea: ` ......My old power."`
+char_mar: `"I guess you'll have to do that thing."`
+char_bea: `"......What thing is that...?"`
+char_mar: `"The ritual of resurrection.`
+char_mar: ` .........The ritual of the portrait's epitaph."`
+char_bea: `"............................................."`
+char_non: `If you read that epitaph literally, it does sound like a witch's resurrection ritual.`
+char_non: `To Maria, who believes in witches, that epitaph must be nothing more or less than a ritual.`
+char_non: `Unlike the other family members, it seems that she's not very interested in how it might indicate the location of the hidden gold.`
+char_bea: `"......If that epitaph's riddle is solved, one might learn the location where Kinzo hid all the gold I once gave him."`
+char_mar: `"That's the gold you created with magic, right?"`
+char_bea: `"Indeed.`
+char_bea: ` A crystallization of the great magic I possessed in those days."`
+char_mar: `"In that case, ......if you get that gold back, your magical power will go back to normal."`
+char_bea: `".........Perhaps...you are right."`
+char_mar: `"It will. Uu!`
+char_mar: ` It's got to be your resurrection ritual...!`
+char_mar: ` I'll help, so let's solve it together.`
+char_mar: ` And then you'll revive!`
+char_mar: ` And when you do, you'll take me to your Golden Land...!"`
+char_bea: `"That's right.`
+char_bea: ` I did promise that I would take you to the Golden Land."`
+char_mar: `"You said that all wishes are granted there...!`
+char_mar: ` There's no black witch there, just Mama who's nice...!`
+char_mar: ` And I might even meet Papa who I've never seen before...!"`
+char_mar: `"Of course, there won't be any school, or homework, or bullying friends, and we can live happily ever after...!`
+char_mar: ` Hey, Sakutaro, doesn't that sound fun?!`
+char_mar: ` Uryuu!"`
+char_non: `............The portrait's epitaph.`
+char_non: `Then, must I face the epitaph's riddle?`
+char_non: `If Kinzo's children struggled uselessly over it,`
+char_non: ` ......how could a complete stranger like me solve it...?`
+char_non: `......If I did happen to solve it, ......that would surely be a miracle.`
+char_non: `Will one miracle bring about another and return my miraculous power to me......?`
+char_non: `Behold the sweetfish river running through my beloved home of old.`
+char_non: `{n}You who seek the Golden Land, follow its path downstream in search of the key......`
+char_bea: `"............So, am I to travel down a river in Kinzo's homeland in search of a key?"`
+char_non: `As you travel down it, you will see a village.`
+char_non: `{n}In that village, look for the shore the two speak of.`
+char_non: `There the key to the Golden Land sleeps......`
+char_bea: `"......There may be villages down that river,`
+char_bea: ` but what is this shore the two speak of?"`
+char_non: `You who laid hand upon the key must journey as follows to the Golden Land......`
+char_non: `.........So, those who do not have the key need not read the rest.`
+char_non: `I do not understand it, but that's how this riddle is.`
+char_non: `......It's practically unsolvable, so solving it would be a miracle.`
+char_non: ` That much makes sense......`
+char_bea: `"............nn."`
+char_non: `I felt a stabbing pain in my body.`
+char_non: ` The anti‐magic toxin had burned my skin.`
+char_non: `Some {y:0:Human}{n:0:human} is probably approaching.`
+char_non: ` I erased my form.`
+char_non: `Multiple sets of footsteps approached.`
+char_non: `It was Genji, Shannon, ......and Kanon too.`
+char_gen: `".........It seems everyone is engrossed with solving the epitaph's riddle."`
+char_kan: `"Yes.`
+char_kan: ` I hear that even some of the servants have written it down and taken it home with them."`
+char_sha: `"......If you solve this riddle, will you really find ten tons of gold?"`
+char_gen: `"Yes.`
+char_gen: ` There can be no doubt of that."`
+char_kan: `"I don't understand.`
+char_kan: ` ......Why is the Master displaying the location of his precious gold,`
+char_kan: ` even in the form of a cryptic epitaph, in a place where everyone can see?"`
+char_gen: `"......That is the Master's magic, and also a bet.`
+char_gen: ` The Master believes that the soul of {f:5:Beatrice}‐sama will dwell within the one who solves this inscrutable riddle."`
+char_sha: `"............That's a strange bet—I mean, magic..."`
+char_kan: `"Hmph, looks like he's taken his occult fanaticism as far as it could possibly go."`
+char_sha: `"Shh.`
+char_sha: ` You shouldn't say that......"`
+char_gen: `"......All have the right to challenge the epitaph's riddle.`
+char_gen: ` Of course, the servants are no exceptions.`
+char_gen: ` ......Are you making an attempt?"`
+char_sha: `"N‐no......`
+char_sha: ` ......I could never solve such a hard riddle...`
+char_sha: ` And......"`
+char_gen: `"......And?"`
+char_sha: `"Even if I had ten tons of gold, I can't think of anything in particular I'd want to use it for......`
+char_sha: ` I'd be more than happy if these peaceful days continued forever."`
+char_kan: `"Looks like you and George‐sama have been pretty close these days.`
+char_kan: ` I just hope being distracted doesn't make you even more of a klutz."`
+char_sha: `"Th‐that won't happen."`
+char_non: `With a backward glance at this conversation, Genji walked up to the portrait...`
+char_non: `...and looked up at the witch.`
+char_gen: `"......................................."`
+char_non: `When they saw what Genji was doing, Shannon and Kanon immediately went silent.`
+char_non: `......Genji, who was the head of the servants, ......the closest in age to Kinzo, and the one whom Kinzo called a friend,`
+char_non: ` probably understood Kinzo's heart better than anyone else.`
+char_non: `What did he think when he looked at this portrait.........?`
+char_non: `Neither Shannon nor Kanon could tell.`
+char_gen: `"............Behold the sweetfish river, running through my beloved home of old."`
+char_non: `Suddenly, Genji started reciting the epitaph.`
+char_non: `Shannon quickly nodded to show that she was listening, but it wasn't clear whether he was talking to her at all.`
+char_non: `Genji, his back still to them, continued.`
+char_gen: `"The Master would not describe Odawara as his beloved home of old."`
+char_kan: `"......I've heard that he lived far away."`
+char_sha: `"Th‐though I don't know where it was......"`
+char_gen: `"Taiwan."`
+char_non: `Genji turned around and spoke that single word.`
+char_sha: `"......O‐`
+char_sha: `......oh,`
+char_sha: ` is that so...?"`
+char_kan: `"I see, so that explains what Krauss‐sama always used to say.`
+char_kan: ` Remember him talking about how the Master liked areca nuts?"`
+char_sha: `"......Come to think of it,`
+char_sha: ` Krauss‐sama said that those were a luxury item, like tobacco, that was popular in Taiwan...`
+char_sha: ` So that's why the Master......"`
+char_non: `Many Japanese moved to this land in the half‐century before the war.`
+char_non: `Kinzo's family was a branch family of the Ushiromiyas.`
+char_non: `Apparently, they were only distantly related to the head family, so they were able to emigrate to this new world with dreams of a new future,`
+char_non: ` without being constrained by the head family in Odawara...`
+char_non: `Shannon and Kanon nodded their understanding, but they didn't know why Genji had suddenly broached this subject.`
+char_sha: `"......So, ......there was a river with sweetfish in it in the Master's homeland of Taiwan, and the key is there?"`
+char_kan: `"Don't be so stupid.`
+char_kan: ` There must be countless rivers with sweetfish there."`
+char_sha: `"W‐we don't know that for sure, right...?`
+char_sha: ` I don't know where the Master lived in Taiwan, ......but there might have been only one river there.`
+char_sha: ` If so, that must be the place."`
+char_kan: `"You're too optimistic.`
+char_kan: ` There's no way the riddle could be solved that easily."`
+char_gen: `"......The Master says his magical ritual will gain more power if more people try to solve the riddle.`
+char_gen: ` You must try as well, Shannon.`
+char_gen: ` Everyone has been given equal opportunity."`
+char_sha: `".........Y‐...yes."`
+char_kan: `"It's not like we have any chance.`
+char_kan: ` So stupid......"`
+char_non: `Genji spun around.`
+char_non: ` Shannon and Kanon hurried to follow after him.`
+char_non: `When his footsteps receded and silence returned, a gold butterfly flitted out from among the shadows.`
+char_bea: `".........Taiwan, is it?`
+char_bea: ` ......Hoh, so he lived quite far away."`
+char_non: `Behold the sweetfish river, running through my beloved home of old.`
+char_non: `{n}In other words, a sweetfish river running through my beloved Taiwan......?`
+char_bea: `"......There are countless rivers in Taiwan.`
+char_bea: ` Kanon was right.`
+char_bea: ` How ridiculous."`
+char_non: `.................................`
+char_non: `However, the word "Taiwan" interests me.`
+char_non: `How could it not mean something when Genji, a man of few words, had muttered it unprompted?`
+char_non: `Clearly, Genji must have said it in connection with the epitaph's riddle.`
+char_non: `{n}Almost as though it were a hint for solving it......`
+char_bea: `"............Though I do find it ridiculous,`
+char_bea: ` ......very well, Genji.`
+char_bea: ` Why don't I play along with your farce for a while?"`
+char_non: `Taiwan......`
+char_non: ` I have traveled the world these past thousand years, but I know nothing of the place.`
+char_bea: `"......To counter my ignorance, I shall need a crystallization of knowledge.`
+char_bea: ` That which is smoothed out and pressed into many sheets, what is called a book."`
+char_non: `Where might I find a book about Taiwan?`
+char_non: `Kinzo's study is the first place that comes to mind if one is looking for books.`
+char_non: `{n}But that won't work.`
+char_non: ` The charm on that room prevents me from entering.`
+char_non: `In that case, the book archive......`
+char_non: `Kinzo's vast library grows each year.`
+char_non: `It can no longer be completely contained within his study, and so a portion of it is stored in a place called the book archive.`
+char_non: `......Of course, there are countless books just in this place.`
+char_non: `The archive has everything from valuable books to apparently worthless books, all packed together like an antique shop.`
+char_non: `.........There was a golden glint in the keyhole of the archive's door, and a gold butterfly flitted out.`
+char_bea: `"The stench of this room is as overpowering as ever.`
+char_bea: ` ...Dust, mold.`
+char_bea: ` Yes, the stench of knowledge."`
+char_non: `......Well now, how can I find a book on Taiwan amongst all this?`
+char_non: ` The prospect is almost dizzying.`
+char_non: `However, I realized right away.`
+char_non: `If I wanted to quickly find out about Taiwanese rivers, I didn't want a book on Taiwan.`
+char_bea: `".........An atlas.`
+char_bea: ` .........There must be one of those somewhere around here.`
+char_bea: ` ......Search, my butterfly minions...!!`
+char_bea: ` Find the book I seek in this dusty, noble graveyard of knowledge!"`
+char_non: `A cloud of countless gold butterflies appeared at my feet.`
+char_non: `They rose in a swell, blew like the wind, and swirled around the archive.`
+char_non: `Eventually, the cloud of butterflies selected a single book.`
+char_non: ` Apparently, this was the one.`
+char_bea: `"Well done.`
+char_bea: ` .........Hmm, a world atlas, Asia volume.`
+char_bea: ` Perfect."`
+char_non: `It was a grand, thick, illustrated encyclopedia of maps, several volumes long.`
+char_non: `There was a thick section devoted to Taiwan.`
+char_non: ` It seemed sufficiently useful as a reference.`
+char_bea: `".........Taiwan.`
+char_bea: ` ......{nobr:394 km} north to south, {nobr:144 km} east to west.`
+char_bea: ` An area of roughly 36,000 square kilometers.`
+char_bea: ` ......Hohoh, that's pretty large."`
+char_non: `By area, that's about the same size as Kyushu in Japan.`
+char_non: `{n}......This led Beato to a very natural question.`
+char_bea: `"Just where on this massive island did Kinzo live?`
+char_bea: ` ......Genji mentioned Taiwan, but that's all.`
+char_bea: ` What a careless oversight......"`
+char_non: `Beato had imagined, without much thought, that the riddle would be solved in a flash if only she could look at a map of Taiwan.`
+char_non: `However, Taiwan is no small place.`
+char_non: ` Just which part of this large island did Kinzo call his beloved home of old?`
+char_non: `......Looking through books in this dusty archive, sometimes having to cough, while this simple problem obstructed my progress...`
+char_non: `was by no means enjoyable.`
+char_bea: `"So, the largest city is Taipei.`
+char_bea: ` ......It says here that Japanese people used to live in a spot called Taishou.`
+char_bea: ` ......So, is that where Kinzo lived?`
+char_bea: ` No, it's too early to be sure of that without proof."`
+char_non: `I'll skip to the next part before I settle on anything more specific than just Taiwan itself.`
+char_non: `A sweetfish river running through the home of old.`
+char_non: `{n}What's this......?`
+char_non: ` There are 129 rivers in Taiwan?`
+char_bea: `"Gah......`
+char_bea: ` 129 rivers...!`
+char_bea: ` And who knows how many of those have sweetfish swimming in them...?!`
+char_bea: ` Just thinking about it is dizzying!"`
+char_non: `This was quickly becoming ridiculous.`
+char_non: `Genji must have been muttering nonsense to himself after all.`
+char_non: `I only thought he was giving a hint about the epitaph...`
+char_bea: `"So, the reward for the fool blinded by gold is dust.`
+char_bea: ` *cackle*cackle*, nice one, Genji."`
+char_non: `I tossed the book aside, used magic to turn a bookshelf into a sofa, and plopped down on top of it.`
+char_non: `For a while, I gazed up at the ceiling as I grumbled about getting tricked.`
+char_non: `Then, I cast my eyes down at the floor, thinking that I would feel a lot better if I gathered all this room's dust, packed it into a ball, and tossed it into Genji's teacup. `
+char_non: `A book I had thrown away lay open on the ground.`
+char_non: `A gold butterfly alighted on that open page.`
+char_non: `.........Tossing a book at random and reading an oracle from the page it happens to open to is one kind of charm.`
+char_non: `I see, ......so that page might have some sort of hint.`
+char_non: `Not entirely convinced, I picked the book up......`
+char_non: `The opened page was probably very near the one I had been reading.`
+char_non: `{n}It seemed to be a page explaining Taiwan's geography.`
+char_non: `Oddly enough, it was a page about rivers and lakes......`
+char_bea: `".........I already know that there are 129 rivers.`
+char_bea: ` Is there something else you're trying to tell me?"`
+char_non: `There were six major rivers listed.`
+char_non: `{n}Zhuoshui River.`
+char_non: ` Gaoping River.`
+char_non: ` Tamsui River.`
+char_non: ` Dajia River.`
+char_non: ` Zengwun River.`
+char_non: ` Dadu River.`
+char_bea: `"Hoh.`
+char_bea: ` Now then, could any of these rivers have had sweetfish in them...or not?"`
+char_non: `Then, I had a shocking realization.`
+char_non: `Sweetfish are freshwater fish.`
+char_non: ` And you don't find ocean water in rivers.`
+char_non: `......Unless it's extremely dirty or blocked by a dam,`
+char_non: ` any river might have sweetfish in it.`
+char_bea: `"How foolish.`
+char_bea: ` All rivers have fresh water in them.`
+char_bea: ` What's stopping sweetfish from living in any river?`
+char_bea: ` ............Come to think of it, what a foolish name this Tamsui River has.`
+char_bea: ` Freshwater River? What sort of river isn't a freshwater river?`
+char_bea: ` Why not at least wait for something besides fresh water to flow down it and name it after that instead?"`
+char_non: `Tamsui River flows from Taipei to the harbor town of Tamsui.`
+char_non: `I see—it isn't called that because of the water in it, but because of the town at its mouth.`
+char_non: `............As you travel down it, you will see a village.`
+char_non: `{n}In that village, look for the shore the two speak of.`
+char_bea: `"...................................."`
+char_non: `I realize that this is stupid.`
+char_non: ` And yet, something about this town seems off.`
+char_non: `Behold the sweetfish river, running through my beloved home of old.`
+char_non: `That line should be talking about one of the 129 rivers.`
+char_non: `......Sweetfish...are freshwater fish.`
+char_non: ` And here's this "Freshwater River", flowing down to a town called "Freshwater".`
+char_non: `I do think I'm stretching it.`
+char_non: `{n}......Or...is it some kind of hint...?`
+char_non: `......I've come all the way to this archive and even gotten myself covered in dust in my search for books.`
+char_non: `If I give up now, it will all have been a waste of time.`
+char_non: `............Very well.`
+char_non: `Why don't I test my luck,`
+char_non: ` ......and see if the random page the book opened to contains a message from above?`
+char_non: `I turned to the next page, trying to search in even greater detail......`
+char_cur: `"We treated this riddle as a sort of game.`
+char_cur: ` And all of the servants were engrossed in it."`
+char_cur: `"I was just trying to be one of that group.`
+char_cur: ` ......I had long since run out of books that I could become enthusiastic about, so, out of boredom, I took that book back with me to my own room and looked through it every night."`
+char_rio: `"......There's a hint for the epitaph's riddle in an atlas?"`
+char_wil: `"In the third game, Eva solved the riddle after reading a book in the book archive.`
+char_wil: ` Then, in the fifth game, Furudo Erika looked for an atlas in the book archive before solving the riddle herself."`
+char_rio: `"Then there really is some secret in a map of Taiwan......"`
+char_cur: `"......I believed that the sweetfish river part was code for Tamsui River.`
+char_cur: ` Every day, I researched the surrounding geography in detail.`
+char_cur: ` ......Of course, I also looked up several small streams that might have sweetfish in them.`
+char_cur: ` However, ......that didn't get me anywhere."`
+char_wil: `"According to some information from a previous game, ......we aren't looking for an actual river.`
+char_wil: ` But it was something that flowed.`
+char_wil: ` That's how Eva interpreted it."`
+char_rio: `"Not a river...?"`
+char_cur: `"Yes.`
+char_cur: ` In the end, Tamsui River had nothing to do with it.`
+char_cur: ` ......However, thinking about it now, it must have been a message from above after all.`
+char_cur: ` Tamsui River itself was unrelated, ......but it was still an incredible hint."`
+char_rio: `"The river was unrelated, ......but it was still a hint?"`
+char_wil: `"Slow down and think.`
+char_wil: ` Think of something that flows but isn't a river."`
+char_rio: `".........So, something other than water that flows...?"`
+char_wil: `"What comes to mind?`
+char_wil: ` ......Try to think out of the box."`
+char_rio: `".............................."`
+char_ber: `"......Will,`
+char_ber: ` I'm tired of all this puzzle‐solving.`
+char_ber: ` ......Stop being annoying and come out with it.`
+char_ber: ` ......You've solved it, haven't you? The epitaph."`
+char_wil: `".....................`
+char_wil: ` ......Probably."`
+char_rio: `"......What things flow other than water......`
+char_rio: ` ......What things...`
+char_rio: ` ......Things......?`
+char_rio: ` ......Things...being transported......?`
+char_rio: ` Like on a road or a highway?"`
+char_cur: `"Correct.`
+char_cur: ` It took me so long to realize that the sweetfish river did not refer to water itself......"`
+char_wil: `"That's right.`
+char_wil: ` There's something other than a river with the name Tamsui.`
+char_wil: ` Something that carries both people and things, and which flows both up and down."`
+char_rio: `"......Both up and down......?`
+char_rio: ` You mean......"`
+char_wil: `"Yes.`
+char_wil: ` A railway."`
+char_non: `The Tamsui Line.`
+char_non: ` It's a railway that goes from Taipei to Tamsui Harbor.`
+char_non: `It was opened in 1901.`
+char_non: `{n}Afterwards, the number of stations continued to grow, and it became a major artery into Taipei.`
+char_non: `This railroad was used after the war as well and is still in common use as the Taipei Metro Tamsui Line.`
+char_non: `Its route begins at Taipei Station and continues on until the town of Tamsui......`
+char_non: `{ruby:Taipei:{p:0:台北}} Station.`
+char_non: `{n}{ruby:Chang‐an:{p:0:長安}} Station (old name: {ruby:Taishougai:{p:0:大正街}} Station).`
+char_non: `{n}{ruby:Shuanglian:{p:0:双連}} Station.`
+char_non: `{n}Tatung Company Station.`
+char_non: `{n}{ruby:Yuanshan:{p:0:円山}} Station.`
+char_non: `{n}{ruby:Jiantan:{p:0:剣潭}} Station (old name: {ruby:Miyanoshita:{p:0:宮ノ下}} Station).`
+char_non: `{n}{ruby:Shilin:{p:0:士林}} Station.`
+char_non: `{n}{ruby:Shipai:{p:0:石碑}} Station (old name—`
+char_wil: `".........What did the epitaph say you'd see if you went down the river?"`
+char_rio: `"A, a village."`
+char_wil: `"There's only one station on the Tamsui Line with {p:0:里}, the character for village, in its name, and that's the old name of this {ruby:Shipai:{p:0:石碑}} Station."`
+char_rio: `"H‐how do you read this......?"`
+char_wil: `"The Japanese reading is "Kirigan".`
+char_wil: ` Its name was changed to Shipai Station after the war, but when Kinzo lived there, it was Kirigan Station."`
+char_rio: `"As you travel down it, you will see a {ruby:village:{p:0:里}}....`
+char_rio: ` In that village, look for the shore the two speak of......"`
+char_ber: `"......*giggle*.`
+char_ber: ` It's not just {ruby:village:{p:0:里}}. You can also see a {ruby:shore:{p:0:岸}} in the name of that station......"`
+char_cur: `"I spent no short amount of time trying to decide whether the epitaph truly was referring to this station.`
+char_cur: ` ......It has the character for village and the character for shore.`
+char_cur: ` It felt like a kids' puzzle, playing with letters..."`
+char_rio: `"The first character in Kirigan has a {p:0:口}, the character for mouth.`
+char_rio: ` The other half of that first character, {p:0:其}, means "that", right...?!`
+char_rio: ` And the mouth could be what "the two {i:speak} of" is referring to...!`
+char_rio: ` ......Ah, ...but I don't get what "the two" means..."`
+char_non: `The three characters of Kirigan can be split into {nobr:a mouth ({p:0:口})}, {nobr:a "that" ({p:0:其})}, {nobr:a village ({p:0:里})}, and {nobr:a shore ({p:0:岸})}.`
+char_non: `Those all feature in the epitaph.`
+char_non: `In {nobr:"that" ({p:0:其})} {nobr:"village" ({p:0:里})}, look for the {nobr:"shore" ({p:0:岸})} the two {nobr:"speak" ({p:0:口})} of.`
+char_non: `You can read it as a code for the name of the station.`
+char_non: `{n}However, I don't understand the part about "the two"......`
+char_cur: `"......I was also stuck on that part.`
+char_cur: ` However, by then, I had a strong belief that this station was what the epitaph referred to."`
+char_rio: `"If the station had an old name, ......then could the place it refers to also have an old name?"`
+char_wil: `"That's right.`
+char_wil: ` From the start, Kirigan Station was named after a place.`
+char_wil: ` And the name of that place, which was also Kirigan, is written differently—like this."`
+char_rio: `"Ah, ......there are...two mouths...!"`
+char_cur: `"It was clear as soon as I looked it up.`
+char_cur: ` ......The epitaph had to be referring to this place called Kirigan."`
+char_rio: `"Then is this where the key to the Golden Land sleeps...?"`
+char_cur: `"That would be the obvious answer.`
+char_cur: ` However, I couldn't have made the long trip to Taiwan to check.`
+char_cur: ` And, of course, the place known as Kirigan is quite large itself.`
+char_cur: ` If a tiny key was hidden somewhere there, I'd never find it.`
+char_cur: ` I was at a loss......"`
+char_wil: `"But you didn't give up."`
+char_cur: `"I was certain that I had found the answer, at least to the first five lines of the epitaph.`
+char_cur: ` .........To me, this was a game—no, a mystery—more intriguing than any other."`
+char_non: `I almost gave up at that point.`
+char_non: `However, I was certain I had the key in my hand.`
+char_non: `{n}So, I decided to follow the epitaph's instructions and journey to the Golden Land.`
+char_rio: `"......On the first twilight, sacrifice the six chosen by the key..."`
+char_wil: `"We can tell by this line that the key refers to six things.`
+char_wil: ` ......From that fact alone, we can deduce that this doesn't refer to a physical key."`
+char_rio: `"Six things......?"`
+char_cur: `"Yes.`
+char_cur: ` Six things.`
+char_cur: ` ......I wasn't a very flexible thinker, so...`
+char_cur: `......I decided to look through books for anything related to the number six.`
+char_cur: ` Six.`
+char_cur: ` Six, six, six."`
+char_cur: `"The location of the key called Kirigan was hidden by a word game.`
+char_cur: ` So I was convinced that the six things would be related to some sort of word game as well.`
+char_cur: ` Six.`
+char_cur: ` Six, six, six.`
+char_cur: ` ......I kept searching for six."`
+char_rio: `"............Is there some way to split the characters of Kirigan into six parts......?"`
+char_wil: `"A good idea.`
+char_wil: ` But no matter how much you stare at those three characters, you won't get an answer.`
+char_wil: ` The problem here is that "Kirigan" is just the Japanese reading of the name."`
+char_rio: `"Then how did they pronounce it there?"`
+char_cur: `"......It's pronounced "Qilian".`
+char_cur: ` The English spelling is six letters long."`
+char_rio: `"Six letters...!`
+char_rio: ` Then it is a word game after all...!"`
+char_wil: `"Yes. On the first twilight, sacrifice the six {i:letters} chosen by the key."`
+char_rio: `"......I, .........I get it............"`
+char_non: `When explained like this, it sounds like the logic can be taken from beginning to end in no time at all.`
+char_non: `......However, it took a long, long time for me to reach this spot on my own.`
+char_non: `A dizzying number of nights passed from the time Genji uttered that single word to the time I got this far.`
+char_rio: `"So, what does it mean to sacrifice these six letters?"`
+char_wil: `"On the second twilight, we start hearing about "those who remain".`
+char_wil: ` ......We can deduce that the epitaph is telling us to remove the six letters of the key from some longer word or phrase, and then do something with the letters that remain."`
+char_cur: `"However, what could the six letters be removed from?`
+char_cur: ` I spent a long time on that as well.`
+char_cur: ` It was like the start of an entirely new riddle.`
+char_cur: ` And this time, I had to solve it all by myself, without any assistance."`
+char_rio: `"......I think there was a previous game where someone—I think it was Aunt Rosa—`
+char_rio: `formed some sort of theory about the first twilight."`
+char_wil: `"That theory focused on the tenth twilight's "Home of the Gold".`
+char_wil: ` The epitaph uses the phrase "Golden Land" four separate times, but the phrase "Home of the Gold" is only used that once."`
+char_cur: `"Why is it written that way only on the tenth twilight?`
+char_cur: ` It took me a long time to notice the significance of this, and just as long to discover the reason."`
+char_wil: `"Rosa's theory went like this.`
+char_wil: ` She read the "Home" ({p:0:郷}) kanji as "kyou" and interpreted it as {ruby:kyou:{p:0:京}}, which she took as short for "Kyoto" ({ruby:kyouto:{p:0:京都}}).`
+char_wil: ` Then, she reasoned that if you take a ten‐day trip from the beloved hometown to Kyoto, there might be some secret at the end of the first tenth of that journey.`
+char_wil: ` .........It was a good theory, but she just missed the mark.`
+char_wil: ` {p:0:京} has another meaning besides Kyoto."`
+char_rio: `"......{p:0:京} can mean something other than Kyoto......?`
+char_rio: ` Hmmm......"`
+char_wil: `"Don't think too hard on it.`
+char_wil: ` You either know it or you don't."`
+char_cur: `"......There's another meaning of {p:0:京}.`
+char_cur: ` One where it's not read "kyou", but "kei".`
+char_cur: ` It's the name of a number.`
+char_cur: ` {nobr:10,000 is {ruby:man:{p:0:万}}}, {nobr:10,000 {ruby:man:{p:0:万}} is {ruby:oku:{p:0:億}}}, {nobr:10,000 {ruby:oku:{p:0:億}} is {ruby:chou:{p:0:兆}}}, and {nobr:10,000 {ruby:chou:{p:0:兆}} is {ruby:kei:{p:0:京}}}."`
+char_rio: `"So it's a number......!"`
+char_cur: `"......Here, I had a home‐field advantage, since I lived on Rokkenjima.`
+char_cur: ` There was a hint there that made it easier to think of the number "kei".`
+char_cur: ` In fact, you might say that I actually found the answer before I knew what the question was."`
+char_wil: `"If you keep making it so complicated, Lion's gonna get a headache.`
+char_wil: ` Let's get back to the point.`
+char_wil: ` ......If you reach one kei on the tenth twilight, how far have you gotten by the first twilight?"`
+char_rio: `"O‐one tenth of one kei, and one kei is ten thousand chou...`
+char_rio: ` ......So.........a thousand chou?"`
+char_wil: `"Exactly.`
+char_wil: ` We remove the key's chosen six letters from a thousand chou."`
+char_cur: `"Since Qilian was written in English, I immediately guessed that "a thousand chou" would also have to be written in English."`
+char_wil: `"A thousand chou in English is "quadrillion".`
+char_wil: ` ......As Battler guessed in the fifth game, it has 11 letters.`
+char_wil: ` Or should I say as you guessed?"`
+char_ber: `"............*giggle*."`
+char_cur: `"Curiously enough, the first letter is "Q".`
+char_cur: ` The first letter of the six‐letter key is also "Q".`
+char_cur: ` I felt that this just had to be right."`
+char_non: `Lion took a notepad from a pocket and spelled out Quadrillion and Qilian.`
+char_non: `The two words even looked similar at a glance.`
+char_rio: `"..................`
+char_rio: ` ......You're right.`
+char_rio: ` ......The six letters chosen by the key are right there inside quadrillion...!`
+char_rio: ` So, what happens if we take them out......?!"`
+char_non: `We're left with five meaningless letters.`
+char_non: `{n}However, the important thing is the number five.`
+char_non: `After all, in the next part of the epitaph, the word "kill" appears five times,`
+char_non: ` and then, on the ninth twilight, "none shall be left alive".`
+char_non: `In other words, there should be five letters left.`
+char_rio: `"On top of that, just as Battler‐san guessed in the fifth game,`
+char_rio: ` two of these letters are close to each other.`
+char_rio: ` The "d" and the "r"!`
+char_rio: ` Those must be the two who are close!"`
+char_cur: `"......Once you reach this spot, the riddle has been practically solved."`
+char_wil: `"Or, put another way, this is as far as you can go with the epitaph alone.`
+char_wil: ` You might be able to figure out the answer with a little more word play, but you won't be able to activate the mechanism."`
+char_cur: `"That's right.`
+char_cur: ` ......Once you know this much, all that remains is to gouge and kill."`
+char_wil: `"You had a good idea of where the place was, even before you got this far, right?"`
+char_cur: `"Yes.`
+char_cur: ` .........I suspected that the gold was hidden there even before the epitaph appeared.`
+char_cur: ` It was only natural to suspect that the place concealed some secret, because of the mysterious phrase that appears there......"`
+char_rio: `"......What do you mean by "the place"......?"`
+char_wil: `"The place with the mechanism that opens the door to the Golden Land.`
+char_wil: ` ......By now, a quick‐witted person should be able to figure out where to find "the first twilight" where you sacrifice the six chosen by the key."`
+char_rio: `"Huh?`
+char_rio: ` I thought the first twilight was "quadrillion", not a place......"`
+char_wil: `"It's the place where "quadrillion" is written.`
+char_wil: ` ......You should know it.`
+char_wil: ` Or did you blindly follow Kinzo's orders and never go near it...?"`

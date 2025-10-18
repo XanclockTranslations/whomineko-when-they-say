@@ -1,0 +1,628 @@
+char_non: `The cousins walked along the water's edge, playing.`
+char_non: `They searched for bits of glass, polished by the waves to become small and gem‐like.`
+char_non: `{n}They caught up on news of each other's lives and joked around.`
+char_non: `They wrote words in the sand.`
+char_non: `{n}They chased the receding waves and ran away from the coming ones.`
+char_non: `The cousins enjoyed this time they had to themselves.`
+char_but: `"Get back here, Maria!`
+char_but: ` You won't get off easy this time!!`
+char_but: ` Wahahaha!"`
+char_mar: `"Kyahahahahahaha!!`
+char_mar: ` No, no, no, no, kyahahahaha!"`
+char_geo: `"You'll get hurt if you fall.`
+char_geo: ` Be careful, you two."`
+char_jes: `"Feels like the wind's gotten stronger.`
+char_jes: ` Maybe we should head back soon."`
+char_geo: `"You're right.`
+char_geo: ` I think the sky's getting cloudier too.`
+char_geo: ` .........Battler‐kun, Maria‐chan!`
+char_geo: ` I think we should call it a day soon and head back to the guesthouse for the time being."`
+char_mar: `"Uu? No way!`
+char_mar: ` I wanna play more!!"`
+char_but: `"Hey, don't ignore your cousin.`
+char_but: ` Okay, that's all for now.`
+char_but: ` Here, I'll give you my glass gem."`
+char_mar: `"Uu!! Really?!`
+char_mar: ` Thank you, Battler!!`
+char_mar: ` Now, I have the most, so I win!`
+char_mar: ` Uu‐uu‐uu!!"`
+char_jes: `"Ange, are you okay?"`
+char_enj: `"............Yeah."`
+char_but: `"What's wrong, Ange?`
+char_but: ` You look a little down."`
+char_geo: `"She's just tired out.`
+char_geo: ` Come on, let's all head back together."`
+char_non: `True, Ange's expression probably looked tired.`
+char_non: `{n}However, Battler alone thought he saw something else in it.`
+char_but: `"What happened?`
+char_but: ` Can you tell me?"`
+char_enj: `"............It's nothing."`
+char_non: `She said that,`
+char_non: ` but something in her expression showed that she was unsatisfied for some reason.`
+char_non: `However, since Ange wouldn't say what it was, and Battler couldn't think of anything,`
+char_non: ` that was the limit of what he could figure out.`
+char_non: `So, he squeezed her small hand, silently letting her know that she could tell him whenever she was ready...`
+char_non: `It had seemed such a bright, sunny day until a short while ago...`
+char_non: `However, the sky had turned gray, and the wind had started to feel more annoying than pleasant.`
+char_non: `If they waited around, they might have to deal with scattered raindrops as well.`
+char_jes: `"And I guess it'll be raining the whole time from now on.`
+char_jes: ` What a drag."`
+char_geo: `"Still, even though it didn't last long, it was fun to be a kid again for a while."`
+char_mar: `"I can't wait to show Mama this glass gem!`
+char_mar: ` I'm gonna tell her I won!"`
+char_but: `"Ihihi.`
+char_but: ` Even though you only won 'cause I gave you mine."`
+char_mar: `"Uu!`
+char_mar: ` I got it, so it's mine!`
+char_mar: ` So I won!`
+char_mar: ` Uu‐uu‐uu!!"`
+char_non: `Ange walked distractedly, pulled along by her brother.`
+char_non: `George and the others thought that she had probably woken up too early and was tired, so they didn't try to talk to her much.`
+char_non: `As they reached the end of the forested path, the rose garden lay before them.`
+char_non: `{n}They could see the strong winds making the rose bushes wave.`
+char_mar: `"Mama!! Look!!`
+char_mar: ` I won!!"`
+char_non: `Waving a hand about and yelling, Maria ran.`
+char_non: `{n}Rosa was waving to her from the front of the guesthouse.`
+char_jes: `"I'm gonna head back to my room for a sec.`
+char_jes: ` I'll meet you in the cousins' room right after."`
+char_geo: `"Okay, got it.`
+char_geo: ` See you later, then."`
+char_non: `Jessica ran off in the direction of the mansion.`
+char_non: `George turned around, as though suggesting that they had better get going too.`
+char_non: `However, when he saw Ange standing still with a crabby look on her face,`
+char_non: ` he realized that she might have been put into a bad mood by something.`
+char_geo: `"......Is everything okay?"`
+char_but: `"Y‐yeah, she's fine.`
+char_but: ` Sorry, but would you mind going on ahead of us?"`
+char_geo: `"Sure, got it.`
+char_geo: ` See you later."`
+char_non: `George headed for the guesthouse.`
+char_non: `The only ones left in the rose garden were Battler, who was waving at George, ......and Ange, who was still staring at the ground and holding Battler's hand.`
+char_non: `For the past few minutes, he had repeatedly asked Ange what was wrong.`
+char_non: `He realized that this wasn't anything like a stomachache, or something obvious that had put her into a bad mood.`
+char_non: `However, young girls sometimes get upset for reasons that only they can understand.`
+char_non: `Battler knew this, so he didn't rush her in any way,`
+char_non: ` and continued to gaze around the beautiful rose garden, holding her hand.`
+char_enj: `"............Onii‐chan."`
+char_but: `"......What is it?"`
+char_enj: `"Where...`
+char_enj: `.........is this place?"`
+char_non: `She asked the question...`
+char_non: `as though she was talking about something on the other side of the silver screen.`
+char_non: `Though Battler understood what that question meant, he played dumb.`
+char_but: `"What do you mean, where?`
+char_but: ` It's Rokkenjima."`
+char_enj: `"No, it isn't."`
+char_but: `"Yes, it is."`
+char_enj: `"How is this supposed to be Rokkenjima?"`
+char_but: `"It's the Rokkenjima of October 4th, 1986.`
+char_but: ` ......The Rokkenjima you've wanted to see for so long."`
+char_enj: `"That's a lie."`
+char_but: `"Why do you say that?"`
+char_enj: `"This is all.........a pack of lies."`
+char_non: `Ange wrenched her hand from her brother's grip.`
+char_non: `{n}That hand hit a rose and sent flower petals flying.`
+char_but: `"I don't lie."`
+char_enj: `"How is this supposed to be the truth?!"`
+char_non: `Ange spat those words out.`
+char_non: ` However, Battler's expression remained calm and composed.`
+char_but: `"......What don't you like about it?"`
+char_enj: `"For one, Ushiromiya Kinzo!`
+char_enj: ` There's no way he was like that and you know it!"`
+char_but: `"He's just seen his grandchildren again for the first time in a long while.`
+char_but: ` .........I think any grandfather would smile in that situation."`
+char_enj: `"Not Ushiromiya Kinzo, he wasn't that kind of person!!`
+char_enj: ` Ushiromiya Kinzo was......"`
+char_but: `"Strict, discontented, short‐tempered, and quick to anger?"`
+char_enj: `"So you do understand!!`
+char_enj: ` What was all that back there?!!`
+char_enj: ` How was that supposed to be Ushiromiya Kinzo?!`
+char_enj: ` Halloween?`
+char_enj: ` Exchanging presents?!`
+char_enj: ` What the hell is that?!!`
+char_enj: ` That's nothing like Ushiromiya Kinzo... This is nothing like Rokkenjima...!!"`
+char_but: `".........Don't you remember, Ange?"`
+char_enj: `"Remember what...?!"`
+char_but: `"We did that every year, didn't we?"`
+char_enj: `"Every year...? That?!"`
+char_but: `"Well, I guess it's no surprise.`
+char_but: ` The last time you went to a family conference, you weren't even six years old.`
+char_but: ` ......So, it's only natural that you wouldn't remember."`
+char_enj: `"It's...only natural that...`
+char_enj: `............"`
+char_non: `Ange understood what her brother was trying to say.`
+char_non: ` ......However, she couldn't accept it.`
+char_but: `"It's true that Ushiromiya Kinzo was a strict man.`
+char_but: ` When he was younger, he really did lash out at his kids, apparently.`
+char_but: ` ......It was pretty traumatic for the old bastard and his siblings... You could say they're still a bit scared of him even now,`
+char_but: ` ......and, well, you wouldn't be wrong."`
+char_non: `The grand tale of how Kinzo had restored the Ushiromiya family was more than enough to paint him as a rigid, terrifying man.`
+char_non: `Furthermore, Kinzo was an investor.`
+char_non: ` All the legends and tales that made him seem more mysterious had probably worked in his businesses' favor.`
+char_non: `......At times, Kinzo may even have acted out this part people expected, endeavoring to make his presence all the more overpowering.`
+char_non: `That's why the world at large spoke of Ushiromiya Kinzo as a strict, short‐tempered man.`
+char_non: ` And they even thought of him as a fickle, bold, incomprehensible eccentric...`
+char_but: `"But that was just......the face Grandfather showed to the world.`
+char_but: ` That's not how he acted in private, alone with his family."`
+char_enj: `"......Are you saying that weeping old man who doted on his grandchildren...`
+char_enj: `...is the real Ushiromiya Kinzo?"`
+char_but: `"He must have played with you and patted your head many times.`
+char_but: ` Do you really not remember......?"`
+char_enj: `".............................."`
+char_non: `Things like that......might have happened once or twice.`
+char_non: ` But that would only have been a mere whim of Kinzo's......`
+char_non: `My parents told me all the time.`
+char_non: `......Grandfather is a terrifying person, so make sure you don't mess up.`
+char_non: `......They always, always said......that he's very scary, so take care......`
+char_enj: `".........And that means...`
+char_enj: `......he was a scary person..."`
+char_but: `"When you were little, you never questioned your parents or what they told you... I guess I could say you were an obedient kid,`
+char_but: ` ......but I could also say you had an overactive imagination.`
+char_but: ` ......Dad and the others were just trying to make you realize how important it was to be polite."`
+char_enj: `"......I, ......I saw it, though!`
+char_enj: ` I knew about it!`
+char_enj: ` I knew that Ushiromiya Kinzo was a scary person!`
+char_enj: ` I've even seen him yelling in anger!!`
+char_enj: ` I remember that, I'll never forget it!!"`
+char_but: `"Well, like you saw just now, Grandfather could be a bit abrupt at times.`
+char_but: ` ......He might just have been trying to surprise you.`
+char_but: ` Or, it might just have slipped out when he was having a serious discussion with his kids."`
+char_enj: `"And you think I just got scared for no reason...`
+char_enj: `...and got the wrong idea?"`
+char_but: `"..........................."`
+char_enj: `"That can't be! That can't be true!!`
+char_enj: ` I mean, I still remember it!`
+char_enj: ` I know I saw Ushiromiya Kinzo yelling and being scary!`
+char_enj: ` Mom and Dad were terrified too, so I know I'm right!!"`
+char_but: `".........The impression you had of Grandfather when you were young remained with you, and that impression grew inside you as you grew up."`
+char_non: `How many times did Ange see Kinzo in her life?`
+char_non: `{n}How old was she the last time she saw him?`
+char_non: `Ange, who got sick easily when under pressure, couldn't have gone to Rokkenjima often.`
+char_non: `And, since she was absent for the family conference when she was six, her last memories of him must have come from when she was just five years old.`
+char_enj: `"B‐......but even you...`
+char_enj: `haven't seen Ushiromiya Kinzo for six years."`
+char_but: `"That's right.`
+char_but: ` But, when I finally came back after six years,`
+char_but: ` ......I saw that Grandfather hadn't changed in the slightest."`
+char_enj: `"Kinzo was......fickle, so you could never understand what he was thinking,`
+char_enj: ` ......and he was an eccentric with a creepy love for the occult, and......"`
+char_but: `"It's true that he had a love for the occult.`
+char_but: ` Yeah, it was a bit of a strange hobby for him to get into in his final years.`
+char_but: ` ......I'll admit that his hobby of collecting strange objects to spook his grandchildren with wasn't exactly praiseworthy."`
+char_non: `Even Battler had been pranked by Kinzo in the past.`
+char_non: `He showed me an attaché case with seven strange stakes in it...`
+char_non: `...and said something about how witches in the Middle Ages used them in sacrificial rituals to gouge out the heart.`
+char_non: `When Kinzo first showed me those, I was pretty frightened, but looking back on it, it really was the kind of prank that could only fool a child.`
+char_non: `Grandfather only scared his grandchildren......because he wanted to joke around with them.`
+char_but: `"I'd be willing to bet......that Grandfather pulled a prank like that on you too.`
+char_but: ` It's no surprise that, young as you were, you let that scare you and convince you that Grandfather was a strange, terrifying person."`
+char_enj: `".........I, ......I don't know what you're talking about, ......Onii‐chan......"`
+char_non: `Ange bit her lower lip and stared at the ground.`
+char_non: `She said she didn't understand,`
+char_non: ` ......but in truth, she understood perfectly, and was refusing to accept it.`
+char_but: `"Remember how we traded Halloween presents in the parlor just now?"`
+char_enj: `"......What was that all about?`
+char_enj: ` The Ushiromiya family never did anything that sentimental...!"`
+char_but: `"You......don't remember anything, huh..."`
+char_enj: `"Are you saying I got presents once too?!`
+char_enj: ` I don't remember anything like that!!`
+char_enj: ` That could never happen!"`
+char_but: `"......Do you really think that Grandfather, a man who loved the occult and Western traditions, wouldn't celebrate Halloween?`
+char_but: ` ......Grandfather's "Happy Halloween" was pretty much the standard greeting at our family conferences.`
+char_but: ` ......You must have been given one."`
+char_but: `".........Youth can be so cruel.`
+char_but: ` Grandfather must have put all his heart into choosing that present for you, ......but it looks like your heart didn't remember."`
+char_enj: `"Are you saying that I was just too young to remember,`
+char_enj: ` ......and that......and {i:that}......was the truth of October 4th?!"`
+char_but: `That day, just like six years before,`
+char_but: ` Grandfather entered the parlor with a cry of "Happy Halloween".`
+char_but: `Then, he and I traded presents, ......as he shed tears over our long‐awaited reunion after a six‐year gap.`
+char_but: `......Grandfather was very sad that you weren't able to come.`
+char_but: `So, he gave your present to Kyrie‐san, telling her to make sure that you got it...`
+char_enj: `"I never heard anything about a present like that!`
+char_enj: ` I never got one!!"`
+char_but: `"......True.`
+char_but: ` ......She never...had the chance..."`
+char_enj: `"I don't believe it!!`
+char_enj: ` I won't believe that was Ushiromiya Kinzo!`
+char_enj: ` Then what about the family conference itself?!`
+char_enj: ` Wasn't that a tense argument over the distribution of the inheritance?!"`
+char_enj: `"All of the adult siblings were in money trouble!`
+char_enj: ` They all hungered for Kinzo's inheritance money...!"`
+char_but: `"............Ange, where did you hear that from?"`
+char_enj: `"What do you mean, where?!`
+char_enj: ` It's the truth, isn't it?!"`
+char_but: `"Do you think Dad would talk to you about financial difficulties with his company when you were that age...?`
+char_but: ` And not just Dad.`
+char_but: ` Even if Uncle Krauss, Auntie Eva, and Auntie Rosa talked about how they were in money trouble and wanted Kinzo's inheritance money,`
+char_but: ` ......do you really think they'd talk about it in front of you...?"`
+char_enj: `"B‐but...`
+char_enj: ` ......But it's true, isn't it?!?!"`
+char_non: `That was the bottom line.`
+char_non: `{n}Ange's words were not mistaken.`
+char_non: `Not only Rudolf, but Krauss, Hideyoshi, and Rosa as well...all had companies in money trouble.`
+char_non: `......People started talking about the Rokkenjima Explosion Accident as though it was some sort of conspiracy,`
+char_non: ` ......and a "mystery" imagined by the public covered the island.`
+char_non: `Weekly magazines and television shows researched the circumstances of Kinzo's children at the time, and in the future where Ange lived, that research had been made public.`
+char_but: `".........You learned about all of that.........after 1986."`
+char_enj: `"But it's a fact, isn't it?`
+char_enj: ` There's no difference between facts and truth!"`
+char_but: `"And does that prove that the inheritance created a strained atmosphere between the relatives on Rokkenjima?`
+char_but: ` ............I guess that seemed to fit with your memory of your parents telling you repeatedly to be extra polite at the family conference..."`
+char_enj: `"A‐......are you saying that what I know about Rokkenjima, ......what I know about the Ushiromiya family,`
+char_enj: ` .........is wrong......?!"`
+char_but: `"...................................."`
+char_enj: `"You're the one who's wrong, Onii‐chan!!`
+char_enj: ` What I just saw can't be real, there's no way!!`
+char_enj: ` I refuse to accept that as Ushiromiya Kinzo!`
+char_enj: ` I'll never, ever be able to accept that Ushiromiya Kinzo was like that!!"`
+char_but: `"So, you don't believe, Ange?"`
+char_enj: `"That's right, I don't believe!!`
+char_enj: ` I just don't understand why you're showing me something like this!"`
+char_enj: `"After all, this is your game...no, your game board, isn't it?!"`
+char_but: `"........................"`
+char_enj: `"Beato and Bern!`
+char_enj: ` One witch after another has sneered at my fate, trying to make me surrender in their games.`
+char_enj: ` But I seek the truth!`
+char_enj: ` Those witches' deceptions won't work on me!`
+char_enj: ` ......Now I get it, you damn witches.`
+char_enj: ` So, you've sent Onii‐chan as a final assassin to finish me off."`
+char_but: `"......You're right about one thing.`
+char_but: ` ......This is...my game.`
+char_but: ` So, of course, this is my tale, and I'm the one telling it.`
+char_but: ` That's why I'm able to add in "what if" situations, like what would happen if you came to the island too."`
+char_enj: `"See!`
+char_enj: ` You made this tale!!`
+char_enj: ` It's all a pack of lies, ......a fiction you created!!"`
+char_but: `".....................You're right.`
+char_but: ` ......This is all...a fiction I created."`
+char_enj: `"See?!!`
+char_enj: ` You've admitted it! You have, haven't you?!!`
+char_enj: ` Just like I thought, this is all a lie you made...!`
+char_enj: ` Why are you lying to me?!`
+char_enj: ` Why won't you tell me the truth?!"`
+char_but: `"......Because there's something......more important...`
+char_but: `...that I need to get across to you."`
+char_enj: `"Something more important than the truth......?!`
+char_enj: ` What the hell are you talking about?!"`
+char_but: `"The purpose of my game is to help you understand that."`
+char_non: `Just as Beato's games were made to make Battler believe in witches.`
+char_non: `Battler's game......was made to communicate something to Ange that was more important than the truth.`
+char_non: `Games never bring about their intended ends by force.`
+char_non: `After all, Beato's game could never be won for all eternity, unless Battler himself acknowledged his loss.`
+char_non: `Battler's game was the same.`
+char_non: `This was a game that Battler couldn't win......unless Ange acknowledged it herself.`
+char_non: `So, Battler had advanced this game just as Beato had done in the past.`
+char_non: `To believe, or not. To accept, or not.`
+char_non: `{n}The decision lay solely in the hands of the opponent.`
+char_non: `And so,`
+char_non: ` ......Battler was trying to enshroud Ange with his own illusion......`
+char_enj: `"I finally get it.`
+char_enj: ` ......This is a game between me and you, Onii‐chan."`
+char_but: `"Ange.`
+char_but: ` I'm not trying to challenge you to a game."`
+char_enj: `"No.`
+char_enj: ` This is a game.`
+char_enj: ` ......I made a wish, hoping to learn the truth of October 4th, 1986.`
+char_enj: ` And so, you invited me to this game, saying that you'd show me the truth.`
+char_enj: ` And now, you're showing me this strange illusion, trying to make me believe that it's the truth!`
+char_enj: ` ......Well, too bad.`
+char_enj: ` I'm already used to dealing with witches.`
+char_enj: ` I'm fully aware that you're trying to use that kind face of yours to trick me...!!"`
+char_but: `".............................."`
+char_non: `The big brother knew that no words of his would have any effect on his enraged little sister.`
+char_non: `So, he just quietly listened to Ange's words.`
+char_non: `{n}But for Ange, ......even that was frustrating.`
+char_enj: `"I've had more than enough of this stupid farce.`
+char_enj: ` If you don't plan on telling me the truth, then end it all now!`
+char_enj: ` I'll find my own truth for myself!`
+char_enj: ` I won't rely on you...!"`
+char_enj: `".........That's right.`
+char_enj: ` There never was anyone I could rely on anyway...`
+char_enj: ` ......I've......always been......all alone......"`
+char_but: `"Sorry,`
+char_but: ` but I won't let you leave this game."`
+char_enj: `"......Ah, that's right.`
+char_enj: ` Unless the Game Master admits defeat, the game never ends, right?"`
+char_but: `"That's not what this is.`
+char_but: ` ......I just want you to stay quiet and listen to what I have to say."`
+char_enj: `"......Oh, okay.`
+char_enj: ` I'll just stay quiet then.`
+char_enj: ` ......Even if a player isn't around, the pieces just move by themselves, and the game moves forward.`
+char_enj: ` ......Isn't that how it was?"`
+char_but: `"...........................`
+char_but: ` ......Alright.`
+char_but: ` Step back from being a player, and become an observer for a little while.`
+char_but: ` You can come back whenever you feel like it."`
+char_enj: `"I'll do just that.`
+char_enj: ` This is an endurance contest.`
+char_enj: ` ..........It'll keep on going until you give up on trying to cover up the truth."`
+char_but: `"..........................."`
+char_enj: `"Something more important than the truth?`
+char_enj: ` ......You're not making any sense...!`
+char_enj: ` There's no such thing...!"`
+char_but: `"There is, Ange.`
+char_but: ` ......Whether my tale is the truth or not,`
+char_but: ` ......the fact remains that you lost something precious on this island."`
+char_enj: `"Dad, Mom.`
+char_enj: ` And you, Onii‐chan.`
+char_enj: ` ......I lost my family...and everything that mattered to me."`
+char_non: `She spat out those words as though no further questioning would do any good...and looked away.`
+char_non: `Even as he watched this, Battler's expression remained gentle.`
+char_enj: `"Just keep going however you like.`
+char_enj: ` Later, Onii‐chan."`
+char_but: `".........At least make sure you watch the tale.`
+char_but: ` Even just listening is enough."`
+char_enj: `"If I feel like it.`
+char_enj: ` ......Later."`
+char_non: `Ange's eyes clouded.`
+char_non: `Then, a particularly strong gust of wind blew by, sending her hair flying.`
+char_non: `The wind must have been carrying some dust with it.`
+char_non: ` Ange's nose twitched, and she sneezed loudly.`
+char_enj: `".........Nnnnn.`
+char_enj: ` ......Onii‐chan...?"`
+char_but: `"What is it?"`
+char_enj: `"......How long are we gonna stand here...? The weather's all weird.`
+char_enj: ` ......Let's go back to the guesthouse."`
+char_non: `Ange's eyes weren't cloudy anymore.`
+char_non: `However, the tone and atmosphere about those eyes seemed somehow different from before...`
+char_non: `In a manner typical of young girls, Ange signaled that she was too bored and wanted to go do something.`
+char_non: `This Ange was clearly a six‐year‐old Ange.`
+char_but: `"Good point.`
+char_but: ` ......Then, why don't you head back to the guesthouse now?`
+char_but: ` I'm going to stay here."`
+char_enj: `"Why...? It'll start raining soon."`
+char_but: `"She should be here in a moment.`
+char_but: ` So, I'll wait for her."`
+char_enj: `"Wait for her? .........For who?`
+char_enj: ` ...............Huh?"`
+char_non: `Then, to Ange's eyes, it looked as though the strong winds were now carrying flakes of gold along with them.`
+char_non: `No, she had definitely seen something, ......but she wasn't able to describe what she had seen,`
+char_non: ` so to her it had seemed like flakes of gold dancing on the wind.`
+char_but: `"There you are.`
+char_but: ` ......I've been waiting a while now."`
+char_non: `It was as though he was talking to the wind.`
+char_non: ` ......Battler spoke to the empty rose garden.`
+char_non: `That can't be right.`
+char_non: ` After all, it was clear from his words that he was talking to someone right in front of him.`
+char_non: `So, Ange thought it must be someone that she alone couldn't see, and she rubbed her eyes.`
+char_non: `Then, when she opened her eyes wide, another large gust of wind blew past her.`
+char_non: `She shut her eyes immediately, .........and when she timidly opened them...`
+char_non: `From the other end of the rose garden—`
+char_non: `yes, from the path that led up from the harbor,`
+char_non: ` ......a person appeared.`
+char_non: `To Ange, it looked as though she had appeared along with a cloud of gold flakes carried by the wind......`
+char_but: `"You're late, Beato."`
+char_bea: `"Am I? I'd call it early."`
+char_but: `"You should ride the boat with us every now and then."`
+char_bea: `"You mean grasp the handrail and scream alongside you?"`
+char_but: `"Yeah, sure, let's scream. Gonna fall, gonna fall..."`
+char_bea: `"*cackle*cackle*!`
+char_bea: ` I see, how interesting...!`
+char_bea: ` Yes, I suppose I did arrive too late."`
+char_non: `The pair casually walked up to each other and hugged.`
+char_non: `{n}It looked like a pair of friends being reunited after several years.`
+char_enj: `"..........................."`
+char_non: `Ange, surprised by this unfamiliar woman, looked for somewhere to hide.`
+char_non: `However, her eyes met Beato's, and she lost her chance to escape...`
+char_bea: `"Oh, and you must be Ange."`
+char_enj: `"..................!"`
+char_non: `She was shocked to hear this unfamiliar woman suddenly use her name.`
+char_bea: `"Look how cute she was at the age of six."`
+char_enj: `"......O‐......onii‐chan.`
+char_enj: ` ......Who......is this person......?"`
+char_but: `"A friend of mine."`
+char_bea: `"A friiiieeeend?!`
+char_bea: ` How can you say that?!"`
+char_enj: `"......Onii‐chan's......friend.........?"`
+char_but: `"This is {f:5:Beatrice}.`
+char_but: ` You've heard from Grandfather, haven't you?`
+char_but: ` About the Golden Witch, who gave the Ushiromiya family its gold?"`
+char_non: `Have I......heard that before?`
+char_non: `The Golden Witch.`
+char_non: ` ......Now I remember.`
+char_non: `That was the scary witch who would snatch you away off into the forest...`
+char_non: `if you didn't listen to your parents or stayed up too late on Rokkenjiima.`
+char_enj: `"On rainy nights,`
+char_enj: ` ......if you look out the window at the dark forest,`
+char_enj: ` ......you might see the witch looking back at you and get snatched away...... That's what Mom told me."`
+char_bea: `"Which must mean...`
+char_bea: `I'm supposed to be wandering about in the cold rain, looking into each window to find kids staying up too late?`
+char_bea: ` How pitiful that would be...!"`
+char_but: `"Wahhahahaha, good point.`
+char_but: ` Ange, your parents just made that story up to get you to go to bed on time.`
+char_but: ` She doesn't do stuff like that."`
+char_bea: `"Very well, allow me to introduce myself!`
+char_bea: ` I am {f:5:Beatrice}, the Golden Witch!"`
+char_but: `"Or her grandchild, at least."`
+char_enj: `"Grandchild......?"`
+char_bea: `"Th‐......that grandchild part puts a bit of a damper on things."`
+char_but: `"Well, it's true, isn't it?`
+char_but: ` The person that Grandfather got the gold from and called the Golden Witch was your grandmother, right?"`
+char_bea: `"Nn...nnggg...... That is true, I admit...`
+char_bea: ` ......Grandchild of the Golden Witch, is it?`
+char_bea: ` ......Nnngh, can't I get a better title than that?"`
+char_enj: `"......Is this person...a witch......?"`
+char_but: `"Yep, she is.`
+char_but: ` She's a guest who's been invited to the family conference today."`
+char_enj: `"......She isn't a scary witch?`
+char_enj: ` She's not gonna take me away into the forest...?"`
+char_bea: `"Damn Rudolf and Kyrie.`
+char_bea: ` Just what do they think they're telling this kid about me!`
+char_bea: ` I don't do things like that...!`
+char_bea: ` I'll lodge a firm protest later! *pout*!"`
+char_non: `......She looked like a very emotional person,`
+char_non: ` ......but she wasn't at all what Ange had expected the creepy Golden Witch would be like.`
+char_non: `She was very loud, overreacting to everything.`
+char_non: ` ......Nothing at all like the witch Maria onee‐chan had talked about, who had lived for a thousand years and had various servants from the demon world.`
+char_non: `She looked, well, like an energetic young woman whom Ange's mom might have been good friends with.`
+char_non: `Her brother and the witch talked together happily like a pair of close friends.`
+char_non: `Dogs often don't trust people when meeting them for the first time.`
+char_non: ` However, people say that dogs feel more at ease with a person once they see their owner acting friendly towards them.`
+char_non: `Surely, something similar to this was taking place in Ange's heart.`
+char_non: `As this pushy, temperamental woman who called herself a witch chatted happily with Battler,`
+char_non: ` Ange watched her behavior closely...`
+char_bea: `"............What's that key for?"`
+char_non: `Beato noticed the gold key hanging from Ange's neck.`
+char_non: `{n}Ange automatically grasped it defensively.`
+char_but: `"That's Ange's precious key."`
+char_non: `After hearing these vague words, the witch stared blankly for a second.`
+char_non: `But, almost immediately, she seemed to understand what he meant.`
+char_bea: `".........I see.`
+char_bea: ` Is that how it is?"`
+char_but: `"I thought it'd be easier to understand if I made it clear what she's supposed to do."`
+char_enj: `"..........................."`
+char_bea: `"Don't worry, Ange.`
+char_bea: ` I shall not steal your precious key."`
+char_enj: `".........Really......?"`
+char_bea: `"Of course.`
+char_bea: ` That key belongs to you, and the choice is yours.`
+char_bea: ` Battler and the rest of us are merely signposts to guide you on your path."`
+char_enj: `"...............?"`
+char_non: `When handing her this key, her brother had said that it was very important and she had to take good care of it.`
+char_non: `Ange didn't have a clue what the key was for,`
+char_non: ` ......but it looked like Beato did.`
+char_non: `However, just like her brother had done earlier, Beato only spoke in riddles.`
+char_non: `This irritated Ange,`
+char_non: ` but for the time being, the Golden Witch had said that she didn't intend to steal this key, so Ange calmed down a little.`
+char_enj: `"......Do you know what this key is...`
+char_enj: `...used for...?"`
+char_bea: `"But of course.`
+char_bea: ` However, I cannot tell you."`
+char_enj: `"Why......?"`
+char_bea: `"Because you must decide how to use that key for yourself."`
+char_non: `The witch said the same thing as my brother.`
+char_non: `The pair nodded to each other, but it was all Greek to me.`
+char_non: `It felt like someone had laid out a riddle that everyone knew but me, and everyone was making fun of me.`
+char_bea: `"You'll know soon enough.`
+char_bea: ` You don't need to dwell on it."`
+char_enj: `"....................."`
+char_non: `Ange held the key tightly.`
+char_non: `Even if she didn't understand what it meant, ......it was her own key, and her big brother had told her to take good care of it.`
+char_non: `With her youthful suspicion, she was scared that the witch might ask her to hand it over, saying that she'd teach her how to use it if she did.`
+char_non: `Of course, her thoughts showed up clearly on her face.`
+char_non: `{n}The witch couldn't help but laugh at that honest expression.`
+char_bea: `"Fear not.`
+char_bea: ` It is impossible for anyone to steal that key from you."`
+char_enj: `"......No one can steal it...?"`
+char_bea: `"You might say that it has been imbued with magic to make it so.`
+char_bea: ` At any rate, fear not.`
+char_bea: ` Neither I, nor Battler, nor anyone else on this island can steal that key from you."`
+char_enj: `"Really......?"`
+char_but: `"Yeah, really.`
+char_but: ` The magic won't let them."`
+char_non: `The key was hanging around her neck like an ordinary necklace.`
+char_non: `Ange could take it off right now if she wanted, and if an adult tried to use force, it seemed like it would be easy for them to take it away.`
+char_non: `However, both her brother and the witch said that it was protected by a magic that would stop anyone from stealing it...`
+char_enj: `".........Does magic...`
+char_enj: `.........really...exist...?"`
+char_non: `Even the six‐year‐old Ange knew about the word "magic".`
+char_non: `However, she also realized that real magic didn't exist,`
+char_non: ` ......and that certain kinds of magic tricks were sometimes called magic.`
+char_non: `However, her brother and the witch were talking about magic itself.`
+char_but: `"Yeah.`
+char_but: ` Magic exists."`
+char_enj: `"......Really...?"`
+char_bea: `"Maria speaks of me often, does she not?`
+char_bea: ` Witches exist,`
+char_bea: ` magic exists—she must have told you these things on many an occasion."`
+char_non: `True, Maria had talked about that many times.`
+char_non: `{n}When it was part of a game, Ange had believed her, more or less.`
+char_non: `However, Ange was, in some ways, sharp for her age,`
+char_non: ` ......and when she heard Maria talking happily about magic, she sometimes thought that such a thing couldn't really exist.`
+char_enj: `"Then, ...show me."`
+char_bea: `"Hmm?"`
+char_enj: `"Show me magic!`
+char_enj: ` Or I won't believe you...!"`
+char_but: `"Hold up a sec...`
+char_but: ` Beato just arrived on the island, and she hasn't even gone to say hi to everyone at the mansion yet..."`
+char_non: `Battler spoke as though he was trying to smooth something over.`
+char_non: `When she heard that, Ange became sure that magic didn't exist after all.`
+char_enj: `"Witches are all a big fat lie...!`
+char_enj: ` I know!"`
+char_but: `"Hey, stop that.`
+char_but: ` You'll hurt Beato's feelings......"`
+char_bea: `"No, it's no problem.`
+char_bea: ` Anyone would say that upon meeting a witch.`
+char_bea: ` Normally, I would ignore provocation from such a small child, but she is your little sister, after all.`
+char_bea: ` Why don't we give her a special showing?"`
+char_but: `"Are you sure...?"`
+char_bea: `"Of course I am.`
+char_bea: ` Watch carefully, Ange."`
+char_enj: `"O‐......okay."`
+char_non: `Though Ange had challenged the witch to show her if she could,`
+char_non: ` now that she was about to be shown, she looked a bit hesitant.`
+char_non: `She gulped, then stared up at the witch's face.`
+char_non: `The witch held out her left hand, bringing it close to Ange's face.`
+char_non: `{n}Then, she slowly spread her fingers.`
+char_non: `Ange, thinking that she was about to be turned into a frog, shrank back.`
+char_non: `However, after waiting a while with her teeth clenched, she realized that nothing was happening.`
+char_non: `So, as her fear turned to irritation, she began to argue.`
+char_enj: `"Nothing's happening."`
+char_bea: `"Don't jump to conclusions so quickly.`
+char_bea: ` I haven't used magic yet.`
+char_bea: ` See, look carefully at my palm.`
+char_bea: ` I'm not hiding anything, correct?"`
+char_non: `Oh, so that's what she was doing......`
+char_non: ` Now that she finally understood, Ange checked both sides of the witch's hand.`
+char_enj: `"......Yeah.`
+char_enj: ` There's nothing there."`
+char_bea: `"Watch closely.`
+char_bea: ` I'll make a fist,`
+char_bea: ` ......and then stretch out my index finger."`
+char_non: `She stretched out her index finger and held it right in front of Ange's eyes.`
+char_non: `Ange, refusing to show weakness by pulling back, stood her ground and concentrated on the fingertip.`
+char_bea: `"Watch the tip of my finger closely.`
+char_bea: ` Ready? It'll be fast."`
+char_non: `The witch rapidly lifted her index finger high into the air, pointing at the heavens.`
+char_non: `Just as Ange looked up to see the finger raised high, it swung down as though trying to dodge her gaze.`
+char_non: `In that manner,`
+char_non: ` ...the finger swung up, down, left, right, then left again,`
+char_non: ` as though Ange was playing a game of {c:86EF9C:Acchi Muite Hoi}.`
+char_non: `Feeling as though she'd lose if she couldn't keep up with the fingertip, Ange swung her face this way and that, looking serious.`
+char_non: `Ever since she was very young, Ange had always hated to lose.`
+char_non: ` She would take even the most trivial games seriously, determined not to lose to the adults.`
+char_non: `The witch's hand moved faster and faster.`
+char_non: ` Ange didn't lose track of it.`
+char_non: `Then, the witch's high pointing finger took a sudden swing downwards,`
+char_non: ` ......and when it stopped, her index finger was curled up, and her hand was held in a simple fist.`
+char_non: `Could it be...that something was going to come out of that hand...?`
+char_non: `Ange, suspecting that this might happen, had followed the finger very closely.`
+char_non: ` There had been no chance for that once empty hand to grab something.`
+char_enj: `"..........................."`
+char_bea: `"Ready? I'm going to open my hand..."`
+char_non: `The witch slowly opened her right fist......`
+char_non: `{n}And there......`
+char_enj: `"............Wha? .........What?!`
+char_enj: ` .........How?!`
+char_enj: ` How, Onii‐chan?!"`
+char_non: `The witch gave the cutely wrapped candy to Ange as a present.`
+char_non: `Ange took it and desperately searched for some kind of trick on it, but it was just an everyday, ordinary candy......`
+char_enj: `"How?!`
+char_enj: ` That was a trick, wasn't it, Onii‐chan?!`
+char_enj: ` Onii‐chan?!!"`
+char_but: `"Nope. That was magic.`
+char_but: ` You were watching the whole time, weren't you?"`
+char_enj: `"Nn, .........nnnnnnnn............!"`
+char_non: `I was watching the whole time, ......so how......?`
+char_non: `{n}She didn't like it, but she was unable to see how that could have been anything other than magic.`
+char_non: `As the little sister furrowed her brow and bit her lower lip, her brother gently told her once more that it was magic.`
+char_bea: `"It's about time for me to head to the mansion to pay my respects.`
+char_bea: ` You should come along, Battler.`
+char_bea: ` I'll suffocate if I have to go alone."`
+char_but: `"You sure? Then I'll join you.`
+char_but: ` ......What about you, Ange?`
+char_but: ` Will you go back to the guesthouse?"`
+char_enj: `"............I, I wanna stay with you, Onii‐chan."`
+char_non: `She still couldn't accept it.`
+char_non: ` But maybe, ......just maybe......`
+char_non: `She still looked grumpy,`
+char_non: ` .........but it looked like she was becoming at least slightly interested in this witch.`
+char_bea: `"Then let us go.`
+char_bea: ` The Golden Witch returns...!"`
+char_but: `"The Golden Witch's...grandchild returns, you mean."`
+char_bea: `"We really need to do something about that name...!"`
+char_non: `The big brother and the witch really did seem close.`
+char_non: `{n}Playing off each other like a pair of comedians, they started heading for the mansion.`
+char_non: `All the while, Ange held onto the corner of her brother's sleeve, trying to make sure he didn't forget about her...`

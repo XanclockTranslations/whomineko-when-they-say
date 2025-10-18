@@ -1,0 +1,969 @@
+char_lam: `......Was it someone's alarm clock?`
+char_lam: ` A repetitive electronic beeping noise filled the room......`
+char_lam: `Battler, who had gone to bed late and hadn't had anywhere near enough sleep yet,`
+char_lam: ` covered his head in his blanket and waited for someone to turn off the alarm.`
+char_lam: `......But no matter how much time passed, the beeping didn't stop.`
+char_lam: `.........I see.`
+char_lam: `The point of an alarm clock isn't just to be loud enough to wake you,`
+char_lam: ` but to be annoying enough to keep you from wanting to fall back asleep.`
+char_lam: `Heyyyy... Guuyys... The alarm's going off.`
+char_lam: ` Make it stop please......`
+char_lam: `Why do we always sound so annoyed when first waking up?`
+char_lam: `......Well, it does makes sense.`
+char_lam: ` After all, we're still sleepy and in a bad mood.`
+char_lam: `However, there was absolutely no sign that my annoyed voice had caused anyone to turn over in their sleep,`
+char_lam: ` much less crawl out of bed to stop the alarm.`
+char_lam: `Letting out a deep sigh, I flung the covers off me and got up.`
+char_lam: `With the shutters down on the windows, there was almost no light getting in, and the room was as dim as it had been earlier.`
+char_lam: `Though even if the shutters hadn't been down,`
+char_lam: ` there's no way that this dull weather would have let in enough sun to make this a pleasant morning.`
+char_lam: `My cousins were still wrapped up in their beds, sound asleep and taking no notice whatsoever of that beeping.`
+char_lam: `Normally, once any one person gets up, the others tend to automatically follow...`
+char_lam: `......Annoyed that the Law of Consecutive Summer Camp Awakenings that I'd come up with had just been broken, I drowsily searched for the source of the sound.`
+char_lam: `I could hear it coming from a wristwatch set on a table.`
+char_lam: `Judging by the style of the watch, it was probably George‐aniki's.`
+char_lam: `Taking a random guess, I pushed a small button on the side of it, and the sound stopped.`
+char_lam: `Apparently, it had been set for seven in the morning.`
+char_lam: `{n}........Is it already seven?`
+char_lam: `Sorry, but I really don't feel like I slept at all......`
+char_lam: `Playing cards had been left on the table as though they had stopped mid‐game.`
+char_lam: `......The game looked like sevens.`
+char_but: `"................................."`
+char_non: `Dammit, ......I've got a piercing headache.`
+char_non: `What the hell was all that last night?`
+char_non: `......That mountain of gold and the subsequent argument between our parents...it all feels like a bad dream...`
+char_but: `"............So stupid..."`
+char_non: `Breakfast normally starts at eight.`
+char_non: `{n}......Now isn't a bad time to start getting up and getting dressed.`
+char_non: `The adults probably won't argue in front of us cousins.`
+char_non: `......In that case, I think I'll stay with my cousins all day long.`
+char_non: `I'm sure they'll be able to keep me away from all that annoying talk about the gold and being the successor and all......`
+char_non: `In fact, I should have done that in the first place...`
+char_non: `I slept with my clothes on last night, too, so I'm drenched in sweat... Gross.`
+char_non: `......I guess I'll take a shower.`
+char_non: `I'm sure the others want to too.`
+char_non: `At this age, it's embarrassing to wake them by shaking their shoulders.`
+char_non: `{n}If I turn the TV on, everyone will probably wake up.`
+char_non: `{n}Well, let's at least turn the lights on for now.`
+char_non: `......In this dim light, with the quiet sound of the continuing wind and rain, it really doesn't feel like morning's come yet.`
+char_non: `I flipped the light switch.`
+char_non: ` And then, that dimly lit morning ended.`
+char_eva: `".........George...... .........Geeeoo{-}o{-}o{-}o{-}o{-}o{-}o{-}orge!!!"`
+char_hid: `"This is just too much......`
+char_hid: ` How...could anyone get away with something like this...?!!"`
+char_non: `As they clung to Aniki's corpse, knowing that he would never wake up again,`
+char_non: ` ......Auntie Eva and Uncle Hideyoshi cried.`
+char_nan: `"......Please, let him go now.`
+char_nan: ` Do you think George‐kun would like the two of you to see him this way...?`
+char_nan: ` Of course not...!"`
+char_rud: `".........Aneki.`
+char_rud: ` I know how you feel, but let's have Doctor Nanjo handle this..."`
+char_eva: `"How could {i:you} understand?!`
+char_eva: ` George was killed!`
+char_eva: ` George!!`
+char_eva: ` Geo{-}o{-}o{-}o{-}o{-}o{-}o{-}o{-}o{-}orge, ugghaaaaaaaaaaahhhhh!!"`
+char_hid: `"Doctor Nanjo's right.`
+char_hid: ` We mustn't keep looking at George like this...`
+char_hid: ` ......This is for his sake!`
+char_hid: ` We've gotta hold back for now...!"`
+char_non: `When Auntie Eva tried even harder to cling to that corpse,`
+char_non: ` Dad and Uncle Hideyoshi dragged her away and had a heated debate with her beside the wall...`
+char_eva: `"No, nooooooooooooo!! Geo{-}o{-}o{-}o{-}o{-}o{-}o{-}o{-}orge!!`
+char_eva: ` Doctor Nanjo! Help him!!`
+char_eva: ` If he's lost too much blood, do a blood transfusion!!`
+char_eva: ` George and I are the same blood type!!`
+char_eva: ` I beg you!`
+char_eva: ` Doctor Nanjo!!"`
+char_nan: `".....................Eva‐san.`
+char_nan: ` ...It pains me to say this,`
+char_nan: ` ......but what George‐kun needs right now isn't your blood..."`
+char_non: `Doctor Nanjo shook his head slightly, then nodded across to where I stood.`
+char_non: `I softly pulled the blanket up......and covered George‐aniki's body.`
+char_non: `His throat......had been split wide open.`
+char_non: `{n}...The wound was probably.....larger and deeper than his mouth.`
+char_non: `{n}Did it look like a clean and neat corpse now that his neck was at least covered...?`
+char_non: `Of course not...`
+char_non: `......The large amount of blood that had spilled from the wound stained the bed a horrible dark red,`
+char_non: ` ......and even covering him with the blanket couldn't hide the blood that had poured out.`
+char_non: `After all, there were large, dark red stains on the blanket too,`
+char_non: ` so that even once he was covered with it, the gruesomeness of the body was still being thrust in our faces......`
+char_non: `So I stripped the blankets off of my bed and placed one on top.`
+char_non: `......But I only had two blankets.`
+char_non: `So if I covered just one more body, ......I wouldn't be able to cover any more.`
+char_non: `Feeling pity for the ones I couldn't cover,`
+char_non: ` ......for some reason, in spite of the situation, ...I muttered "don't complain about not getting the same as everyone else" inside my head......`
+char_rud: `"......Kyrie.`
+char_rud: ` Pull their blankets over them.`
+char_rud: ` ...They'll catch cold."`
+char_kir: `"..................Sure."`
+char_non: `Kyrie‐san and I covered the other bodies with their blankets in the same way as George‐aniki's...`
+char_non: `......So that they wouldn't have to suffer the indignity...of having their terrible wounds exposed like this anymore......`
+char_non: `In one bed......rested Jessica.`
+char_non: `......Jessica was exactly the same as George‐aniki.`
+char_non: `Though she appeared to be resting quietly in the bed...`
+char_non: `......her throat had been sliced deep and the wound lay open in a brutal way......`
+char_non: `And Maria was the same.`
+char_non: `......Not only Maria.`
+char_non: `There was one more victim.`
+char_non: `Lying on the same bed, sleeping alongside her,`
+char_non: ` ......was Auntie Rosa.`
+char_non: `George‐aniki, Jessica, Maria, ...and Auntie Rosa.`
+char_non: `......In this room were four people who had been killed, their throats sliced open.`
+char_non: `They'd probably been like that since last night.`
+char_non: `......And I came back to the room completely ignorant, snuggled under the covers, and fell asleep right next to them.........`
+char_non: `.........All of them had a horizontal cut across their throats.`
+char_non: `I had been...forced to see all the way......into the depths of those gashes in everyone's throat...`
+char_non: `Those cuts might even have reached as far as halfway into their necks.`
+char_non: `......If you tried to open one up, you'd probably be able to see that the gash reached all the way to the bone.`
+char_non: `The only wounds were the single gash on each neck.`
+char_non: `......So if you just covered their necks with your hand,`
+char_non: ` ......you might be able to persuade yourself that they were merely sleeping.`
+char_non: `But even so,`
+char_non: ` ......this frighteningly deep wound...`
+char_non: `......was incredibly...`
+char_non: `...gruesome......`
+char_non: `There's no such thing as "clean" or "dirty" ways of killing.`
+char_non: `{n}...All methods of killing are equally brutal.`
+char_non: `But even so,`
+char_non: ` .........this was incredibly...`
+char_non: `...brutal...............`
+char_non: `And...there was one more thing which adorned these brutal murders to make them even more unsettling.`
+char_non: `Drawn very large on the wall...`
+char_non: `......was something like an eerie magic circle.`
+char_non: `It was drawn in a bright red paint which looked like blood,`
+char_non: ` making it look as though some disturbing ritual had taken place in this room,`
+char_non: ` with the four of them offered as human sacrifices...`
+char_non: `However, none of us were paying it any attention.`
+char_non: `......No one has a heart so cold that they could witness the deaths of those close to them...`
+char_non: `...and still worry about some graffiti on the wall...`
+char_eri: `".........Good morning, everyone.`
+char_eri: ` .........Oh, ......what a wonderful magic circle."`
+char_non: `The girl who bragged that she drew more pleasure from the process of exposing the truth than from the truth itself,`
+char_non: ` ......and who went so far as to call herself an intellectual rapist, ......appeared in the hall.`
+char_non: `When she saw the extraordinarily creepy magic circle in this gruesome room,`
+char_non: ` I heard what was unmistakably a sigh of admiration escape her lips...`
+char_but: `"You...............don't come in here......"`
+char_eri: `"............I overheard the details from the corridor.`
+char_eri: ` Is it four people who have passed away?`
+char_eri: ` ......Allow me to express my sincere condolences."`
+char_non: `On Erika's face...`
+char_non: `...no, that's not it.`
+char_non: ` It was in her eyes.`
+char_non: `......In Erika's eyes, I could see...`
+char_non: `...a shameless smile...`
+char_non: `...that was hard to describe.`
+char_non: `She found this...entertaining.`
+char_non: `{n}......She found the outbreak of a crime...`
+char_non: `...entertaining...`
+char_non: `It was like the smile of a kid waiting in the wings at a school play,`
+char_non: ` moments before she was due to come on stage...`
+char_rud: `"......Sorry, Erika‐chan.`
+char_rud: ` We're busy at the moment.`
+char_rud: ` ......Could you wait in your room?"`
+char_eri: `"............I'm afraid not.`
+char_eri: ` It's the detective's right to investigate the scene."`
+char_but: `"We said we don't want you here...!`
+char_but: ` You're not one of the family, so have the respect to back off!!"`
+char_eri: `".........It is a disappointing, third‐rate mystery in which the suspect blocking access to the murder scene turns out to be the culprit.`
+char_eri: ` ......At least, in my humble opinion...?"`
+char_but: `"Who gives a damn about what you want?!!`
+char_but: ` Get out!!`
+char_but: ` No one needs you here!!"`
+char_hid: `"Erika‐chan...!`
+char_hid: ` I'm real sorry about this, but could you return to your room?!`
+char_hid: ` We're busy here!"`
+char_eva: `"Geoo{-}o{-}o{-}o{-}o{-}o{-}o{-}o{-}o{-}orge,`
+char_eva: ` Geoo{-}o{-}o{-}o{-}o{-}o{-}o{-}o{-}o{-}orge,`
+char_eva: ` wa{0}a{0}a{0}a{0}a{0}a{0}a{0}a{0}a{0}a{0}a{0}a{0}ahhh!!"`
+char_eri: `"......Move out of the way, please.`
+char_eri: ` I can't investigate the crime scene."`
+char_but: `"If there's a need for that, we'll do it ourselves or leave it to the police!`
+char_but: ` Like hell you have the right to defile their bodies even further!!"`
+char_eri: `"{p:1:Detective's authority.`
+char_eri: ` ......The detective has the right to investigate all crime scenes.`
+char_eri: ` Move out of the way, Ushiromiya Battler.`
+char_eri: ` This is my legitimate right within the game, as granted to the {y:0:Human}{n:0:human} side}."`
+char_non: `Those words, which seemed to be utterly ridiculous at first,`
+char_non: ` ......were words of power that had come from a world much higher than theirs.`
+char_non: `Battler was thrown back by an unseen power and landed on his butt.`
+char_non: `Struck silent by Erika's quiet intensity and the bizarre, suffocating atmosphere, ......nobody was able to prevent her from entering the room...`
+char_eri: `".........Rest assured,`
+char_eri: ` my goal is not to profane the dignity of the deceased.`
+char_eri: ` And I have no desire to peer into the ghastly gashes in their throats.`
+char_eri: ` ......What I wish to ascertain is something completely different."`
+char_eri: `"Namely, who committed these murders.`
+char_eri: ` .........Doctor Nanjo and the rest of you,`
+char_eri: ` ......and particularly Battler‐san, the first to discover the bodies:`
+char_eri: ` .........I have a number of questions for you, so I hope you will oblige me."`
+char_but: `"A‐......are you listening?! What gives you the right...?!"`
+char_ber: `"{p:1:Because I am the detective}."`
+char_non: `Battler couldn't argue against this incomprehensible nonsense.`
+char_non: `{n}......No, ...he wasn't permitted to argue.`
+char_non: `{n}It was a restriction...placed on pieces.`
+char_non: `Erika summoned Doctor Nanjo and got him to tell her in detail about his preliminary findings.`
+char_non: `......Normally, he wouldn't have spoken of that to an outsider so casually.`
+char_non: `...However, for some reason, the atmosphere about the place had begun to make it feel as though nothing should be hidden from Erika...`
+char_ber: `".........Okay, let's enjoy this first twilight of Lambda's.`
+char_ber: ` Four corpses?`
+char_ber: ` That's two corpses short.`
+char_ber: ` ......Well, she doesn't necessarily have to see to it that six people are killed, but that's how we've been playing.`
+char_ber: ` That girl isn't completely clueless, so she must have killed two more people somewhere."`
+char_non: `There's a magic circle on the wall representing the first twilight, similar to the ones in Beato's games.`
+char_non: `*giggle*, that girl talks big, but I wonder just how closely she can imitate Beato.`
+char_non: `*giggle*giggle*, ahha{0}ha{0}ha{0}ha{0}haha...!`
+char_non: `Your Hebrew sure is crappy, Lambda.`
+char_non: ` You've got this part slightly wrong.`
+char_rg5: `"......What the heck...`
+char_rg5: ` What's going on?`
+char_rg5: ` Why's there a magic circle?"`
+char_rg7: `"I'll bet someone wanted to try imitating {f:5:Beatrice}‐sama.`
+char_rg7: ` Aha, what a crappy magic circle...!"`
+char_rg3: `"This isn't some funny imitation!`
+char_rg3: ` Some {y:0:Human}{n:0:human} deliberately drew this to make it look like {f:5:Beatrice}‐sama's own work...!`
+char_rg3: ` Anyway, let's report to {f:5:Beatrice}‐sama about this!"`
+char_rg5: `"Even though we're already up to our eyeballs just protecting {f:5:Goldsmith}'s secret... ...What a pain."`
+char_rg7: `"These murders have no beauty to them at all.`
+char_rg7: ` ......It isn't a locked room or anything, and there's nothing impossible about it.`
+char_rg7: ` Sloppy murders like this aren't worthy of {f:5:Beatrice}‐sama at all."`
+char_rg3: `"...Furudo Erika...`
+char_rg3: ` ......An unexpected woman for an unexpected crime.`
+char_rg3: ` ......And there's that unexpected man from 19 years ago.`
+char_rg3: ` .........And if you add on the fact that Battler's already solved the epitaph, this game is completely different than normal.`
+char_rg3: ` ...What the heck's going on...?!`
+char_rg3: ` Let's go!!"`
+char_non: `""Yes, Onee‐sama!!""`
+char_non: `In the kitchen, Gohda was preparing a wonderful breakfast at a brisk pace.`
+char_non: `The main dish would be herb omelet.`
+char_non: `Even simple foods could become an invigorating feast under Gohda's skillful hands.`
+char_non: `He was planning to complete all the other preparations for the meal here beforehand, and then cook their individual omelets fresh before their eyes in the dining hall, serving them up one by one.`
+char_goh: `"Hmm hmm hmm hmm{p:0:♪} Pan pan pan pa~n{p:0:♪}"`
+char_non: `Gohda hummed as he continued his preparations in high spirits.`
+char_non: `When Shannon, who was helping out, saw Gohda like this, her mood also brightened.`
+char_non: `She arranged the salad in a neat little pattern and showed it to Gohda.`
+char_sha: `"How is this?`
+char_sha: ` I think the tomatoes look a bit cuter this way."`
+char_goh: `"Hmm~~, very ni~ce!`
+char_goh: ` You're really getting the hang of this, Shannon‐san!`
+char_goh: ` Hmm hmm hmm hm~m{p:0:♪}"`
+char_non: `""Hmm hmm hmm hm~m{p:0:♪}""`
+char_non: `The two happy people gave each other a high five.`
+char_non: `Shannon didn't like Gohda when he was sneaky, but she had no problems at all with him when he was cooking happily.`
+char_non: `She sometimes even thought it would have been nice if his contract hadn't included any jobs besides cooking.`
+char_non: `If that had been the case, he wouldn't have had to get in a bad mood doing unnecessary jobs.`
+char_kum: `"The dining hall is ready.`
+char_kum: ` You can carry it in whenever you want."`
+char_goh: `"We're almost good to go, so please get the serving cart ready.`
+char_goh: ` Hmm hmm hmmmmm!"`
+char_non: `Without thinking, even Kumasawa caught Gohda's high spirits.`
+char_non: `The kitchen had a very nice smell and atmosphere about it, truly refreshing for so early in the morning.`
+char_non: `Then, Kanon came back in the usual bad mood he always had from the moment he woke up.`
+char_non: `Kanon and Genji were in charge of getting many things ready for the morning, such as opening the curtains.`
+char_non: `......However, Kanon had been alone today, so it had taken much longer than usual.`
+char_kan: `"I'm done.`
+char_kan: ` ......Where's Genji‐sama?"`
+char_sha: `"He still isn't here.`
+char_sha: ` .........That's unusual for him, isn't it?`
+char_sha: ` I've never known him to sleep in."`
+char_kum: `"Hoh‐hoh‐ho.`
+char_kum: ` I guess even Genji‐san sleeps in sometimes."`
+char_goh: `"That's rather careless of him, considering that this is the middle of the family conference.`
+char_goh: ` Kanon‐san.`
+char_goh: ` Could you wake him up for us?"`
+char_kan: `"............Yes."`
+char_kum: `"I wonder what Genji‐san's face looks like when he's half asleep.`
+char_kum: ` Hoh‐hoh‐hoh‐ho. Let me go with you."`
+char_non: `Even though Gohda had asked her to get the serving cart ready,`
+char_non: ` Kumasawa followed nimbly after Kanon, skillfully skipping work.`
+char_non: `As Kanon muttered about how Gohda was the one who slept in all the time,`
+char_non: ` he headed for the servants' sleeping quarters.`
+char_kum: `"So you didn't wake him up this morning, Kanon‐san?"`
+char_kan: `"......Last night, I fell asleep while still in the servant room, so I didn't return to the servants' quarters."`
+char_non: `Last night, Kanon had dozed off while in the middle of his late night shift,`
+char_non: ` falling asleep in the servant room.`
+char_non: `Shannon had been kind enough to put a blanket on him,`
+char_non: ` but that had just made it so warm that he fell into an even deeper sleep...`
+char_non: `So he hadn't returned to his bed in the servants' quarters last night.`
+char_non: `Because of that, he hadn't met Genji even once this morning.`
+char_non: `He knocked on the door.`
+char_kan: `"......Genji‐sama.`
+char_kan: ` It's Kanon.`
+char_kan: ` Good morning."`
+char_kum: `"............Oh my.`
+char_kum: ` I wonder if he's still sleeping."`
+char_kan: `"......Excuse me."`
+char_non: `When Kanon was about to open the door,`
+char_non: ` ......he noticed something strange on the upper part of it.`
+char_non: `......What is that? ......Duct tape??`
+char_non: `A small strip of duct tape was stuck along the frame of the door,`
+char_non: ` almost as though it was sealing the door shut.`
+char_non: `Furthermore, there were small slits made with scissors along the center of the duct tape,`
+char_non: ` so that if you opened the door even a slight amount, it would be torn in two.`
+char_non: `Also, written sloppily across the duct tape with a fine pen was what appeared to be someone's...signature?`
+char_non: `......It was written in a very elaborate and decorative manner,`
+char_non: ` and if it was a signature, Kanon had no idea whose name was written.`
+char_kum: `"I wonder if it's some sort of prank......"`
+char_kan: `"I don't know, but there's no point in worrying about it right now.`
+char_kan: ` ......Genji‐sama,`
+char_kan: ` excuse me."`
+char_non: `He opened the door, ripping the duct tape.`
+char_non: `Nothing in particular happened when it was ripped, so the strange piece of duct tape was quickly forgotten.`
+char_non: `......The room was dimly lit.`
+char_non: `{n}The bunk bed's lower bunk still had a lump under the blanket.`
+char_non: `Apparently, Genji was still sleeping......`
+char_kan: `"Good morning, Genji‐sama."`
+char_kum: `"This isn't like you. Hoh‐hoh‐ho.`
+char_kum: ` It's mo~rni~ng."`
+char_kan: `"...............Ah,`
+char_kan: ` G‐Genji‐sama......!"`
+char_kum: `"Eek, ......wh‐what is this, what is this...?!"`
+char_non: `There was a large, dark red stain on the blanket.`
+char_non: `......Though this was one of the servants' blankets, even those were always kept clean.`
+char_non: `{n}There was no way they would have a stain like this.`
+char_non: `Kanon hesitantly peeled back Genji's blanket,`
+char_non: ` .........saw what was left of him,`
+char_non: ` ......and was shocked into silence.`
+char_rg6: `"Wh‐what the heck?`
+char_rg6: ` His throat's been cut right across!"`
+char_rg4: `".........It's a sharp cut.`
+char_rg4: ` ...You couldn't cut through flesh like that without a blade of considerable length."`
+char_rg2: `"Wh‐what's going on?`
+char_rg2: ` Battler solved the riddle of the epitaph, right?`
+char_rg2: ` Why are murders happening?!"`
+char_rg4: `"I don't know.`
+char_rg4: ` ......In any event, this isn't good.`
+char_rg4: ` We should report about this to {f:5:Beatrice}‐sama and Natsuhi‐sama."`
+char_rg2: `"Belphe, hurry and report to Luci‐nee...!!"`
+char_rg4: `"Understood...!"`
+char_non: `After dashing out, Kumasawa called Gohda and Shannon over.`
+char_non: `......Then, this new pair let out screams identical to the first two.`
+char_rg6: `"Hey, Gohdaaa!`
+char_rg6: ` Don't stop making breakfast!"`
+char_rg2: `"Is now really the time to be saying that?!!`
+char_rg2: ` ......There's no chance they'll be having a quiet and peaceful breakfast on the second day.`
+char_rg2: ` ......I have a bad feeling about this.`
+char_rg2: ` Genji might not be the only one.`
+char_rg2: ` ......Let's check the entire mansion. Something else might have happened...!"`
+char_rg6: `"Yes, Onee‐sama!!"`
+char_non: `Natsuhi sprang awake at the sudden sound of the phone.`
+char_non: `To Natsuhi, the fact that she'd woken up was surprising in itself.`
+char_non: `......She had thought she was going to spend the whole night unable to sleep out of fear that the mysterious man might come in at any moment,`
+char_non: ` but at some point she must have fallen asleep...`
+char_non: `Of course, she still didn't feel rested at all.`
+char_non: `As she groaned from the dull pain in her head, which hadn't gone away once since last night,`
+char_non: ` she managed to get out of bed...`
+char_rg1: `"Good morning, Natsuhi‐sama."`
+char_nat: `".........Good morning.`
+char_nat: ` ......It's a horrible morning......"`
+char_rg1: `"Don't worry.`
+char_rg1: ` No one attempted to enter this room."`
+char_nat: `"......I see.`
+char_nat: ` ...Thanks for keeping watch all night..."`
+char_non: `Even so, that didn't mean she had been able to sleep peacefully.`
+char_non: `.........The continued ringing of the phone made her headache throb even more strongly...`
+char_rg1: `"I believe it would be wise to answer the phone.`
+char_rg1: ` ......Also, I have some bad news to report from my sisters."`
+char_nat: `"......Let's leave the bad news for later.`
+char_nat: ` ......I'll answer the phone first."`
+char_non: `Natsuhi shook her head to wake herself and picked up the receiver.`
+char_non: `......Then, she regretted not listening to Lucifer's bad news first.`
+char_non: `...Because she wanted the first thing she heard about on this horrible morning to be something better than this...`
+char_non: `".........Morning, Mother.`
+char_non: ` ......Sleep well?"`
+char_non: `That voice told her that this horrible morning......this nightmare......was still not over...`
+char_nat: `"I, ......I kept my promise.`
+char_nat: ` I've been holed up in this room the whole time.`
+char_nat: ` Of course, I haven't been on the phone either...!"`
+char_non: `"But you did pick up this phone call, didn't you......?"`
+char_nat: `"W‐......well, ......ah—"`
+char_non: `"Ahahahahahahahaha.`
+char_non: ` ......Just kidding.`
+char_non: ` This is just a wake‐up call I'm giving my beloved mother.`
+char_non: ` Morning, Mother.`
+char_non: ` ......*snicker*snicker*...!"`
+char_nat: `".........How far do you intend to mock me......?"`
+char_non: `Natsuhi gripped the receiver so hard it creaked...`
+char_non: `"I wanted you to leave your seat so that I could set up for the party.`
+char_non: ` ......Thanks to you behaving yourself, everything's ready now.`
+char_non: ` Of course, you're the main guest, Mother."`
+char_nat: `"......Wh‐what are you planning to do......?"`
+char_non: `"That's for you to look forward to.`
+char_non: ` ...Don't worry, I won't keep you waiting.`
+char_non: ` It's already begun.`
+char_non: ` ......Oh, that's right, wait a sec.`
+char_non: ` There's someone I want you to hear."`
+char_nat: `"......Huh?"`
+char_non: `There was the sound of the receiver being jolted around.`
+char_non: `......The phone was apparently being passed to someone else, but there was a clunking, clattering noise,`
+char_non: ` as though it was taking a lot of effort to hand the receiver over...`
+char_non: `Who in the world was he giving the phone to?`
+char_non: `......From what Natsuhi knew of this man, ...no matter who he was giving the phone to, ...it couldn't be good news for her...`
+char_cla: `"......Gwah!`
+char_cla: ` Untie me...!`
+char_cla: ` You coward...!!"`
+char_nat: `"Huh?!`
+char_nat: ` D‐......dear?!`
+char_nat: ` Is that you?!"`
+char_cla: `"Gghgghghgh, mwoooohh...!!`
+char_cla: ` Untie me, untie meee!!"`
+char_non: `It was, without a doubt, the voice of her husband.`
+char_non: `However, he didn't respond to Natsuhi's voice.`
+char_non: `{n}......Perhaps he was bound somewhere in the darkness.`
+char_non: `Krauss, not realizing that Natsuhi was on the other end of the phone, repeatedly demanded that he be untied...`
+char_non: `"......Your husband is here.`
+char_non: ` His eyes and ears are covered, so he can't talk,`
+char_non: ` but I think you can tell that he's in perfect health."`
+char_nat: `"Wh‐what are you after...?!!`
+char_nat: ` Let my husband go!"`
+char_non: `"I'll let him go tomorrow.`
+char_non: ` If you'll keep two promises, that is."`
+char_nat: `"What are they...?!"`
+char_non: `"One is that you keep it a secret that I'm taking care of your husband.`
+char_non: ` ......Sooner or later, the others in the mansion will probably raise a fuss that they're unable to find Krauss.`
+char_non: ` But you know nothing, so you will say nothing.`
+char_non: ` ......Understand?"`
+char_nat: `"I, I understand...!`
+char_nat: ` What's your other condition?!"`
+char_non: `"......It's just a little game.`
+char_non: ` At one in the afternoon,`
+char_non: ` you will go into the foremost guest room on the first floor of the mansion and hide in the closet."`
+char_nat: `"A guest room......?`
+char_nat: ` Why should I go into a closet......?!"`
+char_non: `"It's just a little game of hide‐and‐seek.`
+char_non: ` If you can hide there for an hour without anyone finding you, you win.`
+char_non: ` ......If someone does find you, you lose."`
+char_nat: `"And if I lose,`
+char_nat: ` ......what happens......?!"`
+char_non: `"Nothing in particular.`
+char_non: ` ......Isn't that what playing is all about?`
+char_non: ` If you play along with this hide‐and‐seek, I'll release your husband tomorrow."`
+char_nat: `"Y‐`
+char_nat: `......you are going to...`
+char_nat: `keep that promise, I hope..."`
+char_non: `"Of course.`
+char_non: ` Make sure you do too, Mother.`
+char_non: ` ......If you break our promise, I'll know right away."`
+char_non: `Just then, there was a sudden, loud knock on the door to Natsuhi's room.`
+char_non: `{n}Her heart leapt automatically.`
+char_kan: `"......Madam, are you there?`
+char_kan: ` Good morning...!"`
+char_goh: `"It's Gohda and Kanon!`
+char_goh: ` Madam, please wake up...!"`
+char_non: `The voices coming through the door were Kanon's and Gohda's.`
+char_non: `{n}...The knock had been wild, and the voices a little shrill.`
+char_non: `......It seemed that something strange had happened...and that they were agitated.`
+char_non: `".........What is it?`
+char_non: ` Did something happen?"`
+char_nat: `"I‐it's nothing.`
+char_nat: ` It looks like the servants have arrived.`
+char_nat: ` I'm hanging up."`
+char_non: `"Sure.`
+char_non: ` I've said everything I wanted to.`
+char_non: ` .........So, don't break our promise."`
+char_nat: `"......I understand.`
+char_nat: ` A‐and you don't break our promise either...!"`
+char_non: `"You've got it wrong.`
+char_non: ` That's for you to decide.`
+char_non: ` .........Don't make me break my promise.`
+char_non: ` Mother."`
+char_nat: `"...............kh......"`
+char_lam: `"I'll be watching you all day today, Mother.`
+char_lam: ` *giggle*giggle*, ahahahaha, oh‐hoh‐hoh‐hoh‐ho!"`
+char_non: `Clack!`
+char_non: `{f:5:Lambdadelta} slammed the receiver down on the antique phone.`
+char_non: `Then the phone exploded into bits and changed into a spray of gold, which became a group of gold butterflies and disappeared.`
+char_lam: `"*giggle*, dance for me, Natsuhi!`
+char_lam: ` Dance in fear of your sin 19 years ago!!`
+char_lam: ` My turn's going pretty well.`
+char_lam: ` Okay, your turn now, Bern!!"`
+char_ber: `".........I'm sure this is a waste of time, but confirm for me whether communication with the outside world is possible through calling the police."`
+char_lam: `"The external line's unusabl~e!`
+char_lam: ` The internal line seems like it can be used, though!`
+char_lam: ` Boats can't be used either 'cause of the typhoon!`
+char_lam: ` I guess that completes the closed circle, huh!`
+char_lam: ` Congrats, you're now a full detective, Bern!"`
+char_non: `Police intervention sometimes robs the detective of some of her authority.`
+char_non: `However, with the construction of the closed circle, the existence of police had been denied forever.`
+char_non: `From now on, the authority of the detective piece would be completely guaranteed.`
+char_ber: `"Yes, yes, thank you for your generosity.`
+char_ber: ` Then I guess it's time to get this game started."`
+char_non: `Erika, you're the main character.`
+char_non: ` Now, begin...!`
+char_rud: `"......E‐even Genji‐san?!`
+char_rud: ` F‐five people have been killed?!"`
+char_sha: `"Y‐yes.`
+char_sha: ` ......It was so......horrible......!"`
+char_nan: `"It was exactly the same as the four in the guesthouse...`
+char_nan: ` ......His throat......was sliced open...with a terribly sharp blade..."`
+char_kan: `"......I...I can't believe that even though I had the midnight shift, ......I didn't notice anyone suspicious......"`
+char_but: `"Don't blame yourself.`
+char_but: ` ......If you'd bumped into the killer, you might be the one dead right now."`
+char_hid: `"On top of that, the phones aren't even connectin'...!`
+char_hid: ` I doubt any boats'll come in this weather.`
+char_hid: ` We're really up the creek now...!"`
+char_kir: `"......And that means it's very likely that the killer is still nearby."`
+char_kum: `"Hiyi...hiiiiieeieiiieee...!`
+char_kum: ` Then what?`
+char_kum: ` Does that mean we're trapped here with a murderer until the typhoon passes and the boat comes...?!"`
+char_goh: `"...I‐it'll be alright.`
+char_goh: ` If we all stay together like this, even the killer won't be able to lay a finger on us...!"`
+char_nat: `"E‐......even Jessica...`
+char_nat: ` ......I can't believe it........."`
+char_eva: `"W‐we won't let ourselves be killed like the others...!!`
+char_eva: ` I will have vengeance for George!!`
+char_eva: ` I'll never let them get away with this, never!`
+char_eva: ` No matter who did it or what their reason was, I swear I'll get revenge on whoever killed George!!`
+char_eva: ` I'll kill them, I'll murder them!!`
+char_eva: ` Waa{0}a{0}a{0}a{0}a{0}a{0}a{0}a{0}a{0}a{0}aahhhhh...!!"`
+char_eri: `".........Alright, has everyone gotten the weeping out of their system? Let's have some order, please.`
+char_eri: ` ......Has anyone seen Krauss‐san yet?"`
+char_sha: `"......We've been calling him for a while, but he isn't answering..."`
+char_kum: `"Could the receiver be off the hook......?"`
+char_sha: `"No, we could hear it ringing.`
+char_sha: ` He would certainly have heard it......"`
+char_nat: `"..............."`
+char_but: `"Wh‐what does it mean......?`
+char_but: ` You don't think......Uncle Krauss too......?!"`
+char_kir: `"............I thought this would happen.`
+char_kir: ` .........I hate to say it at a time like this, ......but there were four in the guesthouse plus Genji to make five.`
+char_kir: ` ......I figured there would be one more."`
+char_eva: `"Why?!`
+char_eva: ` How could you know that?!`
+char_eva: ` Are you the killer?!`
+char_eva: ` Did you kill George?!"`
+char_nan: `"S‐stop it, Eva‐san...!`
+char_nan: ` Now is not the time...!"`
+char_non: `Eva got agitated and grabbed at Kyrie.`
+char_non: `Nanjo stepped in between them, and it grew into a bit of a scuffle......`
+char_non: `Watching this, Erika smiled condescendingly and shrugged.`
+char_eri: `"But of course.`
+char_eri: ` Anyone could have predicted six victims from the moment they witnessed the crime scene in the guesthouse.`
+char_eri: ` In fact, I've been wondering who the other two would be ever since I saw there were only four corpses."`
+char_eva: `"How could you know such a thing?!!`
+char_eva: ` You killed them?!`
+char_eva: ` You killed Geo{-}o{-}o{-}o{-}o{-}orge!!"`
+char_hid: `"Qu‐quit it, Eva!`
+char_hid: ` .........Erika‐chan, Kyrie‐san...!`
+char_hid: ` How can you know that?!`
+char_hid: ` Can't you think before you talk...?!"`
+char_kir: `".........It's a simple connection to make.`
+char_kir: ` The graffiti drawn at the scene of the crime in the guesthouse was a magic circle.`
+char_kir: ` I just thought of things that are connected to both magic and murders."`
+char_rud: `"I see... ......The epitaph..."`
+char_but: `"......I see...`
+char_but: ` .........It's.........the first twilight."`
+char_kum: `"Huh? ...Huh?`
+char_kum: ` What's going on...?!"`
+char_goh: `"W‐well, I don't have a clue either...!!"`
+char_kan: `".........Is that how it is...?`
+char_kan: ` ......That damn witch......"`
+char_sha: `"So is this really.........{f:5:Beatrice}‐sama's doing......?"`
+char_eva: `"Why do you all keep talking as if you know something?!!`
+char_eva: ` I don't have a clue!!`
+char_eva: ` Someone, explain!!"`
+char_hid: `"Eva, please...! Calm down a bit...!!"`
+char_nat: `".............................."`
+char_eri: `"......That's all there is to it.`
+char_eri: ` From the moment I saw the magic circle at that crime scene,`
+char_eri: ` I had a hypothesis that this was a murder following the epitaph's first twilight, and that there would be six victims."`
+char_eri: `"......All it takes is the presence of that magic circle,`
+char_eri: ` and a deduction like this becomes trivial for Furudo Erika.`
+char_eri: ` ......Your thoughts, ladies and gentlemen?"`
+char_but: `".........Then, ...you're saying Uncle Krauss was...killed as well...?"`
+char_eri: `"We can't be sure of that.`
+char_eri: ` ......Krauss‐san isn't the only one not present here.`
+char_eri: ` There's one more."`
+char_nat: `"..................ah—"`
+char_non: `For just an instant, Natsuhi's brow furrowed......`
+char_non: `{n}As she feared, ......she wouldn't be able to avoid the topic of the study...`
+char_rud: `"You don't mean......Dad?!`
+char_rud: ` Hey, someone must have contacted the study, right?!"`
+char_goh: `"O‐of course I placed a call and even knocked on the door...`
+char_goh: ` But, umm, there was no response..."`
+char_nat: `"Th‐......the head is completely immersed in his own research...`
+char_nat: ` H‐he sometimes leaves the receiver off the hook so that calls will not disturb him, and even ignores knocking at the door...!"`
+char_goh: `"...B‐but the line wasn't busy when I......"`
+char_nat: `"I‐in any case...!`
+char_nat: ` Our first priority must be to ensure that my husband is alive and well!!`
+char_nat: ` Let's go to his bedroom at once!!"`
+char_non: `Natsuhi stood up in a flurry and dashed out into the corridor.`
+char_non: `Rudolf and the others immediately chased after her, telling her to wait.`
+char_eri: `"............Come on now, everyone, you'd better follow her.`
+char_eri: ` In both third‐rate mystery and splatter films, the people who act alone tend to die first.`
+char_eri: ` ......So of course that must also hold for this game.`
+char_eri: ` ......Beato truly is third‐rate.`
+char_eri: ` *giggle*giggle*giggle*...!"`
+char_non: `Oh, but in third‐rate disaster and action movies, it's the ones who act alone who survive, isn't it?`
+char_non: `Weird.`
+char_non: ` *giggle*giggle*!`
+char_bea: `"......Even though the epitaph has already been solved...`
+char_bea: ` ...Who's behind this farce......?"`
+char_ron: `"It might be the work of this man from 19 years ago, who is thought to be Lady {f:5:Lambdadelta}'s piece.`
+char_ron: ` ......Ah yes, that can't be true."`
+char_gap: `"......Beato already stated in red in previous games...`
+char_gap: `that with Kinzo's disappearance, no more than 17 people exist and no 18th person exists.`
+char_gap: ` And now that Erika has been added, it's been stated that no 19th person exists.`
+char_gap: ` There's no room for this man from 19 years ago to appear on the island."`
+char_ron: `"Then the identity of the man from 19 years ago is either one of the existing {y:0:Human}{n:0:human}s,`
+char_ron: ` ......or else..."`
+char_bea: `"*cackle*cackle*!`
+char_bea: ` Even if a 19th person isn't permitted by the red, slipping in a 19th person there...`
+char_bea: `is no trouble for me, no trouble for witches...!`
+char_bea: ` Now it's getting interesting. Why don't we watch how things unfold for a little longer?"`
+char_bea: `"Still, that Lady {f:5:Lambdadelta} and Lady {f:5:Bernkastel}...`
+char_bea: ` They've finally started doing whatever they like with my game board...!"`
+char_ron: `".........Didn't you know that would happen when you invited them?"`
+char_bea: `"Hmph.`
+char_bea: ` ......As a witch, I have the same dislike for boredom as they do.`
+char_bea: ` Even the unexpected brings the kind of joy a witch expects.`
+char_bea: ` So be it, bring it on...!"`
+char_gap: `"It's great that you're so eager, ......but things have taken a nasty turn.`
+char_gap: ` You know that, right?"`
+char_ron: `"............I concur.`
+char_ron: ` I would hesitate to call this a good time to wait and see what happens next."`
+char_bea: `"I know that.`
+char_bea: ` At this rate, Kinzo's existence will become a problem once again.`
+char_bea: ` ......And the barrier around the study won't last long."`
+char_gap: `"That's not all.`
+char_gap: ` Things are going to get even worse.`
+char_gap: ` ............Imagine this.`
+char_gap: ` Move one,`
+char_gap: ` move two,`
+char_gap: ` move three.`
+char_gap: ` ......Cornered,`
+char_gap: ` ......Natsuhi."`
+char_non: `Gaap whispered something into Beato's ear.`
+char_non: `Beato's mouth......slowly widened into a crooked smile.`
+char_ron: `"......That Erika has brought everyone together is actually convenient for us.`
+char_ron: ` All darkness outside the range of observers belongs to us demons.`
+char_ron: ` ......This may be the only time to make that move."`
+char_bea: `"Natsuhi is the king.`
+char_bea: ` She can't move far, but we cannot allow her to be taken!`
+char_bea: `......Let's make the first move.`
+char_bea: ` If we slip up here, Natsuhi will be cornered...!`
+char_bea: ` Gaap, can I count on you?!"`
+char_gap: `"Of course!`
+char_gap: ` ......I'll blow a hole through locked‐room tricks, alibis, and mysteries alike.`
+char_gap: ` .........Leave it to me. I'll deal with it."`
+char_non: `A pitch‐black hole opened up in the floor and swallowed up Gaap along with the chair she sat in.`
+char_non: `Then, a hole opened in the ceiling and spat just the chair back out, dropping it back into its original spot...`
+char_ron: `"......Things are becoming troublesome."`
+char_bea: `"Heh, ......heheheheheheheh.`
+char_bea: ` ......I see.`
+char_bea: ` So, against Lady {f:5:Lambdadelta}, even I am nothing more than a mere piece.`
+char_bea: ` They say that in the opening, you should worry more about development than the capture of pieces."`
+char_bea: `".........*cackle*cackle*!`
+char_bea: ` I'm just no match for that lady!`
+char_bea: ` I won't let her do that. Natsuhi is the final master I will serve!`
+char_bea: ` Know that this is a piece you'll never be allowed to take as long as she has a contract with me!!"`
+char_lam: `"Krauss's room was empty.`
+char_lam: ` The bed was also empty.`
+char_lam: ` But massive bloodstains similar to the crime scenes where the other five were murdered remained there."`
+char_ber: `"But there was no corpse."`
+char_lam: `"Nope."`
+char_ber: `"Then he isn't dead."`
+char_lam: `"Maybe not. Eheheheheheheheh...!!"`
+char_eva: `"......What's going on?!`
+char_eva: ` Where is Nii‐san?!"`
+char_rud: `"Judging by this blood‐stained bed......`
+char_rud: `I don't like to think about it, but we should probably assume that he was killed and had his neck cut open, just like the people in the guesthouse..."`
+char_nan: `".........Probably...`
+char_nan: ` Judging by the amount of blood lost, ...it's hard to imagine that he's alright..."`
+char_kum: `"B‐but......`
+char_kum: ` Where did Krauss‐sama go......?"`
+char_non: `Large amounts of blood stained the bed, but there were no similar marks on the floor of the room.`
+char_non: `Whether Krauss had run to safety somewhere after being seriously wounded, or whether he'd been killed and carried somewhere,`
+char_non: ` ......they had no clue where this "somewhere" was.`
+char_nat: `"........................"`
+char_non: `......Natsuhi knew.`
+char_non: `Though Krauss had been sounding far from his best over the phone, he at least hadn't sounded like he was on the brink of death.`
+char_non: `In other words, these blood stains had to be a ruse.`
+char_non: `{n}That might not even be blood...`
+char_non: `.........Just what is that man thinking?`
+char_non: `{n}...What is all this for...?!`
+char_hid: `"What the heck.........`
+char_hid: ` ......On the first twilight, ...sacrifice the six, is that what this is......?"`
+char_kir: `".........Was Krauss nii‐san not in the habit of locking his door?`
+char_kir: ` We just came in without unlocking it."`
+char_kan: `"......He did have a habit of locking up."`
+char_goh: `"O‐on Madam's orders,`
+char_goh: ` all private spaces in this house are kept locked."`
+char_but: `"How many keys can unlock Uncle Krauss's room?"`
+char_sha: `"In addition to the one key Krauss‐sama held, there are the master keys..."`
+char_eri: `"Oh, don't bother with the lock and key nonsense, it's completely pointless.`
+char_eri: ` ......Have you forgotten that Genji‐san has already turned up dead?`
+char_eri: ` His master key is missing.`
+char_eri: ` Which means that all of the locks in this mansion are now meaningless."`
+char_eri: `".........How dull.`
+char_eri: ` In short, there are no locked‐room murders inside this mansion and there never will be.`
+char_eri: ` ......Good grief.`
+char_eri: ` What a bore of a mystery this is becoming."`
+char_non: `Erika laughed off this murder in disappointment, as though it was something she was watching on TV.`
+char_non: `......I can't understand her.`
+char_non: `...Why is "her world" so different from ours?`
+char_non: `It's almost like she's a being from another dimension...`
+char_nat: `"......W‐...was Jessica also...`
+char_nat: `...like this, ......in a bed?"`
+char_rud: `"....................."`
+char_eva: `"......Yes, that's right.`
+char_eva: ` ......Just like George, her throat......was cut......"`
+char_nat: `"......Jessica...`
+char_nat: ` ......Let me see Jessica...`
+char_nat: ` I haven't even seen her face yet...!`
+char_nat: ` .........Jessica, ...Jessicaa{-}a{-}a{-}a{-}aaa!!"`
+char_hid: `"W‐wait up, Natsuhi‐san......!!"`
+char_nan: `"The culprit might still be hiding nearby!`
+char_nan: ` It would be dangerous to let her be alone..."`
+char_non: `Natsuhi flew out of the room and dashed towards the guesthouse this time.`
+char_non: `...It was only natural.`
+char_non: ` After all, she still hadn't even seen Jessica's last face.`
+char_non: `Everyone probably thought that was the reason.`
+char_non: ` .........Of course, that was at least half of what was on Natsuhi's mind.`
+char_non: `The other half...`
+char_non: `...was her desire to shift their attention away from the study.`
+char_non: `Strange crimes had occurred, the gold had been discovered, and some relatives had even recommended Battler to be the next head.`
+char_non: `Even in these twisted circumstances,`
+char_non: ` ............she had to protect Kinzo's secret.`
+char_non: `.........Aahh... ...My head... ...If it should split from this pain...`
+char_non: `{n}......Let it burst this very moment, burst open like a balsam flower.`
+char_non: `Then I won't have to suffer any longer.........`
+char_eri: `"So, everyone.`
+char_eri: ` For Natsuhi‐san's sake, let's return to the guesthouse for the time being.`
+char_eri: ` ......Not that seeing her daughter's face is going to advance the story in any way."`
+char_but: `".........Do you even have a heart?"`
+char_eri: `"A heart?`
+char_eri: ` What's that?"`
+char_non: `Seeing her daughter's dead face wouldn't bring Jessica back to life, nor would it heal Natsuhi's anguish.`
+char_non: `On the contrary, she would probably wail, wasting a considerable amount of time before being able to think properly again.`
+char_non: `......That probably sums up Erika's screwed up argument...`
+char_non: `........................`
+char_non: `Seeing her dead face won't advance the story......?`
+char_lam: `"Oh, but that's where you're wrong!`
+char_lam: ` *cackle*cackle*cackle*.`
+char_lam: ` Beato's pieces have brought about an interesting change. *giggle*giggle*!"`
+char_nat: `"Wh‐...what in the..............."`
+char_non: `Natsuhi flew into the cousins' room on the upper floor of the guesthouse,`
+char_non: ` ......and was struck dumb by the blood‐stained beds and the eerie magic circle which looked like it might have been drawn with the victims' blood...`
+char_nat: `"......Where is Jessica......?`
+char_nat: ` Where is Jessica...?! Jessicaaa!!"`
+char_goh: `"In that...`
+char_goh: `...bed........."`
+char_nat: `"Bed?`
+char_nat: ` Where?!"`
+char_eva: `"Huh?`
+char_eva: ` ......George...?`
+char_eva: ` Wh‐......where is he......?!"`
+char_rud: `"Wait a second,`
+char_rud: ` ......what the hell...`
+char_rud: `...is going on here......?"`
+char_eri: `".........This room was locked tight when we left.`
+char_eri: ` We can now be certain that the culprit has a master key.`
+char_eri: ` Once again, my reasoning was correct."`
+char_but: `"Who cares about that...?!`
+char_but: ` Where did they go...?`
+char_but: ` Wh‐where did all their bodies go...?!"`
+char_ber: `"............Heheh.`
+char_ber: ` Nice trick."`
+char_lam: `"See, look, look, it's magi~c!`
+char_lam: ` That Gaap who's with Beato hid the corpses somewhere with magic...!"`
+char_ber: `"......All of us moved together.`
+char_ber: ` You're trying to say that this gives everyone an alibi?"`
+char_lam: `"Your reasoning goes like this, right?`
+char_lam: ` The four of them weren't actually dead, they were just playing dead.`
+char_lam: ` Then, when no one else was around, they hid somewhere.`
+char_lam: ` Am I right?"`
+char_ber: `"You don't intend to declare any of their deaths in red now, do you?"`
+char_lam: `"Of course I won't.`
+char_lam: ` Unlike that dolt Beato, I don't give red out for free!"`
+char_ber: `"In that case, I'll gladly use the blue truth.`
+char_ber: ` I can think of any number of ways to work around something of this level."`
+char_lam: `"*giggle*.`
+char_lam: ` Sure, go ahe~ad!`
+char_lam: ` Blue truth time!"`
+char_ber: `"Here's the first one I can think of.`
+char_ber: ` {p:2:The victims aren't actually dead.`
+char_ber: ` They pretended to be dead, then secretly hid themselves somewhere.`
+char_ber: ` After all, you haven't declared anyone's death with the red truth}."`
+char_lam: `"Ahhaha!`
+char_lam: ` Even if I showed you their gaping wounds, you've still gotta try that one if it wasn't in red, right?! That's like the basics of the basics!`
+char_lam: ` But don't get your hopes up.`
+char_lam: ` I'm not giving you a freebie red truth!`
+char_lam: ` 'Cause all I need to do is refute one teensy little part of that theory at the end of the game, at midnight on October 5th!"`
+char_lam: `"Ah, the witch side has such a big advantage!`
+char_lam: ` If that stupid Battler was my opponent, he'd be done after that blue truth, but you aren't like that, right, Bern?!"`
+char_ber: `"Of course.`
+char_ber: ` Anyone could have thought of that ridiculous move.`
+char_ber: ` I have more.`
+char_ber: ` Second one.`
+char_ber: ` {p:2:Krauss carried the bodies off and hid them.`
+char_ber: ` You're making it look like you've kidnapped Krauss and locked him up somewhere, but he might actually be free.`
+char_ber: ` Krauss has no alibi.`
+char_ber: ` Krauss hid their corpses}."`
+char_lam: `"Right, of course you'd say that.`
+char_lam: ` It's not like I declared with the red truth that Krauss was being confined. *giggle*giggle*!`
+char_lam: ` They do say you've got to trick your friends before you can trick your enemies!`
+char_lam: ` So you're saying he lied to Natsuhi, making it seem like he'd been captured!`
+char_lam: ` Eheh{0}eh{0}eh{0}eh{0}eheh!!`
+char_lam: ` Any others?!"`
+char_ber: `"Third one.`
+char_ber: ` {p:2:The corpses were different people in the first place.`
+char_ber: ` They were substitute corpses made to look like the victims.`
+char_ber: ` George and the others were hiding from the beginning, and later cleared away the substitute corpses.`
+char_ber: ` The corpses were dead from the very beginning, so they don't count towards the number of people on the island}."`
+char_lam: `"Ahhah{0}hah{0}ha{0}ha{0}ha{0}ha{0}ha{0}ha{0}hahaha!!`
+char_lam: ` What is that, that's hilarious!!`
+char_lam: ` So all those people gathered around and looked at their dead faces, and not a single one of them realized that they were fakes?"`
+char_ber: `"Since you haven't used the red truth, there's a possibility that everyone misidentified all of the bodies.`
+char_ber: ` Of course, if you feel like responding to a repetition request for "no one would misidentify a person", I'll withdraw that claim immediately..."`
+char_lam: `"How about no~{p:0:♪} You can't bait me like that!`
+char_lam: ` The red truth is only useful if I make you wait for it, you know?"`
+char_lam: `"I'll pick a single blue truth from all the ones you give me throughout this game and I'll smash it with the red!`
+char_lam: ` Then the rest of the blue truths will be swallowed up by darkness before you can even find out whether they were right or wrong!"`
+char_lam: `"That darkness is the world of witches!`
+char_lam: ` You won't be given any truth at all!`
+char_lam: ` Ehheh{0}eh{0}eh{0}eh{0}eh{0}eh{0}eh{0}eh{0}eh{0}eh{0}eheh!!"`
+char_ber: `.........Heheh.`
+char_ber: `{n}`
+char_ber: `...This girl acts like she's stupid, but she's not bad at all.`
+char_ber: `{n}`
+char_ber: `She'll never rise to provocation.`
+char_ber: `Looks like she understands the thing called "the darkness of witches" even better than the true Game Master, Beato.`
+char_ber: `And apparently, Gaap has a good understanding of it as well.`
+char_ber: `......That move of hiding the corpses.`
+char_ber: `{n}`
+char_ber: `It worked out pretty well for both Lambda and Beato.`
+char_ber: `In any event, I've thought up a full three theories about the disappearing corpses.`
+char_ber: `Three blue wedges for a single riddle.`
+char_ber: `{n}`
+char_ber: `That doesn't mean she can just refute one of those three.`
+char_ber: `{n}`
+char_ber: `Unless she pulls out all three wedges, this riddle has been defeated.`
+char_ber: `{n}`
+char_ber: `That's the ironclad rule of witch hunting.`
+char_ber: `A single wedge isn't nearly enough.`
+char_ber: `{n}`
+char_ber: `Only vampires die from a single stake.`
+char_ber: `{n}`
+char_ber: `Compared to witches, vampires are weak.`
+char_ber: `......True witches won't die unless you stab them all over with stakes, you know.`
+char_ber: `Think about assassins—they do the same, don't they?`
+char_ber: `{n}`
+char_ber: `Assassins only kill their targets with a single perfect shot in Japanese manga.`
+char_ber: `{n}`
+char_ber: `Real assassins will empty out an entire clip of bullets.`
+char_ber: `............That's what you'd do too, isn't it?`
+char_ber: `{n}`
+char_ber: ` So would I, of course.`
+char_ber: `But my blue truths were nothing special, so knowing her, she'll probably slice all of them in two with a single swipe of the red.`
+char_ber: `A confirmation of their deaths and Krauss's innocence.`
+char_ber: ` By simply firing off those couple of reds, she can remove all three of my wedges.`
+char_ber: `Well, that's okay.`
+char_ber: `{n}`
+char_ber: `When the red truth does come out, I just need to follow along with it and stab her full of blue wedges again.`
+char_ber: `.........*giggle*giggle*.`
+char_ber: ` This is how a witch's game is played.`
+char_ber: `*giggle*, ah, it's so much fun...!`
+char_ber: `{n}`
+char_ber: `Especially since Battler's sluggish fighting has been driving me mad for so long...!!`
+char_ber: `Yes, I understand, Lambda.`
+char_ber: `{n}`
+char_ber: `This was merely the very start of the beginning of the first twilight.`
+char_ber: `{n}`
+char_ber: `It was just a skirmish, right......?`
+char_ber: `*giggle*...... ...Wouldn't have it any other way...`
+char_ber: `.........Because when I crush you ragged, make you cry out in frustration as you crawl and scratch at the floor...`
+char_ber: `...grab that cute hair of yours and drag you along the ground as I roll around laughing......this way will make it all the more enjoyable!!`
+char_ber: `The servants' quarters in the mansion had once again gone silent......`
+char_ber: `{n}There lay Genji's body, which had been covered completely with a blanket......`
+char_ber: `In the ceiling of this cramped room, a pitch‐black hole appeared,`
+char_ber: ` ......captivating legs sprouted out,`
+char_ber: ` ...and Gaap floated downwards.`
+char_gap: `".........Sorry, Genji.`
+char_gap: ` You probably want to enjoy your eternal sleep there, but that's not going to work.`
+char_gap: ` Disappear from this place so that even after death, you can continue to serve Natsuhi, the final head of the Ushiromiya family."`
+char_non: `Gaap stripped off the blanket as she said this to Genji, who was sleeping peacefully...`
+char_non: `Then she stared at the deep wound in his neck...`
+char_gap: `".........That's a nice cut.`
+char_gap: ` ......It must have been made with a single slice.`
+char_gap: ` .........Has someone capable of {i:this} manifested now......?`
+char_gap: ` This isn't so great.`
+char_gap: ` ...I can't think of anyone who isn't bad news."`
+char_non: `It goes without saying, but witches are capable of summoning beings with a strength proportional to their own rank.`
+char_non: `The great Lady {f:5:Lambdadelta} called that being here as a trump card 19th person.`
+char_non: `......Even optimistically speaking, this is on par with Ronove and me...`
+char_non: `A pitch‐black hole opened in the bed, and Genji disappeared as though the bed had swallowed him up.`
+char_non: `Just like the four in the guesthouse, Genji's corpse was hidden in some unknown place...`
+char_non: `It was a place that no one could find, located neither within this world nor the next......`
+char_non: `No longer would anyone be able to find their bodies.`
+char_non: `{n}No longer would anyone be able to confirm their deaths.`
+char_non: `Genji's body was carried to that place of endless silence,`
+char_non: ` where it would never be disturbed......`
+char_gap: `"Without a corpse, he will be treated as missing.`
+char_gap: ` ......To be treated as missing is to be treated as both culprit and victim, truly like the inside of a cat box.`
+char_gap: ` ......The darkness within cat boxes that will never be opened is the haunt of witches and demons like us...!`
+char_gap: ` You're one move too late, Miss Great Detective. ......Heheheheh..."`
+char_non: `Gaap licked her lips and swallowed......`
+char_rg5: `"......I wonder why Gaap‐sama is going around hiding corpses."`
+char_rg7: `"Nooo idea.`
+char_rg7: ` But Gaap‐sama is pretty cool.`
+char_rg7: ` She's just so......awesome."`
+char_rg3: `"Stop talking nonsense, what happened to standing guard?!`
+char_rg3: ` The {y:0:Human}{n:0:human}s are returning from the guesthouse!!`
+char_rg3: ` Gaap‐sama...!"`
+char_gap: `"Yes, let's disperse.`
+char_gap: ` .........This should be enough to give Natsuhi a way out..."`
+char_non: `Gaap jumped into a pitch‐black hole which had opened near her feet.`
+char_non: `Mammon shouted "I'm going in too!" and jumped in,`
+char_non: ` followed by Asmo, who said "Me too, me too!" and hopped in, giggling.`
+char_non: `As Satan hesitated over what to do, the hole closed.`
+char_rg3: `"A‐and you call yourselves members of the Seven Sisters of Purgatory... H‐how childish.`
+char_rg3: ` So stupid...!"`
+char_non: `Satan went bright red and got angry all by herself, then turned into gold butterflies and disappeared...`
+char_ron: `".........It seems that Gaap has succeeded in moving the five corpses."`
+char_bea: `"Well done.`
+char_bea: ` ......However, the next part will be the tricky one."`
+char_ron: `"They will probably be somewhat surprised at the disappearance of Genji's corpse,`
+char_ron: ` but their interest will most likely swing back to Kinzo's study after that."`
+char_bea: `"......There are two keys to the study.`
+char_bea: ` ...It's fortunate that Natsuhi is in possession of both.`
+char_bea: ` If she had left one with Genji, it would probably have fallen into Lady {f:5:Lambdadelta}'s hands by now."`
+char_ron: `"It seems that Lady {f:5:Lambdadelta} has no intention of hiding Kinzo's death.`
+char_ron: ` ......Apparently, she plans to fight while ignoring the moat, towers, and ramparts that you have created."`
+char_bea: `"Heh, ......heheheh.`
+char_bea: ` This has become a strange triangular confrontation.`
+char_bea: ` We are all each other's enemies, but we sometimes join forces unintentionally.`
+char_bea: ` ......It is a three‐way fight, yet the next moment it's two against one, and then suddenly one against two.`
+char_bea: ` ......I know what this is like.`
+char_bea: ` The Chinese battle royal!`
+char_bea: ` Don't you think it's like that "Records of the Three Kingdoms" thing?"`
+char_ron: `"Oh, the Longzhong Plan.`
+char_ron: ` That's quite a sophisticated analogy to hear coming from you, pu ku ku...!"`
+char_bea: `"There were three empires in Records of the Three Kingdoms, weren't there?`
+char_bea: ` Wei, Wu, and Shu, right?`
+char_bea: ` That sounds just like us.`
+char_bea: ` ......So, which empire won out in the end?"`
+char_ron: `"......The power that gained control in the end was the Jin dynasty.`
+char_ron: ` The three empires you mentioned were all destroyed."`
+char_bea: `"Hoh.`
+char_bea: ` ............I didn't know that.`
+char_bea: ` I thought one of the three empires won.`
+char_bea: ` Did the Wei not have an overwhelming advantage...?"`
+char_ron: `"They had the position of emperor stolen from them, and their empire was subjugated and destroyed."`
+char_non: `......The Sima clan, a noble family that Cao Cao invited in as advisors,`
+char_non: ` eventually gained central control in a power struggle and took over the country.`
+char_bea: `".........So, they were invited in as advisors,`
+char_bea: ` ......and they seized control.`
+char_bea: ` .........*cackle*, ......very interesting.`
+char_bea: ` ......That Lady {f:5:Lambdadelta}......!`
+char_bea: ` *cackle*cackle*cackle*cackle*cackle*!!"`
+char_rg1: `"Excuse me!`
+char_rg1: ` ......The {y:0:Human}{n:0:human}s have confirmed the disappearance of Genji's corpse in the servants' quarters.`
+char_rg1: ` ......They have started moving towards Lord {f:5:Goldsmith}'s study!"`
+char_gap: `"Riiche.`
+char_gap: ` ......They're coming."`
+char_bea: `"Hmph, ......let them come.`
+char_bea: ` The {y:0:Human}{n:0:human}s......and the Witches of Certainty and Miracles..."`
+char_non: `If this is a three‐way fight,`
+char_non: ` then the three sides are the {y:0:Human}{n:0:human}s, the witches, .........and what are we...?`
+char_non: `If the object of our protection...is Kinzo's illusion...`
+char_bea: `"......We must be.........the illusions, then.........`
+char_bea: ` ......Heheh, ......heh{0}eh{0}eh{0}eh{0}ehe{0}heh..."`

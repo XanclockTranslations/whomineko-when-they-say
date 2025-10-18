@@ -1,0 +1,1060 @@
+char_non: `Rosa returned to the lobby.`
+char_non: `It was still her time to rest,`
+char_non: ` but her expression made it look as though she couldn't sleep deeply with all this tension.`
+char_rud: `"......You have to force yourself to lie down.`
+char_rud: ` It'll get tough for you later on at this rate."`
+char_ros: `"Thanks for caring.`
+char_ros: ` I just can't sleep.`
+char_ros: ` ......I went and took a shower at least, so that will be enough.`
+char_ros: ` The next person can rest."`
+char_nat: `"What about you two, Kyrie‐san? Rudolf‐san?"`
+char_kir: `"......What will we do, Rudolf‐san?`
+char_kir: ` Will we rest?"`
+char_rud: `"You can rest if you want.`
+char_rud: ` I'll stay awake.`
+char_rud: ` That's the only manly thing I can do right now."`
+char_kir: `"Then I'll stay awake.`
+char_kir: ` Staying awake with my husband is the only womanly thing I can do right now."`
+char_nat: `"......*giggle*.`
+char_nat: ` You two truly are close."`
+char_kir: `"As are you two.`
+char_kir: ` *giggle*."`
+char_cla: `"It seems that Eva and Hideyoshi‐san are out cold.`
+char_cla: ` It appears as though, unlike Rosa, they can't fight against their age."`
+char_non: `As though in response to those words, the door to the hall clunked open.`
+char_non: `Eva and Hideyoshi returned from the guest room.`
+char_eva: `"That's none of your business.`
+char_eva: ` ...Oh, Rosa, are you still alright without sleeping?"`
+char_ros: `"What about you, Nee‐san.`
+char_ros: ` Why not take it easy and rest?"`
+char_eva: `"............I just can't get to sleep.`
+char_eva: ` After taking a shower, my drowsiness faded away.`
+char_eva: ` Rudolf, Kyrie‐san, you can rest if you want."`
+char_rud: `"Yeah, thanks.`
+char_rud: ` For now the sentiment alone is enough.`
+char_rud: ` Why don't you go first, Aniki?"`
+char_cla: `"How kind of you.`
+char_cla: ` But I cannot rest first.`
+char_cla: ` That is the most I can do as the oldest brother."`
+char_nat: `"Do not worry, the two of us will be awake until the very end."`
+char_kir: `"......*giggle*.`
+char_kir: ` .........More importantly, Eva nee‐san,`
+char_kir: ` are you alright?`
+char_kir: ` You look a little pale."`
+char_hid: `"......Come to think of it, you're right.`
+char_hid: ` ......Hmmm?`
+char_hid: ` You're feelin' a bit hot, you know?"`
+char_non: `Hideyoshi put his hand up against Eva's forehead.`
+char_non: `{n}...It seemed that Eva wasn't feeling her best.`
+char_rud: `"Told you so.`
+char_rud: ` ...That's what happens when you break your daily cycle at your age.`
+char_rud: ` ......Is it a cold?"`
+char_cla: `"...Natsuhi.`
+char_cla: ` Could you call Doctor Nanjo down?"`
+char_nat: `"Y‐yes."`
+char_eva: `"...I'm fine, you don't have to make such a big deal out of it.`
+char_eva: ` I have some medicine, so I'll be fine.`
+char_eva: ` ......I tend to get a fever when I'm tired.`
+char_eva: ` Don't worry."`
+char_ros: `"......Nee‐san, take it easy, okay?"`
+char_eva: `".........Thank you.`
+char_eva: ` ...When my siblings gather without me around, I get the feeling everyone is talking behind my back.`
+char_eva: ` ...It's a persecution complex from long ago.`
+char_eva: ` Sorry, okay?"`
+char_ros: `"...............I won't say anything.`
+char_ros: ` I would never say something bad about you when you're away."`
+char_eva: `"......................................."`
+char_ros: `"......What is it?`
+char_ros: ` Nee‐san, you've been acting strange for a while, you know?`
+char_ros: ` Shouldn't you get a little rest now?"`
+char_eva: `"............You're right.`
+char_eva: ` I started thinking about {i:raising money by March} and it made my headache even worse."`
+char_ros: `"That isn't good.`
+char_ros: ` Rest.`
+char_ros: ` ...I'll restrain myself so that your headache doesn't get worse.`
+char_ros: ` I've had a bad headache myself for a while now."`
+char_eva: `".........Thank you.`
+char_eva: ` ......Well then, I'll count on what you've said and rest for a while."`
+char_hid: `"What's up, Eva?`
+char_hid: ` Why so bent out of shape all of a sudden?`
+char_hid: ` ......Sorry 'bout this... Please let us rest a bit longer.`
+char_hid: ` Sorry... Sorry..."`
+char_non: `After putting his hands together as though praying and apologizing several times,`
+char_non: ` Hideyoshi went after Eva, and left the lobby.`
+char_cla: `"............I don't like this atmosphere.`
+char_cla: ` Everything's so strained."`
+char_kir: `"That's no surprise.`
+char_kir: ` ......There was a murder early this morning.`
+char_kir: ` And since then, we've been eating canned food and holding guns.`
+char_kir: ` ...It's natural that we would start to build up stress."`
+char_ros: `"I wonder if the kids up there have also built up stress.`
+char_ros: ` ......I'm worried about Maria.`
+char_ros: ` She tends to get irritable in times like this."`
+char_non: `Just then, they heard the sound of wild footsteps from upstairs.`
+char_non: ` The guesthouse wasn't a cheap building, so if they had been any normal footsteps, there was no way they would have heard them.`
+char_non: `It was like the sound of someone stamping their feet in frustration.`
+char_non: `And not a moment later, in addition to the apparent sound of feet running out into the upstairs corridor,`
+char_non: ` they could hear Maria calling "uu‐uu‐uu" over and over again, sounding displeased.`
+char_non: `Rosa grabbed her head, ruffled up her hair, and voicelessly moaned in anguish...`
+char_non: `The adults conscientiously turned their backs to her, pretending not to notice.`
+char_non: `The noisy clamor came downstairs and flew into the lobby.`
+char_non: `It was Maria, who was sobbing; the other children, who had come down with her; and Nanjo.`
+char_non: `...In other words, everyone on the second floor had come downstairs because of Maria's tantrum.`
+char_non: `Rosa couldn't hide her dizziness at the scale of the annoyance her daughter was bringing to everyone...`
+char_jes: `"S‐sorry, Auntie Rosa...`
+char_jes: ` We tried to calm her, but she just wouldn't listen..."`
+char_mar: `"Uu‐uu‐uu!!`
+char_mar: ` Uu‐uu‐uu!!`
+char_mar: ` Waaaaaaaaaaaaaaaaahhh!!"`
+char_ros: `"...What is it, Maria?`
+char_ros: ` Could you be a little more quiet?`
+char_ros: ` Everyone's looking."`
+char_but: `"It's that rose of hers from the rose garden...`
+char_but: ` She suddenly started saying that she was worried about it."`
+char_geo: `"......I think she's half asleep.`
+char_geo: ` She suddenly woke up, and started going on about how worried she was for that rose.`
+char_geo: ` .........Maria‐chan, calm down.`
+char_geo: ` That was just a dream..."`
+char_mar: `"Uu‐uu‐uu‐uu!!`
+char_mar: ` That was {f:5:Beatrice}'s and my rooose!!`
+char_mar: ` So if I don't take care of it, {f:5:Beatrice} will get mad at meee!!`
+char_mar: ` It might be broken again!`
+char_mar: ` Uu‐uu‐uu!`
+char_mar: ` Uu‐uu‐uu‐uu!!"`
+char_ros: `"......Haah...!`
+char_ros: ` ...Listen, I'm {i:telling} you to quiet down a bit, {i:alright}?!?!"`
+char_non: `The children were taken aback by the sudden rise in the tone of Rosa's voice.`
+char_non: `But Maria's crying just grew louder, and her tantrum just grew fiercer.`
+char_nan: `"R‐...Rosa‐san.`
+char_nan: ` You mustn't scold a child so bluntly without attending to what they say...`
+char_nan: ` ...In times like this, it is good to give them some warm milk or something."`
+char_cla: `"......Is there any here?"`
+char_nat: `"The milk we served in place of breakfast earlier was the last..."`
+char_rud: `"Doesn't anyone have a sedative to use on kids...?`
+char_rud: ` You know, those silver pill things?"`
+char_ros: `"Of course I do!!`
+char_ros: ` Yes, I'll search for them now and make her take them!!"`
+char_non: `Without hiding her displeasure, Rosa grabbed her handbag that she had placed on the sofa and fished around for the medicine.`
+char_non: ` ......It seemed that she had brought some child‐use sedatives for Maria's tantrums.`
+char_non: `She found it and tipped the bottle into her palm, but it seemed to be empty.`
+char_non: `{n}Irritated, Rosa shook the bottle several times, but that didn't change the fact that nothing was in there.`
+char_non: `...All the while, Maria's crying was growing more and more intense...`
+char_non: `Meanwhile, Eva was lying in bed, covered by the bedding.`
+char_non: `Hideyoshi returned from the washroom, folding a handkerchief soaked in water.`
+char_hid: `"......My, this is one nasty fever...`
+char_hid: ` ......I'm sure it's the poisonous air at this family conference that got you...`
+char_hid: ` ......For now, you can forget all about the other relatives.`
+char_hid: ` ...Alright?"`
+char_non: `As Hideyoshi spoke to her kindly, he set the soaked handkerchief gently on Eva's burning forehead.`
+char_non: `Eva rested her own hand on top of his.`
+char_eva: `".........Your hand...`
+char_eva: `feels wonderfully cool."`
+char_hid: `"If my hand feels wonderful, your fever must be pretty bad.`
+char_hid: ` No worries, the medicine will start workin' soon.`
+char_hid: ` Plus, my hand is a magic hand.`
+char_hid: ` If I just put my hand up against your forehead like this, see,`
+char_hid: ` any fever will melt right away."`
+char_eva: `"You're right.`
+char_eva: ` ......Your hand always makes my fevers fade..."`
+char_hid: `"Yep.`
+char_hid: ` No need for a doctor when you've got my hand.`
+char_hid: ` Don't worry and close your eyes.`
+char_hid: ` ......The fever will fade right away thanks to my magic..."`
+char_eva: `"Yes, I know...`
+char_eva: ` ......I can feel your magic."`
+char_non: `Hideyoshi was about to say "they call that the placebo effect", but he stopped.`
+char_non: `......If Eva said that she could feel magic from his hand, then that was alright for now...`
+char_eva: `"............I wonder if magic really exists."`
+char_hid: `"Yeah.`
+char_hid: ` Sure does.`
+char_hid: ` Only those who believe can tell, though.`
+char_hid: ` ...There's actually a lot of magic like that out there in the world."`
+char_eva: `"...If magic is real, ......then I wonder if witches are real too."`
+char_hid: `"Oh?`
+char_hid: ` You mean that witch of the forest, {f:5:Beatrice}?`
+char_hid: ` She probably does exist for those who believe.`
+char_hid: ` Just like God.`
+char_hid: ` Won't show himself except in front of those who strongly believe."`
+char_eva: `"...............You know,`
+char_eva: ` ...long ago, I was able to use magic too."`
+char_hid: `"Oh?`
+char_hid: ` That so?`
+char_hid: ` Then you've been a witch once too."`
+char_eva: `"......You know, whenever I had a dream that I wanted to come true no matter what,`
+char_eva: ` if I wished strongly and tried hard, it came true every time.`
+char_eva: ` ......With my magic, my grades were always the best, and I even became the student council president, and got into the university I wanted by my own ability.`
+char_eva: ` ......Everything I wished for was granted."`
+char_hid: `"That's right.`
+char_hid: ` Your magic was always a thing to be reckoned with...`
+char_hid: ` You're definitely a witch.`
+char_hid: ` ...And you work harder than anyone.`
+char_hid: ` ......I know aaall about it."`
+char_eva: `"...............You know,`
+char_eva: ` ever since I was a kid, the whole time, there's been another me inside myself, who always supported me.`
+char_eva: ` ...And that other self was a witch."`
+char_eva: `".........I didn't believe in {f:5:Beatrice}, the witch of the forest.`
+char_eva: ` I always believed that if a witch of Rokkenjima did exist, it was the witch inside my heart.`
+char_eva: ` .........I am so grateful to that witch inside myself.`
+char_eva: ` ...I'm always so grateful......that she let me meet up with you..."`
+char_hid: `"............You're always too timid when you get sick.`
+char_hid: ` ...Don't say anythin' for now.`
+char_hid: ` ......I'll stay like this the whole time, until your fever has gone down, okay?"`
+char_eva: `"......Yeah.`
+char_eva: ` ......No matter what,`
+char_eva: ` ......don't take your hand away.`
+char_eva: ` .........Somehow, I...`
+char_eva: `...feel like I'm becoming something that isn't myself,`
+char_eva: ` ......and it's been scaring me for a while now.`
+char_eva: ` ...I get the feeling that the witch inside of me...`
+char_eva: `...was provoked by {f:5:Beatrice}, and is growing stronger and stronger.`
+char_eva: ` ...Somehow, it feels like she's going to swallow me up."`
+char_hid: `"It's alright.`
+char_hid: ` As long as I'm with you, there's not a thiiing to be afraid of!`
+char_hid: ` Remember the time we went to that dangerous country and the whole bus was robbed?`
+char_hid: ` I repelled 'em!"`
+char_eva: `"...Honey, you just handed over your gold watch and begged them to go away.`
+char_eva: ` ......It was pretty lame, ...but it was cool..."`
+char_eva: `"............This hand...`
+char_eva: ` ...Please don't move it away, no matter what...`
+char_eva: ` ......Not even if I fall asleep.`
+char_eva: ` ......And even if something creepy sneaks inside,`
+char_eva: ` ...protect me..."`
+char_hid: `"Yep, leave it to me.`
+char_hid: ` ......So stop worryin' now and get some sleep.`
+char_hid: ` The medicine and my magic will start workin' real soon..."`
+char_non: `Eva finally calmed her heart and closed her eyes.`
+char_non: `......Just then, there was the sound of a door being opened violently from the direction of the lobby.`
+char_non: `It seemed that Maria was having a tantrum, and screams of "uu‐uu" could be heard,`
+char_non: ` along with Rosa's rebuking yells.`
+char_non: `...That was probably very annoying to listen to.`
+char_non: `{n}Or maybe it was taking a toll on her headache.`
+char_non: `{n}Eva moaned as though in pain, and buried herself in the covers.`
+char_non: `It was easy to guess what was happening.`
+char_non: ` Maria had probably had a tantrum for some reason, gone down to the lobby,`
+char_non: ` and when Rosa had scolded her for it, they had started arguing.`
+char_non: `...And then, the looks of the rest of the family had been too much to bear, so Rosa had taken Maria out into the corridor.`
+char_non: `......Hideyoshi had no desire to interfere with Rosa and Maria's problems.`
+char_non: ` ...But just for now, since Eva's condition was so bad, he wanted them to take their ruckus somewhere else.`
+char_hid: `"...Wait just a second.`
+char_hid: ` I'll go ask them to keep it down."`
+char_eva: `".........C‐come back quickly..."`
+char_hid: `"Don't worry, I won't leave this room."`
+char_non: `Hideyoshi removed the chain, opened the door, and stuck his face out into the corridor.`
+char_non: ` He immediately met Rosa's gaze.`
+char_hid: `"...Everythin' alright, Rosa‐san?"`
+char_ros: `"I'm sorry, did all this noise wake you up...?"`
+char_mar: `"Uu‐uu!`
+char_mar: ` Uu‐uu‐uu‐uu!!!"`
+char_hid: `"...Maria‐chan, sorry.`
+char_hid: ` Auntie Eva isn't feelin' well, and she's tryin' to sleep.`
+char_hid: ` Could you quiet down a smidgen...?"`
+char_non: `Maria's tone didn't change after being asked by Hideyoshi.`
+char_non: `She kept whining and repeating "My rose, my rose".`
+char_non: `Rosa slapped Maria's cheek, lifted her up while covering her mouth,`
+char_non: ` and carried her off towards the entrance, trying to at least put some distance between her and Hideyoshi's room.`
+char_non: `...They would still probably be clamorous for a while yet, but he had at least warned her.`
+char_non: `{n}Hoping that Rosa would show her capabilities as a mother, Hideyoshi closed the door.`
+char_eva: `".........Is Maria‐chan crying again?"`
+char_hid: `"Looks like it.`
+char_hid: ` ...It's tough for Rosa‐san too.`
+char_hid: ` ......When you think about that, our George is almost too good to be true.`
+char_hid: ` We should be grateful."`
+char_eva: `"...............You're right.`
+char_eva: ` .........nn,`
+char_eva: ` ......hand."`
+char_hid: `"Oh, sorry, sorry.`
+char_hid: ` ......Here you go, it's the magic hand."`
+char_non: `He put his hand on Eva's forehead again.`
+char_non: `......Maybe there really was magical power in that hand.`
+char_non: `A truly peaceful look rose to Eva's face, and bit by bit, she began to drift off into the land of sleep.`
+char_non: `As he had promised, Hideyoshi kept his hand on her forehead......`
+char_non: `By the entrance, with her hand still against Maria's mouth, Rosa was at a loss at what to do next.`
+char_non: `She had been unable to withstand everyone's gaze in the lobby,`
+char_non: ` and had yelled at the children to go upstairs, before dashing out of the lobby.`
+char_non: `And when she went out into the corridor, Hideyoshi had told her that she was being too noisy.`
+char_non: `Where should I go now?`
+char_non: ` ......Where should I take this child who's having a tantrum?`
+char_non: `She felt as though she was about to cry in frustration...`
+char_non: `As Maria kept struggling in an attempt to scream, Rosa put her mouth up to Maria's ear,`
+char_non: ` and tried to persuade Maria in as calm a voice as she could manage.`
+char_ros: `".........Maria, you really want to see the rose that much...?"`
+char_non: `Maria nodded her head several times, moaning "uu‐uu".`
+char_ros: `"...Why do you want to see the rose that much?`
+char_ros: ` I'll listen to you, so will you tell me quietly?`
+char_ros: ` I'll hit you if you scream."`
+char_mar: `"............My rose...`
+char_mar: ` {f:5:Beatrice} revived it.`
+char_mar: ` ......It might have broken again...`
+char_mar: ` ...I'm worried about that...`
+char_mar: ` Can't sleep until I make sure..."`
+char_non: `It seemed that she was still making a fuss about that marked rose from yesterday.`
+char_non: `Rosa felt her headache throbbing again,`
+char_non: ` but she was at least a little relieved that Maria had now stopped her screaming.`
+char_ros: `"Anyway, everyone is having a hard time right now.`
+char_ros: ` So don't bother Mama and everyone else.`
+char_ros: ` ......You can worry about that rose all you want tomorrow, when it stops raining.`
+char_ros: ` So just listen to me for now...!"`
+char_mar: `"No.`
+char_mar: ` ...No no no no.`
+char_mar: ` My {f:5:Beatrice}'s rose...`
+char_mar: ` ...Uuuu..., uu‐uu.`
+char_mar: ` WaaaaaaAAaaaahh!!"`
+char_non: `Rosa reflexively covered Maria's mouth.`
+char_non: ` She had spoken a little too harshly, and had gotten her agitated again...`
+char_non: `Rosa realized that it was partly her own fault and clicked her tongue in self‐hatred.`
+char_non: `But Maria thought that was directed at her, and her crying grew even fiercer...`
+char_ros: `"...I'm begging you, be quiet...`
+char_ros: ` What can I do to make you stop crying?`
+char_ros: ` What should I do to make you listen to what your Mama says?"`
+char_mar: `"........."`
+char_non: `Abruptly.`
+char_non: ` Maria stopped crying unnaturally fast.`
+char_non: `{n}......Then she turned around, and muttered.`
+char_mar: `"............`
+char_mar: `If I can see my rose, I'll be quiet until tomorrow."`
+char_ros: `"Really?"`
+char_mar: `"Yeah.`
+char_mar: ` ...If we go to the rose garden and see my rose, I'll behave."`
+char_ros: `".................."`
+char_mar: `"I mean it, Mama."`
+char_ros: `"...................................."`
+char_non: `If it would keep Maria quiet for the time being,`
+char_non: ` Rosa thought that even going out into this wind and rain would be a small price to pay.`
+char_non: `She did think it might be a bit reckless.`
+char_non: `{n}............But in the end, no murder or anything of the sort had actually occurred.`
+char_non: `All of that clamor since this morning had been a farce set up by Kinzo.`
+char_non: `If you carefully thought about that chain of locked rooms, it communicated more clearly than anything that it was all an act by the victims themselves...`
+char_ros: `"......Will you really listen if you get to see the rose?"`
+char_mar: `"Yeah.`
+char_mar: ` I mean it, Mama.`
+char_mar: ` ......Kihihi."`
+char_ros: `"................................."`
+char_mar: `"Ouch."`
+char_non: `Rosa didn't overlook that creepy laugh, and lightly hit Maria with her fist.`
+char_non: `{n}And she shrugged, as though giving up.`
+char_ros: `"......Fine.`
+char_ros: ` You have one look and be satisfied.`
+char_ros: ` Understand?"`
+char_mar: `"Yes, Mama.`
+char_mar: ` I promise.`
+char_mar: ` ......Kihihi{0}hi{0}hi{0}hi{0}hi{0}hi{0}hi{0}hi{0}hi{0}hi{0}hihihi."`
+char_non: `Once again, Rosa tested the weight of her gun.`
+char_non: `......It's alright.`
+char_non: ` It's only a farce.`
+char_non: `{n}There was never a murderer on this island in the first place...`
+char_but: `"Damn it, wait, Auntie Rosa...!!`
+char_but: ` Are Auntie Rosa and Maria......the sacrifices for the second twilight?!`
+char_but: ` Damn it damn it damn it, someone, notice them, tell them to stop!!`
+char_but: ` What are those guys in the living room and us kids doing?!!"`
+char_bea: `"Hmm.`
+char_bea: ` They are being considerate of Rosa's pitiful relationship with her daughter, and are forcibly changing the subject.`
+char_bea: ` The group you are in went upstairs, and are talking about something else while watching TV."`
+char_but: `"Goddammit!!`
+char_but: ` Someone, notice them!`
+char_but: ` Who's the closest, is it Uncle Hideyoshi?!`
+char_but: ` Please, notice that those two are leaving through the front door, aaa{0}a{0}a{0}a{0}a{0}a{0}a{0}a{0}a{0}aaahhh!!"`
+char_bea: `"It won't reach, it won't reach, *cackle*!`
+char_bea: ` Don't disturb their precious time together.`
+char_bea: ` Fuhaha{0}ha{0}ha{0}hahaha...!"`
+char_non: `Hideyoshi kept talking kindly, his hand on Eva's forehead.`
+char_non: `He didn't notice that Rosa and Maria were going outside through the front door at all.`
+char_non: `In that case, there was no way that the others in the lobby, which was even further away, would notice either.`
+char_non: ` And the cousins' room upstairs was even worse...!`
+char_bea: `"Why are you so panicked?`
+char_bea: ` On the first twilight, didn't you defeat me with that bold move, saying that the culprit died in an accident on the first twilight?"`
+char_bea: `"...Doesn't that mean that there is no longer a culprit on this island...?`
+char_bea: ` *cackle*cackle*cackle*, what is there to be so worried about...?"`
+char_but: `"Shut up, I can see right through you!!`
+char_but: ` Someone stop them, those two'll be killed!!`
+char_but: ` Someone, stop theee{-}e{-}e{-}e{-}e{-}e{-}e{-}e{-}e{-}e{-}eeem, aaa{0}a{0}a{0}a{0}a{0}a{0}a{0}a{0}aaaahhh!!"`
+char_non: `......There was no way that Battler's voiceless scream would reach Rosa or Maria.`
+char_non: `The two of them could be seen in the rose garden.`
+char_non: `The rain was still awful, but fortunately, the wind had died down a little.`
+char_non: `......No, maybe that wasn't fortunate.`
+char_non: ` Because if the wind {i:had} been a little fiercer, Rosa would surely have hesitated to go outside...`
+char_mar: `"......Uu, uu, uu...`
+char_mar: ` ............Here it is...!"`
+char_non: `Maria found her own rose with the gold lace and stared at it lovingly.`
+char_non: `Rosa had accepted with the promise that Maria would only have one look at it,`
+char_non: ` but she didn't want Maria to complain that it hadn't been enough later on,`
+char_non: ` so she decided to go along with her until she was satisfied.`
+char_non: `......She believed that there wasn't a culprit,`
+char_non: ` but if by any chance she was mistaken, they were now in an extremely dangerous position.`
+char_non: `Rosa realized that faintly herself.`
+char_non: `If things got bad, she would throw away her umbrella and ready her gun.`
+char_non: `{n}...Keeping the innocently rejoicing Maria in the corner of her eye, Rosa gazed warily in all directions.`
+char_non: `....................................?`
+char_non: `{n}......Were her eyes just tired?`
+char_non: `Even though no one should have been there, she thought she saw something glitter in the dark rose garden with all its wind and rain.`
+char_non: `...Gold‐colored......?`
+char_non: `{n}It had to be her imagination.`
+char_non: `Because, to Rosa, it seemed as though gold butterflies were dancing through the rose bushes...`
+char_hid: `"......Are you alright, Eva...?`
+char_hid: ` ...Just take it easy...and should I call Doctor Nanjo after all...?!"`
+char_eva: `"I...... ......I'm alright...`
+char_eva: ` ......Don't take your hand away......`
+char_eva: ` ...I'm begging you, ......don't take your hand away......"`
+char_non: `Eva was breathing wildly.`
+char_non: ` Beads of sweat were appearing on her forehead.`
+char_non: `It certainly was true that she had stayed up all night last night, and that things had been rough since early this morning.`
+char_non: `{n}It wasn't odd that her body wasn't keeping up.`
+char_non: `......Even though he understood that,`
+char_non: ` Hideyoshi suspected that Eva's sudden fever was the sign of some serious illness.`
+char_non: `Several times, Hideyoshi suggested to call Doctor Nanjo, but Eva resisted firmly,`
+char_non: ` ...pleading with him and saying that it was even more important that he didn't take his hand away...`
+char_hid: `"I understand...`
+char_hid: ` But you've gotta have Doctor Nanjo look at you by lunchtime.`
+char_hid: ` If you can promise me that, I'll stay here the whole time, grippin' your hand.`
+char_hid: ` Tightly, like this."`
+char_eva: `"......Thank you...`
+char_eva: ` ......I'm fine...`
+char_eva: ` The magic of your hand......will definitely make this fever subside......"`
+char_non: `Even as she said that, Eva's harsh breathing didn't improve in the slightest.`
+char_eva: `"......Haah,`
+char_eva: ` ......haah,`
+char_eva: ` ......haahh...`
+char_eva: ` ......Don't let go,`
+char_eva: ` ...don't let go......`
+char_eva: `haah,`
+char_eva: ` ......haahh,`
+char_eva: ` ............aaaa{0}a{0}a{0}a{0}a{0}a{0}a{0}a{0}a{0}a{0}a{0}a{0}a{0}a{0}aaaaahhhh!!"`
+char_ros: `"Wh‐............who's there...?!"`
+char_non: `She saw an umbrella moving from beyond the rose bush.`
+char_non: `Rosa threw away her umbrella and wildly lifted her gun...`
+char_non: `When she did, the figure beyond the bush......showed itself.`
+char_mar: `".........Uu?`
+char_mar: ` ......Auntie Eva............`
+char_mar: ` .........?"`
+char_ros: `"...You scared me.`
+char_ros: ` So it was you, Nee‐san?`
+char_ros: ` ............Do you have some business?`
+char_ros: ` ...Do you want to continue our earlier discussion?"`
+char_eva: `"..............................`
+char_eva: ` ...Yes, that's right.`
+char_eva: ` Our discussion about Father's gold."`
+char_ros: `"......Please, restrain yourself in front of Maria.`
+char_ros: ` I've been keeping my promise, okay?`
+char_ros: ` I won't get in the way of your scheming."`
+char_eva: `"...............Scheming?`
+char_eva: ` What's that?"`
+char_ros: `".........Whatever you're thinking, that's up to you.`
+char_ros: ` I have no desire to get in the way.`
+char_ros: ` So please, not in front of Maria.`
+char_ros: ` As long as I get my share, that will be enough."`
+char_eva: `"Your share?`
+char_eva: ` Heheheheh, ahaha{0}ha{0}ha{0}ha{0}ha{0}ha{0}ha{0}ha{0}ha{0}ha{0}ha{0}ha{0}hahaha."`
+char_non: `Eva started laughing in a creepy voice...`
+char_non: `{n}Rosa was startled, but Maria stared blankly.`
+char_non: `.........Then Maria said just one thing.`
+char_mar: `".........Uu......?`
+char_mar: ` ............Wait,`
+char_mar: ` ............who are you...?"`
+char_ev2: `"Hahahahahaha, ahhahhahahaha{0}ha{0}ha{0}ha{0}ha{0}ha{0}ha{0}ha{0}ha{0}ha{0}hahaha!!`
+char_ev2: ` Your shaaare?!`
+char_ev2: ` Who would give that to you...?!`
+char_ev2: ` All of that is mine!`
+char_ev2: ` It all belongs to me, the Golden Witch, {f:5:Beatrice}...!!!"`
+char_eva: `"UaaaAAAAAAAAaaaAaaaaaa—!!"`
+char_hid: `"Eva! Are you alright, Eva?!`
+char_hid: ` Eva!`
+char_hid: ` Eva!!"`
+char_eva: `"Hold on...!!`
+char_eva: ` Don't let go!!`
+char_eva: ` So that I don't get taken away by someone who isn't me...!!`
+char_eva: ` Keep holding on to my hand...`
+char_eva: ` Don't let gooo{-}o{-}o{-}o{-}o{-}o{-}o{-}ooooo...!!!"`
+char_ev2: `"When did you ever work hard?!`
+char_ev2: ` You never worked hard for anything!`
+char_ev2: ` You were always hiding in our shadows!`
+char_ev2: ` You always ran about from shadow to shadow without fighting,`
+char_ev2: ` and yet, you really think yourself qualified to ask me for the Ushiromiya family gold...?!"`
+char_ev2: `"All of that is mine!`
+char_ev2: ` It's all mine and mine alone, as the head of the Ushiromiya family and the new Golden Witch, successor to the name of {f:5:Beatrice}!!"`
+char_mar: `".........{f:5:Beatrice}.`
+char_mar: ` ...............It's {f:5:Beatrice}!!`
+char_mar: ` Mama, {f:5:Beatrice}!"`
+char_non: `Frolicking around, Maria jumped at her mother in ecstasy.`
+char_non: `{n}...Rosa treated Maria coldheartedly and raised her gun high.`
+char_ros: `"......Y‐......you're Nee‐san, right......?`
+char_ros: ` ......You are Nee‐san, right......?"`
+char_ev2: `"Wrong.`
+char_ev2: ` ...I am no longer the one who was your sister."`
+char_ros: `"Then who are you?!!`
+char_ros: ` Are you going to say that you're {f:5:Beatrice}?!`
+char_ros: ` That's impossible!`
+char_ros: ` You died 19 years ago!!!"`
+char_ros: `"Yes, you were definitely dead, after all, I clearly saw that your head was smashed.`
+char_ros: ` I can remember your insides flowing out like it was yesterday!`
+char_ros: ` How could you be alive and right here noooooooooow?!?!"`
+char_ev2: `"The concept of death does not exist for a Golden Witch.`
+char_ev2: ` The names of the Golden Witch and {f:5:Beatrice} will be handed down for all eternity."`
+char_ev2: `"Maybe the {f:5:Beatrice} you knew met with death, but that name is mine now...!`
+char_ev2: ` Therefore it is endless!`
+char_ev2: ` The concept of death does not exist for {f:5:Beatrice}!!"`
+char_ros: `"......How pitiful, Nee‐san...!"`
+char_non: `.........That gold has caused you to lose the distinction between fantasy and reality......`
+char_ev2: `"I said I'm not your sister anymore.`
+char_ev2: ` ......Well then, as the new {f:5:Beatrice}, I have been tasked with my own resurrection ritual.`
+char_ev2: ` .........Ronove!`
+char_ev2: ` What should I do?!"`
+char_ron: `"That is up to you.`
+char_ron: ` {f:5:Beatrice}‐sama, you already have the power to make whatever you think reality.`
+char_ron: ` You should grow used to it if you use it a little."`
+char_ev2: `"......You worthless former sister.`
+char_ev2: ` You should consider it an honor to have been selected as my first sacrifice as a witch.`
+char_ev2: ` On the second twilight, I'll tear apart the two who are close, with my own hands...!!"`
+char_non: `The first thing the new {f:5:Beatrice} wished,`
+char_non: ` ......no, the first magic she tried to use, was to surpass the limitations given to humans.`
+char_non: `...In particular, gravity.`
+char_non: `She wanted to become fully aware of her transformation into a witch by being released from those shackles.`
+char_non: `As the witch and Rosa stayed as they were...`
+char_non: `......The ground retreated all by itself, into the distance below them.`
+char_non: `{n}By now, their feet were no longer attached to the ground.`
+char_non: `Rosa finally realized that the ground hadn't retreated into the distance below her,`
+char_non: ` but that she and the witch had been sucked up into the rainy sky.`
+char_ros: `"............huh...?`
+char_ros: ` ...............Eeeek...?!"`
+char_ev2: `"Wh‐.........whoooooooooaaaa...... Awesome......!"`
+char_non: `To humans, shackled by gravity, there is nothing more unnerving than not having their feet on solid earth.`
+char_non: `......However, to {f:5:Beatrice}, who had learned the joy of being released from gravity as a new witch,`
+char_non: ` it was enough to cause her whole body to shake with delight.`
+char_ev2: `"......Hey, Rosa.`
+char_ev2: ` Do you remember, long ago, when we were small, when we used to talk about what it'd be like to become witches and fly around the sky?`
+char_ev2: ` ......It's come true, you know?`
+char_ev2: ` I became a real witch and granted it for you."`
+char_ros: `"S‐............Stop it, .........wake me from this dream......"`
+char_ev2: `"You said it.`
+char_ev2: ` You said that you flew through the sky in your dream.`
+char_ev2: ` And you also said that you hadn't wanted to wake up.`
+char_ev2: ` You were even mad at me for waking you, right?"`
+char_ev2: `"......Don't worry.`
+char_ev2: ` You won't wake up this time, alright?`
+char_ev2: ` Heheh{0}eh{0}eh{0}eh{0}eh{0}eh{0}eh{0}eh{0}eheheh!!"`
+char_non: `Come, dance with me in the vast, rainy sky.`
+char_non: `Didn't we wish together to fly like seagulls in the sky,`
+char_non: ` and escape the cramped and boring island of Rokkenjima...?`
+char_non: `Now, I'll make that dream a reality for you.`
+char_non: `That is why I want to share this joy with you, and no one else...!`
+char_ev2: `"Ahhahaha ahhahahahaha!!`
+char_ev2: ` Isn't this so fun, Rosa, isn't this so fun?!!`
+char_ev2: `"`
+char_ev2: `"Take a look, below you!`
+char_ev2: ` Look at how small our mansion is.`
+char_ev2: ` I wonder how much time we spent in a place that small.`
+char_ev2: ` ...Now I'm especially shocked at how cramped and tiny it is."`
+char_ev2: `"So feel.`
+char_ev2: ` Enjoy.`
+char_ev2: ` Rejoice...!`
+char_ev2: ` That power we yearned for, the power to move through the sky at will!`
+char_ev2: ` Come on, let's dance, Rosa!`
+char_ev2: ` Through the rain, through the wind!`
+char_ev2: ` Let's fly around like we're dancing!`
+char_ev2: ` The lightning will shine on us and bless us!!`
+char_ev2: ` Ahhaha{0}ha{0}ha{0}ha{0}ha{0}ha{0}ha{0}ha{0}ha{0}ha{0}ha{0}ha{0}ha{0}ha{0}ha{0}hahaha!!"`
+char_non: `The witch and Rosa were like leaves fluttering around in a whirlwind.`
+char_non: `{n}As the rain pounded upon every part of their bodies, as the lightning occasionally shone upon them, they shook with the joy of being released from the ground.`
+char_non: `...However, it was only that way for the witch.`
+char_non: `{n}Rosa was holding onto her head, voicelessly screaming over and over.`
+char_ros: `"Stop iiiiiiiiiiiiiitt!!`
+char_ros: ` Please no mooo{-}o{-}o{-}ooore, let me dooo{-}o{-}o{-}ooown!!"`
+char_ev2: `"......You're right, it's more fitting for {y:0:Human}{n:0:human}s to crawl on the ground.`
+char_ev2: ` Then why not go back there?"`
+char_non: `A slightly displeased expression rose to the witch's face when she realized that her own joy was not being shared.`
+char_non: ` And she decided to listen to her former sister's request.`
+char_ros: `"............?!`
+char_ros: ` .........aaa{0}a{0}a{0}a{0}a{0}a{0}a{0}a{0}a{0}a{0}aaaAAA{0}A{0}A{0}AAHHHHH!!"`
+char_non: `The whirlwind that had been making Rosa dance around grew weaker, then stopped.`
+char_non: `In other words, Rosa was once again bound by the restrictions of gravity, as a {y:0:Human}{n:0:human}.`
+char_non: `......Following the laws that were originally correct, Rosa began to descend towards the ground upside‐down.`
+char_non: ` No, she began to fall.`
+char_ev2: `"Oops...`
+char_ev2: ` That's right, if I don't take her down the right way, this is what happens!"`
+char_non: `The witch hadn't intended to send Rosa plummeting.`
+char_non: `{n}But she still wasn't used to using magic.`
+char_non: `After plummeting about 100 meters into a rose bush,`
+char_non: ` as a very, very natural result, Rosa died instantly.`
+char_non: `But the witch hadn't intended to kill her.`
+char_non: `{n}So she willed for Rosa not to die.`
+char_non: `When she did, gold butterflies coiled about Rosa's body, reviving that life just as the witch had wished.`
+char_non: `Rosa's body, which had laid out a radial carpet of fresh blood, rapidly returned to normal.`
+char_non: `The broken and crushed bones returned to normal.`
+char_non: `The torn and smashed flesh returned to normal.`
+char_non: `......How easy it is to break things in this world, and how difficult it is to fix them...`
+char_non: `Anyone can take a life.`
+char_non: `But no {y:0:Human}{n:0:human} can revive a lost life!`
+char_non: ` By surpassing the irreversible, one proves that they have surpassed {y:0:Human}{n:0:human}s.`
+char_non: `......This surely gave her a much, much greater realization that she was a witch than flying through the sky had.`
+char_ev2: `".........Awesome...`
+char_ev2: ` I can even revive......an ended life......!"`
+char_ron: `"Of course.`
+char_ron: ` {f:5:Beatrice}‐sama, you are already an Endless Witch."`
+char_ron: `"......To live and to die.`
+char_ron: ` To bring to life and to kill, all of it repeated endlessly.`
+char_ron: ` {f:5:Beatrice}‐sama, as the Endless Witch, you are the queen who controls that cycle of life and death."`
+char_ev2: `"Ahaha, aha.`
+char_ev2: ` One time, I dropped a goldfish bowl.`
+char_ev2: ` The fragile and beautiful bowl broke, and I couldn't put it back together again.`
+char_ev2: ` That cute pop‐eyed goldfish would never swim for me again after it landed on the floor."`
+char_ev2: `".........No matter how much I cried, the servants shook their heads, saying that broken things and dead things could never be revived."`
+char_ev2: `"...That's when I learned, you know?`
+char_ev2: ` You mustn't break things, you mustn't kill people.`
+char_ev2: ` After all, you can't fix them!!"`
+char_ev2: `"So...if you {i:could} fix them...`
+char_ev2: `...then you wouldn't get in trouble for breaking them, right...?`
+char_ev2: ` Haha, ahahahaha, .........awesome...`
+char_ev2: ` Awesome, awesome, awesome...!!`
+char_ev2: ` Ahhaha{0}ha{0}ha{0}ha{0}ha{0}haaha{0}ha{0}ha{0}ha{0}hahaah{0}hahah{0}hahhah{0}hahhaha!!"`
+char_non: `For a while, the witch became intoxicated with how terrible and wonderful the power she had succeeded was.`
+char_non: `Her laugh was pure, innocent, and also cruel.`
+char_ros: `".........Uuuuuunnghh, ......au......"`
+char_non: `Even though Rosa had been revived, she let out a cry of anguish at the pain from her fall.`
+char_non: ` The witch landed in front of her and held out her hand.`
+char_ev2: `"Hahahahahahaha, sorry about that, Rosa.`
+char_ev2: ` I didn't think flying in the sky would be so much fun.`
+char_ev2: ` Sorry, I'm really sorry."`
+char_ev2: `"And I didn't know that {y:0:Human}{n:0:human}s could die so easily.`
+char_ev2: ` But I've brought you back to life, so you're fine now.`
+char_ev2: ` So get up, okay?`
+char_ev2: ` Play with me some more, okay?`
+char_ev2: ` *giggle*giggle*, ehehehaaha{0}ha{0}ha{0}ha{0}ha{0}ha{0}ha{0}ha{0}ha{0}ha{0}ha{0}ha{0}ha{0}hahaha!!"`
+char_non: `What were those dreams you told me about when you were a kid...?`
+char_non: ` Go ahead and tell me about all of them without holding back.`
+char_non: `As I am now, I can make anything come true, no matter how absurd...!`
+char_non: `I can let you drown in a ocean of jelly!`
+char_non: `{n}I can swallow you up in a mountain of cake!`
+char_non: `{n}I can even make you grow butterfly wings and let you fly around the garden!`
+char_non: `I'll do them one after another, let's start with the ocean of jelly, okay...?!`
+char_ros: `"S‐stop,`
+char_ros: ` ...............urgg!!"`
+char_non: `Rosa was once again thrown high into the rainy sky.`
+char_non: ` However, the sky wasn't filled with raindrops, but with drops of orange juice.`
+char_non: `When she looked down, Rosa had to doubt her eyes.`
+char_non: ` The rose garden had disappeared, and the ground spread out beneath her was like a pastel‐colored jigsaw puzzle.`
+char_non: `......It was from the dream she had talked about when she was young, an ocean of jelly.`
+char_non: `The black part was coffee jelly.`
+char_non: ` The red was strawberry,`
+char_non: ` the yellow was pineapple,`
+char_non: ` the green was melon.`
+char_non: `What was the white part, apple, perhaps...?`
+char_non: `.........Did Rosa even have the time to think something like that?`
+char_non: `Rosa fell towards that multi‐colored ocean.`
+char_non: `......And sank deep into a grape‐flavored purple sea.`
+char_non: `It really was an ocean of jelly.`
+char_non: ` It had no bottom.`
+char_non: `As Rosa sank, she was shocked to see a school of transparent fish swimming through the grape jelly ocean.`
+char_non: `They were probably made of grape skin.`
+char_non: `Then she sank on and on, deeper and deeper, as deep as the Mariana Trench,`
+char_non: ` ......compressed tight by the water pressure of the jelly ocean,`
+char_non: ` as her ribs crushed and crunched, as her spine snapped and cracked.`
+char_non: `...In the end, she had become a small, frail meatball.`
+char_ev2: `"Ahhahahahahahahahaha!`
+char_ev2: ` What a truly wonderful experience, to drown to death in an ocean of jelly...!!`
+char_ev2: ` It's a dream no one else can imitate!!`
+char_ev2: ` I granted it for you, ahhyahyahyahya!!"`
+char_non: `The instant I snapped my fingers, the meatball that had been Rosa was launched up into the sky.`
+char_non: `And after being enveloped in a golden brilliance, she returned to her original form.`
+char_non: `It was as simple and easy as returning dried seaweed to its original form, and anyone could do it.`
+char_non: ` If they were a witch!`
+char_non: `That vacant look on Rosa's face...`
+char_non: `had to be because of the joy from having that dream she had given up on as a child made into reality.`
+char_non: ` Definitely. Probably.`
+char_non: `Next is the mountain of cake.`
+char_non: `{n}In an instant, the sky was covered, and became patterned black and white like a chessboard.`
+char_non: `That almost transparent white part was her favorite gelatin cheesecake.`
+char_non: `{n}The elegant black part was a slightly bitter gâteau au chocolat.`
+char_non: `They were a ceiling, they were a mountain, ......and those several billion cakes were thrown down towards Rosa.`
+char_non: `If you piled those cakes up, they would surely be taller than Everest.`
+char_non: `So they probably weighed...`
+char_non: `......I'm not too sure, but it was probably heavier than all the cakes across Japan put together.`
+char_non: `It fell down like a ceiling and swallowed Rosa up,`
+char_non: ` ......so as a very, very natural result, Rosa was crushed to death.`
+char_non: `In less than a second,`
+char_non: ` her bones broke throughout her body and her insides were all smashed and forced out,`
+char_non: ` spladdasplutslop.`
+char_non: `And yet still an even greater number of cakes piled up on top,`
+char_non: ` ...and Rosa ended up as a layer of jam wedged between the cakes.`
+char_non: `She became as thin as a single hair, and was probably smashed out into the area of a tennis court.`
+char_non: `That world swallowed up by cake was once again absorbed by a golden flash.`
+char_non: `Then, as though it had all been a dream, Rosa was revived once again.`
+char_non: `......Of course, it definitely wasn't a dream.`
+char_non: `{n}She had been revived after dying.`
+char_non: `By that point, death, which most {y:0:Human}{n:0:human}s only have to experience once after they are born,`
+char_non: ` had already been experienced repeatedly by Rosa.`
+char_non: `In other words, she had gone through that which {y:0:Human}{n:0:human}s cannot, the precious experience of dying more than once.`
+char_ev2: `"Ahhahahahahahahaha, kyahha{0}hha{0}ha{0}ha{0}ha{0}ha{0}ha{0}ha{0}ha{0}ha{0}ha{0}ha{0}ha{0}hahaha!!`
+char_ev2: ` Isn't this fun, Rosa, isn't this fun?!`
+char_ev2: ` Next is the butterflies, look...!!"`
+char_ros: `"P‐please, have mercy...... .........aaaaaaaaaaaaaaaaahhh!!"`
+char_ev2: `"No waaay!`
+char_ev2: ` Let's play more, let's play more...!!`
+char_ev2: ` Kyahihihiha{0}ha{0}ha{0}ha{0}ha{0}ha{0}ha{0}hahaha!!"`
+char_non: `Laughing innocently, she pointed her gold staff at Rosa as she begged for mercy.`
+char_non: `When she did, Rosa glittered gold and rapidly began to shrink.`
+char_non: `She shrank down to the size of a real butterfly.`
+char_non: ` Then, gold wings sprouted from her back...and she joined her fellow gold butterflies.`
+char_non: `However, while a human body could withstand this wind, it was a different matter for a butterfly's body.`
+char_non: `The gold butterfly Rosa was invited to dance by each gale of wind, and she spun in circles around the rose garden.`
+char_ros: `"No, ...nooo{-}o{-}o{-}o{-}ooOO{-}O{-}OOoo{-}o{-}ooOO{-}OOooo!!`
+char_ros: ` .........ah—"`
+char_non: `A gentle bed caught her as she tired from dancing.`
+char_non: `It was a soft, knit hammock in the shadows beneath the roof of the arbor.`
+char_non: `...The owner of that hammock lumbered into view, welcoming its rare guest who had wandered in on this stormy night...`
+char_non: `That owner, which should have been small enough to crush in the palm of your hand,`
+char_non: ` now looked as big as the top of a canopy bed to Rosa.`
+char_ros: `"Giiyaaaaaaaaaaa{0}a{0}a{0}a{0}a{0}a{0}a{0}a{0}a{0}a{0}a{0}a{0}a{0}a{0}a{0}a{0}a{0}a{0}a{0}a{0}a{0}a{0}a{0}a{0}a{0}a{0}a{0}a{0}a{0}a{0}a{0}a{0}a{0}a{0}a{0}a{0}a{0}a{0}a{0}a{0}a{0}a{0}a{0}a{0}a{0}aaaaa!!!"`
+char_ev2: `"Kyahhahaha{0}kya{0}hha{0}ha{0}ha{0}hahaha!`
+char_ev2: ` What a klutz, you got caught in a spider's web!`
+char_ev2: ` Ahhahaha, ahhahahahahaha!!"`
+char_ev2: `"This time, it's a dance with a spider.`
+char_ev2: ` That takes me back, remember the times we'd find a spider's web and play around by throwing pebbles at it?`
+char_ev2: ` I've heard that spiders don't chew their prey,`
+char_ev2: ` but insert their venom, and when the insides melt into a sticky soup, they suck it out."`
+char_ev2: `"......Hey, Rosa, remember?`
+char_ev2: ` Remember how we'd throw butterflies into the spider's web on purpose, and play around by seeing how the spider would attack?"`
+char_ev2: `"Kyahhahahahahahaha,`
+char_ev2: ` you don't remember, do you? This happened before you got into grade school...!!`
+char_ev2: ` You'll be able to see it up close this time, you know!`
+char_ev2: ` Very close.`
+char_ev2: ` Kyahihi{0}ha{0}ha{0}ha{0}ha{0}ha{0}ha{0}kyaaha{0}ha{0}ha{0}ha{0}ha{0}ha{0}ha{0}ha{0}ha{0}ha{0}ha{0}hahaha!!"`
+char_ros: `"Noooooooooooooooooooooooooooooooooooooooo,`
+char_ros: ` have mercy, Nee‐san,`
+char_ros: ` help me, Nee‐san!!`
+char_ros: `"`
+char_ros: `"Hiiiiiiiiiiiiiiii`
+char_ros: `gaaaaaaaaaaaaaahhh`
+char_ros: `gigyeeehhh`
+char_ros: `gpgyaagh`
+char_ros: `wagaghhggggg`
+char_ros: `ergorblahgehmolgeeaarggaagagaga—`
+char_ros: `ga—`
+char_ros: `...ga—`
+char_ros: `......gyuboh!!"`
+char_bea: `"This girl's not bad. She truly can use magic at will!`
+char_bea: ` Hiihyahha{0}ha{0}ha{0}ha{0}hakkuhi{0}hie{0}hie{0}hya{0}hyahya!!"`
+char_bea: `"Interesting interesting, interesting interesting!`
+char_bea: ` You feel like laughing too, right, Battleeeeeeer?!"`
+char_but: `"Stop this bullshit!!!`
+char_but: ` Just STOOOOOOP!!!`
+char_but: ` What's so fun, you're insane, you're insane!!`
+char_but: ` What's so fun about doing something like this?!?!"`
+char_bea: `"Doesn't she look like she's having so much fun?`
+char_bea: ` I don't blame her, magic {i:is} fun!!`
+char_bea: ` I remember, when I first became able to use magic, I played around so much!`
+char_bea: ` ...Yeess, I understand, I understand, I understand that play from the bottom of my heart!"`
+char_bea: `"......I expect I won't be able to share this joy and passion with you, Battler, aah, what a shame, what a shame!!`
+char_bea: ` If you accepted me, I'd teach you magic anytime you wanted, you know?!`
+char_bea: ` It's hard to describe the joy you receive in the instant you are freed from the shackles of {y:0:Human}{n:0:human}ity!"`
+char_bea: `"I want to teach you about it, that joy, that passion!`
+char_bea: ` I definitely would like to see the world of magic you would give birth to, just once!`
+char_bea: ` Kihhihihihi, hhyahhya{0}haah{0}ha{0}ha{0}ha{0}ha{0}hahaha!!"`
+char_bea: `"You're starting to enjoy yourself, right?`
+char_bea: ` You've started wanting to use magic, right?!`
+char_bea: ` It's pretty fun to be a witch, you know?!`
+char_bea: ` Just for you, I'll teach everything!`
+char_bea: ` About the joy of flying together in the sky, about the joy of diving together through the sea!"`
+char_bea: `"I will teach you the excitement that you feel,`
+char_bea: ` in the instant you surpass the bounds of {y:0:Human}{n:0:human}s and see how wide your world stretches!`
+char_bea: ` Wouldn't that be fun,`
+char_bea: ` wahhyahhyaha{0}hha{0}ha{0}ha{0}ha{0}ha{0}ha{0}ha{0}ha{0}hahaha!!"`
+char_non: `There was no malice in Beato's expression.`
+char_non: `...It was hard to believe, but she was genuinely enjoying this cruel show.`
+char_non: `And she thought she was sharing her appreciation with Battler.`
+char_non: `{n}......Battler was aghast at that vastly...`
+char_non: `hopelessly different measure of value.`
+char_but: `"This is unbelievable... There's definitely something screwed up with you!!`
+char_but: ` Stop it already, goddammiiiiiiiiit!!`
+char_but: ` {f:5:Virgilia}, make her stop this insane farce!!`
+char_but: ` What do I have to do?!!"`
+char_wal: `".........We exist outside the board.`
+char_wal: ` We cannot touch the board itself."`
+char_non: `{f:5:Virgilia} shook her head apologetically.`
+char_non: `{n}...She was one who had already been "killed".`
+char_non: `{n}Did that mean she couldn't interfere in any way...?`
+char_non: `As Beato continued to enjoy it in a crazed sort of way, Battler lifted her up by the collar and yelled at her.`
+char_but: `"Stop it stop it stop iiiiiiiiiiiiiiiiit!!!`
+char_but: ` That's {i:enough}, you goddamn witch!!`
+char_but: ` Are you trying to tell me that's Auntie Eva?!"`
+char_but: `"That's impossible!!`
+char_but: ` While the Auntie Eva I know may be a bit mean at times,`
+char_but: ` it's completely impossible that she's the kind of person that would do something this cruel!!"`
+char_but: `"This is all part of your deception!!`
+char_but: ` Don't toy with Auntie Rosa!!`
+char_but: ` Don't toy with Auntie Eva!!`
+char_but: ` Stop this farce RIGHT NOOOOOOOOOOOOOOOOOW!!"`
+char_bea: `"But I already said that it's not me playing with Rosa anymore.`
+char_bea: ` I told you, that's the new {f:5:Beatrice}."`
+char_bea: `"Is it really so cruel that you have to squeal like that?`
+char_bea: ` You're also pretty fond of stuff like this, aren't you?!`
+char_bea: ` You actually have just a bit of interest in magic and—`
+char_bea: `...ouch.`
+char_bea: ` Wh‐what was that—"`
+char_non: `For the first time, Battler slapped Beato across the cheek.`
+char_non: `...Beato didn't know why something like that would be done to her, and a stunned expression rose to her face.`
+char_non: `Battler found that expression even more unforgivable, and he roared.`
+char_but: `"HUUUUUUH?!`
+char_but: ` You call this {i:interesting}?!`
+char_but: ` What the shit is wrong with your head?!!`
+char_but: ` Go kill yourself!`
+char_but: ` Slice the top of your head off and try looking inside, you'll definitely find that the insides have been completely removed!!!"`
+char_but: `"Make her stop it right now, make her stop this disgusting farce!!`
+char_but: ` I'll never forgive you!!`
+char_but: ` How dare you do something so cruel!!`
+char_but: ` I've sometimes thought that you're a bit of a funny person, but I'll never make that mistake again!"`
+char_but: `"You're just a monster who's nothing but cruel!!!`
+char_but: ` Don't show yourself in front of me!!`
+char_but: ` Never again!!`
+char_but: ` I won't accept you, I won't talk with you, I don't even want to look at your face!!"`
+char_but: `"That get through to you?!!`
+char_but: ` Don't show yourself in front of me!!`
+char_but: ` Just—FUCK—OOOOOOOOOOOOOOOOOOOOOOFF!!!"`
+char_non: `The instant Battler screamed, the power that resisted the witch became a red wall which repelled Beato, knocking her back onto her butt.`
+char_bea: `"......Owowowow...`
+char_bea: ` ...What are you talking about, isn't it an interesting show...?"`
+char_non: `She spoke as though making an excuse, but the person those words were directed at, Battler, was no longer there.`
+char_non: ` His figure had suddenly disappeared into the darkness...`
+char_non: `...But Beato pouted her lips, and continued trying to explain herself.`
+char_bea: `"......I‐it's not like I completely don't see where you're coming from,`
+char_bea: ` ...but this is nothing more than an innocent prank, right...?`
+char_bea: ` No matter how she kills, that person will be brought back to life in the end, right?`
+char_bea: ` ...Aren't {y:0:Human}{n:0:human}s creatures that are fine with anything as long as it ends well......?!"`
+char_bea: `"R‐right, Master?`
+char_bea: ` It's not something to get so angry about...!"`
+char_non: `She was hoping for approval, but {f:5:Virgilia} simply faced her with an indifferent expression.`
+char_non: `{n}...To Beato, at that moment, even an exasperated face would probably have seemed better.`
+char_wal: `"............I have nothing in particular to say.`
+char_wal: ` If you think it is fun, you can keep watching as long as you want.`
+char_wal: ` ...Call me when it's over.`
+char_wal: ` I will erase my form until then."`
+char_non: `Following Battler's lead, {f:5:Virgilia} hid herself in the darkness...`
+char_non: `Left sitting there on her own, Beato didn't have a clue what was going on, and felt like she had been made out to be the bad guy.`
+char_bea: `"..............................`
+char_bea: ` ......What's so wronnng?`
+char_bea: ` It's an interesting show, isn't it...?!`
+char_bea: ` I‐it might be a little vulgar, ......but it's fairly interesting, isn't it...?!!`
+char_bea: ` Right, Ronove...?!`
+char_bea: ` It's nothing to get so mad about, right...?!"`
+char_ron: `"Pu ku ku ku.`
+char_ron: ` ......Something interesting for you, Milady, is not necessarily interesting for Battler‐sama."`
+char_bea: `"Does he really...hate me that much?"`
+char_bea: `"......Well, certainly, we are playing against each other, so it is true we are enemies,`
+char_bea: ` ...but is our relationship really so bad that we can't laugh together at entertainment...?!`
+char_bea: ` .........Since I applauded together with Battler, I thought I could at least laugh together with him...`
+char_bea: ` ......Does he really reject me so much that we can't even do that...?"`
+char_bea: `"...He doesn't have to accept that I'm a witch.`
+char_bea: ` Because the point of the game is to compete over that.`
+char_bea: ` But still, saying he won't look at my face, that he won't talk to me,`
+char_bea: ` ......surely ignoring me is going too far...`
+char_bea: ` Am I really hated that muuuuuch......!"`
+char_ron: `"The moves you have made thus far are certainly worthy of hatred, Milady.`
+char_ron: ` Even a demon such as myself can slightly understand Battler‐sama's feelings.`
+char_ron: ` ......I wonder if you cannot understand that because you are especially thickheaded, Milady?`
+char_ron: ` Pukkukukukuku."`
+char_bea: `"Sh‐shut up shut up shut up shut up!!`
+char_bea: ` Why don't you disappear too?!!"`
+char_ron: `"Yes, certainly.`
+char_ron: ` ......Then, if you would excuse me."`
+char_non: `Even Ronove hid himself in the darkness, and Beato was left alone.`
+char_non: `The only one in the rainy rose garden.`
+char_non: `No one will play with a lonely witch.`
+char_non: `Because no one would play with her, she was a lonely witch.`
+char_bea: `".....................`
+char_bea: ` ......What's going on?`
+char_bea: ` ...Why won't anyone play with me...?`
+char_bea: ` .........Am I really that weird, that cruel...?`
+char_bea: ` ............Someone, answer meeeeeeeeee!!"`
+char_ev2: `"Kyahhaha{0}ha{0}ha{0}ha{0}haha, isn't this fun, Rosa, isn't this fun!`
+char_ev2: ` Hey, how should we play next?`
+char_ev2: ` Of course, I'll play with Maria too, okay?"`
+char_ev2: `"Let's all have a friendly walk together!`
+char_ev2: ` Let's swim in a pot of boiling chocolate, let's have a picnic in a cake‐rising oven!`
+char_ev2: ` Ahahaha, akya{0}kya{0}kya{0}kya{0}kyakya!!"`
+char_bea: `".........H‐hey, new {f:5:Beatrice}."`
+char_non: `Behind the witch who was continuing her spree of tragedy, Beato showed herself.`
+char_non: `...Her expression was very rare for her.`
+char_non: ` It was kind of restrained, somehow unreliable, miserable.`
+char_ev2: `"Oh, it's the predecessor {f:5:Beatrice}‐sama.`
+char_ev2: ` Were you watching?"`
+char_ev2: `"The power of magic is truly wonderful!`
+char_ev2: ` Until now, I had never thought it would be so fun to be reborn as a witch.`
+char_ev2: ` It's like playtime that never ends...!`
+char_ev2: ` Come on, let's play together, Predecessor‐sama...!!"`
+char_ev2: `"But first, wait for a second, okay?!`
+char_ev2: ` The two of them were cooked to death in the oven, so I have to revive them again!"`
+char_ev2: `"They're like bread rising because of yeast!`
+char_ev2: ` Like cookies expanding in an oven!`
+char_ev2: ` *giggle*giggle*giggle*!!"`
+char_bea: `"L‐Listen to what I'm saying..."`
+char_bea: `"......Umm, well.`
+char_bea: ` Isn't that enough for the sacrifices of the second twilight?`
+char_bea: ` ...Of course, it isn't specified how you kill them, but,`
+char_bea: ` umm,`
+char_bea: ` ......maybe you shouldn't toy with them any more than that..."`
+char_ev2: `"What are you saying, Predecessor‐sama?`
+char_ev2: ` I heard from Ronove a short while ago.`
+char_ev2: ` That your magic was much, much more wonderful, cruel, and self‐indulgent!"`
+char_ev2: `"A Halloween party where candies poured out of six people's stomachs, how truly wonderful!`
+char_ev2: ` As for me, maybe I'll act out Alice's tea party...!`
+char_ev2: ` I'll invite everyone to a tea party to celebrate a happy unbirthday, and entertain them one by one with my magic!"`
+char_ev2: `"I wonder if I can do it as wonderfully as you?`
+char_ev2: ` I wonder if I can be cruel in my own pop, cute style?!"`
+char_ev2: `"Now that I think about it, all fairy tales are cruel, aren't they?`
+char_ev2: ` Now that I'm a witch inside one of those fairy tales, I finally understand.`
+char_ev2: ` Kyahhaha{0}ha{0}ha{0}kukyahya{0}fuhyaha{0}ha{0}hahaha!!"`
+char_bea: `"...............I, I am, umm,`
+char_bea: ` ...slightly of the opinion that, in the past,`
+char_bea: ` ...I, too, might have gone a little too far.`
+char_bea: ` ......Well, I think that as the Golden Witch, it's a good idea to have a little elegance..."`
+char_ev2: `"..................???`
+char_ev2: ` I don't understand what you're saying, Predecessor‐sama."`
+char_ev2: `"But there's one thing I do understand.`
+char_ev2: ` No matter how hard I try now, I'm no match for how cruel you are.`
+char_ev2: ` I've gotta try much, much harder.`
+char_ev2: ` I've gotta become more cruel, and become an excellent Golden Witch...!"`
+char_bea: `"L‐like I said, you've already done enough here...!`
+char_bea: ` A‐anyway, this is my order, as your predecessor.`
+char_bea: ` That's enough for the second twilight.`
+char_bea: ` I'll show you how it's done.`
+char_bea: ` Stand back and watch..."`
+char_ev2: `"Yes, Predecessor‐sama.`
+char_ev2: ` I can't wait to see what brutal, cruel, and disgusting method of killing you'll use."`
+char_non: `The new witch pinched the sides of her skirt and gave a graceful bow,`
+char_non: ` stepping back as an expectant gaze rose to her face.`
+char_non: `......She was expecting an even more cruel magic that surpassed even herself.`
+char_bea: `"............Well, speaking of that...`
+char_bea: ` You're only half a witch if you can only kill with methods like that.`
+char_bea: ` ...I shall show you an elegant way to kill, worthy of the Golden Witch..."`
+char_non: `When Beato waved her pipe, seven colors of smoke poured out, reviving Rosa and Maria.`
+char_non: `......Compared to how the new {f:5:Beatrice} had done it a short while ago, it was slightly gentler.`
+char_non: ` ...It was probably gentler than how Beato had done it herself up until now.`
+char_non: `Rosa's consciousness had already grown dim from the pain of so many repeated deaths.`
+char_non: `...But even so, she pleaded that her daughter be spared...`
+char_ros: `"......Please......have mercy......`
+char_ros: ` ...Even......if it's just Maria......have mercy......"`
+char_mar: `"Waaaaaaaaaaaaaaahhh, Mama, Mamaaaaaa!!"`
+char_bea: `".........Sorry.`
+char_bea: ` My disciple just, umm, ...acted without restraint for a bit.`
+char_bea: ` ...Umm,`
+char_bea: ` .........forgive me."`
+char_mar: `"B‐{f:5:Beatriceeeeeeeeeeeee}!!`
+char_mar: ` Waaa{0}a{0}a{0}a{0}aaaahh, waaa{0}a{0}a{0}a{0}a{0}a{0}a{0}a{0}a{0}a{0}a{0}a{0}a{0}a{0}a{0}a{0}a{0}a{0}a{0}aaaahh!!"`
+char_non: `When Maria realized it was the real {f:5:Beatrice}, she jumped onto her.`
+char_mar: `"...You promised, right, Beato?!`
+char_mar: ` You promised that you would take me to the Golden Land, right?!`
+char_mar: ` There I can be friends with Mama, and everyone will laugh together...!`
+char_mar: ` You promised that you would take us there, right?!"`
+char_bea: `".........A‐`
+char_bea: `...about that.`
+char_bea: ` ...I can no longer...`
+char_bea: `keep that promise.`
+char_bea: ` .........Because someone appeared who could solve the riddle,`
+char_bea: ` ......I am no longer the Golden Witch {f:5:Beatrice}."`
+char_bea: `"......So, I'm sorry.`
+char_bea: ` ...I can no longer keep my promise with you......"`
+char_mar: `"Why...?`
+char_mar: ` Why...?`
+char_mar: ` Beato, you promised..."`
+char_bea: `"......I'm sorry.`
+char_bea: ` ...I'm truly sorry...`
+char_bea: ` .........So at least, in apology for not being able to keep my promise..."`
+char_non: `............I'll give you a truly quiet sleep,`
+char_non: `{n}which will never be disrupted again...`
+char_non: `Beato embraced Maria with a loving expression...`
+char_non: `Then, .........softly, a red bruise appeared on Maria's neck.`
+char_non: `{n}It was a very gentle bruise.`
+char_non: `...It grew redder and redder, ...and when it distinctly formed itself into the shape of a hand...`
+char_non: `......Maria's neck tilted suddenly.`
+char_non: `{n}...Peacefully, as though she had fallen asleep.`
+char_ros: `"M‐Maria......`
+char_ros: ` ...MariaaaAAaaaAAAAAaa!!"`
+char_bea: `"......Sorry.`
+char_bea: ` ......I won't apologize that you were the sacrifices for the second twilight.`
+char_bea: ` That is simply your fate."`
+char_bea: `"However, I must apologize for the vulgar way in which you were offered as sacrifices...`
+char_bea: ` ......This is your final sleep.`
+char_bea: ` ...Never again will it be disturbed..."`
+char_non: `Beato softly, gently lifted her finger, as though touching the empty air in front of her nose.`
+char_non: `...When she did, a light breeze lifted up, making Rosa's body dance lightly like a feather.`
+char_non: `Then, Rosa's body floated lightly,`
+char_non: ` ......and there was the garden fence, with its spear‐shaped prongs.`
+char_non: `The spear of the fence pierced Rosa's medulla oblongata.`
+char_non: `......Benevolently, without toying with her, in a single blow.`
+char_non: `{n}Rosa's life was snuffed out.`
+char_non: `Compared to the earlier innocent yet cruel events, her end was surprisingly tame.`
+char_non: `...It just looked like a doll shaped like Rosa was leaning against the fence.`
+char_non: `...But, she had passed away.`
+char_bea: `".........W‐...well, that's pretty much how you do it."`
+char_non: `Beato acted proud, but the new witch wore a blank expression, almost as though this was an anticlimax.`
+char_non: ` And she was forthright with that opinion.`
+char_ev2: `"It's kinda plain...`
+char_ev2: ` ......Very different from the person Ronove told me about."`
+char_bea: `"...Well, um, ...you must use magic with dignity, you see...?`
+char_bea: ` If it's too, umm, ...undignified, that isn't very elegant..."`
+char_ev2: `".............................................`
+char_ev2: ` ......But you can do wonderful things endlessly with this magic.`
+char_ev2: ` ......How boring."`
+char_bea: `"Now now! No complaining...!`
+char_bea: ` The path of a Golden Witch cannot be completed in a day.`
+char_bea: ` You are still incomplete until you finish the tenth twilight...`
+char_bea: ` For now, stay quiet and follow my instructions.`
+char_bea: ` ...Alright......?!"`
+char_ev2: `"......................................."`
+char_bea: `"Wh‐what happened to your answer?`
+char_bea: ` Your answer...!"`
+char_ev2: `"...........................`
+char_ev2: ` ...............Fiiine."`
+char_bea: `"...Better, much better.`
+char_bea: ` ......Well, there is still much to do for the resurrection ritual.`
+char_bea: ` You still have to kill five people...`
+char_bea: ` You should do it without toying with them too much, with beauty and dignity,`
+char_bea: ` ...and with at least a little decorum, alright...?"`
+char_bea: `"What Ronove told you about how I did it, ......that was a bad example.`
+char_bea: ` You mustn't use that as a model.`
+char_bea: ` Engrave that into your heart."`
+char_ev2: `"............Yes, Predecessor‐sama."`
+char_bea: `"A good answer.`
+char_bea: ` ......Ronove, the Seven Stakes of Purgatory, arise...!"`
+char_ron: `"......Yes, Milady.`
+char_ron: ` Ronove, right here."`
+char_rg1: `"Lucifer the Proud, right here."`
+char_bea: `"...Up until this point, umm, I've done things a little flashy, but,`
+char_bea: ` ......umm,`
+char_bea: ` ......well, the dignity of the Golden Witch is also important,`
+char_bea: ` so, what I'm trying to say is—"`
+char_non: `As Ronove chuckled at Beato's uncharacteristically flustered speech,`
+char_non: ` he summed it up for her.`
+char_ron: `"Certainly.`
+char_ron: ` From now on, we will be careful to perform in a graceful manner, suitable for the name of the Golden Witch.`
+char_ron: ` ......Even the Seven Sisters of Purgatory will reform their previous bad behavior,`
+char_ron: ` and we shall espouse to perform our task in the quickest possible manner.`
+char_ron: ` ......Would that be acceptable? Milady?"`
+char_bea: `"M‐mm.`
+char_bea: ` That's it, more or less.`
+char_bea: ` Everyone, take it to heart!`
+char_bea: ` Alright...?!"`
+char_rg1: `"Yes.`
+char_rg1: ` Certainly."`
+char_bea: `"That is all I wish to say.`
+char_bea: ` ......You may leave now."`
+char_ron: `"Certainly.`
+char_ron: ` If you would excuse me."`
+char_rg1: `"Excuse us."`
+char_ev2: `".........................................."`
+char_bea: `"Well, ...that's all I want to say.`
+char_bea: ` So, take care as you continue, alright?`
+char_bea: ` Go with dignity, and, ...umm, decorum, befitting the Golden Witch, alright?`
+char_bea: ` ......You should do your best.`
+char_bea: ` I will be watching over you."`
+char_non: `Acting unsure until the very end, Beato communicated only that to her,`
+char_non: ` became a group of gold butterflies, and vanished into thin air.`
+char_non: ` It may be fitting to say that she disappeared in a hurry because she was having trouble maintaining the conversation.`
+char_non: `After that, all that remained was Maria's outstretched body, pounded by the rain,`
+char_non: ` and Rosa's body, propped up by the fence and gazing up at the sky.`
+char_non: `......And the figure of the witch.`
+char_ev2: `".....................Show some decorum............you say."`
+char_non: `Her expression looked just a little bored.`
+char_non: `{n}`
+char_non: `There was a popping sound.`
+char_non: `{n}...That was probably her clicking her tongue.`
+char_ev2: `".................................`
+char_ev2: ` ...........................What a boring person."`
+char_non: `Leaving that last sentence behind, she, too, vanished into thin air......`

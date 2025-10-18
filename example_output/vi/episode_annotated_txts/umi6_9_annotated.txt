@@ -1,0 +1,855 @@
+char_non: `Erika had returned to the room that had been given to her on the second floor of the guesthouse.`
+char_non: `The next room over was empty.`
+char_non: ` It was very quiet there...`
+char_non: `Even pressing her ear against the wall wouldn't enable her to listen in on the voices in the cousins' room.`
+char_non: `Even with hearing power boosted by the detective's authority, it would probably be impossible to make out anything.`
+char_non: `This room was the farthest down the hall, a long ways away from the cousins' room......`
+char_eri: `"Last time, my room was right next to theirs.`
+char_eri: ` ......I see...so he's placed my room farther away this time."`
+char_dla: `"The powers of authority given to the Game Master permit this level of modification to the initial {f:5:arrangement}.`
+char_dla: ` It is, perhaps, a quite reasonable first {f:5:move}."`
+char_eri: `"Well, that suits me too.`
+char_eri: ` I have no desire to listen to those brats' squeaky voices as they play cards."`
+char_dla: `".................."`
+char_non: `This whole time, Erika had been sitting at the desk working at something.`
+char_non: `{n}......She was preparing some of those duct tape seals from before.`
+char_non: `She had asked Kumasawa for the stickiest tape available.`
+char_non: `She drew a complicated, unforgeable signature on it with a permanent marker, then added slits through it.`
+char_non: `By sticking this over a place that she wanted to prove had remained closed,`
+char_non: ` she could create a powerful seal equal in strength to the red truth.`
+char_non: `Those menacing seals had cornered Natsuhi so thoroughly in the previous game...`
+char_eri: `".........nn......`
+char_eri: ` ......Great..."`
+char_dla: `"Is something {f:5:wrong}?"`
+char_eri: `"......He got me.`
+char_eri: ` ......That Battler doesn't let anything get by him, does he?"`
+char_non: `Erika shrugged and showed the piece of duct tape she had cut off to Dlanor.`
+char_non: `By sight alone, Dlanor couldn't tell what had annoyed Erika.`
+char_non: `{n}However, as soon as she held the tape, she realized the difference right away.`
+char_dla: `"......This won't be any {f:5:good}."`
+char_eri: `"Yes.`
+char_eri: ` It's barely sticky at all.`
+char_eri: ` This won't reach even close to the red truth."`
+char_non: `Even duct tape can be of low quality, and it sometimes gets weaker with age.`
+char_non: `The tape Kumasawa had found was a bit too weak even for normal use.`
+char_non: ` It wasn't nearly sticky enough to be used as a detective's seal.`
+char_dla: `"It is possible to tear it off {f:5:cleanly}.`
+char_dla: ` This cannot serve as proof of a {f:5:seal}."`
+char_eri: `"......I guess Battler isn't as totally incompetent as I thought.`
+char_eri: ` He probably tampered with all the duct tape on the island using the authority of the Game Master."`
+char_non: `Letting Erika get her hands on duct tape gave her a fatal weapon to use against witches.`
+char_non: ` The previous game had proven this fact.`
+char_non: `And so, Battler had removed that weapon from the entire mansion......`
+char_dla: `"Most likely,`
+char_dla: ` all possible substitutes for duct tape have also been tampered {f:5:with}."`
+char_eri: `"......Probably.`
+char_eri: ` Well, it isn't really so bad.`
+char_eri: ` At least this way, I won't have to look like a fool crawling all over the outer wall in the cold rain."`
+char_non: `Erika tossed the duct tape aside and flopped spread‐eagled onto the bed...`
+char_eri: `"Well, detectives do have a penchant for puffing on a pipe while waiting calmly for a crime to occur.`
+char_eri: ` ......I doubt there'll be any part for you to play until the first twilight begins,`
+char_eri: ` so why not vanish off somewhere and take a smoking break?`
+char_eri: ` .........I imagine that looking at my face will do nothing more than tire you out."`
+char_dla: `"......I do not {f:5:smoke}.`
+char_dla: ` I am just a {f:5:kid}."`
+char_eri: `"Oh, really?`
+char_eri: ` ......I wish I could.`
+char_eri: ` ...Well, only if it really is as refreshing as smokers claim."`
+char_dla: `"......It seems...that you are not in high {f:5:spirits}."`
+char_eri: `".........Does it look that way?"`
+char_non: `Erika answered lazily, still looking up at the ceiling.`
+char_non: `{n}That in itself was half an answer...`
+char_non: `The silence between the two was filled by the sound of the wind and rain.`
+char_non: `It was so quiet...`
+char_non: `...that it was hard not to listen to the ticking of the clock.`
+char_dla: `".........Lady {f:5:Erika}.`
+char_dla: ` May I ask a {f:5:question}?"`
+char_eri: `"Depends on what it is.`
+char_eri: ` Answer's probably <no> though."`
+char_dla: `"..........................."`
+char_eri: `"...............`
+char_eri: ` Well, we're just killing time anyway.`
+char_eri: ` What is it?"`
+char_non: `Erika was probably bored as well.`
+char_non: `{n}......Or maybe the sound of the rain was making her sentimental.`
+char_non: `She assented, which was very unlike her.`
+char_dla: `"Why is it...`
+char_dla: `...that you hate {f:5:magic}?"`
+char_eri: `"......Oh,`
+char_eri: ` ......you mean that thing downstairs with Maria?"`
+char_dla: `"That was nothing more than a foolish trick to deceive {f:5:children}.`
+char_dla: ` Everyone knew {f:5:that}.`
+char_dla: ` ......Was it really necessary to go so far to destroy that {f:5:illusion}?`
+char_dla: ` ...I cannot {f:5:understand}."`
+char_non: `It had been a childish fight.`
+char_non: ` ......Erika didn't need Dlanor to tell her that.`
+char_eri: `"......Well, I am a self‐proclaimed intellectual rapist.`
+char_eri: ` I can't stand having magic confuse the truth."`
+char_dla: `"And so, you feel pleasure from exposing {f:5:that}?`
+char_dla: ` ......I sense a different {f:5:emotion}."`
+char_eri: `"A different emotion?`
+char_eri: ` .........What's that?"`
+char_dla: `"To me, it feels less like pleasure,`
+char_dla: ` ......and more like a different, negative {f:5:emotion}."`
+char_eri: `"Hah, ......you really are a murder doll, aren't you?`
+char_eri: ` Even your eyes are like knotholes."`
+char_dla: `".........My {f:5:apologies}.`
+char_dla: ` Please forgive {f:5:me}."`
+char_non: `Erika rolled over grumpily, turning her back to Dlanor.`
+char_non: `Because of this, Dlanor couldn't see her expression.`
+char_non: `......Even so...`
+char_non: `...for some reason, she could guess that this completely unobserved expression was one of pain...`
+char_non: `Interpreting this to mean that Erika wanted her to go away,`
+char_non: ` Dlanor gave a bow and made to leave.`
+char_non: `Then, Erika suddenly spoke.`
+char_non: `The words came so far out of the blue that Dlanor doubted her ears,`
+char_non: ` and she had to ask Erika to say it again.`
+char_dla: `"......What did you just {f:5:say}?"`
+char_eri: `"I love you."`
+char_non: `It really was......out of the blue.`
+char_non: `Dlanor wanted to ascertain what Erika really meant,`
+char_non: ` but the latter still had her back turned, and her face was out of sight...`
+char_dla: `"............Thank you very {f:5:much}."`
+char_eri: `"I was going out with another girl before, but I've completely broken up with her.`
+char_eri: ` Others are gonna be jealous of us and say things that aren't true, but don't pay them any attention."`
+char_dla: `"................................."`
+char_eri: `"I'm gonna devote my whole life to you, so I want you to do the same for me.`
+char_eri: ` Let's find happiness together."`
+char_non: `Dlanor avoided asking what she was talking about and stood there in silence.`
+char_non: `For a while, Erika kept on speaking in that dull and emotionless tone,`
+char_non: ` repeating soppy phrases that might have popped up in some shoujo manga...`
+char_non: `Then, unexpectedly, she once again followed up with a complete non sequitur.`
+char_eri: `".........A new wallet."`
+char_dla: `"..................?"`
+char_non: `Of course, she had no idea what Erika was saying.`
+char_non: `However, with her back still to Dlanor, ......Erika kept on saying disconnected words.`
+char_eri: `"A strange cat keychain.`
+char_eri: ` A different style of cologne.`
+char_eri: ` A music tape that's not his style...which he said he borrowed from an acting colleague.`
+char_eri: ` .........A colleague asked him to come and he couldn't turn him down.`
+char_eri: ` Work suddenly called him in.`
+char_eri: ` His buddy called him up and he couldn't get off the phone."`
+char_non: `{e:090:He made too much curry.`
+char_non: `{n}He started going to theater practice more often.`
+char_non: `{n}He started folding paper towels differently.`
+char_non: `{n}‘Thanks, I've already eaten.’`
+char_non: `{n}He knew more than before about cosmetics.`
+char_non: `{n}‘Sorry, I was sleeping.’`
+char_non: `{n}The toilet seat was left down.`
+char_non: `{n}He spent the night over at his stage friends' place.`
+char_non: `{n}‘Me and my acting friends had a party here.`
+char_non: ` Someone just left it behind.’`
+char_non: `{n}The drain and sink were cleaned out.`
+char_non: `{n}There were receipts and point cards from places he didn't usually go.}`
+char_non: `{e:090:The muddy soles are evidence that you went out on Monday when it was raining.`
+char_non: `{n}It matches the strange symbol on the calendar.`
+char_non: `{n}None of your theater friends have hair this long.`
+char_non: `{n}Leading questions.`
+char_non: `{n}How do you know the plot of a movie you haven't seen yet?}`
+char_non: `{e:090:Evidence,`
+char_non: ` evidence,`
+char_non: ` circumstantial evidence. Observation,`
+char_non: ` surveillance,`
+char_non: ` tracking,`
+char_non: ` tailing. Information gathering,`
+char_non: ` wiretapping,`
+char_non: ` asking around,`
+char_non: ` questioning.}`
+char_non: `{e:090:I found plenty of evidence that I loved you.`
+char_non: `{n}I found plenty of evidence that you loved me.`
+char_non: `{n}But I can't find any evidence that you haven't been cheating on me.}`
+char_non: `{e:090:Give it a rest.`
+char_non: ` If you love me, then trust me.`
+char_non: ` If you can't do that, then you don't love me anymore.`
+char_non: ` How could I love someone like that?`
+char_non: ` I'll treasure you for all my life, but I want to do well in theater just as much.`
+char_non: ` You said you liked seeing me act, right?`
+char_non: ` So why are you telling me to stop acting now?`
+char_non: ` Why do I have to choose between you and acting?`
+char_non: ` What's wrong with you? I'm seriously tired of this, alright?`
+char_non: ` Look, if all we do is fight when we see each other, maybe we both need some time to cool off, okay?`
+char_non: ` I need to concentrate for my next performance anyway.`
+char_non: ` One of my colleagues,`
+char_non: ` she's suddenly told us she won't be able to perform.`
+char_non: ` I need to rewrite the script by tomorrow.`
+char_non: ` I don't have the time for this.}`
+char_non: `{e:090:You know what, if you really find it that hard to trust me, we're through.`
+char_non: ` Don't bother coming over again,`
+char_non: ` just go home,`
+char_non: ` I don't love you anymore.`
+char_non: ` Stop crying, God you're obnoxious,`
+char_non: ` go kill yourself, you creep.`
+char_non: ` Stop shouting, dammit, I've got neighbors.`
+char_non: ` Just get the hell away from me and never come back.}`
+char_eri: `"......Without love, it cannot be {y:1:‘seen’}{n:1:seen}?`
+char_eri: ` ............Hah.`
+char_eri: ` That's backwards."`
+char_dla: `"...................................."`
+char_eri: `"Because of love,`
+char_eri: ` you end up {y:1:‘seeing’}{n:1:seeing} things that don't even exist."`
+char_non: `......It's nothing more than an illusion, one that no one except you can {y:1:‘see’}{n:1:see}, and one that even you can never touch.`
+char_non: `Without love, {y:0:Human}{n:0:human}s would never need to {y:1:‘see’}{n:1:see} that fiction.`
+char_non: `Because we can {y:1:‘see’}{n:1:see} it, ......we doubt.`
+char_non: ` We suffer.`
+char_non: ` We cry out loud.`
+char_eri: `".........Right now, I am happy.`
+char_eri: ` .........Though it may be temporary, I have become the Witch of Truth.`
+char_eri: ` ......As I am now,`
+char_eri: ` ......I no longer need to worry about being tormented by non‐red words."`
+char_dla: `"..........................."`
+char_eri: `"..............................`
+char_eri: ` ......What about you? How would you have countered my endgame?"`
+char_dla: `"How would...{f:5:I}?"`
+char_eri: `"That useless man wasn't fit to be my opponent.`
+char_eri: ` ......I was wondering how you would have countered it?"`
+char_dla: `"...................................."`
+char_non: `Dlanor was suddenly thrust into the position of Erika's opponent in the witch's game she had once challenged that man with.`
+char_non: `Dlanor shared in the fragments of Erika's past, allowing her to grasp the full situation.`
+char_non: `The board was reproduced in full inside their heads...`
+char_non: `The situation...was one‐sided.`
+char_non: `Erika's side had constructed a blue truth based on countless bits of circumstantial evidence, had turned all of those into pieces,`
+char_non: ` and was already cornering the opponent.`
+char_non: `For some time, Dlanor thought in silence...`
+char_non: `...and announced her by‐the‐book response.`
+char_dla: `"First {f:5:move}.`
+char_dla: ` ......`
+char_dla: `I request that you submit evidence that I have been {f:5:cheating}."`
+char_eri: `"Counter with the blue truth.`
+char_eri: ` I present eighty‐four points of circumstantial and physical evidence."`
+char_dla: `"Counter with the blue {f:5:truth}.`
+char_dla: ` I present six points of circumstantial and physical evidence that I still love {f:5:you}."`
+char_eri: `"<Good>.`
+char_eri: ` Blue and blue cancel each other out, but the number of pieces used to construct each is overwhelmingly unbalanced."`
+char_non: `When both opponents meet with the blue truth,`
+char_non: ` the decision is almost always based on which side has more pieces of evidence, regardless of the actual circumstances.`
+char_non: ` ......This is especially true in the {y:0:Human}{n:0:human} world.`
+char_non: `So, by the standard rules, Erika would win...`
+char_eri: `"First point to me.`
+char_eri: ` Your next move?"`
+char_dla: `"............I will attempt to switch offense and {f:5:defense}.`
+char_dla: ` I ask that you, Lady {f:5:Erika}, provide proof that you are not {f:5:cheating}."`
+char_eri: `"Perpetual check.`
+char_eri: ` That's a forbidden move, since it'd result in an endless repetition of the same question going both ways."`
+char_dla: `"Then I frankly declare that, despite a lack of proof, I still love you even {f:5:now}."`
+char_eri: `"Not red truth and therefore invalid.`
+char_eri: ` Even if it was red, that'd be a stalemate.`
+char_eri: ` After all, I'd have no move to counter with."`
+char_dla: `".............................."`
+char_non: `Dlanor remained silent for a while.`
+char_non: `She responded quietly to Erika's moves...`
+char_non: `...as Erika drew closer and closer to checkmate.`
+char_non: `A stalemate is a forbidden move in the game of witches, since it means the ruin of the game.`
+char_non: `However, in chess, it also represents a draw.`
+char_non: `Because of this, it is a splendid final move that the weaker player can pull off if they are already unable to win outright.`
+char_non: `In this situation, Erika clearly had the advantage.`
+char_non: `......It was natural that Dlanor, her opponent, would seek a stalemate to obtain a draw.`
+char_non: `However, that only worked in chess.`
+char_non: `{n}......In the game where witches fought over the truth, it was a forbidden move.`
+char_non: `So, it was already checkmate from the very beginning.`
+char_non: `{n}Dlanor had no way to turn the game around...`
+char_non: `But that meant that regardless of what the real truth had been,`
+char_non: ` ............this game would...`
+char_non: `...............`
+char_eri: `"......Any other moves?`
+char_eri: ` O witch‐hunting archbishop, protector of the truth?"`
+char_dla: `".........{f:5:No}.`
+char_dla: ` ......I {f:5:resign}."`
+char_eri: `"See? There you go.`
+char_eri: ` ..................Hmph..."`
+char_non: `Erika had succeeded in crushing her opponent with the truth she espoused...`
+char_non: `...that her former boyfriend no longer loved her and was cheating on her.`
+char_non: `Her opponent had no way to argue back.`
+char_non: `.........After all, {y:0:Human}{n:0:human}s are not allowed to use {m:-5:――}{m:-5:――}.`
+char_non: `A splendid game, a splendid finish from a superior position.`
+char_non: `{n}Regardless of the truth of her opponent, Erika could win.`
+char_non: `{n}A splendid......victory.`
+char_non: `Dlanor could only respond with silence.`
+char_non: `And with that, Erika spoke no more.`
+char_non: `{n}......She was probably done talking and wanted Dlanor to leave.`
+char_non: `Dlanor understood this, but even so,`
+char_non: ` .........she wanted to tell Erika just one thing before leaving.`
+char_dla: `"A splendid game, Lady {f:5:Erika}."`
+char_eri: `"It's only natural that the detective wins."`
+char_dla: `"Even before you became Lady {f:5:Bernkastel}'s piece, you truly were a splendid wielder of the blue {f:5:truth}.`
+char_dla: ` .........However, Lady {f:5:Erika}.`
+char_dla: ` {y:0:Human}{n:0:Human}s are only allowed to use the blue {f:5:truth}.`
+char_dla: ` And the only thing that can counter blue truth is red {f:5:truth}.`
+char_dla: ` And {y:0:Human}{n:0:human}s are not allowed to use the red {f:5:truth}."`
+char_dla: `"............In that case,`
+char_dla: ` ...how should your opponent have shown his {f:5:truth}?"`
+char_eri: `".........Who knows.`
+char_eri: ` ......Maybe he should have used that gold truth or whatever, which is supposed to be stronger than the red truth at times."`
+char_dla: `"...........................`
+char_dla: ` ......You certainly were the victor in that {f:5:game}.`
+char_dla: ` However, allow me to say this as a protector of the {f:5:truth}."`
+char_eri: `"What?`
+char_eri: ` ......I imagine it's something unpleasant, so say it and go away."`
+char_dla: `"......{f:5:Yes}.`
+char_dla: ` .........Our game did end with your {f:5:victory}.`
+char_dla: ` However,`
+char_dla: ` ......you still have not denied the six points of blue truth evidence that I showed to claim that I still loved {f:5:you}.`
+char_dla: ` ......Even you are {f:5:{y:0:Human}{n:0:human}}.`
+char_dla: ` You are unable to use the red truth that would disprove those {f:5:points}."`
+char_eri: `"Later on, I used the detective's authority to have all eighty‐four points transformed into red truth.`
+char_eri: ` By the power of my master...!`
+char_eri: ` I am {y:0:Human}{n:0:human}, yet superior to {y:0:Human}{n:0:human}s.`
+char_eri: ` A detective and a witch.`
+char_eri: ` I am the Witch of Truth, Furudo {f:5:Erika}.`
+char_eri: ` Any other questions? Parting remarks?"`
+char_dla: `".........I have {f:5:none}.`
+char_dla: ` ......In that case, please excuse {f:5:me}."`
+char_non: `Dlanor bowed and disappeared.`
+char_non: `......After that, all that remained was a single Witch of Truth laughing off a bitter past...`
+char_non: `with an equally bitter smile...`
+char_non: `Erika glanced at the bedside clock and saw that it was almost exactly midnight.`
+char_eri: `"......Well, I suppose I should get a little sleep.`
+char_eri: ` The curtain has finally risen on the second day, October 5th.`
+char_eri: ` ......I wonder if the first of this game's murders is happening somewhere about now.`
+char_eri: ` I hope our victims leave us some interesting dying messages this time.`
+char_eri: ` Ehheh{0}eh{0}eh{0}eh{0}eeh{0}eh{0}eh{0}eh{0}eh{0}eh{0}eh{0}eh{0}eheh...!"`
+char_eva: `"Why didn't you discuss this with your mother?!!`
+char_eva: ` This is about the partner who's supposed to support you throughout the rest of your life!!"`
+char_geo: `"That's right.`
+char_geo: ` She's the woman I want to spend the rest of my life with."`
+char_eva: `"And that's why you need to choose very carefully, right?!`
+char_eva: ` How can you be so rash?!!"`
+char_non: `Eva and George could be seen beneath the eaves of the guesthouse.`
+char_non: `George had revealed his engagement with Shannon.`
+char_non: `......Eva's anger had exploded almost instantly.`
+char_non: `This had been no more than George had expected, so he had responded with an ice‐cold calm...`
+char_eva: `".........Don't tell me you consummated your relationship already.`
+char_eva: ` She told you she was pregnant to force you into a marriage, didn't she?!"`
+char_geo: `"How rude.`
+char_geo: ` I'm a strong believer that chastity is to be preserved before marriage."`
+char_eva: `"Then why an engagement?!"`
+char_geo: `"I asked her.`
+char_geo: ` She accepted.`
+char_geo: ` What more could be needed?"`
+char_eva: `"No, it's all wrong!!`
+char_eva: ` Marriage isn't as easy as it looks in manga or whatever you're thinking of!!"`
+char_eva: `"What about her parents?`
+char_eva: ` Relationships between the two families?`
+char_eva: ` You're not some stray alley cat! You are Ushiromiya George!!`
+char_eva: ` How could you be so rash now, when you might even be selected as Grandfather's successor?!!`
+char_eva: ` Why didn't you consult me...?!!"`
+char_geo: `"I'm consulting you right now.`
+char_geo: ` No, not consulting, I suppose.`
+char_geo: ` I'm just informing you.`
+char_geo: ` ......I've never pinned my hopes on being selected as Grandfather's successor.`
+char_geo: ` In fact, I'd rather refuse if it did come to that.`
+char_geo: ` I want to build up my own country and castle from scratch, just like Father did."`
+char_eva: `"L‐look...!!`
+char_eva: ` Do you realize how hard your father worked to get where he is?!`
+char_eva: ` That's not something you could duplicate just by imitating him!!`
+char_eva: ` Do you have any idea how often he was saved by luck and coincidence?!!"`
+char_geo: `"And he got through it because he had you, his wonderful life partner, by his side.`
+char_geo: ` Sayo is the kind of person who'll support me and transform me into an even stronger man.`
+char_geo: ` ......You've praised me for becoming the adult that I am, but that could never have happened without her."`
+char_eva: `"Huh...?!!!`
+char_eva: ` Listen, George!`
+char_eva: ` Just let your mother handle this for now.`
+char_eva: ` Cool your head and think very carefully!`
+char_eva: ` Shannon‐chan isn't the only person interested in you, you know...?!`
+char_eva: ` The girl you had that marriage meeting with, Ayumi‐san, really took a liking to you!!"`
+char_geo: `"That's the first I've heard of it."`
+char_eva: `"I thought you knew...!!`
+char_eva: ` Her parents were also very impressed by you!!`
+char_eva: ` If you really dream to build your own castle like your father, Ayumi‐san is the one who'd really be able to help you, right?!`
+char_eva: ` Do you intend to betray her feelings?!"`
+char_geo: `"......There's nothing to betray.`
+char_geo: ` There was never any special relationship between Ayumi‐san and me.`
+char_geo: ` We just had a marriage meeting and our parents got all fired up afterwards.`
+char_geo: ` You made us go out together several times, but we never even looked each other in the eye."`
+char_eva: `"Ayumi‐san is a well‐bred, modest woman!!`
+char_eva: ` She just couldn't look at you because you're a man and it would be embarrassing and ill‐mannered...!!`
+char_eva: ` If you can't feel anything from her unless she looks at you when she talks, I'll advise her of that.`
+char_eva: ` I'm sure she'll look at you from now on...!!"`
+char_geo: `"You want me to marry Ayumi‐san because it will benefit you.`
+char_geo: ` ......You aren't pushing that engagement for the sake of anyone but yourself...!"`
+char_eva: `"George!!`
+char_eva: ` How can you say that?!!`
+char_eva: ` Have I ever failed to think about what's best for you?!"`
+char_eva: `"I haven't, have I?!`
+char_eva: ` How is the ‘parent’ ({p:0:親}) kanji written?!`
+char_eva: ` It's {nobr:‘stand’ ({p:0:立})} on top of a {nobr:‘tree’ ({p:0:木})} and {nobr:‘look’ ({p:0:見})!}"`
+char_eva: `"That's what we've been doing, surveying your entire future from a height far greater than you have access to!!`
+char_eva: ` And from our vantage point, we can see that you're letting your momentary youthful emotions lead you down the wrong path!!`
+char_eva: ` That's why I'm saying what I am even though I know you'll hate me for it!!"`
+char_eva: `"If I didn't care for you, we wouldn't be having this fight!`
+char_eva: ` I'd just tell you to marry whatever strange girl you like and leave you be...!"`
+char_eva: `"You hear me, George?`
+char_eva: ` Leave this to your mother.`
+char_eva: ` There's no need for you to meet with Shannon‐chan anymore.`
+char_eva: ` We'll take care of everything for you."`
+char_eva: `"......Don't worry, we won't have Shannon‐chan mistreated.`
+char_eva: ` After all, it's thanks to her that you've grown so much, right...?`
+char_eva: ` We'll take that into account.`
+char_eva: ` So leave the rest to us......`
+char_eva: ` George............"`
+char_geo: `"......................................."`
+char_non: `Sometime during Eva's rage, tears had started to drip from her eyes.`
+char_non: `As though those tears had caused him to hesitate, ......George turned his back and sagged his shoulders...`
+char_non: `George was, after all, only a child of man...`
+char_non: `......Though he understood that marriage required nothing more than the consent of both people,`
+char_non: ` .........he couldn't get over his desire for his parents' acceptance...`
+char_non: `And so, he was torn between the tears of the mother who had always helped him and the fiancée he had chosen.........`
+char_non: `...`
+char_non: `or was he...?`
+char_geo: `".........I think it's......time.`
+char_geo: ` It's time, now."`
+char_eva: `"Huh............?"`
+char_geo: `"All my life,`
+char_geo: ` you've done a great job raising me, and I'm truly grateful for that.`
+char_geo: ` When I have children and become a parent,`
+char_geo: ` ......I'll become a parent like you.`
+char_geo: ` I'll be the kind of parent most worthy of respect in the entire world, one who can truly fight for his children's sake."`
+char_eva: `"George............"`
+char_non: `With his back still towards her,`
+char_non: ` ......George threw away his umbrella,`
+char_non: ` ......and slowly stepped out from beneath the eaves into the rain.`
+char_non: `Then, ......he slowly turned around.`
+char_non: `It was, without a doubt, the familiar face of Eva's beloved son.`
+char_non: `......However, he stood there now as his own man,`
+char_non: ` self‐controlled and independent enough that the blood connection between them might even be forgotten.`
+char_geo: `"I think it's about time, now."`
+char_eva: `"......For......what...?"`
+char_geo: `"For you to let go......`
+char_geo: `of your son, Mother."`
+char_eva: `".........Geo—"`
+char_geo: `"Let's talk the rest of this out as people, not as mother and son.`
+char_geo: ` I am George.`
+char_geo: ` You are Eva.`
+char_geo: ` Let's drop the "because I'm your parent" routine, speak for ourselves, and say what we really mean."`
+char_geo: `".........The reason you want to choose the person I marry......is for financial reasons, public appearances,`
+char_geo: ` ......and so that you can posture in that still continuing quarrel between you and your siblings.`
+char_geo: ` ......You have no other reason."`
+char_eva: `"..........................."`
+char_geo: `"You'd do well to just come clean and admit it now.`
+char_geo: ` ......I'm going to start speaking on my own behalf.`
+char_geo: ` I suggest you do the same.`
+char_geo: ` ...............You'll lose, I'm warning you."`
+char_non: `George's eyes...`
+char_non: `...no longer contained any trace of his love and respect for his mother.`
+char_non: `There was only a frigid glare as he gazed ruthlessly down at the witch who was trying to bind his future.`
+char_eva: `"......George,`
+char_eva: ` ......why...`
+char_eva: `...are you looking at your mother like that......?"`
+char_geo: `"Because I'm not looking at my mother right now.`
+char_geo: ` ......All I see is a wall, a trial standing in the way of the future I'm trying to grasp.`
+char_geo: ` ......You're your own person too.`
+char_geo: ` I know that you have dreams and ambitions, and that you're still chasing after those.`
+char_geo: ` And I think that's a wonderful thing.`
+char_geo: ` ......We also know how hard it is for a person to chase their dreams without giving up."`
+char_non: `I need to inherit your wonderful strength.`
+char_non: `I've learned a lot from my parents, my friends, and Sayo...and I've grown.`
+char_geo: `"And that final, finished product,`
+char_geo: ` after everything I learned and acquired,`
+char_geo: ` ......is the real Ushiromiya George!`
+char_geo: ` Now I'll overcome the final barrier—you!!"`
+char_eva: `"..................!!!"`
+char_geo: `".........What...?"`
+char_non: `Eva had disappeared.`
+char_non: `{n}The pouring rain landed evenly across the ground everywhere.`
+char_non: `No, ......it was blocked very slightly in one place.`
+char_non: `{n}However, there was no one there.`
+char_non: `......Standing on the ground isn't the only way to block the path of the rain.`
+char_non: `Then,`
+char_non: ` ...........could it be.........`
+char_geo: `"............!!"`
+char_ev2: `"Alright then... Sometimes it's good to be brutally honest!`
+char_ev2: ` I'll speak my mind.`
+char_ev2: ` So why don't you just lay it out there forever?!`
+char_ev2: ` Ahha{0}ha{0}ha{0}ha{0}haa{0}ha{0}hah!!"`
+char_non: `In the rain‐filled sky, with the moon that shouldn't have been visible behind her,`
+char_non: ` ......was the Golden Witch of the future who had finally obtained everything of the Ushiromiya family.`
+char_non: `Even the drastic change in his mother's appearance didn't faze George.`
+char_non: `On the contrary, he seemed to be moved by her boldness.`
+char_non: `Because his mother had honestly and truly displayed...`
+char_non: `...her true nature.`
+char_non: `Now, ......I can confidently show her...`
+char_non: `my true self...`
+char_geo: `"Here we go, Mother.`
+char_geo: ` Here we go......Eva.`
+char_geo: ` This is my first step......towards escaping from your shackles...!"`
+char_ev2: `"First steeeeeeep...?!?!"`
+char_non: `With that first step, he felt something odd beneath his feet.`
+char_non: `He knew that this sticky sensation, which didn't quite feel like mud, represented his mother's arrogance trying to prevent him from making that first step.`
+char_ev2: `"I used to read to you all the time when you were little, didn't I?`
+char_ev2: ` Do you remember your favorite story, "Journey to the West"?"`
+char_geo: `".........That takes me back.`
+char_geo: ` That's probably the first fantasy I really loved."`
+char_non: `Sun Wukong, the Monkey King, wanted to become a god and was tested by the Buddha.`
+char_non: `The Buddha told him, "If you can jump free from the palm of my hand, I will grant you your wish."`
+char_non: `Then, Sun Wukong managed to reach what he thought was the end of the world, and found five pillars standing there......`
+char_non: `only to discover that they were the Buddha's fingers, and that he still hadn't left the Buddha's hand.`
+char_geo: `"......Are you saying that's what my first step is like...?"`
+char_ev2: `"Ehhehehhahahahahaahahaha!!`
+char_ev2: ` Your resistance, your conflict, your anguish and self‐restraint and everything else!!`
+char_ev2: ` All of it is a road I once traveled down...!`
+char_ev2: ` This first step of yours would be overwhelmed by my life!!`
+char_ev2: ` How long are you gonna turn a blind eye to it?`
+char_ev2: ` Why not look?!`
+char_ev2: ` At what you're standing on!!!"`
+char_non: `On the pitch‐black earth soaked by the pounding rain...`
+char_non: `...there were what appeared to be...`
+char_non: `...ominously glowing bands of faint red, ......and George had placed his first step directly on top of one.`
+char_non: `It was deep and viscous, and it held George's foot in place.`
+char_non: `From Eva's perspective as she looked down from the sky,`
+char_non: ` ......it looked like a vast red spiderweb that radiated out with George at the center.`
+char_geo: `".........That's right.`
+char_geo: ` This is me.`
+char_geo: ` This is me, tied down by a life of constant instruction...`
+char_geo: `...and raised solely for the sake of your ambitions."`
+char_ev2: `"No, you're wrong about that.`
+char_ev2: ` Let me make it so that you can understand.`
+char_ev2: ` I'll show you.`
+char_ev2: ` And then, you'll realize the truth forever!!`
+char_ev2: ` Ahaha{0}ha{0}ha{0}ha{0}hyah{0}haaah!!!"`
+char_non: `The vast, red spiderweb on the ground scooped up George as easily as scooping scum out of a pot.`
+char_non: `Then, it lifted him into the air like a deer caught in a net and swung him about.`
+char_non: `{f:5:Eva}'s insane laugh was as innocent as a grade schooler happily swinging about a bag filled with her gym clothes...`
+char_non: `...and cruel in equal measure.`
+char_geo: `"...Gah...............gwooh.........kkhh...!!"`
+char_ev2: `"*giggle*giggle*!!`
+char_ev2: ` Come on, try to remember, okay?`
+char_ev2: ` What happened on Tuesdays...?!!"`
+char_geo: `"Gyahh!!`
+char_geo: ` Guh, ......gggh............`
+char_geo: ` ......Of course I remember.`
+char_geo: ` ......That was piano lessons.`
+char_geo: ` I still cringe whenever I hear "I Stepped on the Cat"."`
+char_ev2: `"You did violin in kindergarten.`
+char_ev2: ` That's the sort of instrument you'd expect smart kids to play, right?`
+char_ev2: ` But you didn't seem to have the talent.`
+char_ev2: ` So we switched you over to piano!!"`
+char_ev2: `"Then, do you remember Wednesdays?!"`
+char_geo: `"I, .........I remember.`
+char_geo: ` That was the day for cram school.`
+char_geo: ` It was so far away, and a real pain to have to travel to..."`
+char_ev2: `"And Thursdays?`
+char_ev2: ` Ahhahahahahaahahahha!!!"`
+char_ev2: `"Supplemental lessons.`
+char_ev2: ` You were just terrible at subjects with memorization, weren't you?`
+char_ev2: ` You could apply your knowledge but were horrible at learning by rote, a classic "he can do it if he tries" kid!"`
+char_geo: `".........That one stung.`
+char_geo: ` Those are the most annoying words a kid can hear at a parent‐teacher conference."`
+char_ev2: `"‘You can lead a horse to water, but you can't make it drink.’"`
+char_geo: `"That's a British proverb, isn't it?"`
+char_ev2: `"Making you motivated and keeping you that way...`
+char_ev2: `was the hardest thing to do{-}o{-}o{-}o{-}o{-}o{-}o{-}o{-}o{-}o{-}o{-}o{-}o{-}o{-}o{-}o{-}o{-}o{-}o{-}o{-}oo!!!"`
+char_geo: `"Gah,`
+char_geo: ` ............gwah,`
+char_geo: ` gghhh...!!"`
+char_non: `George was bound hand and foot by the bright red spiderweb, reduced to the witch's plaything...`
+char_non: `She would innocently swing him around, then smash him about, all with an insane laugh.`
+char_non: ` Again and again.`
+char_ev2: `"Do you remember Friday?!"`
+char_geo: `".........Of course.`
+char_geo: ` As far as after‐school lessons go, that one was pretty unique.`
+char_geo: ` Having a parent present while I studied was a trying experience in multiple ways."`
+char_ev2: `"‘Don't buy your child a fishing rod; go fishing with him.’"`
+char_geo: `"You do like a British education, don't you, Mother?`
+char_geo: ` .........Agh!!!"`
+char_ev2: `"Those lessons were a pain for us parents too!!`
+char_ev2: ` But for you, that was the most effective one!`
+char_ev2: ` The monthly fee was high, and it was a pain to have to spend Friday nights there every week!!`
+char_ev2: ` But it was the most effective!`
+char_ev2: ` That's when I realized!!`
+char_ev2: ` Kids don't grow unless their parents watch over them!!`
+char_ev2: ` If children are sprouts, then parents are the sun!`
+char_ev2: ` No plants will bud, and no flowers will bloom without the sun!!"`
+char_non: `Still bound hand and foot, George was thrown, slammed, and smashed.`
+char_non: `He could do nothing...`
+char_non: `{n}He was still like Sun Wukong, unable to leave the palm of his mother's hand.`
+char_non: `However, since he wouldn't surrender, he could still show resistance at any time...`
+char_ev2: `"Then what about Saturday?! What about Saturday?!"`
+char_geo: `"......That's when the tutor came."`
+char_ev2: `"He came to our house, which made it much easier, right?!"`
+char_geo: `"......It was painful to have to invite some other person into my own room, my sacred space, every single week.`
+char_geo: ` ......I hated the sweaty smell he left behind so much that I can still remember it."`
+char_ev2: `"He was a wonderful teacher who drilled a scholarly attitude into you!`
+char_ev2: ` His monthly fees were on par with a lawyer's consultation fee, and it was well worth it!!"`
+char_geo: `".........And then came Sunday, followed by Monday when I didn't have any extra school—the only two days when I could have some rest.`
+char_geo: ` .........How ironic.`
+char_geo: ` So it was those extra classes from Tuesday until Saturday that were holding me down all this time.`
+char_geo: ` ......I really was just like Sun Wukong."`
+char_ev2: `"*cackle*cackle*!!`
+char_ev2: ` Yeah, if you think you can escape from the palm of my hand, you can have that arrogance crushed by the Buddha's five mountains!!"`
+char_non: `Sun Wukong, who wanted to become a god,`
+char_non: ` was crushed by the five mountains of fire, water, wood, metal, and earth, and sealed away. These are the five elements that the days of the week, Tuesday through Saturday, are named after in Japanese.`
+char_non: `Only now did George, who had always admired Sun Wukong, recognize this greatest of ironies.`
+char_ev2: `"Just like Sun Wukong, you need some reflection and punishment for your arrogance.`
+char_ev2: ` If you show that you're willing to reform yourself, I'll release you."`
+char_geo: `"That's not being released, it's brainwashing.`
+char_geo: ` ..................Ugh!!"`
+char_ev2: `"There's no need to think about anything!`
+char_ev2: ` Why not just leave everything to Mama forever?!`
+char_ev2: ` I'll decide everything for you.`
+char_ev2: ` That's the best kind of life for you!!"`
+char_ev2: `"I'll arrange the most intellectual and selfless woman in the world for you!!`
+char_ev2: ` I'll prepare your every success and even pave the way there!!`
+char_ev2: ` And eventually, you will be chosen for the highest honor in the Ushiromiya family, the position as successor to the head!!`
+char_ev2: ` {i:That's} when you can think about beginning life for yourself...!"`
+char_ev2: `"A first step?`
+char_ev2: ` Don't make me laugh. You still haven't even been born yet!!`
+char_ev2: ` This isn't my web that you're caught in.`
+char_ev2: ` ......You're inside my caring, nurturing wo{-}o{-}o{-}o{-}omb!!!"`
+char_non: `George was slammed against the ground over and over.`
+char_non: `......It was heartless cruelty unlike anything one would expect a blood‐related son to receive.`
+char_non: `However, ......in Eva's eyes,`
+char_non: ` ......perhaps even this was a sign of love for her precious son...`
+char_non: `The human‐shaped lump of flesh ensnared in the red net was slammed over and over, then thrown high into the air,`
+char_non: ` ......where it was caught by a massive spiderweb suspended in the sky.`
+char_non: `George hung there pitifully as though crucified, still covered in fresh blood and not even twitching...`
+char_non: `Even if there had been some power to resist remaining to him,`
+char_non: ` ......the red web holding him there would have held even that in check...`
+char_non: `The rain, which had been falling non‐stop since the beginning, quietly tormented and pitied him...`
+char_ev2: `".........Cool your head while you're sealed by the five mountains.`
+char_ev2: ` ......I'm not telling you to stop because I think Shannon‐chan's a bad kid, okay...?`
+char_ev2: ` She's a great girl, the one who gave you the chance you needed to grow up."`
+char_ev2: `"......But an ill‐considered engagement is a whole different matter.`
+char_ev2: ` It isn't because there's a problem with her.`
+char_ev2: ` Understand that..."`
+char_geo: `"......‘Don't criticize the friend.`
+char_geo: ` Criticize the behavior’...`
+char_geo: `......right?`
+char_geo: ` ......That's another piece of British advice."`
+char_ev2: `".........I really did raise you to be a smart kid.`
+char_ev2: ` ......No, I still am raising you.`
+char_ev2: ` .........Inside my belly, that is...`
+char_ev2: ` You just need to be nurtured a little longer.`
+char_ev2: ` Okay, that's enough punishment, so apologize to your mother."`
+char_non: `The spiderweb released George reluctantly.`
+char_non: `Then, it threw him to the ground beneath the cloudy sky...`
+char_geo: `"Thank you, .........Mother."`
+char_ev2: `"........................"`
+char_non: `It was all George could do to get up on his hands and knees.`
+char_non: `......Though he wiped the mud away and stood his ground, he still couldn't raise his head...`
+char_geo: `".........Everything you've done so far,`
+char_geo: ` ......you've done...`
+char_geo: `...for me, haven't you......?`
+char_geo: ` ......Thank you...`
+char_geo: ` .........Thanks for everything......"`
+char_ev2: `"That's right.`
+char_ev2: ` ......You must hate me right now.`
+char_ev2: ` But one day, you'll be grateful.`
+char_ev2: ` I'm sure you'll understand how much I loved you."`
+char_geo: `"All those restrictive extra classes from Tuesday to Saturday...`
+char_geo: `......were your sincere efforts to raise me to be a great man......"`
+char_ev2: `".........That's another British phrase.`
+char_ev2: ` "To wrap a child in blessings is the greatest education of all.""`
+char_geo: `"...Thank you.`
+char_geo: ` ......I'll give you a British saying in return."`
+char_ev2: `"What's that...?"`
+char_geo: `"‘Take one chop at every tree,`
+char_geo: ` and none of them will fall.’"`
+char_ev2: `".........Hmm?`
+char_ev2: ` ...And.........what does that mean......?"`
+char_geo: `"Maybe this one is clearer.`
+char_geo: ` ......‘To spend too much time in studies is sloth.’`
+char_geo: ` .........Francis Bacon."`
+char_non: `The man drenched in mud and fresh blood...`
+char_non: `...straightened his crooked glasses,`
+char_non: ` ......and slowly stood up.`
+char_non: `Though he was covered in filth, his appearance had a divine quality to it,`
+char_non: ` ......something that could only appear on a self‐controlled man, not one who had merely been dozing in his mother's amniotic fluid.`
+char_geo: `"I cannot count the number of things I've learned from Sayo.`
+char_geo: ` ......She taught me...`
+char_geo: `courage and chivalry, how to be ambitious and witty and humorous, and just a little stylish.`
+char_geo: ` It's ironic.`
+char_geo: ` ......Almost all of the things you say are so wonderful about me...`
+char_geo: `...didn't come from you at all."`
+char_ev2: `"G‐`
+char_ev2: `.........George......`
+char_ev2: `......you're.........still...`
+char_ev2: `...going on about...?!!`
+char_ev2: ` Time to get back in Mother's womb!!`
+char_ev2: ` I'll nurture you in a sea of warmth once more!!!"`
+char_non: `As {f:5:Eva} howled, another bright red spiderweb appeared at George's feet and tried to scoop him up into the air again.`
+char_non: `However, that instant...`
+char_non: `...a powerful magic circle could be seen in the area surrounding George for just a moment.`
+char_non: `Faster than he could be scooped up by the spiderweb, George jumped,`
+char_non: ` and with a sharp kick of the heel and a magnificent forward flip, ......he cut the shackles of that spiderweb apart.`
+char_ev2: `"............Wha......?!?!"`
+char_non: `That smooth movement proved that he had possessed the power to escape from those shackles all along.`
+char_non: `He had willingly allowed himself to be bound by that web.`
+char_geo: `"......Everything I owe you for what you've done,`
+char_geo: ` ......I've paid back now with pain.`
+char_geo: ` ......Now I can finally leave the nest for good.`
+char_geo: ` It really is necessary, isn't it?`
+char_geo: ` .........To have the occasional argument with one's parents."`
+char_ev2: `"George, ......wh‐why would you disobey me so completely......for that stupid girl?!?!"`
+char_geo: `"It looks like it really is you...`
+char_geo: `who needs to let go, Mother.`
+char_geo: ` ............So, if you're ready...?"`
+char_ev2: `"R‐ready for what?!"`
+char_geo: `"‘If you're ready...`
+char_geo: `may I fight back?’"`
+char_non: `The curtain of spiderwebs that {f:5:Eva} shot out in defense were all too slow.`
+char_non: `George weaved through them in that instant, and the next, he was right before her eyes...`
+char_ev2: `".........Ahh, aaaaaaaarrggghhh!!"`
+char_non: `{f:5:Eva} jumped out of the way of a kick that would have knocked her feet out from under her,`
+char_non: ` ......then blocked the second half of George's double roundhouse with a high kick of her own.`
+char_geo: `"I guess there is one extracurricular activity I can thank you for."`
+char_ev2: `"O‐...oh, and what day of the week was that......?!"`
+char_geo: `"It's all the martial arts classes you made me attend whenever I had a long break from school...!"`
+char_ev2: `"...Ha, ......kyahhahahahaha!!`
+char_ev2: ` I'm glad, George, to hear you're grateful for at least one thing!!`
+char_ev2: ` Your mother is happy!!`
+char_ev2: ` Kyah{0}ha{0}ha{0}ha{0}a{0}aah!!!"`
+char_non: ` {f:5:Eva}'s swift feet flashed like lightning.`
+char_non: `Low,`
+char_non: ` low,`
+char_non: ` low,`
+char_non: ` mid‐level attack.`
+char_non: `As George's head fell forward, she caught it in both hands as though she was about to smash it against the ground.`
+char_non: `It was then met with {f:5:Eva}'s knee as it rose like a bolt of lightning from the earth.`
+char_ev2: `"You should have learned Muay Thai too!`
+char_ev2: ` It would have been more fun to have learned it with you!!"`
+char_geo: `"......You're right.`
+char_geo: ` I had the most fun when I was learning martial arts with you."`
+char_ev2: `"Then now is the most fun!!`
+char_ev2: ` Isn't this fun, George?! Isn't it?!!!"`
+char_geo: `"Do you find it fun, Mother?`
+char_geo: ` ......To play with your son like this?"`
+char_ev2: `"Yes, I do!!`
+char_ev2: ` You are my darling son, and I'll give you lots and lots of love inside my belly!!`
+char_ev2: ` I even love the way you kick inside me!!"`
+char_geo: `"Got it.`
+char_geo: ` But this kick's coming from the outside of your belly."`
+char_non: `George buried his knee sharply into {f:5:Eva}'s abdomen.`
+char_non: `An instant before she felt the pain of that fierce attack, {f:5:Eva} watched her son's kick with a proud smile......and then she vomited.`
+char_ev2: `"Ghuurk!!!`
+char_ev2: ` Gghh, ............gguurk!!"`
+char_geo: `"You're getting on in years, Mother.`
+char_geo: ` ......Maybe it's about time you held back on wearing childish clothes like that."`
+char_ev2: `"G‐.........Geeeeeoooooooorge......!!!"`
+char_non: `Her chin still covered in vomit, {f:5:Eva} looked up at George in twisted anguish.`
+char_non: `She could see how pathetic her face was by her reflection in his glasses.`
+char_geo: `"Both you and I...`
+char_geo: `...need to leave our childhood days behind.`
+char_geo: ` So long, Mother."`
+char_non: `The violent lightning and rain...`
+char_non: `...made time freeze.`
+char_non: `George's beautiful kick...`
+char_non: `......had stopped an inch from Eva's chest.`
+char_non: `However, the power of the red magic circle surrounding George...`
+char_non: `...had already pierced {f:5:Eva}'s body.`
+char_non: `Though he had stopped without hitting her,`
+char_non: ` .........blood poured out of {f:5:Eva}'s back.`
+char_non: `No wound had been left on her chest,`
+char_non: ` ......but the heart inside it had been struck through......`
+char_non: `{f:5:Eva} slumped backwards...`
+char_non: `......and landed in a puddle with a splash.`
+char_non: `There were no convulsions.`
+char_non: `......Her life had been ended without leaving her even an instant to writhe about in pain...`
+char_geo: `"......I know you're somewhere over there.`
+char_geo: ` Gaap."`
+char_non: `As he straightened his glasses, ......George spoke to the rose thicket behind him.`
+char_non: `Then, a pitch‐black hole opened in the air there, ......and Gaap jumped out.`
+char_gap: `".........Impressive.`
+char_gap: ` ......Even considering that it was before her ascension, you managed to defeat {f:5:Eva Beatrice}."`
+char_geo: `"I thought you were there.`
+char_geo: ` ......Thanks for not interfering.`
+char_geo: ` I'm glad we were able to keep it between mother and son."`
+char_gap: `"Don't thank me.`
+char_gap: ` I wasn't here.`
+char_gap: ` ............You summoned me just now."`
+char_geo: `"It doesn't matter either way.`
+char_geo: ` ......I have something to ask of you."`
+char_gap: `"Do I have some duty to listen?"`
+char_geo: `"...............Will you not do this for me...?"`
+char_non: `With his back still facing her, ......George reset his glasses.`
+char_non: `{n}The threat in his voice held the solemn presence of a king who ruled over demons.`
+char_non: `His majesty made Gaap gulp,`
+char_non: ` and she licked her lips before bowing respectfully to his back.`
+char_gap: `"I like studs,`
+char_gap: ` but I like monarchs even more.`
+char_gap: ` ......Your wish is my command, Your Demonic Majesty."`
+char_geo: `"......I want you to lay her body to rest in a place fitting for a woman who admired the head of the Ushiromiya family, and who lived her life with the misguided dreams of that position."`
+char_gap: `"So, in Kinzo's study?"`
+char_geo: `"No, .........`
+char_geo: ` ......The VIP room would be good.`
+char_geo: ` That never‐opened VIP room on the second floor of the mansion."`
+char_gap: `"............Ah, that room.`
+char_gap: ` As you wish, Your Majesty."`
+char_non: `Gaap approached {f:5:Eva}'s corpse and lightly tapped the ground with her right heel.`
+char_non: `When she did, a large hole opened up, swallowed both Gaap and the corpse, and closed.`
+char_non: `After a while, a small hole opened in the air,`
+char_non: ` and the staff {f:5:Eva} always carried, which was marked with the One‐winged Eagle that symbolized the head of the Ushiromiya family, was spat out into a puddle...`
+char_non: `Because the corpse would no longer have any use for it.`
+char_geo: `"...................................."`
+char_non: `George slowly approached that staff,`
+char_non: ` .........and stepped down hard on the tip.`
+char_non: `When he did, the staff spun violently into the air,`
+char_non: ` .........and after passing by the blue moon which honored the demon king,`
+char_non: ` it flew into George's outstretched hand.`
+char_non: `The instant he grasped it...`
+char_non: `...another fierce bolt of lightning struck nearby,`
+char_non: ` ............and by the time the flash faded, the staff he was holding had become a spray of gold butterflies......and disappeared.`
+char_non: `It was as though George had held the staff up to the heavens and crushed it out of existence...`
+char_geo: `"And now, .........I've finished my part.`
+char_geo: ` ......I'll let someone else have a turn."`
+char_jes: `"......I...`
+char_jes: `...I can't believe...`
+char_jes: `...you killed your own mother......"`
+char_geo: `"............It's the person who loves you first in the world,`
+char_geo: ` ......and the last one you have to separate yourself from.`
+char_geo: ` ......That's what it means to leave your home.`
+char_geo: ` This is the courage I am capable of showing to take Sayo as my wife."`
+char_sha: `"George‐sama........."`
+char_kan: `".................."`
+char_be3: `"Bravo, Ushiromiya George.`
+char_be3: ` An excellent start."`
+char_geo: `"......Even though it was just within the game,`
+char_geo: ` ...even though she was just a piece,`
+char_geo: ` ......I didn't like having to kill my mother.`
+char_geo: ` .........However, that was the trial you set me, so I saw it through."`
+char_non: `He stared at the two demons.`
+char_non: `The demons looked at each other, then showed their surprise with their now‐familiar exaggerated gestures.`
+char_fur: `"Wonderful!!`
+char_fur: ` Wasn't that splendid, Zepar?!"`
+char_zep: `"Indeed it was, Furfur!`
+char_zep: ` George‐kun's determination is the real deal!`
+char_zep: ` It seems I've misjudged you!`
+char_zep: ` Please accept my apologies!"`
+char_non: `George chose not to go along with this almost theatrical conversation.`
+char_non: `He just quietly looked down upon the game board,`
+char_non: ` .........found the piece representing his mother, which was right next to his,`
+char_non: ` ......and tipped it over.`
+char_non: `......This was the trial that Zepar and Furfur had set them.`
+char_non: `"For the love of each other, take the life of another".`
+char_non: `It was similar to the game within Beato's fourth game,`
+char_non: ` where they were each given three options as part of a test to select the next family head.`
+char_non: `However, a pair of lovers would never abandon each other's lives.`
+char_non: `So, they were automatically left with just the option of sacrificing the life of another instead.`
+char_non: `......In fact,`
+char_non: ` it was merciful that the demons hadn't ordered them to take the lives of {i:everyone} other than themselves.`
+char_non: `And besides, it only meant taking those lives as pieces on the board.`
+char_non: `For the versions of themselves to whom the game board was the only world, this was a tragic parricide,`
+char_non: ` ......but for these ones who sat around the game board in this witch's tea room,`
+char_non: ` ......it was nothing more than a movement of the pieces, representing George's will to overcome his parents.`
+char_non: `However, even if it was just a single life within one of an infinite number of fragment worlds,`
+char_non: ` ......the fact remained that the demons had forced him to take it...`
+char_non: `George appeared to have distanced himself from the events on the demons' game board,`
+char_non: ` ......but Jessica still seemed to resist the idea of stealing another person's life, even if it was only their life as a game piece.`
+char_bea: `"................................."`
+char_be3: `"......Heheh, are you getting cold feet?"`
+char_bea: `"N‐......no......`
+char_bea: ` ......Th‐the {f:5:Beatrice} that Battler‐san desires......would not be shaken by the likes of this..."`
+char_non: `""Well then, who will take the next trial?!""`
+char_zep: `"It can be anyone! Please choose the next victim!!"`
+char_fur: `"It can be anyone! Let the next challenger step forward!!"`
+char_zep: `"If no one will step forward—"`
+char_geo: `".........That means I win, doesn't it?"`
+char_fur: `"Yes, that's right!`
+char_fur: ` Then congratulations are in order, Ushiromiya George!!"`
+char_zep: `"The key that leads to successful love between you and the one you cherish—"`
+char_non: `""We bestow it now upon you!!""`
+char_jes: `"W‐.........wait......!!!"`
+char_non: `As the demons delightedly named George as the victor,`
+char_non: ` ......they were interrupted by the next challenger.`
+char_bea: `".........Jessica......san......"`
+char_jes: `"......I'll.........go next......`
+char_jes: ` ......Fine... I'm game.`
+char_jes: ` ...I'll show you that my feelings for Kanon‐kun aren't just a silly, childish crush!!"`

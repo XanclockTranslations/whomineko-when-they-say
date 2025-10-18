@@ -1,0 +1,886 @@
+char_bea: `In the Golden Land, the quiet rain......just kept on falling.`
+char_bea: `In the arbor......sat the sad witch whose eyes had lost their glint......and Battler.`
+char_bea: `{f:5:Virgilia} could also be seen there.`
+char_bea: `{n}......She sat next to Beato, knitting quietly.`
+char_bea: `{f:5:Lambdadelta}'s game had passed the climax of the first twilight, and they were taking a short break.`
+char_bea: `Gazing out at the golden rose garden soaked with rain,`
+char_bea: ` ......Battler thought back on the present, what was to come, and what had happened so far......`
+char_bea: `To Battler, thinking was itself a battle.`
+char_bea: `Even with the game stopped and Beato unable to speak, ......he could still keep on fighting.`
+char_bea: `......{f:5:Virgilia} suddenly stopped her knitting.`
+char_bea: `Battler had noticed too.`
+char_bea: `......Though none should have been able to visit this rose garden, they had noticed a silhouette approaching.`
+char_wal: `".........That's unusual.`
+char_wal: ` Not many people can reach this place."`
+char_but: `"It's her..............."`
+char_non: `That silhouette, ......walking through the quietly falling rain without so much as an umbrella,`
+char_non: ` .........was Dlanor.`
+char_dla: `"......That was a splendid garden {f:5:maze}.`
+char_dla: ` A very nice way to enjoy the {f:5:roses}."`
+char_but: `"Why.........are you here?"`
+char_dla: `"It has been some time, {nobr:Mrs. {f:5:Beatrice}.}`
+char_dla: ` ...Excuse me, it is {nobr:Mrs. {f:5:Virgilia}} now, is it {f:5:not}?"`
+char_wal: `"Long time no see, Dlanor.`
+char_wal: ` ......Come over here.`
+char_wal: ` We aren't ones to leave a guest out in the rain."`
+char_but: `"..........................."`
+char_wal: `"Don't worry.`
+char_wal: ` She hasn't come to fight."`
+char_but: `"......Do you know her?"`
+char_wal: `"She's one of my old friends from heaven.`
+char_wal: ` ......This really takes me back."`
+char_dla: `"Yes, it {f:5:does}.`
+char_dla: ` {nobr:Mrs. {f:5:Virgilia}} possesses a deep knowledge in Heavenly {f:5:Studies}.`
+char_dla: ` I have often battled with her over {f:5:interpretations}."`
+char_wal: `"Hoh‐hoh‐ho...`
+char_wal: ` My many intellectual adventures with you were quite enjoyable.`
+char_wal: ` I'd like to do it again sometime."`
+char_dla: `"{f:5:Yes}.`
+char_dla: ` Let's do it again {f:5:sometime}.`
+char_dla: ` I'd love to fight with you {f:5:again}."`
+char_non: `They used the word "fight", but it didn't sound like they meant anything unpleasant by it.`
+char_non: `{n}It sounded like something old chess rivals would say to each other.`
+char_non: `Unlike Beato, it seemed that {f:5:Virgilia} had always acted properly and courteously,`
+char_non: ` so she had many friends in various other worlds, including both heaven and the demon world.`
+char_non: `Surprisingly, Dlanor was one of them......`
+char_non: `Dlanor, who had crossed swords with "me" just a short while ago,`
+char_non: ` bowed her head as if to thank us for allowing her shelter from the sudden rain, and sat in the seat {f:5:Virgilia} pointed out, like a guest.`
+char_wal: `"......Is there any type of black tea you would prefer?"`
+char_dla: `"{f:5:Anything}.`
+char_dla: ` ......Any tea you make is {f:5:superb}."`
+char_wal: `"Then how about some Darjeeling?`
+char_wal: ` ......Battler, Beato, would you like some more?"`
+char_but: `"......Yeah.`
+char_but: ` Beato and I would like a refill.`
+char_but: ` ......Right?"`
+char_bea: `"......................................."`
+char_non: `As usual, Beato didn't answer,`
+char_non: ` ......but if you quietly gave her a cup, she would sip it from time to time.`
+char_non: `There was still some black tea left in that cup, but it had already chilled.`
+char_non: `So Battler asked for a refill for Beato as well...`
+char_dla: `"......I have heard the {f:5:rumors}.`
+char_dla: ` ......How pitiable that {f:5:Beatrice}, the Endless Witch famous for her cruelty,`
+char_dla: ` has been reduced to {f:5:this}."`
+char_but: `"She's no longer participating in the game.`
+char_but: ` ......{f:5:Lambdadelta} is the one controlling the Beato that's on the game board."`
+char_dla: `"I {f:5:know}.`
+char_dla: ` ......However, she is the original master of this {f:5:world}.`
+char_dla: ` And you are the proper guest, invited by that {f:5:master}.`
+char_dla: ` That is why I have come to greet {f:5:you}."`
+char_non: `On the game board, Beato and I met Dlanor.`
+char_non: `But those were the game pieces of those witches.`
+char_non: `{n}They weren't Beato and me ourselves.`
+char_wal: `"Is that why you went out of your way to greet Battler‐kun and Beato here...?`
+char_wal: ` ...I see you're as conscientious as always."`
+char_dla: `"That is my way of doing {f:5:things}.`
+char_dla: ` .........Greetings, {nobr:Mr. Battler}.`
+char_dla: ` I am Dlanor {nobr:A. Knox}.`
+char_dla: ` ...We play opposing roles, but it is a pleasure to meet {f:5:you}."`
+char_but: `"......Sure.`
+char_but: ` I'm Ushiromiya Battler.`
+char_but: ` Pleased to meet you."`
+char_dla: `"Greetings, Miss {f:5:Beatrice}.`
+char_dla: ` I am Dlanor {nobr:A. Knox}."`
+char_bea: `"...................................."`
+char_but: `"......Beato.`
+char_but: ` She's saying hi.`
+char_but: ` ........................"`
+char_bea: `"...................................."`
+char_but: `"...............`
+char_but: ` ......She says "welcome"."`
+char_dla: `"Thank you very {f:5:much},`
+char_dla: ` Miss {f:5:Beatrice}."`
+char_non: `The witch and the Inquisitor whose job it was to hunt witches...`
+char_non: `greeted each other around a tea table surrounded by the aroma of black tea.`
+char_non: `......It was a strange sight.`
+char_non: `{f:5:Virgilia} made gold butterflies appear from the palms of her hands...`
+char_non: `and transformed them into a teapot and a can of tea leaves.`
+char_non: `......It was a very witch‐like way of preparing tea.`
+char_non: `She was a witch, so it wasn't a particularly unusual sight.`
+char_non: `......Though I was a bit concerned about whether Dlanor, an Inquisitor, could allow herself to watch such a spectacle.`
+char_dla: `"......Have no {f:5:fear}.`
+char_dla: ` I am not so rude as to quibble about the way my tea is {f:5:served}."`
+char_but: `"Even though the tea's being made with magic...?"`
+char_dla: `"......There is a tea set hiding in the shadows, and {nobr:Mrs. {f:5:Virgilia}} is making the tea with it in {f:5:secret}.`
+char_dla: ` We interpret and/or conclude that "it was made with magic", and it is written as such in the {f:5:tale}.`
+char_dla: ` ......It is an interpretation permitted even by Knox's 9th {f:5:commandment}."`
+char_wal: `"Oh my...`
+char_wal: ` I do believe the interpretations of the ninth commandment are such a delicate issue that they're even viewed as taboo by the Great Court......`
+char_wal: ` Even though it's just a personal opinion, if it became known that the Chief Inquisitor said such a thing, you might be sacked."`
+char_dla: `"No matter what kind of interpretation I might record,`
+char_dla: ` there is nothing false about the way your tea {f:5:tastes}.`
+char_dla: ` Therefore, I will never concern myself with how it was {f:5:prepared}."`
+char_but: `".....................Aha..."`
+char_non: `Though she looked cold, ......she was a surprisingly tactful person.`
+char_non: `......If Dlanor were to deny that the black tea had been prepared with magic, this magic would surely be crushed in a instant.`
+char_non: `However, even if it was depicted that a tea set existed here and {f:5:Virgilia} had used it to make the tea normally,`
+char_non: ` the result, that {f:5:Virgilia} had made tea, would still remain unchanged.`
+char_dla: `"Magic that hides the result in darkness is {f:5:evil}.`
+char_dla: ` We will not permit {f:5:it}.`
+char_dla: ` However, magic that conceals the process is not necessarily {f:5:evil}.`
+char_dla: ` My foe is the evil, not the magic {f:5:itself}."`
+char_but: `"I get it.`
+char_but: ` ......The important thing is that you're being welcomed with some tea,`
+char_but: ` so it's just common courtesy to avoid complaining about how it was made."`
+char_non: `......That's right.`
+char_non: `It's common courtesy to be grateful for tea that someone makes for you.`
+char_non: `There's nothing elegant about pushing your way into the kitchen and poking around through the tea‐making process.`
+char_wal: `"You don't invite your guests into the kitchen.`
+char_wal: ` And when you set the table, you should adorn it beautifully in the spirit of hospitality.`
+char_wal: ` ......Here you go. It's hot."`
+char_dla: `"Thank {f:5:you}.`
+char_dla: ` I would also like some sugar and {f:5:milk}."`
+char_wal: `"*giggle*.`
+char_wal: ` You still can't drink it straight?"`
+char_dla: `"I am a {f:5:kid}.`
+char_dla: ` It has to be {f:5:sweet}."`
+char_but: `".........So is magic...`
+char_but: `...a white...`
+char_but: `lie,`
+char_but: ` ......then?"`
+char_wal: `"‘Lie’ is such a dirty word.`
+char_wal: ` The word "embellishment" is probably more fitting."`
+char_dla: `"When giving a child candy,`
+char_dla: ` you can either take a crumpled‐up one out of your pocket,`
+char_dla: ` or use a wonderful bit of sleight of hand to produce the candy, and the impression you give with each method is completely {f:5:different}."`
+char_but: `"Sure, I mean, producing the candy out of nowhere is a cool little trick."`
+char_dla: `"{f:5:Wrong}.`
+char_dla: ` The meaning is in embellishing the result—a candy is given—in a way that makes it even more beautiful and {f:5:fun}."`
+char_wal: `"......Think of when you give Maria‐chan a candy.`
+char_wal: ` There's a huge difference between taking it out of your pocket to give to her,`
+char_wal: ` and saying a fairy gave it to her for being such a good girl...`
+char_wal: `after secretly slipping it into her pocket."`
+char_dla: `"In my opinion, it would be boorish to then question everyone about their alibis...`
+char_dla: `and investigate and pinpoint who it was that slipped it into her {f:5:pocket}.`
+char_dla: ` The important thing is the result: that the girl received the candy and was {f:5:delighted}.`
+char_dla: ` And the meaning lies in the fact that it was embellished in order to delight {f:5:her}."`
+char_but: `"......That's surprising.`
+char_but: ` When you showed up, I got the feeling you'd deny anything that went by the name of magic."`
+char_dla: `"That is how I act in my capacity as an {f:5:Inquisitor}.`
+char_dla: ` It is my {f:5:job}.`
+char_dla: ` However, when I am away from my job, I don't enjoy being quite so cold‐{f:5:hearted}."`
+char_but: `"So, this is what they call leaving your personal feelings aside when on duty?`
+char_but: ` ......You do it well."`
+char_dla: `"As an Inquisitor, hunting witches is my {f:5:job}.`
+char_dla: ` ......Personally, I find witches {f:5:pitiable}.`
+char_dla: ` However, I condemn them mercilessly as an {f:5:Inquisitor}."`
+char_dla: `"......The result that I execute witches is {f:5:unchanged}.`
+char_dla: ` ......In the end, my pity is nothing more than a useless {f:5:embellishment}.`
+char_dla: ` Whether I have it or not, nothing {f:5:changes}.`
+char_dla: ` So it is better if I do {f:5:not}......"`
+char_wal: `".........Not at all.`
+char_wal: ` Even if the end result is the same, there's a big difference depending on your heart."`
+char_wal: `"......Your mother's cookies must have been more delicious than those made by a good pastry shop.`
+char_wal: ` ...That's because you know that they were made with heart."`
+char_but: `"That's right.`
+char_but: ` .........Even if the result appears to be the same,`
+char_but: ` ......there's a huge difference depending on whether or not it had a little thing called sincerity..."`
+char_dla: `"I am not so {f:5:sure}......`
+char_dla: ` .........Whether I have a heart or not is completely {f:5:meaningless}."`
+char_non: `Dlanor's gaze fell to her cup, a little sadly...`
+char_but: `"That's not true."`
+char_dla: `".................."`
+char_but: `"Because of everything you've just said, I've changed the way I look at you a little.`
+char_but: ` ......So saying your heart is meaningless isn't true at all."`
+char_non: `{f:5:Virgilia} was a little surprised to hear the words she should have said coming from Battler's mouth.`
+char_non: `After all, understanding the "heart" was the first step towards magic's true nature.`
+char_non: `......Perhaps Battler was unconsciously starting to understand, bit by bit,`
+char_non: ` ...the essence of Beato, the essence of witches,`
+char_non: ` and the very first essence of all, ......the essence of magic.`
+char_non: `Whether you want to become a witch or vanquish them...`
+char_non: `{n}......The very first step is learning about magic.`
+char_non: `{f:5:Virgilia} was sure that she felt this faint change within Battler...`
+char_dla: `"......As for that last fight, thank you very {f:5:much}.`
+char_dla: ` I am grateful for the mercy you showed me at the very {f:5:end}."`
+char_but: `"That "me" wasn't me.`
+char_but: ` ......{f:5:Lambdadelta} was controlling him."`
+char_non: `I joined in on the fifth game partway through.`
+char_non: `{n}At "this point in the story", I still hadn't joined.`
+char_non: `So up until the point when I did join,`
+char_non: ` the piece "me" is probably being controlled by {f:5:Bernkastel} or {f:5:Lambdadelta}.`
+char_but: `"......Just what kind of mood's taken those two?`
+char_but: ` Trying to make it look all cool...`
+char_but: ` They made me look like some kind of knight coming to save Beato."`
+char_wal: `"Lady {f:5:Lambdadelta} wants both witches and {y:0:Human}{n:0:human}s to be in balance, resulting in a draw.`
+char_wal: ` .........With Erika's appearance, the scales tipped strongly in the favor of the {y:0:Human}{n:0:human} side,`
+char_wal: ` so she manipulated the tale in a way that supports Beato."`
+char_dla: `"Yes, I am {f:5:aware}.`
+char_dla: ` However, pieces cannot do things that are impossible for {f:5:them}.`
+char_dla: ` And they specialize in actions appropriate to their original {f:5:personality}.`
+char_dla: ` ......Therefore, that was certainly something that you......that Battler was capable {f:5:of}.`
+char_dla: ` That is why I am grateful to {f:5:you}."`
+char_but: `"......It feels a bit weird to be praised when I didn't actually do anything.`
+char_but: ` ......After the game continues a bit more, I'll probably regain control of my piece.`
+char_but: ` Not sure I'll be going easy on you then."`
+char_dla: `"The same goes for {f:5:me}.`
+char_dla: ` I will not be caught unawares in our next {f:5:bout}."`
+char_but: `"Perfect. I'll take you on anytime.`
+char_but: ` Give me everything you've got."`
+char_dla: `"You have my {f:5:word}. Everything I {f:5:have}."`
+char_non: `......Dlanor.`
+char_non: `I'd thought she was an emotionless killer doll without a heart,`
+char_non: ` ...but maybe she actually is pretty approachable.`
+char_non: `......Though of course, neither of us will show any mercy when fighting on the game board.`
+char_non: `For a while, we gazed at the rain‐drenched rose garden as we quietly enjoyed our tea.`
+char_dla: `".........There is one thing I must apologize {f:5:for}."`
+char_non: `Dlanor suddenly murmured something.`
+char_but: `"What is it?`
+char_but: ` ......If it's about that fight a short while ago, it's already over.`
+char_but: ` We both fought with everything we had.`
+char_but: ` The outcome was just luck of the draw."`
+char_dla: `"No, it was not luck of the {f:5:draw}.`
+char_dla: ` ...We were unable to let the outcome be decided naturally by chance, so I came here to {f:5:apologize}."`
+char_but: `"......What are you talking about...?"`
+char_wal: `"..................`
+char_wal: ` .........You're saying you threw the match, aren't you?"`
+char_non: `{f:5:Virgilia} spoke softly, without hesitating in her knitting.`
+char_dla: `".........{f:5:Yes}.`
+char_dla: ` ......{nobr:Mr. Battler}."`
+char_but: `"That "Mr." is really getting to me.`
+char_but: ` Just Battler is fine."`
+char_dla: `"Battler.`
+char_dla: ` ......I {f:5:apologize}.`
+char_dla: ` We did not give it everything we {f:5:had}."`
+char_wal: `".........I know.`
+char_wal: ` ......{p:1:‘Kinzo is dead at the starting time for all games’}.`
+char_wal: ` Beato already told us that truth.`
+char_wal: ` ......Battler‐kun should only have been able to achieve a draw at best in that battle.`
+char_wal: ` He shouldn't have had any chance at all of winning."`
+char_but: `"......You're right.`
+char_but: ` ......If you just say that, the whole fight's already over.`
+char_but: ` ......Why didn't you use that red?`
+char_but: ` Are you telling me it was because of a stalemate or something like that?"`
+char_dla: `"{p:1:Knox's 2nd:`
+char_dla: ` It is forbidden for supernatural agencies to be employed as a detective {f:5:technique}}.`
+char_dla: ` We cannot use that red truth {f:5:directly}.`
+char_dla: ` However, the red truth that {p:1:"the window was never opened after it started raining"}...`
+char_dla: `was one I had given to Cornelia, who was protecting the window."`
+char_but: `"Boom.`
+char_but: ` ...That's checkmate.`
+char_but: ` .........Why didn't that girl use that trump card...?"`
+char_cor: `"............!!`
+char_cor: ` Th‐this is...... .........gh.`
+char_cor: ` F‐For your attention...!`
+char_cor: ` There is no way to defeat my red!`
+char_cor: ` Know that your wish will not be granted...!!"`
+char_non: `Though she had fought calmly up until that point,`
+char_non: ` ......she quickly got flustered when I dashed forwards.`
+char_non: `I'd thought that she had been frightened by my sudden attack, ......but the truth was different.`
+char_non: `Even though she held a trump card which could completely repel me,`
+char_non: ` .........she suddenly became unable to use it, and hesitated.`
+char_dla: `"I am not {f:5:sure}.`
+char_dla: ` In that instant, use of that trump card suddenly became {f:5:forbidden}.`
+char_dla: ` Once we lost that, your victory was {f:5:guaranteed}."`
+char_wal: `".........The Game Master, Lady {f:5:Lambdadelta}, probably interfered."`
+char_but: `"That bastard...`
+char_but: ` .........So in the end, that whole fight was a farce in the palm of {f:5:Lambdadelta}'s hand.`
+char_but: ` She made "us" play out that entire act according to her script."`
+char_dla: `"I understand that you are {f:5:upset}.`
+char_dla: ` However, since you told me to fight with everything I had, I had no choice but to let you {f:5:know}.`
+char_dla: ` ......Please forgive {f:5:me}."`
+char_wal: `"Still, even though you'd lost your trump card, you kept on fighting all‐out with your remaining cards.`
+char_wal: ` I don't believe anyone could find fault with what you did."`
+char_but: `"......That's right.`
+char_but: ` ......If I should be mad at anyone, it's {f:5:Lambdadelta} for butting in."`
+char_dla: `"{p:1:‘Kinzo does not exist’} should already be an established {f:5:fact}.`
+char_dla: ` Lady {f:5:Lambdadelta} and Lady {f:5:Bernkastel} know this {f:5:well}.`
+char_dla: ` And yet, they are both leaving room for Kinzo to exist as they continue through this {f:5:game}.`
+char_dla: ` ......It is almost as though the two are conspiring to prevent Kinzo's existence from being {f:5:denied}."`
+char_but: `"You're saying they let "Grandfather" escape on purpose...?"`
+char_dla: `"{f:5:Yes}.`
+char_dla: ` They must be after {f:5:something}."`
+char_wal: `"............That is a bit odd.`
+char_wal: ` ...Lady {f:5:Lambdadelta} and Lady {f:5:Bernkastel} should always be in opposition unless the witch side is in a superior position.`
+char_wal: ` ......It's hard to imagine that those two would be conspiring together with things going as they are..."`
+char_dla: `"I cannot help but think that they have some sort of wicked {f:5:objective}.`
+char_dla: ` I came here because I wanted you to know {f:5:that}."`
+char_but: `"......So, ...you came all the way here to tell us something like that?"`
+char_dla: `"{f:5:Yes}.`
+char_dla: ` ......Which means that my business here is {f:5:finished}.`
+char_dla: ` I think I will leave {f:5:now}.`
+char_dla: ` The game will probably resume {f:5:shortly}.`
+char_dla: ` I need to have a discussion with Erika about the {f:5:future}."`
+char_non: `Dlanor gulped down the last of her black tea and stood up.`
+char_dla: `"I will see you next at the battle of the second {f:5:twilight}.`
+char_dla: ` There, I will once again raise my merciless {f:5:longsword}.`
+char_dla: ` ......So, Battler, I ask the same of {f:5:you}.`
+char_dla: ` Show no mercy towards {f:5:me}."`
+char_but: `"......I know.`
+char_but: ` ...If I go easy on you, I'll have my own head smashed in."`
+char_dla: `"On the game board, I am nothing more than Lady {f:5:Bernkastel}'s piece and Furudo Erika's {f:5:agent}.`
+char_dla: ` In the future, I will likely block your way as an enemy many {f:5:times}.`
+char_dla: ` ......However, in my heart, I am always {f:5:neutral}.`
+char_dla: ` ......No, ......please forget {f:5:that}.`
+char_dla: ` ......It has no bearing on the nature of our {f:5:relationship}."`
+char_but: `"It does.`
+char_but: ` ......There's no doubt you're a fearsome opponent, but you don't piss me off anymore.`
+char_but: ` Unlike that Erika, who totally pisses me off."`
+char_dla: `"I am {f:5:glad}.`
+char_dla: ` I also find Furudo Erika to be {f:5:obnoxious}."`
+char_but: `"Heh, hahahahaha."`
+char_non: `Dlanor's expression finally softened slightly.`
+char_non: `{n}......At the very last moment, it felt as though we finally understood each other.`
+char_dla: `"Furudo Erika is a very evil {f:5:creature}.`
+char_dla: ` ......After her recent defeat and loss of face, she is burning with a desire for {f:5:revenge}.`
+char_dla: ` Even I cannot tell what she is {f:5:plotting}.`
+char_dla: ` However, it cannot be anything {f:5:good}.`
+char_dla: ` Please take {f:5:care}."`
+char_but: `"......Just knowing she's {f:5:Bernkastel}'s piece means I'm not gonna let my guard down."`
+char_non: `Dlanor nodded as though satisfied, left the eaves of the arbor and walked out into the rain.`
+char_dla: `"......Who could have thought that I would end up serving as an agent of such {f:5:evil}...`
+char_dla: ` .........Why was I called to this {f:5:world}?"`
+char_non: `Dlanor let out a small sigh.`
+char_non: `"Pieces" can do nothing except fulfill the function they have been given.`
+char_non: `{n}And that function is given to them by the one who controls them.`
+char_non: `......She probably can't disobey {f:5:Bernkastel}, the player in control of "her".`
+char_wal: `"............Lady {f:5:Bernkastel} may be the one who called you here.`
+char_wal: ` However, the one who let you into this world is Beato.`
+char_wal: ` ......If this child didn't wish it, you would never have been able to make it through the garden maze to arrive here.`
+char_wal: ` ......Right, ...Beato......?"`
+char_bea: `"...................................."`
+char_dla: `"........................`
+char_dla: ` ......Miss {f:5:Beatrice}.`
+char_dla: ` What is it that you want from {f:5:me}?`
+char_dla: ` ......I do hope that I can help you in some way, though I may be an agent of {f:5:evil}..."`
+char_non: `She spoke to Beato, ......but of course, there was no response.`
+char_non: `After bowing once more in thanks for the black tea,`
+char_non: ` ......Dlanor disappeared off into the rainy rose garden......`
+char_but: `"So, no one can reach this Golden Land if Beato doesn't want them to?"`
+char_wal: `"Yes.`
+char_wal: ` ......She is the one who called Dlanor here."`
+char_bea: `"...................................."`
+char_but: `".........So, ......Beato called her here to meet me..."`
+char_non: `......But...`
+char_non: `I know of a person who reached this place despite Beato's wishes.`
+char_non: `Ange.`
+char_non: `...In the last game, Ange reached this place by herself...`
+char_non: `...even though she was an uninvited guest.`
+char_non: `Was that...`
+char_non: `...also something...`
+char_non: `...Beato desired......?`
+char_wal: `"That I am here, that you are here,`
+char_wal: ` that Beato is here,`
+char_wal: ` and that Dlanor was invited here...`
+char_wal: `......all of these things occurred because she wanted them to.`
+char_wal: ` ......Even the bit of time that you and Dlanor spent together drinking tea."`
+char_bea: `"...................................."`
+char_but: `"......Beato.`
+char_but: ` What was I.........supposed to learn from her......?`
+char_but: ` Does it have something to do with finding your heart......and letting you rest in peace......?"`
+char_non: `Dlanor A. Knox.`
+char_non: `The natural enemy of witches.`
+char_non: ` Inquisitor.`
+char_non: `{n}......A vanguard of mystery...who denies fantasy.`
+char_non: `Is she here to help me...`
+char_non: `...gouge out your heart...`
+char_non: `...and arrest your breathing.........?`
+char_non: `....................................`
+char_eri: `"Please stand.`
+char_eri: ` On one leg."`
+char_cor: `"........................"`
+char_non: `Cornelia slowly got up and stood on one leg, as she had been ordered.`
+char_non: `Her hands were clasped behind her back.`
+char_non: ` ...Because she had been ordered to do so.`
+char_non: `Then, with a loud thump,`
+char_non: ` Erika shoved her from behind with both hands.`
+char_non: `Cornelia landed on the floor face first with a thud.`
+char_eri: `"Please stand.`
+char_eri: ` On one leg."`
+char_cor: `"........................"`
+char_non: `Cornelia rose shakily.`
+char_non: `{n}Then, once again, she stood on one leg as she had been ordered.`
+char_non: `She had been ordered not to try to keep her balance.`
+char_non: `{n}So she had fallen on her face over and over again.`
+char_non: `She had barely managed to protect her nose, but after smashing against the floor so many times, her face was bright red.`
+char_non: `She wasn't shedding any tears.`
+char_non: ` No, she couldn't shed them.`
+char_non: `{n}Because she was forbidden to do even that......`
+char_eri: `"Please stand.`
+char_eri: ` On one leg."`
+char_cor: `"........................"`
+char_non: `Thump.`
+char_non: ` Thud.`
+char_eri: `"Please stand.`
+char_eri: ` On one leg."`
+char_non: `Thump.`
+char_non: ` Thud.`
+char_non: `Thump.`
+char_non: ` Thud.`
+char_non: `Thump.`
+char_non: ` ............Thud.`
+char_non: `Erika repeated this falling torture over and over again.`
+char_non: `At times like this, Erika hated counting things.`
+char_non: `So she decided that, when she ran out of fingers to keep count on, she would just keep on going until she lost interest.`
+char_non: `However, Erika's main redeeming feature was that she never lost interest in anything,`
+char_non: ` so the torture continued on without end......`
+char_non: `......Erika didn't know the truth...`
+char_non: `of why Cornelia had been unable to fully protect the window.`
+char_non: `So the whole time since then,`
+char_non: ` ......she had been criticizing her, blaming her entirely for their defeat.`
+char_ger: `"......For your attention: I beg to state the following.`
+char_ger: ` Please forgive Cornelia for her failing.`
+char_ger: ` She has already performed sufficient penance..."`
+char_eri: `"Oh, is that so?`
+char_eri: ` Then please take her place from now on."`
+char_cor: `"G‐......Gertrude bears no sin for which to repent......"`
+char_eri: `"Gertrude.`
+char_eri: ` .........Please stand.`
+char_eri: ` On one leg.`
+char_eri: ` Clasp your hands behind you."`
+char_ger: `"....................."`
+char_non: `Gertrude followed the order...`
+char_non: `...and clasped her hands behind her back, standing on one leg.`
+char_eri: `"You mustn't resist or try to keep your balance.`
+char_eri: ` You are not permitted to bend your knees.`
+char_eri: ` You are not permitted to shed any tears.`
+char_eri: ` Do you understand?"`
+char_ger: `".........As you wish......"`
+char_cor: `"Gertrude............"`
+char_non: `Erika took her time walking behind Gertrude.`
+char_non: `She was even enjoying making her wonder when she'd push......`
+char_non: `At that moment, Gertrude and Cornelia burst in a bright light and disappeared.`
+char_non: `......Dlanor had returned at some point, and had sent them back to heaven for the time being.`
+char_non: `Erika, who'd had her fun spoiled, directed an openly malicious expression at Dlanor...`
+char_dla: `"Miss Erika.`
+char_dla: ` I will bear the punishment for my subordinate as her {f:5:superior}.`
+char_dla: ` Please have mercy upon {f:5:her}."`
+char_eri: `"............<No, thank you>.`
+char_eri: ` Punishment is meaningful because of the pain it inflicts.`
+char_eri: ` ......There's nothing remotely interesting about punishing an unfeeling doll girl that can't receive a single scratch."`
+char_non: `Erika slowly grabbed hold of the back of Dlanor's hair and tugged on it unrelentingly.`
+char_non: `Dlanor's neck tilted unnaturally backwards, creaking.`
+char_dla: `"......I cannot be harmed, but I can be {f:5:hurt}."`
+char_eri: `"Hmph.`
+char_eri: ` As if you have feelings to hurt.`
+char_eri: ` You witch‐hunting murder doll.`
+char_eri: ` .........Are you trying to talk back to me?`
+char_eri: ` Me, the envoy and double of the great Lady {f:5:Bernkastel}...?!"`
+char_dla: `".........{f:5:No}."`
+char_eri: `"{i:I} am being reprimanded by Lady {f:5:Bernkastel} because {i:you people} are useless...!!`
+char_eri: ` Never demonstrate such miserable incompetence again...!`
+char_eri: ` Are‐we‐{nobr:un‐der‐stood}...?!"`
+char_non: `She pulled back the hair she had grabbed even more strongly...`
+char_non: `This didn't cause Dlanor any physical pain,`
+char_non: ` but she could clearly feel Erika's ill will.`
+char_dla: `"...............My {f:5:apologies}.`
+char_dla: ` Please forgive {f:5:me}."`
+char_eri: `"Filth."`
+char_non: `With a sound like taut strings snapping, she ripped out several strands of Dlanor's hair.`
+char_non: `Then, Erika waved her hand about as though trying to shake off something dirty that had gotten stuck to it.`
+char_eri: `"Well, that's enough.`
+char_eri: ` I'm done.`
+char_eri: ` .........My anger has finally subsided, and my little gray cells are tingling again.`
+char_eri: ` ......Please call those two useless people back and reconstruct the crime scene.`
+char_eri: ` Let's start the deduction game."`
+char_dla: `"{f:5:Understood}.`
+char_dla: ` .........Gertrude, Cornelia."`
+char_non: `""As you wish.""`
+char_non: `The two of them reappeared behind Dlanor,`
+char_non: ` and reconstructed the crime scene for Erika, the one who had just been tormenting them...`
+char_eri: `"......Kinzo disappearing was nothing more than an added bonus for the first twilight.`
+char_eri: ` Let's start investigating the first twilight proper.`
+char_eri: ` ......Oh, before that.`
+char_eri: ` Are you aware that we were actually presented with a mystery before the murders even occurred?"`
+char_dla: `"{f:5:Yes}.`
+char_dla: ` You mean the letter with the mark of the One‐winged Eagle, which appeared at midnight last night along with a knock by some {f:5:person}."`
+char_eri: `"That's right.`
+char_eri: ` The tale appears to describe that it was impossible for any of the {y:0:Human}{n:0:human}s at that moment,`
+char_eri: ` creating the illusion that an unknown witch exists.`
+char_eri: ` ......Let's start by crushing this witch illusion.`
+char_eri: ` We'll first check the situation in the dining hall last night when the letter was delivered."`
+char_dla: `"{f:5:Understood}.`
+char_dla: ` Gertrude, Cornelia.`
+char_dla: ` Reconstruct last night's family conference in the dining {f:5:hall}."`
+char_non: `""As you wish.""`
+char_non: `The family conference last night was conducted with the adult relatives and Battler present.`
+char_non: `And partway through, the servants arrived to serve tea.`
+char_eri: `"Let's review everyone's whereabouts at the exact moment the letter appeared.`
+char_eri: ` How did that go again?"`
+char_ger: `"For your attention: I beg to inform you of the following.`
+char_ger: ` {p:1:Before the family conference, Erika, George, Jessica, Maria, Nanjo, Gohda, and Kumasawa left the mansion and moved to the guesthouse}."`
+char_cor: `"For your attention: I beg to inform you of the following.`
+char_cor: ` {p:1:Of those who remain, only Krauss, Natsuhi, and Genji were in the second floor corridor,`
+char_cor: ` while all others were in the dining hall}."`
+char_dla: `"Because the mansion had been entirely locked in advance of the family conference,`
+char_dla: ` everyone else was unable to enter the {f:5:mansion}."`
+char_eri: `"Aha.`
+char_eri: ` That would mean that no one inside the mansion could have knocked and placed the letter there, right?`
+char_eri: ` Eheheheh."`
+char_dla: `"{f:5:Yes}.`
+char_dla: ` The witch side will probably say that this person is the same who wrote the letter: the witch, {f:5:Beatrice}."`
+char_eri: `"Ridiculous.`
+char_eri: ` A stupid trick.`
+char_eri: ` .........There's no guarantee that the letter was placed there at the stroke of midnight.`
+char_eri: ` It's only sensible to consider that it might have been placed there earlier."`
+char_dla: `"Just a few minutes before the letter was discovered, Shannon and Kanon came in to serve {f:5:tea}.`
+char_dla: ` When they entered, multiple witnesses confirmed that there was nothing suspicious like a letter in the {f:5:hallway}."`
+char_eri: `"{p:2:Most likely, one of those not in the dining hall—Krauss, Natsuhi, or Genji—`
+char_eri: `simply saw their chance right after that and placed the letter there}.`
+char_eri: ` No, in fact, it would have been possible for the people who supposedly went to the guesthouse too."`
+char_eri: `"{p:2:We've heard that the mansion was locked and that no one outside could get in,`
+char_eri: ` but if someone only pretended to go to the guesthouse and instead hid inside the mansion,`
+char_eri: ` it's perfectly possible that they could have placed the letter there}."`
+char_ger: `"For your attention:`
+char_ger: ` blue truth, valid."`
+char_dla: `"In that case, the problem is the {f:5:knock}.`
+char_dla: ` Unlike the letter, someone would have to exist there at the instant of the {f:5:knock}."`
+char_eri: `"I see, so this is the so‐called proof that a person who shouldn't be there, a witch, existed?`
+char_eri: ` This is completely ridiculous.`
+char_eri: ` Do they think that this is all it takes to get me, Furudo Erika, to surrender?`
+char_eri: ` *giggle*giggle*, ahhahaha!"`
+char_eri: `"{p:2:Firstly, I question whether the knock was even something hitting the door to the dining hall at all.`
+char_eri: ` For example, the mansion's construction may be such that when a certain pillar on the second floor is struck, the noise is transmitted down the pillar,`
+char_eri: ` and it sounds just like a knock on the door to people in the dining hall}."`
+char_eri: `"{p:2:Or they could have misheard some other random sound as a knock and misconstrued it in a similar way.`
+char_eri: ` Or a tape with the sound of a knock recorded on it could have been secretly playing,`
+char_eri: ` which had been carefully set up to be heard at exactly that time}."`
+char_eri: `"In any case, even if no one was on the other side of the door,`
+char_eri: ` I can think of many ways to make them hear a knock...!`
+char_eri: ` How is that? My master!`
+char_eri: ` What do you think of my reasoning...?!!"`
+char_ber: `".........Well, you heard her... How did she do?"`
+char_lam: `"Well, it looks like your cute little piece gave it her all to think up these blue truths,`
+char_lam: ` so I guess I'll be nice and give out a few red truths myself{p:0:♪}"`
+char_lam: `I guess I'll start with the letter.`
+char_lam: `There was that knock when the large clock struck midnight.`
+char_lam: `{n}`
+char_lam: `And when the door was opened, there lay a letter in an envelope bearing the One‐winged Eagle.`
+char_lam: `The idea that the people who weren't in the dining hall secretly placed the letter in the hallway is such an old one, right?`
+char_lam: `{p:1:Krauss, Natsuhi, and Genji did not even touch that letter}!`
+char_ber: `"......Oho?`
+char_ber: ` Then...`
+char_ber: `{p:2:when Shannon and Kanon came in to serve tea, who was the last {y:0:Human}{n:0:human} to enter the dining hall...?`
+char_ber: ` Let's say it was Kanon.`
+char_ber: ` Wouldn't it be easy if Kanon, the last person in, secretly dropped the letter there when he closed the door}?"`
+char_lam: `"{p:1:Not a single person in the dining hall—no, there's a simpler way to say it.`
+char_lam: ` Among all those inside the mansion at midnight,`
+char_lam: ` not a single one of them placed that letter in the hallway}."`
+char_ber: `"So you can't say that no one {i:touched} it?"`
+char_lam: `"Of course not.`
+char_lam: ` They "touched it" when they picked it up.`
+char_lam: ` Of course I can't say none of them touched it."`
+char_ber: `"I see.`
+char_ber: ` Then let's interpret it this way:`
+char_ber: ` {p:2:Someone who existed outside of the mansion at midnight placed the letter somewhere other than the hallway beforehand.`
+char_ber: ` Then, it moved by some means, and ended up "placed in the hallway".}"`
+char_eri: `"{p:2:Just as an example, let's say it was deliberately stuck to the underside of...`
+char_eri: `the serving cart carrying the tea set, which the servants wheeled into the room.`
+char_eri: ` It was simply affixed there in a way that would make it come unstuck after a certain amount of time,`
+char_eri: ` such that when it eventually fell off, it would become "the letter left by a witch who shouldn't exist".`
+char_eri: ` In other words, this is a classic trick where the true sender gives themselves an alibi by making the letter appear at a different time}."`
+char_ger: `"For your attention:`
+char_ger: ` blue truth, valid."`
+char_eri: `"In other words, the fact that it landed just outside the dining hall door was just the culprit's good luck.`
+char_eri: ` It could easily have fallen in the kitchen, the corridor, or even inside the dining hall itself."`
+char_eri: `"......Oh, <good>!`
+char_eri: ` If it had happened inside the dining hall, that would have been even more wonderful.`
+char_eri: ` Within everyone's sight, a letter would suddenly appear on the floor.`
+char_eri: ` And a red stating "it appeared suddenly in the locked room of the dining hall and was not touched by anyone there" wouldn't even be violated!"`
+char_dla: `"Well {f:5:done}.`
+char_dla: ` If the letter was stuck to the bottom of the serving cart, then anyone could be the {f:5:culprit}."`
+char_lam: `"That might work okay for the letter.`
+char_lam: ` But will that same type of argument work for the knock as well?`
+char_lam: ` Let's try this again, shall we?"`
+char_ber: `".........Please, go ahead."`
+char_lam: `"{p:1:Neither Krauss nor Natsuhi nor Genji knocked}!"`
+char_lam: `"{p:1:This isn't the limited meaning of them knocking on the door, okay?`
+char_lam: ` It means they didn't use a pillar to transmit the sound or push the play button on a cassette tape they'd recorded or create that knock sound by any means!`
+char_lam: ` Of course, this includes all direct, indirect, intentional, coincidental, and unintentional means}!"`
+char_ber: `"This wedge has already been knocked in, but I'll repeat it.`
+char_ber: ` {p:2:Maybe someone other than Krauss, Natsuhi, or Genji made that knock,`
+char_ber: ` or else a sound that could be misidentified as a knock}."`
+char_cor: `"For your attention: I beg to inform you of the following.`
+char_cor: ` {p:1:At 24:00, except for Krauss, Natsuhi, and Genji in the second floor corridor,`
+char_cor: ` and all of the people in the dining hall, no other {y:0:Human}{n:0:human}s existed inside the mansion}."`
+char_ger: `"For your attention: I beg to inform you of the following.`
+char_ger: ` {p:1:In addition to Krauss, Natsuhi, and Genji, none of those in the dining hall knocked,`
+char_ger: ` where "knocking" includes all direct, indirect, intentional, unintentional, and coincidental events that could create a knocking sound}."`
+char_non: `{e:070:A direct knock refers to someone literally hitting a door to make a knocking sound.`
+char_non: `{n}An intentional knock refers to someone creating a fake knocking sound with intent to make it appear that someone knocked.`
+char_non: `{n}An unintentional knock refers to someone unintentionally creating a fake knocking sound.`
+char_non: `{n}A coincidental knock refers to some kind of coincidence creating a fake knocking sound.}`
+char_dla: `"{p:1:In other words, it is impossible for anyone who was in the mansion to have been the source of a knocking {f:5:sound}.`
+char_dla: ` ......In this case, "anyone" also includes any people who might have gone undetected or {f:5:unobserved}}."`
+char_non: `"Anyone who was in the mansion" also includes any unknown person X who was secretly hiding in the mansion.`
+char_non: `Therefore, this literally meant...`
+char_non: `that "it was impossible for anyone inside the mansion to knock", with no wordplay allowed.`
+char_eri: `"......I see.`
+char_eri: ` So no matter how much I toy with it, the only ones who could possibly have produced the knocking sound are those in what we might call the "guesthouse group"."`
+char_eri: `"Like me, for example.`
+char_eri: ` {p:2:What if I, Furudo Erika, recorded a knocking sound on a cassette tape,`
+char_eri: ` secretly installed it somewhere, and set it up so that it would start playing at exactly midnight?`
+char_eri: ` Of course, I wasn't in the mansion at midnight.}`
+char_eri: ` There aren't any problems with this, are there?"`
+char_dla: `"There are no {f:5:problems}.`
+char_dla: ` However, the knock serves to alert everyone to the existence of the letter, and does so precisely because the letter is on the other side of the {f:5:door}.`
+char_dla: ` If the letter had fallen in the kitchen, for instance, I do not think that the knock would have served to inform anyone of the letter's {f:5:existence}."`
+char_non: `If the trick in Erika's theory about the letter being stuck to the serving cart was accurate,`
+char_non: ` then the location that the letter fell was a matter of luck.`
+char_non: `The people in the dining hall were able to notice it due to the knock only because it had fortunately fallen near the door.`
+char_non: `However, if the location it fell was a matter of chance,`
+char_non: ` ......it might have landed in the far‐off kitchen,`
+char_non: ` ...or even remained stuck the entire time.`
+char_non: `If that had happened, the knock would have been ignored as though they'd just imagined it.`
+char_non: `In other words, the knock by itself carries no message at all.`
+char_non: `Only in combination with the letter...`
+char_non: `is the knock capable of asserting that someone existed there.`
+char_non: `In that case, the knock can't be combined with the theory of the letter falling from the bottom of a serving cart at a random location.`
+char_non: `The letter must be reliably positioned "on the other side of the door" so that it can be discovered thanks to the knock.`
+char_non: `However,`
+char_non: ` it was declared in red that {p:1:no one in the mansion placed the letter in the hallway}.`
+char_lam: `"I'll reword that red about placing it in the hallway a bit.`
+char_lam: ` {p:1:No one in the mansion placed the letter in the hallway.`
+char_lam: ` That goes for every conceivable possibility: directly, indirectly, intentionally, coincidentally, and unintentionally}."`
+char_lam: `"......For example, let's assume there was a device on the serving cart that drops the letter when it stops moving.`
+char_lam: ` The culprit could predict that the cart would probably stop when those two knocked on the door to the dining hall,`
+char_lam: ` so you might think that with this theory, you could cleverly make it so that the letter drops right in front of the door."`
+char_lam: `"But even this doesn't work, okay?`
+char_lam: ` The action of "stopping the serving cart" would indirectly lead to "placing the letter in the hallway".`
+char_lam: ` That would mean that Shannon and Kanon, who were pushing the cart, "indirectly and unintentionally" placed the letter there!`
+char_lam: ` So even this is no good!"`
+char_lam: `"Furthermore, any setup so the letter peels off with the passage of time...`
+char_lam: `would mean that the people who pushed the serving cart to that location "coincidentally and unintentionally" placed the letter there.`
+char_lam: ` Of course, this is also no good!!"`
+char_ber: `"Repetition requested.`
+char_ber: ` "At midnight, only Erika, George, Jessica, Maria, Nanjo, Gohda, and Kumasawa existed outside the mansion"."`
+char_non: `Say, if someone in the dining hall slipped out the window just for the instant of midnight,`
+char_non: ` ......and "didn't exist in the mansion" at that time......`
+char_non: `With a bit of wordplay like that, it might be possible to get around the red truth.`
+char_lam: `"......Repetition requeeeeeest...?`
+char_lam: ` I know I'm being generous with the red, but aren't you getting a bit greedy?`
+char_lam: ` I'm not an idiot like Beato,`
+char_lam: ` so I'm not gonna go blabbing all the repetitions my opponent asks for..."`
+char_ber: `".........I'll give you a full‐body massage scrub in a bath with marshmallows and konpeitou sometime soon.`
+char_ber: ` Hard enough to rub your skin off."`
+char_lam: `"Eheheheheh, now you've gotta keep that promise. *slurp*!`
+char_lam: ` ......Alright, then, here's a freebie{p:0:♪}`
+char_lam: ` I'll respond to your repetition request.`
+char_lam: ` "{p:1:At midnight, only Erika, George, Jessica, Maria, Nanjo, Gohda, and Kumasawa existed outside the mansion}"!"`
+char_non: `In other words, try as we might, those eight people, including Erika, cannot exist inside the mansion, much less in front of the door.`
+char_non: `And at the same time, try as we might, those who were inside the mansion cannot exist outside the mansion.`
+char_eri: `"{p:2:In that case, the letter might have been stuck to the ceiling of the hallway instead of the serving cart.`
+char_eri: ` The ceiling of the hallway is surprisingly high, so even if you just stuck it there out in the open, maybe no one would notice it.`
+char_eri: ` This way, it would certainly fall in the corridor.`
+char_eri: ` And you can slip by the red if someone outside the mansion did this}!`
+char_eri: ` <Good> job, me...!"`
+char_ger: `"For your attention: I beg to inform you of the following.`
+char_ger: ` {p:1:The letter never existed on the ceiling of the hallway}."`
+char_cor: `"For your attention: I beg to inform you of the following.`
+char_cor: ` {p:1:Know that the letter never touched the serving cart}."`
+char_eri: `".........Wh‐who cares about that?!`
+char_eri: ` The point is, some{y:0: Human}{n:0:one} outside the mansion used some kind of trick to place the letter there!!`
+char_eri: ` I know what you're trying to do, use that letter and knock to argue that {f:5:Beatrice} exists! Well, it definitely won't work on Furudo Erika!"`
+char_ger: `"For your attention: I beg to inform you of the following.`
+char_ger: ` {p:1:It was impossible for anyone outside the mansion to influence anything inside the mansion after the start of the family conference}."`
+char_eri: `"Then someone outside the mansion set up some kind of gimmick before the family conference.`
+char_eri: ` Something other than the ceiling or the serving cart!"`
+char_cor: `"For your attention: blue truth, invalid."`
+char_eri: `"Why...?!!`
+char_eri: ` That's the only possibility, right?!`
+char_eri: ` Someone outside the mansion used some kind of trick other than the ceiling or the serving cart...!!"`
+char_cor: `"F‐For your attention:`
+char_cor: ` unless you can specify or hypothesize {i:what kind} of trick, it will not be recognized as blue truth."`
+char_ger: `"For your attention:`
+char_ger: ` Lady Erika's blue truths regarding the letter have all been destroyed."`
+char_eri: `"All been destroyed......?!`
+char_eri: ` Take a little more care how you speak to me, you useless furniture!`
+char_eri: ` If I can just think of that trick, it's an instant checkmate...!`
+char_eri: ` {i:All been destroyed?!} Blue truth invalid?!`
+char_eri: ` I am...`
+char_eri: `...the detective...`
+char_eri: `...Furudo Erika...!`
+char_eri: ` ......How dare you speak to me like that.........!!"`
+char_non: `Erika's face twisted.`
+char_non: `......These words that seemed to deny Erika...`
+char_non: `no, Erika's deductions...were the worst form of torture and humiliation for her.`
+char_dla: `"......Miss Erika.`
+char_dla: ` Why don't we postpone the mystery of the letter for {f:5:now}?`
+char_dla: ` ...Your blue stake regarding the knock, "someone outside the mansion played it with a cassette tape", is still {f:5:valid}.`
+char_dla: ` If it was possible to solve the noise, then it should be possible to solve the letter as {f:5:well}."`
+char_non: `As Erika made to grab and pull Gertrude's hair, Dlanor stopped her with those words.`
+char_eri: `"That's right, my blue truth regarding the knock is still valid...!`
+char_eri: ` It's not true that everything's been denied...!!`
+char_eri: ` My master! I will solve the mystery of the letter without fail!`
+char_eri: ` Please allow me more time...!!"`
+char_eri: `"However, on the mystery of the knock, I've produced results!`
+char_eri: ` I've driven in the blue stake that "{p:2:someone outside the mansion set things up with a cassette tape or something to make a knock sound play}"...!"`
+char_lam: `"Eheheheheheheheheheheh...!`
+char_lam: ` Bern, your piece really is a cute kid.`
+char_lam: ` Very lively.`
+char_lam: ` She's shouting for your forgiveness, saying she may have resigned on one of the riddles, but she did solve the other.`
+char_lam: ` What are you going to do? Will you forgive her......?"`
+char_ber: `"...............Well, let me see.`
+char_ber: ` Normally, I'd never forgive one of my pieces for the utter disgrace of surrendering,`
+char_ber: ` ......but if she's managed to solve one of the mysteries, maybe I'll let it slide for now......"`
+char_eri: `"M‐......my master......"`
+char_non: `When {f:5:Bernkastel} said she'd let it slide, Erika couldn't hide her relief.`
+char_lam: `"{i:Then it's time to get punished}, Erika‐chan{p:0:♪}"`
+char_lam: `{a:c:`
+char_lam: `{p:1:None of the characters would misidentify a knocking sound}.}`
+char_ber: `".........Oh?`
+char_ber: ` What's that supposed to mean?"`
+char_lam: `"{p:1:Misidentifying a knocking sound means this:`
+char_lam: ` they would not mistake a sound very similar to a knocking sound for a real knocking sound.`
+char_lam: ` Hitting a pillar to make something similar to a knocking sound is no good.`
+char_lam: ` When you record a knocking sound on a cassette tape and play it back, it becomes "the sound of a tape with a knocking sound on it", and not a knocking sound.`
+char_lam: ` So that's no good either}!"`
+char_lam: `"{p:1:In other words, all of them would correctly distinguish a knocking sound of something truly hitting the door,`
+char_lam: ` and they definitely wouldn't mishear it.`
+char_lam: ` It's totally impossible that any sounds except hitting that door directly would be misinterpreted as a knock}!!"`
+char_eri: `"Wh‐......what the......`
+char_eri: ` But that means......at the time the clock struck midnight,`
+char_eri: ` no one existed who could have hit the door......`
+char_eri: ` Gggh, ggghgghhhhh......"`
+char_lam: `"Yep, they don't exist.`
+char_lam: ` After all, it was the Golden Witch {f:5:Beatrice} who hit it.`
+char_lam: ` *cackle*cackle*cackle*cackle*cackle*...!!"`
+char_ber: `".........So in other words, there's no way around this other than hitting the door.`
+char_ber: ` So what about this?`
+char_ber: ` {p:2:There was some kind of device that could knock on the door.`
+char_ber: ` There was something like an automatic door knocker, and that made it possible for someone to knock without touching the door with their hands}."`
+char_lam: `"{p:1:‘To knock’ means someone hitting a door with their hand}!`
+char_lam: ` I won't accept hitting it with some contraption, eheh{0}eh{0}eh{0}eh{0}eh{0}eh{0}eh{0}eh{0}eheh!!"`
+char_lam: `"They heard a knock at the same time as the clock struck midnight.`
+char_lam: ` Everyone inside the dining hall definitely heard it at that time.`
+char_lam: ` {p:1:And none of them would misinterpret a knocking sound.`
+char_lam: ` Krauss, Natsuhi, and Genji had no involvement in any knocking.`
+char_lam: ` No one else existed inside the mansion.`
+char_lam: ` And a "knock" refers to the action of standing directly in front of a door and hitting it with a hand}."`
+char_lam: `"......Hey, Bern.`
+char_lam: ` What do you think of my red?`
+char_lam: ` Don't you think this is pretty uncomplicated and enjoyable for something before the first twilight?`
+char_lam: ` The Golden Witch descended quietly with a knocking sound.`
+char_lam: ` *giggle*giggle*, ehe{0}he{0}he{0}he{0}he{0}he{0}he{0}he{0}he{0}he{0}he{0}he{0}heheh...!"`
+char_ber: `"..............................`
+char_ber: ` *giggle*giggle*.`
+char_ber: ` Ahhah{0}hah{0}ha{0}ha{0}hah{0}ha{0}haha!!`
+char_ber: ` This is interesting. This really is fascinating, Lambda...!`
+char_ber: ` Now we're talking.`
+char_ber: ` Ah, this is great!`
+char_ber: ` Aha{0}ha{0}ha{0}ha{0}ha{0}ha{0}ha{0}ha{0}ha{0}ha{0}ha{0}ha{0}ha{0}haha!!"`
+char_non: `The two witches doubled over laughing,`
+char_non: ` as though this was the most fun thing in the world...`
+char_eri: `"Gah, ............`
+char_eri: ` ...M‐...my master...`
+char_eri: ` Have no fear.`
+char_eri: ` As long as my little gray cells are given the time, I will definitely reach an answer to this pitiful red...!"`
+char_ber: `"Is that so? Thank you.`
+char_ber: ` ......And I'm disappointed, Erika.`
+char_ber: ` You've bored me, Erika.`
+char_ber: ` As my piece and double, the fact that you have nothing is so pathetic, it's comical.`
+char_ber: ` If you don't know the answer, then be silent forever, please.`
+char_ber: ` And please open your mouth {i:only} when you know the answer."`
+char_ber: `".........You're nothing but a piece.`
+char_ber: ` Your absence wouldn't hinder my progress in this game in the slightest.`
+char_ber: ` If you can't think of any theories in particular, please just go back to the piece tray and gather dust or something.`
+char_ber: ` It's painful to even reserve space in my memory for useless pieces."`
+char_lam: `"......Bern {i:is} pretty forgetful.`
+char_lam: ` If you don't try a little harder, Bern's gonna forget you, you know...?`
+char_lam: ` You'll collect dust in that forgotten piece tray, awaiting your turn that will never come.`
+char_lam: ` ......I imagine that'd be pretty harsh, don't you think...?"`
+char_eri: `"Ha‐have no fear, Great Lady {f:5:Lambdadelta}, and my master...!`
+char_eri: ` I promise to deliver such a spectacular performance to earn your approval that you will never be disappointed in me again...!"`
+char_ber: `"............Oh, how reassuring. I guess you're my double after all.`
+char_ber: ` ......Then you'd better make sure you do work hard, in all kinds of ways.`
+char_ber: ` If you don't make an impact, I might forget all about you......"`
+char_non: `As the two witches giggled, they continued discussing the letter and the knock.`
+char_non: `There was no room for Erika to step in.`
+char_non: `If she resigned herself to that,`
+char_non: ` ......she would literally have no place to go,`
+char_non: ` ......and would be buried in an eternal oblivion.`
+char_non: `Erika endured with a hideous expression, looking with shame at the back of the master who was ignoring her.`
+char_non: `And with both fists clenched, she thought frantically for some kind of breakthrough.`
+char_non: `I am the detective, I am Furudo Erika.`
+char_non: `{n}I am the piece and double and servant of the great Lady {f:5:Bernkastel}...!!`
+char_non: `I'll definitely make her satisfied...`
+char_non: `satisfied...`
+char_non: `definitely, definitely,`
+char_non: ` gah, ggghggghhhhhh,`
+char_non: ` ......Ushiromiya Battler...`
+char_non: `...how dare you...`
+char_non: `...humiliate me so............`
+char_non: `As she stood there, ignored by the witches and shrouded in darkness,`
+char_non: ` it looked like she had been made to go stand on her own in the hallway...`
+char_non: `With the crime in the early morning, we'd completely forgotten about breakfast,`
+char_non: ` so we now had our first meal of the day at a time that could never be called breakfast time...`
+char_non: `Even Gohda‐san's wonderful meal, which had supposedly been in the works since yesterday night, provided no comfort.`
+char_non: `The several empty seats quietly burdened us with a pain‐filled sadness......`
+char_non: `Then, in the middle of this meal that felt like a vigil, Erika suddenly stood up.`
+char_non: `Everyone focused on her to see what was the matter.`
+char_non: `Her expression was somewhere on the line between invigorated and insane, as though she'd come up with some groundbreaking and strange invention.`
+char_rud: `"......Hey, what's up?`
+char_rud: ` Are you okay...?"`
+char_eri: `"I've got it, I've got it!!`
+char_eri: ` Did you think I wouldn't be able to work it out?`
+char_eri: ` Oh, I understand perfectly well, there's no way something so stupid could happen...!"`
+char_non: `With an ugly expression covered with cold sweat, Erika glared and lashed out at Battler.`
+char_but: `".........You've got it?`
+char_but: ` ......Got what......?"`
+char_eri: `"There's no way you jumped down from the third‐floor study...!`
+char_eri: ` Not one of us saw you fall down and land in the courtyard...!!"`
+char_but: `"....................."`
+char_eri: `"{p:2:When you set up the ladder from the courtyard and saw Rudolf‐san go up it to the third‐story window,`
+char_eri: ` you closely observed the structure of the outer wall and realized that by cleverly using the rain gutters and other handholds, it would be possible to descend to the courtyard from the third‐floor window...!`
+char_eri: ` You didn't {i:jump down}!`
+char_eri: ` You used the rain gutters and so on and clambered down the outer wall like a loser}!!`
+char_eri: ` What do you think of my blue truth?!! Come on, where's your rebuttal?!"`
+char_but: `".........My rebuttal?"`
+char_eri: `"You have no rebuttal?`
+char_eri: ` Then my truth is valid, yes?!`
+char_eri: ` There, you see?!`
+char_eri: ` {p:2:It may have looked like you jumped down all dramatically, but it was all an illusion!`
+char_eri: ` All you actually did was jump out and grab desperately onto the rain gutter}...!!"`
+char_but: `"..................`
+char_but: ` ......My argument then was about whether it was possible for Grandfather to escape from the study, remember...?`
+char_but: ` And it was possible for Grandfather to escape through the window.`
+char_but: ` All I did was prove that.`
+char_but: ` ......Whether either of us jumped down or clambered down makes no difference."`
+char_eri: `"Don't try to change the subject!!`
+char_eri: ` A mere {y:0:Human}{n:0:human} can't jump down from the third floor...!!`
+char_eri: ` How do you like that, how do you like that...?!!`
+char_eri: ` What do you think of my reasoning, my master...?!!"`
+char_but: `"......Are you short of sleep or something?`
+char_but: ` Just calm down and eat your food."`
+char_non: `When he escaped to the courtyard through the window...`
+char_non: `Battler really did use the rain gutter to crawl down the wall, just like Erika said.`
+char_non: `His hand slipped halfway, and he fell from a considerable height,`
+char_non: ` but he managed to land on his feet without injuring himself.`
+char_non: `......No one witnessed this,`
+char_non: ` but most likely, everyone except Erika currently in the dining hall had realized that something like this had happened.`
+char_non: `No one had believed that he'd jumped down from the third‐floor window in the first place.`
+char_non: `......Even if they hadn't witnessed it directly.`
+char_non: `So they had no clue what Erika was complaining about and obsessing over all of a sudden,`
+char_non: ` and started to whisper, glancing at her with cold eyes and dubious faces......`
+char_eri: `"You can't argue back, can you?!`
+char_eri: ` Your jumping was denied!`
+char_eri: ` My truth won out!!`
+char_eri: ` My blue truth is valid!"`
+char_eri: `"Please acknowledge this, my master!!`
+char_eri: ` I am not incompetent or a disappointment...!`
+char_eri: ` I will match up to your expectations without fail, so please don't abandon me!! My master...!!"`
+char_non: `Facing someone that might have been somewhere beyond the ceiling, Erika spread her arms and yelled.`
+char_non: `Then, .........as if in answer, a massive lightning bolt landed very close by.`
+char_non: `It was an incredible sound.`
+char_non: ` They could even feel the earth shake.`
+char_non: `At the same time as that sound, Erika went limp,`
+char_non: ` falling into her seat like a puppet who'd just had all its strings cut.`
+char_non: `Then, as the sound of wind and rain gradually filled the room once again,`
+char_non: ` ......Erika slowly opened her eyes as though recovering from a bout of dizziness.`
+char_non: `Then, she continued eating in silence as though nothing had happened.`
+char_non: `As if she had been acting normally the whole time.`
+char_non: `......Didn't Erika just stand up suddenly and rant at someone......?`
+char_non: `Erika continued eating quietly, her behavior so perfectly normal that everyone started to doubt themselves.`
+char_non: `After seeing her behaving so calmly, ......everyone convinced themselves that they were totally worn out,`
+char_non: ` and that they must have just hallucinated Erika suddenly yelling.`
+char_non: `So Erika's sudden transfiguration of a few seconds ago was treated as a daydream,`
+char_non: ` and faded out of everyone's memory......`
+char_non: `Erika quietly poked at her salad and muttered in a voice no one could hear.`
+char_eri: `Thank you very much, Great Lady {f:5:Bernkastel}......`
+char_eri: ` I am Furudo Erika.`
+char_eri: ` I am my master's piece and her double.`
+char_eri: ` ......I will most certainly present you with an incredible tale.`
+char_eri: ` Eheheh{0}eheh......`
+char_eri: `"Oh, yes, knives and forks are such primitive utensils, aren't they?`
+char_eri: ` Chopsticks are best.`
+char_eri: ` They're the easiest way to eat a salad, don't you agree?`
+char_eri: ` Well, everyone?"`

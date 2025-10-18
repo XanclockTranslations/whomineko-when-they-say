@@ -1,0 +1,860 @@
+char_nat: `The rose garden was truly splendid this year.`
+char_nat: `{n}The roses were blooming like crazy, as though they were competing with each other.`
+char_nat: `In that rose garden, Kinzo, Kanon, and Natsuhi could be seen...`
+char_kin: `"Once again, the flowers have grown wonderfully this year.`
+char_kin: ` It must be the result of your care."`
+char_kan: `".........Thank you very much.`
+char_kan: ` The weather just happened to be good this year."`
+char_nat: `"Thanks to your care, the garden is even more beautiful than usual.`
+char_nat: ` Good work."`
+char_kan: `"Thank you very much..."`
+char_kin: `"If today weren't so special...`
+char_kin: `we might have been able to admire the roses while enjoying some black tea."`
+char_non: `Kinzo shrugged.`
+char_non: ` Today was the family conference.`
+char_non: `......When it came to the other siblings' businesses, they hadn't heard anything good.`
+char_non: `On the contrary, those siblings probably planned to turn the conversation to the topic of Kinzo's remaining life,`
+char_non: ` and hold a quiet feud over the inheritance.`
+char_kin: `"......Those people are quite unpleasant.`
+char_kin: ` By the way, what about Krauss?`
+char_kin: ` Is that debt repayment plan of his proceeding well?"`
+char_nat: `"It really does seem to be a realistic plan.`
+char_nat: ` .........However, the scale of the plan appears to be quite large, and it doesn't seem to be bearing fruit as well as he expected."`
+char_kin: `"If possible, I had hoped that something could be done before today's family conference."`
+char_nat: `"......Yes.`
+char_nat: ` My apologies."`
+char_bea: `"Are you sure that's alright, Kinzo?`
+char_bea: ` Casually walking around in a place like that."`
+char_non: `How had she gotten up there?`
+char_non: `{n}......Well, it's pretty pointless to wonder about that sort of thing when you're dealing with a witch.`
+char_non: `{f:5:Beatrice} was casually sitting on the roof of the arbor,`
+char_non: ` almost as though she had been basking in the sun.`
+char_bea: `"Those relatives are like a massive lump of the anti‐magic toxin, and they'll be intruding on us.`
+char_bea: ` If you bump into them, your soul will evaporate in a instant."`
+char_kin: `"Hmph.`
+char_kin: ` I am already dead.`
+char_kin: ` Even evaporating would be no detriment."`
+char_nat: `"......We can't have that happen.`
+char_nat: ` Please, for the sake of the Ushiromiya family, lend us your strength just a little longer."`
+char_bea: `"Natsuhi.`
+char_bea: ` It seems that the boat with the relatives on it has left the harbor.`
+char_bea: ` It might be a good idea to end your walk soon."`
+char_nat: `"......Is that so?`
+char_nat: ` Thank you.`
+char_nat: ` ...Please return to the study, Father."`
+char_kin: `"Just great...`
+char_kin: ` A shame that I must go back when the weather is so perfect."`
+char_bea: `"Don't grumble, Kinzo.`
+char_bea: ` Right now, you are nothing more than a ghost that I gave life to.`
+char_bea: ` It'll be troublesome for both me and Natsuhi if you're scattered away by the toxin.`
+char_bea: ` Just be a good boy, shut yourself away in the study, and put a blanket over yourself or something.`
+char_bea: ` *cackle*cackle*!"`
+char_kin: `"Hmph.`
+char_kin: ` ......Just being given the chance to enjoy the roses even after death makes me extremely fortunate.`
+char_kin: ` I understand.`
+char_kin: ` I shall return to the study."`
+char_kin: `"But I would like some black tea.`
+char_kin: ` Kanon, tell Genji to bring me some.`
+char_kin: ` Some Marco Polo would be nice today."`
+char_kan: `"......Certainly."`
+char_kin: `"Then let's go our separate ways.`
+char_kin: ` Natsuhi.`
+char_kin: ` ......I want you to conduct the family conference splendidly without me."`
+char_nat: `"Of course, Father.`
+char_nat: ` He can't say it in front of them, but my husband is already the Ushiromiya family head.`
+char_nat: ` And, I will do all I can to see that I don't embarrass him as his wife."`
+char_kin: `"......Compared to Krauss, who's had a stomachache since this morning, you are so very composed, Natsuhi.`
+char_kin: ` ......My son is quite hopeless."`
+char_nat: `"My husband is talented in his own way.`
+char_nat: ` Supporting him where he's weak is my duty as his wife."`
+char_kin: `"Mm.`
+char_kin: ` Give it your best.`
+char_kin: ` I will make sure to stay shut away so that I don't get in the way of this farce."`
+char_nat: `"Kanon.`
+char_nat: ` Go with Father to the study.`
+char_nat: ` And then have Genji serve some black tea."`
+char_kin: `"I'm not so senile that I need your help to stand up.`
+char_kin: ` Here I go......"`
+char_non: `Refusing Kanon's attempt to lend him a hand, Kinzo rose from the flower bed he had been sitting on.`
+char_non: `The retired head left everything in Natsuhi's hands and returned to the study at a gentle pace......`
+char_bea: `"......You're looking well.`
+char_bea: ` You possess a sense of dignity similar to Kinzo's deceased wife."`
+char_nat: `"On the off‐chance that the anti‐magic toxin does get to Father,`
+char_nat: ` ......will the magic dissolve in an instant?"`
+char_bea: `"Yes.`
+char_bea: ` In the blink of an eye.`
+char_bea: ` ......I can simply erase my form if necessary,`
+char_bea: ` but if someone already dead such as Kinzo loses his form, he will be blown away by the winds of the sun and disappear like dust in a matter of seconds.`
+char_bea: ` You must take care."`
+char_nat: `"Yes.`
+char_nat: ` I understand."`
+char_bea: `".........You might have talent as a witch.`
+char_bea: ` The anti‐magic toxin has been building up in your system over the years,`
+char_bea: ` and yet you are still able to understand magic.`
+char_bea: ` ......If you and I had met during your youth, you might have become a powerful witch by now."`
+char_nat: `"I am Ushiromiya Krauss's wife, the head's wife.`
+char_nat: ` I would become even a witch or a demon to protect his honor.`
+char_nat: ` ......I am deeply grateful for the power of your magic.`
+char_nat: ` I wouldn't have been able to protect the honor of the Ushiromiya family without you."`
+char_bea: `"Let's discuss that at another time.`
+char_bea: ` I'd like to enjoy it with just the two of us women drinking tea."`
+char_nat: `"A friend of mine who went to Sri Lanka sent me some black tea with a wonderful rose fragrance."`
+char_bea: `"Hoh, you mean Dimbula.`
+char_bea: ` That isn't bad.`
+char_bea: ` Then you should also have patis on the side.`
+char_bea: ` ......You must serve me some as a reward if I manage to trick everyone for the whole upcoming family conference.`
+char_bea: ` Promise me now."`
+char_nat: `"Understood.`
+char_nat: ` I promise.`
+char_nat: ` Then, I'll see you later."`
+char_bea: `"Mm. Later it is."`
+char_non: `The witch made her body crumble into the rustling winds, became gold flower petals, and scattered into thin air.`
+char_non: `Natsuhi watched her go, then turned on her heels and headed for the mansion.`
+char_non: `After that, there was no one left in the rose garden......`
+char_lam: `"Alright then.`
+char_lam: ` It's <break time>.`
+char_lam: ` Any complaints about how things have gone so far?"`
+char_ber: `".........None at all.`
+char_ber: ` If you gotta pee, why don't you just go and do it...?"`
+char_lam: `"What a rude thing to say.`
+char_lam: ` {p:1:Kinzo is already dead}, remember?`
+char_lam: ` But he's walking around and talking, isn't he?`
+char_lam: ` Doesn't that mean this is magic?!"`
+char_lam: `"Well, I doubt this move would work on you after all this time, Bern.`
+char_lam: ` ......But what about you, Battler?`
+char_lam: ` Isn't this weird?`
+char_lam: ` Don't you have to accept the existence of the magic that revived Kinzo?`
+char_lam: ` Hahhi{0}hhyah{0}ha{0}haaaah!"`
+char_but: `"......If you're trying to imitate Beato,`
+char_but: ` stop it right now, 'cause it's pissing me off."`
+char_lam: `"*giggle*!`
+char_lam: ` Figured it out?!`
+char_lam: ` Then come on, how are you gonna answer, Battler?`
+char_lam: ` Kinzo was just out for a stro~ll."`
+char_lam: `"Why don't you do what you usually do and start holding your head, crying "{i:this doesn't make any sense!!}"...?`
+char_lam: ` C'mon, use that old "{i:it's no goddamn good at all}" catch phrase and let me hear your classic crazy counterargument."`
+char_lam: `"There's no way that a human who's supposed to be dead could be walking around, right?`
+char_lam: ` Is this all because of some unknown virus called the Rokkenjima Syndrome which causes mass delusions?`
+char_lam: ` Or do the scales of a mysterious form of butterfly that only lives on Rokkenjima happen to be hallucinogenic?!`
+char_lam: ` Or is it all because a mysterious secret organization called "Yamainu" made an as‐of‐yet undiscovered drug called Purupurupikopuyo which causes mass delusions?!!"`
+char_lam: `"Let me hear tons of this wonderful crap,`
+char_lam: ` kyaaa{0}ha{0}ha{0}haa{0}ha{0}ha{0}ha{0}ha{0}ha{0}ha{0}ha{0}ha{0}ha{0}ha{0}ha{0}hahaha!!"`
+char_but: `".........Just shut up.`
+char_but: ` This isn't even a problem."`
+char_non: `{p:1:Grandfather is dead at this point in time}.`
+char_non: ` There's no way he exists.`
+char_but: `"The only reason everything's behaving as though he actually exists...`
+char_but: `is because that's the lie that Aunt Natsuhi's creating in an attempt to hide Grandfather's death and trick her way through the family conference."`
+char_lam: `"Oh?`
+char_lam: ` It's Natsuhi's lie?`
+char_lam: ` You can revive the dead by lying?`
+char_lam: ` Wouldn't that make it Natsuhi's magic?"`
+char_but: `"This world is like a Braun tube before you've looked in it.`
+char_but: ` ......It's the world of the cat box before you open it."`
+char_but: `"As long as Aunt Natsuhi says that she took a walk with Grandfather, and as long as no one can confirm that that's a lie,`
+char_but: ` it's possible to display "Aunt Natsuhi taking a walk in the rose garden with Grandfather" as Natsuhi's reality.`
+char_but: ` That means it's possible for Grandfather to appear."`
+char_non: `Clap, clap, clap...`
+char_non: `That extremely unflattering applause was coming from {f:5:Bernkastel}.`
+char_ber: `"......Bravo.`
+char_ber: ` ............You're much calmer without Beato around."`
+char_but: `"Quiet.`
+char_but: ` You shut up too."`
+char_lam: `"Wait a second, Battler.`
+char_lam: ` According to your theory, sure, it might really be possible for Kinzo to appear if Natsuhi's the only person there.`
+char_lam: ` If Natsuhi claims to have observed Kinzo in a world with no one except Natsuhi in it, then no one can deny it, right?"`
+char_lam: `"But Kanon was in the same place, and he was also looking at Kinzo, right?`
+char_lam: ` How would you explain that?"`
+char_but: `"...That's no problem at all.`
+char_but: ` Kanon‐kun is a servant who works for the Ushiromiya family.`
+char_but: ` ......Aunt Natsuhi probably ordered him to keep to her story so that she can hide Grandfather's death.`
+char_but: ` ......This means that just like Aunt Natsuhi, Kanon can see Grandfather even though Grandfather isn't supposed to exist."`
+char_ber: `"............Too bad, Lambda.`
+char_ber: ` Battler isn't going to fall for that kind of child's play anymore."`
+char_lam: `"Seems so.`
+char_lam: ` ......Well, this is nothing more than an opening before the game.`
+char_lam: ` Like an apéritif before a meal."`
+char_ber: `".........An appetizer at a bar.`
+char_ber: ` Green tea at a sushi restaurant."`
+char_but: `"Shut up.`
+char_but: ` So we aren't gonna get anywhere unless I say it again in blue text?"`
+char_lam: `"Looks like it.`
+char_lam: ` Would you mind?"`
+char_but: `"............`
+char_but: ` ......`
+char_but: `{p:2:The reason Grandfather is strolling around like nothing happened even though he's already dead...`
+char_but: `is that people who want to make it seem as though he's alive created an illusion of him.`
+char_but: ` Everyone with the same intention can share in that illusion.`
+char_but: ` Then, they talk as though Grandfather actually exists and was with them until a second ago.`
+char_but: ` That's why he's strolling around like it's perfectly natural}."`
+char_but: `"`
+char_but: `{p:2:Because of this, the illusion of Grandfather is unable to appear in front of people who aren't in on this with Aunt Natsuhi}.`
+char_but: ` {p:2:That's why they needed to set it up so that he would shut himself away in his study and not come out}."`
+char_non: `In the games before now, Grandfather was always shut away in his study.`
+char_non: `We never met him directly.`
+char_non: `However, there were some people who spoke in a way that made it seem like he was locked up in his study in a bad mood,`
+char_non: ` and who claimed to have met him only a short while ago.`
+char_non: ` We blindly accepted that and believed that Grandfather was in the study.`
+char_non: `{a:c:`
+char_non: `{i:That's why it was possible for an illusion of Grandfather to exist in the study}.}`
+char_non: `That's right, in the games before now,`
+char_non: ` the only people who met Grandfather were Uncle Krauss,`
+char_non: ` Aunt Natsuhi, and the servants.`
+char_non: `{p:2:Because they all stuck to the same story,`
+char_non: ` an illusion of Grandfather was able to exist on this island, making it seem like he was alive}.`
+char_but: `"......You were even kind enough to show me a scene at the beginning of this game...`
+char_but: `of Aunt Natsuhi convincing Doctor Nanjo and the rest to cover up Grandfather's death.`
+char_but: ` ......I'm not gonna fall for this kind of cheap trick now."`
+char_lam: `".........Not bad.`
+char_lam: ` But I was hoping for the unknown drug Purupurupikopuyo."`
+char_ber: `"There's no way he'd say something so ridiculous, right......?`
+char_ber: ` After all, supposing that such a thing exists would be just as bad as surrendering to the fantasy genre.`
+char_ber: ` ......Whether it's a virus or a drug or an illness, anything that hasn't been discovered yet is in violation of Knox's fourth commandment."`
+char_but: `"......What do you mean, fourth commandment?"`
+char_ber: `"Knox's 4th:`
+char_ber: ` It is forbidden for unknown drugs or obscure scientific devices to be used.`
+char_ber: ` .........It's a rule that these cannot be used for murder."`
+char_but: `"What?`
+char_but: ` I don't know what world you've been living in, but unknown drug X and unknown scientific device X are the best kinds of weapons to use when fighting against a witch..."`
+char_ber: `".........Yes, those.`
+char_ber: ` They all violate the rules of proper mystery stories.`
+char_ber: ` Supposing an unknown virus,`
+char_ber: ` an unknown drug,`
+char_ber: ` ...an unknown sickness, or an unknown X was used puts it totally in the fantasy genre.`
+char_ber: ` My condolences.`
+char_ber: ` If that was your theory, then it's game over for you.`
+char_ber: ` *giggle*giggle*."`
+char_but: `".........H‐hey...`
+char_but: ` What are you talking about......?"`
+char_ber: `"You think you've been fighting in direct opposition to Beato.`
+char_ber: ` But that's not actually true.`
+char_ber: ` You haven't been in direct opposition.`
+char_ber: ` You've been fighting from a diagonal angle."`
+char_ber: `"All this playing detective you've done hasn't been fantasy vs. mystery.`
+char_ber: ` It's only been fantasy vs anti‐fantasy."`
+char_but: `"......I don't have a clue what you're talking about.`
+char_but: ` ...But there's one thing I do get.`
+char_but: ` ......It sounds like you're saying there's something wrong with the way I've been fighting."`
+char_ber: `".........We are fighting to kill the fantasy known as the witch illusion.`
+char_ber: ` That means interpreting this tale...`
+char_ber: `as a {i:proper mystery}.`
+char_ber: ` In other words, from the very start, we have to forget about any and all elements that would violate the taboos of the mystery genre."`
+char_but: `"F‐...forget about them.........?"`
+char_ber: `"For example, several locked‐room murders have occurred in the games before now, right?"`
+char_but: `"......Y‐...yeah."`
+char_ber: `At every single crime scene, to make sure there are no hidden doors,`
+char_ber: ` you've been enthusiastically checking with Beato, haven't you?`
+char_ber: `Weaving a flashy bunch of red truths together all over the place,`
+char_ber: ` almost as though that itself was the battle.`
+char_ber: `I call that a waste of time.`
+char_ber: `After all, it's clearly specified by Knox's third commandment.`
+char_ber: `{n}`
+char_ber: `"It is forbidden for hidden passages to exist."`
+char_ber: `{n}`
+char_ber: `In the mystery genre, hidden passages {i:mustn't exist}.`
+char_ber: `So when trying to interpret everything as a proper mystery,`
+char_ber: ` having a debate over whether there are hidden doors or not is a defeat from the beginning, don't you see...?`
+char_ber: `After all, {i:there aren't any}.`
+char_ber: `{n}`
+char_ber: `As soon as you suspect that they might exist, then it's already game over for you.`
+char_ber: `In other words, the way you assume that you can't use reason just because it hasn't been proven that hidden doors don't exist at the crime scene...`
+char_ber: `makes you simply naive and a failure at mysteries.`
+char_ber: ` You've already lost once you start thinking that.`
+char_ber: `You were trying to interpret everything within the bounds of the mystery genre, right...?`
+char_ber: `Then you've got to follow its conventions.`
+char_ber: ` ...*giggle*giggle*giggle*giggle*, hi{0}hi{0}hi{0}hi{0}hi{0}hi{0}hi{0}hi{0}hi{0}hi{0}hi{0}hyah{0}hah{0}ha{0}ha{0}ha{0}ha{0}ha{0}ha{0}ha{0}ha{0}ha{0}ha{0}ha{0}ha{0}ha{0}ha{0}ha...!!`
+char_ber: `"*cough*.`
+char_ber: ` .........That's how it is.`
+char_ber: ` Hidden doors must not exist at any of the crime scenes.`
+char_ber: ` That means anything you do to try and check whether they exist or not is a waste of time."`
+char_but: `"...I think I know what you're talking about.`
+char_but: ` I've heard about it somewhere.`
+char_but: ` Is this like the ten basic rules for mystery novels or something?"`
+char_lam: `"Yeah, that's right.`
+char_lam: ` They're the ten witch‐piercing wedges brandished by Knox, the peerless archbishop of witch hunting.`
+char_lam: ` Those are the true weapons with which to fight and defeat the fantasy known as the witch illusion head‐on."`
+char_lam: `"......Just like you, Bern.`
+char_lam: ` Bringing in such annoying weapons.`
+char_lam: ` They're the fantasy side's worst enemies."`
+char_but: `"..................`
+char_but: ` So you deny the existence of hidden doors right from the start, without even investigating the crime scene...`
+char_but: ` {i:That's} what sounds like fantasy to me..."`
+char_ber: `"Lambda, who's in charge of the witch side, is fantasy.`
+char_ber: ` I'm the one who's fighting her, mystery.`
+char_ber: ` What are you?`
+char_ber: ` The most you can do is repeatedly dodge and deny fantasy, which makes you merely "anti‐fantasy".`
+char_ber: ` You're opposed to absolutely everything, but you can make no counter‐proposals.`
+char_ber: ` You're like a politician from some government.`
+char_ber: ` *giggle*giggle*."`
+char_but: `"Shut up.`
+char_but: ` I didn't come here to speak gibberish with you two.`
+char_but: ` Just get on with the story...!!"`
+char_lam: `"......Quiet down.`
+char_lam: ` That sleeping princess behind you is suffering, you know?"`
+char_non: `When he turned around, he saw Beato's living corpse resting in a chair...`
+char_non: `However, sweat glistened all over her body and it felt like she was breathing a little harder than normal.`
+char_non: `......She looked as though she was suffering from a high fever.`
+char_but: `"Beato......`
+char_but: ` What's wrong... Are you okay...?"`
+char_lam: `"What do you mean, {i:okay}?`
+char_lam: ` You sure do say some strange things.`
+char_lam: ` ......You're fighting to {i:kill} that girl."`
+char_but: `"..............."`
+char_lam: `"We've rewound this fifth game for your benefit,`
+char_lam: ` but where we're at right now, Bern's cornered me pretty good and she's about to break through the witch illusion.`
+char_lam: ` ...That girl's existence has been almost completely denied.`
+char_lam: ` It's only natural that she's suffering."`
+char_ber: `".........Even just now,`
+char_ber: ` you smashed a witch illusion by saying there was no way Kinzo existed.`
+char_ber: ` ......This is the proof that your attack reached Beato.`
+char_ber: ` This agony of hers."`
+char_but: `"....................."`
+char_non: `......I tried to at least wipe away the sweat on Beato's forehead with a handkerchief.`
+char_non: `It's true I promised Beato that I'd let her die.`
+char_non: `{n}But that was supposed to be......peacefully.`
+char_non: `{n}I wasn't planning to make her suffer first.`
+char_non: `......My goal isn't to make the sleeping Beato suffer like this before killing her......`
+char_non: `As if the complicated feelings inside me were plain as day to them,`
+char_non: ` the two witches grinned together...`
+char_rud: `"Dammit, Aneki, Dad overheard because you kept yelling about the inheritance!"`
+char_eva: `"It isn't my fault, how was I supposed to know?!`
+char_eva: ` He just happened to be in the corridor and heard! It was an unlucky coincidence!"`
+char_hid: `"Could you two give it a rest......?`
+char_hid: ` Just call it our bad luck this time and give it up.`
+char_hid: ` If you leave a man alone, his mood'll pop right back to normal."`
+char_kir: `"Hopefully Father's feelings weren't hurt so much that he writes up some strange will."`
+char_non: `The relatives sighed deeply and fell into silence...`
+char_ros: `"Hey! Maria! No jumping around!`
+char_ros: ` What if Ange‐chan trips over?!"`
+char_gen: `".........Sorry to keep you waiting.`
+char_gen: ` The boat is ready."`
+char_hid: `"Alright, let's go.`
+char_hid: ` Won't get anywhere by complainin' now."`
+char_goh: `"We eagerly await your return to this island."`
+char_non: `Natsuhi was sitting on a bench in the rose garden, looking completely worn out.`
+char_non: `However, when she noticed that Kanon and Kumasawa were coming back, she immediately sat up straight, regaining the dignity of the head's wife.`
+char_nat: `"......Did the boat leave?"`
+char_kan: `"Yes.`
+char_kan: ` It departed just a minute ago."`
+char_nat: `"I see.`
+char_nat: ` Good job seeing them off.`
+char_nat: ` ......What is my husband doing?"`
+char_kan: `"He returned to his room a short while ago.`
+char_kan: ` He is resting."`
+char_non: `Since the previous day, Krauss had been almost overwhelmed by anxiety over the thought that Kinzo's death might be discovered.`
+char_non: `When the family conference ended, his weariness must have suddenly gotten ahold of him.`
+char_non: `......However, the way he had refused to let even a sliver of his true intentions slip out...`
+char_non: `and the manner in which he had managed to act as though everything was normal showed that Krauss's nerve was nothing to sneeze at.`
+char_nat: `".........How was it?`
+char_nat: ` Did they seem to notice anything suspicious about Father...?"`
+char_kum: `"Nope.`
+char_kum: ` Eva‐sama in particular was raising quite the racket about the Master overhearing her talking about the inheritance. Right?`
+char_kum: ` Wasn't her panicking just priceless?"`
+char_kan: `"Yes.`
+char_kan: ` She was quite shaken up."`
+char_nat: `"Kumasawa, you really are quite an actress.`
+char_nat: ` All that panic in the corridor made it seem like Father really was there."`
+char_kan: `".........Kumasawa‐san is quite talented at that sort of thing."`
+char_kum: `"Oooh, come now, I don't deserve such praise.`
+char_kum: ` Hoh‐hoh‐hoh‐ho."`
+char_nat: `"*giggle*.`
+char_nat: ` I will have to make it very clear to Genji not to believe you easily when you call in sick."`
+char_kum: `"Now that's just too harsh, Madam.`
+char_kum: ` Oh‐hoh‐hoh‐hoh‐ho..."`
+char_nat: `"You really did a good job.`
+char_nat: ` As promised, both of you, as well as Genji and Shannon,`
+char_nat: ` will be reimbursed for the time off you've sacrificed over the past month, and will receive five days of additional pay.`
+char_nat: ` This bonus is a secret.`
+char_nat: ` Speak with Genji when you collect your pay to ensure that the other servants don't find out."`
+char_kum: `"Don't you worry, we understand.`
+char_kum: ` Don't we?"`
+char_kan: `".........Kumasawa‐san.`
+char_kan: ` Your voice is too loud."`
+char_kum: `"Ooh, how very careless of me... Hoh‐hoh‐ho."`
+char_nat: `"Yes, we should be careful.`
+char_nat: ` Let's leave it at that for the time being.`
+char_nat: ` All of you, please return to your regular duties.`
+char_nat: ` Oh, that's right, I had Gohda prepare some special tea.`
+char_nat: ` Tell him to serve it."`
+char_non: `Natsuhi let them know that she wanted to be left alone for a while,`
+char_non: ` so that she could drink some black tea in the rose garden.`
+char_non: `That black tea, carried all the way to the bench,`
+char_non: ` ...was the Sri Lankan tea Dimbula that she had promised Beato, along with patis...`
+char_non: `And sitting on either side of it, the wife of the head and her witch could be seen, both of them staring at it curiously.`
+char_nat: `"......So this is patis...`
+char_nat: ` I just assumed it would be some kind of baked sweet..."`
+char_non: `Natsuhi hadn't thought for a moment that it would have a curry‐like spicy flavor, and had started coughing after putting it in her mouth.`
+char_non: `To describe it in Japanese terms, it was like {ruby:fried dumplings:age‐gyoza} stuffed with mashed, curry‐flavored potatoes.`
+char_non: `As a savory snack, it would probably be pretty popular with the kids.`
+char_non: `However, it was something of a shock to Natsuhi, who expected that a treat to go with tea would be something sweet.`
+char_bea: `"Didn't you know?`
+char_bea: ` You cannot have Dimbula without this.`
+char_bea: ` Were it another black tea, it would be cookies.`
+char_bea: ` Oh, but chocolate is good too.`
+char_bea: ` With Japanese tea, sweet bean jelly is the tradition, although salted konbu also works.`
+char_bea: ` With Chinese tea, you have {ruby:Chinese dumplings:xiaolongbao}.`
+char_bea: ` Though I like moon cakes as well."`
+char_nat: `"......I'm surprised.`
+char_nat: ` You know a lot about culture, don't you?"`
+char_bea: `"Well, I haven't been living a thousand years for nothing.`
+char_bea: ` I have sampled all the finest teas from around the world.`
+char_bea: ` Perhaps you could call me a tea traveler."`
+char_nat: `"That does seem like it would be a wonderful way to "travel the world".`
+char_nat: ` Before today, I never knew that one could enjoy tea like this.`
+char_nat: ` I will treasure this experience."`
+char_bea: `"I cannot leave Rokkenjima.`
+char_bea: ` This is the only way I can travel.`
+char_bea: ` What about you?`
+char_bea: ` I'm sure you've traveled the world in luxury as the wife of a rich man should."`
+char_nat: `"............Before Jessica was born, my husband took me to many countries.`
+char_nat: ` Before marrying, I never once traveled overseas, so each time was a fresh and new experience."`
+char_bea: `"......Hmph.`
+char_bea: ` Sounds like you were also born into a very restrictive household."`
+char_nat: `"..................`
+char_nat: ` ...It was strict, but they gave me a wonderful upbringing.`
+char_nat: ` It would be rude to my father and mother to call that restrictive."`
+char_bea: `"That tells me eloquently that it was. *cackle*."`
+char_non: `Krauss might have pitied Natsuhi.`
+char_non: `Or, he might have wanted to take her away from the restrictive Ushiromiya family for a little bit and let her rest.`
+char_non: `......Or, he might simply have wanted to take his wife around countries he knew well and show off everything he knew.`
+char_nat: `"Unlike Father, my husband likes countries in Asia.`
+char_nat: ` Hong Kong, Taiwan, Korea, Thailand.`
+char_nat: ` I think we also went to Malaysia."`
+char_bea: `"*cackle*cackle*.`
+char_bea: ` That Krauss...was he trying to rebel against Kinzo's Western obsession?`
+char_bea: ` But Asia is good too.`
+char_bea: ` The Japanese are strongly influenced by the West.`
+char_bea: ` When they think of foreign countries, only Western ones come to mind.`
+char_bea: ` But the East exists as well."`
+char_nat: `"I myself knew a few things about the West, but I knew very little about the Orient...`
+char_nat: ` I seem to recall my husband making fun of me now and then during our travels."`
+char_non: `As Natsuhi grumbled that they had all been very tiring trips, Beato secretly peeked into her heart.`
+char_cla: `"Now, listen.`
+char_cla: ` This is called an areca nut.`
+char_cla: ` It's a popular luxury food item around here."`
+char_non: `It looked like a small, round, gourd‐like nut that had been split open, with a slice of cucumber wedged in it.`
+char_non: `At a glance, it looked as though it would probably taste like pickles.`
+char_nat: `"I, I see.`
+char_nat: ` So I just bite it here...?"`
+char_non: `As she tried to bite the one her husband was holding, he suddenly moved it away.`
+char_non: `...It felt kind of embarrassing, like she was a fish who took the bait.`
+char_cla: `"Whoa, wait up.`
+char_cla: ` You have to eat it a certain way.`
+char_cla: ` Yes, you are supposed to bite it.`
+char_cla: ` Bite it.`
+char_cla: ` Chew it.`
+char_cla: ` But don't eat it."`
+char_nat: `"Huh?`
+char_nat: ` Even though you bite and chew it, you can't eat it?"`
+char_cla: `"Yes.`
+char_cla: ` Bite and chew.`
+char_cla: ` Don't eat.`
+char_cla: ` And don't drink the juice.`
+char_cla: ` It'll make your stomach hurt."`
+char_nat: `"I, I don't understand...`
+char_nat: ` Why would you eat something like that??"`
+char_cla: `"Think of it as something like gum.`
+char_cla: ` Chew it and enjoy the flavor.`
+char_cla: ` Spit the juice and the scraps you've chewed off into a paper cup like this."`
+char_nat: `"......D‐dear,`
+char_nat: ` the inside of your mouth is bright red...!`
+char_nat: ` Wipe it off, wipe it off.`
+char_nat: ` ......Eeek!"`
+char_non: `The handkerchief she had wiped Krauss's mouth with, a favorite of hers, also had bright red marks on it now.`
+char_non: `Something that's poisonous if eaten or drunk, and it makes the inside of your mouth so bright red,`
+char_non: ` and on top of that, having to spit something out after you've put it in your mouth...how indecent!`
+char_non: ` ......Thinking this, Natsuhi firmly refused what Krauss was offering her.`
+char_nat: `"No. No! No, thank you. Thank you, but no...!"`
+char_cla: `"This is a cross‐cultural experience.`
+char_cla: ` What's the point of traveling if we don't do things that can only be done here?"`
+char_non: `Krauss kept chewing, ignoring the fact that even his lips were being colored bright red.`
+char_cla: `"Father likes these too.`
+char_cla: ` He must have ordered some long ago, because he used to chew away at them on the mansion's terrace.`
+char_cla: ` Although he seems to have stopped ever since you came here."`
+char_cla: `"Come on! Father, the person you respect even more than me, chewed these all the time.`
+char_cla: ` Come on, come on, don't hold back, try it."`
+char_nat: `"No, no! Stop it! Stop i~t! De~~ar!"`
+char_non: `......When he was traveling the world, Krauss had the innocence of a child.`
+char_non: `He wouldn't even conceal his jealousy of the respect Natsuhi normally gave Kinzo.`
+char_non: `Just being able to see that side of her husband made traveling all the way to another country worthwhile...`
+char_non: `Krauss kept on urging her to bite it,`
+char_non: ` but Natsuhi, undaunted, ran from place to place and finally yelled at him that he was being too pushy.`
+char_non: `Krauss was miffed for most of the bus ride.`
+char_non: `What a child, to let something like this get him down,`
+char_non: ` Natsuhi thought, astounded.`
+char_non: `Then, a native tour guide on the bus took out one of those areca nuts and started explaining about it.`
+char_non: `He talked about how it had been a beloved luxury item in these parts since ancient times, similar to tobacco.`
+char_non: `About how its popularity was declining because young people were starting to take a dislike to it, just like Natsuhi.`
+char_non: `......And about how it was treated as a good luck charm in this area,`
+char_non: ` and was known as a symbol for couples.`
+char_non: `She looked at her husband's face.`
+char_non: ` ......He turned away abruptly, but it looked like his cheeks had gotten a little red...`
+char_bea: `"And then...`
+char_bea: `you leaned on your husband and held his hand, I'll bet?!`
+char_bea: ` What the heck, you and your husband share a pretty pure love, don't you?!`
+char_bea: ` Did you get all fired u~p?`
+char_bea: ` You know, like, that night{p:0:♪}`
+char_bea: ` Kiiihi{0}hi{0}hi{0}hi{0}hihi!!"`
+char_non: `Red‐faced and avoiding Beato's eye, Natsuhi tried to hide her embarrassment by stuffing the patis whole into her mouth,`
+char_non: ` chewing with her cheeks puffed out like a blowfish.`
+char_non: `Beato said that there was nothing better than this to go with tea,`
+char_non: ` and nodded several times, a broad smile on her face...`
+char_nat: `"Of course, that was when we were newlyweds.`
+char_nat: ` Right now, I cannot even leave Rokkenjima.`
+char_nat: ` I'm a bird in a cage."`
+char_bea: `"Well, it's the same for me.`
+char_bea: ` I have died more than once, and still I can't escape Rokkenjima.`
+char_bea: ` I'm a bird in a cage just as you are."`
+char_nat: `"I don't know much about you, and I won't pry.`
+char_nat: ` ......However, I can imagine that the circumstances you're under are not ones I can make light of."`
+char_bea: `"I have no desire to act like the chief prisoner here.`
+char_bea: ` Let's be friendly as fellow birds in this cage.`
+char_bea: ` I've taken a liking to you."`
+char_nat: `"Really?`
+char_nat: ` Thank you."`
+char_bea: `"The instructions and orders you gave the servants for this family conference were superb.`
+char_bea: ` You thought of everything from where Kinzo would be and when to what he did and what he left behind,`
+char_bea: ` and you put it all together splendidly without any contradictions.`
+char_bea: ` That detailed written plan of yours had the same beauty as a high‐level magic circle."`
+char_non: `To make it look like Kinzo actually existed and was living life his own way,`
+char_non: ` she had written his schedule for the day down to the finest detail and made the servants follow it to the letter.`
+char_non: `Who did he meet, when and where did he meet them, and what did he leave with them?`
+char_non: `{n}What was he doing, when and where was he doing it, and what did he change?`
+char_non: `As a result, even though the relatives hadn't seen Kinzo even once,`
+char_non: ` they never suspected in the slightest that he hadn't been there.`
+char_non: `Eva and the rest truly believed that their conversation about the inheritance had been overheard by Kinzo as he happened to walk through the hall, and that it had sent him into a rage.`
+char_non: `Everything had gone just as Natsuhi's plan had predicted, down to the finest detail.`
+char_non: `{n}And the coordination between the two of them and the servants had also been spectacularly intricate......`
+char_nat: `"We couldn't afford to have this secret found out under any circumstances.`
+char_nat: ` That's why I made such a thorough plan."`
+char_bea: `"Your willpower and attention to detail summoned success with certainty.`
+char_bea: ` ......As a witch, it seems that you're in Lady {f:5:Lambdadelta}'s camp.`
+char_bea: ` At your current level, as soon as you become self‐aware of that as magic, you will be worthy of calling yourself a witch apprentice."`
+char_nat: `"If you call something like that magic, then that would make Kumasawa the witch of feigned illnesses.`
+char_nat: ` She only calls us to say she's taking the day off because of her bad back on the busy days.`
+char_nat: ` Like every year's family conference."`
+char_bea: `"Oh no, Kumasawa is completely different.`
+char_bea: ` She's a witch of a much, much higher level.`
+char_bea: ` If you knew what she really was, it'd shock you!`
+char_bea: ` *cackle*cackle*!"`
+char_non: `Watching these two have their pleasant chat...`
+char_non: `was another pair with steam rising from their black tea.`
+char_non: `However, this second pair was in a world that the first couldn't see, where golden roses bloomed.`
+char_but: `"......Ronove was kind enough to make us some of that Dimbula tea too."`
+char_bea: `".................................nn..."`
+char_non: `It felt as though Beato muttered something.`
+char_non: `{n}For the first time, it felt as though she had been able to communicate something.`
+char_non: `Surely, she had taken an interest in the black tea and felt like drinking it...`
+char_non: `Thinking this, Battler took Beato's cup and her hand, and made her grip the cup...`
+char_bea: `"...............nn, ..............."`
+char_non: `Beato's eyes trembled sadly, and her fingers shook.`
+char_non: `Almost as though she couldn't even move her fingers as she wanted to...`
+char_non: `...and was mourning the fact that she could no longer even enjoy the tea she had once loved without assistance...`
+char_non: ` That was how she looked...`
+char_non: `So Battler rested his hand on Beato's, softly took hold of the tea cup, and lifted it to her lips......`
+char_non: `......Then, ...though it was only a single mouthful, ...Beato sipped.`
+char_non: `The days in which they had been in a killing‐fest with red swords and blue wedges...`
+char_non: `already seemed like the distant past.`
+char_non: `Now, not only was Beato unable to do that, ......it was even difficult for her to make her body do as she pleased.`
+char_non: `Even just drinking a mouthful of black tea like this was hard......`
+char_but: `"......How is it?`
+char_but: ` That rose aroma makes for a great black tea.`
+char_but: ` Do you like it...?"`
+char_bea: `".............................."`
+char_non: `Of course,`
+char_non: ` .........Beato didn't respond.`
+char_but: `"......What happened to you...?`
+char_but: ` ......This is...another strategy, right?`
+char_but: ` You're pretending to be in a slump so you can shock me later."`
+char_bea: `"..........................."`
+char_but: `"......If that's what you're after, the same trick won't work again, so give it a rest.`
+char_but: ` ......If you keep acting like that, even I'll start to feel out of whack."`
+char_bea: `"..........................."`
+char_but: `"Hey.`
+char_but: ` ...Isn't it about time for you to start laughing loudly, saying "Caught you, dumbass!" or something?`
+char_but: ` Any kind of joke stops being funny if you use it too much.`
+char_but: ` Especially if it's a rehash."`
+char_bea: `"..........................."`
+char_but: `"Laugh.`
+char_but: ` Just like you're cackling over there as you drink with Aunt Natsuhi."`
+char_bea: `"..........................."`
+char_but: `"..............."`
+char_bea: `"...............................................................................................................................................................{0}..."`
+char_but: `"............Can't you at least grin...?"`
+char_non: `"Never again.`
+char_non: ` This child will never laugh again."`
+char_non: `Those sudden words......were exceedingly cruel.`
+char_but: `"How can you say that for sure?!`
+char_but: ` Quit trying to steal away Beato's right to laugh."`
+char_ber: `"......Oh, should I say it in red, then...?"`
+char_non: `I shook my head furiously.`
+char_non: `Then, with an expression that didn't reveal her thoughts in the slightest, {f:5:Bernkastel} spoke while looking at Beato's face.`
+char_non: ` ......And I didn't understand the word she used in the slightest.`
+char_ber: `{a:c:`
+char_ber: `"Congratulations."}`
+char_but: `".........For what?"`
+char_ber: `"Beato is like this as a result of your victory."`
+char_but: `".........What are you talking about......?"`
+char_ber: `"You said something interesting in a previous game.`
+char_ber: ` You said that this would be eternal torture where you both torment each other.`
+char_ber: ` That was right.`
+char_ber: ` It was torture for Beato as well.`
+char_ber: ` And you {i:won} that torture game.`
+char_ber: ` ......That's why Beato's soul was killed, and why she became a doll‐like corpse."`
+char_but: `"Are you saying......that I did this to Beato?"`
+char_ber: `"The battle ends when one of you loses the will to try and win.`
+char_ber: ` ......As far as the battle between you and Beato goes, the conclusion was already reached last time.`
+char_ber: ` Well, it probably happened without you noticing, though."`
+char_but: `".........In that case, why hasn't the game ended when I've already won?`
+char_but: ` ...Why is this game still continuing?"`
+char_ber: `"The shackle attached to that girl's ankle.`
+char_ber: ` ......That's a rule Lambda made."`
+char_non: `Even if {f:5:Beatrice} tries to yield or gets discouraged or gives up,`
+char_non: ` she isn't capable of stepping down from the game.`
+char_non: `......That's the rule.`
+char_non: ` Or maybe it's a curse.`
+char_ber: `"Some time ago, when it looked like you were going to give in,`
+char_ber: ` I gave you my support.`
+char_ber: ` Though you probably couldn't perceive it,`
+char_ber: ` I assisted you by making sure that you would receive hints and things would go your way.`
+char_ber: ` That's why you're able to be here now.`
+char_ber: ` ............Do you remember? How I helped you?"`
+char_non: `{f:5:Bernkastel} stared at me...`
+char_non: `......It's true I wasn't aware of it,`
+char_non: ` ......but maybe it was true...`
+char_non: `that she had helped me.`
+char_ber: `"In the same way, Lambda is supporting Beato.`
+char_ber: ` And this time, it's Beato who's on the verge of giving in.`
+char_ber: ` So to make sure that she doesn't, this time it's Lambda who's been giving her support.`
+char_ber: ` That's what the shackle is.`
+char_ber: ` By refusing to let her resign, she's saved Beato within the game."`
+char_but: `"......How is this "saving her"?"`
+char_ber: `"This game was made with only two ways for it to end.`
+char_ber: ` Either one side accepts defeat and resigns,`
+char_ber: ` or one side wins the game with a checkmate.`
+char_ber: ` Beato was about to collide with the first way.`
+char_ber: ` That's why Lambda crushed that chance and managed to just barely avoid her losing.`
+char_ber: ` That's a wonderful bit of support within this game."`
+char_non: `In that case, the only way left for this game to end......is for me to win.`
+char_non: `At the very least, until I do win,`
+char_non: ` this witch called {f:5:Lambdadelta} can probably try to buy time for Beato's condition to turn back around.`
+char_non: `But that......would just prolong Beato's suffering even more...`
+char_non: `Neither of us want that.`
+char_non: `Both Beato and I fought with all we had trying to win.`
+char_non: `It was because we were both giving it everything we could muster that the game repeated several times to begin with.`
+char_non: `And that was also why, that one time,`
+char_non: ` we confronted each other head‐on with all of our strength.`
+char_non: `And Beato.........admitted defeat.`
+char_non: `She said she wanted me to end this game...and entrusted everything to me.`
+char_non: `So, {f:5:Bernkastel}'s words were the truth.`
+char_non: `She said it was my fault that Beato had become a living corpse.`
+char_non: ` ......That was true.`
+char_non: `But it was something both of us wanted.`
+char_but: `"Our match has already been resolved.`
+char_but: ` ......Even so, the game won't end.`
+char_but: ` That's why Beato put her trust in me.`
+char_but: ` She told me to win quickly and end this game."`
+char_ber: `"..............."`
+char_non: `Now that the game has been resolved, for it to continue any further would be torture without end to Beato.`
+char_non: ` ......Nothing more than a nightmare.`
+char_non: `I have to give her a perfect checkmate, end this game in the truest sense,`
+char_non: ` ......and give Beato a peaceful sleep...`
+char_non: `For that reason, I'll keep fighting.`
+char_non: `But by continuing the game, Beato's eternal torture will continue.`
+char_non: `It felt as though I could only let her sleep peacefully by slowly strangling her to death...`
+char_but: `".........I'm starting to feel like the truth doesn't matter anymore.`
+char_but: ` ...Who gives a crap about the game if Beato is satisfied?`
+char_but: ` Beato resigned.`
+char_but: ` I'll ignore the truth of the witch illusions and return home with my family.`
+char_but: ` ......What's wrong with that?"`
+char_non: `If only {f:5:Lambdadelta} hadn't placed the curse of that shackle on her, this battle would be over already.`
+char_non: `......That's why I find it detestable.`
+char_non: `This game, where I have to torment Beato even more to end it,`
+char_non: ` ......is detestable.`
+char_ber: `"......What's thiiis?`
+char_ber: ` Beato has started to look like she's in pain every time you get closer to the truth, so you're suddenly going easy on her...?`
+char_ber: ` Then just go as easy on her as you can.`
+char_ber: ` And why don't you just let Beato win while you're at it?`
+char_ber: ` Then your little sister can have a lonely, tragic future forced on her endlessly."`
+char_but: `"That's not how it is......`
+char_but: ` ............"`
+char_non: `......That's right...`
+char_non: ` I have to return for Ange's sake as well.`
+char_non: `I know this isn't the time to start feeling compassion for Beato.`
+char_ber: `"In that case, make sure you kill her.`
+char_ber: ` Kill this witch without fail."`
+char_bea: `"...................................."`
+char_non: `Even though Beato was right there,`
+char_non: ` {f:5:Bernkastel} spoke without holding back...`
+char_ber: `"Your goal is to kill this woman.`
+char_ber: ` ......In the last game, you said it at Beato's request.`
+char_ber: ` You said "I will kill you"."`
+char_but: `"......Yeah, that may be true,`
+char_but: ` but that doesn't give {i:you} a right to comment on it."`
+char_ber: `"Did you know?`
+char_ber: ` When you tear one of your fingernails out, it's better to do it in one go.`
+char_ber: ` ......Pulling it out like you do, gently, timidly,`
+char_ber: ` twisting and slow...hurts much, much more.`
+char_ber: ` What you're doing sounds much more like torture to me."`
+char_but: `"....................."`
+char_ber: `"If you have any compassion, kill her in one blow.`
+char_ber: ` That's how killing works."`
+char_but: `"That's none of your business.`
+char_but: ` I'm the one to decide how to perform her last rites.`
+char_but: ` You and that {f:5:Lambdadelta} witch have nothing to do with this.`
+char_but: ` {i:I} will kill her.`
+char_but: ` I won't let anyone else do it."`
+char_ber: `".........As long as you don't lose that willpower.`
+char_ber: ` I'm betting on you.`
+char_ber: ` Alright?`
+char_ber: ` Make sure you don't forget."`
+char_ber: `"{p:1:Unless this game is resolved, you will never be released}.`
+char_ber: ` You won't be allowed to abandon this game either."`
+char_but: `"......I get it."`
+char_ber: `"I know what Lambda is after.`
+char_ber: ` She wants to make you lose your will to fight just like Beato,`
+char_ber: ` to make you a pair of living dolls, and to keep this world in perpetual equilibrium.`
+char_ber: ` ......You don't want that, do you?`
+char_ber: ` I wouldn't like it either."`
+char_but: `"Why should I care about what you want?`
+char_but: ` Still, I won't throw this game away.`
+char_but: ` I won't abandon the responsibility of fighting with Beato."`
+char_ber: `"I'm glad our goals are the same.`
+char_ber: ` So, this means you'll be able to kill this child without any hesitation, right?"`
+char_bea: `"................................."`
+char_but: `"............That's right."`
+char_bea: `"................................."`
+char_non: `I have no way of knowing whether those words eased her pain or hurt her.`
+char_non: `...But because of this dull tingling in my chest...`
+char_non: `...I believe that she must have been hurt.`
+char_non: `I have no way of knowing what the silent Beato feels.`
+char_non: `......If I believe she's been hurt,`
+char_non: ` ...is that any different from her being hurt?`
+char_non: `And, if I hadn't thought I hurt her,`
+char_non: ` would I have been able to get by without hurting anyone?`
+char_non: `...........................`
+char_ber: `"......So,`
+char_ber: ` about that Beato who's drinking tea over there with Natsuhi.`
+char_ber: ` You can handle that, right...?"`
+char_but: `"Yeah......`
+char_but: ` ...No problem."`
+char_ber: `"It's the same as it was with Kinzo.`
+char_ber: ` {f:5:Beatrice} doesn't exist.`
+char_ber: ` This is a false witch illusion that Natsuhi created from her belief that she thought up a brilliant plan to overcome hardship by borrowing the witch's power."`
+char_ber: `"The only reason it looks like the two of them are drinking together...`
+char_ber: `is because {f:5:Lambdadelta}, who is the Game Master and {i:the one who is telling the story}, is interpreting it that way."`
+char_ber: `"If you stare without a fragment of love for Natsuhi, you won't see illusions like that.`
+char_ber: ` .........That's why, with my eyes, all I can see is Natsuhi all alone, drinking her tea in silence."`
+char_non: `Without love, it cannot be {y:1:‘seen’}{n:1:seen}.`
+char_non: ` Because love is lacking, it cannot be {y:1:‘seen’}{n:1:seen}.`
+char_ber: `"That's a fantasy that Natsuhi's showing us.`
+char_ber: ` ......{f:5:Beatrice} doesn't exist there."`
+char_bea: `"...........................ugh........."`
+char_non: `Beato mumbled softly.`
+char_non: ` ......It was a small voice that made it sound like she was in pain.`
+char_non: `The thorn of {f:5:Bernkastel}'s truth had stabbed into her chest.`
+char_but: `"......Yeah, that's probably true.`
+char_but: ` I think your theory is right.`
+char_but: ` But don't say that in front of Beato."`
+char_ber: `"It doesn't matter where I say it.`
+char_ber: ` This is Beato's world."`
+char_but: `"......Also, it's not like I'm protecting Beato,`
+char_but: ` but there is a possibility that Aunt Natsuhi really is drinking tea with some unknown person X calling themselves {f:5:Beatrice}.`
+char_but: ` This scene takes place a year before everything.`
+char_but: ` The number of people on the island on this day has never been shown with the red truth."`
+char_ber: `"............Sure.`
+char_ber: ` Even Lambda hasn't said anything in red about the number of people on Rokkenjima on this day."`
+char_but: `"In that case,`
+char_but: ` it's possible to claim that Aunt Natsuhi really did drink tea with a woman calling herself {f:5:Beatrice}.`
+char_but: ` Just like I can't deny your theory, you can't deny mine.`
+char_but: ` That means you can't say for sure whether the Beato there is an illusion or not."`
+char_ber: `".........Oh, the cat box theory?`
+char_ber: ` That might have worked on Beato, but it won't work on me."`
+char_but: `"Why?"`
+char_ber: `"`
+char_ber: `{p:1:After all, Natsuhi is drinking tea all by herself right there}."`
+char_non: `There was a violent sound of glass breaking,`
+char_non: ` ......and the Beato joking about Natsuhi's newlywed years and laughing happily...`
+char_non: `was erased.`
+char_non: `......A lonely wind blew,`
+char_non: ` ......and the one person who remained on the bench drinking tea with a tired expression...`
+char_non: `...was Aunt Natsuhi, all alone.........`
+char_bea: `"...............nn, ggh........................"`
+char_non: `Beato......groaned.`
+char_non: ` I could see clearly that she was in anguish.`
+char_non: `Another witch illusion had been smashed, ......calling Beato towards death.`
+char_non: `......In short, this is what the battle to let Beato rest in peace is all about...`
+char_non: `A second ago, {f:5:Bernkastel} likened our fight to the torture of tearing fingernails out.`
+char_non: `If I have to tear them out anyway,`
+char_non: ` ......then my last bit of compassion towards Beato should be to minimize that pain.`
+char_non: `In other words, ......even if I want to minimize the pain, I still have to cause it.`
+char_non: `I have to accept......that look of anguish on her face......`
+char_non: `And at the same time,`
+char_non: ` ...this made me realize what a merciless thing the red truth was.`
+char_non: `......Right now, in this rose garden, there is no one except Aunt Natsuhi.`
+char_non: `In other words, there are no observers except for Aunt Natsuhi.`
+char_non: `So, if that lone observer were to say that she'd had some tea with Beato,`
+char_non: ` ......no one should be able to refute that.`
+char_non: `......If no one can refute it, ...doesn't that mean it's the truth?`
+char_non: `Aunt Natsuhi is enjoying the roses and drinking tea together with Beato.`
+char_non: `...How could anyone have the right to mercilessly trample that pleasant moment......?`
+char_but: `".........The red truth is a lot like a blade."`
+char_ber: `"....................."`
+char_but: `"In a battle with a witch, it's a blade that sometimes tears your theories apart, and sometimes serves as a weapon you can fight back with."`
+char_ber: `"......I know.`
+char_ber: ` So what?"`
+char_but: `"Don't use it without reason."`
+char_ber: `"....................."`
+char_but: `"A blade is a tool if you use it as intended,`
+char_but: ` ......but it's nothing but a murderer's weapon if you use it out of malice."`
+char_non: `It was true that Aunt Natsuhi hadn't really been drinking tea with a witch.`
+char_non: `However, saying that with the red truth probably has nothing to do with our game.`
+char_non: `Our game is the tale of October 1986.`
+char_non: `The two days of the crime give us more than enough time to injure each other with our red and blue blades glistening.`
+char_but: `"This isn't about the witch illusions.`
+char_but: ` ......It's about Aunt Natsuhi's privacy.`
+char_but: ` How could anyone have the right to expose that?"`
+char_ber: `".....................`
+char_ber: ` ......Do you want to acknowledge that a witch actually existed here and drank tea with Natsuhi?`
+char_ber: ` Weren't you trying to deny the existence of witches?"`
+char_but: `"......Yes, during the game of the two day period from October 4th to October 5th, 1986.`
+char_but: ` But I have no desire to question whether or not witches exist outside that game board."`
+char_but: `"In the first place, it's impossible to deny the existence of witches because of the Devil's Proof.`
+char_but: ` And, according to the rules of this game, saying something like that in red is a forbidden move that leads to a stalemate.`
+char_but: ` You can't deny the existence of witches even with the red truth."`
+char_ber: `"............True.`
+char_ber: ` ......I never thought I'd hear you talk about witches existing.`
+char_ber: ` ............Not bad, Lambda.`
+char_ber: ` You've done a good job of getting Battler stuck between his human culprit theory and the thought that it doesn't matter whether witches exist or not."`
+char_ber: `"She really excels at controlling a {y:0:Human}{n:0:human}'s heart.`
+char_ber: ` ......Looks like I'd better start helping you out even more."`
+char_but: `"I really couldn't care less about you two.`
+char_but: ` Disappear.`
+char_but: ` This game is between Beato and me.`
+char_but: ` We're gonna keep this game to ourselves."`
+char_ber: `"...............No way."`
+char_but: `"What......?"`
+char_ber: `"After all,`
+char_ber: ` I'm enjoying this game too.`
+char_ber: ` .........*giggle*giggle*giggle*giggle*. Ha{0}ha{0}ha{0}ha{0}ha{0}ha{0}ha{0}ha{0}ha{0}ha{0}ha{0}ha{0}ha{0}haha......"`
+char_non: `{f:5:Bernkastel} disappeared, leaving only that unpleasant laugh behind.`
+char_bea: `"......................................."`
+char_non: `After that, all that remained was Natsuhi, sipping tea all alone,`
+char_non: ` ......Beato, her hand still on the tea cup as she stared blankly at the surface of the liquid,`
+char_non: ` ......and me.`
+char_but: `"......{f:5:Bernkastel} and {f:5:Lambdadelta}...`
+char_but: ` ......{f:5:Virgilia} called them your friends, but...`
+char_but: `...you really should have chosen your friends more carefully.`
+char_but: ` Or wait, maybe they actually make a good match with an ill‐natured person like you..."`
+char_bea: `".............................."`
+char_but: `"........................"`
+char_non: `Beato didn't answer.`
+char_non: `Battler took Beato's hand, made her hold the cup again, and brought it to her lips.`
+char_non: `......Beato made a quiet sound in her throat and drank just one more mouthful......`
+char_non: `Then, Natsuhi's lonely teatime ended.`
+char_non: `{n}......Her truth, which was only hers and observed by no one else, had been defiled.`
+char_non: `In Natsuhi's world,`
+char_non: ` ......that tea party, which had been peaceful despite her annoyance at Beato for making fun of her too much, must have come to an end, and the two of them probably went their separate ways.`
+char_non: `However, in Natsuhi's exposed truth, ...she was all alone.`
+char_non: `Natsuhi traipsed away.`
+char_non: `......On the bench, only a single person's cup remained......`

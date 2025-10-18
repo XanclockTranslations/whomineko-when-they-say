@@ -1,0 +1,1420 @@
+char_kin: `"......{f:5:Beatrice}.`
+char_kin: ` I have been calling to you for a while.`
+char_kin: ` Did you not hear me...?"`
+char_bea: `"......Hmm.`
+char_bea: ` Were you?`
+char_bea: ` My apologies.`
+char_bea: ` I was lost in my thoughts.`
+char_bea: ` Forgive me."`
+char_kin: `"The weather is pleasant.`
+char_kin: ` ...I see, I can understand how the weather has stolen your heart.`
+char_kin: ` Will you drink your black tea here...?"`
+char_bea: `"...............Who...am I?"`
+char_kin: `".................................`
+char_kin: ` ......I will bring some black tea now.`
+char_kin: ` Wait here for a while."`
+char_bea: `"Forget about the black tea.`
+char_bea: ` Talk with me."`
+char_kin: `"......Very well."`
+char_non: `Kinzo had used the excuse of going to bring some black tea to try and interrupt the conversation for the time being.`
+char_non: ` ...But his attempt had been very transparent.`
+char_non: `I sat in the garden chair, and beckoned Kinzo to do the same.`
+char_non: `{n}Kinzo sat down heavily, exaggerating his age.`
+char_non: `For a while, we sat, appreciating the silence...`
+char_bea: `"......Who am I?`
+char_bea: ` To this day, no one has answered me this question.`
+char_bea: ` ......For some reason, everyone averts their gaze and evades me."`
+char_kin: `"........................"`
+char_bea: `"......I have known you for a long time.`
+char_bea: ` I think of you as my best friend, even as a father.`
+char_bea: ` ......That is why I want so much for you to tell me.`
+char_bea: ` You must know.`
+char_bea: ` ...Who I am."`
+char_kin: `"..................`
+char_kin: ` ............Why do you worry about something like that?`
+char_kin: ` You are {f:5:Beatrice}.`
+char_kin: ` The master of this mansion, is that not so?`
+char_kin: ` ......What more could you want to know?"`
+char_bea: `"............I do not know."`
+char_kin: `"What's this?`
+char_kin: ` ......Don't you even understand yourself what it is you want to know?`
+char_kin: ` That is baffling.`
+char_kin: ` In my younger days, I sometimes found myself wanting to play in the maze of thought that has no exit.`
+char_kin: ` Maybe that is what your worries are..."`
+char_non: `Kinzo laughed as though it was a trivial matter.`
+char_non: ` ...However, I couldn't help but feel that this behavior was nothing but another attempt to force me to stop my further questioning.`
+char_bea: `"...........................`
+char_bea: ` ...Hmph.`
+char_bea: ` ......So not even you will tell me that...after all."`
+char_kin: `"There is nothing to tell.`
+char_kin: ` You are {f:5:Beatrice}.`
+char_kin: ` Isn't that more than enough?"`
+char_bea: `"......No, that's not it.`
+char_bea: ` ............What I wish to know is not my name.`
+char_bea: ` It is...`
+char_bea: `who...`
+char_bea: `I am."`
+char_bea: `"......Who am I, what am I?`
+char_bea: ` ...How long have I been here, ...and how long will I continue my days here?"`
+char_kin: `"........................`
+char_kin: ` ...I really should bring some black tea.`
+char_kin: ` Do you not think it a waste of all this fine weather?"`
+char_bea: `"................................."`
+char_but: `".........What is this all about...?`
+char_but: ` Somehow, it looks like the story of your past, right?"`
+char_bea: `"It appears so.`
+char_bea: ` ...To think that we would go this far back..."`
+char_but: `"Wondering who you were...`
+char_but: ` ...It looks like you had some pretty high‐minded worries."`
+char_bea: `"......That is to be expected.`
+char_bea: ` At the time, I was unable to understand who I was,`
+char_bea: ` or why I was alive."`
+char_but: `"Well, in puberty,`
+char_but: ` everyone is captured by those philosophical worries, wondering what meaning there is to their life, at least once.`
+char_but: ` Doesn't this just mean that you had this kind of charming period once in your life?"`
+char_bea: `".....................`
+char_bea: ` ...I had been in that mansion since the time I was born.`
+char_bea: ` And I lived only inside the mansion.`
+char_bea: ` Of course, I was able to go out into the garden, but the area around the mansion was surrounded by a very tall fence, which I was unable to leave through,`
+char_bea: ` and I would be told severely that I mustn't leave."`
+char_bea: `"......I could walk freely throughout the mansion and the garden,`
+char_bea: ` but my desire to take just one step outside those of my own accord was never granted."`
+char_but: `"...............What do you mean by that?`
+char_but: ` ...Are you trying to say that, for as long as you can remember, you were always a bird in a cage?"`
+char_bea: `"......I thought that was just how things were.`
+char_bea: ` After all, I had been living like that as far back as I could remember.`
+char_bea: ` I didn't even think to question it."`
+char_but: `"What in the world............are you?"`
+char_bea: `"That's it.`
+char_bea: ` That is what I also hoped to know."`
+char_but: `"............Heh.`
+char_but: ` I'm sure you'll say something like "I wasn't a human, I was a witch", right?"`
+char_bea: `"No, that's not correct.`
+char_bea: ` Not {i:yet} correct.`
+char_bea: ` ......Or, should I say, it was {i:once} correct.`
+char_bea: ` ......I was constructed by Kinzo, a human built by a human.`
+char_bea: ` ...No, maybe I should call it a cage made of flesh."`
+char_but: `"What's that supposed to mean...?`
+char_but: ` ...This is starting to sound weird."`
+char_bea: `"......You probably won't believe it anyway.`
+char_bea: ` Listen first.`
+char_bea: ` .........I was a great witch who had lived for one thousand years.`
+char_bea: ` But at some time, I was summoned by Kinzo,`
+char_bea: ` ...and by his hidden arts, I was bound as his prisoner for eternity."`
+char_but: `"............Never heard that before.`
+char_but: ` From what we hear in the Ushiromiya family, you were summoned by Grandfather,`
+char_but: ` made something like a devil's contract with him, and gave him the gold."`
+char_bea: `"Yes.`
+char_bea: ` That is correct.`
+char_bea: ` ...Then I was supposed to hide myself until the contract was over.`
+char_bea: ` But, .........well, it's tough being a popular woman.`
+char_bea: ` .........By some turn of events, Kinzo fell in love with me."`
+char_but: `"...Grandfather's nearsightedness must have gotten pretty bad.`
+char_but: ` With astigmatism too, ihihi.`
+char_but: ` To fall in love with you, of all things."`
+char_bea: `".........Hmph.`
+char_bea: ` Well, to me it was supremely annoying."`
+char_bea: `"...However, the power of {y:0:Human}{n:0:human}s is a frightening thing.`
+char_bea: ` He exhibited fearsome power and rooted me to this place.`
+char_bea: ` ...He said I wouldn't be freed until I nodded my head in agreement.`
+char_bea: ` ...Such an overbearing man."`
+char_but: `"Isn't that awesome.`
+char_but: ` Everyone knows Grandfather's obsessed with the occult, but...`
+char_but: `...who knew he had the power to root down the Great Witch {f:5:Beatrice}‐sama."`
+char_but: `"......Heh, ridiculous.`
+char_but: ` You think I'd believe such a weird story?"`
+char_bea: `"...As I thought, you don't believe."`
+char_but: `"All I believe is the fact that you lived in this hidden mansion in the middle of the forest.`
+char_but: ` You are the 19th person on Rokkenjima, right?!"`
+char_bea: `"......Indeed.`
+char_bea: ` Just as you imagine, this is deep in the forest of Rokkenjima.`
+char_bea: ` A hidden mansion not to be found from the outside world.`
+char_bea: ` Its name is {ruby:Nine Birds' Retreat:Kuwadorian}."`
+char_but: `"......Come to think of it, I heard that the guesthouse's real name was {ruby:Visitor's Retreat:Toraian}.`
+char_but: ` ...I see, the naming sense is similar.`
+char_but: ` ......So, you were Grandfather's lover, who lived here in secret.`
+char_but: ` Isn't that right?!"`
+char_bea: `"Lover isn't the right way to say it.`
+char_bea: ` ......You should probably call it Kinzo's unrequited love.`
+char_bea: ` I spoke of it just recently, correct?`
+char_bea: ` He fell in love with me of his own accord.`
+char_bea: ` He then courted me, but I rejected him."`
+char_bea: `"......Then, I was shut up in this hidden mansion.`
+char_bea: ` .........No, I shouldn't say that I was shut up in the mansion.`
+char_bea: ` ......It would be more correct to say that I was shut up in this body."`
+char_but: `"............I have no idea what you just said at the end there."`
+char_bea: `"You will just make fun of it and not listen, right?`
+char_bea: ` After all, you say that you don't believe in witches or magic.`
+char_bea: ` If you have no ears to hear what I tell you,`
+char_bea: ` saying it would be the pinnacle of foolishness."`
+char_but: `"...........................`
+char_but: ` ......I'll decide whether I believe or not.`
+char_but: ` ...After all, if I don't hear it, the story won't move on.`
+char_but: ` Tell me.`
+char_but: ` ...The story of your past."`
+char_bea: `"Alright.`
+char_bea: ` .........I refused Kinzo when he courted me, but he was not a man to lose heart just because of that.`
+char_bea: ` He wanted to get my consent no matter what.`
+char_bea: ` He shut me up in this mansion, and spent an eternity trying to win my heart."`
+char_but: `"...He really is overbearing.`
+char_but: ` No one likes a man who can't take a hint, right?"`
+char_bea: `".........*cackle*cackle*.`
+char_bea: ` Regardless of whether I responded to his courting or not,`
+char_bea: ` to make a man so desperate for me was...well, as a woman, it wasn't unpleasant."`
+char_bea: `"......However, I never nodded my head.`
+char_bea: ` I tried what I could to escape his restrictions,`
+char_bea: ` but that barrier was firm, and I couldn't break it."`
+char_but: `"......And then?"`
+char_bea: `"After trying to resist in various ways,`
+char_bea: ` I eventually reached the conclusion that, to escape from Kinzo's barrier, I would have to throw away my body of flesh.`
+char_bea: ` ......The physical body is a vessel which carries many restrictions in terms of magic."`
+char_but: `"Throw away your body of flesh......?`
+char_but: ` What's that?`
+char_but: ` Something like an out‐of‐body experience?"`
+char_bea: `"Well, if you want to think of it that way.`
+char_bea: ` However, I am not a spirit.`
+char_bea: ` Even though I am a witch, in the beginning, I was born with a human's body of flesh.`
+char_bea: ` So for me, throwing away that physical body,`
+char_bea: ` while it didn't mean the same thing as death, did require a corresponding level of resolve."`
+char_but: `"So in other words,`
+char_but: ` ......you made up your mind that you couldn't be released except by suicide, is that what you mean?"`
+char_bea: `"It wasn't suicide.`
+char_bea: ` It was nothing more than throwing away my body of flesh.`
+char_bea: ` ......Of course, becoming nothing more than soul is a precarious situation.`
+char_bea: ` When the soul leaves its body of flesh, it is constantly exposed to the strong winds of the sun.`
+char_bea: ` It was not easy even for me to maintain myself and avoid being scattered by them."`
+char_bea: `"It was a final measure that I wanted to avoid if I could.`
+char_bea: ` However, there was no other way to break through Kinzo's barrier."`
+char_bea: `"......*cackle*, after all, I am a free spirit.`
+char_bea: ` I couldn't stand being kept in a cage until Kinzo's life was over."`
+char_non: `I couldn't understand this story Beato kept going on about, about throwing away her body of flesh,`
+char_non: ` as anything more than suicide.`
+char_non: `Grandfather persistently courted her, and to escape from that,`
+char_non: ` ......she chose her own death...?`
+char_but: `"...............So you're saying you committed suicide?`
+char_but: ` What are you saying?`
+char_but: ` Isn't that you, sitting carefree there in the garden chair?"`
+char_bea: `"......That's right.`
+char_bea: ` That is the new cage I was given by Kinzo."`
+char_but: `"............Cage?`
+char_but: ` You mean this mansion?"`
+char_bea: `"No.`
+char_bea: ` I mean my body, relaxing in the garden chair over there.`
+char_bea: ` .........After I became a soul and tried to escape,`
+char_bea: ` even then, Kinzo had no intention of allowing me to escape."`
+char_bea: `"...Yes, indeed, he is a frightening person.`
+char_bea: ` Normally, seeing the woman of your one‐sided desires take her own life should be enough to bring anyone to their senses, even if their love was a hundred years old.`
+char_bea: ` ......I suppose it makes him somewhat of a mage after all.`
+char_bea: ` ......*cackle*."`
+char_but: `"Don't try to speak in riddles with that incomprehensible witch‐girl talk.`
+char_but: ` ...In short, what are you trying to say?"`
+char_bea: `"That Kinzo didn't let me escape even after I became a soul.`
+char_bea: ` ......Human emotions are terrifying.`
+char_bea: ` That he would be able to exhibit this much power..."`
+char_bea: `"Tying down a spirit of the dead...`
+char_bea: `is not a level readily attained, even for a mage seeking that as his specialty.`
+char_bea: ` Because I knew that, Kinzo's fearful magical power shocked me then for the first time."`
+char_bea: `"............Then Kinzo seized my soul and brought me back.`
+char_bea: ` However, a cage to hold a seized soul cannot be made, not from iron nor from lead.`
+char_bea: ` ......There is but one exception."`
+char_but: `"............What?`
+char_but: ` You aren't going to say it was a magical cage or something, are you?"`
+char_bea: `"Wrong.`
+char_bea: ` That body of flesh over there, just like yours or mine.`
+char_bea: ` ...Only a cage made of flesh and blood can tie a spirit down to this world.`
+char_bea: ` ......Kinzo shut my soul up once more into a cage of flesh built to be exactly like me."`
+char_but: `".....................`
+char_but: ` ...So in summary, is it something like this?`
+char_but: ` Grandfather persistently courted you, you started to hate it, and you committed suicide,`
+char_but: ` but you weren't clever enough to finish the job?`
+char_but: ` ...Damn, you really took a roundabout way to say something like that."`
+char_bea: `"No, that's wrong.`
+char_bea: ` My soul was shut up in the seed of a homunculus,`
+char_bea: ` and I was born out of a test tube."`
+char_but: `"Huh?!`
+char_but: ` Ridiculous...!`
+char_but: ` That's goddamn impossible and you know it!"`
+char_bea: `"Kinzo accomplished even the miracle of creating life.`
+char_bea: ` And only to shut my soul up in that cage.`
+char_bea: ` ......That he would show such magical power simply because of his own love...`
+char_bea: ` A thoroughly terrifying person."`
+char_but: `"Aah, okay, it's really gotten to the point of ridiculousness now!`
+char_but: ` Say whatever you want.`
+char_but: ` I won't believe a word of it.`
+char_but: ` Just do what you like, for hell's sake."`
+char_bea: `"...............mh.`
+char_bea: ` ...What is this unpleasant attitude?"`
+char_but: `"Heh,`
+char_but: ` in the beginning, I showed a little interest, thinking there might be some huge hint hidden,`
+char_but: ` but the more I hear, the weirder this story starts to get.`
+char_but: ` This is supposed to be a game about denying witches,`
+char_but: ` but I get the feeling that I'm suddenly being made to just swallow a witch story."`
+char_but: `"Sorry, but I don't feel like listening to this any more.`
+char_but: ` Just keep rambling on to yourself as much as you want.`
+char_but: ` I'll just be here digging out some earwax or something."`
+char_bea: `".....................`
+char_bea: ` ......Hmph."`
+char_non: `When I started showing a cold attitude, Beato acted unusually discouraged.`
+char_non: `Of course, her expression was still brazen...`
+char_non: `but I had the feeling that I was able to catch a glimpse of loneliness because I hadn't found the story of her past interesting,`
+char_non: ` in that really easy to understand expression of hers.`
+char_non: `......For some reason, that slight reaction made her seem pitiful,`
+char_non: ` so even though I kept my couldn't‐care‐less attitude, I decided to humor her slightly.`
+char_non: `Damn it, even though she's an irritating witch, I'm still weak against her because her chromosomes are XX...`
+char_but: `"......Well, I have absolutely no desire to believe you, but,`
+char_but: ` ............keep going.`
+char_but: ` I'll listen to your story in place of cookies."`
+char_bea: `"So you treat the story of my past like cookies.`
+char_bea: ` ......You think that if you abuse me like that, I will just casually tell you...?"`
+char_non: `After I made fun of her, Beato reacted a little sensitively.`
+char_non: `It looked like, even though making fun of people was her specialty, she was horrible at being made fun of by other people.`
+char_non: `Just then, my cup of black tea suddenly made a sound, surprising me.`
+char_ron: `"......Milady's soul was seized and breathed into a cage of new life.`
+char_ron: ` In other words, Milady received life as a human once more."`
+char_non: `Before I had realized it, the demon butler had appeared and taken my cup, and was adding more black tea to it.`
+char_bea: `"Ronove.`
+char_bea: ` That is enough of that story.`
+char_bea: ` He says that it is too ridiculous to listen to.`
+char_bea: ` I now also feel ridiculous and have no intention of speaking."`
+char_ron: `"Some new cookies are currently being baked.`
+char_ron: ` I thought that, until then, the story of Milady's past would be a perfect substitute.`
+char_ron: ` Pu ku ku...!"`
+char_bea: `"I, ...I already said that I've had enough of talking about me!`
+char_bea: ` You are both unpleasant people.`
+char_bea: ` I'm leaving!`
+char_bea: ` Ronove, leave as soon as you are done serving.`
+char_bea: ` No idle talking with Battler."`
+char_ron: `"Certainly.`
+char_ron: ` I will make an effort."`
+char_non: `Beato's confusing female short temper took hold of her, and she turned her body into gold butterflies, scattered, and disappeared.`
+char_non: `After that, only Ronove and the scent of the black tea were left...`
+char_but: `"......I feel kind of bad for making her angry."`
+char_ron: `"It appears that you are aware of it, so there is nothing more to be said."`
+char_but: `"Wait a second.`
+char_but: ` Weren't you the one that pushed her over the edge?"`
+char_ron: `"Pu ku ku ku.`
+char_ron: ` My, whatever could you mean?`
+char_ron: ` Would you care for some sugar and milk?"`
+char_but: `"...Just milk will be fine.`
+char_but: ` ............And I also want some cookies."`
+char_ron: `".........You are aware that baking the cookies will take some more time?"`
+char_but: `"There's a substitute, you said?"`
+char_ron: `"......Certainly.`
+char_ron: ` If you would listen quietly, I will continue the story."`
+char_but: `"She said something about a homunculus.`
+char_but: ` ...I know a bit about that.`
+char_but: ` It's that thing, right?`
+char_but: ` A manufactured human created with alchemy or something?"`
+char_ron: `"Yes.`
+char_ron: ` Milady's soul was shut up in a homunculus, and she was revived into this world, receiving life again as a baby.`
+char_ron: ` ......However, because she was a baby,`
+char_ron: ` even if Kinzo tried to profess his love to her, it would be useless."`
+char_but: `"........................`
+char_but: ` .........You aren't saying...`
+char_but: `......Grandfather shut that baby up in this hidden mansion,`
+char_but: ` until it grew to reach the same age?!"`
+char_ron: `"Yes.`
+char_ron: ` That is what I am saying.`
+char_ron: ` However, while her soul was the same, a human spirit receives a strong influence from its vessel.`
+char_ron: ` Milady lost all of her memories of the past, and grew up as a very normal human girl."`
+char_but: `"And you're saying......that's the Beato sitting in the garden chair?"`
+char_ron: `"Yes.`
+char_ron: ` That is correct.`
+char_ron: ` She grew to be completely identical.`
+char_ron: ` However, she did not possess her power as a witch.`
+char_ron: ` ......I must stress that Milady was a human."`
+char_bea: `"................................."`
+char_non: `Beato, who was sitting in the garden chair, looking up at the sky, asked that same question again.`
+char_non: `She asked who she was.`
+char_non: `...The meaning of those words was finally starting to click.`
+char_non: ` She couldn't understand why she was living here, all locked up.`
+char_non: `Grandfather had seized {f:5:Beatrice}'s soul, shut it up in a body of flesh,`
+char_non: ` and then shut that up in a hidden mansion.`
+char_non: `However, since she had lived here since the time she was born, she couldn't even understand who she was,`
+char_non: ` or why she lived shut up in there...`
+char_non: `......W‐...wait, wait.`
+char_non: `{n}Who would take such a stupid story seriously?`
+char_non: `Why don't I change my interpretation?`
+char_non: `{n}...Essentially, couldn't it be something like this?`
+char_non: `Grandfather met {f:5:Beatrice}.`
+char_non: `{n}He then fell in love with her and courted her, but she didn't nod her head in agreement.`
+char_non: `{n}And so he got angry, and shut her up inside this hidden mansion.`
+char_non: `{f:5:Beatrice} tried to escape, but no matter what she did, she couldn't succeed,`
+char_non: ` ......so she finally chose her own death.`
+char_non: `......And then, .........hmm.`
+char_non: `...Maybe there was a girl that looked just like {f:5:Beatrice}, ...no, a baby.`
+char_non: `And Grandfather raised this child with care.`
+char_non: `But maybe Grandfather didn't view this child as his daughter.`
+char_non: `"Shut my soul up once more into a cage of flesh".`
+char_non: `Those words probably meant...`
+char_non: `...that he didn't view this kid as her child, but as her reincarnation.`
+char_non: ` Maybe that's what it meant.`
+char_non: `If you interpret it that way, even a story that weird might make a little sense...`
+char_non: `...No no no.`
+char_non: ` This might be some bullshit Beato cooked up to confuse me.`
+char_non: `As if I could accept any of this...!`
+char_non: `{n}In the first place, ...Kuwadorian, was it?`
+char_non: `{n}There's no proof whatsoever that a hidden mansion actually existed.`
+char_non: `Couldn't this be something she just fabricated on the spot?`
+char_ron: `"`
+char_ron: `{p:1:A hidden mansion called Kuwadorian does exist in the forest of Rokkenjima}.`
+char_ron: ` That is the place we were just talking about."`
+char_but: `".........Huh?`
+char_but: ` R‐...red?!"`
+char_non: `Ronove used the red to say that Kuwadorian actually existed.`
+char_non: `...Did that mean the same thing as the red Beato used?`
+char_ron: `"Even if I am not much of one, I am a demon all the same.`
+char_ron: ` ...Please keep this a secret from Milady, yes?"`
+char_but: `"...Y‐......yeah!"`
+char_non: `Beato, who knew I would try to trip her up, had grown extremely cautious when using red.`
+char_non: `To think that Ronove could also use that red...`
+char_non: `Of course, it's the red of a crafty man.`
+char_non: ` I don't know how far I can accept it,`
+char_non: ` but anyway, I might be able to get some hint out of it......`
+char_but: `"So that Beato relaxing in the garden of Kuwadorian, ...and that conversation she had with Grandfather, were the truth?"`
+char_ron: `"Yes.`
+char_ron: ` It is the truth.`
+char_ron: ` In the past,`
+char_ron: ` {p:1:the pair actually had a conversation like that in this place}."`
+char_but: `"Th‐thanks a lot.`
+char_but: ` I'll ask for some more red.`
+char_but: ` She said that she was born from a homunculus,`
+char_but: ` but does that kind of unscientific, magical thing actually exist?!"`
+char_ron: `"I am unable to answer that question.`
+char_ron: ` The reason is that it would cause a stalemate."`
+char_but: `"......A stalemate??`
+char_but: ` What do you mean?"`
+char_ron: `"It's a chess term referring to a state in which, similar to a "perpetual check",`
+char_ron: ` any further progress in a game becomes impossible.`
+char_ron: ` This is the opposite of an endless repetition of moves,`
+char_ron: ` and refers to a situation in which all moves disappear, resulting in a kind of deadlock."`
+char_ron: `"In chess this would lead to a draw, just as if there were a perpetual check.`
+char_ron: ` ...However, there is no draw in the game between you and Milady.`
+char_ron: ` Therefore, I am unable to answer in red any question that would bring about a stalemate."`
+char_but: `".........You're speaking in riddles by saying something I don't really understand,`
+char_but: ` but when it comes down to it, you're just trying to trick me because you can't say in red that something magical like a homunculus exists, right?"`
+char_ron: `"If I were to say in red that "witches exist", what would you do, Battler‐sama?"`
+char_but: `"...............mh.`
+char_but: ` ......That's what we're having this big fight over whether or not to believe, right?`
+char_but: ` If you told me that outright, there'd be nothing more to discuss.`
+char_but: ` It'd be game over."`
+char_ron: `"If I said "witches exist" in red, you would have no room for argument.`
+char_ron: ` However, since the reason would never have been made clear to you, Battler‐sama, you probably wouldn't accept it.`
+char_ron: ` However, after being told that in red, you would have no room for argument and would not have been shown any proof."`
+char_ron: `"In this situation, Battler‐sama,`
+char_ron: ` even though you wouldn't be able to admit defeat, you would have no way to make a counterargument, and it would become a deadlock.`
+char_ron: ` Even though checkmate would not have been reached, no more moves would exist."`
+char_ron: `"Since you would not be able to make your next move, it would never become Milady's turn,`
+char_ron: ` and the game would stop there for all eternity.`
+char_ron: ` As a result, Milady would be unable to force you to submit.`
+char_ron: ` ......That would be a deadlock situation."`
+char_ron: `"In order to avoid that,`
+char_ron: ` I am unable to answer questions of this form in red."`
+char_but: `"......So, to cut to the chase, you mean that questions that leave no room for discussion are prohibited?`
+char_but: ` Well, that makes sense, I guess.`
+char_but: ` If I was told "witches exist" in red, I'd have to give up from the start."`
+char_ron: `"I am pleased that you understand.`
+char_ron: ` I believe we might be able to work together if you ask a question of a different form."`
+char_but: `"......Can you respond to the repetition request she dodged?`
+char_but: ` About the number of people on this island."`
+char_ron: `"If Milady held back on the request, then of course I cannot respond.`
+char_ron: ` As Milady's furniture, I am unable to act too forward."`
+char_non: `Ronove made an exaggerated gesture, trying to act like a loyal retainer.`
+char_non: ` This guy's so shameless.`
+char_but: `"Tch.`
+char_but: ` Just when I thought you might be useful."`
+char_but: `"......I'll give up on that and search for a different question.`
+char_but: ` ...That's right.`
+char_but: ` I was forgetting to check something important.`
+char_but: ` .........This is a story about Beato's memories, right?`
+char_but: ` When did it happen?`
+char_but: ` It couldn't be happening right now, right?"`
+char_ron: `"Correct.`
+char_ron: ` {p:1:This is the world of 1967}.`
+char_ron: ` It is the world of 19 years ago."`
+char_but: `"............Hmmmmm..."`
+char_non: `Let's go through the story one more time.`
+char_non: `{n}I wonder if it couldn't be something like this.`
+char_non: `Grandfather had a person with whom he fell in unrequited love, called {f:5:Beatrice}.`
+char_non: `{n}And he confined her in this hidden mansion and continually courted her.`
+char_non: `{n}But she was stubborn and didn't say yes.`
+char_non: `Eventually, she grew pessimistic about being unable to escape from here...`
+char_non: `and probably, committed suicide.`
+char_non: `......And then,`
+char_non: ` ......her soul was put in a homunculus and......`
+char_non: `No, no, if I accept that, it's the same as accepting the witch.`
+char_non: `I can interpret that part like this.`
+char_non: `{n}She probably......left a daughter behind when she died.`
+char_non: `That talk about the soul being put in a new body...probably meant...`
+char_non: `that Grandfather raised that child believing it to be the reincarnation of {f:5:Beatrice}...`
+char_non: `...In that case, Beato must have existed on this island for at least the last 19 years as the 19th person, and then...`
+char_non: `...umm......`
+char_but: `"......I'm starting to get confused.`
+char_but: ` ...In any event, none of this leaves the realm of guesswork.`
+char_but: ` The only thing that I can definitely say in red,`
+char_but: ` is that in 1967, in a hidden mansion on Rokkenjima, {f:5:Beatrice} existed as a human.`
+char_but: ` That's all."`
+char_ron: `"That is correct.`
+char_ron: ` {p:1:In 1967, in a hidden mansion on Rokkenjima, {f:5:Beatrice}‐sama existed as a human}."`
+char_but: `"Oh, thank you.`
+char_but: ` That really helps."`
+char_ron: `"Congratulations.`
+char_ron: ` With this, you have made clear the existence of the piece known as the 19th person.`
+char_ron: ` The 19th human outside of the 18 who you can blame, just as you longed for."`
+char_ron: `"......A sacrificial sheep that you can shift the blame of any crime onto.`
+char_ron: ` And you must be so glad that it is Milady.`
+char_ron: ` Pu ku ku ku."`
+char_non: `Ronove laughed indiscreetly.`
+char_non: `Somehow, I didn't like his phrasing, so I didn't feel like laughing along with him.`
+char_but: `"......That's right.`
+char_but: ` Auntie Rosa said it.`
+char_but: ` ......‘{f:5:Beatrice} is dead’?`
+char_but: ` "I killed her"?`
+char_but: ` What does that mean...?"`
+char_ron: `"As for that, it may be faster to see the actual circumstances rather than listen to me tell you.`
+char_ron: ` Let us advance the clock a little more."`
+char_non: `Ronove pulled a stylish pocket watch from his pocket, and made to wind the crown.`
+char_non: `As soon as he did, I saw gold butterflies gather behind Ronove's back and take the form of a person.`
+char_non: `...Was it Beato?!`
+char_non: ` I quickly realized that it was someone else.`
+char_non: `It was her.`
+char_non: ` That oldest sister of the Seven Stakes, who loved tormenting me more than anything else.`
+char_non: `......If I don't think myself lucky to see that sexy ass, I won't be able to play along with their torture game...`
+char_rg1: `"Ronove‐sama.`
+char_rg1: ` So, you were still here.`
+char_rg1: ` This is an urgent call from {f:5:Beatrice}‐sama."`
+char_ron: `"My, my,`
+char_ron: ` what kind of urgent business could it be?`
+char_ron: ` ......It appears as though I have spent slightly too long chatting with you, Battler‐sama.`
+char_ron: ` Well then, Battler‐sama, if you will excuse me.`
+char_ron: ` Please continue to enjoy your game with Milady."`
+char_but: `"Yeah, yeah.`
+char_but: ` I'll enjoy it as best as I can.`
+char_but: ` ...'Cause the conversations are more lively with you than with Beato.`
+char_but: ` And you use the red more graciously.`
+char_but: ` Come talk again any time."`
+char_ron: `"............Battler‐sama.`
+char_ron: ` Despite how I look, I am Milady's furniture.`
+char_ron: ` ...I cannot do something that Milady does not wish.`
+char_ron: ` What I said in red was something that normally should have come from Milady's mouth.`
+char_ron: ` ...I did nothing more than announce the red truth in Milady's place as she sulked."`
+char_but: `"So she really was sulking then?`
+char_but: ` Ihihihi!"`
+char_ron: `"Pu ku kuku."`
+char_non: `Seeing me and Ronove incomprehensibly hitting it off, that Seven Stakes chick cocked her head slightly.`
+char_rg1: `"Ronove‐sama.`
+char_rg1: ` We are keeping {f:5:Beatrice}‐sama waiting.`
+char_rg1: ` Let us hurry."`
+char_ron: `"Yes, I will come immediately.`
+char_ron: ` Well then, Battler‐sama, I shall see you later.`
+char_ron: ` ......It appears that we have finally started getting along.`
+char_ron: ` As I thought, I have the feeling that we can become good friends."`
+char_but: `"If by that you mean partners at gossiping behind Beato's back."`
+char_rg1: `"Ronove‐sama!"`
+char_ron: `"Yes, yes.`
+char_ron: ` Then, if you will excuse me."`
+char_non: `Maybe it was because she really didn't like seeing him act friendly with me, or maybe it was because she had really been told to hurry.`
+char_non: `The Seven Stakes babe bellowed sharply at Ronove, and he laughed foolishly and disappeared, as if running away...`
+char_rg1: `"......Hmph.`
+char_rg1: ` How could I, the eldest sister of the Seven Stakes of Purgatory, be called on for this level of work!`
+char_rg1: ` ...{f:5:Beatrice}‐sama could easily have told one of the younger sisters, who look like they have so much free time, for something like this. Sheesh...!"`
+char_but: `"Why so grumpy, girl?`
+char_but: ` If you're hungry, eat a cookie or something.`
+char_but: ` Why don't I give you the last one?`
+char_but: ` Ihihi!"`
+char_rg1: `"......Hummmmm?`
+char_rg1: ` How thoughtful.`
+char_rg1: ` Then, shall I take one?"`
+char_non: `I lightly pushed the snack plate with the last remaining cookie on it over to her.`
+char_rg1: `"Thank you"`
+char_non: `As though coming as a replacement for the period at the end of the sentence, a sharp sound pierced the table...`
+char_non: `The nails on three of her fingers had sharply extended, and were stuck...`
+char_non: `a hair's breadth into the gaps between my fingers on the hand I had used to push the plate.`
+char_non: `......It had happened in an instant, ...so for a while, I didn't even realize that her fingernails had grown.`
+char_non: `The tips of those sharp nails were like blades with a red manicure.`
+char_non: `......The spaces between the bases of my fingers prickled.`
+char_non: `......Those razor‐like blades were sticking sharply into the back of my hand, and into the spaces between my fingers...`
+char_non: `By those three blades, my carelessly outstretched right hand was not even permitted to shake, and all I could do now was allow a single line of cold sweat to drip down.`
+char_but: `"............Wowee.`
+char_but: ` ...Isn't it about time you cut your nails, babe?"`
+char_rg1: `"Lucifer.`
+char_rg1: ` ......That is my noble name.`
+char_rg1: ` Honored furniture serving {f:5:Beatrice}‐sama, and the eldest sister of the Seven Stakes of Purgatory."`
+char_rg1: `".........I'm not like my disgraceful and cretinous younger sisters.`
+char_rg1: ` If you don't show the proper respect, you will regret it."`
+char_but: `"...How would I regret it?`
+char_but: ` I don't have a clue."`
+char_rg1: `".........Heheheheheh.`
+char_rg1: ` Stupid kid.`
+char_rg1: ` ...Do you really want me to play with you that much?`
+char_rg1: ` You really can't get me out of your mind?"`
+char_rg1: `"I'll thrust my stake deep, deep into you and make you really enjoy being gouged, got it......?`
+char_rg1: ` Hehehe{0}he{0}heh{0}heheh{0}he{0}hehehhh......!"`
+char_but: `".........You bitch.`
+char_but: ` One day I'll push you down and say that back to you."`
+char_rg1: `"Oh, really?`
+char_rg1: ` I'll be looking forward to that, then?`
+char_rg1: ` Ehhehe{0}heh{0}heheheh......`
+char_rg1: ` ...Ahhahaha{0}ha{0}ha{0}ha{0}ha{0}ha{0}ha{0}ha{0}ha{0}ha{0}ha{0}ha{0}hahaha...!!!"`
+char_non: `Rosa eventually regained her calm.`
+char_non: `The men wanted to hurry her into talking faster, but Kyrie intervened.`
+char_non: `...If something like she had just mentioned really had happened, ......it was an abominable past that she wouldn't want to remember.`
+char_non: `After taking several deep breaths with her hand over her chest, it seemed that she had more or less gathered the resolve to talk...`
+char_ros: `"......How old was I then, I wonder...`
+char_ros: ` ...Probably...middle school, or... ...I don't remember well.`
+char_ros: ` Anyway, I think I was about that old..."`
+char_rud: `"Which means... Maybe about twenty years ago?"`
+char_ros: `"Back then, my grades weren't very good, and Mother was always angry at me.`
+char_ros: ` ......I was trying to do my best in my own way,`
+char_ros: ` but I couldn't respond to Mother's expectations at all..."`
+char_cla: `"......Mother was always very strict with Rosa.`
+char_cla: ` I sympathized with her at the time."`
+char_eva: `"Hmm.`
+char_eva: ` You say that even though you were always talking behind her back."`
+char_hid: `"Would you give it a rest, Eva.`
+char_hid: ` So?`
+char_hid: ` Where did you meet {f:5:Beatrice}, Rosa‐san?!"`
+char_kir: `"Hideyoshi‐san, you mustn't rush her now.`
+char_kir: ` ......It's alright, Rosa‐san.`
+char_kir: ` Tell us at your leisure."`
+char_ros: `".........Thank you.`
+char_ros: ` ...It was a day when I had been scolded particularly harshly by Mother."`
+char_non: `Even though my tutor had promised to keep it a secret,`
+char_non: ` ...apparently, they told Mother all about how I had complained.`
+char_non: `Mother scolded me horribly, saying that I was a disgrace to the Ushiromiya family.`
+char_non: `......Of course, I was doing the best I could.`
+char_non: `But I had none of Krauss nii‐san's dignity,`
+char_non: ` I couldn't get excellent grades like Eva nee‐san,`
+char_non: ` and I had no leadership like Rudolf nii‐san.`
+char_non: `...I never stood out, didn't particularly excel at anything,`
+char_non: ` and I almost wanted to ask myself why I had even been born into the Ushiromiya family.`
+char_non: `I didn't know why I had been born.`
+char_non: `{n}...On that day, I had the experience of my mind going blank for the first time......`
+char_non: `For the first time since I was born,`
+char_non: ` ...I realized that in addition to facing or surrendering to my problems,`
+char_non: ` I had the third choice of running away.`
+char_non: `Even though I say run away, there was no way I could have left Rokkenjima and gone somewhere else.`
+char_non: `But, anyway, I wanted to run away from the mansion and the way I was at the time.`
+char_non: `......In a way, it was like running away from home, or maybe a half‐hearted suicide...`
+char_ros: `"......I wanted to disappear.`
+char_ros: ` Or maybe it was that child‐like form of resistance where I tried to make my parents worry by disappearing..."`
+char_ros: `".........I thought childishly that if I went into the center of the forest, I could escape from the Ushiromiya house,`
+char_ros: ` or maybe I could get back at them by getting lost and making them worry."`
+char_kir: `"So then, ......you went into the forest that you'd been told not to go into?"`
+char_ros: `"......Yes.`
+char_ros: ` After reaching the beach, I followed alongside the ocean.`
+char_ros: ` ......I didn't have any particular reason,`
+char_ros: ` ......but I felt that, if I went around to the opposite side of the island, there might be a place there that no one knew about,`
+char_ros: ` which might become a hidden house just for me."`
+char_rud: `"Starting by the beach, it'd be impossible to go all the way around.`
+char_rud: ` It becomes a cliff partway, right?`
+char_rud: ` There's no way you could pass that way."`
+char_ros: `"...Of course.`
+char_ros: ` So, I kept going wherever I could, and kept going deeper and deeper in.`
+char_ros: ` ......It was a horrible forest without any paths, but that was comforting to me then.`
+char_ros: ` ...If I could make it through such a dangerous forest, then it would be that much greater of an escape from the Ushiromiya family,`
+char_ros: ` ...which made me feel good."`
+char_eva: `".........How shameful.`
+char_eva: ` If you were scolded because of your grades, all you had to do was work harder."`
+char_cla: `"You mustn't say that.`
+char_cla: ` Doesn't Rosa have her talent as a designer instead?"`
+char_non: `Literally this could be taken as him covering for Rosa,`
+char_non: ` but everyone knew that Rosa's company was not making any profits.`
+char_rud: `"Quit it.`
+char_rud: ` Now isn't the time for sarcasm.`
+char_rud: ` ......And then you arrived there by coincidence...?`
+char_rud: ` ...{f:5:Beatrice}'s...`
+char_rud: `hidden mansion."`
+char_non: `Rosa nodded weakly......`
+char_hid: `"About how far did you walk.`
+char_hid: ` Could you show it to us on a map...?`
+char_hid: ` Natsuhi‐san, is there a map of this island?"`
+char_nat: `"No, not right here and now..."`
+char_ros: `"That would be impossible.`
+char_ros: ` I was just walking randomly.`
+char_ros: ` Even if you showed me a map, I wouldn't know.`
+char_ros: ` ......And twenty years have passed since then.`
+char_ros: ` I probably couldn't reach it again even if I went into the forest..."`
+char_hid: `".........Hmmmmmm..."`
+char_non: `Several people let out dejected sighs.`
+char_non: `It was vividly clear that in their haste,`
+char_non: ` they had thought that some hint related to the witch's epitaph, or maybe even the gold itself, might be resting there in that hidden mansion.`
+char_rud: `"The only part of Rokkenjima that got made ready for development is the area around the mansion.`
+char_rud: ` ...The rest is completely uncultivated, and it would probably take considerable effort to survey the entire island."`
+char_kir: `"But just knowing that it actually exists is helpful.`
+char_kir: ` It would take some money, but if we enlisted an aerial photography company to investigate,`
+char_kir: ` or asked the contractors who constructed this mansion about what happened at the time,`
+char_kir: ` we could probably find some way to search for it."`
+char_eva: `"Yes.`
+char_eva: ` ...There should be more ways to do it now that there isn't a question about whether it exists or not."`
+char_cla: `"......Mmhm.`
+char_cla: ` It is probably worth investigating right away."`
+char_eva: `"We will do that investigation together as siblings.`
+char_eva: ` We won't let you do it alone, Nii‐san."`
+char_non: `It wasn't certain that the gold was hidden in that secret mansion,`
+char_non: ` but it seemed that the fireworks between Krauss and Eva had already begun.`
+char_rud: `"Give it a rest for now, you two.`
+char_rud: ` ...Rosa, please continue."`
+char_ros: `"..................Yes."`
+char_non: `Blindly, randomly, I kept running, on and on.`
+char_non: `Suddenly, it felt like I had come across something like an animal trail.`
+char_non: `I had no idea how far I'd walked, and I was very tired,`
+char_non: ` so by then, I was just naturally taking the easiest path to walk on.`
+char_non: `As I did, .........suddenly, right before my eyes, a very, very tall fence appeared.`
+char_non: `It was a fence wonderfully adorned in a gothic style.`
+char_non: `For an instant, I spun around, thinking that I might have returned to the original mansion.`
+char_non: `Of course, there were fences around the mansion to stop us from entering the forest.`
+char_non: ` But this fence was decorated differently, ......and most of all, it was very tall.`
+char_non: `It probably reached a full two stories up.`
+char_non: `It was covered with ivy, and created a mysterious, solemn atmosphere...`
+char_non: `At the time, ......I believed the legend of the witch of the forest, {f:5:Beatrice}.`
+char_non: `I had been told that she was frightening,`
+char_non: ` but some of the servants told me that she would sometimes help you if you respected her.`
+char_non: `......Since I had started to lose confidence in how my life was going,`
+char_non: ` I believed that the only way I could be saved was by receiving her help.`
+char_non: `So that's what made me think it.`
+char_non: ` ......I believed that this was the fence of the mansion of {f:5:Beatrice}, the witch of the forest.`
+char_non: `I thought that if I could meet with {f:5:Beatrice}, she would definitely save me.`
+char_non: `So I thought I would try to go in.`
+char_non: `But that fence was very, very tall, and it didn't look like I could go over it.`
+char_non: `So I decided to walk around it.`
+char_non: `{n}I thought that if I did, I would eventually reach a gate.`
+char_non: `But it wasn't that easy.`
+char_non: ` The fence had a length to match its height, and no matter how far I went, I didn't reach a corner.`
+char_non: `It might have been enclosing a very massive area,`
+char_non: ` ...or maybe it just felt that way because my child's legs made it difficult to walk in the forest.`
+char_non: `Anyway, because I couldn't find a gate for a while,`
+char_non: ` I started to feel sad, as though the witch had rejected me...`
+char_non: `As I did, I eventually came upon a large tree, whose twisted root had bent the fence.`
+char_non: `I might get my clothes dirty, but if I crawled, it looked like I would be able to sneak in...`
+char_eva: `".........And that was the hidden mansion?"`
+char_ros: `"I don't know whether it was the hidden mansion we've been talking about...`
+char_ros: ` Still, at the very least, it wasn't a place that we know of."`
+char_non: `It wasn't as though I came out into a garden as soon as I passed the fence.`
+char_non: `{n}I had to continue through a lot more uncultivated forest after that.`
+char_non: `And then......the forest suddenly opened up.`
+char_non: ` And what appeared there was an unbelievably...`
+char_non: `.........fantastical scene.`
+char_non: `To think that Rokkenjima, where I had believed no one other than us lived,`
+char_non: ` ...had been hiding such a wonderful mansion...`
+char_non: `A beautiful flower garden spanned the front of the mansion.`
+char_non: `{n}It was a flower garden of a completely different design from the rose garden we know so well, and was very lovely.`
+char_non: `Of course, the mansion was also wonderful.`
+char_non: `...It was one or two sizes smaller than ours,`
+char_non: ` but it was a very elegant, and yet lovely mansion.`
+char_non: `Then, ...............I saw her.`
+char_non: `{n}I saw her sitting in a garden chair, positioned to give a view of the flower garden, wearing an elegant dress.`
+char_non: `It was that black dress embroidered in gold that we would later know from that portrait.`
+char_non: `......I hadn't seen an elegant dress like that except in fairy tales and on the stage of musicals.`
+char_non: `...That a person would be wearing it as their normal clothes... That in itself seemed quite fantastical.`
+char_non: `That magical scene was enough to make me lose my sense of reality.`
+char_non: `If someone had told me then that it was a dream,`
+char_non: ` I might have nodded obediently, and waited to wake up in my bed...`
+char_non: `Since, in my shock, I had forgotten to hide myself, she eventually noticed me.`
+char_non: `At first, her expression was quite listless,`
+char_non: ` but when she noticed me, her eyes opened very wide.`
+char_non: `...It was only natural—a guest that she didn't know had suddenly appeared.`
+char_non: `I automatically bowed my head, feeling that I should greet her and apologize for entering without permission...`
+char_bea: `"............Who are you?`
+char_bea: ` A new gardener?"`
+char_non: `Those were the first words she said to me.`
+char_non: `{n}...That calmed me down a little bit.`
+char_non: `{n}Because I realized that she could be talked with.`
+char_non: `Because I hadn't been turned into a frog just by meeting her eyes, like the terrifying witch in that fairy tale.`
+char_ros: `"......I,`
+char_ros: ` ......I'm sorry.`
+char_ros: ` ...I shouldn't have entered the garden without permission..."`
+char_bea: `"........................`
+char_bea: ` ......Who are you?`
+char_bea: ` Name yourself."`
+char_ros: `"I, ...I am Ushiromiya Rosa."`
+char_bea: `"......Ushiromiya.`
+char_bea: ` .....................Hoh.`
+char_bea: ` ...So you are one of Kinzo's family."`
+char_ros: `"Huh?`
+char_ros: ` Ah, ...yes!`
+char_ros: ` I'm Kinzo's daughter.`
+char_ros: ` G‐good afternoon...!"`
+char_non: `I was just a little surprised.`
+char_non: `{n}...After all, Father was a great man feared by everyone.`
+char_non: `And she had referred to him without using honorifics.`
+char_non: `{n}So she quickly became frightening.`
+char_non: `...After all,`
+char_non: ` if she could refer to my fearsome father that way, she must be a witch with incredible power.`
+char_non: `After staring at me curiously, she beckoned me to come over to her.`
+char_non: `And I obeyed, although filled with belated trepidation.`
+char_non: `{n}......After all, I thought I really might be turned into a frog.`
+char_non: `...And the closer and closer I got, the stronger that fear became.`
+char_non: `After all, ...I said it several times already, but,`
+char_non: ` ............that woman and her dress and the flower garden and the mansion,`
+char_non: ` ......that entire harmony was so fantastical and beautiful that it seemed separate from reality.`
+char_non: `It surely wouldn't have surprised me even if she was actually a witch...`
+char_non: `And I was truly lucky.`
+char_non: `{n}She didn't turn me into a frog.`
+char_non: `As I awkwardly stood there stock still, she motioned to an open chair, and urged me to sit down.`
+char_bea: `"Sit.`
+char_bea: ` Welcoming and speaking to those who visit this garden for the first time is my only pleasure.`
+char_bea: ` .........That said, I have nothing else to find pleasure in."`
+char_non: `As she said that, she showed an unhappy smile for just an instant.`
+char_non: `Because I was full of a strange mix of tension and excitement, I rudely asked her a question suddenly.`
+char_ros: `"...Umm,`
+char_ros: ` ............are you the witch of the forest,`
+char_ros: ` ...{f:5:Beatrice}......?"`
+char_bea: `"Indeed.`
+char_bea: ` I am {f:5:Beatrice}."`
+char_rud: `"As I thought.`
+char_rud: ` {f:5:Beatrice} actually existed..."`
+char_cla: `"...Did she look just like the portrait?"`
+char_ros: `"......Yes.`
+char_ros: ` Exactly like the portrait."`
+char_hid: `"So she wasn't just...`
+char_hid: `...a witch from Father's imagination..."`
+char_eva: `"And then, what did you talk with her about?"`
+char_ros: `"...As she prepared some tea, she asked me various things about myself.`
+char_ros: ` ......First, she was surprised that I had come through the forest.`
+char_ros: ` It seems she believed that many dangerous wolves lived outside the fence."`
+char_ros: `"...So when I told her I had reached this place by going through the forest, she was very surprised.`
+char_ros: ` She asked how I had managed to escape from the wolves—did I give them biscuits and they let me go?`
+char_ros: ` Or did I cover myself in a magic cloak, or...`
+char_ros: ` Those kinds of things, I think."`
+char_hid: `"Wahahaha.`
+char_hid: ` ...That sure sounds like a witch.`
+char_hid: ` What an interestin' person."`
+char_eva: `"Quiet, honey.`
+char_eva: ` ............It was a long time ago,`
+char_eva: ` but didn't Father threaten us, saying that wolves lived in the forest, so we shouldn't get close to there?"`
+char_cla: `"Yes, there was a time like that.`
+char_cla: ` Ridiculous.`
+char_cla: ` Even though Japanese wolves went extinct long ago.`
+char_cla: ` What a childish trick."`
+char_rud: `"I don't remember, though...?`
+char_rud: ` Did Dad really tell us something like that...?`
+char_rud: ` It was the witch of the forest, right?`
+char_rud: ` I don't think I've ever heard about wolves."`
+char_eva: `"You were still in elementary school.`
+char_eva: ` Don't you remember?"`
+char_eva: `"You actually went and replied that you'd want to try petting the wolves.`
+char_eva: ` So Father immediately gave up the wolf story and changed it to the story about the witch.`
+char_eva: ` Such obvious lies, ahahahahaha."`
+char_cla: `"Hahahaha.`
+char_cla: ` At the time, the witch story had a much more immediate effect on you, Rudolf, than the wolves.`
+char_cla: ` I remember it well.`
+char_cla: ` Don't you remember those nights when you clung to my back?"`
+char_kir: `"...*giggle*.`
+char_kir: ` I see, even Rudolf‐san used to have that cute period."`
+char_rud: `"Oh, put a lid on it.`
+char_rud: ` I was just a kid."`
+char_kir: `"......Well, anyway.`
+char_kir: ` If Father was the one who shut {f:5:Beatrice} up in there, it makes sense that he would use the same wolf story.`
+char_kir: ` To him, the vast forest of Rokkenjima was a wall that shouldn't be crossed,`
+char_kir: ` dividing his two incompatible worlds: the Ushiromiya family and his mistress's mansion."`
+char_cla: `"If you think about the height of that fence, it does seem that Father had turned the whole area, garden and all, into a giant jail cell.`
+char_cla: ` ......Just like a national border dividing his two separate worlds."`
+char_nat: `"...Forget the wolves, were there any kinds of stray dogs there at the time?`
+char_nat: ` It could have been a fence to protect against those."`
+char_eva: `"There are no wolves or stray dogs on Rokkenjima.`
+char_eva: ` Just as Nii‐san and Kyrie‐san are saying,`
+char_eva: ` that fence was probably a border between us and {f:5:Beatrice}."`
+char_hid: `"However, if she innocently believed the story about the wolves, that's pretty...naive.`
+char_hid: ` That's nothin' like the way I'd imagine a witch."`
+char_ros: `"......That's right.`
+char_ros: ` I also sensed that.`
+char_ros: ` ...She was very pompous, just like my image of a witch,`
+char_ros: ` ...but she was somehow very childish, and...`
+char_ros: `...how should I say it, too honest?`
+char_ros: ` ......She gave me the impression that she didn't know anything about the world."`
+char_ros: `"If I had to describe it, ...it was almost as though she had come from a fairy‐tale land.`
+char_ros: ` ......She was a truly mysterious person."`
+char_rud: `"......What happened after that?`
+char_rud: ` ...Did you end up talking about Dad at all?"`
+char_ros: `"Yes.`
+char_ros: ` Once every few days, sometimes on an arranged day and sometimes suddenly,`
+char_ros: ` Father would appear casually, and they would drink tea together, or take a walk together or something, she said.`
+char_ros: ` And that, by coincidence, she was by herself on the day I visited."`
+char_cla: `"I see.`
+char_cla: ` Truly a mistress, then.`
+char_cla: ` ...My, my.`
+char_cla: ` I don't know how much younger she was, but... not bad, Father."`
+char_nat: `"......I remain firmly convinced that it was not an indecent relationship."`
+char_eva: `"Gosh, you are an idiot. There's no way a lover's meeting between a man and a woman wouldn't have {i:some} sensuality.`
+char_eva: ` What happened next?`
+char_eva: ` What did you talk about after that?"`
+char_ros: `".........Because I had introduced myself, I then asked her about herself."`
+char_ros: `"...When I did, the atmosphere quickly grew depressing.`
+char_ros: ` ......How should I say it, she seemed very listless and lonely.`
+char_ros: ` ...It was the same expression as the one I had first seen on her face."`
+char_rud: `"Well, that's because she was his hidden mistress.`
+char_rud: ` If she just walked around wherever she liked, she might have been discovered by Mother.`
+char_rud: ` ......I'm sure the situation was almost like house arrest."`
+char_rud: `"Even though she had beautiful clothes, a beautiful mansion, and a garden, she must have felt very constrained.`
+char_rud: ` No surprise she felt it hard.`
+char_rud: ` .........And then?"`
+char_ros: `"There was definitely something on her mind.`
+char_ros: ` ......I remember getting the impression that it wasn't something that I could resolve just by talking to her,`
+char_ros: ` and feeling very sad about it as well."`
+char_ros: `".........She seemed to have forgotten that I was even there.`
+char_ros: ` ...She was gazing vaguely off into the distance, and was silent for a long, long time."`
+char_ros: `"...I thought that I must have said something wrong,`
+char_ros: ` ......but it didn't seem to be the type of atmosphere where I could offer words of apology...`
+char_ros: ` ......So, I too remained silent for a long, long time, until she remembered that I was there..."`
+char_non: `When she did, ......she muttered unexpectedly.`
+char_bea: `".........Are there really no wolves beyond the fence?"`
+char_ros: `"...Hmm?`
+char_ros: ` Y‐yes.`
+char_ros: ` I've never seen wolves even in a zoo."`
+char_bea: `"What is this "zoo"?"`
+char_ros: `"Ah, ...it's a place where they keep all kinds of animals.`
+char_ros: ` They're full of rare animals like elephants and giraffes and pandas."`
+char_bea: `"..............................`
+char_bea: ` ...Are there no wolves in a zoo?`
+char_bea: ` Then, umm, ...that might not be scary."`
+char_ros: `"Even if there were wolves, all of the animals are put in cages, so it's safe.`
+char_ros: ` So you can feel safe as you look at and learn about them."`
+char_non: `The witch of the forest, of all people, was for some reason scared of and didn't like wolves.`
+char_non: `I remember it looked pretty comical.`
+char_bea: `"..................`
+char_bea: ` ...How does that differ from myself?"`
+char_ros: `"............Huh?"`
+char_non: `She didn't even know about zoos.`
+char_non: `I explained how fun zoos could be,`
+char_non: ` but it was very difficult to get a person like her, who had never been to one, to understand...`
+char_non: `Quite the opposite, as I explained it to her, her expression grew increasingly dismal.`
+char_non: `...She couldn't see the difference.`
+char_non: `It seemed that, although this mansion surrounded by a high fence appeared at a glance to afford her a completely provided‐for life of comfort,`
+char_non: ` she couldn't see how she was different from the animals shut up in cages...`
+char_bea: `"Who am I?`
+char_bea: ` ......Everyone calls me {f:5:Beatrice}.`
+char_bea: ` ...And that does certainly seem to be the name of a great witch, as you say."`
+char_bea: `"......But that is not me.`
+char_bea: ` I cannot use any magic.`
+char_bea: ` ......I simply have the soul of that witch sealed inside my body."`
+char_ros: `"..................?"`
+char_non: `There was definitely something mysterious about her.`
+char_non: ` It wasn't just that she was somehow at odds with the world,`
+char_non: ` but it seemed that she truly believed that a thing called magic actually exists.`
+char_non: `I think she talked about various weird things, but I don't remember the details.`
+char_non: `All I thought was:`
+char_non: ` ......this might be a pitiful person.`
+char_non: `She was unable to leave this mansion of her own will, a prisoner without even realizing it.`
+char_non: `......And she didn't know anything about the outside world, didn't even understand who she was.`
+char_non: `......She probably vaguely understood herself that she was pitiful.`
+char_non: `But since she didn't know anything, it seemed that she couldn't realize that this was unhappiness.`
+char_non: `Nee‐san, long ago, when I told you that I felt sorry for a bird in a cage, I remember you said this to me.`
+char_non: `"A bird that only knows the inside of a cage doesn't long for the outside".`
+char_non: `But she wasn't a bird.`
+char_non: `{n}She was, ultimately, a human.`
+char_non: `Even if she had never been outside the cage, she understood that it wasn't the whole world.`
+char_non: `So,`
+char_non: ` .........I invited her.`
+char_ros: `"Do you want to try...`
+char_ros: `...going outside the fence?"`
+char_bea: `".........Th‐there really aren't any wolves?"`
+char_ros: `"There aren't.`
+char_ros: ` You'll definitely be safe."`
+char_bea: `"..............................`
+char_bea: ` ......I want to leave.`
+char_bea: ` But the gate is always closed."`
+char_ros: `"There's the place I came in through.`
+char_ros: ` There's a crack you can slip through."`
+char_bea: `"......If we go through there, is there a world outside?"`
+char_ros: `"Yes."`
+char_bea: `"........................There really aren't any wolves?"`
+char_ros: `"*giggle*.`
+char_ros: ` No, none at all."`
+char_bea: `".............................."`
+char_non: `I had only planned to invite her for a short walk,`
+char_non: ` ...but she kept looking over her shoulder at the mansion, as though she were seriously deliberating over something.`
+char_non: `Then I learned what she was preparing herself for.`
+char_bea: `"...............I...have had enough of this place.`
+char_bea: ` ......I want to go...outside.`
+char_bea: ` And I want to know...who I am, what's happening in this world,`
+char_bea: ` ...and the purpose for which I was born."`
+char_non: `I didn't know what her life had been like until then.`
+char_non: `It was probably something that she couldn't express easily.`
+char_non: `If it was harsh, she just had to say that she wanted to escape.`
+char_non: `{n}If it was sweet, she just had to say that she would stay.`
+char_non: `To liken it to something,`
+char_non: ` perhaps it was similar to how a hot fireplace on a winter day makes the air get thicker and thicker, giving you a headache...?`
+char_non: `Even though you know that you shouldn't keep things the way they are, you still need the courage to open the window and be tormented by the cold wind...`
+char_non: `She was starting to realize that she couldn't stay there forever.`
+char_non: `She was starting to realize that she had to go outside sometime.`
+char_non: `But, since she didn't know about the outside world,`
+char_non: ` to take that first step outside must have required an unimaginable amount of courage...`
+char_non: `And she had taken that into consideration, and resolved herself.`
+char_non: `She had put that resolution to go outside into words, for what was surely the first time in her entire life.`
+char_non: `...I hesitated slightly.`
+char_non: `{n}It had been decided that she would live here by Father.`
+char_non: `{n}It was as if she were Father's beloved bird in a cage.`
+char_non: `If I just let her escape,`
+char_non: ` ......wouldn't I be harshly scolded by Father...?`
+char_bea: `"I want to see."`
+char_ros: `".........Hm?`
+char_ros: ` See what?"`
+char_bea: `"I want to see...a zoo."`
+char_ros: `".....................ah."`
+char_non: `I was just a little surprised when she finally showed me a very soft smile.`
+char_non: `That might have been...`
+char_non: `an inner peace, coming from her newfound readiness to venture out from her cage.`
+char_non: `A soft smile which I wouldn't have imagined could have come out of that dark face...`
+char_bea: `"......When I speak with you, I keep hearing about things I don't know.`
+char_bea: ` ...I don't know about this thing called school, nor about zoos.`
+char_bea: ` I don't know about movie theaters.`
+char_bea: ` I don't know about amusement parks."`
+char_bea: `".........And I think, from the bottom of my heart, that I want to know about them.`
+char_bea: ` ...Will you take me there?"`
+char_ros: `"Huh? ......Y‐yes."`
+char_non: `...I was nervous about how I would do it and keep it a secret from Father,`
+char_non: ` ...but her face looked so happy, so I went along with her and nodded.`
+char_non: `But it seemed that the meaning behind my vague expression was not communicated to her.`
+char_non: `It seemed that she believed that I would really take her to all of those places if we left.`
+char_non: `She was pure and genuine.`
+char_non: ` ......She had probably never been tricked by anyone.`
+char_non: ` No, ......maybe it should be said that she hadn't been taught how to doubt.`
+char_non: `Her face was somewhat radiant, and yet pathetic.`
+char_non: `{n}...I wanted to somehow grant her modest wish.`
+char_bea: `"I...have had enough of {f:5:Beatrice}.`
+char_bea: ` I want to know who I am.`
+char_bea: ` I want to start out as a new human, not {f:5:Beatrice}."`
+char_bea: `"So, I want you to take me from here.`
+char_bea: ` .........I don't need tea anymore.`
+char_bea: ` I don't need this dress.`
+char_bea: ` I won't meet with Kinzo again.`
+char_bea: ` ......Please, take me from here.`
+char_bea: ` Rosa."`
+char_non: `However, that responsibility was one that a child such as me couldn't possibly bear fully.`
+char_non: `But her serious gaze and her brilliant smile,`
+char_non: ` ...almost as though an evil spirit had lifted from her,`
+char_non: ` ......made me feel a little courage start to rise up inside myself.`
+char_non: `This was definitely something that would get me in a lot of trouble.`
+char_non: `{n}......But it was definitely the right thing to do.`
+char_non: `I don't know how it will turn out, but......`
+char_non: ` ......I'll take her out.`
+char_non: `Of course, I won't be able to ask help from Father, and not Mother either.`
+char_non: `.........Should I talk to Onii‐sama or Onee‐sama?`
+char_non: `{n}No, what about that reliable Genji‐san, or...`
+char_non: `that's right, what about Kumasawa‐san, to whom I can always talk when I'm in trouble.`
+char_non: `I'm sure they'll be able to do something.`
+char_non: `Anyway, for now, I'll take her out of here.`
+char_non: `{n}Because this is no longer a place where she wishes to be.`
+char_non: `......And so, I took her to the crack in the fence and led her outside.`
+char_non: `She was all nervous, checking to make sure there were no wolves around,`
+char_non: ` but after that fear disappeared,`
+char_non: ` she seemed somehow to be having fun even just walking around this dense forest.`
+char_non: `Every time she found something, she would ask me about it.`
+char_non: `{n}And they were all really minor things.`
+char_non: `......What's that flower?`
+char_non: ` What's that leaf?`
+char_non: ` And that sound?`
+char_non: ` And that smell?`
+char_non: `It was really like...the inside of that fence had been her entire world.`
+char_non: `So, to her, who had stepped {i:out} of the world, this was.........`
+char_non: `......You know, it's strange.`
+char_non: `In the beginning, when I first saw her, I thought that she was the absolute incarnation of a witch relaxing by a witch's mansion.`
+char_non: `But now it was different.`
+char_non: ` Or actually, the complete opposite.`
+char_non: `......She had gone out of a world she had believed to be finite, and was full of joy at realizing for the first time that the world was endless.`
+char_non: `So everything she saw was new.`
+char_non: `{n}......It was almost as though she was the one who had been thrown into a fairy tale.`
+char_non: `If she was Alice, then I felt almost like a rabbit holding a watch......`
+char_non: `To her, it was probably a really fun walk, filled to the brim with excitement.`
+char_non: ` ...But as for me, the truth was, I was completely bewildered.`
+char_non: `......After all, I had walked randomly to get there.`
+char_non: `{n}So there was no way I could have known the way back to the mansion.`
+char_non: `There were no lights in the forest, and I hadn't brought a flashlight.`
+char_non: `{n}I realized that it would be terrible if it got dark while we were still like this, and grew impatient.`
+char_non: `She was too innocent,`
+char_non: ` and apparently, she couldn't understand at all how frightening it would be to face the night inside the forest.`
+char_non: `But I was the one who had brought her outside.`
+char_non: `{n}...Somehow, I had to take responsibility, and resolve this situation.`
+char_non: `So I thought.`
+char_non: ` ......That for now we should just go out to the sea.`
+char_non: `{n}If we then followed the coast around, eventually we should definitely be able to make it back to the mansion.`
+char_non: `However, that was much more of a problem than I had imagined.`
+char_non: `{n}...After all, I didn't have a map or a compass.`
+char_non: `There was no way I could walk in a straight line through an uncultivated forest, and I had immediately lost my sense of direction.`
+char_non: `I already had no clue which trail I had come by, and was completely lost...`
+char_non: `At this rate, night would definitely fall before I even knew where I was walking.`
+char_non: `But I didn't have the luxury to complain.`
+char_non: `Because that woman following behind me was so innocent and having so much fun.`
+char_non: ` ...Therefore, for the sake of her smile if nothing else,`
+char_non: ` I absolutely had to guide her out of this forest.`
+char_non: `Gritting my teeth so that I didn't show her a troubled face,`
+char_non: ` I pushed my way onward through the pathless woods.`
+char_non: `And, although we had various troubles, we were lucky enough to make it to the sea...`
+char_non: `At that time, I still didn't even have a clue where I was on the island,`
+char_non: ` but for the time being, I was just a little reassured, realizing that if I just went around this way, I would surely be able to return to the mansion.`
+char_non: `Of course, although I said that we reached the sea, we were on the top of a rocky cliff.`
+char_non: ` The beach was far below us.`
+char_non: `I was tired from walking around the forest for so long,`
+char_non: ` so I thought that even though it was a rocky beach, an open area would probably be much easier to walk in.`
+char_non: `So I planned to somehow go down the rocky cliff.`
+char_non: `{n}...It did look pretty dangerous, and I wondered if there was some other way.`
+char_non: `However, {f:5:Beatrice} agreed with my plan without any doubts.`
+char_non: `......Even though she was probably older than me,`
+char_non: ` ...she obeyed me truly obediently, almost as though she were some kind of chick who believed I was a mother bird.`
+char_non: `I searched to see if there wasn't some place where I could go down the cliff.`
+char_non: ` ...Then I found a place where the cliff had crumbled into a slope.`
+char_non: `.......It looked a little dangerous,`
+char_non: ` but if I went down on both hands and both legs, like I was crawling, I thought it would probably be okay.`
+char_ros: `"......Let's go down here.`
+char_ros: ` It'll be dangerous if you aren't careful,`
+char_ros: ` but for now, if we go down to the beach and walk along it, I think we can avoid getting lost any more."`
+char_bea: `"Mmhm.`
+char_bea: ` If you will do that, then let's go.`
+char_bea: ` I find this getting lost to be fun also.`
+char_bea: ` I'm very happy."`
+char_non: `.........She really had no sense of danger.`
+char_non: `{n}There was probably no mistake that she had lived a life without discomfort.`
+char_non: `Even though she knew it would get dark when night fell,`
+char_non: ` she couldn't imagine how dangerous the inside of a forest could be without a light.`
+char_non: `Furthermore, it seemed that she couldn't grasp at all how dangerous it might be if she fell from the cliff.`
+char_non: `I warned her once more to be careful.`
+char_non: `I cautiously examined the place where we could go down.`
+char_non: `{n}...It looked......pretty high up.`
+char_non: `{n}I think it might have been about ten meters down.`
+char_non: `If you looked at it from the bottom up, it would probably have looked shorter than the roof of the mansion.`
+char_non: ` But looking from the top, it felt almost like staring down from the Tokyo Tower's observation room.`
+char_non: `But {f:5:Beatrice} still appeared to be completely without fear.`
+char_non: ` ...It felt as though she had never even been taught that high places were dangerous.`
+char_non: `......No, maybe she truly believed that she was a witch,`
+char_non: ` and that she could fly, so there wasn't anything dangerous.`
+char_ros: `"Please be careful.`
+char_ros: ` ...It's pretty...high."`
+char_bea: `"Mmhm.`
+char_bea: ` I will be careful.`
+char_bea: ` I see there's a beach if we go down there.`
+char_bea: ` Is there an aquarium there?"`
+char_ros: `"No, there are no aquariums on this island.`
+char_ros: ` But I think there are lots of fish in the sea."`
+char_bea: `"I see.`
+char_bea: ` So there are fish.`
+char_bea: ` Are there, ...umm, whales and dolphins and penguins, like you talked about?"`
+char_ros: `"No, you would have to go to an aquarium for those.`
+char_ros: ` ......And there aren't any aquariums unless you leave this island."`
+char_bea: `"Is that so?`
+char_bea: ` ......But I look forward to it.`
+char_bea: ` What kind of fish are whales?"`
+char_ros: `"Umm, ...they're really big fish and...huh, aren't they mammals?`
+char_ros: ` And they spit out seawater."`
+char_bea: `"Hoh.`
+char_bea: ` Then the dolphins?"`
+char_ros: `"Umm, they're really smart fish and...{0}huh...{0}aren't they also mammals?`
+char_ros: ` They're really smart and they can be taught tricks and stuff."`
+char_bea: `"Hohhoh.`
+char_bea: ` Then what about penguins?"`
+char_ros: `"Umm, ...huh, weren't they birds...?"`
+char_bea: `"What's this?`
+char_bea: ` Didn't you say that there were fish in aquariums?"`
+char_ros: `"Ummm, ummm...`
+char_ros: ` Well, um, there isn't only fish, they're full of all kinds of things that live in the ocean."`
+char_bea: `"Hohhoh.`
+char_bea: ` I am really looking forward to that!`
+char_bea: ` .........nn—"`
+char_bea: `{a:c:`
+char_bea: `Wa, hyaa.}`
+char_bea: `She made...some might have described it as a funny,`
+char_bea: ` ...rushed and short voice,`
+char_bea: ` ...no, probably it was a scream, I think.`
+char_bea: `She suddenly made a sound like that.`
+char_bea: `......Her body separated from the cliff, and gently fell down.`
+char_bea: `I immediately thought to say to her.`
+char_bea: `{n}"How many times did I warn you to be careful!"`
+char_bea: `......It was the thought of a child.`
+char_bea: ` It was how a child immediately gets mad when something happens, trying to show that they are not at fault.`
+char_bea: `Of course, I said it too.`
+char_bea: `{n}Are you alright?`
+char_bea: ` How many times did I warn you......`
+char_rud: `"...............So,`
+char_rud: ` ...after she fell from the cliff,`
+char_rud: ` ...what happened?"`
+char_ros: `"..........................."`
+char_cla: `"......What happened to her?`
+char_cla: ` ...Rosa."`
+char_non: `Rosa fell silent.`
+char_non: ` ...Her gaze fell to her feet, ...as though she were seeing through the floor to some disgusting memory...`
+char_eva: `"She...died, right......?"`
+char_non: `Eva's brutal words were the ones that Rosa had most wanted to avoid.`
+char_non: `And when she was hit with them, ......she screamed in resignation.`
+char_ros: `"Yes, she died!!`
+char_ros: ` It was a rocky beach, many sharp and dangerous rocks lay exposed!!`
+char_ros: ` Her eyes were still open, the blood kept pouring out... Suddenly a red carpet was spreading out...!"`
+char_ros: `"I spoke to her, shook her!!`
+char_ros: ` But she refused to respond, not even a blink, ......no, she wouldn't even close her eyelids!!"`
+char_ros: `"It was my fault!`
+char_ros: ` She was wearing a dress, remember?!`
+char_ros: ` Even though I knew that her outfit was difficult to move in, I said that we should go down the cliff!!`
+char_ros: ` She was incredibly innocent, so she obeyed what I said without any doubts...!!"`
+char_bea: `"......How long do you plan on remaining dead?`
+char_bea: ` Open your eyes already.`
+char_bea: ` Honestly, just turning into a lump of meat without me."`
+char_but: `"I was just flirting with your friend the sexy‐assed chick.`
+char_but: ` ......More importantly, what is all this?"`
+char_bea: `"Mmm.`
+char_bea: ` It is as you see.`
+char_bea: ` ......I missed my footing, fell down,`
+char_bea: ` {i:and died}."`
+char_but: `"What did you say...`
+char_but: ` .........Even though you appeared as the 19th person,`
+char_but: ` ......you say you died......?"`
+char_but: `"Don't mess with me, that can't be...!`
+char_but: ` Auntie Rosa was a kid, and she was panicking.`
+char_but: ` It's not like there was a doctor.`
+char_but: ` She probably made a mistake, thinking you were dead, and you probably, umm, ......were in a state of apparent death, or something, but actually alive.`
+char_but: ` Right?!"`
+char_non: `It can't be.`
+char_non: ` She's obviously alive.`
+char_non: `{n}Otherwise, she wouldn't be here in front of me, right...?!`
+char_non: `...The kid‐aged Auntie Rosa was shaking {f:5:Beatrice}'s body, crying.`
+char_non: `I too stared into that face,`
+char_non: ` ...............but her eyes were still open, and it really was a corpse.`
+char_non: `...I wanted to brush it off with something vague like a state of apparent death,`
+char_non: ` ......but from any angle, there was nothing "apparent" about it; ...she really didn't look anything but dead...`
+char_non: `{f:5:Beatrice} had fallen upside‐down from a cliff of that height,`
+char_non: ` ......and her head had smashed against the pointed tip of those sharp rocks.`
+char_non: `............You would die, wouldn't you,`
+char_non: ` ......from that height,`
+char_non: ` ......on those rocks......`
+char_non: `But I can't accept that...`
+char_non: `No matter how dead she looks, ......she has to be alive...!`
+char_non: ` And she became this damn irritating witch!`
+char_non: ` That way, all of the inconsistencies fit.`
+char_non: `She'd been confined by Grandfather in a hidden mansion the whole time.`
+char_non: `And then to avenge herself, she planned out her revenge,`
+char_non: ` ......and would go on to commit a number of atrocious murders!`
+char_non: `Auntie Rosa probably just mistakenly thought that she was dead.`
+char_non: ` But she was really alive, and as soon as Auntie Rosa left, she miraculously started breathing again.`
+char_non: `......And then she somehow lived until today, and would open the curtain on the scene of her revenge.`
+char_non: `Otherwise, the facts don't fit together!!`
+char_but: `"......I won't let you trick me so easily.`
+char_but: ` Can you repeat it in red?!`
+char_but: ` That she died for certain!!`
+char_but: ` She has to be alive, right?!`
+char_but: ` It's obvious!!"`
+char_bea: `"How does {i:that} look like {i:being alive} to you?`
+char_bea: ` {p:1:She's definitely dead}!"`
+char_but: `".................................mgghhhh..."`
+char_non: `My theory that the 19th person was Grandfather's mistress, who was a human {f:5:Beatrice}, broke down.`
+char_non: `...I thought I had managed to segue from a defensive position into a counterattack, but......`
+char_but: `"......Then, ......who are you?`
+char_but: ` You just died, this very minute!`
+char_but: ` You aren't going to say that you revived yourself with magic, are you?!"`
+char_bea: `"*cackle*cackle*.`
+char_bea: ` I think that I've already explained it, though."`
+char_bea: `"......The me that is lying over there definitely has my soul,`
+char_bea: ` but that body was nothing more than a cage of flesh tying me to the physical world.`
+char_bea: ` And that cage of flesh was thus broken.`
+char_bea: ` ......Do you understand what that means?"`
+char_but: `"...............I don't have a clue anymore.`
+char_but: ` ......Keep having fun with your witch‐girl talk.`
+char_but: ` I'll listen instead of eating a cookie!`
+char_but: ` What the... It's empty.`
+char_but: ` Hey, could I get some more black tea?"`
+char_bea: `"*cackle*cackle*!`
+char_bea: ` Ronove.`
+char_bea: ` Our guest wants some black tea."`
+char_non: `When Beato clapped her hands, Ronove appeared.`
+char_non: `......Butlers sure are convenient.`
+char_ron: `"A refill, is it?`
+char_ron: ` Certainly.`
+char_ron: ` How much shall I pour you?"`
+char_but: `"Well, I've got more than enough to go with it.`
+char_but: ` Half will be fine."`
+char_ron: `"Filling it to the brim regardless is the English custom."`
+char_non: `Even though just enough to wet my throat would have been fine, he filled it to the top with tea.`
+char_non: `I turned my back to Beato, sipping it in silence...`
+char_ros: `"Wait... Open your eyes...!!`
+char_ros: ` {f:5:Beatrice}...!!"`
+char_non: `Rosa shook me,`
+char_non: ` ............no, shook the corpse that had once been me.`
+char_non: `I watched over her from a short distance away.`
+char_non: `Ah, ...so I fell from there and died.........`
+char_non: `I believed that was true for a while.`
+char_non: ` ...After that, I saw Rosa spend a long time beside my corpse, then watched her as she ran away.`
+char_non: `......Eventually, I realized that I was a different individual from that corpse...`
+char_bea: `".....................That's right.`
+char_bea: ` I am......me.`
+char_bea: ` ...So, I have finally been able to escape from Kinzo's restrictions..."`
+char_non: `Eventually, I felt the memory returning...`
+char_non: `{n}The fact that I was an Endless Witch who had lived for one thousand years.`
+char_non: `And then I remembered that I had been summoned by Kinzo, and for a long time, had been imprisoned by him...`
+char_non: `While I had been imprisoned in a cage of flesh, I had completely lost my memory as a witch.`
+char_non: `However, thanks to Rosa, if you could say that...`
+char_non: `Thanks to my accidental but fortunate death, I had now finally brought myself together......`
+char_bea: `"......Rosa.`
+char_bea: ` You are probably regretting that you brought about my death.`
+char_bea: ` But as for me, I could even thank you.`
+char_bea: ` *cackle*cackle*...!"`
+char_non: `Rosa was already nowhere to be seen.`
+char_non: ` Had she gone to call a doctor, or had she escaped from a scene which had become frightening?`
+char_non: `...That no longer matters.`
+char_non: `{n}That soulless shell is no longer worth anything.`
+char_non: `All that aside, ......how frail I am now.`
+char_non: `{n}Even this glorious midday sun is agony to me now.`
+char_non: `I destroyed my human form.`
+char_non: `{n}Then I changed it to several gold butterflies.`
+char_non: `......Yes, with my magic power as frail as it is now, this form is easier.`
+char_non: `And to escape even a little from the light of the sun, I rode the wind and lightly passed over the cliff.`
+char_non: `It will probably be somewhat cooler in the forest.`
+char_non: `Anyway, I'll take some time to recuperate, and regain my original power.`
+char_non: `......As I think of how I will pay Kinzo back for all he has done.`
+char_non: `Dancing alone through the air, I looked down at the shore one more time.`
+char_non: `On the rocky shore lay the figure I had once possessed, ......and that I would eventually regain.`
+char_non: `To regain the form of that physical body I have thrown away,`
+char_non: ` ...it will probably take more than one hundred, two hundred days.`
+char_non: `...It might require one thousand days, or maybe even more.`
+char_non: `However, I am the Endless Witch.`
+char_non: `{n}The Golden Witch who has lived for one thousand years.`
+char_non: `{n}Waiting any countable number of days is no problem at all.`
+char_non: `*cackle*cackle*. Oh, Kinzo.`
+char_non: `{n}You may regret that you are not here now.`
+char_non: `{n}No longer will you be able to capture me.`
+char_non: `{n}...*cackle*cackle*!`
+char_but: `".........And then, you changed into gold butterflies, hid in the forest, and waited for your magic power to be restored? Is that what you're saying?"`
+char_bea: `"That is correct.`
+char_bea: ` I take this form to sneer at you, but normally, it is easier magically for me to keep my form as gold butterflies."`
+char_but: `"Don't stress yourself and stay in an easy form.`
+char_but: ` I wouldn't mind not hearing your irritating laugh."`
+char_bea: `"*cackle*cackle*.`
+char_bea: ` When I turned into butterflies and slipped into the forest, it was already no longer possible for Kinzo to find me.`
+char_bea: ` ......However, Kinzo was not about to stand there doing nothing.`
+char_bea: ` Still, he would be unable to immediately prepare a way to catch me."`
+char_bea: `"Therefore, he first moved immediately to prevent me from leaving this island,`
+char_bea: ` and to keep me from regaining my power."`
+char_bea: `".........My, my. All I can say is that Kinzo's tenacity does defy the imagination.`
+char_bea: ` ...It is pretty tough to be loved by someone like that.`
+char_bea: ` *cackle*cackle*!"`
+char_but: `"A way to keep you from leaving after you became butterflies?`
+char_but: ` What, did he put a bug net around the entire forest?"`
+char_bea: `"Indeed.`
+char_bea: ` He did the magical equivalent.`
+char_bea: ` .........Did you know?`
+char_bea: ` On the sea in front of the harbor floats a reef, on which sits a small shrine of Eastern magic."`
+char_but: `"......Ah, that.`
+char_but: ` It was gone this year, though.`
+char_but: ` It was a small shrine built long ago by a mountaineering ascetic, right?"`
+char_ron: `"This island was originally an island of distortions.`
+char_ron: ` Magical beings and other beings of similar ilk were attracted to it.`
+char_ron: ` ......Milady herself is one of them, I imagine.`
+char_ron: ` How about some more tea?"`
+char_bea: `"*cackle*cackle*, please.`
+char_bea: ` ......They did harm to humans, and probably left several eerie legends behind them."`
+char_bea: `"That small shrine was built in ancient times by an Eastern mage who heard of them.`
+char_bea: ` A long time passed, and that power was lost.`
+char_bea: ` By repairing it, Kinzo restored this island's barrier, and once again tied me to this island."`
+char_but: `"......Can Eastern magic work on a Western witch like you?"`
+char_bea: `"Normally the affinity is poor.`
+char_bea: ` However, for the purpose of sealing me there, in a way, it might have been suitable."`
+char_bea: `"If it was Western magic, I would have some knowledge.`
+char_bea: ` For any barrier, there would have been some measures I could have taken.`
+char_bea: ` But Eastern magic is outside my area of expertise.`
+char_bea: ` It was as if I had been given chopsticks instead of a spoon for some soup I was trying to eat."`
+char_ron: `"In a space strongly controlled by Eastern magic, Western magic loses much of its power.`
+char_ron: ` It would likely have taken her a thousand days to regain her power even under normal circumstances,`
+char_ron: ` and now it would take her much, much longer."`
+char_but: `"......So you're trying to say that it took you twenty years to regain your power, and now you are revived, like this?"`
+char_bea: `"Those were horribly long years...`
+char_bea: ` I spent many days in the form of gold butterflies, found Kinzo's mansion, and watched over him every day.`
+char_bea: ` I lived through those days with no means to enjoy myself except to ponder how I would get back at him."`
+char_bea: `"......What was fortunate for me was that during those twenty years,`
+char_bea: ` Kinzo tried to use every magic to find and capture me, and failed in them all."`
+char_bea: `"A human cannot bring about miracles very many times.`
+char_bea: ` Even simply holding me captive for that long had been a miracle far above his place.`
+char_bea: ` It would be unthinkable for me to be captured like that multiple times."`
+char_but: `".........Grandfather said something in the previous game.`
+char_but: ` It was something like, magic dwells in probabilistic miracles."`
+char_bea: `"Mmhm.`
+char_bea: ` While Kinzo searched for a hidden art to capture me again, he ended up at that.`
+char_bea: ` ...............Then, he finally worked out the ritual involving the offering of thirteeen sacrifices to revive me again."`
+char_but: `"Thirteen......sacrifices..."`
+char_ron: `"That is the witch's epitaph.`
+char_ron: ` It is a poem of sacrifices.`
+char_ron: ` ......Six people on the first twilight.`
+char_ron: ` Two people on the second twilight.`
+char_ron: ` And then five more people on the fourth through eighth twilights.`
+char_ron: ` A forbidden ritual, involving the offering of a total of thirteen people as sacrifices...`
+char_ron: ` Those sacrifices are chosen randomly, and the one holding the ritual, Kinzo himself, is not an exception."`
+char_but: `"You're out of your mind...`
+char_but: ` Are you saying that all of the gruesome murders that occurred on this island were all part of a weird ritual?!!"`
+char_non: `I was vaguely thinking that this might be a possibility...`
+char_non: `But I can't just hear that this is the truth from a witch and a demon and say "Oh, really?" and accept it!`
+char_bea: `"There are eighteen people on Rokkenjima.`
+char_bea: ` Thirteen are sacrificed; only five are left alive.`
+char_bea: ` Then I revive."`
+char_bea: `"......In other words, the odds that Kinzo will be able to meet me again are probably around one third.`
+char_bea: ` He bet his own life on those odds,`
+char_bea: ` wishing for a reunion with me for the last bit of his remaining life."`
+char_but: `".........You're saying he gathered our family for the sake of that fucked‐up ritual?!`
+char_but: ` Oh, yeah, real fucking funny!!`
+char_but: ` Don't say stuff like that, damn it!!"`
+char_bea: `"It was according to the contract from the beginning.`
+char_bea: ` When Kinzo's life ended,`
+char_bea: ` all of the gold I had lent him, and all of the assets that Kinzo had created, were to be received by me."`
+char_bea: `"......Kinzo put me through a nightmareish ordeal,`
+char_bea: ` but thinking back on it now, it was an extraordinary period, even amid the past thousand years.`
+char_bea: ` After all, the natural enemy of a witch is boredom.`
+char_bea: ` To Kinzo, who offered me a chance to run away from that for several decades,`
+char_bea: ` yes, considering that among other things, I might have a slight debt to him."`
+char_bea: `"I decided to go along with Kinzo's game.`
+char_bea: ` And so, first off, Kinzo returns to me the Ushiromiya family Head's Ring.`
+char_bea: ` It is the house revived by my gold, you see."`
+char_bea: `".........Then I choose thirteen people arbitrarily as sacrifices.`
+char_bea: ` And as that unfolds, you people are thrown into total confusion,`
+char_bea: ` and show me various aspects of the fabric of human relationships as you stand against me, which gives me great pleasure.`
+char_bea: ` I really do like this game of Kinzo's!`
+char_bea: ` *cackle*cackle*."`
+char_but: `"Aaaaaaaaaahh!!`
+char_but: ` I definitely won't believe in that kind of magic story!`
+char_but: ` ......Then who are you?!`
+char_but: ` You fell off a cliff and died, dammit!`
+char_but: ` Your soul slipped out, became butterflies, and went to the forest?`
+char_but: ` That's all a load of bullshit!!"`
+char_but: `"But you are here!`
+char_but: ` Who are you?!!`
+char_but: ` Aren't you the 19th person?!"`
+char_bea: `"That is true, I most surely am the 19th person.`
+char_bea: ` *cackle*cackle*cackle*!`
+char_bea: ` But it's no good, I'm afraid...?`
+char_bea: ` It's no goddamn good at all!!"`
+char_bea: `"`
+char_bea: `{p:1:There are no more than 18 humans on this Rokkenjima}!"`
+char_but: `"Wha, ...............what did you saaaaaaay......`
+char_but: ` So you're saying......the X of the 18+X doesn't exist?!`
+char_but: ` Are you saying the piece that I took...{0}{nobreak:the X}...{0}doesn't exist?!"`
+char_ron: `"Pu ku ku ku...`
+char_ron: ` That is what it means.`
+char_ron: ` You have my condolences.`
+char_ron: ` ...However, Milady, you truly are a fast worker.`
+char_ron: ` I thought you would let him flounder around a little more before turning everything over at the end.`
+char_ron: ` Well then, Battler‐sama, would some more tea be agreeable to you?"`
+char_but: `"I, I don't want any, damn it!!`
+char_but: ` I don't believe!`
+char_but: ` The culprit can't be one of the 18!"`
+char_but: `"Then, what the hell are you, why are you here?!!`
+char_but: ` If the 19th person doesn't exist, then are you saying you're one of the 18 in disguise?!"`
+char_bea: `"*cackle*cackle*!`
+char_bea: ` For you, although you are reluctant to use it,`
+char_bea: ` doubting one of the 18 will serve as a final escape route, much like castling."`
+char_bea: `".........However, for me, the hard part is just beginning.`
+char_bea: ` You need only throw away appearances,`
+char_bea: ` and you can prepare a culprit freely amid the 18 people!`
+char_bea: ` Finding a route through those 18 pieces,`
+char_bea: ` in order to checkmate you and force you to accept me,`
+char_bea: ` .........will be truly difficult."`
+char_but: `"Like hell I'd do that!!`
+char_but: ` I won't doubt any of the 18!`
+char_but: ` I don't want to doubt!!`
+char_but: ` Have I really been cornered here again...?!`
+char_but: ` Damn it, damn it damn it!!"`
+char_bea: `"It looks like my game with you, which has lasted three rounds, is finally entering the endgame, doesn't it?`
+char_bea: ` There's nowhere to run anymore, you know?`
+char_bea: ` *cackle*cackle*!`
+char_bea: ` You don't want to doubt any of those beloved people in the 18, riiight? I can take that burden from you if you want?`
+char_bea: ` And yet, why do you refuse me?"`
+char_bea: `"They say you should play the opening like a book, the middle game like a magician,`
+char_bea: ` and the endgame like a machine.`
+char_bea: ` I'll corner you from here on.`
+char_bea: ` Slowly, carefully, ...surely.`
+char_bea: ` Or, on the other hand, would it be better if I pressed you all at once, as would be fitting for you?"`
+char_bea: `"That should suit you, let's do that.`
+char_bea: ` I already have a thorough knowledge of which methods of attack you cannot handle!`
+char_bea: ` *cackle*cackle*cackle* hihihi{0}hi{0}hi{0}hi{0}hi{0}hihihi!!"`

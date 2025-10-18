@@ -1,0 +1,651 @@
+char_wil: `Quadrillion.`
+char_wil: `There's only one place you'll find that word on Rokkenjima.`
+char_wil: `Gold butterflies flitted from shadow to shadow, dodging raindrops.`
+char_bea: `"......Unless my memory is mistaken, this is probably the place."`
+char_non: `It was......the chapel.`
+char_non: `{n}That mysterious building, one of the oldest on Rokkenjima, which had been built at the same time as the mansion.`
+char_non: `It was called the chapel, but not once had Kinzo used it for worship, and the members of the family had never been allowed inside.`
+char_non: `There were strict orders that none approach it without reason, and its purpose was always a mystery.`
+char_non: `However, any mystery will lose its luster after several decades.`
+char_non: `At some point, everyone forgot the chapel even existed,`
+char_non: ` and that splendid building passed from the thoughts of Rokkenjima's residents......`
+char_non: `Of course, this had been true for Beato as well.`
+char_non: `Beato, who hated boredom, had no desire to approach places that humans never went.`
+char_non: `Her last memory of the place was of the time she went in there to taunt Shannon as she tried to clean.`
+char_bea: `"......There can be no doubt.`
+char_bea: ` That is it.`
+char_bea: ` ......Quadrillion."`
+char_non: `Beato looked up......above the door of the chapel.`
+char_non: `{n}There was a relief displayed over an arch.`
+char_non: `English words were written there.`
+char_bea: `"‘You will be blessed only at a probability of a Quadrillion to one’.`
+char_bea: ` .........Heheh.`
+char_bea: ` So, you thought that was the probability of someone solving this riddle...?"`
+char_non: `This chapel was built long ago.`
+char_non: `If there is a mechanism like the one I imagine,`
+char_non: ` ......Kinzo must have prepared that epitaph riddle many decades ago.`
+char_non: `He must have been planning to use it as a ritual for choosing a fitting successor all this time.`
+char_non: `......However, that ritual is now a ritual to open the door to the Golden Land and to my resurrection.`
+char_non: `When I snapped my fingers,`
+char_non: ` the ground bulged, and several dead trees sprouted out of it, curving and twisting like snakes.`
+char_non: `They twisted around each other to form a ladder, which leaned itself against the door.`
+char_bea: `"If my guess is right, ......there's some sort of mechanism in that relief."`
+char_non: `I slowly climbed the ladder.`
+char_non: `Because of the size of the door, the relief was very high up.`
+char_non: `This close up, it looks much bigger than it did from the ground.`
+char_bea: `"............Come to think of it, whenever we cleaned the chapel,`
+char_bea: ` ......this relief was the only thing that Genji always made sure he polished himself.`
+char_bea: ` ......I always wondered why he didn't leave something so trivial to the younger servants."`
+char_non: `I thought it strange, but nothing more.`
+char_non: `The Master treasured this relief, so the head servant cared for it himself.`
+char_non: ` ......I always accepted that excuse.`
+char_non: `But now, I understand.`
+char_non: `{n}There must be a trick to this relief.`
+char_non: `And Genji polished it himself to make sure that no one else accidentally found out......`
+char_bea: `"So, from this Quadrillion, I am to sacrifice the six letters chosen by the key......?"`
+char_non: `I prodded and played with the letter "Q".`
+char_non: `My fingertips were soon covered with dust.`
+char_non: ` However, I quickly realized that something felt strange about it.`
+char_bea: `"......Don't tell me this letter...`
+char_bea: ` ......No, ......it had to be like this.`
+char_bea: ` There would be no other way to offer up sacrifices......"`
+char_non: `Beato grabbed hold of the letter "Q", and after experimenting with different levels of force,`
+char_non: ` ......the letter came out with a scraping sound.`
+char_bea: `"Just......as I thought........."`
+char_non: `Here's the "Q" I pulled out.`
+char_non: ` And there's a wedge—no.`
+char_non: ` It's a key.`
+char_non: `A key was attached to the back of the "Q", and that had been stuck into a keyhole in the relief.`
+char_bea: `"......I see......`
+char_bea: ` In that case, I know what to do next.`
+char_bea: ` ......Very good, this "Q" key is a wrong answer.`
+char_bea: ` Away with you."`
+char_non: `Beato carelessly tossed the "Q" key aside.`
+char_non: `This was the first sacrifice.`
+char_non: `She kept on pulling out the keys for the six letters representing "the key".`
+char_bea: `"......So, "a" will also be sacrificed.`
+char_bea: ` ......And both "i"s.`
+char_bea: ` ......And then the "n" at the end."`
+char_bea: `"Now, I only sacrifice one "l", ......but unfortunately, there are two "l"s here."`
+char_non: `There were two "l"s.`
+char_non: ` I didn't know which I should sacrifice.`
+char_non: `I tried pulling both out, but the keys were of different shapes.`
+char_non: `So, one is a right answer, and one is a wrong answer.`
+char_bea: `"Well, there are only two.`
+char_bea: ` ......If I make a mistake, I can just try the other one."`
+char_non: `Unless messing up sets off a trap that blows up the island, of course.`
+char_non: `Thinking it a waste of time to sit here worrying, I decided on the "l" on the right and pulled it out.`
+char_non: `Five letters remained in the word.`
+char_bea: `"And now, the first twilight is over.`
+char_bea: ` ......On to the second twilight."`
+char_non: `On the second twilight, those who remain shall tear apart the two who are close.`
+char_bea: `"The "d" and "r" are close.`
+char_bea: ` What does it mean to tear them apart...?`
+char_bea: ` Do I pull them out?"`
+char_non: `But if I do, there will only be three letters left.`
+char_non: `By this point, I was able to make a good guess at what the "gouge and kill" lines from the fourth twilight onwards meant.`
+char_bea: `"Gouge and kill probably means to turn the keys and take them out.`
+char_bea: ` In that case, the parts about going from head to leg must mean starting at the left and going right."`
+char_non: `If that's the case, five letters have to remain on the board.`
+char_non: `{n}In other words, "tear apart" doesn't mean kill.`
+char_bea: `"If so, then we can read "tear apart" to mean putting a gap between the "d" and the "r".`
+char_bea: ` ......But how?`
+char_bea: ` Once again, there are two ways to do it..."`
+char_non: `Do I remove the "d" and move it to the left?`
+char_non: `{n}Do I remove the "r" and move it to the right?`
+char_non: `......After pondering this for some time, I realized that both choices were wrong.`
+char_bea: `"No.`
+char_bea: ` That's not right.`
+char_bea: ` I've had it wrong since I removed that "l"."`
+char_non: `A short while ago, I removed the right of the two "l"s.`
+char_non: `{n}However, if I had removed the left one...`
+char_non: `......It would look like this.`
+char_non: `If you line it up this way, it's easy to see the next step.`
+char_non: `{n}The "r" gets shifted to the right.`
+char_non: `This way, all of the letters are spread out evenly.`
+char_non: `{n}This must be it.`
+char_bea: `"And this next part......is another tough one.`
+char_bea: ` ......Praise my name...?"`
+char_non: `It's already clear that this is a word game.`
+char_non: `Those who remain shall praise my noble name.`
+char_non: `I am supposed to do something with the remaining five letters.`
+char_non: ` Most likely, rearrange them.`
+char_bea: `"......‘u’, "d", "r", "l", "o"...`
+char_bea: ` ......Can I do something with these five letters to give them some sort of meaning?"`
+char_non: `Praise...my name.`
+char_bea: `"Gh.`
+char_bea: ` ......How can I get stuck after coming so far......?`
+char_bea: ` How are these five letters supposed to praise a name...?!"`
+char_non: `That man's name is Ushiromiya Kinzo.`
+char_non: `{n}Is the "u" part of Ushiromiya......?`
+char_non: `No, several letters don't match, and there aren't nearly enough letters to make Ushiromiya...`
+char_bea: `"One thing that is certain... "My name" must refer to Kinzo.`
+char_bea: ` ......Then, does the "u" stand for Ushiromiya after all?`
+char_bea: ` Like an initial.`
+char_bea: ` ......Then what do the "d", "r", "l", and "o" stand for?`
+char_bea: ` They can't mean Kinzo.`
+char_bea: ` Do the "r" and "o"......stand for Rokkenjima...?`
+char_bea: ` The master of Rokkenjima, Kinzo......`
+char_bea: ` ......Hmm, not nearly enough letters......"`
+char_non: `This riddle left me totally confused.`
+char_non: `{n}However, there were only five letters left.`
+char_non: `There can't be so many possible combinations of those letters.`
+char_non: ` I could use process of elimination.`
+char_non: `Thinking I'd play around with it, I pulled out the "u".`
+char_non: `......There were four letters left.`
+char_non: ` "d", "r", "l", and "o".`
+char_bea: `"...................................."`
+char_non: `My idea that the "u" stood for Ushiromiya was like a heavenly oracle.`
+char_non: `When I removed the "u", I thought of making a word with the remaining four letters.`
+char_non: `"d", "r", "l", and "o".`
+char_non: `Those four letters spun around in my head, changing their orders,`
+char_non: ` ......and led me to a single English word that would serve to "praise" Kinzo...`
+char_bea: `"It's lord.`
+char_bea: ` ......Lord...!"`
+char_non: `I had absolutely no basis for it.`
+char_non: ` ......However, it was like a flash of inspiration.`
+char_non: `I quickly changed the letters around before that flash faded from my mind.`
+char_bea: `"‘l’, "o", "r", "d"!`
+char_bea: ` Lord!`
+char_bea: ` "u"!`
+char_bea: ` Ushiromiya!`
+char_bea: ` ......Lord Ushiromiya! How do you like that?!"`
+char_bea: `"On the fourth twilight, .........gouge the head...`
+char_bea: `.........oho?!"`
+char_non: `It was a key, so it wouldn't turn if it was the wrong one.`
+char_non: `But it did turn.`
+char_non: ` I could gouge it...!`
+char_non: `With a sound of scraping stone, I gouged the first letter, the "l", ......and then pulled it out.`
+char_bea: `"Next! The fifth twilight...!`
+char_bea: ` Gouge the chest......and kill......!"`
+char_non: `The "o" was gouged and pulled out easily.`
+char_non: `Then, the "r".`
+char_non: ` Next, the "d".`
+char_non: ` And finally, the "u".`
+char_non: `When I turned the key of the "u", I could feel a resistance, as though some mechanism had been activated.`
+char_non: `I waited for something to change, ......but nothing did.`
+char_non: `However, I had felt something happen.`
+char_non: `{n}A secret door or something must have opened up somewhere around here.`
+char_non: `......Waiting around won't accomplish anything.`
+char_non: `I've probably done everything I can here......`
+char_non: `All of the letters in "Quadrillion" had been removed.`
+char_bea: `"On the ninth twilight, ......the witch revives, and none shall be left alive......"`
+char_non: `So now...has the witch...have I...revived......?`
+char_non: `The tenth twilight.`
+char_non: `{n}The journey ends, and you shall reach the Home of the Gold......`
+char_non: `When I stepped down off the ladder and looked around,`
+char_non: ` ......I immediately noticed that small change.`
+char_bea: `"......That lion statue............"`
+char_non: `At some point, the lion statue in front of the chapel had turned to face a different direction.`
+char_non: `......What an elaborate mechanism...!`
+char_non: `Did Kinzo plan up this extravagant device back when he first started building on this island......?`
+char_non: `I walked up to the lion statue and stared at it.`
+char_non: `{n}Other than the fact that it was pointing a different direction, nothing had changed.`
+char_non: `{n}In that case, is the lion looking at something in particular now......?`
+char_non: `I followed its line of sight.........and saw another lion statue.`
+char_non: `And that lion statue had also changed its direction.`
+char_bea: `"I see......`
+char_bea: ` So, let the lions guide you.`
+char_bea: ` ......As elaborate as ever, I see, Kinzo."`
+char_non: `I wasn't complaining anymore.`
+char_non: `......I felt a bit of respect and awe at Kinzo for setting up such an intricate device...`
+char_non: `and having it go undiscovered for all these years.`
+char_non: `There were lion statues standing like guards at the entrance and the corners of the chapel.`
+char_non: `The direction they faced had changed, pointing around to the back of the chapel.`
+char_non: `There was something there.`
+char_bea: `"....................................`
+char_bea: ` ............Hoh........."`
+char_non: `It was no longer a surprise.`
+char_non: `This was after the mechanism in the relief.`
+char_non: ` After being guided by the lions.`
+char_non: `So, when a gaping open secret passageway appeared, .........with stairs leading down to the darkness below, ......it wasn't surprising to me anymore.`
+char_bea: `"So, .........is this the entrance to the Golden Land, Kinzo......?!!"`
+char_rio: `".........Did you find it...?`
+char_rio: ` Grandfather's......gold......?"`
+char_cur: `"Yes.`
+char_cur: ` .........At the end of my long, long journey......was the Golden Land."`
+char_wil: `"According to the previous games, there was an underground VIP room there, along with ten tons of gold, right?"`
+char_cur: `"Yes.`
+char_cur: ` After going down a rough stairway, ......there was a door at the end of the passage.`
+char_cur: ` Inside, it was beautifully furnished, a true VIP room."`
+char_wil: `"......And was the gold all you found there?"`
+char_cur: `"Yes, at the time......`
+char_cur: ` It would be a lie to say that I was not dizzied by the sight of all that gold stacked high..."`
+char_bea: `"............Is this...`
+char_bea: `...real......?"`
+char_non: `I lightly touched the pile of gold with my finger.`
+char_non: `{n}It was hard...and cold.`
+char_non: `I had almost thought that it might crumble like a sandcastle if I touched it.`
+char_non: `Now, there could be no doubt.`
+char_non: `{n}This certainly was......a ten ton pile of gold ingots.`
+char_bea: `"......Haha,`
+char_bea: ` ...............ha......"`
+char_non: `Considering the amount of gold I had just found, I figured I ought to be crying out in delight.`
+char_non: `......I didn't really feel like laughing, but I thought it only good manners to do so in a situation like this,`
+char_non: ` so I forced it out.`
+char_non: `Because of this, only a few feeble laughs slipped from my mouth.`
+char_non: `At that moment, even stronger than any delight...`
+char_non: `was a feeling as though I'd entered a place I wasn't supposed to be...`
+char_non: `For a while, all I could do was stand there shocked, unsure what I should do now that the epitaph's riddle had been completed.`
+char_non: `Then, I heard approaching footsteps.`
+char_non: `They were coming from the stairway I had entered by.`
+char_non: `Someone was coming.`
+char_non: ` Could it be...Kinzo?`
+char_non: `If he finds out I've been in a place like this, won't I get scolded harshly......?`
+char_non: `I thought about hiding and pretending this never happened, but my legs wouldn't move.`
+char_non: `I kept standing there, stunned, in front of the pile of gold......as the footsteps drew closer and closer...`
+char_bea: `".................................!"`
+char_non: `The door opened, ......and I saw who it was.`
+char_non: `......It............wasn't Kinzo.`
+char_gen: `"................................."`
+char_bea: `".........You......"`
+char_gen: `"......Did you reach this place by your power alone?"`
+char_bea: `"I‐......indeed..."`
+char_gen: `"................................."`
+char_non: `For some time, Genji stared at Beato in silence, as though he was calculating something.`
+char_non: `Then, he slowly clapped his hands together.`
+char_non: ` ......He did it again, over and over.`
+char_non: `It took quite a long time before I realized that he was applauding me...`
+char_gen: `"The Master has said that he will hand over the gold and the headship to the first person who solves the epitaph.`
+char_gen: ` ......And, he believed that this person would be {f:5:Beatrice}..."`
+char_bea: `"......{f:5:Beatrice}......`
+char_bea: ` .........Me......?"`
+char_gen: `"This is fate.`
+char_gen: ` .........It is fate that brought you to this day."`
+char_bea: `".............................."`
+char_non: `I didn't really understand what Genji was saying.`
+char_non: `The shock of seeing the gold still had me paralyzed...`
+char_gen: `"......Come this way."`
+char_bea: `"O‐okay......"`
+char_non: `Genji opened a closet.`
+char_non: `Inside it was a dress form wearing a beautiful dress made of black cloth and golden stitching.`
+char_non: `When I saw it, I understood immediately.`
+char_non: `......It was the witch's dress.`
+char_non: `The black dress worn by the {f:5:Beatrice} in the portrait......`
+char_gen: `"Change into this."`
+char_bea: `"......This is.........."`
+char_gen: `"It is something that.........you once wore."`
+char_non: `I've never worn a dress like this.`
+char_non: ` However, I understood what Genji meant.`
+char_non: `This dress was one that {f:5:Beatrice} once wore.`
+char_non: `And the one who shows a miracle by solving the epitaph is {f:5:Beatrice}.`
+char_non: `By reaching this room, .........I had succeeded the position of the real {f:5:Beatrice},`
+char_non: ` the one in the portrait.`
+char_non: `Why do I call myself {f:5:Beatrice}?`
+char_non: `Because the name of the Golden Witch who rules over Rokkenjima's night is {f:5:Beatrice}.`
+char_non: ` ......That's right.`
+char_non: ` I was never the real {f:5:Beatrice}.`
+char_non: `I was a different witch, stealing the name of the witch from Kinzo's delusions.`
+char_non: `And now, ......I have become the real {f:5:Beatrice}......`
+char_non: `By solving the epitaph's riddle, I would achieve my resurrection.`
+char_non: `{n}......I was the one who decided on that rule, or so I thought...`
+char_non: `But as it turns out, ......this really {i:was}.........a ritual to resurrect {f:5:Beatrice}...`
+char_non: `I believed that I could create my own fate with magic.`
+char_non: `{n}I was a master of that magic, ......yet fate had led me here by the hand...`
+char_non: `At this moment, I was forced to truly accept and believe in this word called "fate"...`
+char_bea: `"And after I put this on.........?"`
+char_gen: `"......You will go to the Master.`
+char_gen: ` Ready yourself."`
+char_gen: `".........Wait here."`
+char_bea: `"......O‐...okay."`
+char_gen: `"My lord.`
+char_gen: ` It is Genji."`
+char_non: `After Genji knocked, the sound of the study's door unlocking could be heard.`
+char_non: `After a single glance telling me to wait, Genji entered alone.`
+char_kum: `"I cannot believe that this day has come......`
+char_kum: ` Fate can be such a strange thing......"`
+char_non: `Kumasawa was with us too.`
+char_non: `I thought this dress, which didn't really suit me, would lead to a lot of jokes, ......but she didn't laugh at me at all.`
+char_non: `On the contrary, when she saw me, ......her expression had turned stern, as though a long‐awaited day had finally come.`
+char_non: `......My heart raced.`
+char_non: `It wasn't supposed to matter who solved the epitaph.`
+char_non: ` There shouldn't be anything strange about me solving it......`
+char_non: `Everyone else maintained solemn expressions, ......and that, along with everything else, made this feel like some sort of grand ceremony.`
+char_non: `The suffocating silence continued.`
+char_non: `Eventually, the door opened, and Genji peeked out.`
+char_gen: `".........Please enter,`
+char_gen: ` .........{f:5:Beatrice}‐sama."`
+char_non: `He was saying those words to me, ......but not to the person I had been until a short while ago.`
+char_bea: `"....................."`
+char_kum: `"Go ahead,`
+char_kum: ` ......{f:5:Beatrice}‐sama..."`
+char_non: `Kumasawa also urged me forward with a respectful bow.`
+char_non: `{n}Kinzo was probably waiting for me inside.`
+char_non: `What expression should I wear as I go in...?`
+char_non: ` How should I greet him...?`
+char_non: `{n}I don't have a clue...`
+char_non: `As the two of them motioned me forward, it was all I could do to avoid tripping over my dress as I walked.`
+char_nan: `".........Kinzo‐san.`
+char_nan: ` She is here."`
+char_non: `Kinzo was before the portrait of {f:5:Beatrice}, crouched on the ground as though kneeling.`
+char_non: `At Nanjo's words, he slowly turned, still crouching...`
+char_kin: `"...............Oh...`
+char_kin: ` .........Oohhhhhh........."`
+char_non: `Kinzo's eyes were already red with crying.`
+char_non: `{n}When he saw me, he groaned with wonder.`
+char_kin: `"......{f:5:Beatrice}......`
+char_kin: ` .........{f:5:Beatrice}........."`
+char_non: `Had he even forgotten how to stand up?`
+char_non: `{n}He crawled over to where I was.`
+char_non: `...As he called out to me with the name of the woman he had loved long ago.`
+char_non: `I was too stunned to move.`
+char_non: `Then, Kinzo grabbed the hem of my dress, gripped it tightly, ......then curled up and sobbed.`
+char_kin: `"{f:5:Beatrice}......`
+char_kin: ` ......I'm sorry. I'm so sorry......`
+char_kin: ` I knew how you felt, ......and yet I......`
+char_kin: ` I'm so sorry...... Forgive me...... Forgive me, I beg you......"`
+char_bea: `"...................................."`
+char_non: `There was nothing I could say.`
+char_non: ` However, just standing here like this was all I needed to do.`
+char_non: `Kinzo's moment of atonement, the moment he had spent half of his life searching for, had finally come.`
+char_non: `......A human's life is packed with sin.`
+char_non: `So, humans seek forgiveness while they still live.`
+char_non: ` However, in most cases, there are none in this world capable of giving such forgiveness.`
+char_non: `It was like that for Kinzo.`
+char_non: ` There was no longer anyone in the world who could give that to him.`
+char_non: `{n}......But a miracle had woven one together, and in this moment, he had obtained the impossible...`
+char_kin: `"Oooohhhh, {f:5:Beatrice}...`
+char_kin: ` ......{f:5:Beatrice}......`
+char_kin: ` ...You need not forgive me, you need not say anything...!`
+char_kin: ` All I ever wanted......was to say one word......of apology......!`
+char_kin: ` {nobr:Oooohhhhhh.........}"`
+char_non: `Kinzo kept grasping the dress's hem and sobbing.`
+char_non: `The sins of humans are not forgiven by other people.`
+char_non: `{n}They find forgiveness through regret and repentance.`
+char_non: `......I want to believe that some sin, some fault of his......has been forgiven thanks to the way I look...`
+char_non: `Kinzo's sobbing gradually ceased,`
+char_non: ` ......and he slowly looked up at me and rose.`
+char_non: `He staggered.`
+char_non: ` Nanjo rushed forward to support him.`
+char_bea: `"................................."`
+char_kin: `".........To know.........that you are alive......`
+char_kin: ` ......It brings me such...joy......"`
+char_non: `This time, his words weren't directed through me, but at me.`
+char_non: `{n}I hesitated, unsure how I should respond.`
+char_gen: `"......My lord, I beg your forgiveness for keeping this a secret from you all this time."`
+char_kin: `"No matter.`
+char_kin: ` ......I do not fault you, Genji...`
+char_kin: ` ......Considering the sin that I committed, ......every single day until now has been necessary for my atonement......"`
+char_gen: `"However, there can be no doubt that today's miracle is a true one.`
+char_gen: ` ......By her own power, without anyone's help,`
+char_gen: ` ......she solved the epitaph before anyone else."`
+char_kin: `"You did well.........to solve that convoluted epitaph......"`
+char_bea: `"Th‐.........thanks......"`
+char_kin: `"......Yes.`
+char_kin: ` ......Your voice resembles your mother's.`
+char_kin: ` Even your face reminds me of that mother and daughter......`
+char_kin: ` ...There can be no doubt that {f:5:Beatrice}'s blood flows through your veins......"`
+char_kum: `"Yes.`
+char_kum: ` ......The traces of the lady of Kuwadorian in her youth are right there."`
+char_non: `Who......are they saying I look like......?`
+char_gen: `"......{f:5:Beatrice}‐sama,`
+char_gen: ` please forgive me for keeping what I am about to tell you a secret for all this time.`
+char_gen: ` You are the child of {f:5:Beatrice}‐sama and the Master."`
+char_bea: `"........................What......?"`
+char_kum: `"It's true.`
+char_kum: ` ......You have been raised as a child without parents.`
+char_kum: ` However, your true father is the Master.`
+char_kum: ` And your true mother......is {f:5:Beatrice}‐sama."`
+char_bea: `"......Is that, ......umm, ......really............?"`
+char_gen: `"Yes.`
+char_gen: ` You truly are a descendant of {f:5:Beatrice}‐sama."`
+char_non: `Is such a strange fate.........really possible......?`
+char_non: `I've dreamed about it.`
+char_non: ` Dreamed about what it'd be like to be the Golden Witch, {f:5:Beatrice}.`
+char_non: `But that dream was for me alone.`
+char_non: `So, I'd dreamed that if I solved the epitaph,`
+char_non: ` ......and carried out its ritual, I would revive as the true {f:5:Beatrice}.`
+char_non: `......Is it really conceivable...`
+char_non: `...that after I solved it...`
+char_non: `...{f:5:Beatrice} actually did revive......?`
+char_bea: `"I...`
+char_bea: `...truly carry...`
+char_bea: `......{f:5:Beatrice}'s...`
+char_bea: `......blood......?"`
+char_gen: `"Yes.`
+char_gen: ` There is no doubt of that whatsoever."`
+char_kum: `"......It must have been hard for you to live until this day without knowing a parent's affection...`
+char_kum: ` ......And yet, look at how wonderfully you've grown......"`
+char_bea: `"......So, ......you all knew.........?`
+char_bea: ` About me......?"`
+char_non: `Genji, Kumasawa, and even Nanjo nodded wordlessly.`
+char_non: `......Now that I think about it, that explains so many things.`
+char_non: `I was always...in some way...special.`
+char_non: `{n}Genji and especially Kumasawa always treated me very kindly.`
+char_non: `Then, ......does that mean this day is a promised day, which would eventually have come no matter what......?`
+char_non: `I don't understand anything anymore.`
+char_non: `It's all God's miracle.`
+char_non: `The promised fate has led me to this day.`
+char_kin: `".........{f:5:Beatrice}.`
+char_kin: ` ............No,`
+char_kin: ` .........Lion."`
+char_bea: `"...............?"`
+char_kin: `"That is the name I wanted to give you......"`
+char_gen: `"......It is your true name."`
+char_kin: `"Lion......`
+char_kin: ` I will now return to you everything that {f:5:Beatrice} gave me.`
+char_kin: ` ......I return to you the gold, as well as everything of the Ushiromiya family, which was created by it."`
+char_non: `Kinzo stuck out a wrinkled hand.`
+char_non: `On his finger was a ring with the One‐winged Eagle crest, which was the symbol of the Ushiromiya family head.`
+char_non: `He pulled it off, grasped it tightly, and then held it out to me.`
+char_non: `......I didn't know what to do.`
+char_non: `Slowly, as though they were being drawn forward, ......I held out my hands, palms up.`
+char_non: `After pressing his fist against my cupped hands, Kinzo slowly opened his hand and let the ring drop.`
+char_kin: `".........Lion, my child.........`
+char_kin: ` ......That your fate has been toyed with is a result of my sin.`
+char_kin: ` ......Please forgive me...`
+char_kin: ` ......You now inherit my ring as the new and proper head of the Ushiromiya family."`
+char_kin: `"All of that gold belongs to you.`
+char_kin: ` I ask that you use it as you please, and hope that it will be enough to heal some small part of the pain you have suffered...`
+char_kin: ` That trifling amount of gold may be nothing in comparison with the sin I committed,`
+char_kin: ` .........but even so, it should be enough to bring you some comfort."`
+char_bea: `"Th‐.........thank...you........."`
+char_kin: `".........Lion.`
+char_kin: ` .........I have one.........final request."`
+char_bea: `"Wh‐......what is that.........?"`
+char_kin: `"Could you..................`
+char_kin: `.........call me........."`
+char_bea: `"......Huh? ......Sorry, what did you say......?"`
+char_kin: `"Could you............call me.........Father?"`
+char_bea: `".............................."`
+char_kin: `"......I understand why you are not able to...`
+char_kin: ` ......I have not been a father to you in any way.`
+char_kin: ` Furthermore, you have been raised without knowing anything about your father.`
+char_kin: ` ......I realize that it's not a name you can call me by.`
+char_kin: ` And, I realize that I have no right to ask this of you.`
+char_kin: ` .........But, knowing all of that, ......still, I ask you......`
+char_kin: ` ......If I could just hear that, ......I would have no further regrets......"`
+char_non: `.........After being asked like that, ......was it possible for me to refuse?`
+char_non: `Even if I am his child, ......I cannot see him as my father...`
+char_non: `So, I felt a strong resistance to saying that word.`
+char_non: `But......I decided that saying it was the right thing to do.`
+char_non: `Only God can truly forgive sins.`
+char_non: `But, ......though it may be temporary,`
+char_non: ` people can be saved by the forgiveness of others.`
+char_bea: `".........F‐....................."`
+char_kin: `"........................"`
+char_bea: `"..................`
+char_bea: ` .........Fath......er............"`
+char_kin: `"Heh, ............heheheh............"`
+char_non: `That awkward word made Kinzo laugh.`
+char_non: `{n}Drops of silver fell from both of his eyes.`
+char_non: `At that moment, ......the shadow that had covered his face......was wiped away......`
+char_kin: `"Thank you, ......Lion.`
+char_kin: ` My child......`
+char_kin: ` .........And {f:5:Beatrice}, as well.`
+char_kin: ` Thank you for this last chance......to ask for forgiveness........."`
+char_kin: `"......Of course, I don't believe that such a simple act will earn me forgiveness.`
+char_kin: ` ......The rest, I will do as I burn in the fires of hell.`
+char_kin: ` .........I, Ushiromiya Kinzo, have no more regrets in this life!!`
+char_kin: ` None at all! No regrets or things left undone!!`
+char_kin: ` Wahaha, ......waha{0}ha{0}ha{0}ha{0}ha{0}ha{0}haa{0}ha{0}hah!!`
+char_kin: ` Waaah{0}ha{0}ha{0}ha{0}ha{0}haa{0}ha{0}ha{0}ha{0}ha{0}haha!!!"`
+char_non: `Looking up to the heavens, Kinzo spread his arms as though facing an applauding audience,`
+char_non: ` ......laughing at the top of his lungs.`
+char_non: `It was the final pleasure, known only by those who have been released from all regrets of this world.`
+char_non: `.........Kinzo's laugh weakened, ......and when it disappeared...`
+char_non: `He dropped to his knees...`
+char_non: `...like a puppet with its strings cut...`
+char_non: `............and slowly...`
+char_non: `......fell to the ground.........`
+char_kum: `"......M‐.........my lord......"`
+char_gen: `"Doctor Nanjo......"`
+char_nan: `"Y‐......yes........."`
+char_non: `Though their master had fallen, ......they walked up to him slowly.`
+char_non: `They already knew.`
+char_non: `{n}Kinzo's soul......had already burned itself out.`
+char_non: `After checking Kinzo's pulse, Nanjo shook his head and stood back up.`
+char_nan: `"............It was a peaceful death.`
+char_nan: ` ......I don't think he had any regrets at all."`
+char_kum: `"It may be......that the Master died long before now.`
+char_kum: ` ......It was only his magic and tenacity that kept him here so long.`
+char_kum: ` ......And.........once he finally had a chance to apologize to {f:5:Beatrice}‐sama for everything, .........he finished everything he had to do..."`
+char_gen: `".........Please, ......rest in peace.`
+char_gen: ` ............I believe that you have redeemed yourself."`
+char_bea: `".................................Father........."`
+char_non: `That was...`
+char_non: `...the one‐night reunion...`
+char_non: `...between me and my father...`
+char_non: `...and also our final farewell......`
+char_gen: `".........This gold all belongs to you now.`
+char_gen: ` ......If you wish to exchange it for money, I can arrange for that."`
+char_nan: `"I hear it's worth 20 billion yen.`
+char_nan: ` .........All of your dreams in this world can now be granted with money."`
+char_kum: `"Hoh‐hoh‐hoh‐ho......`
+char_kum: ` It must be tough to think of what to do with this much money when it suddenly comes your way."`
+char_bea: `"............There is nothing I desire among the things money can buy.`
+char_bea: ` ......So, for the present, I would like to leave this here."`
+char_non: `......Of course, I'm glad I have a lot of money.`
+char_non: `However, money can't heal the pain in my heart.`
+char_non: `{n}I just.........want him to come back.`
+char_gen: `"As you wish.`
+char_gen: ` Then it shall be left here.`
+char_gen: ` ......Also, take this key."`
+char_bea: `".........What is this?"`
+char_gen: `"It is the key to this underground VIP room.`
+char_gen: ` If you use this, you won't need to use the more complicated device."`
+char_non: `She was the only one who knew the answer to the epitaph's riddle, and the only key to this place was now hers.`
+char_non: `......At this point, she truly was the master of this golden VIP room.`
+char_gen: `"You are already the master of Rokkenjima.`
+char_gen: ` You have the right to know all of this island's secrets."`
+char_nan: `".........We should talk about Kuwadorian too."`
+char_kum: `"That's the mansion your mother lived in.`
+char_kum: ` ......I'm sure you've heard rumors about it."`
+char_bea: `"Kuwadorian........."`
+char_gen: `"There are two mansions on this island, one at either end.`
+char_gen: ` ......One is the mansion we know well.`
+char_gen: ` The other is a hidden mansion known as Kuwadorian."`
+char_kum: `"Below this island are the remains of a military base built during the war.`
+char_kum: ` The Master used that to travel between the two ends of the island..."`
+char_gen: `"There is an underground path in the back of this room, and if you follow it, you will reach the basement of Kuwadorian on the other end of this island.`
+char_gen: ` ......That is a secret mansion, which only the Master knew of.`
+char_gen: ` Of course, that mansion, like everything else, now belongs to the new head."`
+char_nan: `"......It's the mansion your mother lived in.`
+char_nan: ` It's probably worth taking a trip over there sometime."`
+char_bea: `"My......mother............"`
+char_non: `I've lived alone my whole life.`
+char_non: `The only person I've ever felt like calling "Mother" is Kumasawa‐san, who always helped me out.`
+char_non: `The mansion where a mother I've never met nor seen lived...`
+char_non: `.........Who in the world.........am I......?`
+char_gen: `"Ask any questions you wish.`
+char_gen: ` ......You now deserve to know everything."`
+char_bea: `"......Right now, ......I'm feeling very confused.`
+char_bea: ` ......I don't even know where I should start asking questions.`
+char_bea: ` ......But I'm sure......I'll think of plenty of things to ask about.`
+char_bea: ` ......When I do, please tell me..."`
+char_gen: `"As you wish."`
+char_bea: `"A‐......also,`
+char_bea: ` ......being treated so respectfully like that...`
+char_bea: `is a bit uncomfortable.`
+char_bea: ` I'd be happier if you could talk to me the same way you've always done."`
+char_gen: `"If that is what you wish, then I will do so."`
+char_kum: `"Hoh‐hoh‐hoh‐ho.`
+char_kum: ` That's easier for me too."`
+char_nan: `".........Well now.`
+char_nan: ` What will we do now, Genji‐san?`
+char_nan: ` ......Kinzo‐san is dead."`
+char_gen: `"I will tell Krauss‐sama and Madam that he has passed away.`
+char_gen: ` ......Then, we must tell them that Lion‐sama is the official successor to the headship.`
+char_gen: ` After all, from this point forth, you are the Ushiromiya family head."`
+char_bea: `"M‐me as the head? That's......`
+char_bea: ` And isn't Krauss‐sama the successor......?"`
+char_gen: `"The one who solves the epitaph's riddle is the successor.`
+char_gen: ` .........There exists a will specifying this.`
+char_gen: ` .........The Master's final order was that you were to inherit everything."`
+char_bea: `"P‐please wait...!`
+char_bea: ` I appreciate the sentiment, ......but I can't do the job of being the successor,`
+char_bea: ` ......and I can't accept such a big responsibility.`
+char_bea: ` I think it would be better for Krauss‐sama to inherit that role......"`
+char_gen: `".........Are you certain?"`
+char_bea: `"Today, ......I have learned who I am.`
+char_bea: ` ......Everyone knows about their parents,`
+char_bea: ` but I didn't, since the time of my birth.`
+char_bea: ` ......And here, today, I finally learned the truth.`
+char_bea: ` ......That alone is enough for me."`
+char_non: `If I suddenly became the Ushiromiya family head, how would Krauss‐sama react?`
+char_non: ` How angry would Madam be?`
+char_non: `I don't want to become the head if it means making them feel like that.`
+char_non: `Today, I learned who I am.`
+char_non: `Who gave birth to me, how, and when?`
+char_non: ` ......These are things I want to learn from them as time goes by.`
+char_non: `That alone is enough.`
+char_bea: `".........I am Lion.`
+char_bea: ` ......And I am the Golden Witch, {f:5:Beatrice}.`
+char_bea: ` Knowing that is enough for me.`
+char_bea: ` ......I don't plan on calling myself the head.`
+char_bea: ` ......Krauss‐sama can take that job."`
+char_gen: `"Is that your order, as the Ushiromiya family head?"`
+char_bea: `".........Yes."`
+char_gen: `".....................`
+char_gen: ` ......As you wish, Master.`
+char_gen: ` Then I will make it so."`
+char_bea: `"And please, don't tell anyone about what happened tonight.`
+char_bea: ` .........I want to stay me.`
+char_bea: ` ......There's nothing I'd want to do if I had the Ushiromiya headship or the gold."`
+char_non: `......I just...`
+char_bea: `"I want to wait.........here on this island......as I have done in the past.`
+char_bea: ` I want everything to be exactly the same as it was.`
+char_bea: ` .........That's my only wish."`
+char_gen: `"...........................`
+char_gen: ` As you wish, Master.`
+char_gen: ` ......Everything that has happened tonight will not go beyond those present here.`
+char_gen: ` ......Kumasawa.`
+char_gen: ` Doctor Nanjo.`
+char_gen: ` That is the wish of the new head."`
+char_nan: `"......If that's what you want, I have no objections.`
+char_nan: ` Kinzo‐san's will entrusts everything to you.`
+char_nan: ` If this is what you want to do, none of us will complain."`
+char_kum: `"You say "exactly the same as it was",`
+char_kum: ` ......but do you really mean exactly the same...?`
+char_kum: ` With no differences at all...?"`
+char_bea: `"Yes.`
+char_bea: ` .........We'll keep this a secret.`
+char_bea: ` ......This place and the gold will be sealed away.`
+char_bea: ` If I need money, I'll ask you about it then.`
+char_bea: ` .........That's enough for me."`
+char_gen: `"As you wish.`
+char_gen: ` The mechanism leading to this place and the key both belong to you.`
+char_gen: ` ......And all of us swear to keep the events of this night a secret.`
+char_gen: ` .........Krauss‐sama will be the successor,`
+char_gen: ` ......but in my heart, you will be the only true successor."`
+char_gen: `"......As you have ordered, we will behave the same way we always have, but please order us whenever it suits you.`
+char_gen: ` You are my only master."`
+char_bea: `"..................Th‐.........thank you very much..."`
+char_non: `A vast mountain of gold and the ring of the Ushiromiya family head.`
+char_non: `{n}The dress of the portrait {f:5:Beatrice}.`
+char_non: `And.........I became the true {f:5:Beatrice}, the Golden Witch.`
+char_non: `Right here in my very own Golden Land.`
+char_non: `If I think about it, not much has actually changed.`
+char_non: `After all, I've always been the Golden Witch. ......I've just had a few more people acknowledge that.`
+char_non: `{a:c:November 29th.`
+char_non: `{n}The day I became a true witch.}`
+char_cur: `{a:c:`
+char_cur: `Oh, I am one yet many.`
+char_cur: `{n}`
+char_cur: `I am the Golden Witch, {f:5:Beatrice}.}`
+char_cur: `{a:c:`
+char_cur: `The true ruler of Rokkenjima,{n}......and the possessor of endless gold.}`
+char_cur: `{a:c:`
+char_cur: `Yet, I am in no way complete.}`
+char_cur: `{a:c:`
+char_cur: `......Here I wait...{n}for the return of the one person I love......}`

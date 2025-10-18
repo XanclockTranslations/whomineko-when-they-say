@@ -1,0 +1,842 @@
+char_non: `The biggest event for the Ushiromiya family in fall was the family conference in October,`
+char_non: ` but for Jessica, there was another one before that: the school cultural festival.`
+char_non: `Jessica liked school; to her, it was a place where she could let out the stress she'd built up during the rigid lifestyle she was forced to lead at home.`
+char_non: `For the cultural festival today, she had formed a group with her friends,`
+char_non: ` and would be performing casual pop‐rock on a temporary stage.`
+char_non: `She had kept on preparing and practicing for that, and was really looking forward to today,`
+char_non: ` .........but there was one thing that had been worrying her.`
+char_non: `She looked at the clock.`
+char_non: ` ...There was still a little time, ...but she was uneasy.`
+char_non: `Would he really come?`
+char_non: `As she was about to breathe out a stress‐relieving sigh, her heart jumped as all her friends suddenly started speaking in shrill voices.`
+char_non: `"No wayyyy, Hina's boyfriend's a to~tal stud!!"`
+char_non: `"He totally is, right?!`
+char_non: ` He totally is, right?!"`
+char_non: `"Rin, your boyfriend looks hella smart!`
+char_non: ` So the guy's a hard S with glasses?! Like, for real?!"`
+char_non: `"No way, no way, my man's a gyaru‐o!"`
+char_non: `"""*giggle*{p:0:♪} *giggle*{p:0:♪}"""`
+char_non: `......It's not necessarily the case that all girls are like this,`
+char_non: ` ...but at Jessica's school at least, the cultural festival was really a boyfriend exhibition.`
+char_non: `Jessica didn't have a boyfriend.`
+char_non: `{n}She had many friends of the opposite sex, but no "special one".`
+char_non: `...But Jessica was a little famous around the school, and everyone naturally expected that she had a fitting partner.`
+char_non: `Furthermore, her pride had caused her to act like that was the case.`
+char_non: `Through such acting and dodging of questions, she had somehow managed to keep up the bluff until this year.`
+char_non: `......But for various reasons, she hadn't been able to escape this year's cultural festival...`
+char_non: `"Jessie~.`
+char_non: ` Is your boyfriend he~re?"`
+char_jes: `"Hweh?!`
+char_jes: ` Ah, ah, no, looks like he's not here yet.`
+char_jes: ` Maybe he's busy with work?`
+char_jes: ` Ahahahahahahahahahaha..."`
+char_non: `"What kind of guy is your boyfriend, Jessie?`
+char_non: ` At least give us a hint.`
+char_non: ` What type is he?`
+char_non: ` What type is he?!"`
+char_non: `"Awesome, he's a working man, right?!`
+char_non: ` Is he gonna come in a suit?!`
+char_non: ` Of course he's gonna be sporting glasses, right?!`
+char_non: ` Kyaaa!!"`
+char_non: `"Heeeeeey, but you don't really have one, do you?`
+char_non: ` If you come clean now, I'll let you join me!`
+char_non: ` Let's both flood this cultural festival with teeeeears!"`
+char_jes: `"No no no, I do I do I do, I'm telling you, I really do...`
+char_jes: ` Ahahahahahahahahahaha...!!"`
+char_non: `Jessica laughed awkwardly, covered with cold sweat.`
+char_non: ` ...It was extremely doubtful whether she really had deceived her sharp‐witted friends...`
+char_sha: `"Yes.`
+char_sha: ` Then, how about making a fake boyfriend and taking him with you?"`
+char_jes: `"F‐f‐fake?!`
+char_jes: ` Wh‐who......?!`
+char_jes: ` I can't think of anyone...!"`
+char_non: `Shannon's ridiculous plan surprised Jessica wildly.`
+char_non: `Even so, it was a little more realistic than the unrealistic method running through her head of getting a boyfriend in a huge hurry before the day of the cultural festival.`
+char_sha: `"For example,`
+char_sha: ` ......what about Kanon‐kun?"`
+char_jes: `"K‐K‐Kanon‐kuuuuuun?!`
+char_jes: ` N‐n‐no way, no way!!`
+char_jes: ` And anyway I'm sure Kanon‐kun will have work on the day of the festival—`
+char_jes: `I don't want to bother him and stuff..."`
+char_sha: `"Of course, I've already checked the schedule.`
+char_sha: ` Kanon‐kun has that day off."`
+char_jes: `"......Wh‐...why are you always so clever at times like this...`
+char_jes: ` No, wait!`
+char_jes: ` It'd be even worse if he's off...`
+char_jes: ` I can't pull him away from his precious break just for my own vanity!"`
+char_sha: `"If Kanon‐kun isn't pulled away, he'll always just be shut away by himself,`
+char_sha: ` so I think forcibly dragging him around a bit would be perfect."`
+char_jes: `"Y‐y‐`
+char_jes: `......you think so?`
+char_jes: ` ...No,`
+char_jes: ` but,`
+char_jes: ` ...I'd feel bad for Kanon‐kun......"`
+char_sha: `"Then I think you're out of options...`
+char_sha: ` How about meekly confessing to everyone that you don't have a boyfriend?"`
+char_sha: `"...Oh, sure, sure, that may well cause you to experience some shame,`
+char_sha: ` but you would only have to endure for the short and yet oh so loooong time before graduation.`
+char_sha: ` To those couples in love, there's no sweeter honey than the face of a single person with an inferiority complex{p:0:☆}"`
+char_jes: `"Sha‐Shannonnnn~!!`
+char_jes: ` You aren't really worrying for my sake, are you, you're teasing meeeeee!!"`
+char_non: `Jessica wrestled about with Shannon, her eyes teary.`
+char_non: `{n}But Shannon was unconcerned, laughing with her usual smile.`
+char_sha: `"Yes,`
+char_sha: ` this is to get you back for making fun of me and George‐sama all the time."`
+char_non: `At that comeback of Shannon's, the likes of which didn't happen even once a year, Jessica rolled around on her bed hugging her cushion, writhing and suffering.`
+char_non: `Shannon's triumphant smile was unbearably frustrating, but right now, she was the only person Jessica could talk with.`
+char_non: ` She could wait until later to suffocate her with a cushion.`
+char_sha: `"Why not, Milady?`
+char_sha: ` It's a cultural festival, but it's also a chance for you to have fun with Kanon‐kun."`
+char_jes: `"Well yeah, but...`
+char_jes: `ahh, nononono......!!"`
+char_non: `Jessica buried her head in her favorite cushion to hide the fact that her face had grown bright red.`
+char_non: `And she bit away at her thumbnail...`
+char_non: `{n}...It really was a reaction to be appreciated.`
+char_non: `Shannon and Jessica were about the same age, of the same sex, and they were also friends.`
+char_non: `And they were both right in the middle of puberty.`
+char_non: `{n}They could never talk enough about things related to love.`
+char_non: `{n}That's why they were able to be open with each other about these topics.`
+char_non: `So Jessica had heard in detail about how Shannon's and George's love was progressing,`
+char_non: ` and on the other side, Shannon had heard the details of what type Jessica liked, and what kind of man she might be interested in.`
+char_non: `Judging by Jessica's reactions, it would probably be crude to talk about that in detail...`
+char_non: `But we won't get anywhere with Jessica just rolling around on the bed forever, so—to be blunt—`
+char_non: `Jessica had been thinking about Kanon ever since he had first appeared.`
+char_non: `There were almost no young men on Rokkenjima.`
+char_non: `{n}So maybe it was natural that Jessica, as a girl in puberty, had become interested in Kanon.`
+char_non: `But if anyone said that, it would destroy the romance of a maiden's pure heart and of love at first sight.`
+char_non: `Shannon had been with Kanon the whole time at the welfare institute, so she had known him before they had started working.`
+char_non: `So Jessica had asked persistently about what kind of person he was, what his hobbies were, what his favorite foods were, what type of girl he liked.`
+char_non: `.........Even Shannon could clearly tell that Jessica was infatuated with Kanon.`
+char_sha: `"Come on.`
+char_sha: ` ...Isn't this a good chance to take Kanon‐kun on a date?"`
+char_jes: `"B‐b‐but but but...Kanon‐kun might also have someone he likes...`
+char_jes: ` Wouldn't he take it badly if I made him go with me just to show off...?"`
+char_sha: `"People who aren't honest about their feelings, such as you, Milady,`
+char_sha: ` ...what was that word again, I learned it from George‐sama.`
+char_sha: ` That's right, they call them "{c:86ef9c:tsundora}".`
+char_sha: ` Apparently they will be quite popular a few decades from now, you know?"`
+char_jes: `"Wowww, George nii‐san sure is incredible...`
+char_jes: ` So, he's capable of foreseeing future trends now, is he?`
+char_jes: ` Awesome.`
+char_jes: ` ......No, wait!`
+char_jes: ` You're saying I'm living in the wrong time period!"`
+char_jes: `"Waah, waah, waah, I'm dooooomed!!"`
+char_non: `......Ultimately, Jessica wasted several days before finally agreeing to the plan of having Kanon pretend to be her boyfriend......`
+char_kan: `"......Yes, Milady.`
+char_kan: ` Did you call me?"`
+char_non: `Jessica realized that she had called him at a bad time, and immediately regretted it.`
+char_non: `...Kanon always had a sour look, but even so, he had some good days and some bad days.`
+char_non: `...Unfortunately, this reaction was the latter.`
+char_jes: `"N‐n‐no, umm, well,`
+char_jes: ` ............errr."`
+char_kan: `"....................."`
+char_non: `All that confidence and effort she had amassed by practicing in front of a mirror all night was wiped out in about five seconds...`
+char_non: `Jessica turned bright red and hung her head.`
+char_non: `Watching her, Kanon sighed.`
+char_non: `{n}...Jessica thought he was getting fed up with her, and her face went pale.`
+char_kan: `".........I heard from Shannon.`
+char_kan: ` Is this about me accompanying you to the school cultural festival, Milady?"`
+char_jes: `"Huh?`
+char_jes: ` ......Ah, aaaaaaahhh!!`
+char_jes: ` Nice, Shannon...!`
+char_jes: ` ...I mean...!"`
+char_jes: `"Ye‐yeah, yeah.`
+char_jes: ` Tha‐that's right, but, umm, err!`
+char_jes: ` ...............Do, do you have any p‐plans that day...?"`
+char_kan: `"...I was strictly ordered by Shannon to work specially for you on that day, Milady.`
+char_kan: ` I have never been to high school, so I don't really understand,`
+char_kan: ` but I hear it's a place where girls feel very ashamed if they don't have a boy with them."`
+char_kan: `"...And I was particularly ordered to see to it that the daughter of the Ushiromiya family is in no way inferior to the common people."`
+char_jes: `"Waha...`
+char_jes: `wahahahahahahahahahaha, Shannon, I'll beat you to death laterrrrrrr!!!"`
+char_non: `Jessica kept yelling with a strange voice, a broken smile, and steam pouring from her head as if she were a boiler.`
+char_non: `As Kanon watched this, he sighed again.`
+char_non: `Kanon wasn't an idiot either.`
+char_non: `He fully understood what Jessica intended by inviting him.`
+char_non: `......However, in truth, he found it nothing but bothersome to go along with the lady's game of love.`
+char_non: `But Shannon had spoken to him persistently about it.`
+char_non: ` He was very indebted to her for many things.`
+char_non: `{n}He couldn't refuse.`
+char_non: `...And in his pocket was that brooch.`
+char_non: `Couldn't this strange turn of events also have been brought about by the magic power residing in this brooch?`
+char_non: `............Ridiculous.`
+char_non: `{n}But those words of Shannon's came to mind.`
+char_non: `...What did Shannon {y:1:‘see’}{n:1:see} that I cannot?`
+char_non: `I don't understand Shannon's feelings.`
+char_non: ` We are furniture.`
+char_non: `{n}...As if we could...become something more than that.`
+char_non: `Jessica, still rambling on in a strange voice, and Kanon, sighing deeply, were a truly odd combination...`
+char_non: `"Jessie, someone's here for you!!`
+char_non: ` Didn't you hear?!"`
+char_jes: `"Huh, ah, ah, sorry!!`
+char_jes: ` Wh‐who...?"`
+char_non: `As my friends all gathered together, ...they were looking this way with hard‐to‐describe expressions,`
+char_non: ` whispering to each other in low voices that couldn't be called low.`
+char_non: `Even I felt kind of shameless.`
+char_non: ` Did I just say "sorry, who"?!`
+char_non: `{n}Like I don't know who's shown up...!`
+char_non: `{n}Aaaaaaaaah, crap, crap, crap, my mind is blank...`
+char_non: `"Omigod, that's Jessie's boyfriend?!`
+char_non: ` He's sooo cuuuuuuuuute!!"`
+char_non: `"She really had a boyfriend?!`
+char_non: ` No fake, serious, for reeeeal?!"`
+char_non: `"Jessica, you traitoorrr!!`
+char_non: ` He's soo fine!!"`
+char_non: `"He's younger?!`
+char_non: ` I never heard he was younger?!"`
+char_non: `"Where where?!`
+char_non: ` Where where where's Jessie's boyfriend?!"`
+char_non: `"She really does like young boys!!!!!"`
+char_jes: `"He‐hhhhhey!`
+char_jes: ` Y‐you took a while, wahahahahaha!"`
+char_kan: `"......I didn't know where the entrance was.`
+char_kan: ` I apologize for being late."`
+char_jes: `"R‐right, umm, ...that outfit suits you, doesn't it?`
+char_jes: ` Wahahahahahahaha...!!"`
+char_kan: `"...Shannon...said my normal clothes wouldn't do, ...so we went and bought this yesterday.`
+char_kan: ` It probably doesn't fit me..."`
+char_jes: `"Wa‐wahahahahahahahahahahahaha, that's not true!`
+char_jes: ` Shannon, when I get back you're getting a posthumous two‐rank promotiooooon!!"`
+char_kan: `".........This place is kind of filled with girls... It's uncomfortable."`
+char_jes: `"Y‐y‐yeah, isn't it?!`
+char_jes: ` C‐come on, let's not hang around here, let's go to the stage, alright?`
+char_jes: ` 'Cause it'll be our turn really soon!`
+char_jes: ` Come on come on come on!!"`
+char_non: `It seemed that Jessica was just as uncomfortable.`
+char_non: `{n}It looked like she was finding it difficult to cope while bathed in everyone's interested gaze.`
+char_non: `...When he saw Jessica's appearance, Kanon thought that he might have made things difficult for her by coming.`
+char_kan: `"......I get the feeling that I'm getting in the way.`
+char_kan: ` Am I a burden?"`
+char_jes: `"N‐no‐not at all, seriously!!"`
+char_kan: `"...If {ruby:boku:I} am in the way, please tell me at any time..."`
+char_non: `((Kyaaa, omigooddd, he calls himself "boku"!!!!!!))`
+char_jes: `"Ahiiiiiiiii, you, you, you aren't a burden, Kanon‐kun!!"`
+char_non: `(((Kyaaaaaa, she calls her boyfriend "kun"!!!!!!!)))`
+char_kan: `"......What should I do, Milady?"`
+char_non: `(((Omigoood, she makes him call her Milady, like a butler, {ruby:omg:ktkr}!!!)))`
+char_jes: `"Nooooooooo, don't call me Milady todaaaaaaaaay!!"`
+char_kan: `".........Re‐...really?`
+char_kan: ` Understood, Jessica‐sama."`
+char_non: `(((Kyaaaaa, she's trained him to call her "sama"!!!!!!!!)))`
+char_jes: `"S‐ss‐sorry, Kanon‐kun, just for three seconds, could you close your eyes..."`
+char_non: `(((Hiiyaaaaaaa, kiss, it's a kiss, she's going to kiss him!!!!)))`
+char_kan: `"O‐...okay, here goes."`
+char_non: `BANG,`
+char_non: ` thunk!`
+char_non: ` BAMBAM,`
+char_non: ` SLAM,`
+char_non: ` CRASH!!`
+char_non: `...When Kanon opened his eyes, for some reason, there was a horrible tragedy in the room.`
+char_non: `{n}Everyone had been driven into the walls, their arms and legs outstretched.`
+char_non: `Jessica put her brass knuckles in her pocket before Kanon opened his eyes.`
+char_jes: `"A‐anyway, let's go over to the stage.`
+char_jes: ` Our turn is coming up soon, so wait in a seat for a bit."`
+char_jes: `"'Cause we have to get ready!`
+char_jes: ` If you go straight to the end here, there'll be a temporary stage, so you'll know where to go, just wait there!"`
+char_non: `Kanon seemed to be having a hard time adjusting; pushing him in the back, Jessica sent him out into the corridor.`
+char_non: `Even though Kanon was confused by Jessica's attitude and show of agitation, which he had never seen before, he followed her instructions and headed in the direction she had indicated.`
+char_non: `After seeing him off with an awkward smile, Jessica slammed the door shut and yelled loudly.`
+char_jes: `"There you go, you saw, right?`
+char_jes: ` You saw, happy now?!`
+char_jes: ` Wahahahahahahahaha, sucks for you!!!"`
+char_non: `"......ugggggggh, I lost the bet."`
+char_non: `"I was so sure that Jessie didn't have a boyfriend."`
+char_non: `"That wasn't a boyfriend, right, she's just harassing one of her servants, right?"`
+char_non: `"Waaaah, Jessie's boyfriend's incredibleeee...!"`
+char_jes: `"Sh‐sh‐shut up!!`
+char_jes: ` Let's get ready, move it move it!!"`
+char_non: `Jessica took the brass knuckles out of her pocket again, and everyone energetically returned to their tasks.`
+char_kan: `"...............haah."`
+char_non: `Kanon went down the corridor as Jessica had told him to, and found a temporary stage set up where the vending machines should have been.`
+char_non: `It was probably being shared in timeslots between the individual groups and clubs.`
+char_non: `A student group was singing, and the place was already fired up.`
+char_non: `Disliking that ruckus, he found a dark wall to lean against, alone.`
+char_non: `......So this is what they call high school.`
+char_non: `{n}It sure is noisy,`
+char_non: ` ...Kanon thought.`
+char_non: `Then he remembered Jessica just now, acting in a way that he'd never seen before.`
+char_non: `......Honestly, she was in such high spirits that alcohol might have been involved.`
+char_non: `To him, the greatest virtue for a person was to always be composed and intellectual.`
+char_non: `In that sense, it was very hard for him to get used to the atmosphere in a school cultural festival.`
+char_non: `...He had the responsibility of reporting everything he saw or heard to the Master.`
+char_non: `...So he would also have to report about Jessica's unrestrained behavior earlier.`
+char_non: `......At the very least, it was not fitting for a daughter of the Ushiromiya main family.`
+char_non: `The Master, Krauss‐sama,`
+char_non: ` ...and especially Natsuhi‐sama would probably be angry.`
+char_non: `If I were to report it in a way that protects Milady, should I blame it on inappropriate school friends...?`
+char_kan: `".........What was all that?`
+char_kan: ` ......So stupid."`
+char_non: `Kanon thought back on how Jessica had acted earlier, and sighed again.`
+char_non: `He could understand Natsuhi's headache a little now.`
+char_non: `......Come to think of it, Natsuhi‐sama, as the president of the PTA, should have gone straight to a social after attending the ceremony in the gymnasium.`
+char_non: `Hadn't she said that she wouldn't be there to see Milady's event?`
+char_non: `{n}......That was probably for the best.`
+char_kan: `"............The crowds are unpleasant.`
+char_kan: ` ...What in the world do they want?"`
+char_non: `Several female students kept glancing at me.`
+char_non: `It seemed they were all whispering the same sort of things that Milady's school friends had said, and it was really unpleasant.`
+char_non: `Come to think of it, didn't Shannon warn me?`
+char_non: `......That if I was going to walk around a school festival on my own,`
+char_non: ` I had better watch out because a lot of strange people would come and talk to me.`
+char_non: `"He‐hello~, are you by yourself?"`
+char_non: `Just as expected, a group of girls I'd never met started talking to me.`
+char_non: `{n}Their stares started to make my back tingle.`
+char_non: `......Didn't she tell me some magic words that could chase them off in times like this?`
+char_non: ` ...Ummm.`
+char_kan: `"......Sorry.`
+char_kan: ` I'm with someone."`
+char_non: `"Uh, oh, really...?!`
+char_non: ` I, I'm sorry!"`
+char_non: `Ah, it worked.`
+char_non: ` Instant reaction...`
+char_non: `Well, that got them to go away, but it hasn't really changed the number of people staring at me.`
+char_non: `"No, it's that kid, Jessie's boyfriend!!"`
+char_non: `"No way?!`
+char_non: ` That kid?!"`
+char_non: `"I can't believe it, I was sure he was fake!"`
+char_non: `"He's so cuuute, is he younger than her?!`
+char_non: ` I'm so jealous!!"`
+char_kan: `"...............haah."`
+char_non: `...No way I'm ever coming to a place like this again.`
+char_non: ` Kanon sighed for about the hundredth time that day.`
+char_non: `As he did, the lighting changed, and the standing audience started cheering.`
+char_non: `Looking around, I realized that there were suddenly a large number of people here.`
+char_non: `{n}And unlike earlier, they were all guys.`
+char_non: `With this huge crowd, I couldn't even see the stage.`
+char_non: ` Fortunately, there was a fallen beer case nearby, so I tried using that as a footstool.`
+char_non: `And I noticed that there was now a new group on the stage.`
+char_non: `The leader was Milady.`
+char_non: ` She had changed into stage clothes, and was even holding a guitar.`
+char_non: ` ......I didn't know she could play.`
+char_non: `No, maybe she could.`
+char_non: `{n}I have seen her practicing air guitar before.`
+char_non: `Natsuhi‐sama wouldn't approve of any hobbies outside of study.`
+char_non: `Maybe she was always practicing in secret.`
+char_non: `...Come to think of it, she's been returning really late from school recently, hasn't she?`
+char_non: `...Maybe she's been practicing at school, far away from Natsuhi‐sama's prying eyes.`
+char_non: `It really is for the best that Natsuhi‐sama didn't come.`
+char_non: ` ...If Milady were to get scolded by Natsuhi‐sama after putting so many hours of practice in, she would probably be very dejected...`
+char_non: `"""Jessie‐samaaaaaaaaaaaaaaa!!"""`
+char_jes: `"Everyone, thanks for gathering here todaaaayyyyyyyy!!"`
+char_non: `I could hear Jessica‐sama's forceful voice through the speakers.`
+char_non: `...Jessie‐sama?`
+char_non: ` Maybe that's her nickname at school.`
+char_non: `The students in the audience kept calling out that name.`
+char_non: `{n}...I was a little aggravated by that inferior name, which was inappropriate for Milady.`
+char_non: `Jessica‐sama was in great spirits as they kept calling her Jessie‐sama.`
+char_non: `...They were all probably her fans.`
+char_non: `{n}With her mike performance, she was responding to that and firing the place up.`
+char_non: `{n}...It was almost like a song program on TV.`
+char_non: `............At first, I had thought all this was frivolous, but that feeling now changed into appreciation—this was pretty incredible in its own way.`
+char_non: `Kanon had never listened to music of his own free will, but he had often heard the kind of music that the people of the Ushiromiya family liked.`
+char_non: `...Since that was almost all classical music, Kanon had naturally started liking classical music too.`
+char_non: `...So to Kanon, the songs Jessica and the others were singing were...how should you say it...`
+char_non: `.........very modern.`
+char_non: `In any case, he thought that if Natsuhi‐sama heard it, she would probably faint.`
+char_non: `But everyone looked like they were having a really good time.`
+char_non: `The die‐hard fans, who had even brought pen‐lights, sang along,`
+char_non: ` dancing crazily with the exact same movements, almost as though it had been planned ahead.`
+char_non: `On the stage, Jessica‐sama also sang enthusiastically, dripping with sweat.`
+char_non: `.........He couldn't find a single element that was appropriate for a daughter of the Ushiromiya family,`
+char_non: ` ...but it looked like she was having a lot of fun.`
+char_non: `"""Jessie‐samaaaaaaaa!!`
+char_non: ` Jessiiiiie, Jessiiiiiiiiiiie!!!"""`
+char_jes: `"Thank you!! OK, next up, we've got a brand new one for you! Don't Call Me An Ordinary Magician!!"`
+char_non: `...I couldn't keep up with the atmosphere, but...`
+char_non: `......anyway, Milady was full of life and looked like she was having a great time.`
+char_non: `As I looked at Milady having a great time, I thought...`
+char_non: `Isn't this what Ushiromiya Jessica is really like?`
+char_non: `...Don't I know better than anyone just how badly life on Rokkenjima kills your own sense of self?`
+char_non: `Then the time she spends, ...not as Milady, the successor to the Ushiromiya family,`
+char_non: ` but as a single girl called Jessica, living life to the fullest, must be very important to her.`
+char_non: `...I worked close to Milady, saw her in all seasons, and I thought I knew everything about her.`
+char_non: `...But that was only a single limited side of her, Milady of Rokkenjima.`
+char_non: `......We are furniture.`
+char_non: `{n}We serve on Rokkenjima, and end our lives on Rokkenjima.`
+char_non: `...So I had come to think that Rokkenjima itself was our whole world, as though—just like in the old geocentric theories—`
+char_non: `the ocean spilled off the end of the world into an abyss.`
+char_non: `But as I looked at Milady like this, I realized that this was a horribly narrow outlook.`
+char_non: `...I still couldn't keep up with the excitement of the crowd.`
+char_non: `...But I felt like I had seen something that "cannot be {y:1:‘seen’}{n:1:seen}" on Rokkenjima.`
+char_non: `.........Although I don't know if that was the {y:1:‘unseeable’}{n:1:unseeable} thing Shannon was talking about.`
+char_non: `I still can't see the ocean as blue...`
+char_cla: `"Wasn't today the cultural festival at Jessica's school?`
+char_cla: ` ...Has the principal been doing well?"`
+char_nat: `"...Yes, he seemed to be in good health.`
+char_nat: ` Oh, that's right, Ms. Takamiya was also there.`
+char_nat: ` She was particularly insistent that I give you her regards."`
+char_cla: `"Hmm, busy as usual?"`
+char_nat: `"It appeared so.`
+char_nat: ` She is a very energetic person.`
+char_nat: ` Oh, yes, there was also President Enomoto."`
+char_non: `Naturally, the topic of Jessica's cultural festival came up at dinner.`
+char_non: `School events often became social gatherings for influential people.`
+char_non: `{n}It was the same for the Ushiromiya family, who were big names around this area.`
+char_non: `As Natsuhi remembered the names of the important people at the social, she updated Krauss on the news concerning them.`
+char_non: `...Jessica didn't really have any interest in that discussion, and rudely slurped her pumpkin soup.`
+char_gen: `"......Milady.`
+char_gen: ` I would hesitate to call those appropriate manners."`
+char_jes: `"............Yeah yeah, sorry 'bout that."`
+char_nat: `"Jessica.`
+char_nat: ` I am always telling you to do something about your speech."`
+char_jes: `"......Yes."`
+char_non: `Jessica answered, discouraged.`
+char_non: `{n}When he saw that, Krauss smiled a little and interrupted his conversation with Natsuhi.`
+char_cla: `"How was the festival for you, Jessica?"`
+char_jes: `"Huh?`
+char_jes: ` Ah,`
+char_jes: ` ......well, okay!"`
+char_nat: `"I was watching.`
+char_nat: ` You did a good job."`
+char_jes: `"Huh, ......huh?!`
+char_jes: ` Ah, ......ahahahaha, y‐yeah, I guess!"`
+char_non: `Jessica's face turned bright red.`
+char_non: `...She probably hadn't thought that Natsuhi would actually come to see her on the stage.`
+char_non: `She felt a mix of happiness and embarrassment.`
+char_non: `Actually, she hadn't wanted her mother to watch because she didn't want to be told that her music was inappropriate for the Ushiromiya family.`
+char_non: `......But it wasn't as though it didn't make her happy to hear her parent say that she did a good job after watching her try her best...`
+char_nat: `"You appeared with both composure and dignity.`
+char_nat: ` Fitting behavior for the students' representative."`
+char_jes: `"...ah,`
+char_jes: ` ............oh,`
+char_jes: ` ...yeah."`
+char_non: `The smile that had been there a second ago crumbled like sand.`
+char_non: `{n}...Jessica immediately realized that she was talking about something different.`
+char_non: `Jessica was also the school's student president.`
+char_non: `...She had no interest in something so annoying, but her parents had been pushy so she had grudgingly accepted.`
+char_non: `Unfortunately, she was popular in school, so she had won the election easily.`
+char_non: `So Natsuhi was praising her for the ceremony organized by the student council at the beginning of the cultural festival.`
+char_non: `Actually, she had just carried that out halfheartedly.`
+char_non: `{n}She had immediately met up with her friends, and had held a stage rehearsal for the rest of the time...`
+char_cla: `"The experience of standing above people and bearing responsibility will definitely be useful in the future.`
+char_cla: ` It will surely help you mature as a member of the Ushiromiya family."`
+char_nat: `"But you spoke the greeting a little quickly.`
+char_nat: ` You passed on content, but your fast style of speech dilutes it.`
+char_nat: ` It would be good if you developed a habit of taking a breath every once in a while."`
+char_jes: `"............yeah."`
+char_non: `After she finished eating, Jessica didn't feel like going straight to her room.`
+char_non: `You could say that her room was the place where her parents had specified for her to be.`
+char_non: `So maybe you could say that, for Jessica,`
+char_non: ` choosing not to return to her own room and instead disappearing to an unknown location in this large mansion was a meager form of resistance...`
+char_non: `Jessica felt that even being in the mansion made it hard to breathe, so she went outside to the rose garden.`
+char_jes: `"...............`
+char_jes: ` ...Well, even if she had come, she'd just have said something about how it wasn't appropriate for the successor to the Ushiromiya family anyway.`
+char_jes: ` ...So what the hell's my problem.`
+char_jes: ` Ahahahahahaha."`
+char_non: `Jessica laughed at what she was sulking over.`
+char_non: `...Laughed at what kind of words she would have had to receive to be satisfied.`
+char_non: `......Ridiculous.`
+char_non: ` In the end, I'm just a spoiled little kid.`
+char_non: `{n}I can't believe myself—it's almost funny.`
+char_kan: `"......Milady."`
+char_jes: `"wah!—Kanon‐kun...`
+char_jes: ` D‐don't scare me like that, hahaha...!`
+char_jes: ` *cough*cough*!"`
+char_non: `Kanon had suddenly started talking to her just as she had tried to force a laugh, so she choked.`
+char_jes: `"What?`
+char_jes: ` Something to say...?"`
+char_kan: `".....................`
+char_kan: `umm."`
+char_jes: `"......Yeah?"`
+char_non: `Jessica's expression had become the one Kanon always saw.`
+char_non: `{n}The listless Jessica from a second ago was gone.`
+char_non: `If he still only knew Jessica as the successor to the Ushiromiya family, as he did until today,`
+char_non: ` ...he would have mistakenly thought that Jessica's mood had sprung back to normal.`
+char_non: `......But that was wrong.`
+char_non: `He now knew a part of her that he could not {y:1:‘see’}{n:1:see} until today, so he understood that there was no way that, on the inside, Jessica was just as she appeared.`
+char_jes: `"Ah... About today's cultural festival...`
+char_jes: ` ...Well, thanks for coming with me so I could show off.`
+char_jes: ` You really helped."`
+char_kan: `"......Your singing.`
+char_kan: ` ...It was good."`
+char_jes: `"Wha?!`
+char_jes: ` ......Ah,`
+char_jes: ` .........ahahahahahaha?!`
+char_jes: ` Re‐really? I'm embarrassed..."`
+char_non: `Even though she had heard the words she had most wanted to hear,`
+char_non: ` ...Jessica became shy, and couldn't accept them frankly.`
+char_kan: `"......I cannot sing.`
+char_kan: ` And I don't know how to play any instruments other than the harmonica and the recorder, which I learned in elementary school.`
+char_kan: ` ...So I had just assumed that you were the same, Milady."`
+char_non: `...Kanon hadn't been consciously looking down on Jessica to that degree.`
+char_non: `But people playing unique instruments were always on the other side of the Braun tubes in the TV.`
+char_non: `...He had got it into his head that it would be impossible for Jessica, at least.`
+char_kan: `"...I am furniture.`
+char_kan: ` ...So I didn't believe there was any need to sing or play instruments."`
+char_non: `But...`
+char_non: `...I'm not sure anymore.`
+char_jes: `"......Kanon‐kun,`
+char_jes: ` seriously, enough with that phrase "I am furniture"...`
+char_jes: ` That's some kind of servant's mentality, right...?`
+char_jes: ` That "servants should be living furniture" thing.`
+char_jes: ` ...Genji‐san says it a lot."`
+char_kan: `"It isn't a mentality......`
+char_kan: ` ...We really are...furniture."`
+char_jes: `"I know the kids from the Gospel House...receive assistance from Grandfather in various ways...`
+char_jes: `and I realize you feel gratitude for that."`
+char_jes: `"......But that doesn't mean...you should call yourself furniture.`
+char_jes: ` Aren't you a human like us?"`
+char_kan: `"........................"`
+char_jes: `"Kanon‐kun, when you saw me singing, ...what did you think?"`
+char_kan: `"......It looked like you were having a lot of fun."`
+char_jes: `"That's probably not it."`
+char_kan: `"......Huh?"`
+char_jes: `"It wasn't that I looked like I was having fun,`
+char_jes: ` ...you were jealous, weren't you?"`
+char_kan: `"...............`
+char_kan: ` I......"`
+char_non: `Even Kanon himself probably hadn't noticed that emotion.`
+char_non: `{n}......Kanon had seen something he had never seen before, never known of before...and had probably become jealous.`
+char_non: `And to trick himself about that emotion, he had called himself furniture over and over...`
+char_jes: `"I know I'm the successor to the Ushiromiya family or something,`
+char_jes: ` ......and, well, I'm sure there'll be a lot of annoying stuff to do in the future too.`
+char_jes: ` As far as that goes, I've just gotta resign myself to it—I was born under an unlucky star."`
+char_jes: `"...Probably, just like you had to live at the Gospel House, neither of us have a choice.`
+char_jes: ` We couldn't choose the stars we were born under."`
+char_kan: `"...............That may be true."`
+char_jes: `"But there's one part where you and me are completely different.`
+char_jes: ` ...Know what that is?"`
+char_non: `I am furniture, and you are not.`
+char_non: `{n}......He was about to say that, but stopped.`
+char_kan: `"...I don't know."`
+char_jes: `"Kanon‐kun, you think that your own fate is everything about you, and you gave up.`
+char_jes: ` I can't accept this kind of fate, so I decided to do the best I can."`
+char_jes: `"......So as well as my normal constrained self who has to act as the daughter of the Ushiromiya family,`
+char_jes: ` I've created another self who pours all her heart into the things she likes."`
+char_kan: `".........Another...self."`
+char_jes: `"Yeah.`
+char_jes: ` ......Kanon‐kun, you've been telling yourself "I am furniture".`
+char_jes: ` ......I'm sure there's been many tough things that have forced you to tell yourself that."`
+char_jes: `"...I think that's...`
+char_jes: `...really unfortunate.`
+char_jes: ` .........But for that to determine your entire life, that feels so sad to me."`
+char_kan: `"................................."`
+char_jes: `"You know, people can always make another self inside themselves that they can really grow to like.`
+char_jes: ` This isn't escaping from reality, okay?`
+char_jes: ` ......When I'm that other part of myself, I can really feel like I'm living a great life."`
+char_jes: `"So no matter how constrained and boring everyday life is, I can definitely live without suffocating."`
+char_kan: `"......To make...`
+char_kan: `...another self that you can really grow to like...`
+char_kan: `inside yourself..."`
+char_non: `To make another me, which isn't furniture...`
+char_non: `Through her relationship with George‐sama, has Shannon given birth to a part of herself that isn't furniture?`
+char_non: `......And did this other Shannon...see something that cannot be {y:1:‘seen’}{n:1:seen} by furniture?`
+char_jes: `"Yeah.`
+char_jes: ` .........Well, I don't know anything about your private life, Kanon‐kun.`
+char_jes: ` But, ...I can sorta guess.`
+char_jes: ` Your private life is...probably...nothing at all.`
+char_jes: ` Bulls‐eye...?"`
+char_non: `Kanon couldn't reply, but that was answer enough.`
+char_non: `He had no concept of a private life.`
+char_non: `So Kanon would always be Kanon.`
+char_non: `{n}So furniture would always be furniture.`
+char_jes: `"......Kanon‐kun, that "Kanon" isn't your real name, right?"`
+char_non: `The Gospel House gave new students new families and a new life, so it also made a point of giving each of them a new name.`
+char_non: `......In his case, that was "Kanon".`
+char_kan: `".........Certainly, ......that name of mine may be a temporary thing."`
+char_non: `He had thought that he wasn't anyone other than Kanon.`
+char_non: `......But he remembered.`
+char_non: `{n}...There definitely had been a part of himself that wasn't Kanon.`
+char_non: `{n}But that was far, far away, beyond the distant fog of oblivion...`
+char_jes: `"So even for you, it should be alright to have times when you're Kanon‐kun, and times when you aren't.`
+char_jes: ` ......Maybe the Kanon‐kun you are when you act as a servant calls himself furniture and strictly limits his own will."`
+char_jes: `"......But when you aren't Kanon‐kun, I think it's alright to live much, much more freely."`
+char_non: `Those words definitely weren't just lip‐service.`
+char_non: `Jessica had also been like this in the past.`
+char_non: `{n}She had cursed her own birth into an environment different from all of her friends at school.`
+char_non: `She had been the only one in a heavily constricted environment, forced to learn various things,`
+char_non: ` and she had even received words about the friends she played with.`
+char_non: `......Though she had been sad about that, she had given up, thinking that she had just been born under that kind of star.`
+char_non: `But one day, Jessica had stopped giving up and surrendering.`
+char_non: `Stuff like the Ushiromiya family customs and pressure, those didn't matter.`
+char_non: `She created a real "Jessica" inside herself, who could do what she really wanted to do.`
+char_jes: `"You know, I'm called by this nickname Jessie in school.`
+char_jes: ` So when I'm Jessie, I live life honestly and to the fullest.`
+char_jes: ` And because of that, I can do my best when I'm Jessica too."`
+char_jes: `"...Maybe you too could have times when you're Kanon,`
+char_jes: ` and times when you're, umm,`
+char_jes: ` ......your real name, and live a different way in each.`
+char_jes: ` ......When you aren't Kanon, ...can't you try being another self who you can grow to like?"`
+char_kan: `"..................When...I am not Kanon."`
+char_non: `He had thought that his real name didn't matter at all.`
+char_non: `{n}So he had thought Kanon was all he was.`
+char_non: `And now Jessica was saying that he should create a new existence, another self that wasn't Kanon.`
+char_jes: `"......Kanon‐kun,`
+char_jes: ` if you don't mind, tell me.`
+char_jes: ` ......What's your...real name?"`
+char_kan: `"................................."`
+char_non: `He was silent for quite some time.`
+char_non: `Maybe his real name had risen to the tip of his tongue.`
+char_non: `...After hesitating for a long time over whether he should say it,`
+char_non: ` ...in the end,`
+char_non: ` ...he swallowed it back down.`
+char_kan: `"......I forgot.`
+char_kan: ` ...My name doesn't matter anymore."`
+char_non: `Those words signified a slight rejection.`
+char_kan: `"No matter what kind of real name I had,`
+char_kan: ` ......the only truth now is that here, I am Kanon.`
+char_kan: ` The past has nothing to do with anything.`
+char_kan: ` ......Just as it does not matter the name of the tree from whose trunk a piece of furniture was originally made."`
+char_jes: `"......I said stop that!`
+char_jes: ` You aren't furniture, you're human, you know?!"`
+char_kan: `"I am not human!"`
+char_non: `Kanon clearly spoke his refusal.`
+char_non: `{n}......It was with a rage that he normally didn't show.`
+char_non: `Jessica couldn't say anything back, and was struck silent...`
+char_kan: `"...You are human, Milady.`
+char_kan: ` So you are free to live any way you like,`
+char_kan: ` and any kind of future is possible for you.`
+char_kan: ` It's almost like you have wings and can dance through the sky like a bird."`
+char_kan: `"But I am not like that.`
+char_kan: ` Even if you see me as a bird, I am nothing more than a domestic duck.`
+char_kan: ` ......They may have wings, but they cannot fly."`
+char_kan: `"To speak of that dream of flight despite that,`
+char_kan: ` ......that's just...`
+char_kan: `too cruel...!"`
+char_jes: `"...Furniture, ducks!!`
+char_jes: ` What the hell is all this!!`
+char_jes: ` ............No, ..."`
+char_non: `Jessica had unconsciously gone along with Kanon's forceful manner of speaking, but she realized that she shouldn't fire back, and swallowed her words.`
+char_jes: `"...............I don't know anything about you.`
+char_jes: ` I don't even know your upbringing, and I don't know the hardships you've been through.`
+char_jes: ` ...So I can't even imagine why you started calling yourself furniture."`
+char_jes: `"......But know this.`
+char_jes: ` You aren't furniture or a duck.`
+char_jes: ` You're a real human."`
+char_kan: `"................................."`
+char_jes: `"If you want to say that the Kanon‐kun working as a servant is furniture, that's alright.`
+char_jes: ` ......But, ...in that case,`
+char_jes: ` ......don't you think you can make another self for when you aren't furniture, when you're human?"`
+char_kan: `"......Only a human like you can embrace that possibility.`
+char_kan: ` ...I am not like that.`
+char_kan: ` I have no future, no possibilities, and no dreams I am permitted to see."`
+char_kan: `"............So, Milady.`
+char_kan: ` Please don't...`
+char_kan: `say any more...`
+char_kan: `....cruel things......"`
+char_jes: `"Why...`
+char_jes: ` Why......are you saying that..."`
+char_kan: `"Because it seems that you are mistaking me for...a human just like you, Milady.`
+char_kan: ` We are different beings.`
+char_kan: ` I just wanted to make that clear."`
+char_kan: `"......I heard from Shannon.`
+char_kan: ` Something about you taking a liking to me."`
+char_jes: `"Huh, ......huh?!`
+char_jes: ` Ah, .........no, wahaha..."`
+char_kan: `"...I look almost identical to a human.`
+char_kan: ` Therefore, .........like Shannon, maybe I could delude myself that I am human, and for a time, pretend to love."`
+char_kan: `"...But that would surely be fooling myself.`
+char_kan: ` No, it would also be fooling you, Milady.`
+char_kan: ` Shannon and George‐sama will definitely fall apart.`
+char_kan: ` ...Shannon herself must understand that day will come, and yet she does this...stupid..."`
+char_jes: `"There, ......there's nothing stupid about it!!`
+char_jes: ` Sure, George nii‐san's a brilliant person, and he's bearing both of his parents' expectations."`
+char_jes: `"...And yeah, when it comes to marriage, I'm sure Auntie Eva's gonna interfere in a bunch of ways, and, umm, I think they've got a really tough road ahead of them, alright?!`
+char_jes: ` ...But you know, George nii‐san isn't the kind of guy who'll surrender to all that!`
+char_jes: ` He won't turn Shannon into Juliet, he'll definitely make her happy!!"`
+char_kan: `"People and furniture cannot love one another.`
+char_kan: ` ...I am trying to say that even if you can love furniture, I cannot love you, Milady."`
+char_jes: `"..................nn—"`
+char_non: `Those words of Kanon's......crushed all of Jessica's bittersweet feelings from today.`
+char_non: `There was no way she could have anticipated the emotions of such a blunt rejection...`
+char_non: `In an instant, she lost the willpower that had caused her to try and unravel something stubborn in Kanon's heart,`
+char_non: ` ...and before she knew it, she was just standing there in shock...`
+char_kan: `"......Milady, if your feelings for me are due to my conceit, then I beg for your forgiveness."`
+char_jes: `"...N‐......no.`
+char_jes: ` ...Well, uh, ...I won't deny it."`
+char_kan: `"......Thank you very much."`
+char_jes: `"Huh...?"`
+char_kan: `"For thinking of me as a human,`
+char_kan: ` ...thank you very much.`
+char_kan: ` Just those feelings truly make me happy.`
+char_kan: ` ......And anything more would be too cruel, so..."`
+char_jes: `"No, tha‐...that's enough.`
+char_jes: ` ...Umm,`
+char_jes: ` .........sorry."`
+char_non: `Jessica scratched at her head as she spoke, and tried to force her voice to sound bright.`
+char_jes: `"......I just kinda...`
+char_jes: `...ran on ahead by myself,`
+char_jes: ` ...and caused you trouble.`
+char_jes: ` ...I'm honestly sorry.`
+char_jes: ` I'm really sorry...for using up your whole day off."`
+char_kan: `"No.`
+char_kan: ` ......I was also...happy that I could see you having fun."`
+char_jes: `"...Then, let's be done for the night.`
+char_jes: ` ......If I don't go back to my room and turn off the lights, Mom will get mad at me again.`
+char_jes: ` ...Hahaha."`
+char_kan: `"That would probably be most appropriate.`
+char_kan: ` ...I wish you a good night, Milady."`
+char_jes: `"......Yeah.`
+char_jes: ` ............Good night........."`
+char_non: `Jessica turned her back to him, and slowly trodded away, looking disheartened.`
+char_non: `But suddenly, she started dashing pell‐mell, and disappeared in the direction of the mansion...`
+char_non: `As he watched her go, ...for just an instant,`
+char_non: ` Kanon was tormented by the feeling that he had just made a huge mistake.`
+char_non: `...But, no, he thought, this had not been a mistake at all.`
+char_non: `......It was for her sake that he'd been forced to refuse her now, while her pain was still at its smallest.`
+char_bea: `"............Nice going, making a woman cry like that.`
+char_bea: ` *cackle*cackle*.`
+char_bea: ` I didn't expect you to refuse her that strongly.`
+char_bea: ` ......Had you answered normally, another pair of lovers would have been born with my magic."`
+char_kan: `"How long have you been there...?`
+char_kan: ` .........You're just horrible."`
+char_non: `When he turned around, the witch was suddenly there.`
+char_non: `{n}...It looked like she had been there the whole time, enjoying their performance as if it were a play.`
+char_bea: `"I shall forgive your reckless words towards me just this once in deference to that pleasant show.`
+char_bea: ` ......Even after one thousand years, no more interesting show exists than complications between men and women.`
+char_bea: ` To me, it's an addictive pleasure sweeter than any other.`
+char_bea: ` ......nn?"`
+char_non: `Kanon pulled that butterfly brooch out of his pocket.`
+char_non: `{n}It was the crystallization of the great magic that the witch had bestowed.`
+char_non: `Without hesitation, Kanon flung it hard onto the ground and stomped on it.`
+char_bea: `"......Hoh?`
+char_bea: ` What is the meaning of this, when you know that was something given by me?"`
+char_kan: `"Just now, I figured it out.`
+char_kan: ` ......What you are doing isn't as tasteful as being a cupid of love.`
+char_kan: ` You are just a demon who enjoys showing love to those who can never be joined, and deceiving them."`
+char_bea: `"...............Hmph.`
+char_bea: ` ...You are free to think that.`
+char_bea: ` Most humans I have lent my power to have said the same thing."`
+char_kan: `"Don't play dumb!!`
+char_kan: ` You didn't lend Shannon your power because you felt sorry for her.`
+char_kan: ` ...You took advantage of a weak point in Shannon's heart as it burned with love, and made her break the mirror that sealed you.`
+char_kan: ` And that's not all,`
+char_kan: ` ...you're toying with her, when you know very well how it's all going to end!`
+char_kan: ` Am I wrong?!"`
+char_bea: `"Hehheheheheh, *cackle*!`
+char_bea: ` Furniture is a thoroughly pitiful existence.`
+char_bea: ` So you have no dreams, no future, and even no love?`
+char_bea: ` Good, good, there is nothing better than knowing your place.`
+char_bea: ` *cackle*cackle*!"`
+char_kan: `".........khh..."`
+char_bea: `"Just as you suspected, there was a faint love growing in Jessica's heart.`
+char_bea: ` You are under the impression that you have snipped it out, harvested it."`
+char_bea: `"......But did you know?`
+char_bea: ` Trees grow thicker branches if you thin them out, instead of letting them grow rampant. ......A girl who loves furniture, interesting, truly interesting!`
+char_bea: ` Shannon and George will also eventually reach a stalemate with their unfulfillable love, and will bear just the kind of large fruit I like."`
+char_bea: `"However, to my regret, they've been getting on so well that it just isn't interesting, you see?`
+char_bea: ` In that respect, I think you two shall entertain me greatly, *cackle*cackle*!"`
+char_non: `The witch laughed.`
+char_non: ` Even though she had known that the two could not be joined, she had lent magic to join them together.`
+char_non: `However, they couldn't escape the fate that made it impossible for them to be joined.`
+char_non: `......The witch knew that.`
+char_non: `Even if they were joined, the relationships of Shannon and George, Kanon and Jessica would fail for certain,`
+char_non: ` and as they wandered through the eternal desert in the hell of love, they would be tormented by eternal thirst...!`
+char_bea: `"Did you think I would lend them that power without any compensation?`
+char_bea: ` I'll lend a hand in love.`
+char_bea: ` And my compensation shall be one ticket to watch the cruel fate that the two of them will eventually meet.`
+char_bea: ` Even after one thousand years, no better show exists...!"`
+char_bea: `"Just look at Kinzo.`
+char_bea: ` See how he ended up, an old, pitiful man who knew the taste of love and was thrown out of Paradise!`
+char_bea: ` Look at how he lives, like a dead man who can't fully die.`
+char_bea: ` *cackle*cackle*!!"`
+char_kan: `"You really are a witch.`
+char_kan: ` Get out of my sight, you demon...!!"`
+char_bea: `"......I shall disappear regardless.`
+char_bea: ` My power still hasn't returned, you see.`
+char_bea: ` It is still tiring to continue showing myself."`
+char_bea: `"......I overdid it when I gave you lovers my power.`
+char_bea: ` ...As I am now, it will not be easy to maintain that power without that brooch as a catalyst."`
+char_non: `Kanon ground his foot even more into the stomped brooch.`
+char_non: `{n}He felt it break under his foot.`
+char_non: `Then, it dissolved as if into water,`
+char_non: ` and changed into butterflies that sparkled gold, which fluttered away from beneath Kanon's foot...`
+char_bea: `"I also find it a little difficult to continue preserving this form.`
+char_bea: ` As you ask, I will hide myself for a brief period.`
+char_bea: ` Just as there is no tide that does not rise, and no moon that does not wax, my magical power will surely become whole again.`
+char_bea: ` ...And there will surely come a time that is appropriate for my revival."`
+char_bea: `"......I cannot imagine whether that will be tomorrow, next year, or even one hundred or one thousand years in the future.`
+char_bea: ` But as long as there are those that entertain me, I will surely gain power and revive.`
+char_bea: ` ......I will disappear for a short while, until that time comes."`
+char_bea: `"The bruise on the palm of your hand is already gone,`
+char_bea: ` so if you wish, tomorrow morning, you can let my existence disappear like an illusion or a dream.`
+char_bea: ` ......There is nothing more saddening for me than to be forgotten."`
+char_bea: `"However, I will definitely be revived.`
+char_bea: ` Make sure that you won't regret that day's coming at any time.`
+char_bea: ` I will surely have my second coming and control everything as this island's true master.`
+char_bea: ` ...And at that time, the door to the Golden Land will be opened again.`
+char_bea: ` ...The covetous and the greedy shall call me forth without fail...!"`
+char_kan: `"...Enough!!`
+char_kan: ` Disappear, now, Golden Witch...!!"`
+char_non: `Leaving behind a mocking laugh, the witch turned into a flight of gold butterflies, and scattered away.`
+char_non: `...The whole area sparkled like a gold blizzard in a snow globe.`
+char_non: `It was a fleeting fantastical scene that disappeared in a heartbeat...`
+char_non: `The witch could no longer be seen.`
+char_non: ` ...However, Kanon felt like he could still hear that shrill, unpleasant laugh...`
+char_bea: `......Aahh, how entertaining, how entertaining.`
+char_bea: `{n}`
+char_bea: `Why is the human world so entertaining after such a long absence?!`
+char_bea: `Go insane with love. Go insane with gold.`
+char_bea: `{n}`
+char_bea: `Those that don't go insane from those are not human!`
+char_bea: `I see, then the word furniture is fitting indeed, *cackle*cackle*!`
+char_bea: `Furniture is created to serve humans.`
+char_bea: `{n}`
+char_bea: `And I toy with and tyrannize those humans to ease my thousand years of boredom.`
+char_bea: `{n}`
+char_bea: `What a truly entertaining rock‐paper‐scissors situation, that I cannot control furniture!`
+char_bea: `Kinzo, your enterprises are truly interesting!`
+char_bea: `{n}`
+char_bea: `Furniture, try and see if you can hunt me...!`
+char_bea: `Tonight, two seeds of love have been sown.`
+char_bea: `{n}`
+char_bea: `...Including the one already sown, that makes three!`
+char_kin: `"{f:5:Beatrice}...`
+char_kin: ` Why...did you leave me alone in this painful world...?`
+char_kin: ` ......I detest you.`
+char_kin: ` You are yearned after this much, and yet make no attempt to answer... I will detest you for all eternity!"`
+char_gen: `"My lord, drinking any more will be damaging to your health.`
+char_gen: ` ...Haven't you also been warned by Doctor Nanjo?"`
+char_kin: `"Be silent, Genji!!`
+char_kin: ` You do not understand, you do not understand my grief and sadness!`
+char_kin: ` Even though I believed that as my oldest friend, at least you would understand my pain!!`
+char_kin: ` Why is it so incomprehensible to you?!"`
+char_kin: `"Oooooohhh, {f:5:Beatriceeee},`
+char_kin: ` why did you leave me alooooone......?!!"`
+char_gen: `"..........................."`
+char_jes: `"Uuuuughhu!`
+char_jes: ` Hic, hic...!`
+char_jes: ` What the hell is all that furniture stuff?!`
+char_jes: ` What is all that crap...!`
+char_jes: ` Uuuuuuuuuughhu!!"`
+char_kum: `"......Ohhh, how heartrending, Jessica‐sama.`
+char_kum: ` ...Even though her crying voice that I can hear from her room tells me of the situation, there is nothing I can do."`
+char_kum: `"...This is all a tragedy due to people who are too young getting too close, when the positions of their birth are too distant.`
+char_kum: ` ...I can do nothing but understand Milady's feelings, and walk away quietly with silent feet..."`
+char_sha: `"...Umm,`
+char_sha: ` ...wh‐`
+char_sha: `what...`
+char_sha: `......do you mean by that,`
+char_sha: ` George‐san...?"`
+char_geo: `"I mean what I said.`
+char_geo: ` ......I still haven't built up my castle.`
+char_geo: ` Once I have, I will be able to think of myself as an adult for the first time.`
+char_geo: ` ......When that happens, I want to marry you."`
+char_sha: `"......Tha‐`
+char_sha: `...that's, umm,`
+char_sha: ` ......err..."`
+char_geo: `"But,`
+char_geo: ` my heart won't let me do just that anymore.`
+char_geo: ` ......So I want to give you an engagement ring."`
+char_sha: `"En‐...engagement...`
+char_sha: `...you say...`
+char_sha: ` But, umm,`
+char_sha: ` ......I'm...`
+char_sha: ` ......f‐`
+char_sha: `............furniture........."`
+char_geo: `"That's right.`
+char_geo: ` And furniture has to listen to what people say."`
+char_geo: `"...I am currently having a ring made that's worthy to be a gift for you.`
+char_geo: ` I think I'll probably be able to bring it to the family conference coming up soon.`
+char_geo: ` I'll give it to you then, so please, I want you to let me hear your answer."`
+char_geo: `"......If you accept my engagement proposal,`
+char_geo: ` I will proclaim right there, to all of the relatives, including Grandfather, my engagement to you."`
+char_sha: `"Geor‐......George‐san............"`
+char_geo: `"I'm sure some people won't approve of our relationship.`
+char_geo: ` ...But there's no need to look at their faces.`
+char_geo: ` ...Because you only have to fill your eyes with me."`
+char_geo: `"I will definitely make you happy.`
+char_geo: ` That, I promise you, definitely."`
+char_bea: `I look forward to seeing how it will ripen!`
+char_bea: `The gold butterflies do not swoop upon the juice of overripe and rotting fruit.`
+char_bea: `I cannot wait for the day of harvest to come! Is the time of the banquet here yet?!{n}*cackle*cackle*hahahahahahahahahaha{0}ha{0}ha{0}ha{0}ha{0}ha{0}ha{0}ha{0}ha{0}hahaha...!!`
